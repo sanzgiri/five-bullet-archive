@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-22T20:20:38.822Z",
+  "generated_at": "2026-07-22T20:29:34.839Z",
   "issues": 530,
   "reclassified_non_books": 0,
   "reclassified_non_music": 0,
   "spotify_exact_added": 0,
-  "musicbrainz_resolved": 7,
+  "musicbrainz_resolved": 0,
   "amazon_exact_added": 0,
   "justwatch_exact_added": 0,
   "errors": 13,
-  "amazon_exact_total": 273,
-  "justwatch_exact_total": 141,
+  "amazon_exact_total": 416,
+  "justwatch_exact_total": 142,
   "spotify_exact_total": 185
 }

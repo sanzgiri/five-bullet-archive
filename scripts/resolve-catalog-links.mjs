@@ -27,7 +27,15 @@ const norm = (value = "") => String(value ?? "").toLowerCase().normalize("NFKD")
   .replace(/[^a-z0-9]+/g, " ").trim();
 const slug = (value = "") => norm(value).replace(/\s+/g, "-");
 const cleanCreator = (value = "") => value.split(/,?\s+narrated by/i)[0].trim();
-const hasExact = (bullet, type) => bullet.links.some((link) => link.type === type && !link.search_fallback);
+const serviceDomain = {
+  amazon: /amazon\.com/,
+  justwatch: /justwatch\.com/,
+  spotify_track: /open\.spotify\.com\/(?:track|album)\//,
+  spotify_album: /open\.spotify\.com\/album\//,
+};
+const hasExact = (bullet, type) => bullet.links.some((link) =>
+  !link.search_fallback && (link.type === type || serviceDomain[type]?.test(link.url)),
+);
 
 function addExact(bullet, type, url, metadata) {
   if (bullet.links.some((link) => link.type === type && link.url === url)) return false;
@@ -36,48 +44,76 @@ function addExact(bullet, type, url, metadata) {
 }
 
 function isbn10(isbns = []) {
-  const direct = isbns.find((value) => /^\d{9}[\dX]$/.test(value));
-  if (direct) return direct;
   const isbn13 = isbns.find((value) => /^978\d{10}$/.test(value));
-  if (!isbn13) return null;
-  const stem = isbn13.slice(3, 12);
-  const total = [...stem].reduce((sum, digit, index) => sum + Number(digit) * (10 - index), 0);
-  const check = (11 - total % 11) % 11;
-  return `${stem}${check === 10 ? "X" : check}`;
+  if (isbn13) {
+    const stem = isbn13.slice(3, 12);
+    const total = [...stem].reduce((sum, digit, index) => sum + Number(digit) * (10 - index), 0);
+    const check = (11 - total % 11) % 11;
+    return `${stem}${check === 10 ? "X" : check}`;
+  }
+  return isbns.find((value) => /^\d{9}[\dX]$/.test(value)) ?? null;
+}
+
+function creatorFromNote(note = "") {
+  const patterns = [
+    /(?:authored|written|performed|composed) by\s+\[?([^\]\n(.]{3,80})/i,
+    /(?:collection|book|novel|album|song)\s+(?:of\s+[^.]{0,40}\s+)?by\s+\[?([^\]\n(.]{3,80})/i,
+    /^\s*\(([^)]+)\)\s*(?:--|—)/,
+  ];
+  for (const pattern of patterns) {
+    const value = note.match(pattern)?.[1]?.replace(/\\_/g, "_").trim();
+    if (value) return value;
+  }
+  return null;
 }
 
 async function openLibraryMatch(bullet) {
-  const params = new URLSearchParams({ title: bullet.title, limit: "5", fields: "key,title,author_name,isbn" });
-  const response = await fetch(`https://openlibrary.org/search.json?${params}`, {
-    headers: { "User-Agent": "five-bullet-archive/0.1 (https://github.com/sanzgiri/five-bullet-archive)" },
-    signal: AbortSignal.timeout(15_000),
-  });
+  const inferredCreator = cleanCreator(bullet.creator) || creatorFromNote(bullet.note);
+  const params = new URLSearchParams({ title: bullet.title, limit: "10", fields: "key,title,author_name,isbn,language" });
+  let response;
+  for (let attempt = 0; attempt < 3; attempt += 1) {
+    response = await fetch(`https://openlibrary.org/search.json?${params}`, {
+      headers: { "User-Agent": "five-bullet-archive/0.1 (https://github.com/sanzgiri/five-bullet-archive)" },
+      signal: AbortSignal.timeout(15_000),
+    });
+    if (response.ok || ![429, 503].includes(response.status)) break;
+    await new Promise((resolve) => setTimeout(resolve, 1500 * (attempt + 1)));
+  }
   if (!response.ok) return null;
   const wantedTitle = norm(bullet.title);
-  const wantedCreator = norm(cleanCreator(bullet.creator));
+  const wantedCreator = norm(inferredCreator);
   const docs = (await response.json()).docs ?? [];
   const ranked = docs.map((doc) => {
     const title = norm(doc.title);
     const authors = norm((doc.author_name ?? []).join(" "));
     let score = title === wantedTitle ? 10 : (title.includes(wantedTitle) || wantedTitle.includes(title) ? 5 : 0);
-    if (wantedCreator && authors.includes(wantedCreator)) score += 5;
+    if (wantedCreator && (authors.includes(wantedCreator) || wantedCreator.includes(authors))) score += 5;
+    if ((doc.language ?? []).includes("eng")) score += 1;
+    if ((doc.isbn ?? []).some((value) => /^978/.test(value))) score += 1;
     return { doc, score };
   }).sort((a, b) => b.score - a.score);
-  if (!ranked[0] || ranked[0].score < (wantedCreator ? 14 : 10)) return null;
+  if (!ranked[0] || ranked[0].score < (wantedCreator ? 15 : 11)) return null;
   const id = isbn10(ranked[0].doc.isbn);
   return id ? { id, doc: ranked[0].doc } : null;
 }
 
 async function imdbMatch(bullet) {
-  let query = bullet.title.replace(/\([^)]*(?:TED|HBO|S\d+E\d+)[^)]*\)/gi, "").replace(/^['\"“]|['\"”]$/g, "").trim();
-  if (bullet.category === "tv" && bullet.creator) query = bullet.creator;
-  if (!query || query.length < 2) return null;
-  const key = query.toLowerCase().replace(/[^a-z0-9]+/g, "_");
-  const response = await fetch(`https://v2.sg.media-imdb.com/suggestion/x/${encodeURIComponent(key)}.json`, { signal: AbortSignal.timeout(15_000) });
-  if (!response.ok) return null;
-  const candidates = ((await response.json()).d ?? []).filter((item) => ["movie", "tvSeries", "tvMiniSeries", "tvMovie"].includes(item.qid));
-  const wanted = norm(query);
-  const match = candidates.find((item) => norm(item.l) === wanted);
+  const queries = [bullet.category === "tv" && bullet.creator ? bullet.creator : bullet.title];
+  const episodeOf = bullet.title.match(/episode of\s+(.+?)(?:\s*\(|$)/i)?.[1];
+  const seasonTitle = bullet.title.split(/\s+(?:--|—)\s+Season\b/i)[0];
+  const colonSeries = bullet.note?.match(/episode of\s+(?:the\s+)?\[?([^\].]{3,80})/i)?.[1];
+  for (const value of [episodeOf, seasonTitle !== bullet.title ? seasonTitle : null, colonSeries]) if (value) queries.push(value);
+  let match = null;
+  for (const rawQuery of [...new Set(queries)]) {
+    const query = rawQuery.replace(/\([^)]*(?:TED|HBO|S\d+E\d+)[^)]*\)/gi, "").replace(/^['\"“]|['\"”]$/g, "").trim();
+    if (!query || query.length < 2) continue;
+    const key = query.toLowerCase().replace(/[^a-z0-9]+/g, "_");
+    const response = await fetch(`https://v2.sg.media-imdb.com/suggestion/x/${encodeURIComponent(key)}.json`, { signal: AbortSignal.timeout(15_000) });
+    if (!response.ok) continue;
+    const candidates = ((await response.json()).d ?? []).filter((item) => ["movie", "tvSeries", "tvMiniSeries", "tvMovie"].includes(item.qid));
+    match = candidates.find((item) => norm(item.l) === norm(query));
+    if (match) break;
+  }
   if (!match) return null;
   const kind = match.qid === "movie" || match.qid === "tvMovie" ? "movie" : "tv-show";
   const url = `https://www.justwatch.com/us/${kind}/${slug(match.l)}`;
@@ -94,7 +130,7 @@ async function musicBrainzMatch(bullet) {
   const title = (bullet.creator || dashParts.length < 2 ? bullet.title : dashParts.slice(1).join(" - "))
     .replace(/[“”"]/g, "").replace(/\s+by\s+.+$/i, "").replace(/\s+\(Album\)$/i, "").trim();
   const embeddedArtist = bullet.title.match(/\s+by\s+(.+)$/i)?.[1]?.trim();
-  const artist = cleanCreator(bullet.creator) || embeddedArtist || dashParts[0];
+  const artist = cleanCreator(bullet.creator) || embeddedArtist || creatorFromNote(bullet.note) || dashParts[0];
   if (!title || !artist) return null;
   const query = `recording:"${title.replace(/"/g, "")}" AND artist:"${artist.replace(/"/g, "")}"`;
   const params = new URLSearchParams({ query, fmt: "json", limit: "5" });
@@ -165,7 +201,7 @@ async function consume(queue, resolver, apply) {
 }
 
 await Promise.all([
-  ...Array.from({ length: 4 }, () => consume(bookQueue, openLibraryMatch, (bullet, match) => {
+  ...Array.from({ length: 1 }, () => consume(bookQueue, openLibraryMatch, (bullet, match) => {
     const added = addExact(bullet, "amazon", `https://www.amazon.com/dp/${match.id}`, {
       catalog_match: "openlibrary_exact_title_creator",
       catalog_title: match.doc.title,

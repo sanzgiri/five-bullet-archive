@@ -32,7 +32,7 @@
               "type": "object",
               "required": ["type", "url"],
               "properties": {
-                "type": { "enum": ["original", "spotify_track", "spotify_album", "amazon", "audible", "libby", "worldcat", "justwatch", "streaming", "kanopy", "other"] },
+                "type": { "enum": ["original", "spotify_track", "spotify_album", "musicbrainz", "amazon", "audible", "libby", "worldcat", "justwatch", "streaming", "kanopy", "other"] },
                 "url": { "type": "string", "format": "uri" },
                 "region": { "type": "string" },
                 "availability_checked_at": { "type": "string", "format": "date-time" },

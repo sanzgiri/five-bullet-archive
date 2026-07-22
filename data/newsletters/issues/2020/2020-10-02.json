@@ -44,6 +44,14 @@
           "type": "worldcat",
           "url": "https://search.worldcat.org/search?q=The%20Hitchhiker%E2%80%99s%20Guide%20to%20the%20Galaxy%20Douglas%20Adams%2C%20narrated%20by%20the%20one%20and%20only%20Stephen%20Fry",
           "search_fallback": true
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/1602833060",
+          "catalog_match": "openlibrary_exact_title_creator",
+          "catalog_title": "The Hitchhiker's Guide to the Galaxy",
+          "catalog_creator": "Douglas Adams",
+          "isbn10": "1602833060"
         }
       ]
     },

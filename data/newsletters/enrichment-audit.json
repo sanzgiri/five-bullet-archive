@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T20:20:59.984Z",
+  "generated_at": "2026-07-22T20:29:45.277Z",
   "methodology": {
     "recommendation_coverage": "Eligible recommendations with at least one enrichment destination.",
     "service_slot_coverage": "Covered destination slots divided by all expected category/service combinations.",
@@ -14,14 +14,14 @@
       "percent": 66.7
     },
     "books_to_amazon": {
-      "covered": 108,
+      "covered": 110,
       "eligible": 134,
-      "percent": 80.6
+      "percent": 82.1
     },
     "films_to_justwatch": {
-      "covered": 141,
+      "covered": 142,
       "eligible": 368,
-      "percent": 38.3
+      "percent": 38.6
     }
   },
   "recommendation_coverage": {
@@ -34,10 +34,10 @@
     "covered": 571,
     "missing": 0,
     "percent": 100,
-    "exact_or_resolved": 295,
-    "exact_or_resolved_percent": 51.7,
-    "search_fallback": 276,
-    "search_fallback_percent": 48.3
+    "exact_or_resolved": 298,
+    "exact_or_resolved_percent": 52.2,
+    "search_fallback": 273,
+    "search_fallback_percent": 47.8
   },
   "by_service": {
     "spotify": {
@@ -51,16 +51,16 @@
     "amazon": {
       "eligible": 134,
       "covered": 134,
-      "exact_or_resolved": 108,
-      "search_fallback": 26,
+      "exact_or_resolved": 110,
+      "search_fallback": 24,
       "missing": 0,
       "coverage_percent": 100
     },
     "justwatch": {
       "eligible": 368,
       "covered": 368,
-      "exact_or_resolved": 141,
-      "search_fallback": 227,
+      "exact_or_resolved": 142,
+      "search_fallback": 226,
       "missing": 0,
       "coverage_percent": 100
     }
