@@ -18,7 +18,7 @@ Records marked `extraction_status: "metadata_only"` confirm an issue date but do
 
 Run `npm run archive:enrich` to add portable discovery links by category. Existing direct links are preserved. Music receives Spotify links; books and audiobooks receive Amazon, WorldCat, and resolved Libby title links when a confident public-catalog match is available; films and television receive JustWatch and Kanopy searches. Search fallbacks are explicitly marked with `search_fallback: true`, while Libby links use stable `share.libbyapp.com/title/...` records and retain the participating-library requirement.
 
-Run `npm run archive:audit-enrichment` to regenerate `enrichment-audit.json`. The audit separates recommendation coverage from service-slot coverage and records exact/resolved links, search fallbacks, unresolved destinations, and titleless recommendations excluded from enrichment.
+Run `npm run archive:audit-enrichment` to regenerate `enrichment-audit.json`. The audit treats exact-item mapping coverage as the primary quality metric and excludes generated search fallbacks from it. It also records convenience-link coverage, unresolved destinations, and titleless recommendations excluded from enrichment.
 
 ## Bulk Hotmail extraction
 

@@ -73,6 +73,24 @@ const excludedMissingTitle = bullets
   .filter((bullet) => !bullet.title && enrichedCategories.has(bullet.category))
   .map((bullet) => ({ issue_date: bullet.issue_date, position: bullet.position, category: bullet.category, section: bullet.section }));
 
+function hasExactService(bullet, name) {
+  const service = services[name];
+  return bullet.links.some((link) => matches(link, service) && !link.search_fallback);
+}
+
+const musicRecommendations = eligibleRecommendations.filter((bullet) => bullet.category === "music");
+const bookRecommendations = eligibleRecommendations.filter((bullet) => ["book", "audiobook"].includes(bullet.category));
+const filmRecommendations = eligibleRecommendations.filter((bullet) => ["video", "tv"].includes(bullet.category));
+const mapped = (items, predicate) => items.filter(predicate).length;
+const metric = (covered, eligible) => ({ covered, eligible, percent: Number((covered / eligible * 100).toFixed(1)) });
+const spotifyMapped = mapped(musicRecommendations, (bullet) => hasExactService(bullet, "spotify"));
+const amazonMapped = mapped(bookRecommendations, (bullet) => hasExactService(bullet, "amazon"));
+const libbyMapped = mapped(bookRecommendations, (bullet) => hasExactService(bullet, "libby"));
+const booksBothMapped = mapped(bookRecommendations, (bullet) => hasExactService(bullet, "amazon") && hasExactService(bullet, "libby"));
+const justwatchMapped = mapped(filmRecommendations, (bullet) => hasExactService(bullet, "justwatch"));
+const kanopyMapped = mapped(filmRecommendations, (bullet) => hasExactService(bullet, "kanopy"));
+const filmsBothMapped = mapped(filmRecommendations, (bullet) => hasExactService(bullet, "justwatch") && hasExactService(bullet, "kanopy"));
+
 const report = {
   generated_at: new Date().toISOString(),
   methodology: {
@@ -80,6 +98,16 @@ const report = {
     service_slot_coverage: "Covered destination slots divided by all expected category/service combinations.",
     exact_or_resolved: "A publisher/service URL already present in the source or a catalog-resolved Libby title.",
     search_fallback: "A service search URL generated from the extracted title and creator; useful but not an exact item match.",
+  },
+  exact_item_mapping_coverage: {
+    note: "Search fallbacks are excluded from every metric in this section.",
+    music_to_spotify: metric(spotifyMapped, musicRecommendations.length),
+    books_to_amazon: metric(amazonMapped, bookRecommendations.length),
+    books_to_libby: metric(libbyMapped, bookRecommendations.length),
+    books_to_both_amazon_and_libby: metric(booksBothMapped, bookRecommendations.length),
+    films_to_justwatch: metric(justwatchMapped, filmRecommendations.length),
+    films_to_kanopy: metric(kanopyMapped, filmRecommendations.length),
+    films_to_both_justwatch_and_kanopy: metric(filmsBothMapped, filmRecommendations.length),
   },
   recommendation_coverage: {
     eligible: eligibleRecommendations.length,

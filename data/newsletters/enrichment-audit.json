@@ -1,10 +1,48 @@
 {
-  "generated_at": "2026-07-22T20:00:19.247Z",
+  "generated_at": "2026-07-22T20:07:51.622Z",
   "methodology": {
     "recommendation_coverage": "Eligible recommendations with at least one enrichment destination.",
     "service_slot_coverage": "Covered destination slots divided by all expected category/service combinations.",
     "exact_or_resolved": "A publisher/service URL already present in the source or a catalog-resolved Libby title.",
     "search_fallback": "A service search URL generated from the extracted title and creator; useful but not an exact item match."
+  },
+  "exact_item_mapping_coverage": {
+    "note": "Search fallbacks are excluded from every metric in this section.",
+    "music_to_spotify": {
+      "covered": 42,
+      "eligible": 81,
+      "percent": 51.9
+    },
+    "books_to_amazon": {
+      "covered": 103,
+      "eligible": 155,
+      "percent": 66.5
+    },
+    "books_to_libby": {
+      "covered": 76,
+      "eligible": 155,
+      "percent": 49
+    },
+    "books_to_both_amazon_and_libby": {
+      "covered": 61,
+      "eligible": 155,
+      "percent": 39.4
+    },
+    "films_to_justwatch": {
+      "covered": 0,
+      "eligible": 368,
+      "percent": 0
+    },
+    "films_to_kanopy": {
+      "covered": 0,
+      "eligible": 368,
+      "percent": 0
+    },
+    "films_to_both_justwatch_and_kanopy": {
+      "covered": 0,
+      "eligible": 368,
+      "percent": 0
+    }
   },
   "recommendation_coverage": {
     "eligible": 604,
