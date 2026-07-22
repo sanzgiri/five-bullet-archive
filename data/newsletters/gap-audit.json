@@ -1,0 +1,42 @@
+{
+  "checked_at": "2026-07-21",
+  "timezone": "America/Los_Angeles",
+  "methods": [
+    "Hotmail sender-filtered searches covering each candidate Friday through the following Monday",
+    "Public web searches for exact newsletter name and date",
+    "Milled public email archive searches",
+    "Reddit searches"
+  ],
+  "filled": [
+    {
+      "date": "2022-05-27",
+      "source": "hotmail",
+      "subject": "5-BF — May 27, 2022",
+      "reason_previously_missed": "The shortened 5-BF subject did not match the earlier issue classifier."
+    },
+    {
+      "date": "2022-07-22",
+      "source": "milled",
+      "subject": "5-Bullet Friday — July 22, 2022",
+      "source_url": "https://milled.com/tim-ferriss-show-useful-lessons-from-workaholics-anonymous/5-bullet-friday-july-22-2022-Mp1bGE8o4vCPKAwQ"
+    }
+  ],
+  "unresolved_candidate_dates": [
+    "2016-07-15",
+    "2016-07-22",
+    "2018-01-19",
+    "2018-09-21",
+    "2019-03-15",
+    "2019-03-29",
+    "2019-10-18",
+    "2019-11-29",
+    "2019-12-20",
+    "2020-01-03",
+    "2021-03-19",
+    "2021-10-01",
+    "2021-12-31",
+    "2022-02-11",
+    "2022-03-25"
+  ],
+  "interpretation": "Unresolved dates are publication candidates, not confirmed missing issues. Hotmail contained no qualifying newsletter in those windows, and the public searches performed did not establish that an issue was published."
+}

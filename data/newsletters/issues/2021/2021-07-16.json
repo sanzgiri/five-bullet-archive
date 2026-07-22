@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "issue_date": "2021-07-16",
+  "subject": "5-Bullet Friday — July 16, 2021",
+  "sources": [
+    "gmail",
+    "hotmail"
+  ],
+  "status": "email",
+  "extraction_status": "metadata_only",
+  "special_edition": true,
+  "bullets": []
+}

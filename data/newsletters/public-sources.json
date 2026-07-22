@@ -1,0 +1,31 @@
+{
+  "backfill_target": {
+    "earliest_public_evidence": "2015-07-03",
+    "confidence": "medium",
+    "note": "A July 3, 2015 independent blog post states that Tim Ferriss sent a 5-Bullet Friday to subscribers. Tim's official August 7, 2015 post confirms the newsletter and says it is email-only."
+  },
+  "sources": [
+    {
+      "name": "Tim Ferriss official 5-Bullet Friday post",
+      "url": "https://tim.blog/2015/08/07/5-bullet-friday/",
+      "date": "2015-08-07",
+      "type": "official"
+    },
+    {
+      "name": "Five Things on Friday",
+      "url": "https://wordstrumpet.com/2015/07/five-things-on-friday.html",
+      "date": "2015-07-03",
+      "type": "independent contemporary reference"
+    },
+    {
+      "name": "5 Bullet Archive",
+      "url": "https://5bulletarchive.com/",
+      "type": "derived recommendation archive"
+    },
+    {
+      "name": "Milled Tim Ferriss archive",
+      "url": "https://milled.com/tim-ferriss-show-useful-lessons-from-workaholics-anonymous/",
+      "type": "public email archive"
+    }
+  ]
+}

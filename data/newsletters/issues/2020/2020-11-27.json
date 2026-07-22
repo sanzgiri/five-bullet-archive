@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "issue_date": "2020-11-27",
+  "subject": "5-Bullet Friday — November 27, 2020",
+  "sources": [
+    "gmail",
+    "hotmail"
+  ],
+  "status": "email",
+  "extraction_status": "metadata_only",
+  "special_edition": true,
+  "bullets": []
+}

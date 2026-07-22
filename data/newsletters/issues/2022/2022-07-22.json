@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "issue_date": "2022-07-22",
+  "subject": "5-Bullet Friday — July 22, 2022",
+  "sources": [
+    "milled"
+  ],
+  "status": "public_source",
+  "extraction_status": "extracted",
+  "special_edition": false,
+  "source_urls": [
+    "https://milled.com/tim-ferriss-show-useful-lessons-from-workaholics-anonymous/5-bullet-friday-july-22-2022-Mp1bGE8o4vCPKAwQ"
+  ],
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading",
+      "category": "book",
+      "title": "How to Keep Your Cool: An Ancient Guide to Anger Management",
+      "creator": "Seneca",
+      "note": "Thanks to Ryan Holiday (@RyanHoliday) for this recommendation. From the official description: “In his essay ‘On Anger’ (De Ira), the Roman Stoic thinker Seneca (c. 4 BC–AD 65) argues that anger is the most destructive passion: ‘No plague has cost the human race more dear.’ This was proved by his own life, which he barely preserved under one wrathful emperor, Caligula, and lost under a second, Nero. This splendid new translation of essential selections from ‘On Anger,’ presented with an enlightening introduction, offers listeners a timeless guide to avoiding and managing anger.” I found this book extremely helpful. The language and examples are sometimes dated, of course, but the principles are timeless.\n\nFor more Seneca, check out The Tao of Seneca, which I’ve put together as a small thank-you gesture for all of my readers. All three volumes are available for free.",
+      "original_url": null,
+      "links": []
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching",
+      "category": "tv",
+      "title": "Night of the Mini Dead (S3E4)",
+      "creator": "Love, Death & Robots",
+      "note": "If you don’t have Netflix, here is a great taste on YouTube. The series’ description from Wikipedia: “Love, Death & Robots (stylized as LOVE DEATH + R⬤BOTS, and represented in emoji form as ❤️💀🤖) is an adult animated anthology streaming television series created by Tim Miller. Produced by Blur Studio, it consists of stand-alone episodes that feature different narrative and animation styles and are produced by different animation studios from a range of countries, exploring diverse genres, particularly comedy, horror, science fiction, and fantasy.”",
+      "original_url": null,
+      "links": []
+    },
+    {
+      "position": 3,
+      "section": "Podcast episode I’m listening to",
+      "category": "podcast",
+      "title": "TaskRabbit: Leah Solivan",
+      "creator": "How I Built This with Guy Raz",
+      "note": "Pair this episode with Guy Raz on The Tim Ferriss Show or my interview with famed investor Ann Miura-Ko, whose very first investment was TaskRabbit.",
+      "original_url": null,
+      "links": []
+    },
+    {
+      "position": 4,
+      "section": "Article I’m reading and sharing",
+      "category": "article",
+      "title": "These Mormons Have Found a New Faith — in Magic Mushrooms",
+      "creator": "Cassady Rosenblum",
+      "note": "Worshippers are leaving the Church of Latter-day Saints in record numbers, and some are finding a new kind relationship with the divine through a psilocybin church co-founded by a man who was for years one of the most powerful Republicans in the Utah State Legislature. It’s a fascinating story about faith, mushrooms, and Mormonism.\n\nWhy am I excited about this piece? First, it’s the first published piece out of the Ferriss-UC Berkeley Psychedelic Journalism Fellowship. Second, it’s Cassady’s first-ever magazine article, and Rolling Stone increased her word count from 3,500 to 7,000! That’s about as big as it gets, and it vastly exceeded any hopes I could’ve had. Cassady hit a home run, and I’m really excited to see what she and other Fellows do next.\n\nJournalists: have a good psychedelics story? Apply for a $10,000 reporting grant from the newly established Ferriss-UC Berkeley Psychedelic Journalism Fellowship at UC Berkeley’s Graduate School of Journalism. Applications are due July 31. Open to both print and audio journalists. To apply, you’ll need a compelling story pitch, clips, and two letters of recommendation. Click here for more details.",
+      "original_url": null,
+      "links": []
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "The Art of Peace begins with you. Work on yourself and your appointed task in the Art of Peace. Everyone has a spirit that can be refined, a body that can be trained in some manner, a suitable path to follow. You are here for no other purpose than to realize your inner divinity and manifest your inner enlightenment. Foster peace in your own life and then apply the Art to all that you encounter.",
+      "creator": "Morihei Ueshiba",
+      "note": "Great reminder to start with the person in the mirror",
+      "original_url": null,
+      "links": []
+    }
+  ]
+}

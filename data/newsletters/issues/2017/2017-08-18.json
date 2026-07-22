@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "issue_date": "2017-08-18",
+  "subject": "5-Bullet Friday",
+  "sources": [
+    "hotmail"
+  ],
+  "status": "email",
+  "extraction_status": "metadata_only",
+  "special_edition": true,
+  "bullets": []
+}

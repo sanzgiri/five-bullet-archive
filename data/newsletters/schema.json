@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/sanzgiri/five-bullet-archive/blob/main/data/newsletters/schema.json",
+  "title": "5-Bullet Friday issue",
+  "type": "object",
+  "required": ["schema_version", "issue_date", "subject", "sources", "status", "extraction_status", "bullets"],
+  "properties": {
+    "schema_version": { "const": 1 },
+    "issue_date": { "type": "string", "format": "date" },
+    "subject": { "type": "string" },
+    "sources": { "type": "array", "items": { "enum": ["gmail", "hotmail", "official", "milled", "reddit", "5bulletarchive", "other"] }, "minItems": 1, "uniqueItems": true },
+    "status": { "enum": ["email", "public_source", "unconfirmed"] },
+    "extraction_status": { "enum": ["metadata_only", "partial", "extracted"] },
+    "special_edition": { "type": "boolean" },
+    "source_urls": { "type": "array", "items": { "type": "string", "format": "uri" }, "uniqueItems": true },
+    "bullets": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["position", "section", "category", "title", "creator", "note", "links"],
+        "properties": {
+          "position": { "type": "integer", "minimum": 1 },
+          "section": { "type": "string" },
+          "category": { "type": "string" },
+          "title": { "type": ["string", "null"] },
+          "creator": { "type": ["string", "null"] },
+          "note": { "type": ["string", "null"], "description": "Tim Ferriss's note, preserved verbatim." },
+          "original_url": { "type": ["string", "null"], "format": "uri" },
+          "links": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["type", "url"],
+              "properties": {
+                "type": { "enum": ["original", "spotify_track", "spotify_album", "amazon", "audible", "libby", "worldcat", "justwatch", "streaming", "kanopy", "other"] },
+                "url": { "type": "string", "format": "uri" },
+                "region": { "type": "string" },
+                "availability_checked_at": { "type": "string", "format": "date-time" },
+                "requires_participating_library": { "type": "boolean" }
+              },
+              "additionalProperties": true
+            }
+          }
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "additionalProperties": true
+}

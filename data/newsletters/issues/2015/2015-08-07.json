@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "issue_date": "2015-08-07",
+  "subject": "5-Bullet Friday — 5 Things I've Been Loving, Using, and Reading",
+  "sources": [
+    "official"
+  ],
+  "status": "public_source",
+  "extraction_status": "extracted",
+  "special_edition": true,
+  "source_urls": [
+    "https://tim.blog/2015/08/07/5-bullet-friday/"
+  ],
+  "provenance_note": "Tim Ferriss's official post says these six items appeared in his 5-Bullet Friday email newsletter and that he included an extra item in the post.",
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Article I’m enjoying (and pondering)",
+      "category": "article",
+      "title": "How Bold Entrepreneurs Are Breaking $1 Million In One-Person Businesses",
+      "creator": "Elaine Pofeldt",
+      "note": null,
+      "original_url": "https://www.forbes.com/sites/elainepofeldt/2015/08/03/how-bold-entrepreneurs-are-breaking-1-million-in-one-person-businesses/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.forbes.com/sites/elainepofeldt/2015/08/03/how-bold-entrepreneurs-are-breaking-1-million-in-one-person-businesses/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Clothing I’m loving",
+      "category": "product",
+      "title": "Everyday Shorts",
+      "creator": "Myles Apparel",
+      "note": "I originally got these as a gift from Huckberry, and they are now my go-to shorts for nearly everything. I swim in them (quick drying), I wear them while working at coffee shops, and you can even wear them to a nice dinner if you have decent shoes. Multi-purpose rocks.",
+      "original_url": "https://mylesapparel.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://mylesapparel.com/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "My most popular Facebook post recently",
+      "category": "article",
+      "title": "Japan’s Michael Jordan of Day Trading",
+      "creator": null,
+      "note": "His “one rule” is quite smart, methinks…",
+      "original_url": "https://www.bloomberg.com/news/articles/2015-07-30/japan-s-michael-jordan-of-day-trading-made-34-million-from-china-rout",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.bloomberg.com/news/articles/2015-07-30/japan-s-michael-jordan-of-day-trading-made-34-million-from-china-rout"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "A quote that’s on my mind",
+      "category": "quote",
+      "title": "People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.",
+      "creator": "Steve Jobs",
+      "note": null,
+      "original_url": null,
+      "links": []
+    },
+    {
+      "position": 5,
+      "section": "Responses I’ll be practicing (yet again) next week",
+      "category": "article",
+      "title": "How to graciously say no to anyone",
+      "creator": "Austin Kleon",
+      "note": "This is worth revisiting constantly.",
+      "original_url": "https://tumblr.austinkleon.com/post/123510076581",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tumblr.austinkleon.com/post/123510076581"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "New footwear, long overdue",
+      "category": "product",
+      "title": "Adidas slip-ons",
+      "creator": "Adidas",
+      "note": "I’ve needed Adidas slip-ons for years. No idea why it took me so long to get them. They’re perfect as indoor Japanese-style slippers, or for wearing outside when you don’t want flip-flops killing your toe webbing. I’m typing this on an airplane, where I’m wearing them with socks. #GermanStyle",
+      "original_url": "https://www.amazon.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/"
+        }
+      ]
+    }
+  ]
+}

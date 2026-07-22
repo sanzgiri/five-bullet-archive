@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "issue_date": "2019-10-04",
+  "subject": "5-Bullet Friday",
+  "sources": [
+    "gmail"
+  ],
+  "status": "email",
+  "extraction_status": "metadata_only",
+  "special_edition": false,
+  "bullets": []
+}

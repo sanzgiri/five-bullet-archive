@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-07-21",
+  "timezone": "America/Los_Angeles",
+  "earliest": "2015-07-03",
+  "mailbox_inventory_start": "2016-04-01",
+  "latest": "2026-07-17",
+  "distinct_issues": 525,
+  "candidate_missing_fridays": 15,
+  "candidate_missing_dates": [
+    "2016-07-15",
+    "2016-07-22",
+    "2018-01-19",
+    "2018-09-21",
+    "2019-03-15",
+    "2019-03-29",
+    "2019-10-18",
+    "2019-11-29",
+    "2019-12-20",
+    "2020-01-03",
+    "2021-03-19",
+    "2021-10-01",
+    "2021-12-31",
+    "2022-02-11",
+    "2022-03-25"
+  ],
+  "normalization_notes": [
+    "Candidate missing Fridays are calculated within the continuous mailbox inventory beginning 2016-04-01; the earlier 2015 records are public-source backfills and do not imply continuous coverage.",
+    "Saturday, Sunday, and delayed special-edition deliveries are assigned to their newsletter week’s Friday.",
+    "Special subjects such as 6-Bullet Saturday, 11-Bullet Friday, and Mega 5-Bullet Friday are included."
+  ]
+}

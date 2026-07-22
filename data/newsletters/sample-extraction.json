@@ -1,0 +1,61 @@
+{
+  "issue_date": "2026-07-17",
+  "subject": "5-Bullet Friday — Nassim Taleb, Beautiful Movies, Differentiating in the Age of AI, and Opium Den Music",
+  "source": "hotmail",
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Music I’m listening to (upbeat)",
+      "category": "music",
+      "title": "I Know What I Know",
+      "creator": "Paul Simon",
+      "url": "https://www.youtube.com/watch?v=2hanjM_IEnU",
+      "note": "The lyrics are just too good."
+    },
+    {
+      "position": 2,
+      "section": "Music I’m listening to (unusual)",
+      "category": "music",
+      "title": "Sketches of the Mediterranean",
+      "creator": "Jon Hassell with Paolo Fresu",
+      "url": "https://vimeo.com/109820224",
+      "note": "I find this great for writing, but some will find it closer to auditory hallucinations in an opium den. Feel free to skip around, and the music starts around one minute in."
+    },
+    {
+      "position": 3,
+      "section": "Blog post I’m reading",
+      "category": "article",
+      "title": "Better Than Free",
+      "creator": "Kevin Kelly",
+      "url": "https://tim.blog/2026/07/17/better-than-free/",
+      "note": "Kevin (@kevin2kelly) is Senior Maverick at WIRED, which he co-founded in 1993, and he is the author of one of my favorite essays on making a living as a creator: “1,000 True Fans.” But if “1,000 True Fans” tells you _who_ your customers might be, how do you figure out _what_ to sell them, especially in the age of AI?\n\nI recently published “Has AI Already Killed How-To Nonfiction?,” and reader Andy Vaughn recommended another Kevin essay in the comments: “Better Than Free.” “Better Than Free” answers the _what_ question, and I was shocked I hadn’t seen it before, as it first came out in 2008. Most of it still holds up incredibly well, and I’ve started using it as a checklist for thought exercises around the future of my business."
+    },
+    {
+      "position": 4,
+      "section": "What I’m rewatching",
+      "category": "film",
+      "title": "Life Is Beautiful",
+      "creator": "Roberto Benigni",
+      "url": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.df6ae323-d436-4e05-8ee5-89f9f056b6fe",
+      "note": "My lady hadn’t seen this, so I insisted that we watch it together. It’s an unforgettable masterpiece.\n\nThis 1997 classic was co-written and directed by Roberto Benigni, who also plays the lead role. _Life Is Beautiful_ follows Guido, a Jewish-Italian father who shields his young son from the horrors of a concentration camp by convincing him it’s all an elaborate game. That’s how the movie is typically described, but that’s truthfully only the second half of the movie, and there is much more to it.\n\nPerhaps better than any film I’ve ever seen, it uses hilarity to explore one of the darkest real-world chapters in recent human history. It’s a rare film that is chock-full of belly laughs and gut punches.\n\nThank me later when you find yourself saying “_Buongiorno, Principessa!_”"
+    },
+    {
+      "position": 5,
+      "section": "Quotes I’m pondering",
+      "category": "quote",
+      "title": "For the classics, philosophical insight was the product of a life of leisure; for me, a life of leisure is the product of philosophical insight.",
+      "creator": "Nassim Nicholas Taleb",
+      "url": null,
+      "note": null
+    },
+    {
+      "position": 6,
+      "section": "Quotes I’m pondering",
+      "category": "quote",
+      "title": "Absolutely unmixed attention is prayer.",
+      "creator": "Simone Weil",
+      "url": null,
+      "note": null
+    }
+  ]
+}

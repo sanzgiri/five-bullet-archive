@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "issue_date": "2015-07-03",
+  "subject": "5-Bullet Friday",
+  "sources": [
+    "other"
+  ],
+  "status": "public_source",
+  "extraction_status": "metadata_only",
+  "special_edition": false,
+  "source_urls": [
+    "https://wordstrumpet.com/2015/07/five-things-on-friday.html"
+  ],
+  "confidence": "medium",
+  "provenance_note": "A contemporary post published for the July 3 holiday weekend states that the author is a subscriber and that Tim Ferriss sent a 5-Bullet Friday to subscribers. The recommendation contents are not reproduced.",
+  "bullets": []
+}

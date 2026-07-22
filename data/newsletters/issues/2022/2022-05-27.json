@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "issue_date": "2022-05-27",
+  "subject": "5-BF — May 27, 2022",
+  "sources": [
+    "hotmail"
+  ],
+  "status": "email",
+  "extraction_status": "extracted",
+  "special_edition": true,
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m learning more about",
+      "category": "article",
+      "title": "Bionic Reading",
+      "creator": null,
+      "note": "This is the first innovation related to faster reading that has impressed me in a long time. In simplest terms, it helps you convert text to make your fixation points more efficient. Thank you to reader Sam McRoberts (@Sams_Antics) for referring this to me on Twitter.",
+      "original_url": "https://bionic-reading.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://bionic-reading.com/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "TED Talk I’m watching",
+      "category": "video",
+      "title": "Can we create new senses for humans?",
+      "creator": "David Eagleman",
+      "note": "Official description: “As humans, we can perceive less than a ten-trillionth of all light waves. ‘Our experience of reality,’ says neuroscientist David Eagleman, ‘is constrained by our biology.’ He wants to change that. His research into our brain processes has led him to create new interfaces—such as a sensory vest—to take in previously unseen information about the world around us.” I’ve previously recommended David’s Sum: Forty Tales from the Afterlives, which is a collection of 40 thought exercises on the nature of existence, reality, perception, death, pain, boredom, and more.",
+      "original_url": "https://www.ted.com/talks/david_eagleman_can_we_create_new_senses_for_humans?language=en",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.ted.com/talks/david_eagleman_can_we_create_new_senses_for_humans?language=en"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Scientist I’m studying",
+      "category": "person",
+      "title": "Christof Koch",
+      "creator": null,
+      "note": "From Wikipedia: “Christof Koch is a German-American neurophysiologist and computational neuroscientist best known for his work on the neural basis of consciousness. He is the president and chief scientist of the Allen Institute for Brain Science in Seattle. From 1986 until 2013, he was a professor at the California Institute of Technology.”",
+      "original_url": "https://en.wikipedia.org/wiki/Christof_Koch",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Christof_Koch"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Audiobook I’m listening to",
+      "category": "audiobook",
+      "title": "Conscious: A Brief Guide to the Fundamental Mystery of the Mind",
+      "creator": "Annaka Harris",
+      "note": "This is a delightful listen or read, and it’s short. The audiobook runs 2 hours and 22 minutes. It’s the most gifted book of one of my smartest friends, and the preceding two items came from its pages. Here’s part of the official description: “What is consciousness? How does it arise? And why does it exist? We take our experience of being in the world for granted. But the very existence of consciousness raises profound questions: Why would any collection of matter in the universe be conscious? How are we able to think about this? And why should we? In this wonderfully accessible audiobook, Annaka Harris guides us through the evolving definitions, philosophies, and scientific findings that probe our limited understanding of consciousness. Where does it reside, and what gives rise to it? Could it be an illusion, or a universal property of all matter? As we try to understand consciousness, we must grapple with how to define it and, in the age of artificial intelligence, who or what might possess it.”",
+      "original_url": "https://www.amazon.com/Conscious-Annaka-Harris-audiobook/dp/B07Q585SJW/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Conscious-Annaka-Harris-audiobook/dp/B07Q585SJW/"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/Conscious-Annaka-Harris-audiobook/dp/B07Q585SJW/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering once again",
+      "category": "quote",
+      "title": "I remember my grandfather telling me how each of us must live with a full measure of loneliness that is inescapable, and we must not destroy ourselves with our passion to escape the aloneness.",
+      "creator": "Jim Harrison",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Jim_Harrison",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Jim_Harrison"
+        }
+      ]
+    }
+  ]
+}
