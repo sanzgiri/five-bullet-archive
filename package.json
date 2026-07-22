@@ -9,6 +9,7 @@
     "archive:build": "node scripts/build-archive.mjs",
     "archive:audit": "node scripts/audit-archive.mjs",
     "archive:audit-provenance": "node scripts/audit-provenance.mjs",
+    "archive:audit-enrichment": "node scripts/audit-enrichment.mjs",
     "archive:import-eml": "node scripts/import-eml.mjs",
     "archive:import-gmail": "node scripts/import-gmail-json.mjs",
     "archive:extract-hotmail": "node scripts/extract-hotmail.mjs",

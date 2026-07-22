@@ -1,0 +1,717 @@
+{
+  "generated_at": "2026-07-22T20:00:19.247Z",
+  "methodology": {
+    "recommendation_coverage": "Eligible recommendations with at least one enrichment destination.",
+    "service_slot_coverage": "Covered destination slots divided by all expected category/service combinations.",
+    "exact_or_resolved": "A publisher/service URL already present in the source or a catalog-resolved Libby title.",
+    "search_fallback": "A service search URL generated from the extracted title and creator; useful but not an exact item match."
+  },
+  "recommendation_coverage": {
+    "eligible": 604,
+    "covered": 604,
+    "percent": 100
+  },
+  "service_slot_coverage": {
+    "eligible": 1298,
+    "covered": 1219,
+    "missing": 79,
+    "percent": 93.9,
+    "exact_or_resolved": 230,
+    "exact_or_resolved_percent": 17.7,
+    "search_fallback": 989,
+    "search_fallback_percent": 76.2
+  },
+  "by_service": {
+    "spotify": {
+      "eligible": 81,
+      "covered": 81,
+      "exact_or_resolved": 42,
+      "search_fallback": 39,
+      "missing": 0,
+      "coverage_percent": 100
+    },
+    "amazon": {
+      "eligible": 155,
+      "covered": 155,
+      "exact_or_resolved": 103,
+      "search_fallback": 52,
+      "missing": 0,
+      "coverage_percent": 100
+    },
+    "worldcat": {
+      "eligible": 155,
+      "covered": 155,
+      "exact_or_resolved": 0,
+      "search_fallback": 155,
+      "missing": 0,
+      "coverage_percent": 100
+    },
+    "libby": {
+      "eligible": 155,
+      "covered": 76,
+      "exact_or_resolved": 76,
+      "search_fallback": 0,
+      "missing": 79,
+      "coverage_percent": 49
+    },
+    "audible": {
+      "eligible": 16,
+      "covered": 16,
+      "exact_or_resolved": 9,
+      "search_fallback": 7,
+      "missing": 0,
+      "coverage_percent": 100
+    },
+    "justwatch": {
+      "eligible": 368,
+      "covered": 368,
+      "exact_or_resolved": 0,
+      "search_fallback": 368,
+      "missing": 0,
+      "coverage_percent": 100
+    },
+    "kanopy": {
+      "eligible": 368,
+      "covered": 368,
+      "exact_or_resolved": 0,
+      "search_fallback": 368,
+      "missing": 0,
+      "coverage_percent": 100
+    }
+  },
+  "unresolved": [
+    {
+      "issue_date": "2016-04-15",
+      "position": 3,
+      "category": "book",
+      "title": "The Most Important Skill to Teach Your Dog",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2016-04-22",
+      "position": 3,
+      "category": "book",
+      "title": "I fucking love you guys",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2016-04-29",
+      "position": 4,
+      "category": "book",
+      "title": "a greater sin than wasting time",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2016-05-06",
+      "position": 4,
+      "category": "book",
+      "title": "Kobe Bryant, The Beatles and a Child Chess Prodigy All Have the Same Habit",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2016-06-10",
+      "position": 4,
+      "category": "book",
+      "title": "Got this hat",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2016-06-17",
+      "position": 4,
+      "category": "book",
+      "title": "Good lord",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2016-07-08",
+      "position": 4,
+      "category": "book",
+      "title": "this cute virtual reality we live in.",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2016-07-29",
+      "position": 4,
+      "category": "book",
+      "title": "Totally loved the new doc",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2016-08-26",
+      "position": 2,
+      "category": "book",
+      "title": "Princess of whales: How a naked female scientist tries to tame belugas in the freezing Arctic",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2016-10-28",
+      "position": 3,
+      "category": "book",
+      "title": "I Think You're Fat",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2016-12-23",
+      "position": 5,
+      "category": "book",
+      "title": "Leonardo Da Vinci’s To Do List (Circa 1490) Is Much Cooler Than Yours",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2016-12-30",
+      "position": 2,
+      "category": "book",
+      "title": "At University of Oregon, no more free speech for professors on race, religion, sexual orientation...",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2017-01-06",
+      "position": 1,
+      "category": "book",
+      "title": "Stories of Your Life and Others",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2017-01-20",
+      "position": 1,
+      "category": "book",
+      "title": "The Tale of the Unknown Island",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2017-01-20",
+      "position": 4,
+      "category": "book",
+      "title": "The more voluntary suffering you build into your life, the less involuntary suffering will affect your life.‬",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2017-02-10",
+      "position": 4,
+      "category": "book",
+      "title": "what would you build",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2017-03-10",
+      "position": 3,
+      "category": "book",
+      "title": "How to Raise Brave Girls:",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2017-04-14",
+      "position": 3,
+      "category": "book",
+      "title": "10 Podcasts That Will Make You Smarter",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2017-04-21",
+      "position": 4,
+      "category": "book",
+      "title": "tiny home",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2017-05-19",
+      "position": 2,
+      "category": "book",
+      "title": "the more someone tells you how hard they're working for you...",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2017-07-21",
+      "position": 2,
+      "category": "book",
+      "title": "Who are the most impressive people",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2017-07-21",
+      "position": 3,
+      "category": "book",
+      "title": "send a tweet to @tferriss",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2017-07-28",
+      "position": 4,
+      "category": "book",
+      "title": "TED Talk",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2017-08-04",
+      "position": 3,
+      "category": "book",
+      "title": "This repost",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2018-01-26",
+      "position": 1,
+      "category": "audiobook",
+      "title": "Stealing Fire: How Silicon Valley, the Navy SEALs, and Maverick Scientists Are Revolutionizing the Way We Live and Work",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2018-10-05",
+      "position": 1,
+      "category": "book",
+      "title": "Why We Are Self Publishing the Aviary Cookbook",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2019-02-01",
+      "position": 3,
+      "category": "book",
+      "title": "Awareness: The Perils and Opportunities of Reality",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2019-04-12",
+      "position": 3,
+      "category": "book",
+      "title": "The Moth Presents All These Wonders: True Stories About Facing the Unknown",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2020-03-13",
+      "position": 4,
+      "category": "book",
+      "title": "Here’s some current inspiration",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2020-08-07",
+      "position": 4,
+      "category": "book",
+      "title": "Joe Green",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2020-10-02",
+      "position": 1,
+      "category": "audiobook",
+      "title": "The Hitchhiker’s Guide to the Galaxy",
+      "creator": "Douglas Adams, narrated by the one and only Stephen Fry",
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2020-12-11",
+      "position": 1,
+      "category": "book",
+      "title": "Tales of the Dervishes: Teaching-Stories of the Sufi Masters over the Past Thousand Years",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2021-01-01",
+      "position": 1,
+      "category": "book",
+      "title": "The Art of Seeing Things: Essays by John Burroughs",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2021-01-22",
+      "position": 1,
+      "category": "book",
+      "title": "Art Is the Highest Form of Hope",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2021-02-19",
+      "position": 1,
+      "category": "book",
+      "title": "The Moth Presents Occasional Magic: True Stories About Defying the Impossible",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2021-06-11",
+      "position": 1,
+      "category": "book",
+      "title": "The Brotherhood of the Screaming Abyss",
+      "creator": "Dennis McKenna, PhD",
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2021-06-18",
+      "position": 1,
+      "category": "book",
+      "title": "Quotes from the writings of John Steinbeck",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2021-08-20",
+      "position": 1,
+      "category": "book",
+      "title": "The Other Face: Experiencing the Mask",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2021-09-03",
+      "position": 2,
+      "category": "book",
+      "title": "The Artists’ Prison",
+      "creator": "Alexandra Grant",
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2021-10-22",
+      "position": 3,
+      "category": "book",
+      "title": "Heaven",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2021-11-19",
+      "position": 2,
+      "category": "book",
+      "title": "Awareness: The Perils and Opportunities of Reality",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2022-05-20",
+      "position": 3,
+      "category": "book",
+      "title": "Book Review: Raise A Genius!",
+      "creator": "Scott Alexander",
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2023-01-27",
+      "position": 3,
+      "category": "book",
+      "title": "GOLD",
+      "creator": "Rumi, translated by Haleh Liza Gafori",
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2023-02-10",
+      "position": 2,
+      "category": "book",
+      "title": "From Strength to Strength: Finding Success, Happiness, and Deep Purpose in the Second Half of Life",
+      "creator": "Arthur Brooks",
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2023-03-17",
+      "position": 4,
+      "category": "book",
+      "title": "Dungeons & Dragons Art & Arcana: A Visual History",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2023-03-31",
+      "position": 1,
+      "category": "book",
+      "title": "Saga: Compendium One",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2023-05-12",
+      "position": 3,
+      "category": "book",
+      "title": "Tokyo Ghost",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2023-06-02",
+      "position": 3,
+      "category": "book",
+      "title": "Japanese Death Poems: Written by Zen Monks and Haiku Poets on the Verge of Death",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2023-07-07",
+      "position": 4,
+      "category": "audiobook",
+      "title": "The Hitchhiker’s Guide to the Galaxy",
+      "creator": "Douglas Adams, narrated by the one and only Stephen Fry",
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2023-07-14",
+      "position": 1,
+      "category": "book",
+      "title": "The Filmmaker Says: Quotes, Quips, and Words of Wisdom",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2023-11-17",
+      "position": 2,
+      "category": "book",
+      "title": "The Art of Possibility: Transforming Professional and Personal Life",
+      "creator": "Rosamund Stone Zander and Benjamin Zander",
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2023-12-22",
+      "position": 3,
+      "category": "book",
+      "title": "Masterpieces of Fantasy Art",
+      "creator": "Dian Hanson",
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2023-12-29",
+      "position": 2,
+      "category": "book",
+      "title": "Y: The Last Man",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2024-01-19",
+      "position": 4,
+      "category": "book",
+      "title": "Wine & Prayer: Eighty Ghazals from the Divan of Hafiz",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2024-02-23",
+      "position": 4,
+      "category": "book",
+      "title": "String Theory: David Foster Wallace on Tennis",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2024-03-22",
+      "position": 1,
+      "category": "book",
+      "title": "Back Mechanic",
+      "creator": "Dr",
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2024-05-31",
+      "position": 1,
+      "category": "book",
+      "title": "The Well of Being: A Children’s Book for Adults",
+      "creator": "Jean-Pierre Weill",
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2024-08-02",
+      "position": 3,
+      "category": "audiobook",
+      "title": "Red Rising",
+      "creator": "Pierce Brown, narrated by Tim Gerard Reynolds",
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2025-01-31",
+      "position": 1,
+      "category": "book",
+      "title": "Happy Money: The Science of Happier Spending",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2025-02-21",
+      "position": 4,
+      "category": "book",
+      "title": "Legendary Ski Artist James Niehues: The Man Behind the Maps",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2025-03-14",
+      "position": 3,
+      "category": "book",
+      "title": "Dungeons & Dragons Worlds & Realms — Adventures from Greyhawk to Faerûn and Beyond",
+      "creator": "Adam Lee",
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2025-04-04",
+      "position": 3,
+      "category": "book",
+      "title": "The Universe in Verse",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2025-05-09",
+      "position": 6,
+      "category": "book",
+      "title": "How to Stop Worrying and Start Living",
+      "creator": "Dale Carnegie * * * You can complement this edition of 5-Bullet Friday with my brand-new interview w",
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2025-06-13",
+      "position": 1,
+      "category": "book",
+      "title": "How to be more emotionally intelligent (without trying so hard)",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2025-06-27",
+      "position": 5,
+      "category": "book",
+      "title": "The ONE Thing",
+      "creator": "Gary Keller * * * You can complement this edition of 5-Bullet Friday with my brand-new podcast episo",
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2025-07-11",
+      "position": 5,
+      "category": "book",
+      "title": "Oliver Burkeman",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2025-08-08",
+      "position": 3,
+      "category": "book",
+      "title": "Frank Miller’s Sin City: Hard Goodbye Curator’s Collection",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2025-08-15",
+      "position": 5,
+      "category": "book",
+      "title": "Anthony de Mello",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2025-08-22",
+      "position": 6,
+      "category": "book",
+      "title": "COYOTE",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2025-08-22",
+      "position": 7,
+      "category": "book",
+      "title": "Dennis McKenna",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2025-08-29",
+      "position": 5,
+      "category": "book",
+      "title": "Genghis Khan and the Making of the Modern World",
+      "creator": "Jack Weatherford * * * You can complement this edition of 5-Bullet Friday with my brand-new conversa",
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2025-09-05",
+      "position": 5,
+      "category": "book",
+      "title": "Four Thousand Weeks: Time Management for Mortals",
+      "creator": "Oliver Burkeman: “After years of trying and failing to make time for her illustration work, by tamin",
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2025-09-12",
+      "position": 7,
+      "category": "book",
+      "title": "The Art of Possibility",
+      "creator": "Rosamund Stone Zander and Benjamin Zander * * * You can complement this edition of 5-Bullet Friday w",
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2025-09-26",
+      "position": 4,
+      "category": "book",
+      "title": "If you haven’t bought a copy of COYOTE, why haven’t you",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2025-10-10",
+      "position": 6,
+      "category": "book",
+      "title": "How to Stop Worrying and Start Living",
+      "creator": "Dale Carnegie * * * Have a wonderful weekend, all",
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2025-12-12",
+      "position": 2,
+      "category": "book",
+      "title": "Pattern Breakers: Why Some Start-Ups Change the Future",
+      "creator": "Mike Maples and Peter Ziebelman",
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2025-12-19",
+      "position": 3,
+      "category": "book",
+      "title": "Tongues_, Volume 1",
+      "creator": "Anders Nilsen",
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2026-06-05",
+      "position": 3,
+      "category": "book",
+      "title": "Art Is the Highest Form of Hope",
+      "creator": null,
+      "missing_service": "libby"
+    },
+    {
+      "issue_date": "2026-06-12",
+      "position": 5,
+      "category": "book",
+      "title": "Sebastian Mallaby",
+      "creator": null,
+      "missing_service": "libby"
+    }
+  ],
+  "excluded_missing_title": []
+}
