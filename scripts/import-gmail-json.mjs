@@ -4,7 +4,12 @@ import process from "node:process";
 
 const root = process.cwd();
 const issuesRoot = path.join(root, "data/newsletters/issues");
-const reportPath = path.join(root, "data/newsletters/gmail-import-report.json");
+const sourceName = process.argv[3] ?? "gmail";
+const onlyMetadata = process.argv.includes("--only-metadata");
+const onlyPartial = process.argv.includes("--only-partial");
+const beforeDate = process.argv.find((value) => value.startsWith("--before="))?.slice(9) ?? null;
+const normalizeDates = process.argv.includes("--normalize-dates");
+const reportPath = path.join(root, `data/newsletters/${sourceName}-import-report.json`);
 
 let input = process.argv[2] ? await readFile(process.argv[2], "utf8") : "";
 if (!process.argv[2]) for await (const chunk of process.stdin) input += chunk;
@@ -24,7 +29,7 @@ function plainText(markdown = "") {
 function unwrap(url) {
   try {
     const parsed = new URL(url);
-    if (parsed.hostname === "click.fourhourmail.com" || parsed.hostname.endsWith("convertkit-mail2.com")) {
+    if (parsed.hostname === "click.fourhourmail.com" || /convertkit-mail2?\.com$/.test(parsed.hostname)) {
       const encoded = parsed.pathname.split("/").filter(Boolean).at(-1);
       const decoded = Buffer.from(encoded, "base64url").toString("utf8");
       if (/^https?:\/\//.test(decoded)) return decoded;
@@ -64,21 +69,30 @@ function categoryFor(section, url) {
 }
 
 function sections(markdown) {
+  const source = markdown.replace(/\*{4}/g, "**");
   const headings = [];
-  const patterns = [
-    /^#{1,3}\s+(.{3,140}?\s+—)\s*$/gm,
-    /^\*\*(.{3,140}?\s+—)\*\*\s*$/gm,
-    /^(.{3,140}?\s+—)\s*$/gm,
-  ];
-  for (const pattern of patterns) {
-    let match;
-    while ((match = pattern.exec(markdown))) headings.push({ section: plainText(match[1]), start: match.index, end: pattern.lastIndex });
-    if (headings.length) break;
+  // Outlook's export often collapses paragraph breaks and sometimes puts the
+  // em dash outside the bold marker. Match Tim's recurring labels regardless
+  // of whether they are line headings, bold inline headings, or plain text.
+  const labelStart = "(?:A favor|Article|App|Athletic|Book|Bonus|Cost-effective|Device|Documentary|Drink|Experiment|Extreme quote|Food|Gadget|Habit|I[’']m|In case|Instagram|Longread|Most popular|Movie|Music|My|New (?:blog|tech)|Person|Podcast|Popular|Product|Project|Purchase|Quote|Research|Resource|Saved|Short|Something|Study|Tea|Tech|Thing|Tool|Training|Video|Website|What|Who)";
+  const headingPattern = new RegExp(`(?:^|\\n|#{1,3}\\s+|\\*\\*)(${labelStart}[^*\\n]{0,150}?)(?:\\*\\*)?\\s*[—–]\\s*`, "gim");
+  let match;
+  while ((match = headingPattern.exec(source))) {
+    const labelOffset = match[0].indexOf(match[1]);
+    headings.push({
+      section: `${plainText(match[1])} —`,
+      start: match.index + labelOffset,
+      end: headingPattern.lastIndex,
+    });
   }
+  // Deduplicate the same heading found through adjacent markdown markers.
+  const unique = new Map(headings.map((heading) => [heading.start, heading]));
+  headings.length = 0;
+  headings.push(...unique.values());
   headings.sort((a, b) => a.start - b.start);
   return headings.map((heading, index) => {
-    let body = markdown.slice(heading.end, headings[index + 1]?.start ?? markdown.length).trim();
-    body = body.split(/\n(?=(?:And, as always|Have a wonderful weekend|Have an amazing weekend|P\.S\.|Want to hear more|This email was sent to))/i)[0].trim();
+    let body = source.slice(heading.end, headings[index + 1]?.start ?? source.length).trim();
+    body = body.split(/(?:\n|(?<=\S))(?=(?:And, as always|Have a wonderful weekend|Have an amazing weekend|FORWARDED THIS MESSAGE|DUE TO VOLUME|This email was sent to))/i)[0].trim();
     return { section: heading.section, body };
   }).filter(({ section }) => !/^(?:P\.S\.|Deal of the Week|Forwarded this message)/i.test(section));
 }
@@ -105,8 +119,9 @@ function bullet(section, body, position) {
 const imported = [];
 const review = [];
 for (const message of messages) {
-  const issueDate = message.issue_date ?? friday(message.email_ts);
+  const issueDate = normalizeDates ? friday(message.email_ts) : (message.issue_date ?? friday(message.email_ts));
   if (!issueDate) throw new Error(`Invalid date for Gmail message ${message.id}`);
+  if (beforeDate && issueDate >= beforeDate) continue;
   // Some historical Gmail sync bodies omit a newline between a link and the
   // next section/footer even though the rendered email shows a paragraph break.
   const markdown = unwrapMarkdown(message.body ?? "")
@@ -120,11 +135,13 @@ for (const message of messages) {
   const filename = path.join(issuesRoot, issueDate.slice(0, 4), `${issueDate}.json`);
   let existing = {};
   try { existing = JSON.parse(await readFile(filename, "utf8")); } catch (error) { if (error.code !== "ENOENT") throw error; }
+  if (onlyMetadata && existing.extraction_status !== "metadata_only") continue;
+  if (onlyPartial && existing.extraction_status !== "partial") continue;
   const issue = {
     schema_version: 1,
     issue_date: issueDate,
     subject: message.subject,
-    sources: [...new Set([...(existing.sources ?? []), "gmail"])],
+    sources: [...new Set([...(existing.sources ?? []), message.source ?? sourceName])],
     status: "email",
     extraction_status: reasons.length ? "partial" : "extracted",
     special_edition: existing.special_edition ?? !/^5-Bullet Friday\b/i.test(message.subject),
@@ -132,7 +149,7 @@ for (const message of messages) {
   };
   await mkdir(path.dirname(filename), { recursive: true });
   await writeFile(filename, `${JSON.stringify(issue, null, 2)}\n`);
-  imported.push({ issue_date: issueDate, gmail_message_id: message.id, bullets: bullets.length, extraction_status: issue.extraction_status });
+  imported.push({ issue_date: issueDate, message_id: message.id, bullets: bullets.length, extraction_status: issue.extraction_status });
   if (reasons.length) review.push({ issue_date: issueDate, reasons });
 }
 

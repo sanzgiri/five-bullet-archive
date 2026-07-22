@@ -6,7 +6,91 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Stop Bleeding, Heal Wounds, and Soothe Sunburns with a Tea Bag",
+      "creator": null,
+      "note": "Now, on to the story… I don’t think I would have believed this, had I not seen\nit directly and looked it up afterward. A friend was recently in a surfing\naccident that split his head open like a Gallagher watermelon. He went to a\nnearby snack shop, bought black tea bags, and wrapped them on the injury,\nwhich was pouring blood everywhere. Within 5 minutes, the bleeding had stopped\nand remained stopped for a one-hour car drive to the nearest hospital, where\nthe doctor said “I can see your skull. Can you explain why this isn’t\nbleeding?” Answer: tea bags.**",
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakhow8zv/l178yv/aHR0cHM6Ly9saWZlaGFja2VyLmNvbS9zdG9wLWJsZWVkaW5nLWhlYWwtd291bmRzLWFuZC1zb290aGUtc3VuYnVybnMtd2l0aC1hLTE0ODU4NDAwNDY=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhow8zv/l178yv/aHR0cHM6Ly9saWZlaGFja2VyLmNvbS9zdG9wLWJsZWVkaW5nLWhlYWwtd291bmRzLWFuZC1zb290aGUtc3VuYnVybnMtd2l0aC1hLTE0ODU4NDAwNDY="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to while I work —",
+      "category": "podcast",
+      "title": "Les Doigts de l'Homme - Festival Jazz de Coti Chiavari Cinaps",
+      "creator": null,
+      "note": "(free). I just can’t get enough of these guys. I play it on YouTube in the\nbackground as I write. The beginning is an awesome demonstration of skill, but\nthe “real” music starts around 2:00. The gypsy jazz jams throughout are a\nfantastic mood elevator.**",
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakhow8zv/q1opyg/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj11MUYtY3N0ODJkcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhow8zv/q1opyg/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj11MUYtY3N0ODJkcw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Device I’m revisiting —",
+      "category": "other",
+      "title": "VooDoo Floss bands",
+      "creator": null,
+      "note": "These bad boys fit in a jacket pocket and are a godsend. Mine disappeared\n(stolen by excited frenemies?!?) and I only now replaced it, as I’ve found\nnothing to help faster with the pain and “stickiness” I sometimes feel in my\nelbows and knees. They’re perfect for travel and prototype versions were\nintroduced to me by Jedi [Kelly\nStarrett](https://el2.fourhourmail.com/c/38uml98xxakhow8zv/e1pnyl/aHR0cDovL3RpbS5ibG9nLzIwMTUvMDMvMDQvdGhlLWdvb2QtdGhlLWJhZC1hbmQtdGhlLXVnbHktb2YtY3Jvc3NmaXQv).\nBuy two, because as Jocko Willink ([check this guy\nout](https://el2.fourhourmail.com/c/38uml98xxakhow8zv/41xkjn/aHR0cDovL3RpbS5ibG9nLzIwMTUvMDkvMjUvam9ja28td2lsbGluay8=))\nmight say, “Two is one and one is none.”**",
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakhow8zv/x1zvjk/aHR0cDovL3d3dy5yb2d1ZWZpdG5lc3MuY29tL3Zvb2Rvby1mbG9zcy1iYW5kcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhow8zv/x1zvjk/aHR0cDovL3d3dy5yb2d1ZWZpdG5lc3MuY29tL3Zvb2Rvby1mbG9zcy1iYW5kcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhow8zv/e1pnyl/aHR0cDovL3RpbS5ibG9nLzIwMTUvMDMvMDQvdGhlLWdvb2QtdGhlLWJhZC1hbmQtdGhlLXVnbHktb2YtY3Jvc3NmaXQv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhow8zv/41xkjn/aHR0cDovL3RpbS5ibG9nLzIwMTUvMDkvMjUvam9ja28td2lsbGluay8="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Most popular post on Instagram —",
+      "category": "other",
+      "title": "\"Calm is contagious...\"",
+      "creator": null,
+      "note": "Quote",
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakhow8zv/ly60ym/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JWdXphNi1sMHllLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhow8zv/ly60ym/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JWdXphNi1sMHllLw=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "I’m pondering —",
+      "category": "other",
+      "title": "send a tweet to @tferriss",
+      "creator": null,
+      "note": "and put #5BulletFriday in there so I can find it.",
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakhow8zv/gykm1o/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhow8zv/gykm1o/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,131 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Training I’m loving —",
+      "category": "other",
+      "title": "XPT",
+      "creator": null,
+      "note": "I just returned from an incredible week of XPT training in Kaua’i. It combines\nbreathwork, ice baths, mobility, underwater weightlifting, and more. About 48\nhours in, my endurance felt the best it has in years. XPT was created by big-\nwave surfer and elite athlete Laird Hamilton\n([@LairdLife](http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAz&mc=1&s=bomwH&u=w&y=F&)),\nformer pro-volleyball player and fitness icon Gabby Reece\n([@GabbyReece](http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAB&mc=1&s=bomwH&u=w&y=v&)),\nendurance expert Brian Mackenzie\n([@brianmackenzie](http://www.fourhournewsletter.com/click.html?x=a62e&lc=dA9&mc=1&s=bomwH&u=w&y=m&)),\nformer pro-volleyball player Jenn Meredith, and Hollywood powerhouse James\nWilliams. If you haven’t heard my podcast episode with three of the five,\n[it’s a fun\nlisten](http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAN&mc=1&s=bomwH&u=w&y=O&).\nHere are some [upcoming XPT\ndates](http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAE&mc=1&s=bomwH&u=w&y=6&);\nif you can attend, I recommend it.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAE&mc=1&s=bomwH&u=w&y=6&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAE&mc=1&s=bomwH&u=w&y=6&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAz&mc=1&s=bomwH&u=w&y=F&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAB&mc=1&s=bomwH&u=w&y=v&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dA9&mc=1&s=bomwH&u=w&y=m&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAN&mc=1&s=bomwH&u=w&y=O&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAE&mc=1&s=bomwH&u=w&y=6&"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Athletic “gear” I’m wearing —",
+      "category": "other",
+      "title": "OOFOS Ooriginal thong",
+      "creator": null,
+      "note": "Not that kind of thong, you naughty, naughty animal. These flip-flops were\nrecommended to me by an ultra-endurance runner. Apparently, racers wear these\nafter competition when they want arch support that still lets their swollen\nfeet breathe. Stop judging me, [Kelly\nStarrett](http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAn&mc=1&s=bomwH&u=w&y=I&)!",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAj&mc=1&s=bomwH&u=w&y=a&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAj&mc=1&s=bomwH&u=w&y=a&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAn&mc=1&s=bomwH&u=w&y=I&"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m drinking —",
+      "category": "other",
+      "title": "Laird Superfood Turmeric Creamer",
+      "creator": null,
+      "note": "XPT consisted of very early mornings, so instant coffee was the order of the\nday. I had either\n[Instafuel](http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAJ&mc=1&s=bomwH&u=w&y=P&)\nor, my favorite, Laird’s turmeric creamer with black coffee. The latter is a\nblend of coconut milk powder, turmeric, Aquamin (a mineral-rich calcified sea-\nalgae), coconut oil, and red-palm oil. This sells as a $2-per-scoop add-on in\nlocal coffee shops.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAV&mc=1&s=bomwH&u=w&y=i&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAV&mc=1&s=bomwH&u=w&y=i&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAJ&mc=1&s=bomwH&u=w&y=P&"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Most popular post on Instagram —",
+      "category": "other",
+      "title": "Rainbow eucalyptus",
+      "creator": null,
+      "note": "in Hawai'i. Wish we had these in SF...",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAl&mc=1&s=bomwH&u=w&y=7&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAl&mc=1&s=bomwH&u=w&y=7&"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“A company is stronger if it is bound by love rather than by fear…. If the employees come first, then they’re happy.” – Herb Kelleher, cofounder of Southwest Airlines \\--- And as always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know! Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it. Thanks for reading! Have a wonderful weekend, all, Tim P.S. -- Mental toughness can take many forms: resilience against attack, calmness in the face of uncertainty, persistence through pain, or focus amidst chaos. This post shares eight lessons from eight of the toughest human beings I know. Enjoy! --- | --- | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAh&mc=1&s=bomwH&u=w&y=M&) --- | FORWARDED THIS MESSAGE? SIGN UP. --- | | --- Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. | | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAG&mc=1&s=bomwH&u=w&y=k&) ---",
+      "creator": null,
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dA0&mc=1&s=bomwH&u=w&y=o&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dA0&mc=1&s=bomwH&u=w&y=o&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dA5&mc=1&s=bomwH&u=w&y=K&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dA5&mc=1&s=bomwH&u=w&y=K&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/6364.png?img1487343203765"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAp&mc=1&s=bomwH&u=w&y=A&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/6075.jpg?img1487343203765"
+        }
+      ]
+    }
+  ]
 }

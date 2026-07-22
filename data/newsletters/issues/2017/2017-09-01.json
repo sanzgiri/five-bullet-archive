@@ -6,7 +6,103 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Unstoppable: My Life So Far",
+      "creator": "Maria Sharapova",
+      "note": "I got an early review copy of this after [our podcast\ntogether](https://el2.fourhourmail.com/c/zlue04m77unhkog5k/opfkhq/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzA4LzI2L21hcmlhLXNoYXJhcG92YS8=),\nand it’s absolutely fantastic thus far. It is co-authored by Rich Cohen, whose\nbooks _The Fish That Ate the Whale_ and _The Sun & The Moon & The Rolling\nStones_ blew me away (Ryan Holiday and others are also huge fans). If you like\nautobios and stories of persistence, this is definitely worth checking\nout.**",
+      "original_url": "https://el2.fourhourmail.com/c/zlue04m77unhkog5k/78i7h8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TaGFyYXBvdmEtQXV0b2Jpb2dyYXBoeS1NYXJpYS9kcC8wMzc0Mjc5Nzk5Lz90YWc9b2Zmc2l0b2Z0aW1mZS0yMA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unhkog5k/78i7h8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TaGFyYXBvdmEtQXV0b2Jpb2dyYXBoeS1NYXJpYS9kcC8wMzc0Mjc5Nzk5Lz90YWc9b2Zmc2l0b2Z0aW1mZS0yMA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unhkog5k/opfkhq/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzA4LzI2L21hcmlhLXNoYXJhcG92YS8="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "one video that catches the eye",
+      "creator": null,
+      "note": "After so many years outside\nof Buenos Aires, I felt a longing to hear tango music, and di Sarli has always\nbeen one of my favorites. This music is best listened to while dancing or\nwatching tango. Here is [one video that catches the\neye](https://el2.fourhourmail.com/c/zlue04m77unhkog5k/zvtghn/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1WbEhDUlV2OWp3WQ==),\nand [here is another\nvideo](https://el2.fourhourmail.com/c/zlue04m77unhkog5k/pnceh9/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1JU0twTC1PSHRpSQ==)\nthat is less exciting but arguably more subtle and nuanced. The song may seem\nmelancholic (as tango is often called), but I think it more accurately covers\nthe entire spectrum of human emotion, including the harder feelings we often\nprefer to avoid.**",
+      "original_url": "https://el2.fourhourmail.com/c/zlue04m77unhkog5k/zvtghn/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1WbEhDUlV2OWp3WQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unhkog5k/zvtghn/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1WbEhDUlV2OWp3WQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unhkog5k/pnceh9/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1JU0twTC1PSHRpSQ=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m experimenting with —",
+      "category": "other",
+      "title": "KetoBlitz by KetoSports",
+      "creator": null,
+      "note": "Designed by infamous biochemist Patrick Arnold (our convo\n[here](https://el2.fourhourmail.com/c/zlue04m77unhkog5k/60aeh8/aHR0cHM6Ly90aW0uYmxvZy8yMDE2LzAzLzAyL3BhdHJpY2stYXJub2xkLw==)),\nthis new exogenous ketone blend has really impressed me. Measuring blood\nconcentrations of BHB (a ketone indicator) with the [Precision\nXtra](https://el2.fourhourmail.com/c/zlue04m77unhkog5k/kmbmh6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9QcmVjaXNpb24tVGVzdGluZy1Nb25pdG9yaW5nLUdsdWNvc2UtSW5jbHVkZWQvZHAvQjAxTjlOUkRWSS9yZWY9c3JfMV8xX2FfaXQ_aWU9VVRGOCZxaWQ9MTUwNDIzNzA2MSZzcj04LTEma2V5d29yZHM9cHJlY2lzaW9uJTJCeHRyYSUyQmJsb29kJTJCa2V0b25lJTJCbWV0ZXImdGg9MS8_dGFnPW9mZnNpdG9mdGltZmUtMjA=),\nI jumped from 0.3 mmol to over 2 mmol within 60 minutes and -- most impressive\n-- appeared to stay elevated (~1.5 mmol) for hours. It appears to dramatically\nimprove my cognitive function and aerobic exercise capacity. Speak to your\nmedical professional before using; it’s strong stuff.**Most popular post on",
+      "original_url": "https://el2.fourhourmail.com/c/zlue04m77unhkog5k/xksph6/aHR0cDovL2tldG9zcG9ydHMuY29tL2tldG9ibGl0ei5odG1s",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unhkog5k/xksph6/aHR0cDovL2tldG9zcG9ydHMuY29tL2tldG9ibGl0ei5odG1s"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unhkog5k/60aeh8/aHR0cHM6Ly90aW0uYmxvZy8yMDE2LzAzLzAyL3BhdHJpY2stYXJub2xkLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unhkog5k/kmbmh6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9QcmVjaXNpb24tVGVzdGluZy1Nb25pdG9yaW5nLUdsdWNvc2UtSW5jbHVkZWQvZHAvQjAxTjlOUkRWSS9yZWY9c3JfMV8xX2FfaXQ_aWU9VVRGOCZxaWQ9MTUwNDIzNzA2MSZzcj04LTEma2V5d29yZHM9cHJlY2lzaW9uJTJCeHRyYSUyQmJsb29kJTJCa2V0b25lJTJCbWV0ZXImdGg9MS8_dGFnPW9mZnNpdG9mdGltZmUtMjA="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Instagram —",
+      "category": "other",
+      "title": "like about this…",
+      "creator": null,
+      "note": "(repost from\n[@stanceelements](https://el2.fourhourmail.com/c/zlue04m77unhkog5k/2ou2ho/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9zdGFuY2VlbGVtZW50cy8=))**Quote",
+      "original_url": "https://el2.fourhourmail.com/c/zlue04m77unhkog5k/52hvh7/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JZUk8tNEFBVDZWLz90YWtlbi1ieT10aW1mZXJyaXNz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unhkog5k/52hvh7/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JZUk8tNEFBVDZWLz90YWtlbi1ieT10aW1mZXJyaXNz"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unhkog5k/2ou2ho/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9zdGFuY2VlbGVtZW50cy8="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "I’m pondering —",
+      "category": "other",
+      "title": "send a tweet to @tferriss",
+      "creator": null,
+      "note": "and put #5BulletFriday in there so I can find it.",
+      "original_url": "https://el2.fourhourmail.com/c/zlue04m77unhkog5k/q3i8h7/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unhkog5k/q3i8h7/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    }
+  ]
 }

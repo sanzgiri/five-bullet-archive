@@ -6,7 +6,107 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Taming the Mammoth: Why You Should Stop Caring What Other People Think",
+      "creator": null,
+      "note": "This is one of the most empowering articles I’ve read in the last year. It’s\nhilarious and amazing.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dIP&mc=b&s=bomwH&u=w&y=V&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dIP&mc=b&s=bomwH&u=w&y=V&"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Most popular post on Facebook —",
+      "category": "book",
+      "title": "At University of Oregon, no more free speech for professors on race, religion, sexual orientation...",
+      "creator": null,
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dI7&mc=b&s=bomwH&u=w&y=J&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dI7&mc=b&s=bomwH&u=w&y=J&"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m playing —",
+      "category": "other",
+      "title": "Monopoly DEAL card game",
+      "creator": null,
+      "note": "This was a gift, and each game generally takes just 10-20 minutes. Many games\nwere played with my brother over wine and cookies this Christmas.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dIo&mc=b&s=bomwH&u=w&y=l&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dIo&mc=b&s=bomwH&u=w&y=l&"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Westworld",
+      "creator": null,
+      "note": "A Western-themed futuristic theme park, populated with artificial\nintelligence, allows high-paying guests to live out their fantasies with no\nconsequences or retaliation from the android hosts...until now.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dIK&mc=b&s=bomwH&u=w&y=0&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dIK&mc=b&s=bomwH&u=w&y=0&"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering more than ever —",
+      "category": "quote",
+      "title": "“Those who are easily shocked should be shocked more often.” \\- Mae West \\--- And as always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know! Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it. Thanks for reading! Have a wonderful weekend, all, Tim P.S. -- If you’re near Portland, Oregon, I just did a drive-by visit to Powell’s (on Burnside) and signed all of my books in stock, including Tools of Titans and all of The 4-Hour series. Happy new year, everyone! --- | --- | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=dIk&mc=b&s=bomwH&u=w&y=p&) --- | FORWARDED THIS MESSAGE? SIGN UP. --- | | --- Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. | | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=dIC&mc=b&s=bomwH&u=w&y=3&) ---",
+      "creator": null,
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dIM&mc=b&s=bomwH&u=w&y=5&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dIM&mc=b&s=bomwH&u=w&y=5&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dIA&mc=b&s=bomwH&u=w&y=h&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dIk&mc=b&s=bomwH&u=w&y=p&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dI8&mc=b&s=bomwH&u=w&y=G&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/6364.png?img1483076208635"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dIH&mc=b&s=bomwH&u=w&y=f&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/6075.jpg?img1483076208635"
+        }
+      ]
+    }
+  ]
 }

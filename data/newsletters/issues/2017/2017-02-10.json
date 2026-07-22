@@ -6,7 +6,123 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Paul Graham’s",
+      "creator": null,
+      "note": "fantastic essay [“Cities and\nAmbition.”](http://www.fourhournewsletter.com/click.html?x=a62e&lc=dM3&mc=b&s=bomwH&u=w&y=8&)\nShe mentioned it after hearing Debbie Millman and I discuss the “where” of\nhappiness. BTW, [Debbie’s\nepisode](http://www.fourhournewsletter.com/click.html?x=a62e&lc=dMX&mc=b&s=bomwH&u=w&y=H&)\nhas already passed 1.5M downloads, which is a new TFS record for only a few\nweeks out. Debbie rocks.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dMf&mc=b&s=bomwH&u=w&y=k&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dMf&mc=b&s=bomwH&u=w&y=k&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dM3&mc=b&s=bomwH&u=w&y=8&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dMX&mc=b&s=bomwH&u=w&y=H&"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’ve been using to help navigation while on dangerous roads —",
+      "category": "other",
+      "title": "MagicMount",
+      "creator": null,
+      "note": "is a magnetic mount system for conveniently mounting smartphones in your car.\nJust hover your device near the magnetic surface, and it instantly locks\nsecurely in place. (You can also angle your device the way you like it for\nconvenient viewing.) Since this model appears to be nearly out-of-stock, here\nis [a WizGear\noption](http://www.fourhournewsletter.com/click.html?x=a62e&lc=dMq&mc=b&s=bomwH&u=w&y=y&)\nthat appears to be a decent alternative.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dMQ&mc=b&s=bomwH&u=w&y=C&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dMQ&mc=b&s=bomwH&u=w&y=C&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dMq&mc=b&s=bomwH&u=w&y=y&"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m gifting right now —",
+      "category": "other",
+      "title": "Poorly Drawn Lines: Good Ideas and Amazing Stories",
+      "creator": "Reza Farazmand",
+      "note": ".\nThis will make 90% of you laugh your f-ing faces off. Trust me.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dMU&mc=b&s=bomwH&u=w&y=R&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dMU&mc=b&s=bomwH&u=w&y=R&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dMs&mc=b&s=bomwH&u=w&y=r&"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Most popular post on Facebook —",
+      "category": "book",
+      "title": "what would you build",
+      "creator": null,
+      "note": "?",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dA4&mc=b&s=bomwH&u=w&y=Z&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dA4&mc=b&s=bomwH&u=w&y=Z&"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.” ― Leonardo da Vinci \\--- And as always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know! Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it. Thanks for reading! Have a wonderful weekend, all, Tim P.S. -- In case you missed it, I published the second episode of Rust and Iron®. This time, we visited one of the most intense training environments in the world, Super Training Gym. Founded by Mark Bell (@MarkSmellyBell), Super Training Gym is oftentimes referred to as “the strongest gym in the west.” Prior to opening his own gym, he spent years studying and training under the legendary Louie Simmons at Westside Barbell. In this video, Mark shares some of his favorite tools, odd exercises, and more. Enjoy! --- | --- | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAb&mc=b&s=bomwH&u=w&y=D&) --- | FORWARDED THIS MESSAGE? SIGN UP. --- | | --- Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. | | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAt&mc=b&s=bomwH&u=w&y=u&) ---",
+      "creator": null,
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAw&mc=b&s=bomwH&u=w&y=2&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAw&mc=b&s=bomwH&u=w&y=2&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAd&mc=b&s=bomwH&u=w&y=x&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAe&mc=b&s=bomwH&u=w&y=T&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dAd&mc=b&s=bomwH&u=w&y=x&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/6364.png?img1486741507445"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dA1&mc=b&s=bomwH&u=w&y=W&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/6075.jpg?img1486741507445"
+        }
+      ]
+    }
+  ]
 }

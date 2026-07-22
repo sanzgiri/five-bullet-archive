@@ -6,7 +6,76 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "DOOMSDAY PREP FOR THE SUPER- RICH",
+      "creator": null,
+      "note": "(New Yorker) -- “Some of the wealthiest people in America—in Silicon Valley,\nNew York, and beyond—are getting ready for the crackup of civilization.” I’m\nnot super rich, but I do enjoy a good apocalypse read as much as the next guy.\nI might even be part-prepper, as readers of “WILD” section in [The 4-Hour\nChef](https://el2.fourhourmail.com/c/75u8wd0mmu8hk34v5/q1opyg/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS80LUhvdXItQ2hlZi1Db29raW5nLUxlYXJuaW5nLUFueXRoaW5nL2RwLzA1NDc4ODQ1OTEv)\nknow. One of my editors laughed at recommendations in early drafts of that\nsection… until Hurricane Sandy caught NYC with its pants down two weeks later.\n#generatorandwater**",
+      "original_url": "https://el2.fourhourmail.com/c/75u8wd0mmu8hk34v5/l178yv/aHR0cDovL3d3dy5uZXd5b3JrZXIuY29tL21hZ2F6aW5lLzIwMTcvMDEvMzAvZG9vbXNkYXktcHJlcC1mb3ItdGhlLXN1cGVyLXJpY2g=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8hk34v5/l178yv/aHR0cDovL3d3dy5uZXd5b3JrZXIuY29tL21hZ2F6aW5lLzIwMTcvMDEvMzAvZG9vbXNkYXktcHJlcC1mb3ItdGhlLXN1cGVyLXJpY2g="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8hk34v5/q1opyg/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS80LUhvdXItQ2hlZi1Db29raW5nLUxlYXJuaW5nLUFueXRoaW5nL2RwLzA1NDc4ODQ1OTEv"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Music I’m listening to —",
+      "category": "music",
+      "title": "RJD2 station on Pandora",
+      "creator": null,
+      "note": "I usually start my day with Brazilian Bossa Nova music, but if I’m feeling\ntired and need a faster, funkier tempo, this is my go-to.**Most popular post\non Instagram —**  \n[Me lifting a sumo\nwrestler](https://el2.fourhourmail.com/c/75u8wd0mmu8hk34v5/e1pnyl/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JTTEN5ZzNCeTRBLz90YWtlbi1ieT10aW1mZXJyaXNz)\nin Tokyo at age 15….**",
+      "original_url": "https://el2.fourhourmail.com/c/75u8wd0mmu8hk34v5/x1zvjk/aHR0cHM6Ly93d3cucGFuZG9yYS5jb20vYXJ0aXN0L3JqZDI=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8hk34v5/x1zvjk/aHR0cHM6Ly93d3cucGFuZG9yYS5jb20vYXJ0aXN0L3JqZDI="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8hk34v5/e1pnyl/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JTTEN5ZzNCeTRBLz90YWtlbi1ieT10aW1mZXJyaXNz"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Purchase I’m loving —",
+      "category": "other",
+      "title": "Hyperice HYPERSPHERE Vibration Therapy Ball",
+      "creator": null,
+      "note": "Much “higher-chain” inflexibility is caused by lower-body mobility issues,\nwhich can be improved with soft-tissue therapy. Massage or a foam roller can\nbe effective, but I’ve been using this vibrating ball for my hamstrings and\nhips/glutes (especially piriformis). Rumor has it that Tom Brady’s trainer\nuses the foam roller variation. Word to the wise: this is best used on\ncarpet.**",
+      "original_url": "https://el2.fourhourmail.com/c/75u8wd0mmu8hk34v5/41xkjn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9IeXBlcmljZS1IWVBFUlNQSEVSRS1Mb2NhbGl6ZWQtVmlicmF0aW9uLVRoZXJhcHkvZHAvQjAxN1dSM0hCQy8_dGFnPW9mZnNpdG9mdGltZmUtMjA=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8hk34v5/41xkjn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9IeXBlcmljZS1IWVBFUlNQSEVSRS1Mb2NhbGl6ZWQtVmlicmF0aW9uLVRoZXJhcHkvZHAvQjAxN1dSM0hCQy8_dGFnPW9mZnNpdG9mdGltZmUtMjA="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "\"All happiness depends on a leisurely breakfast.\" \\- John Gunther\\---And as always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know. Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it.",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/75u8wd0mmu8hk34v5/ly60ym/aHR0cDovL3d3dy5mb3VyaG91cm5ld3NsZXR0ZXIuY29tL2NsaWNrLmh0bWw_eD1hNjJlJmxjPUozJm1jPWUmcz1kV3Y5NSZ1PXcmeT1sJg==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8hk34v5/ly60ym/aHR0cDovL3d3dy5mb3VyaG91cm5ld3NsZXR0ZXIuY29tL2NsaWNrLmh0bWw_eD1hNjJlJmxjPUozJm1jPWUmcz1kV3Y5NSZ1PXcmeT1sJg=="
+        }
+      ]
+    }
+  ]
 }

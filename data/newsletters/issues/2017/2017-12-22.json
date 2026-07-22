@@ -6,7 +6,95 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m playing —",
+      "category": "other",
+      "title": "Cuphead video game",
+      "creator": null,
+      "note": "I don’t play video games much, mostly because I’ve been addicted before.\nNonetheless, my friend’s son and I recently ended up playing Cuphead, which\nblew my mind. I have a soft spot for old animation like ancient Mickey Mouse\nand Looney Tunes, and the graphics of this game are precisely modeled after\nthat look. Check out [this\ntrailer](https://el2.fourhourmail.com/c/d0u95nv33i0hk4owv/opfkhq/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1ELTFuMTVhSWdzRQ==)\nor [this 8-minute\nexample](https://el2.fourhourmail.com/c/d0u95nv33i0hk4owv/zvtghn/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj12YVh0QXU0MktSSQ==).\nGotta say: awesome idea. Kudos to the team who created this. Beautiful\nwork.**",
+      "original_url": "https://el2.fourhourmail.com/c/d0u95nv33i0hk4owv/78i7h8/aHR0cDovL3d3dy5jdXBoZWFkZ2FtZS5jb20v",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hk4owv/78i7h8/aHR0cDovL3d3dy5jdXBoZWFkZ2FtZS5jb20v"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hk4owv/opfkhq/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1ELTFuMTVhSWdzRQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hk4owv/zvtghn/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj12YVh0QXU0MktSSQ=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Living On One Dollar",
+      "creator": null,
+      "note": "This short documentary was originally recommended to me by the [incredible\npolymath, futurist, and world traveler Kevin\nKelly](https://el2.fourhourmail.com/c/d0u95nv33i0hk4owv/xksph6/aHR0cHM6Ly90aW0uYmxvZy8yMDE0LzA4LzI5L2tldmluLWtlbGx5Lw==).\nIt’s been recommended several times since, and so far (I’m only 30 minutes\nin), I’m impressed by the quality and earnestness of this project. Here is the\nofficial description on Amazon: “Four young friends set out to live on just $1\na day for two months in rural Guatemala. Armed with only a video camera, they\nbattle hunger, parasites, and extreme financial stress as they attempt to\nsurvive life on the edge.” Side note: more than a billion people in the world\nsubsist on less than $1 USD per day.**",
+      "original_url": "https://el2.fourhourmail.com/c/d0u95nv33i0hk4owv/pnceh9/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9MaXZpbmctT25lLURvbGxhci1DaHJpcy1UZW1wbGUvZHAvQjAxS0JaSDBQNi9yZWY9c3JfMV8xX2R2dF8xX3duendfYnRuP3M9aW5zdGFudC12aWRlbyZpZT1VVEY4JnFpZD0xNTEzOTEwNzQyJnNyPTEtMSZrZXl3b3Jkcz1vbmUrZG9sbGFyK2ErZGF5JmF1dG9wbGF5PTE=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hk4owv/pnceh9/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9MaXZpbmctT25lLURvbGxhci1DaHJpcy1UZW1wbGUvZHAvQjAxS0JaSDBQNi9yZWY9c3JfMV8xX2R2dF8xX3duendfYnRuP3M9aW5zdGFudC12aWRlbyZpZT1VVEY4JnFpZD0xNTEzOTEwNzQyJnNyPTEtMSZrZXl3b3Jkcz1vbmUrZG9sbGFyK2ErZGF5JmF1dG9wbGF5PTE="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hk4owv/xksph6/aHR0cHM6Ly90aW0uYmxvZy8yMDE0LzA4LzI5L2tldmluLWtlbGx5Lw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m experimenting with —",
+      "category": "other",
+      "title": "Nature Made Melatonin + 200 Mg L-theanine",
+      "creator": null,
+      "note": "This past week, I’ve been jumping across time zones due to travel. I find the\ntheanine in this combo seems to cut the AM drowsiness that sometimes results\nfrom melatonin taken by itself.**",
+      "original_url": "https://el2.fourhourmail.com/c/d0u95nv33i0hk4owv/60aeh8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9OYXR1cmUtTWFkZS1NZWxhdG9uaW4tTC10aGVhbmluZS1QYWNrYWdpbmcvZHAvQjAwN1JDNlpTQT9TdWJzY3JpcHRpb25JZD1BS0lBSUxTSFlZVEZJVlBXVVk2USZ0YWc9ZHVja2R1Y2tnby1kLTIwJmxpbmtDb2RlPXhtMiZjYW1wPTIwMjUmY3JlYXRpdmU9MTY1OTUzJmNyZWF0aXZlQVNJTj1CMDA3UkM2WlNBJnRoPTE=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hk4owv/60aeh8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9OYXR1cmUtTWFkZS1NZWxhdG9uaW4tTC10aGVhbmluZS1QYWNrYWdpbmcvZHAvQjAwN1JDNlpTQT9TdWJzY3JpcHRpb25JZD1BS0lBSUxTSFlZVEZJVlBXVVk2USZ0YWc9ZHVja2R1Y2tnby1kLTIwJmxpbmtDb2RlPXhtMiZjYW1wPTIwMjUmY3JlYXRpdmU9MTY1OTUzJmNyZWF0aXZlQVNJTj1CMDA3UkM2WlNBJnRoPTE="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Most popular post on Instagram —",
+      "category": "other",
+      "title": "This sport",
+      "creator": null,
+      "note": "has a rough learning curve...**",
+      "original_url": "https://el2.fourhourmail.com/c/d0u95nv33i0hk4owv/kmbmh6/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JjM3FHem1sSUlULz90YWtlbi1ieT10aW1mZXJyaXNz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hk4owv/kmbmh6/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JjM3FHem1sSUlULz90YWtlbi1ieT10aW1mZXJyaXNz"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "(found inWhitney Cumming’s new book) “In the end, only three things matter: how much you loved, how gently you lived, and how gracefully you let go of things not meant for you.” -Jack Kornfield",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/d0u95nv33i0hk4owv/52hvh7/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9GaW5lLU90aGVyLUxpZXMtV2hpdG5leS1DdW1taW5ncy9kcC8wNzM1MjEyNjAwL3JlZj10bW1faHJkX3N3YXRjaF8wP19lbmNvZGluZz1VVEY4JnFpZD0xNTEzMzY2MjY3JnNyPTEtMQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hk4owv/52hvh7/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9GaW5lLU90aGVyLUxpZXMtV2hpdG5leS1DdW1taW5ncy9kcC8wNzM1MjEyNjAwL3JlZj10bW1faHJkX3N3YXRjaF8wP19lbmNvZGluZz1VVEY4JnFpZD0xNTEzMzY2MjY3JnNyPTEtMQ=="
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,103 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "The Psychedelic Revolution Is Being Led by a 79-Year-Old Holocaust Survivor",
+      "creator": null,
+      "note": "I’ve spent time with George, and his story makes him all the more\nimpressive.**",
+      "original_url": "https://el2.fourhourmail.com/c/68u8wxgppu8h5m07g/78i7h8/aHR0cHM6Ly93d3cudmljZS5jb20vZW5fdXMvYXJ0aWNsZS9qNXg3NDgvdGhlLXJlZnVnZWUtZnVuZGluZy1hbWVyaWNhcy1wc3ljaGVkZWxpYy1yZW5haXNzYW5jZQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8h5m07g/78i7h8/aHR0cHM6Ly93d3cudmljZS5jb20vZW5fdXMvYXJ0aWNsZS9qNXg3NDgvdGhlLXJlZnVnZWUtZnVuZGluZy1hbWVyaWNhcy1wc3ljaGVkZWxpYy1yZW5haXNzYW5jZQ=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m experimenting with —",
+      "category": "other",
+      "title": "Grayscaling my phone",
+      "creator": null,
+      "note": "This was recommended to me by comedian Whitney Cummings, and it has been\nstudied for dramatically reducing smart phone and social media use.Here are\n[instructions from\nLifehacker](https://el2.fourhourmail.com/c/68u8wxgppu8h5m07g/zvtghn/aHR0cHM6Ly9saWZlaGFja2VyLmNvbS9jaGFuZ2UteW91ci1zY3JlZW4tdG8tZ3JheXNjYWxlLXRvLWNvbWJhdC1waG9uZS1hZGRpY3RpLTE3OTU4MjE4NDM=):\n\"The process for enabling grayscale differs for different models of Android\nphones, but it’s typically accessed via the “Accessibility” menu. In iOS 10,\ngo to Settings > General > Accessibility >Display Accommodations >Color\nFilters. Switch Color Filters on and select Grayscale. To easily toggle\nbetween color and grayscale, go to Settings > General > Accessibility >\nAccessibility Shortcut > Color Filters. Now, you just press the home button\nthree times to enable grayscale. Triple-click again to go back to\ncolor.\"**",
+      "original_url": "https://el2.fourhourmail.com/c/68u8wxgppu8h5m07g/opfkhq/aHR0cHM6Ly9saWZlaGFja2VyLmNvbS9jaGFuZ2UteW91ci1zY3JlZW4tdG8tZ3JheXNjYWxlLXRvLWNvbWJhdC1waG9uZS1hZGRpY3RpLTE3OTU4MjE4NDM=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8h5m07g/opfkhq/aHR0cHM6Ly9saWZlaGFja2VyLmNvbS9jaGFuZ2UteW91ci1zY3JlZW4tdG8tZ3JheXNjYWxlLXRvLWNvbWJhdC1waG9uZS1hZGRpY3RpLTE3OTU4MjE4NDM="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8h5m07g/zvtghn/aHR0cHM6Ly9saWZlaGFja2VyLmNvbS9jaGFuZ2UteW91ci1zY3JlZW4tdG8tZ3JheXNjYWxlLXRvLWNvbWJhdC1waG9uZS1hZGRpY3RpLTE3OTU4MjE4NDM="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "The Director's Chair: Sylvester Stallone - Full Episode",
+      "creator": null,
+      "note": "\\-- This episode of The Director’s Chair was recommended to me by the series’\ncreator, Robert Rodriguez\n([@Rodriguez](https://el2.fourhourmail.com/c/68u8wxgppu8h5m07g/xksph6/aHR0cHM6Ly90d2l0dGVyLmNvbS9yb2RyaWd1ZXo=)).\nEven if you’re familiar with Stallone’s career, the details of his\nstorytelling, comebacks from failure, and more will make your head spin. He’s\nmuch more than an actor. Fantastic watching.**",
+      "original_url": "https://el2.fourhourmail.com/c/68u8wxgppu8h5m07g/pnceh9/aHR0cDovL3d3dy5kYWlseW1vdGlvbi5jb20vdmlkZW8veDNqc2l2Mg==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8h5m07g/pnceh9/aHR0cDovL3d3dy5kYWlseW1vdGlvbi5jb20vdmlkZW8veDNqc2l2Mg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8h5m07g/xksph6/aHR0cHM6Ly90d2l0dGVyLmNvbS9yb2RyaWd1ZXo="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Most popular post on Instagram —",
+      "category": "other",
+      "title": "Here we go",
+      "creator": null,
+      "note": ",\nNYC...**",
+      "original_url": "https://el2.fourhourmail.com/c/68u8wxgppu8h5m07g/60aeh8/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JiYzZYQ2VGTUhSLz90YWtlbi1ieT10aW1mZXJyaXNz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8h5m07g/60aeh8/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JiYzZYQ2VGTUhSLz90YWtlbi1ieT10aW1mZXJyaXNz"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“If you think you’re enlightened, go spend a week with your family.” -Ram Dass[](https://el2.fourhourmail.com/c/68u8wxgppu8h5m07g/kmbmh6/aHR0cHM6Ly9lbi53aWtpcXVvdGUub3JnL3dpa2kvTm92YWxpcw==) \\--- And as always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know. Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it. Have a wonderful weekend, all! Tim P.S. -- I’m launching my first-ever ambassador campaign. It’s my way of saying thank you for all of your support. Here’s how it works: refer your friends to 5-Bullet Friday, and you’ll receive free gifts and exclusive content sent directly to your inbox. Click here to learn more...[](https://el2.fourhourmail.com/c/68u8wxgppu8h5m07g/gvfnh5/aHR0cHM6Ly9idWZmLmx5LzJocHFRNDI=)[](https://el2.fourhourmail.com/c/68u8wxgppu8h5m07g/93tzhn/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1RpbUZlcnJpc3MvcG9zdHMvMTAxNTU4OTAxNzgyNTcyNDE=)[](https://el2.fourhourmail.com/c/68u8wxgppu8h5m07g/3wcphk/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=)",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/68u8wxgppu8h5m07g/52hvh7/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8h5m07g/52hvh7/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8h5m07g/2ou2ho/aHR0cHM6Ly9hbWJhc3NhZG9yLnRpbS5ibG9nLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8h5m07g/q3i8h7/aHR0cHM6Ly9hbWJhc3NhZG9yLnRpbS5ibG9nLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/837045/content_tom-email-footer-03.jpg"
+        }
+      ]
+    }
+  ]
 }

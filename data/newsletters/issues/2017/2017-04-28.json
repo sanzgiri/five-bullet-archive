@@ -6,7 +6,91 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Wabi-Sabi for Artists, Designers, Poets & Philosophers",
+      "creator": null,
+      "note": "This is an updated version of the seminal 1994 classic on the beauty of things\nimperfect, impermanent, and incomplete. Nearly every book with \"wabi\" or\n\"wabi-sabi\" in the title is based on the concepts first elucidated in this\nbook.**",
+      "original_url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hoe6oz/l178yv/aHR0cDovL2Ftem4udG8vMnFjdGJsUg==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hoe6oz/l178yv/aHR0cDovL2Ftem4udG8vMnFjdGJsUg=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Something I’m thinking a lot about —",
+      "category": "other",
+      "title": "“Cohousing”",
+      "creator": null,
+      "note": "and variations I could explore to combat loneliness in myself and others. This\ninterest was triggered by a live TED talk yesterday from [architect Grace\nKim](https://el2.fourhourmail.com/c/0vukl0mnnu9hoe6oz/x1zvjk/aHR0cHM6Ly90d2l0dGVyLmNvbS9ncmFjZWtpbWFyY2g=)\nthat I saw in Vancouver, BC. She calls cohousing, in which she lives herself,\nan “antidote to isolation.” **",
+      "original_url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hoe6oz/q1opyg/aHR0cDovL2xpZmVlZGl0ZWQuY29tL2EtdGhvcm91Z2hseS1tb2Rlcm4tdGFrZS1vbi1jb2hvdXNpbmcv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hoe6oz/q1opyg/aHR0cDovL2xpZmVlZGl0ZWQuY29tL2EtdGhvcm91Z2hseS1tb2Rlcm4tdGFrZS1vbi1jb2hvdXNpbmcv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hoe6oz/x1zvjk/aHR0cHM6Ly90d2l0dGVyLmNvbS9ncmFjZWtpbWFyY2g="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Most popular post on Instagram —",
+      "category": "other",
+      "title": "this one",
+      "creator": null,
+      "note": "a lot this week…**",
+      "original_url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hoe6oz/e1pnyl/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JUUDZsanpGLWYxLz90YWtlbi1ieT10aW1mZXJyaXNz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hoe6oz/e1pnyl/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JUUDZsanpGLWYxLz90YWtlbi1ieT10aW1mZXJyaXNz"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "A favor that’s good for you —",
+      "category": "other",
+      "title": "Murray Carter",
+      "creator": null,
+      "note": "Few people have heard of him and he’s beyond incredible. I encourage you to\n[check it\nout](https://el2.fourhourmail.com/c/0vukl0mnnu9hoe6oz/ly60ym/aHR0cDovL3RpbS5ibG9nLzIwMTcvMDQvMjYvbXVycmF5LWNhcnRlci8=).\nIt’s one of the first (might be the very first) long interviews he’s\ndone.**",
+      "original_url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hoe6oz/41xkjn/aHR0cDovL3RpbS5ibG9nLzIwMTcvMDQvMjYvbXVycmF5LWNhcnRlci8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hoe6oz/41xkjn/aHR0cDovL3RpbS5ibG9nLzIwMTcvMDQvMjYvbXVycmF5LWNhcnRlci8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hoe6oz/ly60ym/aHR0cDovL3RpbS5ibG9nLzIwMTcvMDQvMjYvbXVycmF5LWNhcnRlci8="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Emptiness is the fasting of the mind.” \\- Zhuangzi (369-286)\\---And as always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know. Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it.",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hoe6oz/gykm1o/aHR0cDovL3d3dy5mb3VyaG91cm5ld3NsZXR0ZXIuY29tL2NsaWNrLmh0bWw_eD1hNjJlJmxjPUozJm1jPWUmcz1kV3Y5NSZ1PXcmeT1sJg==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hoe6oz/gykm1o/aHR0cDovL3d3dy5mb3VyaG91cm5ld3NsZXR0ZXIuY29tL2NsaWNrLmh0bWw_eD1hNjJlJmxjPUozJm1jPWUmcz1kV3Y5NSZ1PXcmeT1sJg=="
+        }
+      ]
+    }
+  ]
 }

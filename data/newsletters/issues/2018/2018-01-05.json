@@ -6,7 +6,107 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Tech tool I’m enjoying —",
+      "category": "other",
+      "title": "Kevin Rose",
+      "creator": null,
+      "note": ",\nwhat his favorite app was for scanning documents. His answer was\n[Scannable](https://el2.fourhourmail.com/c/lmun74z88amh4nd3n/opfkhq/aHR0cHM6Ly9ldmVybm90ZS5jb20vcHJvZHVjdHMvc2Nhbm5hYmxlLw==).\nThus far, it’s been exceptionally smooth and fast.**",
+      "original_url": "https://el2.fourhourmail.com/c/lmun74z88amh4nd3n/78i7h8/aHR0cHM6Ly90d2l0dGVyLmNvbS9rZXZpbnJvc2U=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amh4nd3n/78i7h8/aHR0cHM6Ly90d2l0dGVyLmNvbS9rZXZpbnJvc2U="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amh4nd3n/opfkhq/aHR0cHM6Ly9ldmVybm90ZS5jb20vcHJvZHVjdHMvc2Nhbm5hYmxlLw=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "The First Mess Cookbook: Vibrant Plant-Based Recipes to Eat Well Through the Seasons",
+      "creator": null,
+      "note": "This book was recommended to me by an incredible chef at [Spirit Rock\nMeditation\nCenter](https://el2.fourhourmail.com/c/lmun74z88amh4nd3n/pnceh9/aHR0cHM6Ly93d3cuc3Bpcml0cm9jay5vcmcv)\nnamed Mary (thanks, Mary!). I am not vegetarian, but I ate as a vegetarian for\n10 days, and one dish in particular blew my socks off: [mustard roasted\nbroccoli pâté with leeks +\nlemon](https://el2.fourhourmail.com/c/lmun74z88amh4nd3n/xksph6/aHR0cDovL3RoZWZpcnN0bWVzcy5jb20vMjAxMy8xMi8xMi9tdXN0YXJkLXJvYXN0ZWQtYnJvY2NvbGktcmlsbGV0dGVzLXJlY2lwZS8=).\nI asked Mary how she made it, and she pointed me to First Mess… with a few\nmodifications of her own: “[We] didn’t use nutritional yeast, added roasted\npumpkin seeds, lots of fresh parsley, sherry vinegar, whole grain and dijon\nmustard.”**",
+      "original_url": "https://el2.fourhourmail.com/c/lmun74z88amh4nd3n/zvtghn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9ncC9wcm9kdWN0LzE1ODMzMzU5MDAv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amh4nd3n/zvtghn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9ncC9wcm9kdWN0LzE1ODMzMzU5MDAv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amh4nd3n/pnceh9/aHR0cHM6Ly93d3cuc3Bpcml0cm9jay5vcmcv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amh4nd3n/xksph6/aHR0cDovL3RoZWZpcnN0bWVzcy5jb20vMjAxMy8xMi8xMi9tdXN0YXJkLXJvYXN0ZWQtYnJvY2NvbGktcmlsbGV0dGVzLXJlY2lwZS8="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Mandarin VS Cantonese | Learn Chinese Now",
+      "creator": null,
+      "note": "\\-- I discovered this short video when trying to polish my “Happy new year!” in Cantonese. What most people think of as “Chinese” is typically called “Mandarin” in English and refers to northern mainland Chinese dialect. “Cantonese” is spoken in Hong Kong, among other areas, and is very, very different. This cute video does a great job of explaining basic differences. _Jiā yóu!_ (“add gas” in Mandarin, which means “good luck” or “try hard,” often heard from supporters at sports events)**",
+      "original_url": "https://el2.fourhourmail.com/c/lmun74z88amh4nd3n/60aeh8/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1mWUJCaVFEbU5EWQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amh4nd3n/60aeh8/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1mWUJCaVFEbU5EWQ=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Most popular post on Instagram —",
+      "category": "other",
+      "title": "SO lazy...",
+      "creator": null,
+      "note": "Quote",
+      "original_url": "https://el2.fourhourmail.com/c/lmun74z88amh4nd3n/kmbmh6/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JkVEZlb0lGTmRiLz90YWtlbi1ieT10aW1mZXJyaXNz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amh4nd3n/kmbmh6/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JkVEZlb0lGTmRiLz90YWtlbi1ieT10aW1mZXJyaXNz"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "I’m pondering —",
+      "category": "other",
+      "title": "The 4-Hour Workweek",
+      "creator": null,
+      "note": "was\npublished. And it amazes me that the book is still [the most highlighted\nbook](https://el2.fourhourmail.com/c/lmun74z88amh4nd3n/2ou2ho/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9hcnRpY2xlL3RoaXMteWVhci1pbi1ib29rcw==)\nacross all of Amazon in 2017. [This new\npost](https://el2.fourhourmail.com/c/lmun74z88amh4nd3n/q3i8h7/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzEyLzMwL2hvdy10by1idWlsZC1hLW1pbGxpb24tZG9sbGFyLW9uZS1wZXJzb24tYnVzaW5lc3Mv)\nhighlights six different people who built a million dollar business after\nreading The 4-Hour Workweek. I hope [the\npost](https://el2.fourhourmail.com/c/lmun74z88amh4nd3n/gvfnh5/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzEyLzMwL2hvdy10by1idWlsZC1hLW1pbGxpb24tZG9sbGFyLW9uZS1wZXJzb24tYnVzaW5lc3Mv)\ninspires you to accomplish more than you thought\npossible.[![](https://convertkit.s3.amazonaws.com/assets/pictures/11125/837045/content_tom-\nemail-\nfooter-03.jpg)](https://el2.fourhourmail.com/c/lmun74z88amh4nd3n/93tzhn/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=)",
+      "original_url": "https://el2.fourhourmail.com/c/lmun74z88amh4nd3n/52hvh7/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS80LUhvdXItV29ya3dlZWstRXNjYXBlLUxpdmUtQW55d2hlcmUvZHAvMDMwNzQ2NTM1Nw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amh4nd3n/52hvh7/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS80LUhvdXItV29ya3dlZWstRXNjYXBlLUxpdmUtQW55d2hlcmUvZHAvMDMwNzQ2NTM1Nw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amh4nd3n/2ou2ho/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9hcnRpY2xlL3RoaXMteWVhci1pbi1ib29rcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amh4nd3n/q3i8h7/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzEyLzMwL2hvdy10by1idWlsZC1hLW1pbGxpb24tZG9sbGFyLW9uZS1wZXJzb24tYnVzaW5lc3Mv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amh4nd3n/gvfnh5/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzEyLzMwL2hvdy10by1idWlsZC1hLW1pbGxpb24tZG9sbGFyLW9uZS1wZXJzb24tYnVzaW5lc3Mv"
+        }
+      ]
+    }
+  ]
 }

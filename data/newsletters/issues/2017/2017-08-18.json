@@ -6,7 +6,91 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Project I’m considering —",
+      "category": "other",
+      "title": "let me know.",
+      "creator": null,
+      "note": "What",
+      "original_url": "https://el2.fourhourmail.com/c/27uk8e5mmuoh8o8p4/78i7h8/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1RpbUZlcnJpc3MvcG9zdHMvMTAxNTU2NjQzMDA3MjcyNDE=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuoh8o8p4/78i7h8/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1RpbUZlcnJpc3MvcG9zdHMvMTAxNTU2NjQzMDA3MjcyNDE="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "I’m watching —",
+      "category": "video",
+      "title": "Brooklyn Castle",
+      "creator": null,
+      "note": "This documentary was first recommended to me by Arnold Schwarzenegger (podcast\nwith him\n[here](https://el2.fourhourmail.com/c/27uk8e5mmuoh8o8p4/zvtghn/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzAyLzAyL2Fybm9sZC1zY2h3YXJ6ZW5lZ2dlci8=)),\nwho plays chess on a daily basis. I had a hard time finding it online for two\nyears, and then I chanced upon it on Amazon last week. Here’s the description:\n“Imagine a school where the cool kids are the chess team! Welcome to I.S. 318.\nThis irresistibly uplifting doc tells the stories of five members of the chess\nteam at an inner city junior high school that has won more national\nchampionships than any other in the country.”**",
+      "original_url": "https://el2.fourhourmail.com/c/27uk8e5mmuoh8o8p4/opfkhq/aHR0cDovL2Ftem4udG8vMndUaW1zMA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuoh8o8p4/opfkhq/aHR0cDovL2Ftem4udG8vMndUaW1zMA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuoh8o8p4/zvtghn/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzAyLzAyL2Fybm9sZC1zY2h3YXJ6ZW5lZ2dlci8="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Lakota Belief and Ritual",
+      "creator": null,
+      "note": "I’ve been digesting a lot of writing on technology and politics recently, and\nI needed a change. This book was a gift from a dear friend, and it’s a\ncollection of hundreds of pages of notes, interviews, texts, and essays that\nJames R. Walker amassed during his eighteen years at Pine Ridge Reservation.\nIt’s certainly not for everyone, but speaking as someone fascinated by Native\nAmerican traditions and obsessed with languages, this book is a wonderful,\nimmersive change of pace. As _Minnesota History_ put it, \"In the writing of\nIndian history, historians and other scholars seldom have the opportunity to\nlook at the past through 'native eyes' or to immerse themselves in documents\ncreated by Indians. For the Oglala and some of the other divisions of the\nLakota, the Walker materials provide this kind of experience in fascinating\nand rich detail during an important transition period in their history.\"**Most",
+      "original_url": "https://el2.fourhourmail.com/c/27uk8e5mmuoh8o8p4/pnceh9/aHR0cDovL2Ftem4udG8vMnZNbTMyQQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuoh8o8p4/pnceh9/aHR0cDovL2Ftem4udG8vMnZNbTMyQQ=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "popular post on Instagram —",
+      "category": "other",
+      "title": "\"nowhere\" to work out",
+      "creator": null,
+      "note": "(via\n[@kaisafit](https://el2.fourhourmail.com/c/27uk8e5mmuoh8o8p4/60aeh8/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9rYWlzYWZpdC8=))...**Quote",
+      "original_url": "https://el2.fourhourmail.com/c/27uk8e5mmuoh8o8p4/xksph6/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JYdjBUZkhsdmNTLz90YWtlbi1ieT10aW1mZXJyaXNz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuoh8o8p4/xksph6/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JYdjBUZkhsdmNTLz90YWtlbi1ieT10aW1mZXJyaXNz"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuoh8o8p4/60aeh8/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9rYWlzYWZpdC8="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "I’m pondering —",
+      "category": "other",
+      "title": "send a tweet to @tferriss",
+      "creator": null,
+      "note": "and put #5BulletFriday in there so I can find it.",
+      "original_url": "https://el2.fourhourmail.com/c/27uk8e5mmuoh8o8p4/kmbmh6/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuoh8o8p4/kmbmh6/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    }
+  ]
 }

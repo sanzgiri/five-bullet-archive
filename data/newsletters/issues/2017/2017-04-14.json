@@ -6,7 +6,84 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m experimenting with —",
+      "category": "other",
+      "title": "Broiling burgers in tin foil",
+      "creator": null,
+      "note": "to save on clean up and ensure multiple burgers are done at the same time\n(Thanks to\n[@thefoodlab](https://el2.fourhourmail.com/c/p9urq7wddu9h3mkge/q1opyg/aHR0cHM6Ly90d2l0dGVyLmNvbS9AdGhlZm9vZGxhYg==)).\nI've been doing this with ground caribou with mixed-in pork fat (no bun for me\nunless cheat day), and the results have been stellar. Add [black and bleu\nrub](https://el2.fourhourmail.com/c/p9urq7wddu9h3mkge/x1zvjk/aHR0cHM6Ly9zcGljZW9sb2dpc3QuY29tL3Byb2R1Y3RzL2JsYWNrLWFuZC1ibGV1)\nto the initial mix for fail-safe flavor, if that's your style.**What I’m\nreading —**  \n[A single night light exposure acutely alters hormonal and metabolic responses\nin healthy\nparticipants](https://el2.fourhourmail.com/c/p9urq7wddu9h3mkge/e1pnyl/aHR0cHM6Ly93d3cubmNiaS5ubG0ubmloLmdvdi9tL3B1Ym1lZC8yODI3MDU1OS8=).\n(Albreiki MS, et al. Endocr Connect. 2017.)**",
+      "original_url": "https://el2.fourhourmail.com/c/p9urq7wddu9h3mkge/l178yv/aHR0cDovL3d3dy5zZXJpb3VzZWF0cy5jb20vcmVjaXBlcy8yMDEwLzA3L2p1aWN5LWJyb2lsZWQtYnVyZ2Vycy1yZWNpcGUuaHRtbA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h3mkge/l178yv/aHR0cDovL3d3dy5zZXJpb3VzZWF0cy5jb20vcmVjaXBlcy8yMDEwLzA3L2p1aWN5LWJyb2lsZWQtYnVyZ2Vycy1yZWNpcGUuaHRtbA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h3mkge/q1opyg/aHR0cHM6Ly90d2l0dGVyLmNvbS9AdGhlZm9vZGxhYg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h3mkge/x1zvjk/aHR0cHM6Ly9zcGljZW9sb2dpc3QuY29tL3Byb2R1Y3RzL2JsYWNrLWFuZC1ibGV1"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h3mkge/e1pnyl/aHR0cHM6Ly93d3cubmNiaS5ubG0ubmloLmdvdi9tL3B1Ym1lZC8yODI3MDU1OS8="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "the life of Seneca",
+      "creator": null,
+      "note": "The tone is as fusty and British (and I love Brits) as it gets, but there's a\nlot of [fascinating\ncontext](https://el2.fourhourmail.com/c/p9urq7wddu9h3mkge/ly60ym/aHR0cDovL3d3dy5iYmMuY28udWsvcHJvZ3JhbW1lcy9iMDhmaDBiaA==).**Most",
+      "original_url": "https://el2.fourhourmail.com/c/p9urq7wddu9h3mkge/41xkjn/aHR0cDovL3d3dy5iYmMuY28udWsvcHJvZ3JhbW1lcy9iMDhmaDBiaA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h3mkge/41xkjn/aHR0cDovL3d3dy5iYmMuY28udWsvcHJvZ3JhbW1lcy9iMDhmaDBiaA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h3mkge/ly60ym/aHR0cDovL3d3dy5iYmMuY28udWsvcHJvZ3JhbW1lcy9iMDhmaDBiaA=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "popular post on Facebook —",
+      "category": "book",
+      "title": "10 Podcasts That Will Make You Smarter",
+      "creator": null,
+      "note": "Quote",
+      "original_url": "https://el2.fourhourmail.com/c/p9urq7wddu9h3mkge/gykm1o/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1RpbUZlcnJpc3MvcG9zdHMvMTAxNTUxOTgxMDc5MjIyNDE=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h3mkge/gykm1o/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1RpbUZlcnJpc3MvcG9zdHMvMTAxNTUxOTgxMDc5MjIyNDE="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "I’m pondering —",
+      "category": "other",
+      "title": "send a tweet to @tferriss",
+      "creator": null,
+      "note": "and put #5BulletFriday in there so I can find it.",
+      "original_url": "https://el2.fourhourmail.com/c/p9urq7wddu9h3mkge/vj52jo/aHR0cDovL3d3dy5mb3VyaG91cm5ld3NsZXR0ZXIuY29tL2NsaWNrLmh0bWw_eD1hNjJlJmxjPUozJm1jPWUmcz1kV3Y5NSZ1PXcmeT1sJg==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h3mkge/vj52jo/aHR0cDovL3d3dy5mb3VyaG91cm5ld3NsZXR0ZXIuY29tL2NsaWNrLmh0bWw_eD1hNjJlJmxjPUozJm1jPWUmcz1kV3Y5NSZ1PXcmeT1sJg=="
+        }
+      ]
+    }
+  ]
 }

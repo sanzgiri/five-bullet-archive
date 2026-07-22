@@ -6,7 +6,111 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "The Last of the Mohicans movie soundtrack",
+      "creator": null,
+      "note": "This was introduced to me by Alex Honnold, the world’s most famous free-solo\nclimber, during [our podcast\ntogether](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wkB&mc=e&s=bomwH&u=w&y=6&).\nIf this soundtrack is good enough for some of his death-defying records, it’s\ncertainly good enough for fueling writing sessions or nearly anything\nrequiring an injection of inspiration.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wkz&mc=e&s=bomwH&u=w&y=L&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wkz&mc=e&s=bomwH&u=w&y=L&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wkB&mc=e&s=bomwH&u=w&y=6&"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "The History of Japan in 9 Minutes",
+      "creator": null,
+      "note": "This clever (and funny) video was introduced to me by [Kevin\nKelly](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wkN&mc=e&s=bomwH&u=w&y=v&)\nafter a catch-up session at my house. It’s a little slow for the first few\nminutes, but it covers--to use their language--a “fuck ton.” How? In part, by\nomitting reading the proper nouns and intelligently using text overlay.\nDefinitely worth the time.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wk9&mc=e&s=bomwH&u=w&y=F&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wk9&mc=e&s=bomwH&u=w&y=F&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wkN&mc=e&s=bomwH&u=w&y=v&"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Let’s Get Drinks",
+      "creator": null,
+      "note": "\\- The New Yorker",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wkj&mc=e&s=bomwH&u=w&y=m&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wkj&mc=e&s=bomwH&u=w&y=m&"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Most popular post on Instagram —",
+      "category": "other",
+      "title": "read this every day",
+      "creator": null,
+      "note": "Greeting card wisdom found at Good Vibrations in downtown San Francisco...",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wkn&mc=e&s=bomwH&u=w&y=O&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wkn&mc=e&s=bomwH&u=w&y=O&"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering, once again —",
+      "category": "quote",
+      "title": "“Love of bustle is not industry.” – Seneca \\--- Are you enjoying 5-Bullet Fridays? If so, please forward this email to a friend and suggest they sign up for the weekly dose! As always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know! Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it. Thanks for reading! Have a wonderful weekend, all, Tim P.S. — Many of you have asked me where I’ll be appearing live in 2016. I don’t do many events, but I’m going to this one in Boulder, CO, in August. It’s expensive but intimate. Max attendees are capped at 75, and you’re seeing it before the general public. I’ve never been to this event before and get no split or rev share. Just sharing with 5BF subscribers first, as promised :) --- | --- | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wk0&mc=e&s=bomwH&u=w&y=P&) --- | FORWARDED THIS MESSAGE? SIGN UP. --- | | --- Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. | | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wkh&mc=e&s=bomwH&u=w&y=o&) ---",
+      "creator": "Many of you have asked me where I’ll be appearing live in 2016. I don’t do many events, but I’m going to this one in Boulder, CO, in August. It’s expensive but intimate. Max attendees are capped at 75, and you’re seeing it before the general public. I’ve never been to this event before and get no split or rev share. Just sharing with 5BF subscribers first, as promised :) --- | --- |",
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wkV&mc=e&s=bomwH&u=w&y=a&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wkV&mc=e&s=bomwH&u=w&y=a&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wkJ&mc=e&s=bomwH&u=w&y=I&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wkl&mc=e&s=bomwH&u=w&y=i&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/5564.png?img1464926226427"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wk5&mc=e&s=bomwH&u=w&y=7&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/5568.jpg?img1464926226427"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,135 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "the “where” of happiness",
+      "creator": null,
+      "note": "But, if I’m being totally honest, during this week of book launch, I’m reading\n[Amazon\nreviews](https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/opfkhq/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UcmliZS1NZW50b3JzLVNob3J0LUFkdmljZS1Xb3JsZC9kcC8xMzI4OTk0OTYxLw==)!\nIf you’re reading [Tribe of\nMentors](https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/zvtghn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UcmliZS1NZW50b3JzLVNob3J0LUFkdmljZS1Xb3JsZC9kcC8xMzI4OTk0OTYxLw==),\nI would really, really love to hear your thoughts! Nearly every writer feels\ndeeply insecure when their baby goes out into the world. If you have 30\nseconds, thank you in advance for saying hello\n[here](https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/pnceh9/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UcmliZS1NZW50b3JzLVNob3J0LUFkdmljZS1Xb3JsZC9kcC8xMzI4OTk0OTYxLw==).",
+      "original_url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/78i7h8/aHR0cHM6Ly93d3cubmF0aW9uYWxnZW9ncmFwaGljLmNvbS9tYWdhemluZS8yMDE3LzExL3dvcmxkcy1oYXBwaWVzdC1wbGFjZXMv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/78i7h8/aHR0cHM6Ly93d3cubmF0aW9uYWxnZW9ncmFwaGljLmNvbS9tYWdhemluZS8yMDE3LzExL3dvcmxkcy1oYXBwaWVzdC1wbGFjZXMv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/opfkhq/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UcmliZS1NZW50b3JzLVNob3J0LUFkdmljZS1Xb3JsZC9kcC8xMzI4OTk0OTYxLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/zvtghn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UcmliZS1NZW50b3JzLVNob3J0LUFkdmljZS1Xb3JsZC9kcC8xMzI4OTk0OTYxLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/pnceh9/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UcmliZS1NZW50b3JzLVNob3J0LUFkdmljZS1Xb3JsZC9kcC8xMzI4OTk0OTYxLw=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "New tech tool I’m enjoying —",
+      "category": "other",
+      "title": "The Death Clock",
+      "creator": null,
+      "note": ",\na Chrome extension for your browser. Every time you open a new tab, it\ndisplays the number of days, hours, and minutes left in your life, roughly\ncalculated based on average lifespans. The line “Make them count!” appears\nunderneath. My usual go-to extension for new tabs is\n[Momentum](https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/60aeh8/aHR0cHM6Ly9tb21lbnR1bWRhc2guY29tL2Fib3V0),\nbut Thanksgiving seemed like a good time to remember mortality and cut down on\ndistractions.",
+      "original_url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/xksph6/aHR0cHM6Ly9jaHJvbWUuZ29vZ2xlLmNvbS93ZWJzdG9yZS9kZXRhaWwvZGVhdGgtY2xvY2svbmRkamJmamRhbWhjbWRjZ2hlaG9tb21ncHBiaWdqYW0_dXRtX3NvdXJjZT1nbWFpbA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/xksph6/aHR0cHM6Ly9jaHJvbWUuZ29vZ2xlLmNvbS93ZWJzdG9yZS9kZXRhaWwvZGVhdGgtY2xvY2svbmRkamJmamRhbWhjbWRjZ2hlaG9tb21ncHBiaWdqYW0_dXRtX3NvdXJjZT1nbWFpbA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/60aeh8/aHR0cHM6Ly9tb21lbnR1bWRhc2guY29tL2Fib3V0"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Deviate with Rolf Potts",
+      "creator": null,
+      "note": "[Deviate with Rolf\nPotts](https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/kmbmh6/aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL3VzL3BvZGNhc3QvZGV2aWF0ZS13aXRoLXJvbGYtcG90dHMvaWQxMzE1NzE4MzY5)\n\\-- Rolf changed my life in 2003-2004 with his book\n[Vagabonding](https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/52hvh7/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9WYWdhYm9uZGluZy1VbmNvbW1vbi1HdWlkZS1Mb25nLVRlcm0tVHJhdmVsL2RwLzA4MTI5OTIxODA=).\nFor years, I’ve been suggesting he start a podcast, and finally, [here it\nis](https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/2ou2ho/aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL3VzL3BvZGNhc3QvZGV2aWF0ZS13aXRoLXJvbGYtcG90dHMvaWQxMzE1NzE4MzY5)!\nTo help him kick it off, I’m in one episode, covering all of my tips,\nstrategies, etc. for building a podcast. Rolf also has great articles and\ntravel advice [on his\nsite](https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/q3i8h7/aHR0cHM6Ly9yb2xmcG90dHMuY29tLw==).  \n[Big Questions with Cal\nFussman](https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/gvfnh5/aHR0cHM6Ly90LmNvLzRIVEFQQWhaRjY=)\n\\-- Thousands of you asked Cal to make his own podcast after he appeared on my\nshow. Well, he finally did it! He's going to hit a homerun. Just like with\nRolf, I’m helping him kick it off with an episode covering my early childhood,\nand stuff I don’t usually talk about. Here’s the description of [his\nshow](https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/93tzhn/aHR0cHM6Ly90LmNvLzRIVEFQQWhaRjY=):  \nAs a bestselling author, speaker and one of the greatest interviewers of this\ngeneration, Cal Fussman has sat down with some of the world’s most influential\nindividuals: Muhammad Ali, Mikhail Gorbachev, Serena Williams, Jeff Bezos,\nJack Welch, John Wooden, Al Pacino and hundreds of others, digging deep into\ntheir hearts and delivering their wisdom to the rest of the world. Now, in Big\nQuestions, Cal continues his journey. Uncovering the heart, head, and soul of\nhis guests in thoughtful, deep and entertaining conversations.  \n**",
+      "original_url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/kmbmh6/aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL3VzL3BvZGNhc3QvZGV2aWF0ZS13aXRoLXJvbGYtcG90dHMvaWQxMzE1NzE4MzY5",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/kmbmh6/aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL3VzL3BvZGNhc3QvZGV2aWF0ZS13aXRoLXJvbGYtcG90dHMvaWQxMzE1NzE4MzY5"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/52hvh7/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9WYWdhYm9uZGluZy1VbmNvbW1vbi1HdWlkZS1Mb25nLVRlcm0tVHJhdmVsL2RwLzA4MTI5OTIxODA="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/2ou2ho/aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL3VzL3BvZGNhc3QvZGV2aWF0ZS13aXRoLXJvbGYtcG90dHMvaWQxMzE1NzE4MzY5"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/q3i8h7/aHR0cHM6Ly9yb2xmcG90dHMuY29tLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/gvfnh5/aHR0cHM6Ly90LmNvLzRIVEFQQWhaRjY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/93tzhn/aHR0cHM6Ly90LmNvLzRIVEFQQWhaRjY="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Most popular post on social media —",
+      "category": "other",
+      "title": "Thank you all",
+      "creator": null,
+      "note": "for helping me to do what I love...  \nA close runner-up was [this post on\nreddit](https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/nesohv/aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL0lBbUEvY29tbWVudHMvN2VyY3Q4L2lfYW1fdGltX2ZlcnJpc3NfaG9zdF9vZl90aGVfdGltX2ZlcnJpc3Nfc2hvd19hbmQv)\nabout why I left SF after 15+ years.",
+      "original_url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/3wcphk/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JiMnFvQXFsRUpvLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/3wcphk/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JiMnFvQXFsRUpvLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/nesohv/aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL0lBbUEvY29tbWVudHMvN2VyY3Q4L2lfYW1fdGltX2ZlcnJpc3NfaG9zdF9vZl90aGVfdGltX2ZlcnJpc3Nfc2hvd19hbmQv"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Every society honors its live conformists and dead troublemakers.”-Mignon McLaughlin[](https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/43avhe/aHR0cHM6Ly9lbi53aWtpcXVvdGUub3JnL3dpa2kvTm92YWxpcw==) \\--- And as always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know. Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it. Have a wonderful weekend, all! Tim P.S. -- Not to beat a dead horse, but if you’re reading Tribe of Mentors, I’d really love to hear your honest thoughts in an Amazon review here! I’m reading them all (both good and bad) like many author friends, which probably explains why we get so unusually emotional around book launch :) [](https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/8viqho/aHR0cHM6Ly9idWZmLmx5LzJocHFRNDI=)[](https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/vzf3hr/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1RpbUZlcnJpc3MvcG9zdHMvMTAxNTU4OTAxNzgyNTcyNDE=)[](https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/lotehm/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=)",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/w4b2hg/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/w4b2hg/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/rxh8ho/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UcmliZS1NZW50b3JzLVNob3J0LUFkdmljZS1Xb3JsZC9kcC8xMzI4OTk0OTYxL3JlZj1hc19saV9zc190bD9fZW5jb2Rpbmc9VVRGOCZxaWQ9MTUwNDgyNzk2NyZzcj0xLTEmbGlua0NvZGU9c2wxJnRhZz1vZmZzaXRvZnRpbWZlLTIwJmxpbmtJZD0yNDM5MTBmMzFlYmE1MDM4MDgxNDdkMTMxMmFlZDU3Nw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hn62o5/0luwh9/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UcmliZS1NZW50b3JzLVNob3J0LUFkdmljZS1Xb3JsZC9kcC8xMzI4OTk0OTYxL3JlZj1hc19saV9zc190bD9fZW5jb2Rpbmc9VVRGOCZxaWQ9MTUwNDgyNzk2NyZzcj0xLTEmbGlua0NvZGU9c2wxJnRhZz1vZmZzaXRvZnRpbWZlLTIwJmxpbmtJZD0yNDM5MTBmMzFlYmE1MDM4MDgxNDdkMTMxMmFlZDU3Nw=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/837045/content_tom-email-footer-03.jpg"
+        }
+      ]
+    }
+  ]
 }

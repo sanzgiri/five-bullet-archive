@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "issue_date": "2019-10-18",
+  "subject": "5-Bullet Friday",
+  "sources": [
+    "gmail"
+  ],
+  "status": "email",
+  "extraction_status": "extracted",
+  "special_edition": false,
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Metformin and exercise — déjà vu all over again?",
+      "creator": "Dr",
+      "note": "([@peterattiamd](https://www.instagram.com/peterattiamd/?hl=en)). This landed in my inbox on Sunday, courtesy of Peter’s [weekly email newsletter](https://peterattiamd.com/newsletter/). It explains why some of my friends who used to take metformin for longevity have stopped taking it. This short piece is also a great primer on thinking about extending healthspan versus lifespan.",
+      "original_url": "https://peterattiamd.com/191013/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://peterattiamd.com/191013/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/12/13/peter-attia-vs-tim-ferriss/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/peterattiamd/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://peterattiamd.com/newsletter/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "@andersoncooper",
+      "creator": null,
+      "note": ") presented [a wonderful and powerful segment](https://www.cbsnews.com/news/psychedelic-drugs-lsd-active-agent-in-magic-mushrooms-to-treat-addiction-depression-anxiety-60-minutes-2019-10-13/) produced by [Sarah Koch](https://www.imdb.com/name/nm2695378/), in which he meets with patients who’ve undergone psychedelic treatments. The description is “Study participants at some of the country’s leading medical research centers are going through intense therapy and six-hour psychedelic journeys deep into their minds to do things like quit smoking and worry less.” It’s definitely worth a watch and does an excellent job of providing balanced perspectives. Kudos to all the researchers featured, including Dr. Roland Griffiths, Dr. Matthew Johnson, and Mary Cosimano from the [Johns Hopkins Center for Psychedelic and Consciousness Research](https://hopkinspsychedelic.org/) ([NYT coverage here](https://www.nytimes.com/2019/09/04/science/psychedelic-drugs-hopkins-depression.html)).",
+      "original_url": "https://twitter.com/andersoncooper",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://twitter.com/andersoncooper"
+        },
+        {
+          "type": "other",
+          "url": "https://www.cbsnews.com/news/psychedelic-drugs-lsd-active-agent-in-magic-mushrooms-to-treat-addiction-depression-anxiety-60-minutes-2019-10-13/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.imdb.com/name/nm2695378/"
+        },
+        {
+          "type": "other",
+          "url": "https://hopkinspsychedelic.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nytimes.com/2019/09/04/science/psychedelic-drugs-hopkins-depression.html"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Tool I’m enjoying —",
+      "category": "other",
+      "title": "Google Lens",
+      "creator": null,
+      "note": "The 3x Olympic medalist and irritatingly handsome [Matt Targett](https://twitter.com/MatthewTargett) recommended that I check out Google Lens as a tool for transcribing text from physical to digital (e.g., a photo of a book page automagically turns into copy-and-pastable text). I had no idea this app existed (for iOS, the Lens feature is easily found within [the Google app](https://apps.apple.com/us/app/google/id284815942)), and it turns out that Google Lens does A LOT: “Search what you see with your camera, copy and translate text, find similar apparel, identify plants and animals, scan QR codes and more.” My team and I have played with real-time translation (pointing your phone at non-English text, which translates it to English) and turning paragraphs from physical books and magazines into digital text, which you can then share or simply add to a tool like [Evernote](https://evernote.com/). My favorite use has been identifying plants. I’ve tested a number of apps that claim to identify plants, and none have worked. This is the first that has been more than 80% accurate thus far (well done, Google Lens team!). Paying attention to plants has made even the most casual of outdoor strolls fascinating.",
+      "original_url": "https://lens.google.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://lens.google.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/MatthewTargett"
+        },
+        {
+          "type": "other",
+          "url": "https://apps.apple.com/us/app/google/id284815942"
+        },
+        {
+          "type": "other",
+          "url": "https://evernote.com/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Mangaliso",
+      "creator": "Bongeziwe Mabandla",
+      "note": ".",
+      "original_url": "https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“To a disciple who was forever complaining about others, the Master said, ‘If it is peace you want, seek to change yourself, not other people. It is easier to protect your feet with slippers than to carpet the whole of the earth.’” — Anthony de Mello",
+      "creator": "Anthony de Mello",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Anthony_de_Mello",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Anthony_de_Mello"
+        }
+      ]
+    }
+  ]
+}

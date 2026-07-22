@@ -6,7 +6,103 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Facebook Figured Out My Family Secrets, And It Won't Tell Me How",
+      "creator": null,
+      "note": "The world of big data can create an increasingly small world. Is it always a\ngood thing? What happens when Facebook and Google know you better than you\nknow yourself? I know a fair number of smart techies who are diversifying\ntheir online tools (and therefore identities) to mitigate against data\nbreaches and\n[1984](https://el2.fourhourmail.com/c/0vukl0mnnu9h9g8mr/opfkhq/aHR0cDovL2Ftem4udG8vMnhPWG9PTA==)-type\nissues.**",
+      "original_url": "https://el2.fourhourmail.com/c/0vukl0mnnu9h9g8mr/78i7h8/aHR0cHM6Ly9naXptb2RvLmNvbS9mYWNlYm9vay1maWd1cmVkLW91dC1teS1mYW1pbHktc2VjcmV0cy1hbmQtaXQtd29udC10ZWwtMTc5NzY5NjE2Mw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9h9g8mr/78i7h8/aHR0cHM6Ly9naXptb2RvLmNvbS9mYWNlYm9vay1maWd1cmVkLW91dC1teS1mYW1pbHktc2VjcmV0cy1hbmQtaXQtd29udC10ZWwtMTc5NzY5NjE2Mw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9h9g8mr/opfkhq/aHR0cDovL2Ftem4udG8vMnhPWG9PTA=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Purchase I’m enjoying —",
+      "category": "other",
+      "title": "Far West Fungi’s dried “wild mix.”",
+      "creator": null,
+      "note": "Wild Mix is an earthy, yet savory combination of Porcini, Black Trumpet,\nLobster, Chanterelle, Wood Ear, Chicken of the Woods and Yellowfoot mushrooms.\nUse it in sauces, soups, chowders, rice dishes and casseroles. Just soak in\nwater and -- poof!-- succulent mushrooms of all types that you'd never cook\nwith otherwise.**",
+      "original_url": "https://el2.fourhourmail.com/c/0vukl0mnnu9h9g8mr/zvtghn/aHR0cDovL3N0b3JlLmZhcndlc3RmdW5naS5jb20vMDMxMDI1Lmh0bWw=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9h9g8mr/zvtghn/aHR0cDovL3N0b3JlLmZhcndlc3RmdW5naS5jb20vMDMxMDI1Lmh0bWw="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "The Defiant Ones.",
+      "creator": null,
+      "note": "This is probably the best edited non-fiction TV I've seen in a decade. It's\nphenomenal. Here’s the official description: Set amid many of the defining\nevents of the past four decades, The Defiant Ones tells the stories of Jimmy\nIovine and Dr. Dre -- one the son of a Brooklyn longshoreman, the other\nstraight out of Compton -- and their improbable partnership and surprising\nleading roles in a series of transformative events in contemporary culture.\nThis epic look at America shows how you can consistently defy conventional\nwisdom and even logic, and still win big.**",
+      "original_url": "https://el2.fourhourmail.com/c/0vukl0mnnu9h9g8mr/pnceh9/aHR0cDovL3d3dy5oYm8uY29tL3RoZS1kZWZpYW50LW9uZXMvaW5kZXguaHRtbA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9h9g8mr/pnceh9/aHR0cDovL3d3dy5oYm8uY29tL3RoZS1kZWZpYW50LW9uZXMvaW5kZXguaHRtbA=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Most popular post on Instagram —",
+      "category": "other",
+      "title": "carried two reminder cards in my wallet...",
+      "creator": null,
+      "note": "Quote",
+      "original_url": "https://el2.fourhourmail.com/c/0vukl0mnnu9h9g8mr/xksph6/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JaUHRlZHlnZzRJLz90YWtlbi1ieT10aW1mZXJyaXNz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9h9g8mr/xksph6/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JaUHRlZHlnZzRJLz90YWtlbi1ieT10aW1mZXJyaXNz"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "I’m pondering —",
+      "category": "other",
+      "title": "send a tweet to @tferriss",
+      "creator": null,
+      "note": "and put #5BulletFriday in there so I can find it. Have a wonderful weekend, all! Tim ****P.S. --** Next week, my dear 5BF subscribers (that's you!), I'll be sharing an exclusive sneak peek of the first chapter of [my new book](https://el2.fourhourmail.com/c/0vukl0mnnu9h9g8mr/kmbmh6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UcmliZS1NZW50b3JzLVNob3J0LUFkdmljZS1Xb3JsZC9kcC8xMzI4OTk0OTYxL3JlZj1hc19saV9zc190bD9fZW5jb2Rpbmc9VVRGOCZxaWQ9MTUwNDgyNzk2NyZzcj0xLTEmbGlua0NvZGU9c2wxJnRhZz1vZmZzaXRvZnRpbWZlLTIwJmxpbmtJZD0yNDM5MTBmMzFlYmE1MDM4MDgxNDdkMTMxMmFlZDU3Nw==) in this newsletter. O-tanoshimi da ne! [![](https://convertkit.s3.amazonaws.com/assets/pictures/11125/450982/content_unnamed.png)](https://el2.fourhourmail.com/c/0vukl0mnnu9h9g8mr/52hvh7/aHR0cHM6Ly90b29sc29mdGl0YW5zLmNvbS8=) FORWARDED THIS MESSAGE? [SIGN UP](https://el2.fourhourmail.com/c/0vukl0mnnu9h9g8mr/2ou2ho/aHR0cDovL2dvLmZvdXJob3Vyd29ya3dlZWsuY29tLzEweC1vdXRwdXQv). | ![Tim Ferriss Photo](http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg) | Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff.  \n---|---",
+      "original_url": "https://el2.fourhourmail.com/c/0vukl0mnnu9h9g8mr/60aeh8/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9h9g8mr/60aeh8/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9h9g8mr/kmbmh6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UcmliZS1NZW50b3JzLVNob3J0LUFkdmljZS1Xb3JsZC9kcC8xMzI4OTk0OTYxL3JlZj1hc19saV9zc190bD9fZW5jb2Rpbmc9VVRGOCZxaWQ9MTUwNDgyNzk2NyZzcj0xLTEmbGlua0NvZGU9c2wxJnRhZz1vZmZzaXRvZnRpbWZlLTIwJmxpbmtJZD0yNDM5MTBmMzFlYmE1MDM4MDgxNDdkMTMxMmFlZDU3Nw=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/450982/content_unnamed.png"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9h9g8mr/2ou2ho/aHR0cDovL2dvLmZvdXJob3Vyd29ya3dlZWsuY29tLzEweC1vdXRwdXQv"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        }
+      ]
+    }
+  ]
 }

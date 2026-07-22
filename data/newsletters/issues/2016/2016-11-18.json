@@ -6,7 +6,112 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Tabla Toy",
+      "creator": "Beats Antique Tip of the week — To Break a Phone Addiction, Turn Your Screen Gray Hat tip to @Whitne",
+      "note": "Tip of the week —  \n[To Break a Phone Addiction, Turn Your Screen\nGray](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wsd&mc=e&s=bomwH&u=w&y=2&)  \nHat tip to\n[@WhitneyCummings](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wse&mc=e&s=bomwH&u=w&y=x&)\nfor the tip!",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=ws4&mc=e&s=bomwH&u=w&y=r&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=ws4&mc=e&s=bomwH&u=w&y=r&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wsw&mc=e&s=bomwH&u=w&y=Z&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wsd&mc=e&s=bomwH&u=w&y=2&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wse&mc=e&s=bomwH&u=w&y=x&"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "How I Decreased My Weekly Office Hours From 40-plus to Less Than 8",
+      "creator": "Jeff Rose",
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wsb&mc=e&s=bomwH&u=w&y=T&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wsb&mc=e&s=bomwH&u=w&y=T&"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Video you might have missed —",
+      "category": "video",
+      "title": "@JESSIEgraffPWR",
+      "creator": null,
+      "note": ")\nteach you [how to do a\npullup](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wst&mc=e&s=bomwH&u=w&y=W&).",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=ws1&mc=e&s=bomwH&u=w&y=D&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=ws1&mc=e&s=bomwH&u=w&y=D&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wst&mc=e&s=bomwH&u=w&y=W&"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Reading, after a certain age, diverts the mind too much from its creative pursuits. Any man who reads too much and uses his own brain too little falls into lazy habits of thinking.” – Albert Einstein \\--- Are you enjoying 5-Bullet Fridays? If so, please forward this email to a friend and suggest they sign up for the weekly dose! As always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know! Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it. Thanks for reading! Have a wonderful weekend, all, Tim P.S. -- I’m experimenting with a new podcast format. (Listen here for the first version of “The Tim Ferriss Radio Hour.”) This won’t replace my long-form interviews, but it’s something I might continue if you like it. So let me know! If you have a minute, I’d love your feedback. Thanks! --- | --- | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wsv&mc=e&s=bomwH&u=w&y=E&) --- | FORWARDED THIS MESSAGE? SIGN UP. --- | | --- Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. | | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wsO&mc=e&s=bomwH&u=w&y=B&) ---",
+      "creator": null,
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wsc&mc=e&s=bomwH&u=w&y=u&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wsc&mc=e&s=bomwH&u=w&y=u&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wsL&mc=e&s=bomwH&u=w&y=g&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=ws6&mc=e&s=bomwH&u=w&y=S&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=ws6&mc=e&s=bomwH&u=w&y=S&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wsF&mc=e&s=bomwH&u=w&y=Y&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/6120.jpg?img1479505702317"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wsm&mc=e&s=bomwH&u=w&y=z&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/6075.jpg?img1479505702317"
+        }
+      ]
+    }
+  ]
 }

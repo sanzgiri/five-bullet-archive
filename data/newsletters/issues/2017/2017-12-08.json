@@ -6,7 +6,115 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Article I’m reading —",
+      "category": "article",
+      "title": "To Stay Young, Kill Zombie Cells: An anti-aging strategy that works in mice is about to be tested in humans",
+      "creator": null,
+      "note": "via Kevin Rose\n([@kevinrose](https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/opfkhq/aHR0cHM6Ly90d2l0dGVyLmNvbS9rZXZpbnJvc2U=))**What",
+      "original_url": "https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/78i7h8/aHR0cHM6Ly93d3cuc2NpZW50aWZpY2FtZXJpY2FuLmNvbS9hcnRpY2xlL3RvLXN0YXkteW91bmcta2lsbC16b21iaWUtY2VsbHMv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/78i7h8/aHR0cHM6Ly93d3cuc2NpZW50aWZpY2FtZXJpY2FuLmNvbS9hcnRpY2xlL3RvLXN0YXkteW91bmcta2lsbC16b21iaWUtY2VsbHMv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/opfkhq/aHR0cHM6Ly90d2l0dGVyLmNvbS9rZXZpbnJvc2U="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "I’m listening to —",
+      "category": "podcast",
+      "title": "Ain’t No Rest for the Wicked",
+      "creator": "Cage the Elephant",
+      "note": "([@cagetheelephant](https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/pnceh9/aHR0cHM6Ly90d2l0dGVyLmNvbS9DYWdlVGhlRWxlcGhhbnQ=))**Book",
+      "original_url": "https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/zvtghn/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1IS3RzZFpzOUxKbw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/zvtghn/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1IS3RzZFpzOUxKbw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/pnceh9/aHR0cHM6Ly90d2l0dGVyLmNvbS9DYWdlVGhlRWxlcGhhbnQ="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "I’m reading —",
+      "category": "article",
+      "title": "Blue Ocean Shift.",
+      "creator": null,
+      "note": "From Amazon: _Blue Ocean Shift_ is the follow up to _Blue Ocean Strategy_. The\nbooks focuses on how to move beyond competing and take your business from a\nred ocean crowded with competition to a blue ocean of uncontested market\nspace. The book uses examples of how leaders in diverse industries and\norganizations made the shift and created new markets by applying the process\nand tools outlined in the book. Whether you are a cash-strapped startup or a\nlarge, established company, nonprofit or national government, you will learn\nhow to move from red to blue oceans in a way that builds your people's\nconfidence so that they own and drive the process.**Most popular post on",
+      "original_url": "https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/xksph6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9CbHVlLU9jZWFuLVNoaWZ0LUNvbXBldGluZy1Db25maWRlbmNlL2RwLzAzMTYzMTQwNDg=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/xksph6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9CbHVlLU9jZWFuLVNoaWZ0LUNvbXBldGluZy1Db25maWRlbmNlL2RwLzAzMTYzMTQwNDg="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Instagram —",
+      "category": "other",
+      "title": "Finally!",
+      "creator": null,
+      "note": "Quote",
+      "original_url": "https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/60aeh8/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JjWkNoQ2ZsQ25RLz90YWtlbi1ieT10aW1mZXJyaXNz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/60aeh8/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JjWkNoQ2ZsQ25RLz90YWtlbi1ieT10aW1mZXJyaXNz"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "I’m pondering —",
+      "category": "other",
+      "title": "send a tweet to @tferriss",
+      "creator": null,
+      "note": "\\--- And as always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know. Just [send a tweet to @tferriss](https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/52hvh7/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==) and put #5BulletFriday in there so I can find it. Have a wonderful weekend, all! TimP.S. -- Tis the season for gifts and prizes. I have 2 different opportunities you might enjoy during the holiday season.\n\n  1. If you’re looking for [clothing or gear](https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/2ou2ho/aHR0cDovL2JpdC5seS8yelI4Yldr), my friends at [Huckberry](https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/q3i8h7/aHR0cDovL2JpdC5seS8yelI4Yldr) put together a shop with some of [my favorite items](https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/gvfnh5/aHR0cDovL2JpdC5seS8yelI4Yldr). Enjoy!\n  2. If you have any interest in winning many of the “favorite purchases of $100 or less” that are featured in [Tribe of Mentors](https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/93tzhn/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20v), I’ve partnered with [StackSocial](https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/3wcphk/aHR0cHM6Ly9zdGFja3NvY2lhbC5jb20vZ2l2ZWF3YXlzL3RoZS1hbWF6aW5nLWFwcGxlLWRyZWFtLXNldHVwLXRvb2xzLWZyb20tdGhlLXRyaWJlLW9mLW1lbnRvcnM=) to offer you the ultimate [Tribe of Mentors giveaway](https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/nesohv/aHR0cHM6Ly9zdGFja3NvY2lhbC5jb20vZ2l2ZWF3YXlzL3RoZS1hbWF6aW5nLWFwcGxlLWRyZWFtLXNldHVwLXRvb2xzLWZyb20tdGhlLXRyaWJlLW9mLW1lbnRvcnM=). We are offering an “Apple Dream Setup” as the grand prize, and there are tons of runner-up prizes. Good luck!\n\n[![](https://convertkit.s3.amazonaws.com/assets/pictures/11125/837045/content_tom-\nemail-\nfooter-03.jpg)](https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/43avhe/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=)",
+      "original_url": "https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/52hvh7/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/52hvh7/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/2ou2ho/aHR0cDovL2JpdC5seS8yelI4Yldr"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/q3i8h7/aHR0cDovL2JpdC5seS8yelI4Yldr"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/gvfnh5/aHR0cDovL2JpdC5seS8yelI4Yldr"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/93tzhn/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20v"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/3wcphk/aHR0cHM6Ly9zdGFja3NvY2lhbC5jb20vZ2l2ZWF3YXlzL3RoZS1hbWF6aW5nLWFwcGxlLWRyZWFtLXNldHVwLXRvb2xzLWZyb20tdGhlLXRyaWJlLW9mLW1lbnRvcnM="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6hpgrwl/nesohv/aHR0cHM6Ly9zdGFja3NvY2lhbC5jb20vZ2l2ZWF3YXlzL3RoZS1hbWF6aW5nLWFwcGxlLWRyZWFtLXNldHVwLXRvb2xzLWZyb20tdGhlLXRyaWJlLW9mLW1lbnRvcnM="
+        }
+      ]
+    }
+  ]
 }

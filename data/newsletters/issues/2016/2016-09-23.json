@@ -6,7 +6,119 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "New blog post you might have missed —",
+      "category": "article",
+      "title": "@PeterDiamandis",
+      "creator": null,
+      "note": ")\nhas been named one of “The World’s 50 Greatest Leaders” by Fortune magazine.\nIn [this guest\npost](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wVM&mc=1&s=bomwH&u=w&y=h&),\nhe shares information he's never discussed before. Specifically, Diamandis\nlooks back at his XPRIZE experience and [the strategic\ndecisions](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wVM&mc=1&s=bomwH&u=w&y=h&)\nthat allowed the foundation to become a success.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wVK&mc=1&s=bomwH&u=w&y=5&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wVK&mc=1&s=bomwH&u=w&y=5&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wVM&mc=1&s=bomwH&u=w&y=h&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wVM&mc=1&s=bomwH&u=w&y=h&"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Most popular post on Instagram —",
+      "category": "other",
+      "title": "Literally.",
+      "creator": null,
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wVA&mc=1&s=bomwH&u=w&y=p&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wVA&mc=1&s=bomwH&u=w&y=p&"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Find the Real",
+      "creator": "Alter Bridge",
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wVk&mc=1&s=bomwH&u=w&y=G&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wVk&mc=1&s=bomwH&u=w&y=G&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wV8&mc=1&s=bomwH&u=w&y=f&"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "A Dozen Things I’ve Learned from Naval Ravikant about Investing, Business and Startups",
+      "creator": "Tren Griffin",
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wVH&mc=1&s=bomwH&u=w&y=3&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wVH&mc=1&s=bomwH&u=w&y=3&"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“The writer should never be ashamed of staring. There is nothing that does not require his attention.” - Flannery O’Connor \\--- Are you enjoying 5-Bullet Fridays? If so, please forward this email to a friend and suggest they sign up for the weekly dose! As always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know! Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it. Thanks for reading! Have a wonderful weekend, all, Tim P.S. — In case you missed it, some of my favorite fitness and nutrition tips from the podcast were featured in Outside Magazine. This was a super fun piece to work on. I hope you enjoy! --- | --- | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wVr&mc=1&s=bomwH&u=w&y=U&) --- | FORWARDED THIS MESSAGE? SIGN UP. --- | | --- Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. | | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wV2&mc=1&s=bomwH&u=w&y=4&) ---",
+      "creator": "In case you missed it, some of my favorite fitness and nutrition tips from the podcast were featured in Outside Magazine. This was a super fun piece to work on. I hope you enjoy! --- | --- |",
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wVC&mc=1&s=bomwH&u=w&y=X&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wVC&mc=1&s=bomwH&u=w&y=X&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wVy&mc=1&s=bomwH&u=w&y=Q&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wVR&mc=1&s=bomwH&u=w&y=q&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wVR&mc=1&s=bomwH&u=w&y=q&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/6120.jpg?img1474640960948"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wVZ&mc=1&s=bomwH&u=w&y=s&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/6075.jpg?img1474640960948"
+        }
+      ]
+    }
+  ]
 }

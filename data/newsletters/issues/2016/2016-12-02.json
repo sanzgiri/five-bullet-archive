@@ -6,7 +6,124 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Something I’m excited about —",
+      "category": "other",
+      "title": "live event in NYC",
+      "creator": null,
+      "note": "!\nTo celebrate the launch of [Tools of\nTitans](http://www.fourhournewsletter.com/click.html?x=a62e&lc=dwM&mc=e&s=bomwH&u=w&y=0&),\nI’ll be in New York on December 9th for feature interviews, surprise guests,\nand audience Q&A. [Click\nhere](http://www.fourhournewsletter.com/click.html?x=a62e&lc=dwK&mc=e&s=bomwH&u=w&y=l&)\nfor all the details.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dwK&mc=e&s=bomwH&u=w&y=l&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dwK&mc=e&s=bomwH&u=w&y=l&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dwM&mc=e&s=bomwH&u=w&y=0&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dwK&mc=e&s=bomwH&u=w&y=l&"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Why We're Living in the Age of Fear",
+      "creator": "Neil Strauss Post to check out on Facebook — Why I decided to write Tools of Titans",
+      "note": "Post to check out on Facebook —  \n[Why I decided to write Tools of\nTitans.](http://www.fourhournewsletter.com/click.html?x=a62e&lc=dwk&mc=e&s=bomwH&u=w&y=h&)",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dwA&mc=e&s=bomwH&u=w&y=5&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dwA&mc=e&s=bomwH&u=w&y=5&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dwk&mc=e&s=bomwH&u=w&y=h&"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "The Sound of Silence",
+      "creator": "Simon & Garfunkle",
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dw8&mc=e&s=bomwH&u=w&y=p&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dw8&mc=e&s=bomwH&u=w&y=p&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dwH&mc=e&s=bomwH&u=w&y=G&"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quotes I’m pondering, once again —",
+      "category": "quote",
+      "title": "These are some of my favorite answers to the question “If you could put anything on a huge billboard, what would it be?”, from profiles in Tools of Titans. “Don’t believe everything you think.” - BJ Miller (@zenhospice) This was BJ’s reminder that we shouldn’t take ourselves too seriously. “Talk less, listen more.” - Brené Brown (@brenebrown) Brené originally wanted to say “Shut up, and listen!”, but she joked that she didn’t want her kids reading that. The point was we need to ask more questions and better questions. “Don’t be an asshole.” - Rainn Wilson (@rainnwilson) Here’s Rainn’s explanation: “Because that would make the world a lot better place. Maybe someone driving along would be like, ‘Oh, you know what? Maybe I’m just gonna be not as much of an asshole today. I’m not gonna cut people off on the road and ignore my kids, backstab someone at work.” \\--- Are you enjoying 5-Bullet Fridays? If so, please forward this email to a friend and suggest they sign up for the weekly dose! As always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know! Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it. Thanks for reading! Have a wonderful weekend, all, Tim P.S. -- Who would like to ring the closing bell of the NASDAQ (@NASDAQ) with me in NYC? If enough people are interested, I'll make it happen. --- | --- | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=dwT&mc=e&s=bomwH&u=w&y=4&) --- | FORWARDED THIS MESSAGE? SIGN UP. --- | | --- Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. | | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=dwW&mc=e&s=bomwH&u=w&y=d&) ---",
+      "creator": null,
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dwM&mc=e&s=bomwH&u=w&y=0&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dwM&mc=e&s=bomwH&u=w&y=0&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dwC&mc=e&s=bomwH&u=w&y=f&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dwy&mc=e&s=bomwH&u=w&y=3&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dwR&mc=e&s=bomwH&u=w&y=X&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dwr&mc=e&s=bomwH&u=w&y=Q&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dwZ&mc=e&s=bomwH&u=w&y=q&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dw2&mc=e&s=bomwH&u=w&y=U&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dwx&mc=e&s=bomwH&u=w&y=s&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/6286.jpg?img1480707842439"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dwD&mc=e&s=bomwH&u=w&y=w&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/6075.jpg?img1480707842439"
+        }
+      ]
+    }
+  ]
 }

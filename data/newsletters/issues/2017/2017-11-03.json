@@ -6,7 +6,107 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "The Concussion Repair Manual",
+      "creator": null,
+      "note": "From Amazon: The Concussion Repair Manual is written as a user’s guide for\nthose suffering after head traumas and those that support them. It is one-part\n“textbook,” packed with the leading research on medical technologies for\nhealing the injured brain, and one-part “workbook,” offering a step-by-step\nmethod for making and tracking a personalized recovery regimen. As more and\nmore high profile athletes come forward to share their stories of invisible\nsuffering after head injuries, we as a culture are finally acknowledging this\nsilent epidemic.**",
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakh2l7ox/78i7h8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Db25jdXNzaW9uLVJlcGFpci1NYW51YWwtUHJhY3RpY2FsLVJlY292ZXJpbmcvZHAvMTk0NjY5NzM0Ni9yZWY9c3JfMV8xP2llPVVURjgmcWlkPTE1MDU1NzI2ODAmc3I9OC0xJmtleXdvcmRzPWNvbmN1c3Npb24rcmVwYWlyK21hbnVhbC8_dGFnPW9mZnNpdG9mdGltZmUtMjA=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakh2l7ox/78i7h8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Db25jdXNzaW9uLVJlcGFpci1NYW51YWwtUHJhY3RpY2FsLVJlY292ZXJpbmcvZHAvMTk0NjY5NzM0Ni9yZWY9c3JfMV8xP2llPVVURjgmcWlkPTE1MDU1NzI2ODAmc3I9OC0xJmtleXdvcmRzPWNvbmN1c3Npb24rcmVwYWlyK21hbnVhbC8_dGFnPW9mZnNpdG9mdGltZmUtMjA="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m experimenting with —",
+      "category": "other",
+      "title": "Yin Reserve",
+      "creator": null,
+      "note": "was developed by one of the world’s most successful strength coaches, Charles\nR. Poliquin (you can listen to his podcast episodes [here\n](https://el2.fourhourmail.com/c/38uml98xxakh2l7ox/zvtghn/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzA3LzIxL2NoYXJsZXMtcG9saXF1aW4v)and\n[here](https://el2.fourhourmail.com/c/38uml98xxakh2l7ox/pnceh9/aHR0cHM6Ly90aW0uYmxvZy8yMDE2LzExLzA2L2NoYXJsZXMtcG9saXF1aW4tbWFzcy1idWlsZGluZy1wcm9ncmFtLw==)).\nIf you ask Charles, he’ll tell you that sleep is the most underrated aspect of\nrecovery. That’s because all hormones that contribute to peak performance are\ndirectly affected by your sleep. This supplement combines magnesium, inositol\nand theanine to reduce anxiety and increase both the quality and quantity of\nrestorative sleep.**",
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakh2l7ox/opfkhq/aHR0cHM6Ly9zdHJlbmd0aHNlbnNlaW51dHJhY2V1dGljYWxzLmNvbS9wcm9kdWN0L3lpbi1yZXNlcnZlLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakh2l7ox/opfkhq/aHR0cHM6Ly9zdHJlbmd0aHNlbnNlaW51dHJhY2V1dGljYWxzLmNvbS9wcm9kdWN0L3lpbi1yZXNlcnZlLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakh2l7ox/zvtghn/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzA3LzIxL2NoYXJsZXMtcG9saXF1aW4v"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakh2l7ox/pnceh9/aHR0cHM6Ly90aW0uYmxvZy8yMDE2LzExLzA2L2NoYXJsZXMtcG9saXF1aW4tbWFzcy1idWlsZGluZy1wcm9ncmFtLw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Abstract: The Art of Design",
+      "creator": null,
+      "note": ",\nTinker Hatfield (episode 2, season 1) -- If you’ve ever wondered how the\nempire of Air Jordan came to be, Tinker Hatfield is the answer, and this is\nthe story of his life and craft. Thanks to Tobi Lutke\n([@tobi)](https://el2.fourhourmail.com/c/38uml98xxakh2l7ox/60aeh8/aHR0cHM6Ly90d2l0dGVyLmNvbS90b2Jp),\nCEO of\n[Shopify](https://el2.fourhourmail.com/c/38uml98xxakh2l7ox/kmbmh6/aHR0cHM6Ly93d3cuc2hvcGlmeS5jb20v),\nfor the recommendation.**",
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakh2l7ox/xksph6/aHR0cHM6Ly93d3cubmV0ZmxpeC5jb20vdGl0bGUvODAwNTc4ODM=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakh2l7ox/xksph6/aHR0cHM6Ly93d3cubmV0ZmxpeC5jb20vdGl0bGUvODAwNTc4ODM="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakh2l7ox/60aeh8/aHR0cHM6Ly90d2l0dGVyLmNvbS90b2Jp"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakh2l7ox/kmbmh6/aHR0cHM6Ly93d3cuc2hvcGlmeS5jb20v"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Popular post on Instagram —",
+      "category": "other",
+      "title": "this video?",
+      "creator": null,
+      "note": "It was texted to me by a friend and is blowing my mind. Strong Halloween\ngame.**",
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakh2l7ox/52hvh7/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JhNUUtckRsd3d4Lz90YWtlbi1ieT10aW1mZXJyaXNz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakh2l7ox/52hvh7/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JhNUUtckRsd3d4Lz90YWtlbi1ieT10aW1mZXJyaXNz"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "\"When one thought ends, right before the next thought begins, there is a tiny gap called 'now.' Over time we learn to expand that gap.\" – Spring Washam \\--- And as always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know. Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it. Have a wonderful weekend, all! Tim P.S. -- Curious about who the \"mentors\" are in Tribe of Mentors? I recently posted the list. Here it is.[](https://el2.fourhourmail.com/c/38uml98xxakh2l7ox/gvfnh5/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1RpbUZlcnJpc3MvcG9zdHMvMTAxNTU4OTAxNzgyNTcyNDE=)[](https://el2.fourhourmail.com/c/38uml98xxakh2l7ox/93tzhn/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=)",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakh2l7ox/2ou2ho/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakh2l7ox/2ou2ho/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakh2l7ox/q3i8h7/aHR0cHM6Ly9idWZmLmx5LzJocHFRNDI="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/837045/content_tom-email-footer-03.jpg"
+        }
+      ]
+    }
+  ]
 }

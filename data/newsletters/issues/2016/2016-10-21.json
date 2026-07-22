@@ -6,7 +6,127 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "My experiment of the month —",
+      "category": "other",
+      "title": "ketogenic diet",
+      "creator": null,
+      "note": "to decrease inflammation and speed healing after an ACL sprain in my knee.\nOnce I reached blood levels of 2.5 mmol (a measurement based on using the\nPrecision Xtra device), my pain effectively disappeared. Ketones have potent\nanti-inflammatory effects. I am now testing using [The Slow-Carb\nDiet](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wpm&mc=e&s=bomwH&u=w&y=z&)\ninstead, but supplementing with KetoForce exogenous ketones. So far, this\nseems to be about three-quarters as effective (of course, I’m just an N of 1).",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wpv&mc=e&s=bomwH&u=w&y=E&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wpv&mc=e&s=bomwH&u=w&y=E&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wpm&mc=e&s=bomwH&u=w&y=z&"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Movie I enjoyed —",
+      "category": "video",
+      "title": "The Man Who Knew Infinity",
+      "creator": null,
+      "note": "In 1913, Srinivasa Ramanujan, a self-taught Indian genius, traveled to\nCambridge where he forged a lifelong bond with his eccentric math professor,\nG.H. Hardy, while fighting a world that refused to acknowledge his\nachievements.  \n  \nIt can be soul-crushing to be the “one (or two) against the many,” and this\nmovie reminded me of my wide-ranging conversation with Eric Weinstein, PhD\n(“[Eric Weinstein on Challenging ‘Reality,’ Working with Peter Thiel, and\nDestroying Education to Save\nIt](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wpa&mc=e&s=bomwH&u=w&y=9&)”).",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wpO&mc=e&s=bomwH&u=w&y=B&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wpO&mc=e&s=bomwH&u=w&y=B&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wpa&mc=e&s=bomwH&u=w&y=9&"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Most popular post on Instagram —",
+      "category": "other",
+      "title": "Karate Kid…",
+      "creator": null,
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wpI&mc=e&s=bomwH&u=w&y=N&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wpI&mc=e&s=bomwH&u=w&y=N&"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "The Daily Stoic",
+      "creator": "now, most of you know how much I enjoy and recommend Stoic philosophies as an operating system, or a",
+      "note": "an operating system, or a set of principles for making better decisions. [This\nbook](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wpP&mc=e&s=bomwH&u=w&y=n&)\noffers daily Stoic insights and exercises, featuring all-new translations from\nthe Emperor Marcus Aurelius, the playwright Seneca (my usual fave), and slave-\nturned-philosopher Epictetus, in addition to lesser-known luminaries like\nZeno, Cleanthes, and Musonius Rufus. If you like the sound of a daily one-page\ndose of Stoicism, here are two options:\n[hardcover](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wpP&mc=e&s=bomwH&u=w&y=n&)\nor audiobook on\n[Audible](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wpi&mc=e&s=bomwH&u=w&y=j&).",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wpi&mc=e&s=bomwH&u=w&y=j&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wpi&mc=e&s=bomwH&u=w&y=j&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wpP&mc=e&s=bomwH&u=w&y=n&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wpP&mc=e&s=bomwH&u=w&y=n&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wpi&mc=e&s=bomwH&u=w&y=j&"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering, once again —",
+      "category": "quote",
+      "title": "“People think it must be fun to be a super genius, but they don’t realize how hard it is to put up with all the idiots in the world.” – Calvin, from Calvin and Hobbes \\--- Are you enjoying 5-Bullet Fridays? If so, please forward this email to a friend and suggest they sign up for the weekly dose! As always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know! Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it. Thanks for reading! Have a wonderful weekend, all, Tim P.S. — What is a ludicrous but fun goal I could have for December? My “serious” goal is a successful launch for Tools of Titans, but I need something goofy to offset that pressure (this idea borrowed from Shaun White). Any ideas? If so, please let me know on Twitter with #stupidgoal. --- | --- | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wpA&mc=e&s=bomwH&u=w&y=5&) --- | FORWARDED THIS MESSAGE? SIGN UP. --- | | --- Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. | | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wp8&mc=e&s=bomwH&u=w&y=p&) ---",
+      "creator": "What is a ludicrous but fun goal I could have for December? My “serious” goal is a successful launch for Tools of Titans, but I need something goofy to offset that pressure",
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wp7&mc=e&s=bomwH&u=w&y=V&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wp7&mc=e&s=bomwH&u=w&y=V&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wpo&mc=e&s=bomwH&u=w&y=J&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wpK&mc=e&s=bomwH&u=w&y=l&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wpM&mc=e&s=bomwH&u=w&y=0&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/6120.jpg?img1477064054461"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wpk&mc=e&s=bomwH&u=w&y=h&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/6075.jpg?img1477064054461"
+        }
+      ]
+    }
+  ]
 }

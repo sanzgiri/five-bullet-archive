@@ -6,7 +6,147 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "my guests’ answers",
+      "creator": null,
+      "note": "to “What purchase of $100 or less has most positively impacted your life in\nthe last six months (or in recent memory)?” There are some real gems. [Here’s\nthe whole list for\nfree.](https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/opfkhq/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzExLzE4L3VuZGVyMTAwLw==)Second,\nI’m indulging my obsession with accelerated learning: [WSJ - A Chess Novice\nChallenged Grandmaster Magnus Carlsen. He Had One Month to Train. (Sub\nheading: “Speed learner Max Deutsch is testing the limits of self-\nimprovement”)](https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/zvtghn/aHR0cDovL29uLndzai5jb20vMkFXdHNPVw==)\nIf you can’t get the full article for some reason, [this short\nvideo](https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/pnceh9/aHR0cDovL3d3dy53c2ouY29tL3ZpZGVvL3doZW4tYW4tYW1hdGV1ci1jaGFsbGVuZ2VzLWEtY2hlc3MtZ3JhbmRtYXN0ZXIvQzJDMDUwRDgtNjZDOC00RUYzLTlCNzMtODFEOTJDNEM2RTlGLmh0bWw=)\ngives you a summary.**",
+      "original_url": "https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/78i7h8/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzExLzE4L3VuZGVyMTAwLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/78i7h8/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzExLzE4L3VuZGVyMTAwLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/opfkhq/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzExLzE4L3VuZGVyMTAwLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/zvtghn/aHR0cDovL29uLndzai5jb20vMkFXdHNPVw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/pnceh9/aHR0cDovL3d3dy53c2ouY29tL3ZpZGVvL3doZW4tYW4tYW1hdGV1ci1jaGFsbGVuZ2VzLWEtY2hlc3MtZ3JhbmRtYXN0ZXIvQzJDMDUwRDgtNjZDOC00RUYzLTlCNzMtODFEOTJDNEM2RTlGLmh0bWw="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Gramatik - Orchestrated Incident",
+      "creator": null,
+      "note": "I wrote a good portion of [The 4-Hour\nChef](https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/60aeh8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS80LUhvdXItQ2hlZi1Db29raW5nLUxlYXJuaW5nLUFueXRoaW5nL2RwLzA1NDc4ODQ1OTEvcmVmPWFzYXBfYmM_aWU9VVRGOA==)\n(in fact, a book on accelerated learning) to this track on repeat. It’s not\neveryone’s cup of tea, but I find the upbeat instrumentals fantastic for\nwriting flow. I have a lot of Gramatik and Beats Antique -- try\n[Circulation](https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/kmbmh6/aHR0cHM6Ly9zb3VuZGNsb3VkLmNvbS9iZWF0c2FudGlxdWUvY2lyY3VsYXRpb24=)\n\\-- in my playlist for writing sessions.**",
+      "original_url": "https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/xksph6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1LSzJ6ZUxiS2xuYw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/xksph6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1LSzJ6ZUxiS2xuYw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/60aeh8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS80LUhvdXItQ2hlZi1Db29raW5nLUxlYXJuaW5nLUFueXRoaW5nL2RwLzA1NDc4ODQ1OTEvcmVmPWFzYXBfYmM_aWU9VVRGOA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/kmbmh6/aHR0cHM6Ly9zb3VuZGNsb3VkLmNvbS9iZWF0c2FudGlxdWUvY2lyY3VsYXRpb24="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Fred Rogers (“Mr. Rogers” of television fame) testifies before the Senate Subcommittee on Communications in 1969",
+      "creator": null,
+      "note": "testifies before the Senate\nSubcommittee on Communications in\n1969](https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/52hvh7/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1mS3k3bGpScjBBQQ==).\nIf you want to see an incredibly deft display of verbal judo, watch this short\nclip. It’s absolutely fantastic. Mr. Rogers turns a cantankerous opponent into\nan ally in minutes, and it’s important to watch all the way to the end. This\nfootage was recommended to me by [Tim “The Trend Spotter” O’Reilly in our\nconversation\ntogether](https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/2ou2ho/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzExLzA4L3RpbS1vcmVpbGx5Lw==).\nThanks, Tim!**",
+      "original_url": "https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/52hvh7/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1mS3k3bGpScjBBQQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/52hvh7/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1mS3k3bGpScjBBQQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/2ou2ho/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzExLzA4L3RpbS1vcmVpbGx5Lw=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "In case you missed it —",
+      "category": "other",
+      "title": "Tribe of Mentors",
+      "creator": null,
+      "note": "that is currently #4 across all podcasts on iTunes/Apple Podcasts! It’s like\nThe Tim Ferriss Show but shorter format. I’ll keep doing both. [Click\nhere](https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/gvfnh5/aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL3VzL3BvZGNhc3QvdHJpYmUtb2YtbWVudG9ycy9pZDEzMTYwODM5MDE_bXQ9Mg==)\nto check it out, and I’d really appreciate it if you subscribed. Lots of fun\nstuff coming. You can find it on\n[iTunes,](https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/93tzhn/aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL3VzL3BvZGNhc3QvdHJpYmUtb2YtbWVudG9ycy9pZDEzMTYwODM5MDE_bXQ9Mg==)\n[Stitcher](https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/3wcphk/aHR0cHM6Ly93d3cuc3RpdGNoZXIuY29tL3BvZGNhc3QvdGltLWZlcnJpc3Mtc2hvdy90cmliZS1vZi1tZW50b3Jz),\nand [Google\nPlay](https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/nesohv/aHR0cHM6Ly9wbGF5bXVzaWMuYXBwLmdvby5nbC8_aWJpPWNvbS5nb29nbGUuUGxheU11c2ljJmlzaT02OTE3OTc5ODcmaXVzPWdvb2dsZXBsYXltdXNpYyZhcG49Y29tLmdvb2dsZS5hbmRyb2lkLm11c2ljJmxpbms9aHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb20vbXVzaWMvbS9JcTZ2a2VobWNjdWsyZGpiY2JzcWFhcGh2em0_dCUzRFRyaWJlX29mX01lbnRvcnMlMjZwY2FtcGFpZ25pZCUzRE1LVC1uYS1hbGwtY28tcHItbXUtcG9kLTE2).**Quote",
+      "original_url": "https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/q3i8h7/aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL3VzL3BvZGNhc3QvdHJpYmUtb2YtbWVudG9ycy9pZDEzMTYwODM5MDE_bXQ9Mg==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/q3i8h7/aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL3VzL3BvZGNhc3QvdHJpYmUtb2YtbWVudG9ycy9pZDEzMTYwODM5MDE_bXQ9Mg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/gvfnh5/aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL3VzL3BvZGNhc3QvdHJpYmUtb2YtbWVudG9ycy9pZDEzMTYwODM5MDE_bXQ9Mg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/93tzhn/aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL3VzL3BvZGNhc3QvdHJpYmUtb2YtbWVudG9ycy9pZDEzMTYwODM5MDE_bXQ9Mg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/3wcphk/aHR0cHM6Ly93d3cuc3RpdGNoZXIuY29tL3BvZGNhc3QvdGltLWZlcnJpc3Mtc2hvdy90cmliZS1vZi1tZW50b3Jz"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/nesohv/aHR0cHM6Ly9wbGF5bXVzaWMuYXBwLmdvby5nbC8_aWJpPWNvbS5nb29nbGUuUGxheU11c2ljJmlzaT02OTE3OTc5ODcmaXVzPWdvb2dsZXBsYXltdXNpYyZhcG49Y29tLmdvb2dsZS5hbmRyb2lkLm11c2ljJmxpbms9aHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb20vbXVzaWMvbS9JcTZ2a2VobWNjdWsyZGpiY2JzcWFhcGh2em0_dCUzRFRyaWJlX29mX01lbnRvcnMlMjZwY2FtcGFpZ25pZCUzRE1LVC1uYS1hbGwtY28tcHItbXUtcG9kLTE2"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "I’m pondering —",
+      "category": "other",
+      "title": "send a tweet to @tferriss",
+      "creator": null,
+      "note": "\\--- And as always, please let me know your requests and suggestions on\nTwitter. Which bullet above is your favorite? What do you want more or less\nof? Let me know. Just [send a tweet to\n@tferriss](https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/w4b2hg/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==)\nand put #5BulletFriday in there so I can find it. Have a wonderful weekend,\nall! TimP.S. -- I’d like to [answer your\nquestions!](https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/rxh8ho/aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yLzVCRlF1ZXN0aW9ucy8=)\nI’m going to record a special podcast episode dedicated exclusively to\nquestions from subscribers to this newsletter. Please submit and upvote\nquestions at the link below **by 5pm PT on Saturday** , and please do not\nshare the URL. Thanks!  \n[https://www.reddit.com/r/5BFQuestions/](https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/0luwh9/aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yLzVCRlF1ZXN0aW9ucy8=)P.P.S.\nIf you’re reading [Tribe of\nMentors](https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/8viqho/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UcmliZS1NZW50b3JzLVNob3J0LUFkdmljZS1Xb3JsZC9kcC8xMzI4OTk0OTYxL3JlZj1zcl8xXzE_cz1ib29rcyZpZT1VVEY4JnFpZD0xNTEyMDc4NTc4JnNyPTEtMSZrZXl3b3Jkcz10cmliZStvZittZW50b3Jz),\nI’d _really_ love to hear your honest thoughts in an Amazon review[\nhere](https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/vzf3hr/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UcmliZS1NZW50b3JzLVNob3J0LUFkdmljZS1Xb3JsZC9kcC8xMzI4OTk0OTYxL3JlZj1zcl8xXzE_cz1ib29rcyZpZT1VVEY4JnFpZD0xNTEyMDc4NTc4JnNyPTEtMSZrZXl3b3Jkcz10cmliZStvZittZW50b3Jz)!\nI’m reading them all (both good and bad), and each one really means a lot,\nhowever short. [Just click here and let me\nknow...](https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/lotehm/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UcmliZS1NZW50b3JzLVNob3J0LUFkdmljZS1Xb3JsZC9kcC8xMzI4OTk0OTYxL3JlZj1zcl8xXzE_cz1ib29rcyZpZT1VVEY4JnFpZD0xNTEyMDc4NTc4JnNyPTEtMSZrZXl3b3Jkcz10cmliZStvZittZW50b3Jz)  \n[![](https://convertkit.s3.amazonaws.com/assets/pictures/11125/837045/content_tom-email-footer-03.jpg)](https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/mqc7h5/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=)",
+      "original_url": "https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/w4b2hg/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/w4b2hg/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/rxh8ho/aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yLzVCRlF1ZXN0aW9ucy8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/0luwh9/aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yLzVCRlF1ZXN0aW9ucy8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/8viqho/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UcmliZS1NZW50b3JzLVNob3J0LUFkdmljZS1Xb3JsZC9kcC8xMzI4OTk0OTYxL3JlZj1zcl8xXzE_cz1ib29rcyZpZT1VVEY4JnFpZD0xNTEyMDc4NTc4JnNyPTEtMSZrZXl3b3Jkcz10cmliZStvZittZW50b3Jz"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/vzf3hr/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UcmliZS1NZW50b3JzLVNob3J0LUFkdmljZS1Xb3JsZC9kcC8xMzI4OTk0OTYxL3JlZj1zcl8xXzE_cz1ib29rcyZpZT1VVEY4JnFpZD0xNTEyMDc4NTc4JnNyPTEtMSZrZXl3b3Jkcz10cmliZStvZittZW50b3Jz"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/lotehm/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UcmliZS1NZW50b3JzLVNob3J0LUFkdmljZS1Xb3JsZC9kcC8xMzI4OTk0OTYxL3JlZj1zcl8xXzE_cz1ib29rcyZpZT1VVEY4JnFpZD0xNTEyMDc4NTc4JnNyPTEtMSZrZXl3b3Jkcz10cmliZStvZittZW50b3Jz"
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/837045/content_tom-email-footer-03.jpg"
+        }
+      ]
+    }
+  ]
 }

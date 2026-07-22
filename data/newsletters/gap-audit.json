@@ -20,14 +20,14 @@
       "source_url": "https://studylib.net/doc/28220074/tim-ferriss-tribe-of-mentors-audiobook"
     },
     {
-      "date": "2019-03-15",
-      "evidence": "Tim’s official documentary roundup attributes Trip of Compassion to the March 15, 2019 newsletter.",
-      "source_url": "https://tim.blog/2022/04/13/tim-ferriss-favorite-documentaries/"
+      "date": "2019-12-20",
+      "evidence": "NewsletterHunt has a dated archive record titled 5-Bullet Friday — December 20, 2019.",
+      "source_url": "https://newsletterhunt.com/emails/9715"
     },
     {
-      "date": "2019-10-18",
-      "evidence": "Tim’s official 2019 reading roundup explicitly labels a What I’m reading entry October 18, 2019.",
-      "source_url": "https://tim.blog/2020/01/08/reading-recommendations/"
+      "date": "2022-02-11",
+      "evidence": "NewsletterHunt has a dated archive record titled 5-Bullet Friday — February 11, 2022.",
+      "source_url": "https://newsletterhunt.com/emails/20273"
     }
   ],
   "filled": [
@@ -57,17 +57,27 @@
       "date": "2021-03-19",
       "source": "gmail",
       "subject": "5-Bullet Friday"
+    },
+    {
+      "date": "2019-03-15",
+      "source": "tim.blog",
+      "subject": "5-Bullet Friday",
+      "source_url": "https://tim.blog/2020/01/08/reading-recommendations/",
+      "coverage": "Two of five bullets recovered from official Tim Ferriss roundups."
+    },
+    {
+      "date": "2019-10-18",
+      "source": "gmail",
+      "subject": "5-Bullet Friday"
     }
   ],
   "unresolved_candidate_dates": [
     "2018-01-19",
     "2018-09-21",
     "2019-03-29",
-    "2019-12-20",
     "2021-10-01",
     "2021-12-31",
-    "2022-02-11",
     "2022-03-25"
   ],
-  "interpretation": "Four dates are confirmed publication dates but still lack a full source issue. The remaining eight dates are publication candidates, not confirmed missing issues: neither connected mailbox contained a qualifying newsletter in those windows, and date-specific public searches did not establish that an issue was published. Gmail supplied full issues for three previously missing dates."
+  "interpretation": "Four dates are confirmed publication dates but still lack a full source issue. March 15, 2019 is present as a two-bullet official-source backfill. The remaining six dates are unconfirmed publication candidates: neither connected mailbox contained a qualifying newsletter in those windows, and date-specific public searches did not establish that an issue was published. Gmail supplied full issues for four previously missing dates."
 }

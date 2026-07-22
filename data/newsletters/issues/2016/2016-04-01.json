@@ -6,7 +6,123 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "App I’m Loving —",
+      "category": "other",
+      "title": "Bumble",
+      "creator": null,
+      "note": "This is a godsend. If you’re single, this app turns things upside-down in\nthe best way possible. It’s similar to Tinder, but the onus is on the women.\nIf you (a male) match with someone (a female), the woman must message you\nwithin 24 hours or your match expires and you disappear. This tweak is good\nfor everyone’s sanity, saves 90%+ of the time wasting, and produces faster\nmatches than I’ve seen anywhere else. Have any funny Bumble stories? I’d love\nto hear ‘em ([tweet\n@tferriss](http://www.fourhournewsletter.com/click.html?x=a62e&lc=w61&mc=e&s=bomwH&u=w&y=D&)\nwith #bumble), and I have no connection with the company. Just a fan.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=w6b&mc=e&s=bomwH&u=w&y=T&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=w6b&mc=e&s=bomwH&u=w&y=T&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=w61&mc=e&s=bomwH&u=w&y=D&"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "What’s Next in Computing?",
+      "creator": "Chris Dixon — This one made all the rounds in Silicon Valley and had everyone abuzz",
+      "note": "everyone abuzz. It’s worth a read and re-read. Kudos to [Chris Dixon\n(@cdixon)](http://www.fourhournewsletter.com/click.html?x=a62e&lc=w6c&mc=e&s=bomwH&u=w&y=u&)\nfor such a well thought out piece.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=w6t&mc=e&s=bomwH&u=w&y=W&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=w6t&mc=e&s=bomwH&u=w&y=W&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=w6c&mc=e&s=bomwH&u=w&y=u&"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Most popular post on Instagram —",
+      "category": "other",
+      "title": "easily supporting two 175-lb guys",
+      "creator": null,
+      "note": "On top of that, she's a physics professor, not a CrossFit Games competitor. If\nyou want to see more videos and images, be sure to [follow me on\nInstagram](http://www.fourhournewsletter.com/click.html?x=a62e&lc=w66&mc=e&s=bomwH&u=w&y=S&).",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=w6L&mc=e&s=bomwH&u=w&y=g&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=w6L&mc=e&s=bomwH&u=w&y=g&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=w66&mc=e&s=bomwH&u=w&y=S&"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "New blog post you might have missed —",
+      "category": "article",
+      "title": "my morning journaling routine",
+      "creator": null,
+      "note": "once before. In [this new\npost](http://www.fourhournewsletter.com/click.html?x=a62e&lc=w6v&mc=e&s=bomwH&u=w&y=E&),\nI share a journal entry that details how I’ve incorporated “deloading” phases\ninto my life. In the last 12 months, I’ve used “deloading” outside of sports\nto decrease my anxiety at least 50% while simultaneously doubling my income.\n[Read\nhere](http://www.fourhournewsletter.com/click.html?x=a62e&lc=w6v&mc=e&s=bomwH&u=w&y=E&)\nfor all the details.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=w6F&mc=e&s=bomwH&u=w&y=Y&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=w6F&mc=e&s=bomwH&u=w&y=Y&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=w6v&mc=e&s=bomwH&u=w&y=E&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=w6v&mc=e&s=bomwH&u=w&y=E&"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering, once again —",
+      "category": "quote",
+      "title": "“Action may not always bring happiness, but there is no happiness without action.” – Benjamin Disraeli \\--- Are you enjoying 5-Bullet Fridays? If so, please forward this email to a friend and suggest they sign up for the weekly dose! As always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know! Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it. Thanks for reading! Have a wonderful weekend, all, Tim P.S. — Struggling with how you use your time? You might need a new perspective. This can help you avoid the busy trap. --- | --- | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=w6I&mc=e&s=bomwH&u=w&y=N&) --- | FORWARDED THIS MESSAGE? SIGN UP. --- | | --- Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. | | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=w6P&mc=e&s=bomwH&u=w&y=n&) ---",
+      "creator": "Struggling with how you use your time? You might need a new perspective. This can help you avoid the busy trap. --- | --- |",
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=w6m&mc=e&s=bomwH&u=w&y=z&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=w6m&mc=e&s=bomwH&u=w&y=z&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=w6O&mc=e&s=bomwH&u=w&y=B&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=w6a&mc=e&s=bomwH&u=w&y=9&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/4982.png?img1459375740842"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=w6i&mc=e&s=bomwH&u=w&y=j&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/4986.jpg?img1459375740842"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,120 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Purchase I’m Loving —",
+      "category": "other",
+      "title": "Ubiquinol QH- Absorb",
+      "creator": null,
+      "note": ":\nFor the last several months, I have been cycling on and off of creatine\nmonohydrate and ubiquinol (think of it as a more bio-available CoQ10). The\ncatalyst was preliminary data that suggests this combo might help with\nmitochondrial “rehab”—so to speak—after Lyme disease and associated\nantibiotics. Perhaps more broadly appealing, in some studies\n([example](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wFF&mc=e&s=bomwH&u=w&y=Y&)),\ncreatine appears to have a neuroprotective effect in animal models of\nParkinson's disease, Alzheimer's disease, and other age-related forms of\ncognitive decline. This is all tentative, and I’m no MD, so if you’re an\nexpert, I’d love to [hear your thoughts via Twitter\n(@tferriss)](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wFv&mc=e&s=bomwH&u=w&y=E&).\nPlease use #creatubiq so I can find you.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wF6&mc=e&s=bomwH&u=w&y=S&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wF6&mc=e&s=bomwH&u=w&y=S&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wFF&mc=e&s=bomwH&u=w&y=Y&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wFv&mc=e&s=bomwH&u=w&y=E&"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Thoughts on Gender and Radical Candor",
+      "creator": null,
+      "note": "There is a lot of fuzzy and unhelpful argumentation around \"gender\nequality.\" This is the first great piece I've read, written by Kim Scott. It\nalso explains why most of my smart male friends have opted out of the gender\nconversation entirely (e.g., lopsided risk-benefit ratio). This article points\nout some under-discussed facets of this entire discussion.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wFm&mc=e&s=bomwH&u=w&y=z&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wFm&mc=e&s=bomwH&u=w&y=z&"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Most popular post on Instagram —",
+      "category": "other",
+      "title": "my favorite start-up t-shirt ever",
+      "creator": null,
+      "note": ",\nfrom\n[@NoRedInk](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wFa&mc=e&s=bomwH&u=w&y=9&)\n([Noredink.com](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wFI&mc=e&s=bomwH&u=w&y=N&)).”  \n  \nSomeone I’m enjoying following on Twitter —  \n[@Brainpicker](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wFi&mc=e&s=bomwH&u=w&y=j&)\n— I love Maria Popova. I still can’t fathom how she finds, digests, and\nsummarizes so much good information. If you want fewer Internet cat pics and\nmore meaningful reads, she’s your woman. (I also interviewed [her\nhere](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wFP&mc=e&s=bomwH&u=w&y=n&),\nand she [answered your follow-up questions\nhere](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wF7&mc=e&s=bomwH&u=w&y=V&).)",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wFO&mc=e&s=bomwH&u=w&y=B&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wFO&mc=e&s=bomwH&u=w&y=B&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wFa&mc=e&s=bomwH&u=w&y=9&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wFI&mc=e&s=bomwH&u=w&y=N&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wFi&mc=e&s=bomwH&u=w&y=j&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wFP&mc=e&s=bomwH&u=w&y=n&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wF7&mc=e&s=bomwH&u=w&y=V&"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering, once again —",
+      "category": "quote",
+      "title": "“It is fatal to know too much at the outset. Boredom comes as quickly to the traveler who knows his route as the novelist who is over-certain of his plot.” – Paul Thoreau \\--- Are you enjoying 5-Bullet Fridays? If so, please forward this email to a friend and suggest they sign up for the weekly dose! As always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know! Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it. Thanks for reading! Have a wonderful weekend, all, Tim P.S. — Does anyone know where I can find Stahl bars in Iowa City? Ideally, they’d be near Carver-Hawkeye Arena, where I’ll be attending the U.S. Olympic Team Trials for wrestling. I need to do a lil’ workout after shouting support for the real athletes. If you have ideas, please tweet @tferriss with #iowa somewhere in the message. Thanks! --- | --- | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wFk&mc=e&s=bomwH&u=w&y=h&) --- | FORWARDED THIS MESSAGE? SIGN UP. --- | | --- Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. | | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wFH&mc=e&s=bomwH&u=w&y=G&) ---",
+      "creator": "Does anyone know where I can find Stahl bars in Iowa City? Ideally, they’d be near Carver-Hawkeye Arena, where I’ll be attending the U.S. Olympic Team Trials for wrestling. I need to do a lil’ workout after shouting support for the real athletes. If you have ideas, please tweet @tferriss with #iowa somewhere in the message. Thanks! --- | --- |",
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wFo&mc=e&s=bomwH&u=w&y=J&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wFo&mc=e&s=bomwH&u=w&y=J&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wFK&mc=e&s=bomwH&u=w&y=l&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wFM&mc=e&s=bomwH&u=w&y=0&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wFA&mc=e&s=bomwH&u=w&y=5&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/5055.png?img1460096218056"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wF8&mc=e&s=bomwH&u=w&y=p&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/5059.jpg?img1460096218056"
+        }
+      ]
+    }
+  ]
 }

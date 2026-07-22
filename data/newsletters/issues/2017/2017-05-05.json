@@ -6,7 +6,91 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Catching the Big Fish",
+      "creator": null,
+      "note": "Filmmaker David Lynch describes his personal methods of capturing and working\nwith ideas, and the immense creative benefits he has experienced from the\npractice of meditation. This book has been recommended to me by many high-\ncalibre creatives, including [drummer Dave\nElitch](https://el2.fourhourmail.com/c/d0u95nv33i0h4n6dn/q1opyg/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9kYXZlZWxpdGNoLw==).**What",
+      "original_url": "https://el2.fourhourmail.com/c/d0u95nv33i0h4n6dn/l178yv/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9DYXRjaGluZy1CaWctRmlzaC1NZWRpdGF0aW9uLUNvbnNjaW91c25lc3MvZHAvMTU4NTQyNjEyMS8_dGFnPW9mZnNpdG9mdGltZmUtMjA=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0h4n6dn/l178yv/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9DYXRjaGluZy1CaWctRmlzaC1NZWRpdGF0aW9uLUNvbnNjaW91c25lc3MvZHAvMTU4NTQyNjEyMS8_dGFnPW9mZnNpdG9mdGltZmUtMjA="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0h4n6dn/q1opyg/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9kYXZlZWxpdGNoLw=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "I’m listening to —",
+      "category": "podcast",
+      "title": "Dirty Laundry",
+      "creator": "Bitter:Sweet Purchase",
+      "note": "**Purchase",
+      "original_url": "https://el2.fourhourmail.com/c/d0u95nv33i0h4n6dn/x1zvjk/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1qdlFnQnJRbnF6aw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0h4n6dn/x1zvjk/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1qdlFnQnJRbnF6aw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0h4n6dn/e1pnyl/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9NYXRpbmctR2FtZS1CaXR0ZXItU3dlZXQvZHAvQjAwMEM2Tk5WQS8_dGFnPW9mZnNpdG9mdGltZmUtMjA="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "I’m loving —",
+      "category": "other",
+      "title": "Crystal Body Deodorant Stick.",
+      "creator": null,
+      "note": "Since\ndialing in my diet 10+ years ago, I’ve rarely used deodorant. Still, there are\nhigh-stress or high-heat environments that can result in musk-ox man smell.\nThis deodorant stick is minimalist and akin to a salt lick that fits in your\npalm or pocket (great for travel). It omits many deodorant ingredients I\nprefer to avoid: aluminum chlorohydrate, aluminum zirconium, parabens,\nphthalates, etc.**",
+      "original_url": "https://el2.fourhourmail.com/c/d0u95nv33i0h4n6dn/41xkjn/aHR0cDovL2Ftem4udG8vMnAydEowTw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0h4n6dn/41xkjn/aHR0cDovL2Ftem4udG8vMnAydEowTw=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Most popular picture on Instagram —",
+      "category": "other",
+      "title": "build something with my hands",
+      "creator": null,
+      "note": "for a change...**",
+      "original_url": "https://el2.fourhourmail.com/c/d0u95nv33i0h4n6dn/ly60ym/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JUaVE2SnpscHpDLz90YWtlbi1ieT10aW1mZXJyaXNz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0h4n6dn/ly60ym/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JUaVE2SnpscHpDLz90YWtlbi1ieT10aW1mZXJyaXNz"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.” -Sun Tzu, The Art of War \\---And as always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know. Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it.",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/d0u95nv33i0h4n6dn/gykm1o/aHR0cDovL3d3dy5mb3VyaG91cm5ld3NsZXR0ZXIuY29tL2NsaWNrLmh0bWw_eD1hNjJlJmxjPUozJm1jPWUmcz1kV3Y5NSZ1PXcmeT1sJg==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0h4n6dn/gykm1o/aHR0cDovL3d3dy5mb3VyaG91cm5ld3NsZXR0ZXIuY29tL2NsaWNrLmh0bWw_eD1hNjJlJmxjPUozJm1jPWUmcz1kV3Y5NSZ1PXcmeT1sJg=="
+        }
+      ]
+    }
+  ]
 }

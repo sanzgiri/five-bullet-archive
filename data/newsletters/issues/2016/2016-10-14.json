@@ -6,7 +6,119 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "New blog post you might have missed —",
+      "category": "article",
+      "title": "in a previous podcast.",
+      "creator": null,
+      "note": "For me, [a reliable nighttime\nroutine](http://www.fourhournewsletter.com/click.html?x=a62e&lc=whe&mc=e&s=bomwH&u=w&y=x&)\nis just as important. In [this new\npost](http://www.fourhournewsletter.com/click.html?x=a62e&lc=whe&mc=e&s=bomwH&u=w&y=x&),\nI explain the exact protocol I use to wind down in the last 60 minutes of my\nday. Enjoy!",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=whd&mc=e&s=bomwH&u=w&y=2&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=whd&mc=e&s=bomwH&u=w&y=2&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=whe&mc=e&s=bomwH&u=w&y=x&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=whe&mc=e&s=bomwH&u=w&y=x&"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Speak, Memory: When her best friend died, she rebuilt him using artificial intelligence",
+      "creator": "Casey Newton",
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=whb&mc=e&s=bomwH&u=w&y=T&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=whb&mc=e&s=bomwH&u=w&y=T&"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Most popular post on Instagram —",
+      "category": "other",
+      "title": "this is a good billboard...",
+      "creator": null,
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wh1&mc=e&s=bomwH&u=w&y=D&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wh1&mc=e&s=bomwH&u=w&y=D&"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m experimenting with —",
+      "category": "other",
+      "title": "Cut the Chemist Suite",
+      "creator": "Ozomatli",
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wht&mc=e&s=bomwH&u=w&y=W&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wht&mc=e&s=bomwH&u=w&y=W&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=whc&mc=e&s=bomwH&u=w&y=u&"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“The privilege of a lifetime is being who you are.” - Joseph Campbell \\--- Are you enjoying 5-Bullet Fridays? If so, please forward this email to a friend and suggest they sign up for the weekly dose! As always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know! Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it. Thanks for reading! Have a wonderful weekend, all, Tim P.S. — Are there any great events in NYC in December, where I should look into speaking or doing a live podcast? Or a big venue I should rent/use? Please let me know. --- | --- | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=whv&mc=e&s=bomwH&u=w&y=E&) --- | FORWARDED THIS MESSAGE? SIGN UP. --- | | --- Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. | | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=whO&mc=e&s=bomwH&u=w&y=B&) ---",
+      "creator": "Are there any great events in NYC in December, where I should look into speaking or doing a live podcast? Or a big venue I should rent/use? Please let me know. --- | --- |",
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=whL&mc=e&s=bomwH&u=w&y=g&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=whL&mc=e&s=bomwH&u=w&y=g&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wh6&mc=e&s=bomwH&u=w&y=S&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=whF&mc=e&s=bomwH&u=w&y=Y&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=whF&mc=e&s=bomwH&u=w&y=Y&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/6120.jpg?img1476466594770"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=whm&mc=e&s=bomwH&u=w&y=z&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/6075.jpg?img1476466594770"
+        }
+      ]
+    }
+  ]
 }

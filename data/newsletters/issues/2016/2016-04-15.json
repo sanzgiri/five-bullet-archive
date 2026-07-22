@@ -6,7 +6,123 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "The Fog of War",
+      "creator": null,
+      "note": "This documentary has been recommended to me countless times (the last person\nwas Morgan Spurlock, during [our podcast\ntogether](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wOq&mc=e&s=bomwH&u=w&y=C&),\nand I finally bit the bullet. It’s… amazing. At [98% on Rotten\nTomatoes](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wOU&mc=e&s=bomwH&u=w&y=y&),\nI shouldn’t have been surprised. The synopsis: Former Secretary of Defense\nRobert S. McNamara is the sole focus of documentarian Errol Morris' The Fog of\nWar, a film that not only analyzes McNamara's controversial decisions during\nthe first half of the Vietnam War, but also his childhood upbringing, his\neducation at Berkeley and Harvard, his involvement in World War II, and his\nlater years as president of the World Bank. Culling footage from almost 20\nhours of interviews with the Secretary, Morris details key moments from\nMcNamara's career, including most important lessons learned.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wOQ&mc=e&s=bomwH&u=w&y=H&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wOQ&mc=e&s=bomwH&u=w&y=H&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wOq&mc=e&s=bomwH&u=w&y=C&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wOU&mc=e&s=bomwH&u=w&y=y&"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "The Tail End",
+      "creator": "Tim Urban — If you only read one article this month, please make it this one",
+      "note": "one](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wOs&mc=e&s=bomwH&u=w&y=R&).\nIt was recommended to me by [Matt\nMullenweg](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wa4&mc=e&s=bomwH&u=w&y=r&)\nand uses diagrams to really underscore how short life is. Here’s just one gem:\n\"It turns out that when I graduated from high school, I had already used up\n93% of my in-person parent time. I’m now enjoying the last 5% of that time.\nWe’re in the tail end.” Might be time for you (and me) to rethink our\npriorities. Read this as a catalyst.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wOs&mc=e&s=bomwH&u=w&y=R&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wOs&mc=e&s=bomwH&u=w&y=R&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wOs&mc=e&s=bomwH&u=w&y=R&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wa4&mc=e&s=bomwH&u=w&y=r&"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Most popular post on Facebook —",
+      "category": "book",
+      "title": "The Most Important Skill to Teach Your Dog",
+      "creator": null,
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=waw&mc=e&s=bomwH&u=w&y=Z&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=waw&mc=e&s=bomwH&u=w&y=Z&"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Music I’m jamming to —",
+      "category": "music",
+      "title": "45",
+      "creator": "Shinedown",
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wad&mc=e&s=bomwH&u=w&y=2&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wad&mc=e&s=bomwH&u=w&y=2&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wae&mc=e&s=bomwH&u=w&y=x&"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering, once again —",
+      "category": "quote",
+      "title": "“I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.” ― Frederick Douglass \\--- Are you enjoying 5-Bullet Fridays? If so, please forward this email to a friend and suggest they sign up for the weekly dose! As always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know! Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it. Thanks for reading! Have a wonderful weekend, all, Tim P.S. — Need help living in the moment and enjoying your life? This is a fantastic reminder to mind the critical few and to ignore the trivial many. --- | --- | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wac&mc=e&s=bomwH&u=w&y=u&) --- | FORWARDED THIS MESSAGE? SIGN UP. --- | | --- Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. | | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wa6&mc=e&s=bomwH&u=w&y=S&) ---",
+      "creator": "Need help living in the moment and enjoying your life? This is a fantastic reminder to mind the critical few and to ignore the trivial many. --- | --- |",
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wab&mc=e&s=bomwH&u=w&y=T&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wab&mc=e&s=bomwH&u=w&y=T&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wa1&mc=e&s=bomwH&u=w&y=D&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wat&mc=e&s=bomwH&u=w&y=W&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/5182.png?img1460693544036"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=waL&mc=e&s=bomwH&u=w&y=g&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/5186.jpg?img1460693544036"
+        }
+      ]
+    }
+  ]
 }

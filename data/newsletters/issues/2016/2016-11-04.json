@@ -6,7 +6,92 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m drinking for morning jam sessions —",
+      "category": "other",
+      "title": "Gateway of Spirit (Shen Men) Purple Tea",
+      "creator": null,
+      "note": "Purple\nTea](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wXq&mc=e&s=bomwH&u=w&y=C&)  \n  \nStupid site I once again can’t stop visiting —  \n[leekspin.com](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wXU&mc=e&s=bomwH&u=w&y=y&)",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wXq&mc=e&s=bomwH&u=w&y=C&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wXq&mc=e&s=bomwH&u=w&y=C&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wXU&mc=e&s=bomwH&u=w&y=y&"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "I’m a Latino in Tech, and I Think the ‘Diversity’ Discussion Is Utterly Broken",
+      "creator": "Eric M",
+      "note": "Ruiz",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wXs&mc=e&s=bomwH&u=w&y=R&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wXs&mc=e&s=bomwH&u=w&y=R&"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Most popular post on Instagram —",
+      "category": "other",
+      "title": "A little cheat day snack...",
+      "creator": null,
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wQ4&mc=e&s=bomwH&u=w&y=r&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wQ4&mc=e&s=bomwH&u=w&y=r&"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Why do you go away? So that you can come back. So that you can see the place you came from with new eyes and extra colors. And the people there see you differently, too. Coming back to where you started is not the same as never leaving.” ― Terry Pratchett, A Hat Full of Sky \\--- Are you enjoying 5-Bullet Fridays? If so, please forward this email to a friend and suggest they sign up for the weekly dose! As always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know! Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it. Thanks for reading! Have a wonderful weekend, all, Tim P.S. — In case you missed it, here’s my breakfast routine before workouts. Enjoy! --- | --- | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wQb&mc=e&s=bomwH&u=w&y=T&) --- | FORWARDED THIS MESSAGE? SIGN UP. --- | | --- Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. | | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wQt&mc=e&s=bomwH&u=w&y=W&) ---",
+      "creator": "In case you missed it, here’s my breakfast routine before workouts. Enjoy! --- | --- |",
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wQw&mc=e&s=bomwH&u=w&y=Z&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wQw&mc=e&s=bomwH&u=w&y=Z&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wQd&mc=e&s=bomwH&u=w&y=2&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wQe&mc=e&s=bomwH&u=w&y=x&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/6120.jpg?img1478252832256"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wQ1&mc=e&s=bomwH&u=w&y=D&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/6075.jpg?img1478252832256"
+        }
+      ]
+    }
+  ]
 }

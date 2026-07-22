@@ -6,7 +6,123 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m drinking —",
+      "category": "other",
+      "title": "Durigutti Malbec 2015",
+      "creator": null,
+      "note": "(or other year). This isn’t the fanciest of Malbecs, and that’s the point --\nit punches above its weight class. The quality really impressed me for the $15\nprice tag. I first found Durigutti in a Long Island restaurant named\n[Fresno](https://el2.fourhourmail.com/c/92unw45ooanh60xe2/opfkhq/aHR0cDovL3d3dy5mcmVzbm9yZXN0YXVyYW50LmNvbS8=),\nof all places, even though I lived in Argentina for nine months in 2015.\nSometimes, the gems are hiding in plain sight.**",
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanh60xe2/78i7h8/aHR0cDovL3d3dy53aW5lbWFnLmNvbS9idXlpbmctZ3VpZGUvZHVyaWd1dHRpLTIwMTUtbWFsYmVjLW1lbmRvemE=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanh60xe2/78i7h8/aHR0cDovL3d3dy53aW5lbWFnLmNvbS9idXlpbmctZ3VpZGUvZHVyaWd1dHRpLTIwMTUtbWFsYmVjLW1lbmRvemE="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanh60xe2/opfkhq/aHR0cDovL3d3dy5mcmVzbm9yZXN0YXVyYW50LmNvbS8="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Groove Armada -- My Friend",
+      "creator": null,
+      "note": "This is part of my playlist when cooking ([like\nthis](https://el2.fourhourmail.com/c/92unw45ooanh60xe2/pnceh9/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JSVVlJQW1oSDI1Lz90YWtlbi1ieT10aW1mZXJyaXNz))\nor starting a late-night writing session.**",
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanh60xe2/zvtghn/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1KeG9oSlg5RWxwRQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanh60xe2/zvtghn/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1KeG9oSlg5RWxwRQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanh60xe2/pnceh9/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JSVVlJQW1oSDI1Lz90YWtlbi1ieT10aW1mZXJyaXNz"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Icarus",
+      "creator": null,
+      "note": "\\-- This documentary was strongly recommended to me by several world-class\nathletes. It’s one hell of a ride and worth the watch. If you’re interested in\nself-experimentation, performance-enhancing drugs, or state-sponsored doping,\nthis is for you. The Financial Times named it \"The Best Non-Fiction film of\n2017.” Synopsis: “When Bryan Fogel\n([@bryanfogel](https://el2.fourhourmail.com/c/92unw45ooanh60xe2/60aeh8/aHR0cHM6Ly90d2l0dGVyLmNvbS9icnlhbmZvZ2Vs))\nsets out to uncover the truth about doping in sports, a chance meeting with a\nRussian scientist transforms his story from a personal experiment into a\ngeopolitical thriller involving dirty urine, unexplained death and Olympic\nGold-exposing the biggest scandal in sports history.” If you enjoyed [Bigger,\nStronger,\nFaster](https://el2.fourhourmail.com/c/92unw45ooanh60xe2/kmbmh6/aHR0cDovL2Ftem4udG8vMmdwUWFHVw==),\nyou’ll enjoy this.**",
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanh60xe2/xksph6/aHR0cHM6Ly93d3cubmV0ZmxpeC5jb20vdGl0bGUvODAxNjgwNzk=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanh60xe2/xksph6/aHR0cHM6Ly93d3cubmV0ZmxpeC5jb20vdGl0bGUvODAxNjgwNzk="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanh60xe2/60aeh8/aHR0cHM6Ly90d2l0dGVyLmNvbS9icnlhbmZvZ2Vs"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanh60xe2/kmbmh6/aHR0cDovL2Ftem4udG8vMmdwUWFHVw=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Most popular post on Instagram —",
+      "category": "other",
+      "title": "Ouch…",
+      "creator": null,
+      "note": "Quote",
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanh60xe2/52hvh7/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JhTEtnTW5sR0tELz90YWtlbi1ieT10aW1mZXJyaXNz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanh60xe2/52hvh7/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JhTEtnTW5sR0tELz90YWtlbi1ieT10aW1mZXJyaXNz"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "I’m pondering —",
+      "category": "other",
+      "title": "send a tweet to @tferriss",
+      "creator": null,
+      "note": "and put #5BulletFriday in there so I can find it. Have a wonderful weekend,\nall! Tim P.S. -- If you missed it (it wasn’t emailed), I did a short podcast\n_inbetween-isode_ titled “[The 3 Critical Rules of\nBranding](https://el2.fourhourmail.com/c/92unw45ooanh60xe2/q3i8h7/aHR0cHM6Ly9yc3MuYXJ0MTkuY29tL2VwaXNvZGVzLzI3MzRkNmQ4LTVmM2UtNDlhMy1iYThhLTExNmJkZWQ5ZGZmMi5tcDM=)”\nthat people seem to be enjoying. It’s highly tactical and just 30 minutes\nlong. [Here it\nis](https://el2.fourhourmail.com/c/92unw45ooanh60xe2/gvfnh5/aHR0cHM6Ly9yc3MuYXJ0MTkuY29tL2VwaXNvZGVzLzI3MzRkNmQ4LTVmM2UtNDlhMy1iYThhLTExNmJkZWQ5ZGZmMi5tcDM=).\n[Or, [listen on\niTunes](https://el2.fourhourmail.com/c/92unw45ooanh60xe2/93tzhn/aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL3VzL3BvZGNhc3QvdGhlLXRpbS1mZXJyaXNzLXNob3cvaWQ4NjM4OTc3OTU_bXQ9Mg==)]  \n[![](https://convertkit.s3.amazonaws.com/assets/pictures/11125/450982/content_unnamed.png)](https://el2.fourhourmail.com/c/92unw45ooanh60xe2/3wcphk/aHR0cHM6Ly90b29sc29mdGl0YW5zLmNvbS8=) FORWARDED THIS MESSAGE? [SIGN UP](https://el2.fourhourmail.com/c/92unw45ooanh60xe2/nesohv/aHR0cDovL2dvLmZvdXJob3Vyd29ya3dlZWsuY29tLzEweC1vdXRwdXQv). | ![Tim Ferriss Photo](http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg) | Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff.  \n---|---",
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanh60xe2/2ou2ho/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanh60xe2/2ou2ho/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanh60xe2/q3i8h7/aHR0cHM6Ly9yc3MuYXJ0MTkuY29tL2VwaXNvZGVzLzI3MzRkNmQ4LTVmM2UtNDlhMy1iYThhLTExNmJkZWQ5ZGZmMi5tcDM="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanh60xe2/gvfnh5/aHR0cHM6Ly9yc3MuYXJ0MTkuY29tL2VwaXNvZGVzLzI3MzRkNmQ4LTVmM2UtNDlhMy1iYThhLTExNmJkZWQ5ZGZmMi5tcDM="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanh60xe2/93tzhn/aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL3VzL3BvZGNhc3QvdGhlLXRpbS1mZXJyaXNzLXNob3cvaWQ4NjM4OTc3OTU_bXQ9Mg=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/450982/content_unnamed.png"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanh60xe2/nesohv/aHR0cDovL2dvLmZvdXJob3Vyd29ya3dlZWsuY29tLzEweC1vdXRwdXQv"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        }
+      ]
+    }
+  ]
 }

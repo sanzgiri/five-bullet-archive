@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "issue_date": "2019-03-15",
+  "subject": "5-Bullet Friday",
+  "sources": [
+    "tim.blog"
+  ],
+  "status": "public_backfill",
+  "extraction_status": "partial",
+  "special_edition": false,
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Seeking the Productive Life: Some Details of My Personal Infrastructure",
+      "creator": "Stephen Wolfram",
+      "note": "(Hat tip to the incredible Kevin Kelly for the recommendation.)",
+      "original_url": "https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Trip of Compassion",
+      "creator": null,
+      "note": "I first watched Trip of Compassion about six months ago, when I was sent a link to a private video. This documentary affected me so deeply (and immediately) that I flew to Tel Aviv, met the filmmakers, and offered to help launch the film digitally worldwide, which I just did this week on this page. Everything I am doing for this film is 100% pro bono, and all proceeds go to the filmmakers.",
+      "original_url": "https://vimeo.com/ondemand/tripofcompassion",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://vimeo.com/ondemand/tripofcompassion"
+        }
+      ]
+    }
+  ]
+}

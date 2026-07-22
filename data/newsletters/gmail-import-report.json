@@ -1,100 +1,10 @@
 {
-  "generated_at": "2026-07-22T18:26:05.454Z",
-  "messages": 16,
+  "generated_at": "2026-07-22T18:44:58.837Z",
+  "messages": 1,
   "imported": [
     {
-      "issue_date": "2019-04-12",
-      "gmail_message_id": "16a116b50083ec81",
-      "bullets": 5,
-      "extraction_status": "extracted"
-    },
-    {
-      "issue_date": "2019-04-19",
-      "gmail_message_id": "16a356b80a5932a4",
-      "bullets": 5,
-      "extraction_status": "extracted"
-    },
-    {
-      "issue_date": "2019-05-31",
-      "gmail_message_id": "16b0ff7680ae070b",
-      "bullets": 5,
-      "extraction_status": "extracted"
-    },
-    {
-      "issue_date": "2019-07-26",
-      "gmail_message_id": "16c2e814246b014f",
-      "bullets": 5,
-      "extraction_status": "extracted"
-    },
-    {
-      "issue_date": "2019-08-02",
-      "gmail_message_id": "16c52a04e0988b69",
-      "bullets": 5,
-      "extraction_status": "extracted"
-    },
-    {
-      "issue_date": "2019-08-09",
-      "gmail_message_id": "16c7718c97894a19",
-      "bullets": 5,
-      "extraction_status": "extracted"
-    },
-    {
-      "issue_date": "2019-10-04",
-      "gmail_message_id": "16d97172821f3151",
-      "bullets": 5,
-      "extraction_status": "extracted"
-    },
-    {
-      "issue_date": "2019-12-13",
-      "gmail_message_id": "16eff3e53588e2e2",
-      "bullets": 5,
-      "extraction_status": "extracted"
-    },
-    {
-      "issue_date": "2019-12-27",
-      "gmail_message_id": "16f4746dc7a5413e",
-      "bullets": 5,
-      "extraction_status": "extracted"
-    },
-    {
-      "issue_date": "2020-12-25",
-      "gmail_message_id": "1769a3e684391c38",
-      "bullets": 5,
-      "extraction_status": "extracted"
-    },
-    {
-      "issue_date": "2021-01-22",
-      "gmail_message_id": "1772c015523b4191",
-      "bullets": 5,
-      "extraction_status": "extracted"
-    },
-    {
-      "issue_date": "2021-04-09",
-      "gmail_message_id": "178b9017fab05c0b",
-      "bullets": 5,
-      "extraction_status": "extracted"
-    },
-    {
-      "issue_date": "2021-04-16",
-      "gmail_message_id": "178dc2de81dce0a3",
-      "bullets": 6,
-      "extraction_status": "extracted"
-    },
-    {
-      "issue_date": "2019-11-29",
-      "gmail_message_id": "16eb70484ca9d198",
-      "bullets": 5,
-      "extraction_status": "extracted"
-    },
-    {
-      "issue_date": "2020-01-03",
-      "gmail_message_id": "16f6b55e56a869a4",
-      "bullets": 5,
-      "extraction_status": "extracted"
-    },
-    {
-      "issue_date": "2021-03-19",
-      "gmail_message_id": "1784c7faf6939319",
+      "issue_date": "2019-10-18",
+      "message_id": "16ddff81fb493be0",
       "bullets": 5,
       "extraction_status": "extracted"
     }

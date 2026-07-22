@@ -6,7 +6,72 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading (part 1) —",
+      "category": "article",
+      "title": "The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance",
+      "creator": null,
+      "note": "What",
+      "original_url": "https://el2.fourhourmail.com/c/e5ux264rrb7hlk9x2/78i7h8/aHR0cDovL2Ftem4udG8vMnhiNGVLWA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7hlk9x2/78i7h8/aHR0cDovL2Ftem4udG8vMnhiNGVLWA=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "I’m listening to —",
+      "category": "podcast",
+      "title": "The “Wrath of the Khans” series",
+      "creator": null,
+      "note": "on Hardcore History. Dan Carlin’s Hardcore History is my favorite podcast, bar\nnone, and this is still my favorite series of his to date. Think of it like\nthe best non-fiction audiobook you’ve ever heard. It’s worth the headache to\ndownload, and it’s worth listening to more than once.**What I’m reading (part\n2) —**  \nA short poem/song entitled [“A Thousand Kisses\nDeep”](https://el2.fourhourmail.com/c/e5ux264rrb7hlk9x2/zvtghn/aHR0cHM6Ly93d3cubGVvbmFyZGNvaGVuZmlsZXMuY29tL2tpc3Nlcy5odG1s)\nby Leonard Cohen.**",
+      "original_url": "https://el2.fourhourmail.com/c/e5ux264rrb7hlk9x2/opfkhq/aHR0cDovL3d3dy5kYW5jYXJsaW4uY29tL3Byb2R1Y3QvaGFyZGNvcmUtaGlzdG9yeS13cmF0aC1vZi10aGUta2hhbnMtc2VyaWVzLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7hlk9x2/opfkhq/aHR0cDovL3d3dy5kYW5jYXJsaW4uY29tL3Byb2R1Y3QvaGFyZGNvcmUtaGlzdG9yeS13cmF0aC1vZi10aGUta2hhbnMtc2VyaWVzLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7hlk9x2/zvtghn/aHR0cHM6Ly93d3cubGVvbmFyZGNvaGVuZmlsZXMuY29tL2tpc3Nlcy5odG1s"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Most popular post on Instagram —",
+      "category": "other",
+      "title": "The best sign",
+      "creator": null,
+      "note": "I've seen in a while...**",
+      "original_url": "https://el2.fourhourmail.com/c/e5ux264rrb7hlk9x2/pnceh9/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JZQmdxUzlsdk1qLz90YWtlbi1ieT10aW1mZXJyaXNz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7hlk9x2/pnceh9/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JZQmdxUzlsdk1qLz90YWtlbi1ieT10aW1mZXJyaXNz"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "\"I will only let you touch me if your hands are so full of intention that every brush of your palms feels like you're writing a novel on my skin.” — Azra.T “Braille” \\--- And as always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know. Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it.",
+      "creator": "Azra.T “Braille” \\--- And as always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know. Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it.",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/e5ux264rrb7hlk9x2/xksph6/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7hlk9x2/xksph6/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    }
+  ]
 }

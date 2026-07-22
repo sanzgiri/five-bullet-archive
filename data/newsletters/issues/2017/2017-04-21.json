@@ -6,7 +6,91 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m excited about —",
+      "category": "other",
+      "title": "tedcinema.com",
+      "creator": null,
+      "note": "I’m in the “Opening Event.” Fingers crossed that I don’t vomit on the front\nrow from nerves.**",
+      "original_url": "https://el2.fourhourmail.com/c/mvu8n09oou5hgv4og/l178yv/aHR0cDovL3RlZGNpbmVtYS5jb20v",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hgv4og/l178yv/aHR0cDovL3RlZGNpbmVtYS5jb20v"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Ed Thorp: the man who beat the casinos, then the markets",
+      "creator": null,
+      "note": "(Just Google the headline if you get stopped by a subscription paywall.)**What",
+      "original_url": "https://el2.fourhourmail.com/c/mvu8n09oou5hgv4og/q1opyg/aHR0cHM6Ly93d3cuZnQuY29tL2NvbnRlbnQvZTc4OTg1MjgtZTg5Ny0xMWU2LTk2N2ItYzg4NDUyMjYzZGFm",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hgv4og/q1opyg/aHR0cHM6Ly93d3cuZnQuY29tL2NvbnRlbnQvZTc4OTg1MjgtZTg5Ny0xMWU2LTk2N2ItYzg4NDUyMjYzZGFm"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "I’m watching —",
+      "category": "video",
+      "title": "The Eagle Huntress",
+      "creator": null,
+      "note": "This documentary follows Aisholpan, a 13-year-old Kazakh girl, as she trains\nto become the first female in twelve generations of her family to become an\neagle hunter, a tradition that has been handed down from father to son for\ncenturies. You can [watch the trailer\nhere.](https://el2.fourhourmail.com/c/mvu8n09oou5hgv4og/e1pnyl/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1FUkZFbGJDQlQ5MA==)**Most",
+      "original_url": "https://el2.fourhourmail.com/c/mvu8n09oou5hgv4og/x1zvjk/aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL3VzL21vdmllL3RoZS1lYWdsZS1odW50cmVzcy9pZDExODQxMzEyNzU=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hgv4og/x1zvjk/aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL3VzL21vdmllL3RoZS1lYWdsZS1odW50cmVzcy9pZDExODQxMzEyNzU="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hgv4og/e1pnyl/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1FUkZFbGJDQlQ5MA=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "popular post on Facebook —",
+      "category": "book",
+      "title": "tiny home",
+      "creator": null,
+      "note": "use of space by\n[@kasita](https://el2.fourhourmail.com/c/mvu8n09oou5hgv4og/ly60ym/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9rYXNpdGEv)\nin Austin...**",
+      "original_url": "https://el2.fourhourmail.com/c/mvu8n09oou5hgv4og/41xkjn/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JTOXNlNThGRFczLz90YWtlbi1ieT10aW1mZXJyaXNz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hgv4og/41xkjn/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JTOXNlNThGRFczLz90YWtlbi1ieT10aW1mZXJyaXNz"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hgv4og/ly60ym/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9rYXNpdGEv"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Let the first impulse pass. Wait for the second.” \\- Baltasar Gracian\\---And as always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know. Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it.",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/mvu8n09oou5hgv4og/gykm1o/aHR0cDovL3d3dy5mb3VyaG91cm5ld3NsZXR0ZXIuY29tL2NsaWNrLmh0bWw_eD1hNjJlJmxjPUozJm1jPWUmcz1kV3Y5NSZ1PXcmeT1sJg==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hgv4og/gykm1o/aHR0cDovL3d3dy5mb3VyaG91cm5ld3NsZXR0ZXIuY29tL2NsaWNrLmh0bWw_eD1hNjJlJmxjPUozJm1jPWUmcz1kV3Y5NSZ1PXcmeT1sJg=="
+        }
+      ]
+    }
+  ]
 }

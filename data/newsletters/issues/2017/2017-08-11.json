@@ -6,7 +6,95 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "New blog post you might’ve missed —",
+      "category": "article",
+      "title": "how to get started.",
+      "creator": null,
+      "note": "This post — while for informational purposes only and not investment advice —\nis intended to show you [how one successful investor approached the early-\nstage\ngame.](https://el2.fourhourmail.com/c/mvu8n09oou5hq77g3/opfkhq/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzA4LzA0L3F1ZXN0aW9ucy10by1hc2stYmVmb3JlLXlvdS1pbnZlc3Qv)**What",
+      "original_url": "https://el2.fourhourmail.com/c/mvu8n09oou5hq77g3/78i7h8/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzA4LzA0L3F1ZXN0aW9ucy10by1hc2stYmVmb3JlLXlvdS1pbnZlc3Qv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hq77g3/78i7h8/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzA4LzA0L3F1ZXN0aW9ucy10by1hc2stYmVmb3JlLXlvdS1pbnZlc3Qv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hq77g3/opfkhq/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzA4LzA0L3F1ZXN0aW9ucy10by1hc2stYmVmb3JlLXlvdS1pbnZlc3Qv"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "I’m watching —",
+      "category": "video",
+      "title": "Kurt Vonnegut on the Shapes of Stories",
+      "creator": null,
+      "note": "I have loved Kurt Vonnegut forever. This very short video is a great\nintroduction to his humor and how simply powerful (and powerfully simple) good\nstories can be. Kurt has inspired me for ages because his writing is\napproachable -- he uses simple language to create fantastic characters and\nimpart profound lessons. Unlike someone like Milan Kundera, who inspires but\nintimidates me, Vonnegut made me think “Hmmm… maybe I could actually be a\nwriter…” If you’re looking for other resources, one book that has also helped\nme to think about storytelling over a discrete timeline was [Save The\nCat](https://el2.fourhourmail.com/c/mvu8n09oou5hq77g3/pnceh9/aHR0cDovL2Ftem4udG8vMmZ2UDlQUA==).**What",
+      "original_url": "https://el2.fourhourmail.com/c/mvu8n09oou5hq77g3/zvtghn/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1vUDNjMWg4djJaUQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hq77g3/zvtghn/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1vUDNjMWg4djJaUQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hq77g3/pnceh9/aHR0cDovL2Ftem4udG8vMmZ2UDlQUA=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "I’m reading —",
+      "category": "article",
+      "title": "The Intelligent Plant",
+      "creator": "Michael Pollan",
+      "note": "([@michaelpollan](https://el2.fourhourmail.com/c/mvu8n09oou5hq77g3/60aeh8/aHR0cHM6Ly90d2l0dGVyLmNvbS9taWNoYWVscG9sbGFu)).**Most",
+      "original_url": "https://el2.fourhourmail.com/c/mvu8n09oou5hq77g3/xksph6/aHR0cDovL3d3dy5uZXd5b3JrZXIuY29tL21hZ2F6aW5lLzIwMTMvMTIvMjMvdGhlLWludGVsbGlnZW50LXBsYW50",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hq77g3/xksph6/aHR0cDovL3d3dy5uZXd5b3JrZXIuY29tL21hZ2F6aW5lLzIwMTMvMTIvMjMvdGhlLWludGVsbGlnZW50LXBsYW50"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hq77g3/60aeh8/aHR0cHM6Ly90d2l0dGVyLmNvbS9taWNoYWVscG9sbGFu"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "popular post on Instagram —",
+      "category": "other",
+      "title": "I need, I need!",
+      "creator": null,
+      "note": "Quote",
+      "original_url": "https://el2.fourhourmail.com/c/mvu8n09oou5hq77g3/kmbmh6/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JYaEN3R2tGN3A3Lz90YWtlbi1ieT10aW1mZXJyaXNz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hq77g3/kmbmh6/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JYaEN3R2tGN3A3Lz90YWtlbi1ieT10aW1mZXJyaXNz"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "I’m pondering —",
+      "category": "other",
+      "title": "send a tweet to @tferriss",
+      "creator": null,
+      "note": "and put #5BulletFriday in there so I can find it.",
+      "original_url": "https://el2.fourhourmail.com/c/mvu8n09oou5hq77g3/52hvh7/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hq77g3/52hvh7/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    }
+  ]
 }

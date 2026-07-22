@@ -6,7 +6,76 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "App that caught my attention —",
+      "category": "other",
+      "title": "Apnea Diver",
+      "creator": null,
+      "note": "is a training app for freedivers and apnea swimmers, but I don’t use it for\nthis reason. The app helps expand lung capacity, which improves general\naerobic performance. The apnea breathing is also great for down-regulating\nbefore bed. It was introduced to me by the incredible [Gabby\nReece](https://el2.fourhourmail.com/c/r8u063gzzaoh2mrl2/41xkjn/aHR0cDovL3RpbS5ibG9nLzIwMTUvMDcvMTUvbGFpcmQtaGFtaWx0b24tdGhlLWtpbmctb2YtYmlnLXdhdmUtc3VyZmluZy1wbHVzLWdhYnJpZWxsZS1yZWVjZS1hbmQtYnJpYW4tbWFja2VuemllLw==).\nDO NOT USE THIS APP BEFORE GOING IN WATER. **",
+      "original_url": "https://el2.fourhourmail.com/c/r8u063gzzaoh2mrl2/e1pnyl/aHR0cDovL2FwbmVhLWRpdmVyLmNvbS8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaoh2mrl2/e1pnyl/aHR0cDovL2FwbmVhLWRpdmVyLmNvbS8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaoh2mrl2/41xkjn/aHR0cDovL3RpbS5ibG9nLzIwMTUvMDcvMTUvbGFpcmQtaGFtaWx0b24tdGhlLWtpbmctb2YtYmlnLXdhdmUtc3VyZmluZy1wbHVzLWdhYnJpZWxsZS1yZWVjZS1hbmQtYnJpYW4tbWFja2VuemllLw=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Forbidding Forecast For Lyme Disease In The Northeast",
+      "creator": null,
+      "note": "via npr.org. I plan to always have MD-prescribed doxycycline on hand. After my\nlast severe experience with Lyme, I’m opting to to take a “morning-after” doxy\npill if an embedded tick is found, versus waiting for symptoms to appear. Of\ncourse, speak to your doctor about all medical matters. For what it’s worth, I\nstill believe most self-diagnosed “Lyme disease” is nothing of the sort, as\nthe symptoms often overlap with many other conditions (e.g., chronic fatigue,\ndepression). **",
+      "original_url": "https://el2.fourhourmail.com/c/r8u063gzzaoh2mrl2/ly60ym/aHR0cDovL3d3dy5ucHIub3JnL3NlY3Rpb25zL2dvYXRzYW5kc29kYS8yMDE3LzAzLzA2LzUxODIxOTQ4NS9mb3JiaWRkaW5nLWZvcmVjYXN0LWZvci1seW1lLWRpc2Vhc2UtaW4tdGhlLW5vcnRoZWFzdD9zYz0xNyZmPTEwMDEmdXRtX3NvdXJjZT1pb3NuZXdzYXBwJnV0bV9tZWRpdW09RW1haWwmdXRtX2NhbXBhaWduPWFwcA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaoh2mrl2/ly60ym/aHR0cDovL3d3dy5ucHIub3JnL3NlY3Rpb25zL2dvYXRzYW5kc29kYS8yMDE3LzAzLzA2LzUxODIxOTQ4NS9mb3JiaWRkaW5nLWZvcmVjYXN0LWZvci1seW1lLWRpc2Vhc2UtaW4tdGhlLW5vcnRoZWFzdD9zYz0xNyZmPTEwMDEmdXRtX3NvdXJjZT1pb3NuZXdzYXBwJnV0bV9tZWRpdW09RW1haWwmdXRtX2NhbXBhaWduPWFwcA=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Most popular post on Facebook —",
+      "category": "book",
+      "title": "How to Raise Brave Girls:",
+      "creator": null,
+      "note": "from one of my faves, Caroline Paul.” (Also see our podcast episode together:\n[How to Overcome Fear – Lessons from Firefighter and Luger, Caroline\nPaul](https://el2.fourhourmail.com/c/r8u063gzzaoh2mrl2/vj52jo/aHR0cDovL3RpbS5ibG9nLzIwMTYvMDQvMDUvY2Fyb2xpbmUtcGF1bC8=))\n**",
+      "original_url": "https://el2.fourhourmail.com/c/r8u063gzzaoh2mrl2/gykm1o/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1RpbUZlcnJpc3MvcG9zdHMvMTAxNTUwODc5MDEzNjcyNDE=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaoh2mrl2/gykm1o/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1RpbUZlcnJpc3MvcG9zdHMvMTAxNTUwODc5MDEzNjcyNDE="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaoh2mrl2/vj52jo/aHR0cDovL3RpbS5ibG9nLzIwMTYvMDQvMDUvY2Fyb2xpbmUtcGF1bC8="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote/passage I’m pondering —",
+      "category": "quote",
+      "title": "“To cook or fix some food, is not preparation; it is practice....Whatever we do, it should be an expression of the same deep activity. We should appreciate what we are doing. There is no preparation for something else.” \\- Dogen (1200-1252)\\--- And as always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know. Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it.",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/r8u063gzzaoh2mrl2/412oy0/aHR0cDovL3d3dy5mb3VyaG91cm5ld3NsZXR0ZXIuY29tL2NsaWNrLmh0bWw_eD1hNjJlJmxjPUozJm1jPWUmcz1kV3Y5NSZ1PXcmeT1sJg==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaoh2mrl2/412oy0/aHR0cDovL3d3dy5mb3VyaG91cm5ld3NsZXR0ZXIuY29tL2NsaWNrLmh0bWw_eD1hNjJlJmxjPUozJm1jPWUmcz1kV3Y5NSZ1PXcmeT1sJg=="
+        }
+      ]
+    }
+  ]
 }

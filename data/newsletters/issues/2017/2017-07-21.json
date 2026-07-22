@@ -6,7 +6,69 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "partial",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Something I’m trying to understand better by using frameworks: economics —",
+      "category": "other",
+      "title": "How The Economic Machine Works",
+      "creator": "Ray Dalio",
+      "note": "(30-minute video) by Ray Dalio\n([@raydalio](https://el2.fourhourmail.com/c/qdurox544u7h44nk5/q1opyg/aHR0cHM6Ly90d2l0dGVyLmNvbS9yYXlkYWxpbw==)),\nfounder of Bridgewater Associates, the largest hedge fund in the world, and\nthe author of\n[‘Principles.’](https://el2.fourhourmail.com/c/qdurox544u7h44nk5/x1zvjk/aHR0cDovL2Ftem4udG8vMnV3VVI5cA==)**What\nI’m reading and rereading (due to the bolded concept and where it might apply\nin my life) —**  \n[**An excellent explanation by Stratechery of how/why Amazon might use\nWholeFoods for scaling something like “Amazon Grocery\nServices**](https://el2.fourhourmail.com/c/qdurox544u7h44nk5/e1pnyl/aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAxNy9hbWF6b25zLW5ldy1jdXN0b21lci8=).”\nThe entire piece is worth reading, but in short: to justify an investment in\nmassive infrastructure that provides a competitive moat and advantages of\nscale, **Amazon first needs a correspondingly massive internal “customer” for\nsaid infrastructure.**Video that caught my attention, sent to me by a world-\nclass fighter —  \n**[“Savage” loop\nchoke](https://el2.fourhourmail.com/c/qdurox544u7h44nk5/41xkjn/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL0Zsb0dyYXBwbGluZy92aWRlb3MvdmIuMTEyMzUzMDI4MDk5NDA0OC8xOTI3MTg2ODUzOTYxNzE2Lz90eXBlPTImdGhlYXRlcg==)\nin Brazilian jiu-jitsu competition. What’s most notable to me here is the calm\nfinish by the winner. Despite the announcer implying that he didn’t know when\nhis opponent was unconscious, the winner sensed this immediately and put him\ndown as gently as possible.**",
+      "original_url": "https://el2.fourhourmail.com/c/qdurox544u7h44nk5/l178yv/aHR0cDovL2Vjb25vbWljcHJpbmNpcGxlcy5vcmcv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7h44nk5/l178yv/aHR0cDovL2Vjb25vbWljcHJpbmNpcGxlcy5vcmcv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7h44nk5/q1opyg/aHR0cHM6Ly90d2l0dGVyLmNvbS9yYXlkYWxpbw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7h44nk5/x1zvjk/aHR0cDovL2Ftem4udG8vMnV3VVI5cA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7h44nk5/e1pnyl/aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAxNy9hbWF6b25zLW5ldy1jdXN0b21lci8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7h44nk5/41xkjn/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL0Zsb0dyYXBwbGluZy92aWRlb3MvdmIuMTEyMzUzMDI4MDk5NDA0OC8xOTI3MTg2ODUzOTYxNzE2Lz90eXBlPTImdGhlYXRlcg=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Most popular post on Facebook —",
+      "category": "book",
+      "title": "Who are the most impressive people",
+      "creator": null,
+      "note": "OUTSIDE of the USA who I should consider interviewing or profiling via the\npodcast, books, etc.?**",
+      "original_url": "https://el2.fourhourmail.com/c/qdurox544u7h44nk5/ly60ym/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1RpbUZlcnJpc3MvcG9zdHMvMTAxNTU1NjEyNjI0NzcyNDE=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7h44nk5/ly60ym/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1RpbUZlcnJpc3MvcG9zdHMvMTAxNTU1NjEyNjI0NzcyNDE="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Extreme quote I’m pondering while on book deadline —",
+      "category": "book",
+      "title": "send a tweet to @tferriss",
+      "creator": null,
+      "note": "and put #5BulletFriday in there so I can find it.",
+      "original_url": "https://el2.fourhourmail.com/c/qdurox544u7h44nk5/gykm1o/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7h44nk5/gykm1o/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    }
+  ]
 }

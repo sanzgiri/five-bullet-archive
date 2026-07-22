@@ -6,7 +6,84 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Masters of Scale podcast, hosted by Reid Hoffman -- Brian Chesky",
+      "creator": null,
+      "note": "This is a FANTASTIC 30-minute conversation/class from two startup Jedi,\nLinkedIn co-founder Reid Hoffman\n([LinkedIn](https://el2.fourhourmail.com/c/n4u05gdnnavh8zmxe/q1opyg/aHR0cDovL2xpbmtlZGluLmNvbS9pbi9yZWlkaG9mZm1hbg==),\n[Twitter](https://el2.fourhourmail.com/c/n4u05gdnnavh8zmxe/x1zvjk/aHR0cHM6Ly90d2l0dGVyLmNvbS9yZWlkaG9mZm1hbg==))\nand co-founder of Airbnb, Brian Chesky\n([@bchesky](https://el2.fourhourmail.com/c/n4u05gdnnavh8zmxe/e1pnyl/aHR0cHM6Ly90d2l0dGVyLmNvbS9iY2hlc2t5)).\nIt masterfully covers how to create “magical experiences” by deliberatly doing\nthings that _don’t_ scale. Oddly enough, that can be a key to later scaling to\nhundreds of millions -- or billions -- of users. If you make products or\nservices of any type, this is worth your time.**An old word I’m spending time\non —**  \nThe Greek word _ataraxia_ : tranquillity that comes from equanimity with\nrespect to outside events.**",
+      "original_url": "https://el2.fourhourmail.com/c/n4u05gdnnavh8zmxe/l178yv/aHR0cDovL3d3dy5zdGl0Y2hlci5jb20vcG9kY2FzdC9zdGl0Y2hlci9tYXN0ZXJzLW9mLXNjYWxlL2UvYWlyYm5icy1icmlhbi1jaGVza3ktaW4taGFuZGNyYWZ0ZWQtNTAxNjU4Mzg=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh8zmxe/l178yv/aHR0cDovL3d3dy5zdGl0Y2hlci5jb20vcG9kY2FzdC9zdGl0Y2hlci9tYXN0ZXJzLW9mLXNjYWxlL2UvYWlyYm5icy1icmlhbi1jaGVza3ktaW4taGFuZGNyYWZ0ZWQtNTAxNjU4Mzg="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh8zmxe/q1opyg/aHR0cDovL2xpbmtlZGluLmNvbS9pbi9yZWlkaG9mZm1hbg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh8zmxe/x1zvjk/aHR0cHM6Ly90d2l0dGVyLmNvbS9yZWlkaG9mZm1hbg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh8zmxe/e1pnyl/aHR0cHM6Ly90d2l0dGVyLmNvbS9iY2hlc2t5"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Purchase I’m enjoying —",
+      "category": "other",
+      "title": "Zuke's Mini Naturals Dog Treats (Fresh Peanut Butter Formula)",
+      "creator": null,
+      "note": "](https://el2.fourhourmail.com/c/n4u05gdnnavh8zmxe/41xkjn/aHR0cDovL2Ftem4udG8vMnFXQlJ2Wg==)\n\\-- Did you know that some zookeepers have trained polar bears using raisins?\nIt doesn’t take much. Most dog owners -- for a long time, yours truly included\n-- use training treats that are way too large, leading to a fattened dog,\ndelays due to chewing (which can have a surprisingly large training impact),\nand unnecessary expense (e.g., my other favorite wild boar [Orijen\nsnacks](https://el2.fourhourmail.com/c/n4u05gdnnavh8zmxe/ly60ym/aHR0cDovL2Ftem4udG8vMnFuSjJrTw==)).\nI’ve tried dozens of options for my sensitive-stomached pooch, and these\npeanut butter Zuke treats are the best mini-Scooby snacks I’ve found. Real\npeanut butter is the #1 ingredient, and each morsel is less than 4\ncalories.**",
+      "original_url": "https://el2.fourhourmail.com/c/n4u05gdnnavh8zmxe/41xkjn/aHR0cDovL2Ftem4udG8vMnFXQlJ2Wg==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh8zmxe/41xkjn/aHR0cDovL2Ftem4udG8vMnFXQlJ2Wg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh8zmxe/ly60ym/aHR0cDovL2Ftem4udG8vMnFuSjJrTw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Most popular post on Instagram —",
+      "category": "other",
+      "title": "16 national and regional TV interviews in 2 hours...",
+      "creator": null,
+      "note": "Quote",
+      "original_url": "https://el2.fourhourmail.com/c/n4u05gdnnavh8zmxe/gykm1o/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JVU2pQX3hGd0w2Lz90YWtlbi1ieT10aW1mZXJyaXNz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh8zmxe/gykm1o/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JVU2pQX3hGd0w2Lz90YWtlbi1ieT10aW1mZXJyaXNz"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "I’m pondering —",
+      "category": "other",
+      "title": "send a tweet to @tferriss",
+      "creator": null,
+      "note": "and put #5BulletFriday in there so I can find it.",
+      "original_url": "https://el2.fourhourmail.com/c/n4u05gdnnavh8zmxe/vj52jo/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh8zmxe/vj52jo/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    }
+  ]
 }

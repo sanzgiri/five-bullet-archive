@@ -6,7 +6,103 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I'm experimenting with —",
+      "category": "other",
+      "title": "SocialRank",
+      "creator": null,
+      "note": "This cool tool was recommended to me by a number of people on Twitter for\nexporting my followers and looking at analytics, sorting by “most followed,”\netc. For getting a deeper look at my tribe on\n[Twitter](https://el2.fourhourmail.com/c/92unw45ooanhq7q0w/q1opyg/aHR0cDovL3R3aXR0ZXIuY29tL3RmZXJyaXNz)\nand [my friends on\nInstagram](https://el2.fourhourmail.com/c/92unw45ooanhq7q0w/x1zvjk/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS90aW1mZXJyaXNzLw==),\nit’s the most elegant service that I’ve found.**",
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanhq7q0w/l178yv/aHR0cHM6Ly9zb2NpYWxyYW5rLmNvbQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhq7q0w/l178yv/aHR0cHM6Ly9zb2NpYWxyYW5rLmNvbQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhq7q0w/q1opyg/aHR0cDovL3R3aXR0ZXIuY29tL3RmZXJyaXNz"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhq7q0w/x1zvjk/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS90aW1mZXJyaXNzLw=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Race Happy",
+      "creator": null,
+      "note": "This is a great piece on competing vs. happiness by 4x world champion Amelia\nBoone\n([@ameliaboone](https://el2.fourhourmail.com/c/92unw45ooanhq7q0w/41xkjn/aHR0cHM6Ly90d2l0dGVyLmNvbS9hbWVsaWFib29uZQ==)).\nMany people, including me, feel a constant tension between striving to achieve\nand appreciating what they have. This can also manifest as doing what you\n“should” versus doing what you love. “Race Happy” delves into all of this. If\nyou want more, listen to Amelia’s appearance on the podcast\n[here](https://el2.fourhourmail.com/c/92unw45ooanhq7q0w/ly60ym/aHR0cDovL3RpbS5ibG9nLzIwMTUvMTIvMjIvYW1lbGlhLWJvb25lLw==).\n**",
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanhq7q0w/e1pnyl/aHR0cDovL2J1ZmYubHkvMnR0UTBtRA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhq7q0w/e1pnyl/aHR0cDovL2J1ZmYubHkvMnR0UTBtRA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhq7q0w/41xkjn/aHR0cHM6Ly90d2l0dGVyLmNvbS9hbWVsaWFib29uZQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhq7q0w/ly60ym/aHR0cDovL3RpbS5ibG9nLzIwMTUvMTIvMjIvYW1lbGlhLWJvb25lLw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Still Not Dead",
+      "creator": null,
+      "note": "I love anyone who can make fun of the Internet at 84.**Most popular post on",
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanhq7q0w/gykm1o/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1KMzRlc2FfYUp4Yw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhq7q0w/gykm1o/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1KMzRlc2FfYUp4Yw=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Instagram —",
+      "category": "other",
+      "title": "Great signs",
+      "creator": null,
+      "note": "at the Montreal offices of Shopify…”**",
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanhq7q0w/vj52jo/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JWa1JQQ3psRXFQLz90YWtlbi1ieT10aW1mZXJyaXNz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhq7q0w/vj52jo/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JWa1JQQ3psRXFQLz90YWtlbi1ieT10aW1mZXJyaXNz"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“One whose mind is one with the sky-void steps into a spring mist and thinks to herself she might in fact step out of this world.” \\- Saigyo (1118-1190) Tim : This one might make more sense after the James Fadiman chapter in [_Tools of Titans_]\\--- And as always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know. Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it.",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanhq7q0w/412oy0/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Ub29scy1UaXRhbnMtQmlsbGlvbmFpcmVzLVdvcmxkLUNsYXNzLVBlcmZvcm1lcnMvZHAvMTMyODY4Mzc4OC9yZWY9YXNfbGlfc3NfdGw_X2VuY29kaW5nPVVURjgmcWlkPSZzcj0mbGlua0NvZGU9c2wxJnRhZz1vZmZzaXRvZnRpbWZlLTIwJmxpbmtJZD01YTdiNGY4OTM1M2RiMWVmZDY4MTM2ODc4MmZkYjViMQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhq7q0w/412oy0/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Ub29scy1UaXRhbnMtQmlsbGlvbmFpcmVzLVdvcmxkLUNsYXNzLVBlcmZvcm1lcnMvZHAvMTMyODY4Mzc4OC9yZWY9YXNfbGlfc3NfdGw_X2VuY29kaW5nPVVURjgmcWlkPSZzcj0mbGlua0NvZGU9c2wxJnRhZz1vZmZzaXRvZnRpbWZlLTIwJmxpbmtJZD01YTdiNGY4OTM1M2RiMWVmZDY4MTM2ODc4MmZkYjViMQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhq7q0w/9yq3jg/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,120 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Meditation Plus Running as a Treatment for Depression",
+      "creator": "Gretchen Reynolds",
+      "note": "meditation + running might be better for anti-depressive effects than either\nseparately. I’m planning on testing this using an ergometer (rower).  \n  \nSomeone I’m following on Twitter —  \n[@NeilHimself](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wI4&mc=e&s=bomwH&u=w&y=r&)\n— Ah, Neil Gaiman, one of my favorite polymath writing wizards. From [The\nSandman](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wIw&mc=e&s=bomwH&u=w&y=Z&)\nand [American\nGods](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wId&mc=e&s=bomwH&u=w&y=2&)\nto\n[Coraline](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wIe&mc=e&s=bomwH&u=w&y=x&)\nand [The Graveyard\nBook](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wIb&mc=e&s=bomwH&u=w&y=T&),\nhe never ceases to impress. Fingers crossed and praying to my Lucky Charms—one\nday I’ll have this fine gent on [the\npodcast](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wI1&mc=e&s=bomwH&u=w&y=D&).\nIn the meantime, his [wonderful commencement\nspeech](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wIt&mc=e&s=bomwH&u=w&y=W&)\nmight be your perfect Gaiman-land gateway drug.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=was&mc=e&s=bomwH&u=w&y=R&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=was&mc=e&s=bomwH&u=w&y=R&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wI4&mc=e&s=bomwH&u=w&y=r&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wIw&mc=e&s=bomwH&u=w&y=Z&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wId&mc=e&s=bomwH&u=w&y=2&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wIe&mc=e&s=bomwH&u=w&y=x&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wIb&mc=e&s=bomwH&u=w&y=T&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wI1&mc=e&s=bomwH&u=w&y=D&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wIt&mc=e&s=bomwH&u=w&y=W&"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Black Mirror",
+      "creator": null,
+      "note": "(series) — This series has been a continuous “you must watch this”\nrecommendation from very smart friends in tech. Last week, I started binge\nwatching, and I devoured every episode within three days. Think of it as The\nTwilight Zone meets our tech future, including the good, bad, and ugly. The\neeriest and most compelling part of this show—none of the “crazy” scenarios\nare that hard to imagine being reality within the next 10-15 years. These\nthings are coming. If you only have time for one episode, \"Be Right Back” is\nsolid.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wIc&mc=e&s=bomwH&u=w&y=u&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wIc&mc=e&s=bomwH&u=w&y=u&"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Most popular post on Facebook —",
+      "category": "book",
+      "title": "I fucking love you guys",
+      "creator": null,
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wIL&mc=e&s=bomwH&u=w&y=g&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wIL&mc=e&s=bomwH&u=w&y=g&"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering, once again —",
+      "category": "quote",
+      "title": "“All courses of action are risky, so prudence is not in avoiding danger (it’s impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.” – Niccolo Machiavelli, The Prince \\--- Are you enjoying 5-Bullet Fridays? If so, please forward this email to a friend and suggest they sign up for the weekly dose! As always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know! Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it. Thanks for reading! Have a wonderful weekend, all, Tim P.S. — If you want to see something bonkers, check out this Japanese heavy metal band (BABYMETAL). I cannot believe I only learned of them last week. O-tanoshimi da ne! Hat tip to Jason DeFillippo for sending me the link. --- | --- | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wIO&mc=e&s=bomwH&u=w&y=B&) --- | FORWARDED THIS MESSAGE? SIGN UP. --- | | --- Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. | | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wII&mc=e&s=bomwH&u=w&y=N&) ---",
+      "creator": "If you want to see something bonkers, check out this Japanese heavy metal band",
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wI6&mc=e&s=bomwH&u=w&y=S&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wI6&mc=e&s=bomwH&u=w&y=S&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wIF&mc=e&s=bomwH&u=w&y=Y&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wIv&mc=e&s=bomwH&u=w&y=E&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wIm&mc=e&s=bomwH&u=w&y=z&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/5206.png?img1461289895491"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wIa&mc=e&s=bomwH&u=w&y=9&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/5210.jpg?img1461289895491"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,100 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Crash course in the nature of mind",
+      "creator": null,
+      "note": "from Johns Hopkins Magazine -- Dr. Roland Griffiths' psilocybin experiments\nhave produced striking evidence for therapeutic uses of hallucinogens,\n[including this\nstudy](https://el2.fourhourmail.com/c/n4u05gdnnavhxvldx/opfkhq/aHR0cHM6Ly93d3cuY3Jvd2RyaXNlLmNvbS90aW1mZXJyaXNz)\nthat many of you helped fund (more updates on that coming soon). This article\ndigs into some of the background, science, and details.**",
+      "original_url": "https://el2.fourhourmail.com/c/n4u05gdnnavhxvldx/78i7h8/aHR0cHM6Ly9odWIuamh1LmVkdS9tYWdhemluZS8yMDE3L2ZhbGwvcm9sYW5kLWdyaWZmaXRocy1tYWdpYy1tdXNocm9vbXMtZXhwZXJpbWVudC1wc2lsb2N5YmluLWRlcHJlc3Npb24vP3V0bV9zb3VyY2U9Sm9obnMrSG9wa2lucytNYWdhemluZSZ1dG1fY2FtcGFpZ249YjQ1NGY3NzA1Ni1FTUFJTF9DQU1QQUlHTl8yMDE3XzA5XzA3JnV0bV9tZWRpdW09ZW1haWwmdXRtX3Rlcm09MF8wYTNmNWNkMGUyLWI0NTRmNzcwNTYtNjMwNzQ5MjU=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhxvldx/78i7h8/aHR0cHM6Ly9odWIuamh1LmVkdS9tYWdhemluZS8yMDE3L2ZhbGwvcm9sYW5kLWdyaWZmaXRocy1tYWdpYy1tdXNocm9vbXMtZXhwZXJpbWVudC1wc2lsb2N5YmluLWRlcHJlc3Npb24vP3V0bV9zb3VyY2U9Sm9obnMrSG9wa2lucytNYWdhemluZSZ1dG1fY2FtcGFpZ249YjQ1NGY3NzA1Ni1FTUFJTF9DQU1QQUlHTl8yMDE3XzA5XzA3JnV0bV9tZWRpdW09ZW1haWwmdXRtX3Rlcm09MF8wYTNmNWNkMGUyLWI0NTRmNzcwNTYtNjMwNzQ5MjU="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhxvldx/opfkhq/aHR0cHM6Ly93d3cuY3Jvd2RyaXNlLmNvbS90aW1mZXJyaXNz"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Gipsy project // Bireli Lagrene",
+      "creator": null,
+      "note": "I love writing to this. Why? No idea. But, man, it’s good.**Video you might\nhave missed —**  \nI’m often asked about my morning routine, which I detailed at length in [a\nprevious\npodcast.](https://el2.fourhourmail.com/c/n4u05gdnnavhxvldx/pnceh9/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzA3LzE5L21vcm5pbmctcm91dGluZXMtYW5kLXN0cmF0ZWdpZXMv)\nFor me, [a reliable nighttime\nroutine](https://el2.fourhourmail.com/c/n4u05gdnnavhxvldx/xksph6/aHR0cHM6Ly95b3V0dS5iZS9lTFlxaGV6QUNwYw==)\nis just as important. [This short\nvideo](https://el2.fourhourmail.com/c/n4u05gdnnavhxvldx/60aeh8/aHR0cHM6Ly95b3V0dS5iZS9lTFlxaGV6QUNwYw==)\nexplains the exact protocol I use to wind down in the last 60 minutes of my\nday.**",
+      "original_url": "https://el2.fourhourmail.com/c/n4u05gdnnavhxvldx/zvtghn/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1pNGo4dmk2RjZZaw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhxvldx/zvtghn/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1pNGo4dmk2RjZZaw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhxvldx/pnceh9/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzA3LzE5L21vcm5pbmctcm91dGluZXMtYW5kLXN0cmF0ZWdpZXMv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhxvldx/xksph6/aHR0cHM6Ly95b3V0dS5iZS9lTFlxaGV6QUNwYw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhxvldx/60aeh8/aHR0cHM6Ly95b3V0dS5iZS9lTFlxaGV6QUNwYw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Most popular post on Instagram —",
+      "category": "other",
+      "title": "Thanks for a wonderful week",
+      "creator": null,
+      "note": ",\nTony!**",
+      "original_url": "https://el2.fourhourmail.com/c/n4u05gdnnavhxvldx/kmbmh6/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JZX182bGRBY2E1Lz90YWtlbi1ieT10aW1mZXJyaXNz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhxvldx/kmbmh6/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JZX182bGRBY2E1Lz90YWtlbi1ieT10aW1mZXJyaXNz"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Inspiration is for amateurs — the rest of us just show up and get to work. And the belief that things will grow out of the activity itself and that you will, through work, bump into other possibilities and kick open other doors that you would never have dreamt of if you were just sitting around looking for a great ‘art idea’.” -Chuck Close, American artist who achieved fame as a photorealist through massive-scale portraits \\--- And as always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know. Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it. Have a wonderful weekend, all! Tim P.S. -- P.S. Need sexier company meetings? For inspiration, here’s Jack Ma of Alibaba dancing as Michael Jackson.[](https://el2.fourhourmail.com/c/n4u05gdnnavhxvldx/q3i8h7/aHR0cHM6Ly90b29sc29mdGl0YW5zLmNvbS8=) FORWARDED THIS MESSAGE? SIGN UP. | | Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. ---|---",
+      "creator": "the rest of us just show up and get to work. And the belief that things will grow out of the activity itself and that you will, through work, bump into other possibilities and kick open other doors that you would never have dreamt of if you were just sitting around looking for a great ‘art idea’.” -Chuck Close, American artist who achieved fame as a photorealist through massive-scale portraits \\--- And as always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know. Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it. Have a wonderful weekend, all! Tim P.S. -- P.S. Need sexier company meetings? For inspiration, here’s Jack Ma of Alibaba dancing as Michael Jackson.",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/n4u05gdnnavhxvldx/52hvh7/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhxvldx/52hvh7/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhxvldx/2ou2ho/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dGltZV9jb250aW51ZT00MyZ2PVo1Vk1YMUN6bkNn"
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/450982/content_unnamed.png"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhxvldx/gvfnh5/aHR0cDovL2dvLmZvdXJob3Vyd29ya3dlZWsuY29tLzEweC1vdXRwdXQv"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        }
+      ]
+    }
+  ]
 }

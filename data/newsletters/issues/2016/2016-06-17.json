@@ -6,7 +6,111 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Jedi Mind Tricks",
+      "creator": null,
+      "note": "\\- \"[Animal Rap (Arturo Gatti\nMix)](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wCq&mc=e&s=bomwH&u=w&y=C&)\"\n(Instrumental)",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wCQ&mc=e&s=bomwH&u=w&y=H&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wCQ&mc=e&s=bomwH&u=w&y=H&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wCq&mc=e&s=bomwH&u=w&y=C&"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Purchase I’m enjoying —",
+      "category": "other",
+      "title": "KONG Wubba",
+      "creator": null,
+      "note": "\\-- More specifically, [my pup\nMolly](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wCs&mc=e&s=bomwH&u=w&y=R&)\nis loving this. She has methodically destroyed every “indestructible” dog toy\nI’ve given her, except this and perhaps 1-2 others. It’s also easy to throw\nlong distances without getting your hands slobbered. The only (potential)\ndownside: an incredibly loud squeaker. If it starts to bother me, I just\nimagine what a particularly serious friend’s face would look like if Molly\nwere chomping the Wubba as he tried to finish the last bit of a crossword\npuzzle. That enough to make me laugh at the racket.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wCU&mc=e&s=bomwH&u=w&y=y&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wCU&mc=e&s=bomwH&u=w&y=y&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wCs&mc=e&s=bomwH&u=w&y=R&"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "The Management Myth",
+      "creator": null,
+      "note": "- The Atlantic",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wy4&mc=e&s=bomwH&u=w&y=r&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wy4&mc=e&s=bomwH&u=w&y=r&"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Most popular post on Facebook —",
+      "category": "book",
+      "title": "Good lord",
+      "creator": null,
+      "note": ",\nI'm still working on two hands on the floor!",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wyw&mc=e&s=bomwH&u=w&y=Z&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wyw&mc=e&s=bomwH&u=w&y=Z&"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“There are many things of which a wise man might wish to be ignorant.” – Ralph Waldo Emerson \\--- Are you enjoying 5-Bullet Fridays? If so, please forward this email to a friend and suggest they sign up for the weekly dose! As always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know! Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it. Thanks for reading! Have a wonderful weekend, all, Tim P.S. — I’ve received a lot of questions about journaling and my morning routine. If you want to understand what I do (and why), you might find this post valuable. Enjoy! --- | --- | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wy1&mc=e&s=bomwH&u=w&y=D&) --- | FORWARDED THIS MESSAGE? SIGN UP. --- | | --- Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. | | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wyc&mc=e&s=bomwH&u=w&y=u&) ---",
+      "creator": "I’ve received a lot of questions about journaling and my morning routine. If you want to understand what I do",
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wyd&mc=e&s=bomwH&u=w&y=2&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wyd&mc=e&s=bomwH&u=w&y=2&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wye&mc=e&s=bomwH&u=w&y=x&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wyb&mc=e&s=bomwH&u=w&y=T&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/5679.png?img1466174304424"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wyt&mc=e&s=bomwH&u=w&y=W&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/5683.jpg?img1466174304424"
+        }
+      ]
+    }
+  ]
 }

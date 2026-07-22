@@ -6,7 +6,100 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Tech tool I’m enjoying —",
+      "category": "other",
+      "title": "The OneTab extension",
+      "creator": null,
+      "note": "This browser extension collapses a messy browser full of 20+ tabs into one tab\nwith a bulleted list of your previous tabs! This not only saves your sanity;\nit also helps conserve computer memory (they claim up to 95%), helping to\nprevent Chrome, Firefox, etc. from freezing your whole damn computer.**What",
+      "original_url": "https://el2.fourhourmail.com/c/8kue0m6zzuoh3e352/78i7h8/aHR0cHM6Ly93d3cub25lLXRhYi5jb20v",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuoh3e352/78i7h8/aHR0cHM6Ly93d3cub25lLXRhYi5jb20v"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "I’m watching —",
+      "category": "video",
+      "title": "Senna",
+      "creator": null,
+      "note": "This documentary has been recommended to me many times, most recently by [Joe\nGebbia](https://el2.fourhourmail.com/c/8kue0m6zzuoh3e352/zvtghn/aHR0cHM6Ly90d2l0dGVyLmNvbS9qZ2ViYmlh)\n(co-founder of\n[Airbnb](https://el2.fourhourmail.com/c/8kue0m6zzuoh3e352/pnceh9/aHR0cHM6Ly93d3cuYWlyYm5iLmNvbS8=)),\nwho has seen it multiple times. I finally bit the bullet and… wow. Here’s a\ndescription from [the film’s IMDB\npage](https://el2.fourhourmail.com/c/8kue0m6zzuoh3e352/xksph6/aHR0cDovL3d3dy5pbWRiLmNvbS90aXRsZS90dDE0MjQ0MzIv):\n“The story of the monumental life and tragic death of legendary Brazilian\nmotor-racing Champion, Ayrton Senna. Spanning the decade from his arrival in\nFormula One in the mid 80's, the film follows Senna's struggles both on track\nagainst his nemesis, French World Champion Alain Prost, and off it, against\nthe politics which infest the sport. Sublime, spiritual, yet, on occasion,\nruthless - Senna conquers and transcends Formula One to become a global\nsuperstar. Privately, he is humble, almost shy, and fiercely patriotic,\ndonating millions to his native Brazil and contemplating a life beyond motor-\nracing. Yet he is struck down in his prime on the blackest weekend in the\nhistory of the sport, watched live on television by 300 million people. Years\non, he is revered in Formula One as the greatest motor racing driver of all\ntime - and in Brazil as a Saint.”**",
+      "original_url": "https://el2.fourhourmail.com/c/8kue0m6zzuoh3e352/opfkhq/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TZW5uYS1BeXJ0b24vZHAvQjAwNk1HRFZGTQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuoh3e352/opfkhq/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TZW5uYS1BeXJ0b24vZHAvQjAwNk1HRFZGTQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuoh3e352/zvtghn/aHR0cHM6Ly90d2l0dGVyLmNvbS9qZ2ViYmlh"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuoh3e352/pnceh9/aHR0cHM6Ly93d3cuYWlyYm5iLmNvbS8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuoh3e352/xksph6/aHR0cDovL3d3dy5pbWRiLmNvbS90aXRsZS90dDE0MjQ0MzIv"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m eating —",
+      "category": "other",
+      "title": "Duke's Original \"Shorty\" Smoked Sausage",
+      "creator": null,
+      "note": "This past week, I completed my first [Date with\nDestiny](https://el2.fourhourmail.com/c/8kue0m6zzuoh3e352/kmbmh6/aHR0cHM6Ly93d3cudG9ueXJvYmJpbnMuY29tL2V2ZW50cy9kYXRlLXdpdGgtZGVzdGlueS9mbG9yaWRhLTEyLTA1LTIwMTcv)\nwith Tony Robbins. It entails six days, 12+ hours a day, in a conference hall\nwith nearly no breaks. To avoid eating endless bars, a friend brought a box of\nthese smoked sausages, which saved us. Simple and unadulterated ingredients\nmake them a great keto snack. **",
+      "original_url": "https://el2.fourhourmail.com/c/8kue0m6zzuoh3e352/60aeh8/aHR0cHM6Ly9kdWtlc21lYXRzLmNvbS9jb2xsZWN0aW9ucy9zbW9rZWQtc2hvcnR5LXNhdXNhZ2Vz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuoh3e352/60aeh8/aHR0cHM6Ly9kdWtlc21lYXRzLmNvbS9jb2xsZWN0aW9ucy9zbW9rZWQtc2hvcnR5LXNhdXNhZ2Vz"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuoh3e352/kmbmh6/aHR0cHM6Ly93d3cudG9ueXJvYmJpbnMuY29tL2V2ZW50cy9kYXRlLXdpdGgtZGVzdGlueS9mbG9yaWRhLTEyLTA1LTIwMTcv"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Most popular post on Instagram —",
+      "category": "other",
+      "title": "Pic with the big man himself",
+      "creator": null,
+      "note": "…\nIt’s hard to believe how big Tony Robbins is until you meet him in person. His\narms look like they’re hugging the entire group in this pic.**Quote I’m\npondering —**  \n“Of course, sometimes it’s quite difficult to know if you’re hallucinating.\nYou might hallucinate a silver pen on your desk right now and never suspect\nit’s not real—because its presence is plausible. It’s easy to spot a\nhallucination only when it’s bizarre. For all we know, we hallucinate all the\ntime.”  \n-David Eagleman\\---  \nAnd as always, please let me know your requests and suggestions on Twitter.\nWhich bullet above is your favorite? What do you want more or less of? Let me\nknow. Just [send a tweet to\n@tferriss](https://el2.fourhourmail.com/c/8kue0m6zzuoh3e352/2ou2ho/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==)\nand put #5BulletFriday in there so I can find it. Have a wonderful weekend,\nall! TimP.S. -- **Deal of the Week: Athletic Greens.** The last two months\nhave been a whirlwind of travel, book launch craziness, and going 100%. Longer\ndays and more stress required me to double down on what works. For years, and\nespecially during periods like this, [Athletic\nGreens](https://el2.fourhourmail.com/c/8kue0m6zzuoh3e352/q3i8h7/aHR0cHM6Ly9hdGhsZXRpY2dyZWVucy5jb20vYW1hem9u)\nhas been my all-in-one nutritional insurance. I take it in the mornings and\nwhile on the road to ensure optimal recovery and performance. If I can’t get\nwhat I need through whole food meals, it covers my bases well enough to\nweather the storm. **For the next 72 hours,[Athletic\nGreens](https://el2.fourhourmail.com/c/8kue0m6zzuoh3e352/gvfnh5/aHR0cHM6Ly9hdGhsZXRpY2dyZWVucy5jb20vYW1hem9u)\nhas an exclusive offer for my readers only – save 30% by [clicking\nhere](https://el2.fourhourmail.com/c/8kue0m6zzuoh3e352/93tzhn/aHR0cHM6Ly9hdGhsZXRpY2dyZWVucy5jb20vYW1hem9u)\nand entering the coupon “**TFAMAZON**.” [NOTE: You will enter the coupon\ncode when you reach the payment screen on Amazon. Look for the “Add a\npromotional code” field, enter **TFAMAZON** , and the discount will be\napplied.][![](https://convertkit.s3.amazonaws.com/assets/pictures/11125/837045/content_tom-\nemail-\nfooter-03.jpg)](https://el2.fourhourmail.com/c/8kue0m6zzuoh3e352/3wcphk/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=)",
+      "original_url": "https://el2.fourhourmail.com/c/8kue0m6zzuoh3e352/52hvh7/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JjbnphMFpsVnQxLz90YWtlbi1ieT10aW1mZXJyaXNz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuoh3e352/52hvh7/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JjbnphMFpsVnQxLz90YWtlbi1ieT10aW1mZXJyaXNz"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuoh3e352/2ou2ho/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuoh3e352/q3i8h7/aHR0cHM6Ly9hdGhsZXRpY2dyZWVucy5jb20vYW1hem9u"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuoh3e352/gvfnh5/aHR0cHM6Ly9hdGhsZXRpY2dyZWVucy5jb20vYW1hem9u"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuoh3e352/93tzhn/aHR0cHM6Ly9hdGhsZXRpY2dyZWVucy5jb20vYW1hem9u"
+        }
+      ]
+    }
+  ]
 }

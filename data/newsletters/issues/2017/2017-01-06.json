@@ -6,7 +6,119 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading (book) —",
+      "category": "book",
+      "title": "Stories of Your Life and Others",
+      "creator": null,
+      "note": "This collection of short stories by Ted Chiang is incredible. Despite the fact\nthat Ted isn’t a full-time science fiction writer, he is the equivalent of\nScorcese or Wayne Gretzky in that world -- he has won four Hugo, four Nebula,\nand four Locus Awards, among others. The recent hit film\n[Arrival](http://www.fourhournewsletter.com/click.html?x=a62e&lc=diK&mc=1&s=bomwH&u=w&y=5&)\n(94% on Rotten Tomatoes), one of my favorite movies of the last 3-5 years and\nstarring Amy Adams and Jeremy Renner, is based on one of Ted’s short stories.\nGizmodo has written that “The arrival of a new piece of short fiction by Ted\nChiang is always cause for celebration and parades and wild dancing.” Read the\nfirst few stories and you’ll know why.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dio&mc=1&s=bomwH&u=w&y=0&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dio&mc=1&s=bomwH&u=w&y=0&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=diK&mc=1&s=bomwH&u=w&y=5&"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m playing —",
+      "category": "other",
+      "title": "Karma",
+      "creator": null,
+      "note": "From the creators of Set. This fits in a pocket and can be played in 5-15\nminutes. I enjoy alternating this with the [Monopoly\nDEAL](http://www.fourhournewsletter.com/click.html?x=a62e&lc=diA&mc=1&s=bomwH&u=w&y=p&)\ncard game I mentioned last week. Both games can be played with two players and\npair well with Merlot or Pinot noir.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=diM&mc=1&s=bomwH&u=w&y=h&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=diM&mc=1&s=bomwH&u=w&y=h&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=diA&mc=1&s=bomwH&u=w&y=p&"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading (article) —",
+      "category": "article",
+      "title": "“Man Who Studied 1,000 Deaths to Learn How to Live”",
+      "creator": null,
+      "note": "from my podcast, BJ Miller, MD? [This is the most beautiful and powerful\narticle about\nhim](http://www.fourhournewsletter.com/click.html?x=a62e&lc=di8&mc=1&s=bomwH&u=w&y=f&)\nthat I’ve ever read, courtesy of NYT Magazine. Take the time to [read\nit](http://www.fourhournewsletter.com/click.html?x=a62e&lc=di8&mc=1&s=bomwH&u=w&y=f&).\nIt might change your life. At the very least, it will make you feel emotions\nyou probably need to feel.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dik&mc=1&s=bomwH&u=w&y=G&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dik&mc=1&s=bomwH&u=w&y=G&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=di8&mc=1&s=bomwH&u=w&y=f&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=di8&mc=1&s=bomwH&u=w&y=f&"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Kubo and the Two Strings",
+      "creator": null,
+      "note": "This was originally (and strongly) recommended to me by Kevin Rose in his\nonce-monthly [The\nJournal](http://www.fourhournewsletter.com/click.html?x=a62e&lc=diC&mc=1&s=bomwH&u=w&y=X&)\nnewsletter. It’s beautiful. I almost bawled several times -- on a plane, no\nless -- but perhaps I’m just a Japanophile who does too many drugs. You\ndecide. Here’s the basic premise: A young boy named Kubo must locate a magical\nsuit of armor worn by his late father in order to defeat a vengeful spirit\nfrom the past.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=diH&mc=1&s=bomwH&u=w&y=3&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=diH&mc=1&s=bomwH&u=w&y=3&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=diC&mc=1&s=bomwH&u=w&y=X&"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Those who are determined to be ‘offended’ will discover a provocation somewhere. We cannot possibly adjust enough to please the fanatics, and it is degrading to make the attempt.” ― Christopher Hitchens \\--- And as always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know! Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it. Thanks for reading! Have a wonderful weekend, all, Tim P.S. -- Here’s another article I loved, for those interested. The “gender in tech” conversation can be emotional and counterproductively so. In my opinion, the biggest piece of the puzzle is Computer Science (CS) education, and some innovators are getting it right. Harvey Mudd’s CS department is now 55% female, compared to the <16% national average. This great LA Times piece by Rosanna Xia explains how Harvey Mudd made an intimidating subject more approachable to everyone, women and men alike. While I don’t agree with everything about the methods, I love what they’re doing and how they’re iterating for better and better outcomes. --- | --- | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=dir&mc=1&s=bomwH&u=w&y=U&) --- | FORWARDED THIS MESSAGE? SIGN UP. --- | | --- Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. | | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=di2&mc=1&s=bomwH&u=w&y=4&) ---",
+      "creator": null,
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=diy&mc=1&s=bomwH&u=w&y=Q&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=diy&mc=1&s=bomwH&u=w&y=Q&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=diR&mc=1&s=bomwH&u=w&y=q&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/6364.png?img1483659280434"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=diZ&mc=1&s=bomwH&u=w&y=s&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/6075.jpg?img1483659280434"
+        }
+      ]
+    }
+  ]
 }

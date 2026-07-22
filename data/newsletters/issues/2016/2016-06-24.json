@@ -6,7 +6,115 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Alexander Hamilton in Spoken Word",
+      "creator": null,
+      "note": "\\-- Lin-Manuel Miranda at the White House Poetry Jam. Miranda is the creator\nof In the Heights and Hamilton. It started 7 years ago as an inkling in his\nmind after reading Chernow's Hamilton. He read the 800-page biography and\nthought it read like a hip-hop saga. He then created the most unexpected\nbroadway success of all time, based on the life of an orphaned founding\nfather.",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wRj&mc=e&s=bomwH&u=w&y=m&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wRj&mc=e&s=bomwH&u=w&y=m&"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Why Some Global Tech Startups Are Offshoring to Delaware",
+      "creator": null,
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wRn&mc=e&s=bomwH&u=w&y=O&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wRn&mc=e&s=bomwH&u=w&y=O&"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to (great for writing) —",
+      "category": "podcast",
+      "title": "Non Phixion",
+      "creator": null,
+      "note": "\\- [Refuse to Lose\nInstrumental](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wRJ&mc=e&s=bomwH&u=w&y=I&)",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wRV&mc=e&s=bomwH&u=w&y=a&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wRV&mc=e&s=bomwH&u=w&y=a&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wRJ&mc=e&s=bomwH&u=w&y=I&"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Purchase I’m enjoying —",
+      "category": "other",
+      "title": "Attack Bandz",
+      "creator": null,
+      "note": "(via Olympic wrestler, [Jake “Fear the Mullet”\nHerbert](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wR0&mc=e&s=bomwH&u=w&y=P&))\nFrom a training perspective, the main goal of the Attack Bandz is to enhance\nnatural wrestling instincts and scrambling ability. Fun for kids and\nproductive for grapplers. Here is a [short video\ndemo](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wR5&mc=e&s=bomwH&u=w&y=7&).",
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wRl&mc=e&s=bomwH&u=w&y=i&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wRl&mc=e&s=bomwH&u=w&y=i&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wR0&mc=e&s=bomwH&u=w&y=P&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wR5&mc=e&s=bomwH&u=w&y=7&"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“If you don’t make mistakes, you’re not working on hard enough problems. And that’s a big mistake.” – Frank Wilczek, 2004 Nobel Prize winner \\--- Are you enjoying 5-Bullet Fridays? If so, please forward this email to a friend and suggest they sign up for the weekly dose! As always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know! Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it. Thanks for reading! Have a wonderful weekend, all, Tim P.S. — You asked for it -- I just launched my first set of t-shirts! The material is the most comfortable imaginable, and 100% of proceeds go to scientific studies of psilocybin. Please check them out here. --- | --- | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wRf&mc=e&s=bomwH&u=w&y=A&) --- | FORWARDED THIS MESSAGE? SIGN UP. --- | | --- Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. | | [](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wRX&mc=e&s=bomwH&u=w&y=8&) ---",
+      "creator": "You asked for it -- I just launched my first set of t-shirts! The material is the most comfortable imaginable, and 100% of proceeds go to scientific studies of psilocybin. Please check them out here. --- | --- |",
+      "note": null,
+      "original_url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wRh&mc=e&s=bomwH&u=w&y=o&",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wRh&mc=e&s=bomwH&u=w&y=o&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wRp&mc=e&s=bomwH&u=w&y=K&"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wRG&mc=e&s=bomwH&u=w&y=M&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/5774.png?img1466782995196"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wR3&mc=e&s=bomwH&u=w&y=k&"
+        },
+        {
+          "type": "other",
+          "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/5778.jpg?img1466782995196"
+        }
+      ]
+    }
+  ]
 }
