@@ -9,6 +9,8 @@ The repository is being built data-first. The web application will be developed 
 ```bash
 npm run archive:migrate  # one-time migration of the original mailbox inventory
 npm run archive:build    # validate dated files and regenerate index.jsonl
+npm run archive:extract-hotmail -- --dry-run
+npm run archive:audit
 ```
 
 See `data/newsletters/README.md` and `data/newsletters/schema.json` for the storage contract.
