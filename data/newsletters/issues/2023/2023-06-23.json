@@ -65,6 +65,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/the-pez-outlaw",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "The Pez Outlaw",
+          "catalog_year": 2022,
+          "imdb_id": "tt17660740",
+          "media_kind": "movie"
         }
       ]
     },

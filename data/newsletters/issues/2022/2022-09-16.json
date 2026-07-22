@@ -128,6 +128,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/beanie-mania",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Beanie Mania",
+          "catalog_year": 2021,
+          "imdb_id": "tt16433744",
+          "media_kind": "movie"
         }
       ]
     },

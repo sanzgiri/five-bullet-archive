@@ -38,6 +38,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/tv-show/billions",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Billions",
+          "catalog_year": 2016,
+          "imdb_id": "tt4270492",
+          "media_kind": "tv-show"
         }
       ]
     },
@@ -82,7 +92,7 @@
     {
       "position": 4,
       "section": "Most popular post on Facebook —",
-      "category": "book",
+      "category": "other",
       "title": "a greater sin than wasting time",
       "creator": null,
       "note": null,

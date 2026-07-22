@@ -162,6 +162,14 @@
           "search_fallback": true
         },
         {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/1501144316",
+          "catalog_match": "openlibrary_exact_title_creator",
+          "catalog_title": "Why We Sleep",
+          "catalog_creator": "Matthew P. Walker, Matthew Walker",
+          "isbn10": "1501144316"
+        },
+        {
           "type": "libby",
           "url": "https://share.libbyapp.com/title/3249791",
           "requires_participating_library": true,

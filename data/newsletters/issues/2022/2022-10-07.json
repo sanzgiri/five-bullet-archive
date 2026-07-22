@@ -76,6 +76,14 @@
           "search_fallback": true
         },
         {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/1473554683",
+          "catalog_match": "openlibrary_exact_title_creator",
+          "catalog_title": "Entangled Life",
+          "catalog_creator": "Merlin Sheldrake",
+          "isbn10": "1473554683"
+        },
+        {
           "type": "libby",
           "url": "https://share.libbyapp.com/title/4896624",
           "requires_participating_library": true,
@@ -158,6 +166,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/tv-show/1883",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "1883",
+          "catalog_year": 2021,
+          "imdb_id": "tt13991232",
+          "media_kind": "tv-show"
         }
       ]
     },

@@ -77,6 +77,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/the-secret-life-of-walter-mitty",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "The Secret Life of Walter Mitty",
+          "catalog_year": 2013,
+          "imdb_id": "tt0359950",
+          "media_kind": "movie"
         }
       ]
     },

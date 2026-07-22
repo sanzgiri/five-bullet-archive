@@ -119,6 +119,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/crazy-stupid-love",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Crazy, Stupid, Love.",
+          "catalog_year": 2011,
+          "imdb_id": "tt1570728",
+          "media_kind": "movie"
         }
       ]
     },

@@ -48,6 +48,14 @@
           "search_fallback": true
         },
         {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/0613511379",
+          "catalog_match": "openlibrary_exact_title_creator",
+          "catalog_title": "The DC Comics Guide to Writing Comics",
+          "catalog_creator": "Dennis O'Neil",
+          "isbn10": "0613511379"
+        },
+        {
           "type": "libby",
           "url": "https://share.libbyapp.com/title/1256301",
           "requires_participating_library": true,

@@ -47,6 +47,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/tv-show/one-strange-rock",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "One Strange Rock",
+          "catalog_year": 2018,
+          "imdb_id": "tt7651892",
+          "media_kind": "tv-show"
         }
       ]
     },

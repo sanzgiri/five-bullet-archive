@@ -53,6 +53,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/brooklyn-castle",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Brooklyn Castle",
+          "catalog_year": 2012,
+          "imdb_id": "tt1800266",
+          "media_kind": "movie"
         }
       ]
     },

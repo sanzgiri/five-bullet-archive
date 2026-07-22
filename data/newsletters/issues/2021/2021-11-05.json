@@ -85,6 +85,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/struggle-the-life-and-lost-art-of-szukalski",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Struggle: The Life and Lost Art of Szukalski",
+          "catalog_year": 2018,
+          "imdb_id": "tt9316022",
+          "media_kind": "movie"
         }
       ]
     },

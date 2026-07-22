@@ -40,6 +40,14 @@
           "search_fallback": true
         },
         {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/0684156245",
+          "catalog_match": "openlibrary_exact_title_creator",
+          "catalog_title": "Of wolves and men",
+          "catalog_creator": "Barry Lopez",
+          "isbn10": "0684156245"
+        },
+        {
           "type": "libby",
           "url": "https://share.libbyapp.com/title/1324331",
           "requires_participating_library": true,

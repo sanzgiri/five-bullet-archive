@@ -58,6 +58,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/eat-drink-man-woman",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Eat Drink Man Woman",
+          "catalog_year": 1994,
+          "imdb_id": "tt0111797",
+          "media_kind": "movie"
         }
       ]
     },

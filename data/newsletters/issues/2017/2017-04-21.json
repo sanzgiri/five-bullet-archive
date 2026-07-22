@@ -68,13 +68,23 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/the-eagle-huntress",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "The Eagle Huntress",
+          "catalog_year": 2016,
+          "imdb_id": "tt3882074",
+          "media_kind": "movie"
         }
       ]
     },
     {
       "position": 4,
       "section": "popular post on Facebook —",
-      "category": "book",
+      "category": "other",
       "title": "tiny home",
       "creator": null,
       "note": "use of space by\n[@kasita](https://el2.fourhourmail.com/c/mvu8n09oou5hgv4og/ly60ym/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9rYXNpdGEv)\nin Austin...**",

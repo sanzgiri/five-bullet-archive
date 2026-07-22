@@ -115,6 +115,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/flow",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Flow",
+          "catalog_year": 2024,
+          "imdb_id": "tt4772188",
+          "media_kind": "movie"
         }
       ]
     },

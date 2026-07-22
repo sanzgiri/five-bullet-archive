@@ -50,6 +50,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/worlds-of-ursula-k-le-guin",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Worlds of Ursula K. Le Guin",
+          "catalog_year": 2018,
+          "imdb_id": "tt10022158",
+          "media_kind": "movie"
         }
       ]
     },

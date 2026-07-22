@@ -83,6 +83,14 @@
           "search_fallback": true
         },
         {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/1594485690",
+          "catalog_match": "openlibrary_exact_title_creator",
+          "catalog_title": "The man who quit money",
+          "catalog_creator": "Mark Sundeen",
+          "isbn10": "1594485690"
+        },
+        {
           "type": "libby",
           "url": "https://share.libbyapp.com/title/631187",
           "requires_participating_library": true,

@@ -56,6 +56,14 @@
           "search_fallback": true
         },
         {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/0778954242",
+          "catalog_match": "openlibrary_exact_title_creator",
+          "catalog_title": "Lonesome Dove",
+          "catalog_creator": "Larry McMurtry",
+          "isbn10": "0778954242"
+        },
+        {
           "type": "libby",
           "url": "https://share.libbyapp.com/title/2909950",
           "requires_participating_library": true,

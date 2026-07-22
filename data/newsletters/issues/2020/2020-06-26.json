@@ -45,6 +45,14 @@
           "search_fallback": true
         },
         {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/2264019743",
+          "catalog_match": "openlibrary_exact_title_creator",
+          "catalog_title": "The Things They Carried",
+          "catalog_creator": "Tim O'Brien",
+          "isbn10": "2264019743"
+        },
+        {
           "type": "libby",
           "url": "https://share.libbyapp.com/title/574681",
           "requires_participating_library": true,
@@ -72,7 +80,7 @@
     {
       "position": 3,
       "section": "Study I’m tracking —",
-      "category": "music",
+      "category": "other",
       "title": "psilocybin",
       "creator": null,
       "note": ", a naturally occurring psychoactive substance found in certain species of mushrooms. The study will investigate psychological effects of psilocybin, including whether or not it can help with anorexia. (For a comprehensive overview of therapeutic applications of psilocybin and other psychedelics, I suggest [watching this](https://www.youtube.com/watch?v=8RIVQDZH4Q4), or you can listen to the [audio-only version here](https://tim.blog/2019/07/15/psychedelics-microdosing-mind-enhancing-methods/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)).  \n  \nPlease visit [](https://hopkinspsychedelic.org/anorexia)**[www.hopkinspsychedelic.org/anorexia](http://www.hopkinspsychedelic.org/anorexia)** to learn more about eligibility and complete the online screening form, or contact the Hopkins team at:[HopkinsAnorexiaStudy@jhmi.edu](mailto:HopkinsAnorexiaStudy@jhmi.edu)[  \n  \n](mailto:HopkinsAnorexiaStudy@jhmi.edu)They are especially interested in prospective participants who live in or near the Baltimore/DC area, but if you’re willing to travel to Baltimore for the duration of the study, it can’t hurt to throw your hat in the ring.  \n  \nConfidentiality will be maintained for all applicants and participants, and here’s more from the team: “Participating in our study may help your anorexia nervosa symptoms and will contribute to improving our understanding of the growing field of psychedelic science.”",

@@ -27,7 +27,7 @@
     {
       "position": 2,
       "section": "Most popular post on Facebook —",
-      "category": "book",
+      "category": "other",
       "title": "At University of Oregon, no more free speech for professors on race, religion, sexual orientation...",
       "creator": null,
       "note": null,
@@ -89,6 +89,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/tv-show/westworld",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Westworld",
+          "catalog_year": 2016,
+          "imdb_id": "tt0475784",
+          "media_kind": "tv-show"
         }
       ]
     },

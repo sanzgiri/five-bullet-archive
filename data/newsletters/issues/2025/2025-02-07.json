@@ -42,6 +42,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/spielberg",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Spielberg",
+          "catalog_year": 2017,
+          "imdb_id": "tt7133092",
+          "media_kind": "movie"
         }
       ]
     },
@@ -125,6 +135,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/tv-show/landman",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Landman",
+          "catalog_year": 2024,
+          "imdb_id": "tt14186672",
+          "media_kind": "tv-show"
         }
       ]
     },

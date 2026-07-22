@@ -57,13 +57,23 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/tv-show/mr-robot",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Mr. Robot",
+          "catalog_year": 2015,
+          "imdb_id": "tt4158110",
+          "media_kind": "tv-show"
         }
       ]
     },
     {
       "position": 3,
       "section": "Most popular post on Facebook —",
-      "category": "book",
+      "category": "other",
       "title": "I Think You're Fat",
       "creator": null,
       "note": "\\-- still one of the best pieces ever.\n[@Ajjacobs](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wXm&mc=e&s=bomwH&u=w&y=z&)\n[in all his\nglory](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wXv&mc=e&s=bomwH&u=w&y=E&).”  \n  \nTravel Tip —  \n[The Thera Cane\nMassager](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wXO&mc=e&s=bomwH&u=w&y=B&)\nfor relieving tightness and aches. Whenever I hit the road, I dismantle this\nbad boy and pack it in my suitcase. It hits all the hard-to-reach areas in the\nmiddleback region, and it helps relieve plantar-related foot issues.",

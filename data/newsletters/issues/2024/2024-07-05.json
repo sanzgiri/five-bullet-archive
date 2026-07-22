@@ -55,6 +55,14 @@
           "search_fallback": true
         },
         {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/1299007635",
+          "catalog_match": "openlibrary_exact_title_creator",
+          "catalog_title": "Blood Meridian",
+          "catalog_creator": "Cormac McCarthy",
+          "isbn10": "1299007635"
+        },
+        {
           "type": "libby",
           "url": "https://share.libbyapp.com/title/392199",
           "requires_participating_library": true,

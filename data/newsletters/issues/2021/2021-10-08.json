@@ -152,6 +152,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/language-lessons",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Language Lessons",
+          "catalog_year": 2021,
+          "imdb_id": "tt14031338",
+          "media_kind": "movie"
         }
       ]
     },

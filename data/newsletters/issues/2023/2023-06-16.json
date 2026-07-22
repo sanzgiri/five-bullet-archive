@@ -102,6 +102,14 @@
           "search_fallback": true
         },
         {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/0006366023",
+          "catalog_match": "openlibrary_exact_title_creator",
+          "catalog_title": "Drawing on the right side of the brain",
+          "catalog_creator": "Betty Edwards",
+          "isbn10": "0006366023"
+        },
+        {
           "type": "libby",
           "url": "https://share.libbyapp.com/title/630822",
           "requires_participating_library": true,
@@ -144,6 +152,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/wolfwalkers",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Wolfwalkers",
+          "catalog_year": 2020,
+          "imdb_id": "tt5198068",
+          "media_kind": "movie"
         }
       ]
     },

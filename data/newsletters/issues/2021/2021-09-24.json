@@ -71,6 +71,14 @@
           "search_fallback": true
         },
         {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/7111302494",
+          "catalog_match": "openlibrary_exact_title_creator",
+          "catalog_title": "One Up On Wall Street",
+          "catalog_creator": "Peter Lynch, John Rothchild",
+          "isbn10": "7111302494"
+        },
+        {
           "type": "libby",
           "url": "https://share.libbyapp.com/title/143955",
           "requires_participating_library": true,

@@ -77,6 +77,14 @@
           "type": "worldcat",
           "url": "https://search.worldcat.org/search?q=The%20Artists%E2%80%99%20Prison%20Alexandra%20Grant",
           "search_fallback": true
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/0998861618",
+          "catalog_match": "openlibrary_exact_title_creator",
+          "catalog_title": "The artists' prison",
+          "catalog_creator": "Alexandra Grant",
+          "isbn10": "0998861618"
         }
       ]
     },

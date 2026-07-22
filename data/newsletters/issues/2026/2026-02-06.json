@@ -90,6 +90,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/chaos-the-manson-murders",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Chaos: The Manson Murders",
+          "catalog_year": 2025,
+          "imdb_id": "tt35628886",
+          "media_kind": "movie"
         }
       ]
     },

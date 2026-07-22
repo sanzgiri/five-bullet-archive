@@ -93,6 +93,14 @@
           "type": "worldcat",
           "url": "https://search.worldcat.org/search?q=Masterpieces%20of%20Fantasy%20Art%20Dian%20Hanson",
           "search_fallback": true
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/3836572109",
+          "catalog_match": "openlibrary_exact_title_creator",
+          "catalog_title": "Masterpieces of Fantasy Art",
+          "catalog_creator": "Dian Hanson",
+          "isbn10": "3836572109"
         }
       ]
     },

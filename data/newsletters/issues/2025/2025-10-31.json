@@ -93,6 +93,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/john-candy-i-like-me",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "John Candy: I Like Me",
+          "catalog_year": 2025,
+          "imdb_id": "tt26683420",
+          "media_kind": "movie"
         }
       ]
     },
@@ -144,6 +154,14 @@
           "type": "worldcat",
           "url": "https://search.worldcat.org/search?q=What%20Got%20You%20Here%20Won't%20Get%20You%20There%20Marshall%20Goldsmith",
           "search_fallback": true
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/1401388728",
+          "catalog_match": "openlibrary_exact_title_creator",
+          "catalog_title": "What Got You Here Won't Get You There",
+          "catalog_creator": "Marshall Goldsmith",
+          "isbn10": "1401388728"
         },
         {
           "type": "libby",

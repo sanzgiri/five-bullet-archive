@@ -77,13 +77,23 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/tv-show/black-mirror",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Black Mirror",
+          "catalog_year": 2011,
+          "imdb_id": "tt2085059",
+          "media_kind": "tv-show"
         }
       ]
     },
     {
       "position": 3,
       "section": "Most popular post on Facebook —",
-      "category": "book",
+      "category": "other",
       "title": "I fucking love you guys",
       "creator": null,
       "note": null,

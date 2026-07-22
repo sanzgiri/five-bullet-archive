@@ -28,7 +28,7 @@
     {
       "position": 2,
       "section": "Article and science I’m tracking",
-      "category": "music",
+      "category": "other",
       "title": "Tobacco plant altered to produce five psychedelic drugs",
       "creator": null,
       "note": "(_New Scientist_). Scientists at the [Weizmann Institute](https://en.wikipedia.org/wiki/Weizmann_Institute_of_Science) genetically engineered a single tobacco plant to produce five psychedelic compounds—including psilocybin, DMT, and 5-MeO-DMT—using a technique that temporarily introduces genes from mushrooms, plants, and even the Colorado River toad. The approach could offer a simpler, more sustainable alternative to chemical synthesis for producing psychedelics for therapeutic research. For pairing and background, you can read my older article titled “[An Urgent Plea to Users of Psychedelics: Let’s Consider a More Ethical Menu of Plants and Compounds](https://tim.blog/2021/02/21/urgent-plea-users-of-psychedelics-ethical-plants-compounds/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit).”",
@@ -90,6 +90,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/the-big-sick",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "The Big Sick",
+          "catalog_year": 2017,
+          "imdb_id": "tt5462602",
+          "media_kind": "movie"
         }
       ]
     },
@@ -118,6 +128,14 @@
           "type": "worldcat",
           "url": "https://search.worldcat.org/search?q=The%20Magic%20of%20Thinking%20Big%20David%20J",
           "search_fallback": true
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/0671645129",
+          "catalog_match": "openlibrary_exact_title_creator",
+          "catalog_title": "The Magic of Thinking Big",
+          "catalog_creator": "David Joseph Schwartz",
+          "isbn10": "0671645129"
         },
         {
           "type": "libby",

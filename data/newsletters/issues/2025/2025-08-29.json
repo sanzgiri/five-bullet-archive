@@ -104,6 +104,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/tv-show/mobland",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "MobLand",
+          "catalog_year": 2025,
+          "imdb_id": "tt31510819",
+          "media_kind": "tv-show"
         }
       ]
     },

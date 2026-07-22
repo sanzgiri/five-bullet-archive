@@ -102,6 +102,14 @@
           "search_fallback": true
         },
         {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/1847923674",
+          "catalog_match": "openlibrary_exact_title_creator",
+          "catalog_title": "When Breath Becomes Air",
+          "catalog_creator": "Paul Kalanithi",
+          "isbn10": "1847923674"
+        },
+        {
           "type": "libby",
           "url": "https://share.libbyapp.com/title/2302232",
           "requires_participating_library": true,

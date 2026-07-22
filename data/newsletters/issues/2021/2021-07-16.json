@@ -66,6 +66,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/kokoyakyu-high-school-baseball",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Kokoyakyu: High School Baseball",
+          "catalog_year": 2006,
+          "imdb_id": "tt0823481",
+          "media_kind": "movie"
         }
       ]
     },

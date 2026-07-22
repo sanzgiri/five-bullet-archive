@@ -53,6 +53,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/the-barkley-marathons-the-race-that-eats-its-young",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "The Barkley Marathons: The Race That Eats Its Young",
+          "catalog_year": 2014,
+          "imdb_id": "tt2400291",
+          "media_kind": "movie"
         }
       ]
     },

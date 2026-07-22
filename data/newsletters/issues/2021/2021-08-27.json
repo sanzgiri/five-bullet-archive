@@ -120,6 +120,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/tv-show/100-foot-wave",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "100 Foot Wave",
+          "catalog_year": 2021,
+          "imdb_id": "tt14126234",
+          "media_kind": "tv-show"
         }
       ]
     },

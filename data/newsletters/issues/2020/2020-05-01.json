@@ -53,6 +53,14 @@
           "search_fallback": true
         },
         {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/1306335345",
+          "catalog_match": "openlibrary_exact_title_creator",
+          "catalog_title": "Siddhartha",
+          "catalog_creator": "Herman Hesse",
+          "isbn10": "1306335345"
+        },
+        {
           "type": "libby",
           "url": "https://share.libbyapp.com/title/2378092",
           "requires_participating_library": true,

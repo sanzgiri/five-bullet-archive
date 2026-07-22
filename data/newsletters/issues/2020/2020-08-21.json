@@ -98,6 +98,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/tv-show/the-last-dance",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "The Last Dance",
+          "catalog_year": 2020,
+          "imdb_id": "tt8420184",
+          "media_kind": "tv-show"
         }
       ]
     },

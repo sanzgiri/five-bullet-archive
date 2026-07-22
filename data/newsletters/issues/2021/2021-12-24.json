@@ -78,6 +78,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/tv-show/comedians-in-cars-getting-coffee",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Comedians in Cars Getting Coffee",
+          "catalog_year": 2012,
+          "imdb_id": "tt2314952",
+          "media_kind": "tv-show"
         }
       ]
     },

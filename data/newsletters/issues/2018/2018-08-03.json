@@ -33,6 +33,14 @@
           "search_fallback": true
         },
         {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/1846047684",
+          "catalog_match": "openlibrary_exact_title_creator",
+          "catalog_title": "Radical acceptance",
+          "catalog_creator": "Tara Brach, Cassandra Campbell, Alejandro Pareja Rodríguez",
+          "isbn10": "1846047684"
+        },
+        {
           "type": "libby",
           "url": "https://share.libbyapp.com/title/53422",
           "requires_participating_library": true,

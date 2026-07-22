@@ -108,6 +108,14 @@
           "search_fallback": true
         },
         {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/0062223062",
+          "catalog_match": "openlibrary_exact_title_creator",
+          "catalog_title": "The art of memoir",
+          "catalog_creator": "Mary Karr",
+          "isbn10": "0062223062"
+        },
+        {
           "type": "libby",
           "url": "https://share.libbyapp.com/title/2074239",
           "requires_participating_library": true,

@@ -50,6 +50,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/the-price-of-everything",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "The Price of Everything",
+          "catalog_year": 2018,
+          "imdb_id": "tt7475540",
+          "media_kind": "movie"
         }
       ]
     },
@@ -94,6 +104,14 @@
           "type": "worldcat",
           "url": "https://search.worldcat.org/search?q=Wabi-Sabi%20for%20Artists%2C%20Designers%2C%20Poets%20%26%20Philosophers%20Leonard%20Koren",
           "search_fallback": true
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/1880656124",
+          "catalog_match": "openlibrary_exact_title_creator",
+          "catalog_title": "Wabi-sabi for artists, designers, poets & philosophers",
+          "catalog_creator": "Leonard Koren",
+          "isbn10": "1880656124"
         },
         {
           "type": "libby",

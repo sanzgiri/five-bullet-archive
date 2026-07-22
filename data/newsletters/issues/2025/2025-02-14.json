@@ -55,6 +55,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/the-peanut-butter-falcon",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "The Peanut Butter Falcon",
+          "catalog_year": 2019,
+          "imdb_id": "tt4364194",
+          "media_kind": "movie"
         }
       ]
     },

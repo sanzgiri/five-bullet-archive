@@ -61,6 +61,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/living-on-one-dollar",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Living on One Dollar",
+          "catalog_year": 2013,
+          "imdb_id": "tt2625598",
+          "media_kind": "movie"
         }
       ]
     },

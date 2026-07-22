@@ -128,6 +128,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/wind-river",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Wind River",
+          "catalog_year": 2017,
+          "imdb_id": "tt5362988",
+          "media_kind": "movie"
         }
       ]
     },

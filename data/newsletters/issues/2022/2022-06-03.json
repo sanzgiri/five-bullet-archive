@@ -109,6 +109,14 @@
           "search_fallback": true
         },
         {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/0099909200",
+          "catalog_match": "openlibrary_exact_title_creator",
+          "catalog_title": "Green Hills of Africa",
+          "catalog_creator": "Ernest Hemingway",
+          "isbn10": "0099909200"
+        },
+        {
           "type": "libby",
           "url": "https://share.libbyapp.com/title/143743",
           "requires_participating_library": true,

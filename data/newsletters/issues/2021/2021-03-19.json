@@ -59,6 +59,14 @@
           "search_fallback": true
         },
         {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/8491814442",
+          "catalog_match": "openlibrary_exact_title_creator",
+          "catalog_title": "The Overstory",
+          "catalog_creator": "Richard Powers, Richard Powers",
+          "isbn10": "8491814442"
+        },
+        {
           "type": "libby",
           "url": "https://share.libbyapp.com/title/3360345",
           "requires_participating_library": true,

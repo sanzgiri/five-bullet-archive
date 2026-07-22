@@ -73,6 +73,14 @@
           "search_fallback": true
         },
         {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/3596164036",
+          "catalog_match": "openlibrary_exact_title_creator",
+          "catalog_title": "Delta of Venus",
+          "catalog_creator": "Anaïs Nin, N Clarke",
+          "isbn10": "3596164036"
+        },
+        {
           "type": "libby",
           "url": "https://share.libbyapp.com/title/573421",
           "requires_participating_library": true,

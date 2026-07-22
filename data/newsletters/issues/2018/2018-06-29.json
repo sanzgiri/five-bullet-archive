@@ -68,6 +68,11 @@
           "type": "spotify_track",
           "url": "https://open.spotify.com/search/%E2%80%9CSave%20Me%E2%80%9D%20by%20Damageplan",
           "search_fallback": true
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/track/3VMoO0h3y7a8PBlJP1gZeq",
+          "catalog_match": "verified_title_creator"
         }
       ]
     },

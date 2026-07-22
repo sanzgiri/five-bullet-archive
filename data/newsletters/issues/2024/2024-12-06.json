@@ -96,6 +96,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/perfect-days",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Perfect Days",
+          "catalog_year": 2023,
+          "imdb_id": "tt27503384",
+          "media_kind": "movie"
         }
       ]
     },

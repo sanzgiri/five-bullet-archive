@@ -85,6 +85,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/turn-every-page-the-adventures-of-robert-caro-and-robert-gottlieb",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Turn Every Page: The Adventures of Robert Caro and Robert Gottlieb",
+          "catalog_year": 2022,
+          "imdb_id": "tt14071694",
+          "media_kind": "movie"
         }
       ]
     },

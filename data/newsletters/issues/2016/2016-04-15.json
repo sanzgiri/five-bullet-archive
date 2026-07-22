@@ -42,6 +42,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/the-fog-of-war",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "The Fog of War",
+          "catalog_year": 2003,
+          "imdb_id": "tt0317910",
+          "media_kind": "movie"
         }
       ]
     },
@@ -71,7 +81,7 @@
     {
       "position": 3,
       "section": "Most popular post on Facebook —",
-      "category": "book",
+      "category": "other",
       "title": "The Most Important Skill to Teach Your Dog",
       "creator": null,
       "note": null,
@@ -114,6 +124,11 @@
           "type": "spotify_track",
           "url": "https://open.spotify.com/search/45%20Shinedown",
           "search_fallback": true
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/track/420JGkyLfLUZcgBHKiIK9v",
+          "catalog_match": "verified_title_creator"
         }
       ]
     },

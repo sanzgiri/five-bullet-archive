@@ -107,6 +107,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/old-enough",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Old Enough",
+          "catalog_year": 1984,
+          "imdb_id": "tt0087837",
+          "media_kind": "movie"
         }
       ]
     },

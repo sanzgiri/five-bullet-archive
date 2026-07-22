@@ -59,6 +59,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/hunt-for-the-wilderpeople",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Hunt for the Wilderpeople",
+          "catalog_year": 2016,
+          "imdb_id": "tt4698684",
+          "media_kind": "movie"
         }
       ]
     },

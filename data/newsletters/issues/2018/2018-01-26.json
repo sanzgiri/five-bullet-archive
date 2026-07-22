@@ -76,6 +76,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/the-shape-of-water",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "The Shape of Water",
+          "catalog_year": 2017,
+          "imdb_id": "tt5580390",
+          "media_kind": "movie"
         }
       ]
     },

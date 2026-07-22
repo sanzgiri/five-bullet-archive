@@ -82,6 +82,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/the-alpinist",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "The Alpinist",
+          "catalog_year": 2021,
+          "imdb_id": "tt11790780",
+          "media_kind": "movie"
         }
       ]
     },
@@ -140,7 +150,7 @@
     {
       "position": 3,
       "section": "Recent breakthroughs I’m tracking closely —",
-      "category": "music",
+      "category": "other",
       "title": "The chase for fusion energy: An emerging industry of nuclear-fusion firms promises to have commercial reactors ready in the next decade.",
       "creator": "Philip Ball",
       "note": "com/philipcball)) for _Nature_. If you prefer video, check out this excellent overview by Matt Ferrell ([@mattferrell](https://twitter.com/mattferrell)), which covers the recent excitement in fusion: “[Exploring Why This Nuclear Fusion Breakthrough Matters](https://www.youtube.com/watch?v=-KEwkWjADEA).”",

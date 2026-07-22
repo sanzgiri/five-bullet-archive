@@ -81,6 +81,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/tv-show/abstract-the-art-of-design",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Abstract: The Art of Design",
+          "catalog_year": 2017,
+          "imdb_id": "tt6333098",
+          "media_kind": "tv-show"
         }
       ]
     },

@@ -89,6 +89,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/free-guy",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Free Guy",
+          "catalog_year": 2021,
+          "imdb_id": "tt6264654",
+          "media_kind": "movie"
         }
       ]
     },

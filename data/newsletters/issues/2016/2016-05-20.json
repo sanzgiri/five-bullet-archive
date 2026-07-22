@@ -72,6 +72,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/the-greatest-movie-ever-sold",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "The Greatest Movie Ever Sold",
+          "catalog_year": 2011,
+          "imdb_id": "tt1743720",
+          "media_kind": "movie"
         }
       ]
     },

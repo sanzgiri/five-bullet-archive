@@ -114,6 +114,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/tv-show/stanley-tucci-searching-for-italy",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "Stanley Tucci: Searching for Italy",
+          "catalog_year": 2021,
+          "imdb_id": "tt11852724",
+          "media_kind": "tv-show"
         }
       ]
     },

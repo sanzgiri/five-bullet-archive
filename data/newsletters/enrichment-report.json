@@ -6,13 +6,13 @@
   },
   "links_reclassified": {},
   "libby_resolved": 76,
-  "libby_unresolved": 79,
+  "libby_unresolved": 58,
   "link_totals": {
     "original": 2690,
     "other": 7669,
-    "justwatch": 368,
+    "justwatch": 509,
     "kanopy": 368,
-    "amazon": 366,
+    "amazon": 392,
     "worldcat": 155,
     "spotify_track": 228,
     "audible": 18,
@@ -28,6 +28,6 @@
     "spotify_track": 39,
     "audible": 7
   },
-  "generated_at": "2026-07-22T19:38:59.901Z",
+  "generated_at": "2026-07-22T20:16:25.325Z",
   "libby_library_key_used_for_catalog_resolution": "lapl"
 }

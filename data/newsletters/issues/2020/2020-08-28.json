@@ -109,6 +109,16 @@
           "region": "US",
           "requires_participating_library": true,
           "search_fallback": true
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/the-neverending-story",
+          "region": "US",
+          "catalog_match": "imdb_exact_title",
+          "catalog_title": "The NeverEnding Story",
+          "catalog_year": 1984,
+          "imdb_id": "tt0088323",
+          "media_kind": "movie"
         }
       ]
     },
