@@ -2,6 +2,7 @@ import { mkdir, readdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import process from "node:process";
 import TurndownService from "turndown";
+import { quoteText } from "./quote-text.mjs";
 
 const projectRoot = process.cwd();
 const inputRoot = path.resolve(process.argv[2] ?? "imports/five-bullet-emails");
@@ -212,8 +213,8 @@ function extractBullet(section, body, position) {
   if (links[0]) note = note.slice(firstLinkEnd);
   note = note.replace(/^\s*(?:[.”"'*_—-]+\s*)?(?:by\s+\[[^\]]+\]\([^)]+\)|by\s+[^.\n]+[.]?)?/i, "").trim();
   if (category === "quote") {
-    title = plain;
-    creator = plain.match(/—\s*([^([]+)/)?.[1]?.trim() ?? creator;
+    title = quoteText(plain);
+    creator = title.match(/[—–―-]\s*([^([]+)/)?.[1]?.trim() ?? creator;
     note = null;
   }
   return {

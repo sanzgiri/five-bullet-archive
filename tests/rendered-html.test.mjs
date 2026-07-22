@@ -1,5 +1,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
+import { readdir, readFile } from "node:fs/promises";
+import path from "node:path";
 
 async function render() {
   const workerUrl = new URL("../dist/server/index.js", import.meta.url);
@@ -18,4 +20,18 @@ test("renders the finished archive shell", async () => {
   assert.match(html, /A decade of good ideas/);
   assert.match(html, /Search a title, person, idea/);
   assert.doesNotMatch(html, /codex-preview|react-loading-skeleton|Your site is taking shape/);
+});
+
+test("quote records do not contain newsletter footers", async () => {
+  const issuesRoot = path.resolve("data/newsletters/issues");
+  for (const year of await readdir(issuesRoot)) {
+    for (const name of await readdir(path.join(issuesRoot, year))) {
+      if (!name.endsWith(".json")) continue;
+      const issue = JSON.parse(await readFile(path.join(issuesRoot, year, name), "utf8"));
+      for (const bullet of issue.bullets ?? []) {
+        if (bullet.category !== "quote") continue;
+        assert.doesNotMatch(bullet.title ?? "", /Are you enjoying 5-Bullet|FORWARDED THIS MESSAGE|DUE TO VOLUME|Which bullet above/i, `${issue.date} quote includes footer text`);
+      }
+    }
+  }
 });

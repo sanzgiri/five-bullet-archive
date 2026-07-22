@@ -3,6 +3,7 @@ import path from "node:path";
 import process from "node:process";
 import { PublicClientApplication } from "@azure/msal-node";
 import TurndownService from "turndown";
+import { quoteText } from "./quote-text.mjs";
 
 const projectRoot = process.cwd();
 const archiveRoot = path.join(projectRoot, "data/newsletters");
@@ -191,9 +192,9 @@ function extractBullet(section, body, position) {
     .trim();
 
   if (category === "quote") {
-    title = plain;
+    title = quoteText(plain);
     note = null;
-    creator = plain.match(/—\s*([^([]+)/)?.[1]?.trim() ?? creator;
+    creator = title.match(/[—–―-]\s*([^([]+)/)?.[1]?.trim() ?? creator;
   }
 
   return {

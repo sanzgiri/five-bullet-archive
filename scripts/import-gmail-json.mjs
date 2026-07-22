@@ -1,6 +1,7 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import process from "node:process";
+import { quoteText } from "./quote-text.mjs";
 
 const root = process.cwd();
 const issuesRoot = path.join(root, "data/newsletters/issues");
@@ -109,8 +110,8 @@ function bullet(section, body, position) {
   let note = firstLink ? body.slice(firstLink) : body;
   note = note.replace(/^\s*(?:[.”"'*_—-]+\s*)?(?:by\s+\[[^\]]+\]\([^)]+\)|by\s+[^.\n]+[.]?)?/i, "").trim();
   if (category === "quote") {
-    title = plain;
-    creator = plain.match(/—\s*([^([]+)/)?.[1]?.trim() ?? creator;
+    title = quoteText(plain);
+    creator = title.match(/[—–―-]\s*([^([]+)/)?.[1]?.trim() ?? creator;
     note = null;
   }
   return { position, section, category, title, creator, note: note || null, original_url: links[0]?.url ?? null, links: links.map(({ type, url }) => ({ type, url })) };
