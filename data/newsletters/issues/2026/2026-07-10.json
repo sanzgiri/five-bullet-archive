@@ -25,6 +25,10 @@
         },
         {
           "type": "other",
+          "url": "https://www.instagram.com/lubomirarsov/?hl=en"
+        },
+        {
+          "type": "other",
           "url": "https://www.inshadow.net/"
         }
       ]
@@ -50,7 +54,7 @@
       "category": "music",
       "title": "Hi Ren",
       "creator": "Ren",
-      "note": "This is f*cking incredible. I remember when I first watched it, enraptured. It’s a wild cocktail of talent, craziness, philosophy, meaning, and relief. The lyrics are pure genius. Watch the whole thing—trust me. If you want to dig deeper, you can find the song’s origin story here. Thanks again to Ivy Ankles for sending this to me.",
+      "note": "by Ren. This is fcking incredible. I remember when I first watched it, enraptured. It’s a wild cocktail of talent, craziness, philosophy, meaning, and relief. The lyrics are pure genius. Watch the whole thing—trust me. If you want to dig deeper, you can find the song’s origin story here. Thanks again to Ivy Ankles for sending this to me.",
       "original_url": "https://www.youtube.com/watch?v=s_nc1IVoMxc",
       "links": [
         {
@@ -59,7 +63,61 @@
         },
         {
           "type": "other",
+          "url": "https://www.youtube.com/@RenMakesMusic/videos"
+        },
+        {
+          "type": "other",
           "url": "https://genius.com/Ren-hi-ren-lyrics"
+        },
+        {
+          "type": "other",
+          "url": "https://genius.com/Ren-hi-ren-lyrics#about"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Short book I’m listening to",
+      "category": "book",
+      "title": "Novelist as a Vocation",
+      "creator": "Haruki Murakami",
+      "note": "by Haruki Murakami. I’m loving this, and I’m only allowed to listen while driving or taking baths. It’s a reward. Put another way, I can’t use it to postpone writing. It’s a gem, but skip forward if a chapter doesn’t grab you.\n\nHere are a few excerpts from the official description:\n\nAn insightful look into the mind of a master storyteller—and a unique look at the craft of writing from the beloved and best-selling author of 1Q84 , Norwegian Wood , and What I Talk About When I Talk About Running .\n\n“Murakami is like a magician who explains what he’s doing as he performs the trick and still makes you believe he has supernatural powers.” —New York Times Book Review\n\n“What I want to say is that in a certain sense, while the novelist is creating a novel, he is simultaneously being created by the novel as well.” —Haruki Murakami",
+      "original_url": "https://www.amazon.com/Novelist-as-Vocation-Haruki-Murakami/dp/0451494644/?tag=offsitoftimfe-20",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Novelist-as-Vocation-Haruki-Murakami/dp/0451494644/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Haruki_Murakami"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quotes I’m pondering",
+      "category": "quote",
+      "title": "“Life shrinks or expands in proportion to one’s courage.” — Anaïs Nin\n\n“Yes. Adlerian psychology is a psychology of courage. Your unhappiness cannot be blamed on your past or your environment. And it isn’t that you lack competence. You just lack courage. One might say you are lacking in the courage to be happy.” — The Courage to Be Disliked by Ichiro Kishimi and Fumitake Koga",
+      "creator": "Ichiro Kishimi and Fumitake Koga",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Ana%C3%AFs_Nin",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Ana%C3%AFs_Nin"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Courage-Be-Disliked-Phenomenon-Happiness/dp/1668065967/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Ichiro_Kishimi"
+        },
+        {
+          "type": "other",
+          "url": "https://www.simonandschuster.com/authors/Fumitake-Koga/140778760"
         }
       ]
     }

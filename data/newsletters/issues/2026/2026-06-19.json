@@ -7,7 +7,130 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "partial",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "The Death of Stalin",
+      "creator": "Emmy Award-winning for [Veep] and Oscar-nominated for [In the Loop] writer/direct",
+      "note": "(94% on Rotten Tomatoes) This was brutally hilarious. The star performances from Steve Buscemi and others alone make it worth a watch, but the film is also broadly historically accurate. From the description: “The internal political landscape of 1950s Soviet Russia takes on darkly comic form in a film by Emmy Award-winning for [Veep] and Oscar-nominated for [In the Loop] writer/director Armando Iannucci.”\n\nCheck out the trailer here for a few laughs.",
+      "original_url": "https://www.amazon.com/Death-Stalin-Armando-Iannucci/dp/B0DT1N77SR/?tag=offsitoftimfe-20",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Death-Stalin-Armando-Iannucci/dp/B0DT1N77SR/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rottentomatoes.com/tv/veep"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rottentomatoes.com/m/in_the_loop"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Armando_Iannucci"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=E9eAshaPvYw"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading",
+      "category": "book",
+      "title": "I Solved My Mystery Fatigue with AI",
+      "creator": null,
+      "note": null,
+      "original_url": "https://metalearn.substack.com/p/i-solved-my-mystery-fatigue-with-ai",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://metalearn.substack.com/p/i-solved-my-mystery-fatigue-with-ai"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m exploring currently",
+      "category": "other",
+      "title": "Which companies have the best incentives for health and wellness among employees?",
+      "creator": null,
+      "note": null,
+      "original_url": "https://x.com/tferriss/status/2066568615604703655",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://x.com/tferriss/status/2066568615604703655"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Good science review I’m sending to friends",
+      "category": "research",
+      "title": "Are we hallucinating or can psychedelic drugs modulate the immune system to control inflammation?",
+      "creator": null,
+      "note": null,
+      "original_url": "https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bph.70138",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bph.70138"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Book I’m rereading",
+      "category": "book",
+      "title": "Buffalo for the Broken Heart: Restoring Life to a Black Hills Ranch",
+      "creator": "Dan O’Brien",
+      "note": "by Dan O’Brien . From the description: “For twenty years, Dan O’Brien struggled to make ends meet on his cattle ranch in South Dakota. But when a neighbor invited him to lend a hand at the annual buffalo roundup, O’Brien was inspired to convert his own ranch, the Broken Heart, to buffalo. Starting with thirteen calves, ‘short-necked, golden balls of wool,’ O’Brien embarked on a journey that returned buffalo to his land for the first time in more than a century and a half. Buffalo for the Broken Heart is at once a tender account of the buffaloes’ first seasons on the ranch and an engaging lesson in wildlife ecology. … O’Brien combines a novelist’s eye for detail with a naturalist’s understanding to create an enriching, entertaining narrative.”",
+      "original_url": "https://www.amazon.com/Buffalo-Broken-Heart-Restoring-Black/dp/037576139X/?tag=offsitoftimfe-20",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Buffalo-Broken-Heart-Restoring-Black/dp/037576139X/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Dan_O'Brien_(author)"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quotes I’m pondering",
+      "category": "quote",
+      "title": "“Everyone discusses my art and pretends to understand, as if it were necessary to understand, when it is simply necessary to love.” — Claude Monet (Click here to share on X.)\n\n“I think I’m greedy, but I’m not greedy for money—I think that can be a burden—I’m greedy for an exciting life.” — David Hockney (Click here to share on X.)",
+      "creator": null,
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Claude_Monet",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Claude_Monet"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/63JBn"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/David_Hockney"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/4eqY5"
+        }
+      ]
+    }
+  ]
 }

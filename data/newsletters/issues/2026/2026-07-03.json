@@ -7,7 +7,142 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "partial",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Song I’m enjoying for winding down",
+      "category": "music",
+      "title": "Endangered Species",
+      "creator": "Nickodemus",
+      "note": "(YouTube, Spotify) by Nickodemus (Raeo remix).",
+      "original_url": "https://www.youtube.com/watch?v=u2aGF0yQLyI&list=OLAK5uy_mCrPxcQIGaM-qk6Q42P-lzrFoULe0AO5c",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=u2aGF0yQLyI&list=OLAK5uy_mCrPxcQIGaM-qk6Q42P-lzrFoULe0AO5c"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=u2aGF0yQLyI&list=OLAK5uy_mCrPxcQIGaM-qk6Q42P-lzrFoULe0AO5c"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/album/5yk2ZpcB1q93OZ2tdkuEak?highlight=spotify%3Atrack%3A5dF3DJfd1GXtk1CjkOyqtq"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/nickodemusnyc/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.raeo.net/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Short blog post I’m revisiting",
+      "category": "article",
+      "title": "How do you ask good questions?",
+      "creator": "Tyler Cowen",
+      "note": "by Tyler Cowen. Tyler always impresses me. His tips here will make you a better thinker and a better conversationalist. For more Tyler, check out our long-form discussion here.",
+      "original_url": "https://marginalrevolution.com/marginalrevolution/2021/06/how-do-you-ask-good-questions.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://marginalrevolution.com/marginalrevolution/2021/06/how-do-you-ask-good-questions.html"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/03/05/tyler-cowen/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/03/05/tyler-cowen/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Audiobook I just finished",
+      "category": "audiobook",
+      "title": "Reality Is Not What It Seems",
+      "creator": "Carlo Rovelli",
+      "note": "by Carlo Rovelli. I loved this book, and it’s nice and short. The audiobook clocks in at around six hours at 1x speed. The prose is gorgeous, and earlier chapters on ancient thinkers (e.g., Democritus) alone make it worth the purchase. Here’s a more complete description:\n\n“Theoretical physicist Carlo Rovelli takes you on a journey through how our understanding of reality has evolved, from Democritus to Einstein, from Michael Faraday to gravitational waves, and from classical physics to his own pioneering work in quantum gravity. Mind-bending physics made accessible, beautifully narrated by Roy McMillan.”\n\nThe later chapters on quantum gravity get dense, but the first 50% of this book, plus the conclusion, are fantastic for anyone with a little curiosity and a little patience. This book pairs incredibly well with When We Cease to Understand the World, which I’ve recommended before.",
+      "original_url": "https://www.amazon.com/dp/B01N49GVM1?lv=shuf&tag=offsitoftimfe-20&channelId=1&plpRedirect=mhFallback",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/dp/B01N49GVM1?lv=shuf&tag=offsitoftimfe-20&channelId=1&plpRedirect=mhFallback"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Carlo_Rovelli"
+        },
+        {
+          "type": "other",
+          "url": "https://www.audible.com/search?searchNarrator=Roy%20McMillan&ref_pageloadid=zXpBOhNlshdUzayE&pf_rd_p=f6da0b63-439d-48a7-a859-b187b7c50705&pf_rd_r=8QK6KJXB93F1C388FZZJ&plink=mWzlXeHDOobPUPyB&pageLoadId=S8hvexH41HLVe3S9&creativeId=16015ba4-2e2d-4ae3-93c5-e937781a25cd&ref=a_pd_Realit_pin_narrator_1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/dp/1681375664?lv=shuf&tag=offsitoftimfe-20&channelId=1&plpRedirect=mhFallback"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“If you are moved by it, you don’t need it explained to you. If not, no explanation can make you moved by it.” — Federico Fellini, Italian film director and screenwriter (1920–1993).",
+      "creator": null,
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Federico_Fellini",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Federico_Fellini"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Research and science I’m following",
+      "category": "research",
+      "title": "How do bilingual brains navigate between languages? Scientists discover ‘geometric neural map.’",
+      "creator": null,
+      "note": "This article describes new research just published in Cell, and it begins with the below paragraph:\n\n“Anyone who speaks more than one language knows the feeling of expressing the same thought through entirely different linguistic lenses. A new study by researchers at Rice University and Baylor College of Medicine reveals that the key to this translation ability is a shared geometric map of neural responses in the hippocampus.”\n\nIt also discusses how neuroscience and AI may be converging on similar conclusions or underlying principles. It’s exciting stuff. That said, the research was based on only four speakers of English and Spanish. I love the exploration, and there are lots of open questions to ponder:\n\n\\- Does the conceptual map somehow exist independent of language, or is it created with the learning of your first language? I would bet on the latter.\n\n\\- English and Spanish share Indo-European structure and Latin-alphabet orthography. Does the mapping differ if you have completely different phonetics (e.g., Chinese) or very different grammar (e.g., Japanese)? Only one or the other? Both? If so, is there a threshold for “different”?\n\n\\- One of the study’s senior authors described the brain as “keeping languages distinct enough to avoid interference.” But that refers to the proposed neural geometry of meaning, not necessarily to every retrieval slip we make while speaking—and multilingual people do mix things up. It happens a lot.\n\nSometimes the reasons seem obvious enough: for instance, a native English speaker confuses their Spanish and Portuguese, which are incredibly similar. Other times, it’s less clear what’s going on under the hood. In my case, I have retrieval errors between Spanish and Chinese only when both proficiency levels are near equal, but not when one is lagging behind the other. This is also true if my Japanese approaches my Spanish or I’m relearning German and it gets close to another beginner-level language.\n\nBut here is the stranger part – it doesn’t need to be current proficiency! Any point in my life will do.\n\nFor instance, if I haven’t studied a language in 20+ years but had a “purple belt” in proficiency at my peak—as was the case with Chinese study ending around 2000—when a new language approaches purple belt, I accidentally recall Chinese words or phrases (e.g., proverbs) that I would not be able to recall deliberately, even with a gun against my head. I’d be curious if anyone else has experienced this bizarre phenomenon (let me know @tferriss).\n\nThe research is still at the top of the first inning, but I’m thrilled that people are taking swings.",
+      "original_url": "https://news.rice.edu/news/2026/how-do-bilingual-brains-navigate-between-languages-scientists-discover-geometric-neural",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://news.rice.edu/news/2026/how-do-bilingual-brains-navigate-between-languages-scientists-discover-geometric-neural"
+        },
+        {
+          "type": "other",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0092867426005799?via%3Dihub"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“In looking for people to hire, you look for three qualities: integrity, intelligence, and energy. And if they don’t have the first, the other two will kill you.” — Warren Buffett",
+      "creator": null,
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Warren_Buffett",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Warren_Buffett"
+        }
+      ]
+    }
+  ]
 }

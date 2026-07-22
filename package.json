@@ -7,7 +7,9 @@
   },
   "scripts": {
     "archive:build": "node scripts/build-archive.mjs",
+    "archive:audit": "node scripts/audit-archive.mjs",
     "archive:migrate": "node scripts/migrate-index-to-issues.mjs",
+    "archive:unwrap-links": "node scripts/unwrap-links.mjs",
     "dev": "WRANGLER_LOG_PATH=.wrangler/wrangler.log vinext dev",
     "build": "WRANGLER_LOG_PATH=.wrangler/wrangler.log vinext build",
     "start": "WRANGLER_LOG_PATH=.wrangler/wrangler.log vinext start",
