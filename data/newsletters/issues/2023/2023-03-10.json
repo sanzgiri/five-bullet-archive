@@ -31,11 +31,11 @@
           "url": "https://www.instagram.com/mariapopova/?hl=en"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Wolves-Men-Barry-Holstun-Lopez/dp/0684163225/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Arctic-Dreams-Barry-Lopez/dp/0375727485/"
         }
       ]
@@ -54,7 +54,7 @@
           "url": "https://www.amazon.com/Alone-Season-7/dp/B08B1VH3SX"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Alone-Season-7/dp/B08B1VH3SX"
         },
         {
@@ -64,6 +64,19 @@
         {
           "type": "other",
           "url": "https://thereadystate.com/the-trs-difference/#trsteam"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Alone_%2C%20Season%207",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Alone_%2C%20Season%207",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -108,7 +121,7 @@
           "url": "https://youtu.be/mFpEYOPBsDU"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/0YwNdeDFbGP6AGwsQrtzdY?si=K_0sjEznTpKoWNp67smLtA&context=spotify%3Aalbum%3A7gzX88qS3Vx2r87g5pbdfJ"
         },
         {
@@ -147,7 +160,7 @@
           "url": "https://tim.blog/wp-content/uploads/2019/07/tim_ferriss_the-4-hour-chef_one_pager_cooking.pdf"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
         },
         {

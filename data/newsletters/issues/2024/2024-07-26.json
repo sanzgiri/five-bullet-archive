@@ -25,6 +25,11 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/churupacaoficial/?hl=en"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/Tres%20Deseos%20-%20Sesiones%20de%20Estudio%20(En%20Vivo)",
+          "search_fallback": true
         }
       ]
     },
@@ -55,6 +60,19 @@
         {
           "type": "original",
           "url": "https://youtu.be/-JPOoFkrh94?si=hdmuUpMBiZ1aQU8D"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Anton%20Ego%20finale%20from%20Ratatouille",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Anton%20Ego%20finale%20from%20Ratatouille",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

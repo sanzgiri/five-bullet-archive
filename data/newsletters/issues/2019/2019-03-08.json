@@ -67,6 +67,19 @@
         {
           "type": "original",
           "url": "https://el2.convertkit-mail2.com/c/75u8wd0mmu8h459l7/v7b3hrhxo4xe8o/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9OZXduZXNzLU5pY2hvbGFzLUhvdWx0L2RwL0IwNzZIQlpKWEY="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Newness",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Newness",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

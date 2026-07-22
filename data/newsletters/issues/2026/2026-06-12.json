@@ -43,7 +43,7 @@
           "url": "https://www.youtube.com/watch?v=tW2cTkdhm_I"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/6Keph1R8W5UIsjTWxUAZEG?si=cd22cf68368a44cd"
         },
         {
@@ -93,7 +93,7 @@
           "url": "https://www.amazon.com/Waste-Land-Lucy-Walker/dp/B0B6FF6KCF/?tag=offsitoftimfe-20"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Waste-Land-Lucy-Walker/dp/B0B6FF6KCF/?tag=offsitoftimfe-20"
         },
         {
@@ -111,6 +111,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=Ic1lwE0Zwyw"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Waste%20Land",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Waste%20Land",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -128,7 +141,7 @@
           "url": "https://en.wikipedia.org/wiki/Sebastian_Mallaby"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Infinity-Machine-Hassabis-DeepMind-Superintelligence/dp/B0FSST2RLN?tag=offsitoftimfe-20"
         },
         {
@@ -150,6 +163,11 @@
         {
           "type": "other",
           "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Sebastian%20Mallaby",
+          "search_fallback": true
         }
       ]
     }

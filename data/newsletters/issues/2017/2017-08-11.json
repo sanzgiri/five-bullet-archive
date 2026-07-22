@@ -44,6 +44,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hq77g3/pnceh9/aHR0cDovL2Ftem4udG8vMmZ2UDlQUA=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Kurt%20Vonnegut%20on%20the%20Shapes%20of%20Stories",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Kurt%20Vonnegut%20on%20the%20Shapes%20of%20Stories",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

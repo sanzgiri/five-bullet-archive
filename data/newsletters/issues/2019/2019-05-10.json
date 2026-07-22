@@ -26,6 +26,24 @@
         {
           "type": "other",
           "url": "https://el2.convertkit-mail2.com/c/xmumv0zqqa6hnnknq/gwfnh5hdvpdx8k/aHR0cHM6Ly90d2l0dGVyLmNvbS9BTk5FTEFNT1RU"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Bird%20by%20Bird%3A%20Some%20Instructions%20on%20Writing%20and%20Life%20Anne%20Lamott",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Bird%20by%20Bird%3A%20Some%20Instructions%20on%20Writing%20and%20Life%20Anne%20Lamott",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/457082",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Bird by Bird",
+          "catalog_creator": "Anne Lamott"
         }
       ]
     },

@@ -54,7 +54,7 @@
           "url": "https://twitter.com/danielduane"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
         },
         {
@@ -75,6 +75,19 @@
         {
           "type": "original",
           "url": "https://www.amazon.com/RBG-Ruth-Bader-Ginsburg/dp/B07CT8KKRZ"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=RBG",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=RBG",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -96,7 +109,7 @@
           "url": "https://www.youtube.com/watch?v=UYaShTRs6NQ"
         },
         {
-          "type": "other",
+          "type": "spotify_album",
           "url": "https://open.spotify.com/album/5yk2ZpcB1q93OZ2tdkuEak?highlight=spotify:track:5dF3DJfd1GXtk1CjkOyqtq"
         },
         {

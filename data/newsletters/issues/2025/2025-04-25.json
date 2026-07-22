@@ -44,6 +44,24 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Benjam%C3%ADn_Labatut"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=When%20We%20Cease%20to%20Understand%20the%20World%20Benjam%C3%ADn%20Labatut",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=When%20We%20Cease%20to%20Understand%20the%20World%20Benjam%C3%ADn%20Labatut",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/6556535",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "When We Cease to Understand the World",
+          "catalog_creator": "Benjamin Labatut, Adrian Nathan West, Adam Barr"
         }
       ]
     },
@@ -67,6 +85,19 @@
         {
           "type": "other",
           "url": "https://youtu.be/i0MbLCpYJPA?si=Ug0sjjN0n9Q5KMbi"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=American%20Fiction",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=American%20Fiction",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -84,7 +115,7 @@
           "url": "https://en.wikipedia.org/wiki/Albert_Einstein"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/One-Thing-You-Need-Know/dp/0743261658/"
         },
         {
@@ -107,7 +138,7 @@
           "url": "https://en.wikipedia.org/wiki/Marshall_Rosenberg"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/One-Thing-You-Need-Know/dp/0743261658/"
         },
         {

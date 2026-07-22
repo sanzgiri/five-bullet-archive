@@ -69,12 +69,17 @@
           "url": "https://www.youtube.com/watch?t=5776s&v=9aj33Ya36X8"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Universe-Verse-Portals-through-Science/dp/1635868831/"
         },
         {
           "type": "other",
           "url": "https://www.ofra-amit.com/"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Universe%20in%20Verse",
+          "search_fallback": true
         }
       ]
     },
@@ -131,7 +136,7 @@
           "url": "https://en.wikipedia.org/wiki/John_W._Gardner"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/dp/0316178314/"
         },
         {

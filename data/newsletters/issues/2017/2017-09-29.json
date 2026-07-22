@@ -37,6 +37,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hqwkpn/xksph6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UcmliZS1NZW50b3JzLVNob3J0LUFkdmljZS1Xb3JsZC9kcC8xMzI4OTk0OTYxL3JlZj1hc19saV9zc190bD9fZW5jb2Rpbmc9VVRGOCZxaWQ9MTUwNDgyNzk2NyZzcj0xLTEmbGlua0NvZGU9c2wxJnRhZz1vZmZzaXRvZnRpbWZlLTIwJmxpbmtJZD0yNDM5MTBmMzFlYmE1MDM4MDgxNDdkMTMxMmFlZDU3Nw=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20pure%20genius%20and%20insanity%20of%20Bboy%20Pocket",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20pure%20genius%20and%20insanity%20of%20Bboy%20Pocket",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

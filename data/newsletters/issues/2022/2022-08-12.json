@@ -62,7 +62,7 @@
           "url": "https://www.youtube.com/watch?v=Mz4-38d3-AE"
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.netflix.com/title/81435684"
         },
         {
@@ -72,6 +72,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=xpPyPguzafU"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Arcane%3A%20Bridging%20the%20Rift",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Arcane%3A%20Bridging%20the%20Rift",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -108,7 +121,7 @@
           "url": "https://www.youtube.com/watch?v=3wk7C64kaP4"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/4YFcGTdgmEuw8xTO4XrxbB?si=6a_VrcrTRkO6Z6B2W-IGrA&context=spotify%3Aplaylist%3A37i9dQZF1E3ajGK3MlUFzY"
         },
         {

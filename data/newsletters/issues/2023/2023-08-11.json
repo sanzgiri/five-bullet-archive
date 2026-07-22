@@ -23,7 +23,7 @@
           "url": "https://www.amazon.com/gp/video/detail/The-Biggest-Little-Farm/B07R4CFF3M"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/gp/video/detail/The-Biggest-Little-Farm/B07R4CFF3M"
         },
         {
@@ -37,6 +37,19 @@
         {
           "type": "other",
           "url": "https://www.rottentomatoes.com/m/the_biggest_little_farm"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Biggest%20Little%20Farm",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Biggest%20Little%20Farm",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -58,7 +71,7 @@
           "url": "https://www.youtube.com/watch?v=mM3aRDAe8OQ"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/57F72SNODqvkm6PAVvoL3B?autoplay=true"
         },
         {
@@ -82,7 +95,7 @@
           "url": "https://www.youtube.com/watch?v=mexXOdAF50g"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB?autoplay=true"
         },
         {
@@ -111,6 +124,24 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Dan_Flores"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Coyote%20America%3A%20A%20Natural%20and%20Supernatural%20History%20Dan%20Flores",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Coyote%20America%3A%20A%20Natural%20and%20Supernatural%20History%20Dan%20Flores",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/2963278",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Coyote America",
+          "catalog_creator": "Dan Flores, Elijah Alexander"
         }
       ]
     },

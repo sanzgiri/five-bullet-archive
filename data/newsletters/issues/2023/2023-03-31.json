@@ -41,6 +41,11 @@
         {
           "type": "other",
           "url": "https://imagecomics.com/creators/fonografiks"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Saga%3A%20Compendium%20One",
+          "search_fallback": true
         }
       ]
     },
@@ -87,6 +92,11 @@
         {
           "type": "other",
           "url": "https://twitter.com/zeidhamdan?lang=en"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/Ya%20Habibi%20Ta%E2%80%99ala%20-%20%D9%8A%D8%A7%20%D8%AD%D8%A8%D9%8A%D8%A8%D9%8A%20%D8%AA%D8%B9%D8%A7%D9%84%D9%8E",
+          "search_fallback": true
         }
       ]
     },

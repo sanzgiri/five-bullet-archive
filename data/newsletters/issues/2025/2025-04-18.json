@@ -31,7 +31,7 @@
           "url": "https://music.apple.com/in/song/supreme-illusion-nickodemus-remix/190034899"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/2GQOmGGgXpPpTkSbtgUgVn"
         },
         {
@@ -60,6 +60,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=Vfi5JS6HTH0"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Eagle%20Huntress",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Eagle%20Huntress",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -111,7 +124,7 @@
           "url": "https://en.wikipedia.org/wiki/Marcus_Buckingham"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/One-Thing-You-Need-Know/dp/0743261658/"
         },
         {

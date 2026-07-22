@@ -71,6 +71,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hnxzol/52hvh7/aHR0cHM6Ly90d2l0dGVyLmNvbS9KdXN0aW5Sb2lsYW5k"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Rick%20and%20Morty%20--%20Season%201%2C%20Ep%202%2C%20%E2%80%9CLawnmower%20Dog%E2%80%9D",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Rick%20and%20Morty%20--%20Season%201%2C%20Ep%202%2C%20%E2%80%9CLawnmower%20Dog%E2%80%9D",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

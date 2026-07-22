@@ -96,6 +96,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/58hvh7h9eqpvvkt6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9EYXJrLU1hdGVyaWFscy1ZZWFybGluZy0zLWJvb2stQm94ZWQvZHAvMDQ0MDQxOTUxNC8="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Neverending%20Story",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Neverending%20Story",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

@@ -36,7 +36,7 @@
           "url": "https://youtu.be/ZHaGhF_vhjk?si=DFrea6EhFOWn0Nwj"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/6qxXWHksQRKpRAjxzuS0Vs?si=ChW2QM0ZSP2BzrwWkrNaEg"
         },
         {
@@ -48,7 +48,7 @@
           "url": "https://www.instagram.com/paulsimonofficial/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Graceland-Paul-Simon/dp/B0002EQ7E2/?tag=offsitoftimfe-20"
         }
       ]
@@ -67,11 +67,11 @@
           "url": "https://www.paramountplus.com/movies/video/9jgijEgXLUDr5SLpSE9flcb5QMz87EJZ/"
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.paramountplus.com/movies/video/9jgijEgXLUDr5SLpSE9flcb5QMz87EJZ/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Nothing-Lasts-Forever-Dusan-Simic/dp/B0CN9PX5J5/?tag=offsitoftimfe-20"
         },
         {
@@ -85,6 +85,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=nHIGGdxZe64"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Nothing%20Lasts%20Forever",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Nothing%20Lasts%20Forever",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -108,6 +121,11 @@
         {
           "type": "other",
           "url": "https://www.rottentomatoes.com/m/syriana"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Tongues_%2C%20Volume%201%20Anders%20Nilsen",
+          "search_fallback": true
         }
       ]
     },

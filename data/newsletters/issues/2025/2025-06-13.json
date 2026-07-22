@@ -33,6 +33,16 @@
         {
           "type": "other",
           "url": "https://www.artofaccomplishment.com/about"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=How%20to%20be%20more%20emotionally%20intelligent%20(without%20trying%20so%20hard)",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=How%20to%20be%20more%20emotionally%20intelligent%20(without%20trying%20so%20hard)",
+          "search_fallback": true
         }
       ]
     },
@@ -65,7 +75,7 @@
           "url": "https://www.vashoncoffeedust.com/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Hour-Body-Uncommon-Incredible-Superhuman/dp/030746363X/"
         }
       ]

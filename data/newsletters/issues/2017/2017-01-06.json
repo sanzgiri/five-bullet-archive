@@ -25,6 +25,16 @@
         {
           "type": "other",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=diK&mc=1&s=bomwH&u=w&y=5&"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Stories%20of%20Your%20Life%20and%20Others",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Stories%20of%20Your%20Life%20and%20Others",
+          "search_fallback": true
         }
       ]
     },
@@ -86,6 +96,19 @@
         {
           "type": "other",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=diC&mc=1&s=bomwH&u=w&y=X&"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Kubo%20and%20the%20Two%20Strings",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Kubo%20and%20the%20Two%20Strings",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

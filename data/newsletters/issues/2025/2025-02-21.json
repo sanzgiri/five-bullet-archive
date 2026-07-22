@@ -67,6 +67,19 @@
         {
           "type": "other",
           "url": "https://bjjdoc.com/2024/09/20/andre-galvao-kaynan-duarte-can-be-the-greatest-of-all-time/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Nobody%20Can%20Match%20His%20Level%2C%20Finally%20a%20Heavyweight%20with%20Elite%20Submissions%20-%20Kaynan%20Duarte",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Nobody%20Can%20Match%20His%20Level%2C%20Finally%20a%20Heavyweight%20with%20Elite%20Submissions%20-%20Kaynan%20Duarte",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -86,6 +99,16 @@
         {
           "type": "other",
           "url": "https://jamesniehues.com/pages/the-man-behind-the-map?"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Legendary%20Ski%20Artist%20James%20Niehues%3A%20The%20Man%20Behind%20the%20Maps",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Legendary%20Ski%20Artist%20James%20Niehues%3A%20The%20Man%20Behind%20the%20Maps",
+          "search_fallback": true
         }
       ]
     },
@@ -103,7 +126,7 @@
           "url": "https://tim.blog/2025/02/20/for-less-anxiety-and-more-life-treat-your-to-do-list-like-a-diner-menu/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Meditations-Mortals-Embrace-Limitations-Counts/dp/0374611998/"
         },
         {

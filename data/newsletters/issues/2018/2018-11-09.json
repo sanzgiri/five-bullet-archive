@@ -25,6 +25,24 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/q6f8h7hngpq4g/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wLzloYi1wdm44Vmov"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Travels%20with%20Charley%20in%20Search%20of%20America%20John%20Steinbeck",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Travels%20with%20Charley%20in%20Search%20of%20America%20John%20Steinbeck",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/181620",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Travels with Charley in Search of America",
+          "catalog_creator": "John Steinbeck, Jay Parini"
         }
       ]
     },
@@ -44,6 +62,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/rmc8hohx9zn3e/aHR0cDovL3JlYmVjY2EuYnJhY2htYW4ub3JnLw=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Could%20a%20drug%20prevent%20depression%20and%20PTSD%3F",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Could%20a%20drug%20prevent%20depression%20and%20PTSD%3F",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

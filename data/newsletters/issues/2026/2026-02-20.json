@@ -28,7 +28,7 @@
           "url": "https://www.youtube.com/watch?v=NErZGmLdnF4"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/4vh9XdS6a314hnHEcphAp9"
         },
         {
@@ -61,6 +61,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=hPoNH4DUd4k"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Asking%2073-year-old%20how%20he%20got%20ripped",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Asking%2073-year-old%20how%20he%20got%20ripped",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -86,7 +99,7 @@
           "url": "https://en.wikipedia.org/wiki/Elliott_Kalan"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245/?tag=offsitoftimfe-20"
         },
         {
@@ -94,7 +107,7 @@
           "url": "https://podcasts.apple.com/us/podcast/the-power-broker-1-robert-caro/id394775318?i=1000642195418"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/6nRsxCu5n0Z8xBF63OGI1n?dlsi=32f19a9dd73d4e8a&nd=1&si=F_JYXAfQQi-mJDzOR511AA"
         },
         {
@@ -112,6 +125,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?feature=youtu.be&si=2WPKmF06iKI_ZFhX&v=Fru8IkuDp_k"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Power%20Broker%20%2301%3A%20Robert%20Caro%2099%25%20Invisible_%2C%20hosted%20by%20Roman%20Mars%20and%20Elliott%20Kalan",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Power%20Broker%20%2301%3A%20Robert%20Caro%2099%25%20Invisible_%2C%20hosted%20by%20Roman%20Mars%20and%20Elliott%20Kalan",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

@@ -51,7 +51,7 @@
           "url": "https://podcasts.apple.com/us/podcast/the-tim-ferriss-show/id863897795"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM"
         }
       ]
@@ -114,6 +114,11 @@
         {
           "type": "other",
           "url": "https://apnews.com/article/ftc-gm-driving-data-insurers-a555abb56a0d5f31afa9b73c3eb48287"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/This%20is%20a%20weird%20comparison%2C%20but%20Zcash%20reminds%20me%20a%20lot%20of%20BitTorrent%E2%80%A6%20Haseeb%20Qureshi",
+          "search_fallback": true
         }
       ]
     },

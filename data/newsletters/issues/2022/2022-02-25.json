@@ -62,7 +62,7 @@
           "url": "https://www.youtube.com/watch?v=EY2CGLWpkuI"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/4MOCTiC5mMrJuhLFSNjiIM?si=v6kWbcS5SzmdoIKb2geF1w&nd=1"
         },
         {
@@ -138,6 +138,19 @@
         {
           "type": "other",
           "url": "http://twitter.com/tferriss"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Fractals%3A%20Hunting%20the%20Hidden%20Dimension",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Fractals%3A%20Hunting%20the%20Hidden%20Dimension",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

@@ -72,6 +72,11 @@
         {
           "type": "other",
           "url": "http://www.evewood.net/"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Artists%E2%80%99%20Prison%20Alexandra%20Grant",
+          "search_fallback": true
         }
       ]
     },
@@ -103,6 +108,19 @@
         {
           "type": "other",
           "url": "https://youtu.be/oYp5XuGYqqY?t=1101"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Do%20we%20see%20reality%20as%20it%20is%3F%20Donald%20Hoffman",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Do%20we%20see%20reality%20as%20it%20is%3F%20Donald%20Hoffman",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -124,7 +142,7 @@
           "url": "https://www.youtube.com/watch?v=U4rcBIKDC_I"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/5uAQb21DyVhjbKnXVv1fCu"
         },
         {
@@ -140,7 +158,7 @@
           "url": "https://www.youtube.com/watch?v=Pyy4pVuhY34"
         },
         {
-          "type": "other",
+          "type": "spotify_album",
           "url": "https://open.spotify.com/album/375ny9lus0XSsM5C4wDV4z"
         }
       ]

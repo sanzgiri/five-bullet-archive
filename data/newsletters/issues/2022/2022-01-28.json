@@ -25,6 +25,19 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/p/CZPu0VEIZzy/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Master%20of%20camouflage%20hunting",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Master%20of%20camouflage%20hunting",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -73,11 +86,11 @@
           "url": "https://twitter.com/jimgaffigan"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Jim-Gaffigan-Noble-Ape/dp/B07LC14Z8N"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Jim-Gaffigan-Noble-Ape/dp/B07LC14Z8N"
         },
         {

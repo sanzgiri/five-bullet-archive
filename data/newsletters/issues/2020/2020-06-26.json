@@ -38,6 +38,19 @@
         {
           "type": "other",
           "url": "https://tim.blog/2018/01/01/the-tim-ferriss-show-transcripts-caroline-paul/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Things%20They%20Carried%20Tim%20O%E2%80%99Brien)",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/574681",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "The Things They Carried",
+          "catalog_creator": "Tim O'Brien"
         }
       ]
     },
@@ -80,6 +93,11 @@
         {
           "type": "other",
           "url": "http://www.hopkinspsychedelic.org/anorexia"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/psilocybin",
+          "search_fallback": true
         }
       ]
     },
@@ -101,7 +119,7 @@
           "url": "https://www.youtube.com/watch?v=q0hyYWKXF0Q"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/5ZULALImTm80tzUbYQYM9d?autoplay=true&v=T"
         },
         {

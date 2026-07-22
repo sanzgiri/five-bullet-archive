@@ -29,6 +29,11 @@
         {
           "type": "other",
           "url": "https://twitter.com/susancain"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Art%20Is%20the%20Highest%20Form%20of%20Hope",
+          "search_fallback": true
         }
       ]
     },
@@ -60,6 +65,19 @@
         {
           "type": "other",
           "url": "https://tim.blog/2019/09/19/tristan-harris-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20art%20of%20misdirection%20%7C%20Apollo%20Robbins",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20art%20of%20misdirection%20%7C%20Apollo%20Robbins",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

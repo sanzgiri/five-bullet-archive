@@ -24,11 +24,11 @@
           "url": "https://www.amazon.com/Hunt-Wilderpeople-Sam-Neill/dp/B01HE1FTGC/ref=tmm_aiv_swatch_0/ref=dv_web_auth_no_re_sig?_encoding=UTF8&_encoding=UTF8&qid=1603504389&sr=1-1&"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Hunt-Wilderpeople-Sam-Neill/dp/B01HE1FTGC/ref=tmm_aiv_swatch_0/ref=dv_web_auth_no_re_sig?_encoding=UTF8&_encoding=UTF8&qid=1603504389&sr=1-1&"
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.netflix.com/title/80096995"
         },
         {
@@ -46,6 +46,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=dPaU4Gymt3E"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Hunt%20for%20the%20Wilderpeople",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Hunt%20for%20the%20Wilderpeople",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -93,6 +106,19 @@
         {
           "type": "other",
           "url": "https://twitter.com/sullydish"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Skin%20Deep",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Skin%20Deep",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

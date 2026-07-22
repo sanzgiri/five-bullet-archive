@@ -41,6 +41,24 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/82aqhoh5ee275z/aHR0cHM6Ly90d2l0dGVyLmNvbS9kYnRvZG9tdW5kbw=="
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Siddhartha%20Herman%20Hesse",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Siddhartha%20Herman%20Hesse",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/2378092",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Siddhartha",
+          "catalog_creator": "Herman Hesse"
         }
       ]
     },

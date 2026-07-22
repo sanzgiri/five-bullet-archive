@@ -24,7 +24,7 @@
           "url": "https://open.spotify.com/track/20aX921hTggMXRS3TX3VIA?dlsi=7d52bcb7297f4347&nd=1&si=mXYQoQdaRnK461C8ErISBA"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/20aX921hTggMXRS3TX3VIA?dlsi=7d52bcb7297f4347&nd=1&si=mXYQoQdaRnK461C8ErISBA"
         },
         {
@@ -40,7 +40,7 @@
           "url": "https://www.instagram.com/brooklynragamassive/"
         },
         {
-          "type": "other",
+          "type": "spotify_album",
           "url": "https://open.spotify.com/album/1XAk4OvWfQdPuwyMhF5r0B"
         }
       ]
@@ -69,6 +69,19 @@
         {
           "type": "other",
           "url": "https://slatestarcodex.com/Stuff/genius.pdf"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Queen%20of%20Chess",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Queen%20of%20Chess",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -92,6 +105,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=lY0PL5RYU8M"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Khabib%20vs%20Lex%3A%20Training%20with%20Khabib",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Khabib%20vs%20Lex%3A%20Training%20with%20Khabib",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

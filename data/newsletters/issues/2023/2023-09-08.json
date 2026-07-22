@@ -50,7 +50,7 @@
           "url": "https://podcasts.apple.com/gb/podcast/181-the-birth-of-babylon/id1537788786?i=1000559280205"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/6BKEPqU7yguHqJRX5ENSos"
         },
         {
@@ -78,7 +78,7 @@
           "url": "https://podcasts.apple.com/us/podcast/8-the-sumerians-fall-of-the-first-cities/id1449884495?i=1000454904678"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/02mi6TfCLV0ynvSlmhqZqj?si=U8Bzay6oQfSkG7drMIhMrg"
         },
         {
@@ -115,6 +115,19 @@
         {
           "type": "other",
           "url": "https://tim.blog/2015/02/02/arnold-schwarzenegger/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Arnold",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Arnold",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

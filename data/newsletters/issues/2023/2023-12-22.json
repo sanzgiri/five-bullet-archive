@@ -56,6 +56,19 @@
         {
           "type": "other",
           "url": "https://web.archive.org/web/20231216052332/https://www.nytimes.com/2023/12/16/world/middleeast/a-viral-dance-and-happiness-campaign-frustrates-irans-clerics.html"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=A%20Viral%20Dance%20and%20%E2%80%98Happiness%20Campaign%E2%80%99%20Frustrates%20Iran%E2%80%99s%20Clerics",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=A%20Viral%20Dance%20and%20%E2%80%98Happiness%20Campaign%E2%80%99%20Frustrates%20Iran%E2%80%99s%20Clerics",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -75,6 +88,11 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Dian_Hanson"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Masterpieces%20of%20Fantasy%20Art%20Dian%20Hanson",
+          "search_fallback": true
         }
       ]
     },
@@ -92,7 +110,7 @@
           "url": "https://www.amazon.com/Tates-Bake-Shop-Gluten-Cookies/dp/B00MEBSRS0/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Tates-Bake-Shop-Chocolate-Cookies/dp/B00B62W306?th=1"
         }
       ]

@@ -101,6 +101,19 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/p/CLP1-brgQ5l/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Stanley%20Tucci%3A%20Searching%20for%20Italy",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Stanley%20Tucci%3A%20Searching%20for%20Italy",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -122,7 +135,7 @@
           "url": "https://en.wikipedia.org/wiki/George_Dawes_Green"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Moth-Presents-All-These-Wonders-ebook/dp/B01HL1CE5E/ref=sr_1_1?dchild=1&keywords=all+these+wonders&qid=1587242679&sr=8-1"
         },
         {
@@ -159,6 +172,11 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Paolo_Fresu"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/Sketches%20of%20the%20Mediterranean%20Jon%20Hassell%20with%20Paolo%20Fresu",
+          "search_fallback": true
         }
       ]
     },

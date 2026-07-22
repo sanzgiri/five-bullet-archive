@@ -27,11 +27,11 @@
           "url": "https://www.youtube.com/watch?v=9TazKJJAq5o"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/47S5BUvioIt6D5elpRVllE"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/artist/4ZFgZInIgcrtQgaB3xuKQj"
         }
       ]
@@ -54,7 +54,7 @@
           "url": "https://podcasts.apple.com/us/podcast/the-matt-walker-podcast/id1578319619?i=1000724349556"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/0rKN3XvELyxoKeH7WLqi6H?si=tk4lKeHjQn2OoXliCDR2cw"
         },
         {

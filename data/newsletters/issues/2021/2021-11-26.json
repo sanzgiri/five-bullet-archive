@@ -54,7 +54,7 @@
           "url": "https://www.amazon.com/Roadrunner-Film-About-Anthony-Bourdain/dp/B09BB55XXX"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Roadrunner-Film-About-Anthony-Bourdain/dp/B09BB55XXX"
         },
         {
@@ -72,6 +72,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=ihEEjwRlghQ"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Roadrunner%3A%20A%20Film%20About%20Anthony%20Bourdain",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Roadrunner%3A%20A%20Film%20About%20Anthony%20Bourdain",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

@@ -104,7 +104,7 @@
           "url": "https://youtu.be/K8W2_y_hivs?si=pHbGZ3iDTNAfZ_dm"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/3FzhN6s32SOcczLau47fLG?si=f6f2636c059c4045&nd=1&dlsi=9b06efbd51d34eb1"
         },
         {
@@ -116,7 +116,7 @@
           "url": "https://www.instagram.com/jeanduvoyagemusic/"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/artist/10Mq65D17BrcHPS8po0hKZ"
         }
       ]

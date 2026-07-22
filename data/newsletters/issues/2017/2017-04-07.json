@@ -37,6 +37,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh82xl8/41xkjn/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JTYzFza1psWHdRLz90YWtlbi1ieT10aW1mZXJyaXNz"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Francis%20Mallmann%20episode%20of%20Chef%E2%80%99s%20Table%20(Season%201%2C%20Episode%203)",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Francis%20Mallmann%20episode%20of%20Chef%E2%80%99s%20Table%20(Season%201%2C%20Episode%203)",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

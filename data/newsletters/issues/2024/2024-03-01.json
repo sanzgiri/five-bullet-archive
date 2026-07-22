@@ -37,6 +37,19 @@
         {
           "type": "other",
           "url": "https://youtu.be/whldChqCsYk?feature=shared"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Handmaiden",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Handmaiden",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -62,7 +75,7 @@
           "url": "https://podcasts.apple.com/us/podcast/body-electric-part-2-when-human-met-desk/id523121474?i=1000630489697"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/1ioVkZgHnubUaGsJ0nXUO5?si=jF7scOrPTd20JEnfE90ujQ"
         },
         {
@@ -83,6 +96,19 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=kaW71ZyUX80"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Greatest%20Submission%20Artist%20%E2%80%93%20Gordon%20Ryan",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Greatest%20Submission%20Artist%20%E2%80%93%20Gordon%20Ryan",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

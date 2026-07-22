@@ -126,11 +126,11 @@
           "url": "https://x.com/tferriss/status/1537476784207241217"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Nayoya-Back-Neck-Pain-Relief/dp/B0049Q0P9M/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Sivan-Health-Fitness%C2%AEAcupressure-Treatment-Reliever/dp/B00U6G063E/?th=1"
         },
         {
@@ -138,7 +138,7 @@
           "url": "https://www.instagram.com/andrii_bondarenko/?hl=en"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Body-Back-Original-Trigger-Therapy/dp/B005F9F5H4"
         }
       ]
@@ -201,6 +201,19 @@
         {
           "type": "other",
           "url": "https://www.andrewkrivak.com/"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Bear%20Andrew%20Krivak",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/4744257",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "The Bear",
+          "catalog_creator": "Andrew Krivak"
         }
       ]
     },

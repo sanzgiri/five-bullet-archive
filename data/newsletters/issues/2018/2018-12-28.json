@@ -36,6 +36,19 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/o8uvgq544hqh7z802/xvfph6h57kd0w/aHR0cHM6Ly95b3V0dS5iZS94b3hoRGstaHd1bw=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Package%20Thief%20vs.%20Glitter%20Bomb%20Trap",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Package%20Thief%20vs.%20Glitter%20Bomb%20Trap",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

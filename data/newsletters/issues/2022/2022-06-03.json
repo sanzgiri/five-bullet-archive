@@ -23,7 +23,7 @@
           "url": "https://www.amazon.com/Planet-Earth-II/dp/B01MTB2GLE"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Planet-Earth-II/dp/B01MTB2GLE"
         },
         {
@@ -41,6 +41,19 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/davidattenborough/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Planet%20Earth%20II%20%E2%80%9CGrasslands%E2%80%9D%20episode",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Planet%20Earth%20II%20%E2%80%9CGrasslands%E2%80%9D%20episode",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -84,6 +97,24 @@
         {
           "type": "other",
           "url": "https://www.shutterstock.com/search/water+buffalo"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Green%20Hills%20of%20Africa%20Ernest%20Hemingway",
+          "search_fallback": true
+        },
+        {
+          "type": "audible",
+          "url": "https://www.audible.com/search?keywords=Green%20Hills%20of%20Africa%20Ernest%20Hemingway",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/143743",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Green Hills of Africa",
+          "catalog_creator": "Ernest Hemingway, Josh Lucas"
         }
       ]
     },
@@ -105,7 +136,7 @@
           "url": "https://podcasts.apple.com/us/podcast/matthew-inman-and-elan-lee-invite-everyone-to-the-party/id1507009944?i=1000514857698"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/5FjKmNS99BGmCI59q0B0qt"
         },
         {

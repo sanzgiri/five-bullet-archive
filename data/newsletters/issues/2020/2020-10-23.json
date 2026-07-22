@@ -47,16 +47,29 @@
           "url": "https://www.amazon.com/Sour-Grapes-Rudy-Kurniawan/dp/B06XWKJN5F/ref=tmm_aiv_swatch_0?_encoding=UTF8&qid=&sr="
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Sour-Grapes-Rudy-Kurniawan/dp/B06XWKJN5F/ref=tmm_aiv_swatch_0?_encoding=UTF8&qid=&sr="
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.netflix.com/title/80029708"
         },
         {
           "type": "other",
           "url": "https://itunes.apple.com/movie/sour-grapes/id1204095705?ign-mpt=uo%3D5"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Sour%20Grapes",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Sour%20Grapes",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -82,7 +95,7 @@
           "url": "https://twitter.com/JohnArnoldFndtn"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Tribe-Mentors-Short-Advice-World/dp/1328994961/"
         }
       ]
@@ -105,7 +118,7 @@
           "url": "https://www.youtube.com/watch?v=NErZGmLdnF4"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/4vh9XdS6a314hnHEcphAp9"
         },
         {
@@ -132,7 +145,7 @@
           "url": "https://en.wikipedia.org/wiki/Primo_Levi"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/This-Man-Truce-Primo-Levi/dp/0349100136/"
         },
         {

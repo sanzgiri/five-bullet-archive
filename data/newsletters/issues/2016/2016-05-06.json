@@ -40,6 +40,11 @@
         {
           "type": "other",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wox&mc=e&s=bomwH&u=w&y=s&"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/Beats%20Antique%20-%20Collide%20(Album)",
+          "search_fallback": true
         }
       ]
     },
@@ -59,6 +64,19 @@
         {
           "type": "other",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=woD&mc=e&s=bomwH&u=w&y=w&"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=%22What%20really%20matters%20at%20the%20end%20of%20life%E2%80%9D%20(TED)",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=%22What%20really%20matters%20at%20the%20end%20of%20life%E2%80%9D%20(TED)",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -74,6 +92,16 @@
         {
           "type": "original",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=woW&mc=e&s=bomwH&u=w&y=d&"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Kobe%20Bryant%2C%20The%20Beatles%20and%20a%20Child%20Chess%20Prodigy%20All%20Have%20the%20Same%20Habit",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Kobe%20Bryant%2C%20The%20Beatles%20and%20a%20Child%20Chess%20Prodigy%20All%20Have%20the%20Same%20Habit",
+          "search_fallback": true
         }
       ]
     },

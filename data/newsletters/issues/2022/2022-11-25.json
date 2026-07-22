@@ -75,6 +75,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/caseyneistat"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=This%20Guy%20Is%20Relentless",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=This%20Guy%20Is%20Relentless",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -111,7 +124,7 @@
           "url": "https://en.wikipedia.org/wiki/Portia_Nelson"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Theres-Hole-My-Sidewalk-Self-Discovery/dp/1582706859/"
         },
         {
@@ -123,7 +136,7 @@
           "url": "https://tim.blog/the-4-hour-chef-coffee-top-gear/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
         },
         {

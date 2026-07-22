@@ -33,6 +33,19 @@
         {
           "type": "other",
           "url": "https://youtu.be/Utq0aDEp084?si=Kcjc4JBjKdoYMGSr"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Wild%20Tales%20Pedro%20Almod%C3%B3var",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Wild%20Tales%20Pedro%20Almod%C3%B3var",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -108,7 +121,7 @@
           "url": "https://podcasts.apple.com/us/podcast/plants-of-the-gods-s4e6-part-1-ayahuasca/id1549464922?i=1000609598573"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/55aDyN4lvdAwaYnIHaclaX?si=aK8urRhMRcydX-hUpscscg"
         },
         {

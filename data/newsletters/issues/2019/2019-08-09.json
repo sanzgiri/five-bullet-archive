@@ -63,6 +63,19 @@
         {
           "type": "other",
           "url": "https://el2.convertkit-mail.com/c/d0u20lglw5a0h0mm0qtp/4navhehpe7z58o/aHR0cHM6Ly93d3cucm90dGVudG9tYXRvZXMuY29tL3R2L2RyZWFtX2NvcnBfbGxjXw=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Dream%20Sequence%20%7C%20DREAM%20CORP%20LLC%20%7C%20adult%20swim",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Dream%20Sequence%20%7C%20DREAM%20CORP%20LLC%20%7C%20adult%20swim",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

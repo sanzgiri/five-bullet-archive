@@ -58,7 +58,7 @@
           "url": "https://en.wikipedia.org/wiki/1923_(TV_series"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a6b886eb-47c1-90f9-7508-d37c218381bb?autoplay=0&ref_=atv_cf_strg_wb"
         },
         {
@@ -88,6 +88,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=3axWgmlwnl4"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Special%20Ops%3A%20Lioness",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Special%20Ops%3A%20Lioness",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -118,6 +131,19 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=aNy9Kw7BPQc"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20STRONGEST%20Hobby%20Lifter%20Ever%20-%20Lifting%20Legends",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20STRONGEST%20Hobby%20Lifter%20Ever%20-%20Lifting%20Legends",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -135,7 +161,7 @@
           "url": "https://open.spotify.com/track/4VSaOyEHjWW7opStz9i9SN"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/4VSaOyEHjWW7opStz9i9SN"
         },
         {
@@ -155,7 +181,7 @@
           "url": "https://www.instagram.com/shawnzuzek/"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/3zNUKKD6iFpxA1x3cavlDH?si=e2f3d60267cd4afd"
         },
         {
@@ -163,7 +189,7 @@
           "url": "https://youtu.be/txaNbo-__xc?si=UM0xgjTOS-3PjJ3f"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/3zNUKKD6iFpxA1x3cavlDH?si=e2f3d60267cd4afd"
         },
         {
@@ -190,7 +216,7 @@
           "url": "https://en.wikipedia.org/wiki/Ken_Liu"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Paper-Menagerie-Other-Stories/dp/1481442546/"
         },
         {

@@ -50,7 +50,7 @@
           "url": "https://www.amazon.com/dp/B0D49M4ZJJ?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Excellent-Advice-Living-Wisdom-Earlier/dp/0593654528/ref=sr_1_1?crid=1823KQX8QV8LV&dib=eyJ2IjoiMSJ9.e4F6Q5lQZce-Xf3jkspkCWFmRsF-lAQ-wDHu0dc7tgqRyN_7hen4YkWz4VMCyHA7bPMZeE3FlAgvcNga7nMQIeCr1kVhQvs6LBy9voS1ZcYrS1Xi7bUohDFEpLN9Umq9YXK3s41Ay-rgdqvQRVgabSRWtn8MINa3DdnebrsRm_-7Q5kk6pYYkIs5sH5MpfAGOh1yRNmaYx5sW0dhj4s82N9Zz0LkONRMaKY3UoNct8A.aCRbaraHCtI7EO9pzbQDvFXc3AoqVVdNCTilH8k64PE&dib_tag=se&keywords=kevin%20kelly&qid=1754086414&sprefix=kevin%20kelly%2Caps%2C116&sr=8-1"
         }
       ]
@@ -112,11 +112,11 @@
           "url": "https://www.notboring.co/p/means-and-meaning"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Audible-Infinite-Jest/dp/B0CZ4N145R/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Although-Course-You-Becoming-Yourself/dp/030759243X"
         },
         {

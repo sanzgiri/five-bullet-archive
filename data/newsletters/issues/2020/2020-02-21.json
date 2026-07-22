@@ -61,6 +61,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/o8uvgq544hqhgg6xval/ndhohvh5l4xkd2/aHR0cHM6Ly90d2l0dGVyLmNvbS9pYW1zcms="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=My%20Next%20Guest%20with%20David%20Letterman%20and%20Shah%20Rukh%20Khan",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=My%20Next%20Guest%20with%20David%20Letterman%20and%20Shah%20Rukh%20Khan",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

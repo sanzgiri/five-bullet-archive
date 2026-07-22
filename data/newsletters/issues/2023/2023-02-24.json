@@ -60,6 +60,19 @@
         {
           "type": "other",
           "url": "https://saiseifoundation.org/projects/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Psychedelic%20Assisted%20Therapy%3A%20Last%20Week%20Tonight%20with%20John%20Oliver",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Psychedelic%20Assisted%20Therapy%3A%20Last%20Week%20Tonight%20with%20John%20Oliver",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -154,7 +167,7 @@
           "url": "https://podcasts.apple.com/us/podcast/657-professor-john-vervaeke-on-cultivating-wisdom-finding/id863897795?i=1000601256282"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/2eKwHbr2oY3nppyAi5xPDb?si=XWbOaaq3Qwmoi1tpVU-eYg"
         },
         {

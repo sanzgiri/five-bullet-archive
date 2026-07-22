@@ -50,7 +50,7 @@
           "url": "https://www.youtube.com/watch?v=3MufzuaKfZg&list=PLATQ8iWXs4GxyetKHEYTwlKwKH5fcr2Jm&index=4"
         },
         {
-          "type": "other",
+          "type": "spotify_album",
           "url": "https://open.spotify.com/album/33wf5Y2Ne4wHZHbNgmFjiG"
         },
         {
@@ -81,16 +81,29 @@
           "url": "https://www.amazon.com/Pick-Litter-Patriot/dp/B07GVV638F/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Pick-Litter-Patriot/dp/B07GVV638F/"
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.disneyplus.com/series/pick-of-the-litter/5iClwiby7D1y"
         },
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=Djc1s_ZRRC0"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Pick%20of%20the%20Litter",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Pick%20of%20the%20Litter",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

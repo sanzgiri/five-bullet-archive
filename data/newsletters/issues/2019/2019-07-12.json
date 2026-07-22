@@ -53,6 +53,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhn43dxiv/eoaph7hl434ggw/aHR0cHM6Ly90d2l0dGVyLmNvbS90cmlzdGFuaGFycmlz"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20art%20of%20misdirection%20%7C%20Apollo%20Robbins",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20art%20of%20misdirection%20%7C%20Apollo%20Robbins",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -80,6 +93,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhn43dxiv/5divh7hn7d788m/aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL21vdmllL3NvdXItZ3JhcGVzL2lkMTIwNDA5NTcwNT9hdD0xMGw5SVAmY3Q9UlQmdW89NQ=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Sour%20Grapes",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Sour%20Grapes",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

@@ -92,6 +92,19 @@
         {
           "type": "other",
           "url": "https://tim.blog/2020/08/26/rabbi-lord-jonathan-sacks-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=How%20we%20can%20face%20the%20future%20without%20fear%2C%20together%20Rabbi%20Lord%20Jonathan%20Sacks",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=How%20we%20can%20face%20the%20future%20without%20fear%2C%20together%20Rabbi%20Lord%20Jonathan%20Sacks",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

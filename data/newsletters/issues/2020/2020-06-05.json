@@ -30,6 +30,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/qdurox544u7hn32vgc6/pqbeh9h78we9p8/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0J0T2NsR3JBZ2xxLw=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Hakuho%20Sh%C5%8D%20%E2%80%9CThe%20Best%20Sumo%20of%20All%20Time%E2%80%9D%20HD%20Yokozuna%20Highlights",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Hakuho%20Sh%C5%8D%20%E2%80%9CThe%20Best%20Sumo%20of%20All%20Time%E2%80%9D%20HD%20Yokozuna%20Highlights",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -45,6 +58,19 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/qdurox544u7hn32vgc6/62heh8h2084p3x/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UaGUtSGVyb3MtQWR2ZW50dXJlL2RwL0IwN0JDMlZISEov"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Joseph%20Campbell%20and%20the%20Power%20of%20Myth%20with%20Bill%20Moyers",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Joseph%20Campbell%20and%20the%20Power%20of%20Myth%20with%20Bill%20Moyers",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

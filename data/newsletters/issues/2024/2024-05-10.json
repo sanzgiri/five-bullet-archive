@@ -27,7 +27,7 @@
           "url": "https://www.youtube.com/watch?v=VKzWLUQizz8"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/4wSmqFg31t6LsQWtzYAJob"
         },
         {
@@ -52,6 +52,19 @@
         {
           "type": "original",
           "url": "https://youtu.be/ruykPnaSeAg?t=1719"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Fight-corner%20motivation%20by%20Teddy%20Atlas%2C%20renowned%20boxing%20coach",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Fight-corner%20motivation%20by%20Teddy%20Atlas%2C%20renowned%20boxing%20coach",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -103,11 +116,11 @@
           "url": "https://kochfuneralhome.com/tribute/details/2171/Bridget-Henisch/obituary.html"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Fast-Feast-Food-Mediaeval-Society/dp/0271012307/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Oldest-Cure-World-Adventures-Science/dp/B0B8T2HKZS/"
         },
         {

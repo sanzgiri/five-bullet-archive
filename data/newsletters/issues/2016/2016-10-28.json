@@ -44,6 +44,19 @@
         {
           "type": "other",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wXF&mc=e&s=bomwH&u=w&y=Y&"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Mr.%20Robot",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Mr.%20Robot",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -71,6 +84,16 @@
         {
           "type": "other",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wXO&mc=e&s=bomwH&u=w&y=B&"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=I%20Think%20You're%20Fat",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=I%20Think%20You're%20Fat",
+          "search_fallback": true
         }
       ]
     },

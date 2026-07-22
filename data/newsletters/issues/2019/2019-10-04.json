@@ -33,6 +33,11 @@
         {
           "type": "other",
           "url": "https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/6mceh8hwpr4v69/aHR0cHM6Ly9tZXRzYW11c2ljLmJhbmRjYW1wLmNvbS9hbGJ1bS9jb250YWN0"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/Contact%20Metsa",
+          "search_fallback": true
         }
       ]
     },

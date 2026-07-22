@@ -23,15 +23,15 @@
           "url": "https://tim.blog/2020/08/27/the-power-of-myth-joseph-campbell/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
         },
         {
-          "type": "other",
+          "type": "audible",
           "url": "https://www.audible.com/pd/The-Power-of-Myth-Programs-1-6-Audiobook/B002V59WRE"
         },
         {
-          "type": "other",
+          "type": "audible",
           "url": "https://www.audible.com/pd/The-Power-of-Myth-Programs-1-6-Audiobook/B002V59WRE"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/The-Heros-Adventure/dp/B07BC2VHHJ/"
         },
         {
@@ -39,11 +39,11 @@
           "url": "https://tim.blog/2020/08/27/the-power-of-myth-joseph-campbell/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
         },
         {
-          "type": "other",
+          "type": "audible",
           "url": "https://www.audible.com/pd/The-Power-of-Myth-Programs-1-6-Audiobook/B002V59WRE"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/The-Heros-Adventure/dp/B07BC2VHHJ/"
         }
       ]
@@ -78,12 +78,25 @@
           "url": "https://www.instagram.com/daisyedgarjones/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Under-Banner-Heaven-Story-Violent/dp/1400032806"
         },
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=IDRqWtwbiSM"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Under%20the%20Banner%20of%20Heaven",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Under%20the%20Banner%20of%20Heaven",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

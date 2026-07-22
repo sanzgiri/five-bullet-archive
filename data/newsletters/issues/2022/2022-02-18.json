@@ -37,6 +37,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=X37qmXciA6E"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Lion%20Tracker%E2%80%99s%20Guide%20to%20Life%20Boyd%20Varty",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/4489207",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "The Lion Tracker's Guide to Life",
+          "catalog_creator": "Boyd Varty"
         }
       ]
     },
@@ -54,7 +67,7 @@
           "url": "https://www.amazon.com/The-Young-Pope-Season-1/dp/B01MY59QX8"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/The-Young-Pope-Season-1/dp/B01MY59QX8"
         },
         {
@@ -62,12 +75,25 @@
           "url": "https://www.hbo.com/the-young-pope"
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.hulu.com/series/the-young-pope-4add735c-1be9-4fa9-b549-b2aa76fd461e"
         },
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Jude_Law"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Young%20Pope",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Young%20Pope",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -85,7 +111,7 @@
           "url": "https://en.wikipedia.org/wiki/Procrustes"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Oxford-Dictionary-English-Idioms-Reference/dp/019954378X/ref=sr_1_4?crid=OYTE6KBHBOSV&keywords=Oxford+Dictionary+of+English+Idioms&qid=1645045607&sprefix=oxford+dictionary+of+english+idioms%2Caps%2C63&sr=8-4"
         },
         {
@@ -93,7 +119,7 @@
           "url": "https://twitter.com/nntaleb"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Bed-Procrustes-Philosophical-Practical-Aphorisms-ebook/dp/B004C43F9S/"
         },
         {
@@ -116,7 +142,7 @@
           "url": "https://www.youtube.com/watch?v=f4xZ7t0vVMw"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/4fwLpbdoNnBhhvgSi2JhXA?si=o4Tmx7RwRv6aWuygO_cLBw&nd=1"
         },
         {
@@ -147,7 +173,7 @@
           "url": "https://en.wikipedia.org/wiki/Charles_Darwin"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Autobiography-Charles-Darwin-1809-1882/dp/0393310698/ref=sr_1_2?crid=ZM2CWKL7U3U0&keywords=the+autobiography+of+charles+darwin&qid=1645048437&sprefix=the+autobiography+of+charles+darwin%2Caps%2C69&sr=8-2"
         },
         {

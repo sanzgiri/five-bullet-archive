@@ -85,6 +85,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/z2hghnhdgwr75d/aHR0cHM6Ly90d2l0dGVyLmNvbS9saWJieWdlaXN0P2xhbmc9ZW4="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Last%20Dance",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Last%20Dance",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

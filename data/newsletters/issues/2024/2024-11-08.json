@@ -31,7 +31,7 @@
           "url": "https://music.apple.com/us/song/tu-rumba/1462375560"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/4iY6Xv5g3SbauDZmCf2kr4"
         },
         {
@@ -72,6 +72,19 @@
         {
           "type": "other",
           "url": "https://www.humansofnewyork.com/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Turn%20Every%20Page%3A%20The%20Adventures%20of%20Robert%20Caro%20and%20Robert%20Gottlieb",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Turn%20Every%20Page%3A%20The%20Adventures%20of%20Robert%20Caro%20and%20Robert%20Gottlieb",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

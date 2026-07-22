@@ -64,6 +64,19 @@
         {
           "type": "original",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wIc&mc=e&s=bomwH&u=w&y=u&"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Black%20Mirror",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Black%20Mirror",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -79,6 +92,16 @@
         {
           "type": "original",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wIL&mc=e&s=bomwH&u=w&y=g&"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=I%20fucking%20love%20you%20guys",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=I%20fucking%20love%20you%20guys",
+          "search_fallback": true
         }
       ]
     },

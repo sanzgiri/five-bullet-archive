@@ -50,7 +50,7 @@
           "url": "https://music.apple.com/us/album/vivrant-thing/1244760008?i=1244760919"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/4YCBBxP0AeWPpEwidahrha"
         },
         {
@@ -77,7 +77,7 @@
           "url": "https://www.nytimes.com/2024/01/19/obituaries/beatrix-potter-overlooked.html?smid=nytcore-ios-share&referringSource=articleShare"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
         },
         {
@@ -104,7 +104,7 @@
           "url": "https://podcasts.apple.com/us/podcast/on-with-kara-swisher/id1643307527?i=1000642076349"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/6t9W2X3JDVHQM7Mq3A7qNk?si=i_chTVhJRPKOEos3Sg--aw"
         },
         {

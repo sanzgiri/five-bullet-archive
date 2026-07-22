@@ -23,11 +23,11 @@
           "url": "https://www.netflix.com/title/81457001"
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.netflix.com/title/81457001"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/River-Runner-4K-UHD/dp/B09GM8D22N/ref=sr_1_1?keywords=the+river+runner&qid=1645540723&sr=8-1"
         },
         {
@@ -77,6 +77,19 @@
         {
           "type": "other",
           "url": "https://www.outsideonline.com/outdoor-adventure/water-activities/scott-lindgren-kayaker/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20River%20Runner",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20River%20Runner",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -121,7 +134,7 @@
           "url": "https://www.youtube.com/watch?v=2xQaCnHDkwA"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/4JWc8uU6q7LPJQqlBHttBI"
         },
         {
@@ -150,6 +163,19 @@
         {
           "type": "other",
           "url": "https://tim.blog/2017/09/13/ray-dalio/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Lessons%20of%20History%20Will%20and%20Ariel%20Durant",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/1509264",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "The Lessons of History",
+          "catalog_creator": "Will Durant, Ariel Durant"
         }
       ]
     },

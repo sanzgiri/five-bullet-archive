@@ -56,6 +56,19 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=cdxCvuGdmyc"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Little%20Giant%20-%20Ryuju%20Nagayama%20(2025%20World%20Champion)",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Little%20Giant%20-%20Ryuju%20Nagayama%20(2025%20World%20Champion)",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -92,7 +105,7 @@
           "url": "https://www.netflix.com/title/81498621"
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.netflix.com/tudum/top10/most-popular"
         },
         {
@@ -108,11 +121,11 @@
           "url": "https://www.rottentomatoes.com/m/kpop_demon_hunters"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Writers-Journey-Anniversary-Mythic-Structure/dp/1615933158/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Save-Cat-Goes-Movies-Screenwriters/dp/1932907351/"
         },
         {
@@ -144,11 +157,11 @@
           "url": "https://www.youtube.com/watch?v=AzCAwdp1uIQ"
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.netflix.com/tudum/top10/most-popular"
         },
         {
-          "type": "other",
+          "type": "spotify_album",
           "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
         },
         {
@@ -158,6 +171,19 @@
         {
           "type": "other",
           "url": "https://puck.news/why-did-kpop-demon-hunters-go-straight-to-streaming/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=KPop%20Demon%20Hunters",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=KPop%20Demon%20Hunters",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -193,6 +219,11 @@
         {
           "type": "other",
           "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Four%20Thousand%20Weeks%3A%20Time%20Management%20for%20Mortals%20Oliver%20Burkeman%3A%20%E2%80%9CAfter%20years%20of%20trying%20and%20failing%20to%20make%20time%20for%20her%20illustration%20work%2C%20by%20tamin",
+          "search_fallback": true
         }
       ]
     }

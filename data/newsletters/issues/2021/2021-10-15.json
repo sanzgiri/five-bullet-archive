@@ -58,7 +58,7 @@
           "url": "https://www.amazon.com/Rush-Chris-Hemsworth/dp/B00H967074/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Rush-Chris-Hemsworth/dp/B00H967074/"
         },
         {
@@ -66,7 +66,7 @@
           "url": "https://itunes.apple.com/us/movie/rush/id700911218?cmp=rt_where_to_watch"
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.netflix.com/title/70253165"
         },
         {
@@ -76,6 +76,19 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/thedanielbruhl/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Rush",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Rush",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -97,7 +110,7 @@
           "url": "https://www.youtube.com/watch?v=8Z0sTBQQ1qo"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/71HTUOeN8WkBQklquqotLn?si=5cafd89afd8f4c5c"
         },
         {

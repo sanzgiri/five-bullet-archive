@@ -58,7 +58,7 @@
           "url": "https://music.apple.com/us/album/the-four-seasons-summer/1613936663?i=1613936668"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/1Ucv0WoZR9XFoGhGOnatDG"
         },
         {
@@ -89,7 +89,7 @@
           "url": "https://en.wikipedia.org/wiki/Ricardo_Dar%C3%ADn"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Wild-Tales-Ricardo-Dar%C3%ADn/dp/B00YO07WCG"
         },
         {
@@ -123,6 +123,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=EwdCIpbTN5g"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Argentina%2C%201985",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Argentina%2C%201985",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

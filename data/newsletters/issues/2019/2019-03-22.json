@@ -21,6 +21,19 @@
         {
           "type": "original",
           "url": "https://el2.convertkit-mail2.com/c/lmun74z88amhk8d82/45ivheh5kqrxn6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1ubVZjSWhudlN4OA=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Kurt%20Vonnegut%20on%20how%20to%20write%20a%20short%20story",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Kurt%20Vonnegut%20on%20how%20to%20write%20a%20short%20story",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

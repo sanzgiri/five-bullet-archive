@@ -61,11 +61,11 @@
           "url": "https://www.amazon.com/gp/video/detail/B0F25KJG4D/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/gp/video/detail/B0F25KJG4D/"
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.paramountplus.com/shows/mobland/"
         },
         {
@@ -91,6 +91,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=qKGgw7Ob5f4"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=MobLand",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=MobLand",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -141,6 +154,11 @@
         {
           "type": "other",
           "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Genghis%20Khan%20and%20the%20Making%20of%20the%20Modern%20World%20Jack%20Weatherford%20*%20*%20*%20You%20can%20complement%20this%20edition%20of%205-Bullet%20Friday%20with%20my%20brand-new%20conversa",
+          "search_fallback": true
         }
       ]
     }

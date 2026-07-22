@@ -61,6 +61,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=JuDn9QoDjz0"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Penn%20and%20Teller%3A%20Fool%20Us%20%7C%20Mahdi%20Gilbert%20Performs%20Sleight%20of%20Hand%20without%20Hands",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Penn%20and%20Teller%3A%20Fool%20Us%20%7C%20Mahdi%20Gilbert%20Performs%20Sleight%20of%20Hand%20without%20Hands",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -88,6 +101,19 @@
         {
           "type": "other",
           "url": "https://tim.blog/2020/11/11/mary-karr/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Art%20of%20Memoir%20Mary%20Karr",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/2074239",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "The Art of Memoir",
+          "catalog_creator": "Mary Karr"
         }
       ]
     },
@@ -109,7 +135,7 @@
           "url": "https://www.youtube.com/watch?v=b8cW-WETNmo"
         },
         {
-          "type": "other",
+          "type": "spotify_album",
           "url": "https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB?highlight=spotify:track:1Wit1Nw3sVBbyyX9NjjT7H"
         },
         {
@@ -117,7 +143,7 @@
           "url": "https://twitter.com/ceumusic?lang=en"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/7LXDofZT1zLYNcfThUxPpQ?autoplay=true"
         }
       ]

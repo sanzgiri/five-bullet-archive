@@ -66,7 +66,7 @@
           "url": "https://twitter.com/RyanGosling"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Whiplash-Paul-Reiser/dp/B00PRX66TE"
         },
         {
@@ -76,6 +76,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=0pdqf4P9MB8"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=La%20La%20Land%20(Amazon",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=La%20La%20Land%20(Amazon",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -93,7 +106,7 @@
           "url": "https://www.youtube.com/watch?v=Atylb_YcJ0g"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/artist/0B6mwRbxKrvUvklMk9571H"
         },
         {

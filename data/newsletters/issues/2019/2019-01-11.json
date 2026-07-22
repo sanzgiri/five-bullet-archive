@@ -33,6 +33,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/gzcnh5h2lw0pv/aHR0cHM6Ly93d3cucnlhbnNwZWVkb2dyZWVuLmNvbS8="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Ryan%20Speedo%20Green%3A%20From%20Juvenile%20Delinquency%20to%20Opera%20Stardom",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Ryan%20Speedo%20Green%3A%20From%20Juvenile%20Delinquency%20to%20Opera%20Stardom",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -48,6 +61,24 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/3esphkh82gkv6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9EZWx0YS1WZW51cy1BbmFpcy1OaW4vZHAvMDE1NjAyOTAzMC8="
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Delta%20of%20Venus%20Ana%C3%AFs%20Nin",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Delta%20of%20Venus%20Ana%C3%AFs%20Nin",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/573421",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Delta of Venus",
+          "catalog_creator": "Anaïs Nin"
         }
       ]
     },

@@ -48,6 +48,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/8kue0m6zzuoh3e352/xksph6/aHR0cDovL3d3dy5pbWRiLmNvbS90aXRsZS90dDE0MjQ0MzIv"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Senna",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Senna",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

@@ -33,6 +33,11 @@
         {
           "type": "other",
           "url": "https://genius.com/Ren-hi-ren-lyrics#about"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/Hi%20Ren%20Ren",
+          "search_fallback": true
         }
       ]
     },
@@ -48,6 +53,19 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=w1PkbsYLXUo"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20most%20brutal%20sport%20in%20the%20world%20%7C%20Calcio%20Storico",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20most%20brutal%20sport%20in%20the%20world%20%7C%20Calcio%20Storico",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -67,6 +85,11 @@
         {
           "type": "other",
           "url": "https://ig.ft.com/ai-animals/"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/Elephants%20call%20each%20other%20by%20name%2C%20study%20finds",
+          "search_fallback": true
         }
       ]
     },

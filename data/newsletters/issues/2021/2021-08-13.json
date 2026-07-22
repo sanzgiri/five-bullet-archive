@@ -37,6 +37,19 @@
         {
           "type": "other",
           "url": "https://twitter.com/maxgladstone"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=This%20Is%20How%20You%20Lose%20the%20Time%20War%20Amal%20El-Mohtar",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/4501234",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "This Is How You Lose the Time War",
+          "catalog_creator": "Amal El-Mohtar, Max Gladstone"
         }
       ]
     },
@@ -73,7 +86,7 @@
           "url": "https://www.youtube.com/watch?v=My6clOj_XXg"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/4KzfeYR1CV81zCIcgLxS81?autoplay=true"
         },
         {

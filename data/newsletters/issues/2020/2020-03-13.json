@@ -53,6 +53,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/e5ux264rrb7hqonnmsz/ogakhqh7lx5vv7/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Ib3VyLUJvZHktVW5jb21tb24tSW5jcmVkaWJsZS1TdXBlcmh1bWFuL2RwLzAzMDc0NjM2M1gv"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Butterfield%20Diet%20Plan",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Butterfield%20Diet%20Plan",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -107,6 +120,16 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/e5ux264rrb7hqonnmsz/03swh9hkwnq55n/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcy9zdGF0dXMvMTIzNDE3OTM2MDkwODg2MTQ0MA=="
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Here%E2%80%99s%20some%20current%20inspiration",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Here%E2%80%99s%20some%20current%20inspiration",
+          "search_fallback": true
         }
       ]
     },

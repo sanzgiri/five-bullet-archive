@@ -46,7 +46,7 @@
           "url": "https://www.youtube.com/watch?v=Z5NoQg8LdDk"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/3nBGFgfRQ8ujSmu5cGlZIU?autoplay=true"
         },
         {
@@ -120,7 +120,7 @@
           "url": "https://tim.blog/wp-content/uploads/2019/07/tim_ferriss_the-4-hour-chef_one_pager_slow_carb_diet.pdf"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
         }
       ]

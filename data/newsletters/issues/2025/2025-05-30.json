@@ -31,7 +31,7 @@
           "url": "https://www.themarginalian.org/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Pilgrim-Tinker-Harper-Perennial-Classics/dp/0061233323/"
         }
       ]
@@ -54,7 +54,7 @@
           "url": "https://www.youtube.com/watch?v=F39XU3WhmE8"
         },
         {
-          "type": "other",
+          "type": "spotify_album",
           "url": "https://open.spotify.com/album/5XttR9hovHAbIPg5Su5Nh8?si=TgapOFERQXSQmQ4DnE2u9w"
         },
         {
@@ -75,6 +75,19 @@
         {
           "type": "original",
           "url": "https://www.amazon.com/gp/video/detail/B0CXRY1G7G/ref=atv_sr_fle_c_sr6eee57_1_1_1?pageTypeId=B0CXS43HWK&pageTypeIdSource=ASIN&qid=1748403215738&sr=1-1"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Conan%20O%E2%80%99Brien%20Must%20Go_%2C%20S1E4%20(Ireland)",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Conan%20O%E2%80%99Brien%20Must%20Go_%2C%20S1E4%20(Ireland)",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

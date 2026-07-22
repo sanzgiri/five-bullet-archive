@@ -27,11 +27,11 @@
           "url": "https://youtu.be/goQGBkkuVpE?si=hKmPBNWHF_erd9_m"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/3LsIKnWBQhqjQ5TWNxJenK"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Zitarrosa-Album-Version/dp/B001C3G8OQ"
         },
         {
@@ -60,6 +60,19 @@
         {
           "type": "other",
           "url": "https://gabriellezevin.com/"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Tomorrow%2C%20and%20Tomorrow%2C%20and%20Tomorrow%20Gabrielle%20Zevin",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/7349338",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Tomorrow, and Tomorrow, and Tomorrow",
+          "catalog_creator": "Gabrielle Zevin"
         }
       ]
     },

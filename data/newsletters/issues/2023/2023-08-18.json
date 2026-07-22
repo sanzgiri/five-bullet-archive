@@ -65,7 +65,7 @@
           "url": "https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3"
         },
         {
@@ -108,7 +108,7 @@
           "url": "https://tim.blog/tim-ferriss-books/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Body-Back-Original-Trigger-Therapy/dp/B005F9F5H4"
         }
       ]

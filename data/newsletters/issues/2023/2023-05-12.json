@@ -119,6 +119,16 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/p/CsBp99iuoYH/"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Tokyo%20Ghost",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Tokyo%20Ghost",
+          "search_fallback": true
         }
       ]
     },
@@ -140,11 +150,11 @@
           "url": "https://aeropress.com/products/aeropress-coffee-maker"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Hario-Mini-Mill-Coffee-Grinder/dp/B001804CLY?th=1"
         },
         {
@@ -152,7 +162,7 @@
           "url": "https://www.comandantegrinder.com/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/gp/product/B084HNY3BG/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1"
         }
       ]

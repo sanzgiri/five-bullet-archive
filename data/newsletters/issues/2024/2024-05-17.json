@@ -40,6 +40,19 @@
         {
           "type": "other",
           "url": "https://youtu.be/76QV2SrSqgo?t=170"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Jerry%20Seinfeld%E2%80%99s%20Recent%20Duke%20Commencement%20Speech",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Jerry%20Seinfeld%E2%80%99s%20Recent%20Duke%20Commencement%20Speech",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

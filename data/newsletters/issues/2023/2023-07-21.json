@@ -58,7 +58,7 @@
           "url": "https://www.youtube.com/watch?v=jcD0Daqc3Yw"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Big-Sick-Kumail-Nanjiani/dp/B089XYBLJV/"
         },
         {
@@ -80,6 +80,19 @@
         {
           "type": "other",
           "url": "https://www.scriptreaderpro.com/best-comedy-scripts/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Big%20Sick",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Big%20Sick",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

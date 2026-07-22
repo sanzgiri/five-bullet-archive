@@ -30,6 +30,19 @@
         {
           "type": "other",
           "url": "https://tim.blog/2019/08/16/safi-bahcall/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Joyful%20Wisdom%3A%20Embracing%20Change%20and%20Finding%20Freedom%20Yongey%20Mingyur%20Rinpoche",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/180726",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Joyful Wisdom",
+          "catalog_creator": "Yongey Mingyur Rinpoche, Eric Swanson"
         }
       ]
     },
@@ -82,7 +95,7 @@
           "url": "https://www.youtube.com/watch?v=G5TBWxjnaIE"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/3rkge8kur9i26zpByFKvBu"
         },
         {

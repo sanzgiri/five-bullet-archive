@@ -63,6 +63,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/e5ux264rrb7hl0zk9/60aeh8/aHR0cDovL3d3dy50aGVqb3VybmFsLmVtYWlsLw=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Jim%20Carrey%3A%20I%20Needed%20Color",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Jim%20Carrey%3A%20I%20Needed%20Color",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

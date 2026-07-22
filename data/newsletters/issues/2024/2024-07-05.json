@@ -27,7 +27,7 @@
           "url": "https://en.wikipedia.org/wiki/Federico_Aubele"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Hour-Body-Uncommon-Incredible-Superhuman/dp/030746363X/"
         }
       ]
@@ -48,6 +48,19 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Cormac_McCarthy"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Blood%20Meridian%20Cormac%20McCarthy",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/392199",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Blood Meridian",
+          "catalog_creator": "Cormac McCarthy, Marlon James"
         }
       ]
     },
@@ -96,8 +109,21 @@
           "url": "https://www.dailymotion.com/video/x612rpf"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Surely-Youre-Joking-Mr-Feynman/dp/0393355624/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Fantastic%20Mr.%20Feynman",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Fantastic%20Mr.%20Feynman",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

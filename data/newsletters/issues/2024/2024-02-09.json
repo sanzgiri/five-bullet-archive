@@ -44,6 +44,19 @@
         {
           "type": "other",
           "url": "https://tim.blog/2018/11/26/dave-elitch/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Some%20wise%20words%20from%20synth%20pioneer%20Herbie%20Hancock.",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Some%20wise%20words%20from%20synth%20pioneer%20Herbie%20Hancock.",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -61,7 +74,7 @@
           "url": "https://en.wikipedia.org/wiki/American_Fiction_(film"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/gp/video/detail/B0CPQ7GRYC/ref=atv_dp_share_cu_r"
         },
         {
@@ -85,7 +98,7 @@
           "url": "https://twitter.com/mgmstudios"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/American-Fiction-Jeffrey-Wright/dp/B0CPQ8CSST/"
         },
         {
@@ -95,6 +108,19 @@
         {
           "type": "other",
           "url": "https://youtu.be/i0MbLCpYJPA?feature=shared"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=American%20Fiction",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=American%20Fiction",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

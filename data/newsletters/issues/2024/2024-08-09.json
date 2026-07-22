@@ -27,7 +27,7 @@
           "url": "https://www.youtube.com/watch?v=dIxO88gh31w"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/75wYMQCuwgiCRt6SBzcVzu?dlsi=eee04e76aac242c9&nd=1&si=b9e6c3dab009457b"
         },
         {
@@ -56,6 +56,19 @@
         {
           "type": "other",
           "url": "https://www.tomsguide.com/entertainment/netflix/netflix-just-got-one-of-the-most-inspiring-documentaries-of-the-year-and-its-100-on-rotten-tomatoes"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Mountain%20Queen%3A%20The%20Summits%20of%20Lhakpa%20Sherpa",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Mountain%20Queen%3A%20The%20Summits%20of%20Lhakpa%20Sherpa",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

@@ -44,6 +44,11 @@
         {
           "type": "other",
           "url": "https://tim.blog/2019/01/17/peter-mallouk/"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Awareness%3A%20The%20Perils%20and%20Opportunities%20of%20Reality",
+          "search_fallback": true
         }
       ]
     },

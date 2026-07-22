@@ -46,7 +46,7 @@
           "url": "https://www.youtube.com/watch?v=txaNbo-__xc"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/3zNUKKD6iFpxA1x3cavlDH?si=FQjh_KhFQb-fz4GOsX292w"
         },
         {
@@ -116,7 +116,7 @@
           "url": "https://podcasts.apple.com/us/podcast/dune-the-deeper-dimension/id928730843?i=1000492219763"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/6AH1uz3RUGeSb0qmLFc7j3?si=kYy-AIhXRESvIYztB8EFaw"
         },
         {
@@ -139,7 +139,7 @@
           "url": "https://en.wikipedia.org/wiki/Mary_Oliver"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Upstream-Selected-Essays-Mary-Oliver/dp/0143130080/"
         },
         {

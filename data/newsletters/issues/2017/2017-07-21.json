@@ -52,6 +52,16 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/qdurox544u7h44nk5/ly60ym/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1RpbUZlcnJpc3MvcG9zdHMvMTAxNTU1NjEyNjI0NzcyNDE="
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Who%20are%20the%20most%20impressive%20people",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Who%20are%20the%20most%20impressive%20people",
+          "search_fallback": true
         }
       ]
     },
@@ -67,6 +77,16 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/qdurox544u7h44nk5/gykm1o/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=send%20a%20tweet%20to%20%40tferriss",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=send%20a%20tweet%20to%20%40tferriss",
+          "search_fallback": true
         }
       ]
     }

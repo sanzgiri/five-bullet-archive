@@ -63,6 +63,19 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/lmun74z88amh4nd3n/60aeh8/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1mWUJCaVFEbU5EWQ=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Mandarin%20VS%20Cantonese%20%7C%20Learn%20Chinese%20Now",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Mandarin%20VS%20Cantonese%20%7C%20Learn%20Chinese%20Now",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

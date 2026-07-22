@@ -23,7 +23,7 @@
           "url": "https://www.amazon.com/Charger-Anker-Adapter-Foldable-Compact/dp/B08T5QN2TR/ref=sr_1_3?dchild=1&keywords=nano+ii+65w&qid=1634845499&sr=8-3"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Charger-Anker-Adapter-Foldable-Compact/dp/B08T5QN2TR/ref=sr_1_3?dchild=1&keywords=nano+ii+65w&qid=1634845499&sr=8-3"
         },
         {
@@ -79,6 +79,16 @@
         {
           "type": "other",
           "url": "https://dojoartbooks.com/heaven/"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Heaven",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Heaven",
+          "search_fallback": true
         }
       ]
     },
@@ -100,7 +110,7 @@
           "url": "https://podcasts.apple.com/us/podcast/my-husband-is-going-broke-but-he-wont-let-me-help/id1577864998?i=1000531179672"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/4KC9ceesQPNfuezZJUoyHO?si=agivcuZ9RtCSAImCI2osNg&dl_branch=1"
         },
         {

@@ -34,6 +34,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/channel/UCN8JqVWsdgVx3svFEMWI85Q"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=WING%20-%20Dopamine%20(Official%20Video)%20(BEATBOX)",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=WING%20-%20Dopamine%20(Official%20Video)%20(BEATBOX)",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -88,6 +101,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=s2v2bCS64Q4"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Gene%3A%20An%20Intimate%20History",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Gene%3A%20An%20Intimate%20History",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -140,7 +166,7 @@
           "url": "https://tim.blog/2022/03/30/susan-cain-bittersweet/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Quiet-Journal-Discover-Strengths-Unleash/dp/059313592X/?tag=offsitoftimfe-20"
         },
         {

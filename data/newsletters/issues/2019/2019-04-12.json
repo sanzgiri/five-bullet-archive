@@ -21,6 +21,19 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=R3OcY37GOAA&feature=youtu.be"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Madness%20of%20Steve%20Jobs%2C%20Told%20by%20Steve%20Wozniak",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Madness%20of%20Steve%20Jobs%2C%20Told%20by%20Steve%20Wozniak",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -71,6 +84,11 @@
         {
           "type": "other",
           "url": "https://twitter.com/ishmaelbeah"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Moth%20Presents%20All%20These%20Wonders%3A%20True%20Stories%20About%20Facing%20the%20Unknown",
+          "search_fallback": true
         }
       ]
     },

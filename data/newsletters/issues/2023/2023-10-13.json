@@ -29,6 +29,19 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Polyphia"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Playing%20God%2C%20Unplugged",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Playing%20God%2C%20Unplugged",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -63,6 +76,19 @@
         {
           "type": "other",
           "url": "https://lexfridman.com/podcast/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Mark%20Zuckerberg%3A%20First%20Interview%20in%20the%20Metaverse",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Mark%20Zuckerberg%3A%20First%20Interview%20in%20the%20Metaverse",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -84,7 +110,7 @@
           "url": "https://www.intelligentchange.com/products/the-five-minute-journal"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Intelligent-Change-Mindfulness-Reflection-Affirmations/dp/0991846206/?th=1"
         },
         {

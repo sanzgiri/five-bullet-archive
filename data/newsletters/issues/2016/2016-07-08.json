@@ -82,6 +82,16 @@
         {
           "type": "original",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=w2N&mc=e&s=bomwH&u=w&y=v&"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=this%20cute%20virtual%20reality%20we%20live%20in.",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=this%20cute%20virtual%20reality%20we%20live%20in.",
+          "search_fallback": true
         }
       ]
     },

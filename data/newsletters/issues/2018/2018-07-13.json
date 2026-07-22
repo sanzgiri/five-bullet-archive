@@ -55,6 +55,11 @@
         {
           "type": "other",
           "url": "https://tim.blog/2018/05/06/michael-pollan-how-to-change-your-mind/"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/Sel%20Smadj",
+          "search_fallback": true
         }
       ]
     },

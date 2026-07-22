@@ -25,6 +25,19 @@
         {
           "type": "other",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wil&mc=e&s=bomwH&u=w&y=i&"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Billions",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Billions",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -78,6 +91,16 @@
         {
           "type": "original",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wip&mc=e&s=bomwH&u=w&y=K&"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=a%20greater%20sin%20than%20wasting%20time",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=a%20greater%20sin%20than%20wasting%20time",
+          "search_fallback": true
         }
       ]
     },

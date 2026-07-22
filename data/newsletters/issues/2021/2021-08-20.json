@@ -39,8 +39,13 @@
           "url": "https://twitter.com/brentrobison?lang=en"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/dp/B087NMBX12/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Other%20Face%3A%20Experiencing%20the%20Mask",
+          "search_fallback": true
         }
       ]
     },
@@ -70,7 +75,7 @@
           "url": "https://podcasts.apple.com/us/podcast/hans-zimmer-scores/id472939437?i=1000519981196"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/7CfLrwDZzumOINfLytbAQA"
         },
         {
@@ -94,7 +99,7 @@
           "url": "https://podcasts.apple.com/gb/podcast/quentin-tarantino-07-28-21/id814550071?i=1000530253765"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/0JjqEYY0P2muK5OtUjifEB"
         },
         {
@@ -141,12 +146,25 @@
           "url": "https://tim.blog/2021/07/09/anne-lamott/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016/ref=sr_1_1?dchild=1&keywords=bird+by+bird&qid=1629178899&sr=8-1"
         },
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=Dl2XJkwvMrc"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Bird%20by%20Bird%20with%20Annie",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Bird%20by%20Bird%20with%20Annie",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -174,6 +192,19 @@
         {
           "type": "other",
           "url": "https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Dreams%20from%20endangered%20cultures%20Wade%20Davis)",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Dreams%20from%20endangered%20cultures%20Wade%20Davis)",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

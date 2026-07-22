@@ -59,6 +59,11 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=6oremFnbgO0"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/Sam%20Maher%20-%20New%20York%20Handpan%2001",
+          "search_fallback": true
         }
       ]
     },

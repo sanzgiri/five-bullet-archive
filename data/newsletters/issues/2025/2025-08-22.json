@@ -65,19 +65,19 @@
           "url": "https://en.wikipedia.org/wiki/Roald_Dahl"
         },
         {
-          "type": "other",
+          "type": "audible",
           "url": "https://www.audible.com/search?creativeId=0d6f6720-f41c-457e-a42b-8c8dceb62f2c&pageLoadId=JCiPndDNMBFnDVK6&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=5JKCZDTA1MTK2RTDEHPG&plink=aBkSnUOoyF18RNH5&ref=a_search_c3_lNarrator_1_1_1&ref_pageloadid=not_applicable&searchNarrator=Douglas%20Hodge"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi-ebook/dp/B00XSSYR50?ref_=ast_author_mpb"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Willy-Wonka-Chocolate-Factory-Wilder/dp/B002YNGNG6/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/BFG-Theatrical-Version-Mark-Rylance/dp/B01HQUVBUE/"
         },
         {
@@ -85,8 +85,21 @@
           "url": "https://www.primevideo.com/dp/amzn1.dv.gti.2eb7db51-193c-6a68-6035-b612d0650419?autoplay=0&ref_=atv_cf_strg_wb"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/gp/video/detail/B00BUUL4SG/ref=atv_sr_fle_c_sr4e8ffb_1_1_1?pageTypeId=B00378VGGO&pageTypeIdSource=ASIN&qid=1755906318545&sr=1-1"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Charlie%20and%20the%20Chocolate%20Factory%20Roald%20Dahl%2C%20read%20by%20Douglas%20Hodge",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/1322536",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Charlie and the Chocolate Factory",
+          "catalog_creator": "Roald Dahl, Douglas Hodge"
         }
       ]
     },
@@ -106,6 +119,11 @@
         {
           "type": "other",
           "url": "https://archive.is/OiSlu"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/Why%20Mitochondria%20Are%20More%20Like%20a%20Motherboard%20Than%20the%20Powerhouse%20of%20the%20Cell",
+          "search_fallback": true
         }
       ]
     },
@@ -146,8 +164,13 @@
           "url": "https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/#averageCustomerReviewsAnchor"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/#averageCustomerReviewsAnchor"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=COYOTE",
+          "search_fallback": true
         }
       ]
     },
@@ -165,7 +188,7 @@
           "url": "https://tim.blog/2021/07/21/dennis-mckenna/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Brotherhood-Screaming-Abyss-Terrence-McKenna/dp/1957869011/"
         },
         {
@@ -179,6 +202,11 @@
         {
           "type": "other",
           "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Dennis%20McKenna",
+          "search_fallback": true
         }
       ]
     }

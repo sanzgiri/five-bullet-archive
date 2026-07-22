@@ -26,6 +26,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h07opxh9/zefghnhko53g8m/aHR0cHM6Ly90aW0uYmxvZy8yMDE0LzA4LzI5L2tldmluLWtlbGx5Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20King%20of%20Kong",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20King%20of%20Kong",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -68,6 +81,19 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h07opxh9/59bvh7hn53me9o/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1fLWthaWJfclhUUQ=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Jim%20Carrey%20Motivational%20Video%20%E2%80%94%20WHO%20IS%20THE%20REAL%20YOU%3F",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Jim%20Carrey%20Motivational%20Video%20%E2%80%94%20WHO%20IS%20THE%20REAL%20YOU%3F",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

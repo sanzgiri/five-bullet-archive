@@ -50,7 +50,7 @@
           "url": "https://www.instagram.com/im_greyboy/"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/artist/4IvnZ6XfHh6cOx8DIk1SOS"
         },
         {
@@ -71,6 +71,11 @@
         {
           "type": "original",
           "url": "https://www.ucsf.edu/news/2024/01/426926/could-drug-prevent-hearing-loss-loud-music-and-aging"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/Could%20a%20Drug%20Prevent%20Hearing%20Loss%20from%20Loud%20Music%20and%20Aging%3F",
+          "search_fallback": true
         }
       ]
     },

@@ -48,6 +48,19 @@
         {
           "type": "other",
           "url": "https://twitter.com/johannhari101"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Everything%20you%20think%20you%20know%20about%20addiction%20is%20wrong",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Everything%20you%20think%20you%20know%20about%20addiction%20is%20wrong",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

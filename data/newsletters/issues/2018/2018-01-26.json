@@ -25,6 +25,21 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/92unw45ooanhx2d06/opfkhq/aHR0cHM6Ly90d2l0dGVyLmNvbS9zdGV2ZW5fa290bGVy"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Stealing%20Fire%3A%20How%20Silicon%20Valley%2C%20the%20Navy%20SEALs%2C%20and%20Maverick%20Scientists%20Are%20Revolutionizing%20the%20Way%20We%20Live%20and%20Work",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Stealing%20Fire%3A%20How%20Silicon%20Valley%2C%20the%20Navy%20SEALs%2C%20and%20Maverick%20Scientists%20Are%20Revolutionizing%20the%20Way%20We%20Live%20and%20Work",
+          "search_fallback": true
+        },
+        {
+          "type": "audible",
+          "url": "https://www.audible.com/search?keywords=Stealing%20Fire%3A%20How%20Silicon%20Valley%2C%20the%20Navy%20SEALs%2C%20and%20Maverick%20Scientists%20Are%20Revolutionizing%20the%20Way%20We%20Live%20and%20Work",
+          "search_fallback": true
         }
       ]
     },
@@ -48,6 +63,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/92unw45ooanhx2d06/xksph6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9kcC9CMDAzWEMxT1Ay"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Shape%20of%20Water.",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Shape%20of%20Water.",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

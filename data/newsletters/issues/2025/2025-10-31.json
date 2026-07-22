@@ -51,7 +51,7 @@
           "url": "https://x.com/tferriss/status/1592547686049251328"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
         },
         {
@@ -80,6 +80,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=PrcQRsrBcCk"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=John%20Candy%3A%20I%20Like%20Me",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=John%20Candy%3A%20I%20Like%20Me",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -126,6 +139,19 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/360-degree_feedback"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=What%20Got%20You%20Here%20Won't%20Get%20You%20There%20Marshall%20Goldsmith",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/1393923",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "What Got You Here Won't Get You There",
+          "catalog_creator": "Marshall Goldsmith, Mark Reiter"
         }
       ]
     },
@@ -143,7 +169,7 @@
           "url": "https://tim.blog/2020/11/11/mary-karr/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Art-Memoir-Mary-Karr/dp/0062223070/"
         },
         {
@@ -159,7 +185,7 @@
           "url": "https://tim.blog/the-4-hour-chef-coffee-top-gear/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
         },
         {

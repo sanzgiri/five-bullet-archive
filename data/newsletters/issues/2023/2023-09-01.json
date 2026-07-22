@@ -27,7 +27,7 @@
           "url": "https://youtu.be/ATVaPK5bz9A?si=jh9RtuEGJ3w4q8oF"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/1iNpP6yYax94B4eADEW3Qx?si=QfLK5KYfSRyhL1IKTu2MSQ&nd=1"
         },
         {
@@ -66,7 +66,7 @@
           "url": "https://uwaterloo.ca/kinesiology-health-sciences/people-profiles/stuart-mcgill"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Low-Back-Disorders-Evidence-Based-Rehabilitation/dp/1450472915/"
         },
         {
@@ -126,6 +126,19 @@
         {
           "type": "original",
           "url": "https://www.amazon.com/Barkley-Marathons-Race-That-Young/dp/B017Y43P3S/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Barkley%20Marathons%3A%20The%20Race%20That%20Eats%20Its%20Young",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Barkley%20Marathons%3A%20The%20Race%20That%20Eats%20Its%20Young",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

@@ -27,7 +27,7 @@
           "url": "https://www.youtube.com/watch?v=ajumGgUOuvk"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/0c0JQue8R16oT72mDIPmFk"
         },
         {
@@ -106,6 +106,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=uWA7GtDmNFU"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Grizzly%20Man",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Grizzly%20Man",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

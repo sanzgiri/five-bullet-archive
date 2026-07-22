@@ -33,6 +33,19 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Michael_Caine"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Sir%20Michael%20Caine",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Sir%20Michael%20Caine",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -58,7 +71,7 @@
           "url": "https://www.instagram.com/pia.guerra/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Saga-Compendium-Brian-K-Vaughan/dp/153431346X/"
         },
         {
@@ -68,6 +81,11 @@
         {
           "type": "other",
           "url": "https://imagecomics.com/creators/fonografiks"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Y%3A%20The%20Last%20Man",
+          "search_fallback": true
         }
       ]
     },

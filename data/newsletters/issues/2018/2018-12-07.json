@@ -40,6 +40,19 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/wvunxemrragh3e5n9/mot7h5h5depnk/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9QaWNrLUxpdHRlci1QYXRyaW90L2RwL0IwN0dWVjYzOEYv"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Pick%20of%20the%20Litter",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Pick%20of%20the%20Litter",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

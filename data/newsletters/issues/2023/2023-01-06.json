@@ -56,6 +56,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=rKftGmjdZ7w"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Carlos%20Ghosn%3A%20The%20Last%20Flight",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Carlos%20Ghosn%3A%20The%20Last%20Flight",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -73,7 +86,7 @@
           "url": "https://open.spotify.com/episode/5812HBPa5ldHupyMR7Ww27"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/show/5c26B28vZMN8PG0Nppmn5G"
         },
         {
@@ -100,7 +113,7 @@
           "url": "https://open.spotify.com/track/0R45MxIs2TvU9gBIPBOBJ2?si=ebf40be920684ce7&nd=1"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/0R45MxIs2TvU9gBIPBOBJ2?si=ebf40be920684ce7&nd=1"
         },
         {

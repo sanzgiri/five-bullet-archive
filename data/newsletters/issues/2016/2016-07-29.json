@@ -82,6 +82,16 @@
         {
           "type": "other",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wWZ&mc=e&s=bomwH&u=w&y=q&"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Totally%20loved%20the%20new%20doc",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Totally%20loved%20the%20new%20doc",
+          "search_fallback": true
         }
       ]
     },

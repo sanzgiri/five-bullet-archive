@@ -80,6 +80,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=_62BeXxd_jo"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Derek%20DelGaudio%E2%80%99s%20In%20%26%20Of%20Itself",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Derek%20DelGaudio%E2%80%99s%20In%20%26%20Of%20Itself",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -99,6 +112,19 @@
         {
           "type": "other",
           "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Mollii%20helps%20Kevin%20who%20suffers%20Parkinsonism%2Fidiopathic%20tremor",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Mollii%20helps%20Kevin%20who%20suffers%20Parkinsonism%2Fidiopathic%20tremor",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

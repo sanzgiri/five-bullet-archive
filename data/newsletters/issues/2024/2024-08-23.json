@@ -50,7 +50,7 @@
           "url": "https://youtu.be/WA9gVKKPsBo?si=-dJHjiRZgOyZxQLd"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/4vDoTt5PGlSaVavqoBHHQT?si=m96h41gIQrq_rO2ha2ImFA"
         },
         {
@@ -83,6 +83,19 @@
         {
           "type": "other",
           "url": "https://mauinuivenison.com/pages/mission"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=%E2%80%9CBALANCE%E2%80%9D%20%7C%20A%20Maui%20Nui%20Venison%20Story",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=%E2%80%9CBALANCE%E2%80%9D%20%7C%20A%20Maui%20Nui%20Venison%20Story",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -100,7 +113,7 @@
           "url": "https://www.netflix.com/title/81024821"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Paper-Menagerie-Other-Stories/dp/148142436X/"
         },
         {
@@ -128,8 +141,21 @@
           "url": "https://tim.blog/2007/09/20/how-to-resurrect-your-high-school-spanish-or-any-language-plus-be-on-the-cbs-early-show/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/0547884591/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=3%20Body%20Problem",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=3%20Body%20Problem",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -151,7 +177,7 @@
           "url": "https://podcasts.apple.com/us/podcast/the-tim-ferriss-show/id863897795"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM"
         }
       ]

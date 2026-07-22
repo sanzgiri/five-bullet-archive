@@ -34,6 +34,19 @@
         {
           "type": "other",
           "url": "https://el2.convertkit-mail2.com/c/5qu8lqg33u7h5g97m/6mceh8h5vmk0l6/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzA5LzA5L2RhcnJlbi1hcm9ub2Zza3kvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=One%20Strange%20Rock",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=One%20Strange%20Rock",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

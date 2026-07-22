@@ -30,6 +30,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=eCp6ixlzyh0"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Deep%20Future%3A%20Creating%20Technology%20That%20Matters%20Pablos%20Holman",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/11826711",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Deep Future",
+          "catalog_creator": "Pablos Holman"
         }
       ]
     },
@@ -55,7 +68,7 @@
           "url": "https://podcasts.apple.com/us/podcast/our-thing-with-sammy-the-bull/id1544812283"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/show/4GgmXTOhbNe1xBYkWTBKVz"
         },
         {
@@ -96,6 +109,11 @@
         {
           "type": "other",
           "url": "https://www.psychedelicchallenges.org/"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/Some%20people%20struggle%20after%20psychedelics.%20A%20new%20study%20wants%20to%20help.",
+          "search_fallback": true
         }
       ]
     },
@@ -113,12 +131,17 @@
           "url": "https://forms.gle/EFcc9C4PuGH8MMKS7"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/ref=sr_1_5?crid=2Z41985ITFLYY&dib=eyJ2IjoiMSJ9.vUHW0nkEDYw3ajjbBTMfwEedCPlVY2iwxegFRxjCiESZWCetq1hIiZbaQdmA6wJcqNlnTqDmmdFLq-W1KcYPUjHwuMtHrL59ZCW8l5unV0tovJYaXRc7Mn8KCHHY7JbyZwz4Z607CUnhoRgon_rbsuJ49dT5HdCgZx3MkQvYCbX-75Z2G7Ohw59HXnu_62jYoHxcdZ0gnBsImmkAa7wa1TP9Rl7b1T5iSGx2Mx4IO1T_FhyXahxneH5D7GDOnxWkSSOzC6p_NW3EHD0kiVuQc6j7VU6jMhi3k_Vp0lbu9mA.LBLECOGNnVjzA8hkXs8zsx9lhGazwHWlWblc4HzonvU&dib_tag=se&keywords=coyote%20exploding%20kittens&qid=1753101145&sprefix=coyote%20exploding%2Caps%2C103&sr=8-5#averageCustomerReviewsAnchor"
         },
         {
           "type": "other",
           "url": "https://forms.gle/EFcc9C4PuGH8MMKS7"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=If%20you%20haven%E2%80%99t%20bought%20a%20copy%20of%20COYOTE%2C%20why%20haven%E2%80%99t%20you",
+          "search_fallback": true
         }
       ]
     },

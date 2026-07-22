@@ -95,6 +95,19 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/giulifungi/?hl=en"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Let%20Things%20Rot",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Let%20Things%20Rot",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -126,6 +139,19 @@
         {
           "type": "other",
           "url": "https://twitter.com/markduplass"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Language%20Lessons",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Language%20Lessons",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -143,7 +169,7 @@
           "url": "https://open.spotify.com/episode/1rzbM5eYENDdqAb4yQM3Yk?si=4yfWIaavSQSF3q27fpg4QQ&dl_branch=1"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/1rzbM5eYENDdqAb4yQM3Yk?si=KQpQelyXQ-2_ewogb-gXbA&context=spotify%3Aepisode%3A1rzbM5eYENDdqAb4yQM3Yk&t=352&dl_branch=1"
         },
         {
@@ -151,7 +177,7 @@
           "url": "https://bakkeconsolidated.org/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Grid-Fraying-Between-Americans-Energy/dp/1632865688/"
         }
       ]

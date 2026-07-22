@@ -69,16 +69,29 @@
           "url": "https://www.amazon.com/Icahn-Restless-Billionaire-Carl/dp/B0B8P6G1KB/"
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.max.com/movies/icahn-the-restless-billionaire/7c5e9465-6610-4353-9511-b5b083a7a5d9"
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.hulu.com/movie/icahn-the-restless-billionaire-428bf3da-847c-4e31-8e06-501771a4e2ea?entity_id=428bf3da-847c-4e31-8e06-501771a4e2ea"
         },
         {
           "type": "other",
           "url": "https://youtu.be/dVMo49zKwUI?si=sEjvrLYNS-Fsb7Qn"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Icahn%3A%20The%20Restless%20Billionaire",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Icahn%3A%20The%20Restless%20Billionaire",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -96,11 +109,11 @@
           "url": "https://en.wikipedia.org/wiki/Washington_Irving"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Legend-Sleepy-Hollow-Other-Stories/dp/037575721X/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Legend-Sleepy-Hollow-Other-Stories/dp/037575721X/"
         }
       ]
@@ -119,7 +132,7 @@
           "url": "https://en.wikipedia.org/wiki/T._S._Eliot"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Use-Poetry-Criticism-Relation-Lectures/dp/0674931505"
         },
         {

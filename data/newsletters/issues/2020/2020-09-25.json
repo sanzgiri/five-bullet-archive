@@ -55,7 +55,7 @@
           "url": "https://youtu.be/fNH4S22Ijao?t=1"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/gp/product/B074DSJLLY/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1"
         }
       ]
@@ -94,12 +94,25 @@
           "url": "https://www.wernerherzog.com/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Fitzcarraldo-Klaus-Kinski/dp/B07CJ65V9T/"
         },
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Les_Blank"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Amazon",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Amazon",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -117,7 +130,7 @@
           "url": "https://open.spotify.com/track/6U8IWJDdiHP4PehqHeWFIt"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/6U8IWJDdiHP4PehqHeWFIt"
         },
         {

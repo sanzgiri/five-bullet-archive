@@ -22,6 +22,19 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h0wg28/e9iph7hllwog5z/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9QcmVzc3VyZS1Db29rZXItV2lsbWEtU3RlcGhlbnNvbi9kcC9CMDExUlpQMVFF"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Pressure%20Cooker",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Pressure%20Cooker",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

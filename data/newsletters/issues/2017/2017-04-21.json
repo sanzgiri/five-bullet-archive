@@ -55,6 +55,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hgv4og/e1pnyl/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1FUkZFbGJDQlQ5MA=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Eagle%20Huntress",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Eagle%20Huntress",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -74,6 +87,16 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hgv4og/ly60ym/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9rYXNpdGEv"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=tiny%20home",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=tiny%20home",
+          "search_fallback": true
         }
       ]
     },

@@ -33,6 +33,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/k0udre388b6h98ndm/w6c2hgh5kxozzr/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9SZWQtQXJteS1TY290dHktQm93bWFuL2RwL0IwMFhXVFhZSks="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=In%20Search%20of%20Greatness",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=In%20Search%20of%20Greatness",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -75,6 +88,16 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/k0udre388b6h98ndm/ozukhqhk6g8zz5/aHR0cHM6Ly90aW0uYmxvZy8yMDE5LzAxLzE3L3BldGVyLW1hbGxvdWsvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg=="
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Awareness%3A%20The%20Perils%20and%20Opportunities%20of%20Reality",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Awareness%3A%20The%20Perils%20and%20Opportunities%20of%20Reality",
+          "search_fallback": true
         }
       ]
     },

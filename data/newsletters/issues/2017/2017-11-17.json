@@ -59,6 +59,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/68u8wxgppu8h5m07g/xksph6/aHR0cHM6Ly90d2l0dGVyLmNvbS9yb2RyaWd1ZXo="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Director's%20Chair%3A%20Sylvester%20Stallone%20-%20Full%20Episode",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Director's%20Chair%3A%20Sylvester%20Stallone%20-%20Full%20Episode",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

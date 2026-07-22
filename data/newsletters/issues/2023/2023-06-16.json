@@ -66,7 +66,7 @@
           "url": "https://en.wikipedia.org/wiki/George_Newbern"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/gp/product/0135560934?ref_=dbs_m_mng_rwt_calw_thcv_0&storeType=ebooks"
         }
       ]
@@ -95,6 +95,19 @@
         {
           "type": "other",
           "url": "https://tim.blog/2014/08/12/ed-catmull/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Drawing%20on%20the%20Right%20Side%20of%20the%20Brain%20Betty%20Edwards",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/630822",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Drawing on the Right Side of the Brain",
+          "catalog_creator": "Betty Edwards"
         }
       ]
     },
@@ -118,6 +131,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=d_Z_tybgPgg"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Wolfwalkers",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Wolfwalkers",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

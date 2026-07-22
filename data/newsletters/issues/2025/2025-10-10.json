@@ -216,6 +216,11 @@
         {
           "type": "other",
           "url": "https://te.sparkloop.app/click/team_ca67a1a3a4/92140966/NO"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=How%20to%20Stop%20Worrying%20and%20Start%20Living%20Dale%20Carnegie%20*%20*%20*%20Have%20a%20wonderful%20weekend%2C%20all",
+          "search_fallback": true
         }
       ]
     }

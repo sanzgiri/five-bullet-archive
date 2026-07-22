@@ -73,6 +73,19 @@
         {
           "type": "other",
           "url": "https://el2.convertkit-mail.com/c/e5ux264rrb7h7kl78i6/67beh8hw8drp86/aHR0cHM6Ly93d3cucmVjb21lbmRvLmNvbS8="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Amazing%20Uzbek%20Food%20in%20Samarkand%20-%20GIANT%2021%20METER%20Kebab%20Grill%20%2B%20Ancient%20Uzbekistan!%20Mark%20Wiens",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Amazing%20Uzbek%20Food%20in%20Samarkand%20-%20GIANT%2021%20METER%20Kebab%20Grill%20%2B%20Ancient%20Uzbekistan!%20Mark%20Wiens",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

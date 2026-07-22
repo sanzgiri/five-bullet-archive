@@ -29,6 +29,19 @@
         {
           "type": "other",
           "url": "https://youtu.be/Joyk_EMtzn0"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Remember%20Shakti%3A%20Bell%E2%80%99Alla%20prt%202",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Remember%20Shakti%3A%20Bell%E2%80%99Alla%20prt%202",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -58,12 +71,25 @@
           "url": "https://tim.blog/2021/07/09/anne-lamott/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016/"
         },
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=Dl2XJkwvMrc"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Bird%20by%20Bird%20with%20Annie",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Bird%20by%20Bird%20with%20Annie",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -112,7 +138,7 @@
           "url": "https://music.apple.com/us/album/la-descarri%C3%A1-uji-remix/1568172210?i=1568172212"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/1iNpP6yYax94B4eADEW3Qx?si=QfLK5KYfSRyhL1IKTu2MSQ&nd=1"
         },
         {

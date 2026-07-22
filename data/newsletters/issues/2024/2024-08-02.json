@@ -21,6 +21,19 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=WebsjShV0ZA"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Moth%20Presents%20%E2%80%94%20Stephanie%20Peirolo%3A%20Walking%20with%20RJ",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Moth%20Presents%20%E2%80%94%20Stephanie%20Peirolo%3A%20Walking%20with%20RJ",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -36,6 +49,19 @@
         {
           "type": "original",
           "url": "https://www.amazon.com/The-Heros-Adventure/dp/B07BC2VHHJ/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Joseph%20Campbell%20and%20the%20Power%20of%20Myth%20with%20Bill%20Moyers",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Joseph%20Campbell%20and%20the%20Power%20of%20Myth%20with%20Bill%20Moyers",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -61,28 +87,33 @@
           "url": "https://twitter.com/KanShoReynolds"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Enders-Game-Special-20th-Anniversary/dp/B00006JMD2/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Dune-Deluxe-Frank-Herbert-dp-059309932X/dp/059309932X/ref=dp_ob_title_bk"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Braveheart-Mel-Gibson/dp/B000HX4ZF6/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Man-Fire-Christopher-Walken/dp/B001GY0FE0/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Gladiator-Russell-Crowe/dp/B0CLDB9DMM/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Taken-Liam-Neeson/dp/B009EEHVA0/"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Red%20Rising%20Pierce%20Brown%2C%20narrated%20by%20Tim%20Gerard%20Reynolds",
+          "search_fallback": true
         }
       ]
     },
@@ -131,7 +162,7 @@
           "url": "https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680/"
         },
         {

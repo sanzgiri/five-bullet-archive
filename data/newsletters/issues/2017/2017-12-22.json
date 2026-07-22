@@ -48,6 +48,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hk4owv/xksph6/aHR0cHM6Ly90aW0uYmxvZy8yMDE0LzA4LzI5L2tldmluLWtlbGx5Lw=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Living%20On%20One%20Dollar",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Living%20On%20One%20Dollar",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

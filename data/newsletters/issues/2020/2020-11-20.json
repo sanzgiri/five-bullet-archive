@@ -45,6 +45,19 @@
         {
           "type": "original",
           "url": "https://youtu.be/8HLEr-zP3fc"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Alive%20Inside%3A%20A%20Story%20of%20Music%20%26%20Memory",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Alive%20Inside%3A%20A%20Story%20of%20Music%20%26%20Memory",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -72,6 +85,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=XRrIs22plz0"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Crip%20Camp%3A%20A%20Disability%20Revolution",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Crip%20Camp%3A%20A%20Disability%20Revolution",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

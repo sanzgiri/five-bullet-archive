@@ -44,6 +44,19 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/James_Fenimore_Cooper"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Last%20of%20the%20Mohicans%3A%20A%20Narrative%20of%201757%20James%20Fenimore%20Cooper",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/784995",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "The Last of the Mohicans",
+          "catalog_creator": "James Fenimore Cooper"
         }
       ]
     },
@@ -65,7 +78,7 @@
           "url": "https://www.youtube.com/watch?v=RuA4vuBp344"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/1AolHkT2QxjfORIgO74vmi"
         },
         {

@@ -53,6 +53,19 @@
         {
           "type": "other",
           "url": "https://el2.convertkit-mail.com/c/92unw45ooanhpzn8gsg/z5aghnhkzl4g9r/aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQ3JIUm9PenJNUmw2OHVUeUJpZDl2bHc="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Spirited%20Away%20in%20Minecraft%20Tour",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Spirited%20Away%20in%20Minecraft%20Tour",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

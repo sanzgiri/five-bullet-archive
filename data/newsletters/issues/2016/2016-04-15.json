@@ -29,6 +29,19 @@
         {
           "type": "other",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wOU&mc=e&s=bomwH&u=w&y=y&"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Fog%20of%20War",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Fog%20of%20War",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -67,6 +80,16 @@
         {
           "type": "original",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=waw&mc=e&s=bomwH&u=w&y=Z&"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=The%20Most%20Important%20Skill%20to%20Teach%20Your%20Dog",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Most%20Important%20Skill%20to%20Teach%20Your%20Dog",
+          "search_fallback": true
         }
       ]
     },
@@ -86,6 +109,11 @@
         {
           "type": "other",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wae&mc=e&s=bomwH&u=w&y=x&"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/45%20Shinedown",
+          "search_fallback": true
         }
       ]
     },

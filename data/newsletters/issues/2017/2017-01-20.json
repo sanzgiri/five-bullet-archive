@@ -25,6 +25,16 @@
         {
           "type": "other",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=d7j&mc=e&s=bomwH&u=w&y=m&"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=The%20Tale%20of%20the%20Unknown%20Island",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Tale%20of%20the%20Unknown%20Island",
+          "search_fallback": true
         }
       ]
     },
@@ -82,6 +92,16 @@
         {
           "type": "original",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=d75&mc=e&s=bomwH&u=w&y=7&"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=The%20more%20voluntary%20suffering%20you%20build%20into%20your%20life%2C%20the%20less%20involuntary%20suffering%20will%20affect%20your%20life.%E2%80%AC",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20more%20voluntary%20suffering%20you%20build%20into%20your%20life%2C%20the%20less%20involuntary%20suffering%20will%20affect%20your%20life.%E2%80%AC",
+          "search_fallback": true
         }
       ]
     },

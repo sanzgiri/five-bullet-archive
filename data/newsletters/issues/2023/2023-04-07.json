@@ -21,6 +21,19 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=QHi479xN_po"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Michael%20Jackson%20on%20Fire%20Diorama",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Michael%20Jackson%20on%20Fire%20Diorama",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -123,7 +136,7 @@
           "url": "https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Miracle-Mindfulness-Introduction-Practice-Meditation/dp/0807012394/"
         },
         {

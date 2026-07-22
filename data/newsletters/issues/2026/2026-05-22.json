@@ -22,6 +22,11 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=eqmWkqh1kt8"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/Ya%20Habibi%20Ta%E2%80%99ala%20-%20%D9%8A%D8%A7%20%D8%AD%D8%A8%D9%8A%D8%A8%D9%8A%20%D8%AA%D8%B9%D8%A7%D9%84%D9%8E%20-%20Lynn%20Adib%20%26%20Zeid%20Hamdan",
+          "search_fallback": true
         }
       ]
     },
@@ -73,7 +78,7 @@
           "url": "https://www.brodo.com/product/brodo-starter-box/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/?tag=offsitoftimfe-20"
         },
         {

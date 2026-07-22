@@ -46,7 +46,7 @@
           "url": "https://www.amazon.com/gp/product/B07VK1GBM5/ref=pv_ag_gcf?cmp=rt_where_to_watch"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/gp/product/B07VK1GBM5/ref=pv_ag_gcf?cmp=rt_where_to_watch"
         },
         {
@@ -66,7 +66,7 @@
           "url": "https://www.cnn.com/specials/app-style-section/larry-king-interviews"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
         },
         {
@@ -80,6 +80,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=dDSq2fF9flk"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Mike%20Wallace%20Is%20Here",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Mike%20Wallace%20Is%20Here",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

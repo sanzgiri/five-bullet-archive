@@ -23,7 +23,7 @@
           "url": "https://www.amazon.com/Six-Thinking-Hats-Edward-Bono/dp/0316178314/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Lateral-Thinking-Creativity-Step/dp/0060903252/"
         },
         {
@@ -82,12 +82,25 @@
           "url": "https://www.instagram.com/tylerjacobsonart/"
         },
         {
-          "type": "other",
+          "type": "audible",
           "url": "https://www.audible.com/search?searchNarrator=Steven+Pacey"
         },
         {
-          "type": "other",
+          "type": "audible",
           "url": "https://www.audible.com/pd/Before-They-Are-Hanged-Audiobook/B014LL69TO"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Blade%20Itself%20Joe%20Abercrombie",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/2381579",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "The Blade Itself",
+          "catalog_creator": "Joe Abercrombie, Steven Pacey"
         }
       ]
     },
@@ -126,6 +139,19 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=EHK5fBm1YWk"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Timoth%C3%A9e%20Chalamet%20replaced%20by%20Elmo%20in%20Dune",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Timoth%C3%A9e%20Chalamet%20replaced%20by%20Elmo%20in%20Dune",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

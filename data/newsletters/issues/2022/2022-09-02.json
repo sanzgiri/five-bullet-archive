@@ -58,7 +58,7 @@
           "url": "https://tim.blog/2017/07/12/inside-the-world-of-supertraining-mark-bell/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/s?k=prowler+sled&linkCode=sl2&linkId=ef1aa1fde3f7c1d82fa0133188f2d89e&tag=offsitoftimfe-20&ref=as_li_ss_tl"
         },
         {
@@ -85,7 +85,7 @@
           "url": "https://www.youtube.com/watch?v=2hanjM_IenU"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/6uKtine48noy5bOCSWVPzw?si=a72a2a2704d14346"
         },
         {
@@ -124,7 +124,7 @@
           "url": "https://www.amazon.com/Wont-You-Be-My-Neighbor/dp/B07FJNWQR5"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Wont-You-Be-My-Neighbor/dp/B07FJNWQR5"
         },
         {
@@ -150,6 +150,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=fKy7ljRr0AA"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Won%E2%80%99t%20You%20Be%20My%20Neighbor%3F",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Won%E2%80%99t%20You%20Be%20My%20Neighbor%3F",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

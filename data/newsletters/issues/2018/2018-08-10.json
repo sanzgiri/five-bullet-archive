@@ -25,6 +25,19 @@
         {
           "type": "other",
           "url": "https://tim.blog/2017/09/13/ray-dalio/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Lessons%20of%20History%20Will%20and%20Ariel%20Durant",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/1509264",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "The Lessons of History",
+          "catalog_creator": "Will Durant, Ariel Durant"
         }
       ]
     },

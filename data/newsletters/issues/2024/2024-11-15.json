@@ -46,7 +46,7 @@
           "url": "https://tim.blog/2024/10/30/jon-batiste/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
         },
         {
-          "type": "other",
+          "type": "spotify_album",
           "url": "https://open.spotify.com/album/3eXr4s3rCLxNJpxqaIDyqJ"
         }
       ]
@@ -78,6 +78,19 @@
         {
           "type": "original",
           "url": "https://x.com/arjunkhemani/status/1856687281513316637"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Jensen%20Huang%20got%20his%20best%20career%20advice%20from%20a%20gardener%20in%20Japan",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Jensen%20Huang%20got%20his%20best%20career%20advice%20from%20a%20gardener%20in%20Japan",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -95,7 +108,7 @@
           "url": "https://en.wikipedia.org/wiki/Werner_Herzog"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Grizzly-Man-Werner-Herzog/dp/B007K8BBHQ/"
         },
         {
@@ -103,7 +116,7 @@
           "url": "https://en.wikipedia.org/wiki/Errol_Morris"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Fog-War-Robert-McNamara/dp/B00ANTX3HA/"
         },
         {

@@ -37,6 +37,19 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/tania.raymonde/?hl=en"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Goliath",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Goliath",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -73,7 +86,7 @@
           "url": "https://open.spotify.com/track/3T9hkdRxU2pXZjNNXiSETh?si=a215477f122f4921"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/3T9hkdRxU2pXZjNNXiSETh?si=a215477f122f4921&nd=1"
         },
         {
@@ -97,11 +110,11 @@
           "url": "https://www.instagram.com/quentindujardinofficial/?hl=en"
         },
         {
-          "type": "other",
+          "type": "spotify_album",
           "url": "https://open.spotify.com/album/0CH1Jbos8zY7GX4WKAy5B3?highlight=spotify:track:3FzhN6s32SOcczLau47fLG"
         },
         {
-          "type": "other",
+          "type": "spotify_album",
           "url": "https://open.spotify.com/album/0CH1Jbos8zY7GX4WKAy5B3?highlight=spotify:track:3FzhN6s32SOcczLau47fLG"
         },
         {
@@ -202,7 +215,7 @@
           "url": "https://podcasts.apple.com/us/podcast/c%C3%B8ckpunch/id1657210471"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/show/0O9MhcUVpWSjPpMFwia1WH"
         },
         {

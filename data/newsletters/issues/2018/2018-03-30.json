@@ -55,6 +55,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7h083z9/pnceh9/aHR0cDovL21ldHJvLmNvLnVrLzIwMTgvMDMvMjEvd29tYW4tZWF0aW5nLWNhbmR5LWZsb3NzLWNvbXBldGl0aW9uLWJlc3QtdGhpbmctc2VlLWRheS03NDAzNzA1Lw=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20History%20of%20Singapore%3A%20The%20Miracle%20of%20Asia",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20History%20of%20Singapore%3A%20The%20Miracle%20of%20Asia",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

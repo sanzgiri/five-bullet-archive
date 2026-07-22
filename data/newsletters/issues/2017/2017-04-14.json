@@ -67,6 +67,16 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h3mkge/gykm1o/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1RpbUZlcnJpc3MvcG9zdHMvMTAxNTUxOTgxMDc5MjIyNDE="
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=10%20Podcasts%20That%20Will%20Make%20You%20Smarter",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=10%20Podcasts%20That%20Will%20Make%20You%20Smarter",
+          "search_fallback": true
         }
       ]
     },

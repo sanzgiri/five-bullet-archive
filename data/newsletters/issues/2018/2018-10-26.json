@@ -67,6 +67,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/gku0l36gga5hkmzxg/mmb7h5h86zdn0/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj11clJWWjRTVzdXVQ=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Free%20Solo",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Free%20Solo",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

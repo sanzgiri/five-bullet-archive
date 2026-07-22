@@ -67,6 +67,11 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/gobnh5he8oe65/aHR0cHM6Ly93d3cubGVvbmFyZGNvaGVuZmlsZXMuY29tL2tpc3Nlcy5odG1s"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/A%20Thousand%20Kisses%20Deep%20Leonard%20Cohen",
+          "search_fallback": true
         }
       ]
     },

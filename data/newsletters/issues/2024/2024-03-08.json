@@ -33,6 +33,19 @@
         {
           "type": "other",
           "url": "https://youtu.be/wKSMsdq8ONs?si=8L7ozHUDn9hnx2CO"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=American%20Symphony",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=American%20Symphony",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -54,7 +67,7 @@
           "url": "https://www.youtube.com/watch?v=Qnu0Mww49us"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/59dUayoETyz1k7thZYmYkT"
         },
         {
@@ -79,6 +92,19 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=js8OfeEL4jI"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Kobe%20Bryant%20-%20%E2%80%98Failure%20Doesn%E2%80%99t%20Exist%E2%80%99",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Kobe%20Bryant%20-%20%E2%80%98Failure%20Doesn%E2%80%99t%20Exist%E2%80%99",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

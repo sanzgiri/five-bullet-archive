@@ -83,6 +83,19 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/markus1eder/?hl=en"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Markus%20Eder%E2%80%99s%20The%20Ultimate%20Run%20-%20The%20Most%20Insane%20Ski%20Run%20Ever%20Imagined",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Markus%20Eder%E2%80%99s%20The%20Ultimate%20Run%20-%20The%20Most%20Insane%20Ski%20Run%20Ever%20Imagined",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

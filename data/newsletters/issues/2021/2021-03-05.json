@@ -25,6 +25,19 @@
         {
           "type": "other",
           "url": "https://boydvarty.com/"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Lion%20Tracker%E2%80%99s%20Guide%20to%20Life%20Boyd%20Varty",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/4489207",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "The Lion Tracker's Guide to Life",
+          "catalog_creator": "Boyd Varty"
         }
       ]
     },
@@ -56,6 +69,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=hcifoEG_Mkg"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Painter%20and%20the%20Thief",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Painter%20and%20the%20Thief",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -131,7 +157,7 @@
           "url": "https://www.youtube.com/watch?v=ATVaPK5bz9A"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/1iNpP6yYax94B4eADEW3Qx?si=QfLK5KYfSRyhL1IKTu2MSQ"
         },
         {

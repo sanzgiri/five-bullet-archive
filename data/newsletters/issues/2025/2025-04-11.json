@@ -46,7 +46,7 @@
           "url": "https://www.youtube.com/watch?v=J34esa_aJxc"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/30dIbe1zV4orwzUtria9Np"
         },
         {
@@ -77,7 +77,7 @@
           "url": "https://tim.blog/2023/09/07/nassim-nicholas-taleb-scott-patterson/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
         },
         {
-          "type": "other",
+          "type": "audible",
           "url": "https://www.audible.com/pd/What-I-Learned-Losing-a-Million-Dollars-Audiobook/B00NC8XVVC"
         },
         {
@@ -95,6 +95,19 @@
         {
           "type": "other",
           "url": "https://youtu.be/m0cJNR8HEw0?si=lCVdAUDWYkI4bJJ3"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Jodorowsky%E2%80%99s%20Dune",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Jodorowsky%E2%80%99s%20Dune",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -139,7 +152,7 @@
           "url": "https://en.wikipedia.org/wiki/David_Steindl-Rast"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/dp/0316178314/"
         },
         {

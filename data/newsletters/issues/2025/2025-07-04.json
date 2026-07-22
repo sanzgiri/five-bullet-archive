@@ -69,8 +69,21 @@
           "url": "https://www.reddit.com/r/timferriss/comments/1lixjw6/anthony_demello_awareness_video_clip_rediscovery/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Awareness-Opportunities-Reality-Anthony-Mello/dp/0385249373/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Anthony%20De%20Mello%20%E2%80%9CAwareness%E2%80%9D%20video",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Anthony%20De%20Mello%20%E2%80%9CAwareness%E2%80%9D%20video",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -209,6 +222,19 @@
         {
           "type": "other",
           "url": "https://te.sparkloop.app/click/team_ca67a1a3a4/92140966/NO"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Way%20to%20Love%20Anthony%20De%20Mello)",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/626658",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "The Way to Love",
+          "catalog_creator": "Anthony De Mello"
         }
       ]
     }

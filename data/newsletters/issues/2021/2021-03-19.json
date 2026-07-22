@@ -27,7 +27,7 @@
           "url": "https://armaid.com/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Armaid-Complete-Massage-Rollers-Myofascial/dp/B073QX8R7D/"
         }
       ]
@@ -52,6 +52,19 @@
         {
           "type": "other",
           "url": "https://tim.blog/2020/06/26/hugh-jackman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Overstory%20Richard%20Powers",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/3360345",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "The Overstory",
+          "catalog_creator": "Richard Powers"
         }
       ]
     },
@@ -108,11 +121,11 @@
           "url": "https://www.youtube.com/watch?v=6mgS6063YIg"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/0tI64kX5PgjjgmwiChqAkz?si=0236c50b66a04eef"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
         },
         {

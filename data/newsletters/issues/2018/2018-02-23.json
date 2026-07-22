@@ -94,6 +94,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/gvfnh5/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzEyLzIwL3RlcnJ5LWNyZXdzLWhvdy10by1oYXZlLWRvLWFuZC1iZS1hbGwteW91LXdhbnQv"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Brooklyn%20Nine-Nine",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Brooklyn%20Nine-Nine",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

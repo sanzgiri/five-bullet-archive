@@ -23,7 +23,7 @@
           "url": "https://www.amazon.com/Worlds-Ursula-Guin-Arwen-Curry/dp/B08DYCQTPG/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Worlds-Ursula-Guin-Arwen-Curry/dp/B08DYCQTPG/"
         },
         {
@@ -37,6 +37,19 @@
         {
           "type": "other",
           "url": "https://tim.blog/2019/03/28/neil-gaiman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Worlds%20of%20Ursula%20K.%20Le%20Guin",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Worlds%20of%20Ursula%20K.%20Le%20Guin",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -81,7 +94,7 @@
           "url": "https://www.youtube.com/watch?v=d_0khAAItqg"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/2ekfM9Dcslm7l9Lh7HGT0i?si=1d29c5ccf04d477f"
         },
         {
@@ -143,7 +156,7 @@
           "url": "https://en.wikipedia.org/wiki/Mary_Oliver"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Thirst-Poems-Mary-Oliver/dp/0807068977/"
         },
         {

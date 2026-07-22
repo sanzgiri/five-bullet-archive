@@ -24,8 +24,13 @@
           "url": "https://www.goodreads.com/author/quotes/585.John_Steinbeck"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Travels-Charley-Search-America-Steinbeck-ebook/dp/B001BC6GN6/ref=sr_1_1?crid=TP61DIA9MIOE&dchild=1&keywords=travels+with+charlie+by+john+steinbeck&qid=1624044735&sprefix=travels+with+%2Caps%2C183&sr=8-1"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Quotes%20from%20the%20writings%20of%20John%20Steinbeck",
+          "search_fallback": true
         }
       ]
     },
@@ -47,11 +52,11 @@
           "url": "https://twitter.com/bengoldacre"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Bad-Science-Quacks-Pharma-Flacks-ebook/dp/B003VTZTU8/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Hour-Body-Uncommon-Incredible-Superhuman/dp/030746363X/ref=sr_1_1?dchild=1&keywords=the+4-hour+body&qid=1623855368&sr=8-1"
         },
         {
@@ -61,6 +66,19 @@
         {
           "type": "other",
           "url": "https://peterattiamd.com/ns001/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Ben%20Goldacre%3A%20Battling%20Bad%20Science",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Ben%20Goldacre%3A%20Battling%20Bad%20Science",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

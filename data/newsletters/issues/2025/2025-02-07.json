@@ -27,8 +27,21 @@
           "url": "https://www.youtube.com/watch?v=qIwANkWLwDo"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/dp/1647225175/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Spielberg",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Spielberg",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -54,7 +67,7 @@
           "url": "https://podcasts.apple.com/us/podcast/794-brandon-sanderson-on-building-a-fiction-empire/id863897795?i=1000689414620"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/0dJLtcP1H8l2hSFG0Ppe37?si=mCdlQO5jTya8qPeZNLD4pw"
         },
         {
@@ -93,12 +106,25 @@
           "url": "https://en.wikipedia.org/wiki/1923_(TV_series"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a6b886eb-47c1-90f9-7508-d37c218381bb?autoplay=0&ref_=atv_cf_strg_wb"
         },
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=7zxh49-bsIk"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Landman",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Landman",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

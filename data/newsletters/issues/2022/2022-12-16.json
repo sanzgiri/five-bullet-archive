@@ -46,7 +46,7 @@
           "url": "https://www.amazon.com/Facing-Nolan-Ryan/dp/B0B5YKSXP3/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Facing-Nolan-Ryan/dp/B0B5YKSXP3/"
         },
         {
@@ -60,6 +60,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=Sy--P-wkYQg"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Facing%20Nolan",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Facing%20Nolan",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -96,7 +109,7 @@
           "url": "https://podcasts.apple.com/us/podcast/c%C3%B8ckpunch/id1657210471"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/show/0O9MhcUVpWSjPpMFwia1WH"
         },
         {

@@ -59,6 +59,16 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/r8u063gzzaoh2mrl2/vj52jo/aHR0cDovL3RpbS5ibG9nLzIwMTYvMDQvMDUvY2Fyb2xpbmUtcGF1bC8="
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=How%20to%20Raise%20Brave%20Girls%3A",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=How%20to%20Raise%20Brave%20Girls%3A",
+          "search_fallback": true
         }
       ]
     },

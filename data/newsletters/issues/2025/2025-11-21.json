@@ -27,7 +27,7 @@
           "url": "https://en.wikipedia.org/wiki/Anthony_de_Mello_(Jesuit_priest"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Tomorrow-novel-Gabrielle-Zevin/dp/0593466497/?tag=offsitoftimfe-20"
         },
         {
@@ -35,7 +35,7 @@
           "url": "https://gabriellezevin.com/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Gold-Rumi/dp/1681375338/?tag=offsitoftimfe-20"
         },
         {
@@ -45,6 +45,19 @@
         {
           "type": "other",
           "url": "https://www.halehliza.com/"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Awareness%3A%20Conversations%20with%20the%20Masters%20Anthony%20de%20Mello)",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/626553",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Awareness",
+          "catalog_creator": "Anthony De Mello"
         }
       ]
     },
@@ -81,7 +94,7 @@
           "url": "https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/?tag=offsitoftimfe-20"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/?tag=offsitoftimfe-20"
         },
         {
@@ -97,7 +110,7 @@
           "url": "https://www.explodingkittens.com/products/coyote"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/?tag=offsitoftimfe-20"
         }
       ]
@@ -139,7 +152,7 @@
           "url": "https://www.amazon.com/dp/B0D49M4ZJJ/?tag=offsitoftimfe-20"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Excellent-Advice-Living-Wisdom-Earlier/dp/0593654528/?tag=offsitoftimfe-20"
         }
       ]

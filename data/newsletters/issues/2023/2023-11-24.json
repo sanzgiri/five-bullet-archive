@@ -21,6 +21,19 @@
         {
           "type": "original",
           "url": "https://vimeo.com/269442469"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Human%20Planet%2C%20S1%2C%20Ep.%2004%20%E2%80%9CJungles.%E2%80%9D",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Human%20Planet%2C%20S1%2C%20Ep.%2004%20%E2%80%9CJungles.%E2%80%9D",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -38,7 +51,7 @@
           "url": "https://www.salomon.com/en-us/shop/product/xa-forces-jungle-lg4826.html#color=58406&size=27232"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/dp/B08SXVGFKP?ref=ppx_yo2ov_dt_b_product_details&th=1&psc=1"
         }
       ]
@@ -63,6 +76,19 @@
         {
           "type": "other",
           "url": "https://twitter.com/SundeenMark"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Man%20Who%20Quit%20Money%20Mark%20Sundeen",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/631187",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "The Man Who Quit Money",
+          "catalog_creator": "Mark Sundeen"
         }
       ]
     },
@@ -80,27 +106,27 @@
           "url": "https://www.amazon.com/dp/B00569GU18?psc=1&ref=ppx_yo2ov_dt_b_product_details"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/dp/B001B8FYBA?psc=1&ref=ppx_yo2ov_dt_b_product_details"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/dp/B08YR9QWBF?ref=ppx_yo2ov_dt_b_product_details&th=1&psc=1"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/dp/B08NV46954?ref=ppx_yo2ov_dt_b_product_details&th=1"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/dp/B07XRNGS5V?psc=1&ref=ppx_yo2ov_dt_b_product_details"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/dp/B088W7T499?ref=ppx_yo2ov_dt_b_product_details&th=1&psc=1"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/dp/B06WWNFNQ6?ref=ppx_yo2ov_dt_b_product_details&th=1&psc=1"
         }
       ]
@@ -139,7 +165,7 @@
           "url": "https://tim.blog/2020/09/30/mark-plotkin/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Amazon-What-Everyone-Needs-Know%C2%AE/dp/0190668288/"
         },
         {

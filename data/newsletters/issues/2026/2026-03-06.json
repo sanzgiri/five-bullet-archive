@@ -35,7 +35,7 @@
           "url": "https://www.youtube.com/watch?v=e5s8MdtnbMM"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/7J4dPn4Xg9Op0e8N2tjqkX?si=-lB2GKKmSjq7NIMSjmRXIQ"
         },
         {
@@ -43,11 +43,11 @@
           "url": "https://music.apple.com/us/song/what-you-want/1874973639"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/4wSmqFg31t6LsQWtzYAJob"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/7GTZa1773faSYybRdGDIjk"
         }
       ]

@@ -21,6 +21,19 @@
         {
           "type": "original",
           "url": "https://openspacetrust.org/blog/coyote-and-badger/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Coyote%20and%20Badger%20Caught%20Playing%20on%20Camera",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Coyote%20and%20Badger%20Caught%20Playing%20on%20Camera",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -82,6 +95,19 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Paul_Kalanithi"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=When%20Breath%20Becomes%20Air%20Paul%20Kalanithi",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/2302232",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "When Breath Becomes Air",
+          "catalog_creator": "Paul Kalanithi, Abraham Verghese, Lucy Kalanithi"
         }
       ]
     },
@@ -109,6 +135,16 @@
         {
           "type": "other",
           "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Anthony%20de%20Mello",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Anthony%20de%20Mello",
+          "search_fallback": true
         }
       ]
     }

@@ -41,6 +41,19 @@
         {
           "type": "other",
           "url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/pdaeh9hdo4pnq8/aHR0cHM6Ly92aW1lby5jb20vb25kZW1hbmQvZnJvbXNob2NrdG9hd2U="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=From%20Shock%20to%20Awe",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=From%20Shock%20to%20Awe",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

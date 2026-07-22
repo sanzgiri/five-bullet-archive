@@ -90,6 +90,19 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=vGUNqq3jVLg"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Storytelling%20advice%20from%20the%20creators%20of%20South%20Park",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Storytelling%20advice%20from%20the%20creators%20of%20South%20Park",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

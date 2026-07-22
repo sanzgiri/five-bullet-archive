@@ -67,6 +67,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/92unw45ooanh60xe2/kmbmh6/aHR0cDovL2Ftem4udG8vMmdwUWFHVw=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Icarus",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Icarus",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

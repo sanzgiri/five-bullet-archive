@@ -82,6 +82,16 @@
         {
           "type": "original",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dA4&mc=b&s=bomwH&u=w&y=Z&"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=what%20would%20you%20build",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=what%20would%20you%20build",
+          "search_fallback": true
         }
       ]
     },

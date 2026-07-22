@@ -35,7 +35,7 @@
           "url": "https://www.instagram.com/jeffreyzurofsky/?hl=en"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
         }
       ]
@@ -58,7 +58,7 @@
           "url": "https://en.wikipedia.org/wiki/Tom_Lord-Alge"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/3Q4cYIHjHb13dJoUJGP339"
         },
         {
@@ -123,6 +123,19 @@
         {
           "type": "other",
           "url": "https://twitter.com/jimgaffigan"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Sheng%20Wang%3A%20Sweet%20and%20Juicy",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Sheng%20Wang%3A%20Sweet%20and%20Juicy",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -146,6 +159,19 @@
         {
           "type": "other",
           "url": "https://twitter.com/bgurley?lang=en"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Runnin%E2%80%99%20Down%20a%20Dream%3A%20How%20to%20Succeed%20and%20Thrive%20in%20a%20Career%20You%20Love",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Runnin%E2%80%99%20Down%20a%20Dream%3A%20How%20to%20Succeed%20and%20Thrive%20in%20a%20Career%20You%20Love",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

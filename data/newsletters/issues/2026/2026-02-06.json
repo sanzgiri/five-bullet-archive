@@ -28,7 +28,7 @@
           "url": "https://www.youtube.com/watch?v=3igYRj82EiU"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/3a8mo25v74BMUOJ1IDUEBL?si=28bc328c1b834cda"
         },
         {
@@ -51,7 +51,7 @@
           "url": "https://www.netflix.com/title/81482892"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Chaos-Charles-Manson-History-Sixties/dp/0316477540/?tag=offsitoftimfe-20"
         },
         {
@@ -67,7 +67,7 @@
           "url": "https://en.wikipedia.org/wiki/Errol_Morris"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/gp/video/detail/B006TLZK2C/ref=msx_wn_av"
         },
         {
@@ -77,6 +77,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=YwoA7NvaacI"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Chaos%3A%20The%20Manson%20Murders",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Chaos%3A%20The%20Manson%20Murders",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

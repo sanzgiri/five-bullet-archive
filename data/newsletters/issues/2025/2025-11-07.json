@@ -28,8 +28,21 @@
           "url": "https://en.wikipedia.org/wiki/Jacques_P%C3%A9pin"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Standard%20Omelet%20vs.%20Classic%20French%20Omelet%20Jacques%20P%C3%A9pin",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Standard%20Omelet%20vs.%20Classic%20French%20Omelet%20Jacques%20P%C3%A9pin",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -51,7 +64,7 @@
           "url": "https://podcasts.apple.com/us/podcast/59-etta/id1150800298?i=1000727082674"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/1hfEixSfYUtkFWdXmDr1x2?si=epSts4bVRpmu52BoHJ06MA"
         },
         {
@@ -98,7 +111,7 @@
           "url": "https://en.wikipedia.org/wiki/Chris_Smith_(filmmaker"
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.netflix.com/title/81115994"
         },
         {
@@ -108,6 +121,19 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/30_for_30"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Mr.%20McMahon",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Mr.%20McMahon",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

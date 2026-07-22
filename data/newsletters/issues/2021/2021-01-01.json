@@ -34,6 +34,11 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/John_Burroughs"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Art%20of%20Seeing%20Things%3A%20Essays%20by%20John%20Burroughs",
+          "search_fallback": true
         }
       ]
     },
@@ -86,7 +91,7 @@
           "url": "https://yaktrax.implus.com/products/traction/yaktrax-walk-ice-shoes"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/stores/Yaktrax/page/6A1DA552-1ACD-4668-93BD-1C24EEE18432?ref_=ast_bln"
         },
         {
@@ -113,7 +118,7 @@
           "url": "https://www.youtube.com/watch?v=jcD0Daqc3Yw"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Big-Sick-Kumail-Nanjiani/dp/B089XYBLJV/"
         },
         {
@@ -135,6 +140,19 @@
         {
           "type": "other",
           "url": "https://www.scriptreaderpro.com/best-comedy-scripts/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Big%20Sick",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Big%20Sick",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

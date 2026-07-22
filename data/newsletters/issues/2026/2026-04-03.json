@@ -45,6 +45,11 @@
         {
           "type": "other",
           "url": "https://tim.blog/2021/02/21/urgent-plea-users-of-psychedelics-ethical-plants-compounds/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/Tobacco%20plant%20altered%20to%20produce%20five%20psychedelic%20drugs",
+          "search_fallback": true
         }
       ]
     },
@@ -72,6 +77,19 @@
         {
           "type": "other",
           "url": "https://www.scriptreaderpro.com/best-comedy-scripts/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Big%20Sick",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Big%20Sick",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -95,6 +113,19 @@
         {
           "type": "other",
           "url": "https://tim.blog/2007/11/26/a-beginners-guide-how-to-rent-your-ideas-to-fortune-500-companies-plus-video/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Magic%20of%20Thinking%20Big%20David%20J",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/1957594",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "The Magic of Thinking Big",
+          "catalog_creator": "David J. Schwartz"
         }
       ]
     },
@@ -116,7 +147,7 @@
           "url": "https://tim.blog/2019/12/09/tim-ferriss-recommended-books/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357/?tag=offsitoftimfe-20"
         },
         {

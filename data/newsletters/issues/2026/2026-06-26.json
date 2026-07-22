@@ -88,6 +88,19 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/daveelitch/?hl=en"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=V%20Shivapriya%20%26%20BR%20Somashekar%20Jois%20%7C%20Konnakkol%20Duet",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=V%20Shivapriya%20%26%20BR%20Somashekar%20Jois%20%7C%20Konnakkol%20Duet",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -107,6 +120,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=0I8s9OzmHHQ"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Derek%20DelGaudio%E2%80%99s%20In%20%26%20Of%20Itself",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Derek%20DelGaudio%E2%80%99s%20In%20%26%20Of%20Itself",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

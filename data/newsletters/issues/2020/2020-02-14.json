@@ -61,6 +61,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/22h2hoh0k5z85e/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9ncC9wcm9kdWN0L0IwNzhIVlBKV1Mv"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Marvelous%20Mrs.%20Maisel",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Marvelous%20Mrs.%20Maisel",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -84,6 +97,24 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/46fvhehq4oepor/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=The%20Lessons%20of%20History%20Will%20and%20Ariel%20Durant",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Lessons%20of%20History%20Will%20and%20Ariel%20Durant",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/1509264",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "The Lessons of History",
+          "catalog_creator": "Will Durant, Ariel Durant"
         }
       ]
     },

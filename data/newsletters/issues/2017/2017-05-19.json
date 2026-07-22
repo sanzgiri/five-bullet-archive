@@ -56,6 +56,16 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6hrvo5m/gykm1o/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1RpbUZlcnJpc3MvcG9zdHMvMTAxNTUzMDQ4NjUyNTIyNDE="
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=the%20more%20someone%20tells%20you%20how%20hard%20they're%20working%20for%20you...",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=the%20more%20someone%20tells%20you%20how%20hard%20they're%20working%20for%20you...",
+          "search_fallback": true
         }
       ]
     },

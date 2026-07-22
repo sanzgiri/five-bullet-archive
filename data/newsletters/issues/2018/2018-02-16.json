@@ -40,6 +40,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/gku0l36gga5hn6dwg/zvtghn/aHR0cHM6Ly90d2l0dGVyLmNvbS9hbGFtb2RyYWZ0aG91c2U="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Don't%20Talk%20PSA%20%7C%20Angry%20Voicemail%20(Uncensored)",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Don't%20Talk%20PSA%20%7C%20Angry%20Voicemail%20(Uncensored)",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

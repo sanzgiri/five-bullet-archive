@@ -24,7 +24,7 @@
           "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B?dlsi=00c1a03fd820423f&nd=1&si=BQQgpJILTmmJQKSpBciKQA"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B?dlsi=00c1a03fd820423f&nd=1&si=BQQgpJILTmmJQKSpBciKQA"
         },
         {
@@ -36,11 +36,11 @@
           "url": "https://www.instagram.com/kaliuchis"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/4wSmqFg31t6LsQWtzYAJob"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/4wSmqFg31t6LsQWtzYAJob"
         },
         {
@@ -100,6 +100,19 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Crip_Camp#Awards_and_nominations"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Crip%20Camp%3A%20A%20Disability%20Revolution",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Crip%20Camp%3A%20A%20Disability%20Revolution",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -160,7 +173,7 @@
           "url": "https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/?tag=offsitoftimfe-20"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/?tag=offsitoftimfe-20"
         },
         {
@@ -184,7 +197,7 @@
           "url": "https://drive.google.com/file/d/1k5sRzW3__DvHfGBtonfCajRr4pT4AxNk/view?usp=sharing"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Apostrophe-Games-Blank-Playing-Finish/dp/B01H4CZQ14/?tag=offsitoftimfe-20"
         },
         {

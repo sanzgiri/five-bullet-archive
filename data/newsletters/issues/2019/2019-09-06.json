@@ -41,6 +41,24 @@
         {
           "type": "other",
           "url": "https://el2.convertkit-mail.com/c/8kue0m6zzuohlko42bd/o6tkhqhn3d8050/aHR0cHM6Ly90d2l0dGVyLmNvbS9kYW5hcmllbHk="
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Payoff%3A%20The%20Hidden%20Logic%20That%20Shapes%20Our%20Motivations%20Dan%20Ariely",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Payoff%3A%20The%20Hidden%20Logic%20That%20Shapes%20Our%20Motivations%20Dan%20Ariely",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/2621393",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Payoff",
+          "catalog_creator": "Dan Ariely"
         }
       ]
     },

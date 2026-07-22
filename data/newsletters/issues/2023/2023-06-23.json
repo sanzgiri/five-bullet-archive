@@ -42,16 +42,29 @@
           "url": "https://www.amazon.com/Pez-Outlaw-Steve-Glew/dp/B0B6GS774L/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/King-Kong-Quarters-Billy-Mitchell/dp/B0012HDAAM"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Man-Wire-James-Marsh/dp/B001NEI96O"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Best-Show-Jennifer-Coolidge/dp/B008Q0C5I6/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Pez%20Outlaw",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Pez%20Outlaw",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -139,7 +152,7 @@
           "url": "https://en.wikipedia.org/wiki/Frederick_Franck"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Zen-Seeing-Drawing-Meditation/dp/0394719689/"
         },
         {

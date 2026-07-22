@@ -76,6 +76,19 @@
         {
           "type": "original",
           "url": "https://www.ted.com/talks/michael_levin_the_electrical_blueprints_that_orchestrate_life"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Michael%20Levin%3A%20The%20electrical%20blueprints%20that%20orchestrate%20life",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Michael%20Levin%3A%20The%20electrical%20blueprints%20that%20orchestrate%20life",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

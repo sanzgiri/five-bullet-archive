@@ -36,6 +36,19 @@
         {
           "type": "original",
           "url": "https://vimeo.com/ondemand/tripofcompassion"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Trip%20of%20Compassion",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Trip%20of%20Compassion",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     }

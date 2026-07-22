@@ -24,7 +24,7 @@
           "url": "https://podcasts.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM"
         },
         {
@@ -67,12 +67,25 @@
           "url": "https://www.youtube.com/watch?v=n9xhJrPXop4"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Dune-Chronicles-Book-1/dp/0441013597/"
         },
         {
           "type": "other",
           "url": "https://dune.fandom.com/wiki/Litany_Against_Fear"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Dune%20official%20trailer",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Dune%20official%20trailer",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -94,7 +107,7 @@
           "url": "https://tim.blog/2020/09/10/guy-raz/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/How-Built-This-Unexpected-Entrepreneurs/dp/0358216761/"
         }
       ]
@@ -125,7 +138,7 @@
           "url": "https://www.rei.com/product/864982/olukai-nohea-mesh-shoes-mens"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/OluKai-Nohea-Mesh-Shoe-Mens/dp/B008QZGA2I?th=1"
         }
       ]
@@ -144,7 +157,7 @@
           "url": "https://en.wikipedia.org/wiki/Frank_Herbert"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Dune-Chronicles-Book-1/dp/0441013597/"
         },
         {

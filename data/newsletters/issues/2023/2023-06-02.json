@@ -66,7 +66,7 @@
           "url": "https://podcasts.apple.com/us/podcast/episode-179-why-is-consciousness-something-worth-talking/id659155419?i=1000610465167"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/76nBQHl2Dvh20qI8oSXv8O?si=W0REaeFrSju-DIP1aH1D-Q"
         },
         {
@@ -101,8 +101,13 @@
           "url": "https://en.wikipedia.org/wiki/Death_poem#Japanese_death_poems"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Japanese-Death-Poems-Written-Monks/dp/4805314435/"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Japanese%20Death%20Poems%3A%20Written%20by%20Zen%20Monks%20and%20Haiku%20Poets%20on%20the%20Verge%20of%20Death",
+          "search_fallback": true
         }
       ]
     },

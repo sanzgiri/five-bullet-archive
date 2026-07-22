@@ -22,6 +22,19 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/n2hohvhozrwq7p/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3dhdGNoLz92PTcxMTI3Nzc0Mjk3MDUyNQ=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Man%20Bigger%20Than%20The%20Meme",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Man%20Bigger%20Than%20The%20Meme",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

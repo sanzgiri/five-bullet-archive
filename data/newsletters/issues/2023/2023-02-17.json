@@ -62,7 +62,7 @@
           "url": "https://www.youtube.com/watch?v=dIxO88gh31w"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/75wYMQCuwgiCRt6SBzcVzu?si=b9e6c3dab009457b"
         },
         {
@@ -115,6 +115,19 @@
         {
           "type": "other",
           "url": "https://www.linkedin.com/in/ariosvazquez/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=League%20of%20Legends%3A%20Origins%20(2019)",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=League%20of%20Legends%3A%20Origins%20(2019)",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -136,7 +149,7 @@
           "url": "https://podcasts.apple.com/us/podcast/11-the-free-trade-zone/id1657210471?i=1000600064540"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/5buHcfwmpRhxaPicKj8jui?si=ylYIl8rwTT-ne5gYigixEg"
         },
         {

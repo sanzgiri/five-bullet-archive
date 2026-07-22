@@ -42,6 +42,19 @@
         {
           "type": "other",
           "url": "https://youtu.be/UNl9RqjLCwc?si=lcpmFXm7eckFvmw_"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Peanut%20Butter%20Falcon",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Peanut%20Butter%20Falcon",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -82,7 +95,7 @@
           "url": "https://podcasts.apple.com/us/podcast/michael-oleary-ceo-of-ryanair/id1614211565?i=1000587206737"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/5hh7CAtWdT8476Bc5oi0vx"
         },
         {
@@ -90,7 +103,7 @@
           "url": "https://en.wikipedia.org/wiki/Nicolai_Tangen"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Ryanair-Story-Controversial-Low-Cost-Airline/dp/1845132939/ref=sr_1_1?crid=3VMQHKJF9POA7&dib=eyJ2IjoiMSJ9.X0hnU0oFjEYUhQrovkbSdloOXntifXIbFvkrahp-OmT6EKUy2wyfHfgD0_htXGp--olnZ_QxqOv8rU5FwNOsfUUmvTXYz-K2ffOOycFDpF9PS9C0FlemSPgXG4SzFbOgeZvD_upStoPHwjUaF4ot8z3YM2MQmZu8GeORGY_a5dzxFrbGXALoJVCncKNuFY5_qhjwfr-to9-YxpLSUbqcfot4x8Fgbrvx6beAbjuFea0.CeMpqmOitj_fr7tbB24I2DJXEG5aWx_X4F_F5BC4Fzc&dib_tag=se&keywords=ryanair&qid=1739564022&s=books&sprefix=ryanair%2Cstripbooks%2C154&sr=1-1"
         }
       ]

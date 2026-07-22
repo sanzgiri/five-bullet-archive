@@ -37,6 +37,19 @@
         {
           "type": "other",
           "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Mentalism%2C%20mind%20reading%20and%20the%20art%20of%20getting%20inside%20your%20head%20Derren%20Brown",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Mentalism%2C%20mind%20reading%20and%20the%20art%20of%20getting%20inside%20your%20head%20Derren%20Brown",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -85,7 +98,7 @@
           "url": "https://tim.blog/2016/08/24/jason-nemer/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Move-Connect-Play-Science-Acroyoga/dp/1250774179/"
         },
         {
@@ -112,7 +125,7 @@
           "url": "https://www.youtube.com/watch?v=lJWqglNy8ww"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/0efWZjlvvketulDmLvAIBc?autoplay=true"
         },
         {
@@ -132,7 +145,7 @@
           "url": "https://www.youtube.com/watch?v=7f-ljyfb4yg"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/3E67SH1aQjwRBvQ9jphK6c?autoplay=true"
         },
         {

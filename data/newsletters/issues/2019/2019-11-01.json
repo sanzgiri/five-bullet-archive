@@ -42,6 +42,19 @@
         {
           "type": "other",
           "url": "https://el2.convertkit-mail.com/c/75u8wd0mmu8h98pe0um/mga7h5h9v5m98x/aHR0cHM6Ly9tZWRpdW0uY29tL0BrZW5idXJuc3VudW0vbW90aGVybGVzcy1icm9va2x5bi04NWU2Zjc5Yjc0Mw=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Motherless%20Brooklyn",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Motherless%20Brooklyn",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

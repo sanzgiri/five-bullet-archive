@@ -53,6 +53,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/4navhehp6ne653/aHR0cHM6Ly93d3cubWFzdGVyc29tbWVsaWVycy5vcmcvYWJvdXQ="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Amazon",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Amazon",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

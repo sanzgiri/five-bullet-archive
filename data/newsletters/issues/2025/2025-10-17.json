@@ -74,7 +74,7 @@
           "url": "https://www.youtube.com/watch?v=RTzL-G2kIA8"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/4iY6Xv5g3SbauDZmCf2kr4"
         },
         {
@@ -109,7 +109,7 @@
           "url": "https://archive.ph/fWfXb"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Work-James-McLeary/dp/B077GGWH8P/"
         },
         {

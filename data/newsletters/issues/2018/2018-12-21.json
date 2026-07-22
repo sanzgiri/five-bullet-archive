@@ -37,6 +37,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohx8x4n/r4s8hohl30r49/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Price%20of%20Everything",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Price%20of%20Everything",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -71,6 +84,24 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohx8x4n/dkheh0h9o0gvk/aHR0cDovL2xlb25hcmRrb3Jlbi5jb20v"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Wabi-Sabi%20for%20Artists%2C%20Designers%2C%20Poets%20%26%20Philosophers%20Leonard%20Koren",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Wabi-Sabi%20for%20Artists%2C%20Designers%2C%20Poets%20%26%20Philosophers%20Leonard%20Koren",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/9601762",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Wabi-Sabi for Artists, Designers, Poets & Philosophers",
+          "catalog_creator": "Leonard Koren, Brian Richy"
         }
       ]
     },

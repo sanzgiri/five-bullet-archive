@@ -28,7 +28,7 @@
           "url": "https://www.youtube.com/watch?v=apu_2WRrSaI"
         },
         {
-          "type": "other",
+          "type": "spotify_album",
           "url": "https://open.spotify.com/album/5UPjxVI1xabSZjcRXEpl52?highlight=spotify%3Atrack%3A0Jk5J9HrDmCEKV7xYmaB6m"
         },
         {
@@ -59,7 +59,7 @@
           "url": "https://www.youtube.com/watch?v=f8kW2LI19K4"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/gp/product/B0875MWHHN/?tag=offsitoftimfe-20"
         },
         {
@@ -73,6 +73,19 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Rosa_Salazar"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Undone",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Undone",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -132,7 +145,7 @@
           "url": "https://en.wikipedia.org/wiki/Stephen_King"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Writing-Memoir-Craft-Stephen-King-ebook/dp/B000FC0SIM/?tag=offsitoftimfe-20"
         },
         {

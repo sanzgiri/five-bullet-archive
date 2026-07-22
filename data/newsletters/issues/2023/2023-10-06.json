@@ -44,6 +44,19 @@
         {
           "type": "original",
           "url": "https://www.instagram.com/p/CyEh1HepPZb/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=When%20you%20lied%20on%20your%20r%C3%A9sum%C3%A9",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=When%20you%20lied%20on%20your%20r%C3%A9sum%C3%A9",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -59,6 +72,19 @@
         {
           "type": "original",
           "url": "https://www.amazon.com/Boogie-Man-Lee-Atwater-Story/dp/B003OUPYYU/ref=tmm_aiv_swatch_0?_encoding=UTF8&qid=&sr="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Boogie%20Man%3A%20The%20Lee%20Atwater%20Story",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Boogie%20Man%3A%20The%20Lee%20Atwater%20Story",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -82,6 +108,19 @@
         {
           "type": "other",
           "url": "https://tim.blog/2018/11/26/dave-elitch/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Catching%20the%20Big%20Fish%3A%20Meditation%2C%20Consciousness%2C%20and%20Creativity%20David%20Lynch",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/238472",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Catching the Big Fish",
+          "catalog_creator": "David Lynch"
         }
       ]
     },

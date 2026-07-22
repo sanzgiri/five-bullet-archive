@@ -66,6 +66,11 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/92unw45ooanh33d2o/pnceh9/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0tLTlhSVlvczRNOA=="
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/Love%20Me%20or%20Leave%20Me%20Billie%20Holiday",
+          "search_fallback": true
         }
       ]
     },

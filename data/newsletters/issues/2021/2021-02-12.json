@@ -24,7 +24,7 @@
           "url": "https://www.amazon.com/Philip-Roth-Unmasked/dp/B00C3WD3XO"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Philip-Roth-Unmasked/dp/B00C3WD3XO"
         },
         {
@@ -46,6 +46,19 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Philip_Roth"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Philip%20Roth%3A%20Unmasked",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Philip%20Roth%3A%20Unmasked",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -90,16 +103,29 @@
           "url": "https://en.wikipedia.org/wiki/Barry_Lopez"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Wolves-Men-Barry-Holstun-Lopez/dp/0684163225/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Arctic-Dreams-Barry-Lopez/dp/0375727485/ref=sr_1_2?dchild=1&qid=1612828684&refinements=p_27%3ABarry+Lopez&s=books&sr=1-2&text=Barry+Lopez"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/About-This-Life-Journeys-Threshold/dp/0679754474/ref=sr_1_1?crid=LIASFEXR6TE0&dchild=1&keywords=about+this+life+by+barry+lopez&qid=1612826815&sprefix=about+this+life%2Caps%2C179&sr=8-1"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=About%20This%20Life%3A%20Journeys%20on%20the%20Threshold%20of%20Memory%20Barry%20Lopez",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/633425",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "About This Life",
+          "catalog_creator": "Barry Lopez"
         }
       ]
     },
@@ -121,7 +147,7 @@
           "url": "https://www.youtube.com/watch?v=IR5_rTCi-Bo"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/0bgsj8kz5zWbQ6njk2Oqoz"
         },
         {

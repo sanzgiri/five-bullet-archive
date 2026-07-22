@@ -44,6 +44,19 @@
         {
           "type": "other",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wHS&mc=e&s=bomwH&u=w&y=1&"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Last%20Week%20Tonight%20with%20John%20Oliver%3A%20Scientific%20Studies%20(HBO)",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Last%20Week%20Tonight%20with%20John%20Oliver%3A%20Scientific%20Studies%20(HBO)",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -74,6 +87,16 @@
         {
           "type": "original",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wHE&mc=e&s=bomwH&u=w&y=c&"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Got%20this%20hat",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Got%20this%20hat",
+          "search_fallback": true
         }
       ]
     },

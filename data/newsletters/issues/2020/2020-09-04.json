@@ -99,6 +99,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/4zup485rraehwnornap/z2hghnhdgxzk7rap/aHR0cHM6Ly93d3cuaGVhZHN0dWZmLm9yZy9lbnRlcnRhaW5tZW50L2ZpbG0vZmlsbS1yZXZpZXctdGhlLXdvcmstZG9jdW1lbnRhcnktcHJpc29uLw=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Work",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Work",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

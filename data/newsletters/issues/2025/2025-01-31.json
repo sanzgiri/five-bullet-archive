@@ -21,6 +21,11 @@
         {
           "type": "original",
           "url": "https://www.amazon.com/Happy-Money-Science-Happier-Spending/dp/1451665075/"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Happy%20Money%3A%20The%20Science%20of%20Happier%20Spending",
+          "search_fallback": true
         }
       ]
     },
@@ -63,6 +68,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=ihEEjwRlghQ"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Roadrunner%3A%20A%20Film%20About%20Anthony%20Bourdain",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Roadrunner%3A%20A%20Film%20About%20Anthony%20Bourdain",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -90,6 +108,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/playlist?list=PLF-HhhjMki5n3PF6xpvR7-wH_-P-FpLqk"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=NVIDIA%20CEO%20Jensen%20Huang%E2%80%99s%20Vision%20for%20the%20Future%20Cleo%20Abram",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=NVIDIA%20CEO%20Jensen%20Huang%E2%80%99s%20Vision%20for%20the%20Future%20Cleo%20Abram",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

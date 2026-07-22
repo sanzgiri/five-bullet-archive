@@ -27,7 +27,7 @@
           "url": "https://youtu.be/e2Z0sON2UPc?si=ok-a_bmPcbF6gGbc"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7?autoplay=true"
         },
         {
@@ -115,7 +115,7 @@
           "url": "https://ctt.ec/afhSP"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/5YOhdYK36r746KmNcJ6l6x"
         },
         {

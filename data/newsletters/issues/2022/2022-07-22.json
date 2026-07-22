@@ -20,7 +20,26 @@
       "creator": "Seneca",
       "note": "Thanks to Ryan Holiday (@RyanHoliday) for this recommendation. From the official description: “In his essay ‘On Anger’ (De Ira), the Roman Stoic thinker Seneca (c. 4 BC–AD 65) argues that anger is the most destructive passion: ‘No plague has cost the human race more dear.’ This was proved by his own life, which he barely preserved under one wrathful emperor, Caligula, and lost under a second, Nero. This splendid new translation of essential selections from ‘On Anger,’ presented with an enlightening introduction, offers listeners a timeless guide to avoiding and managing anger.” I found this book extremely helpful. The language and examples are sometimes dated, of course, but the principles are timeless.\n\nFor more Seneca, check out The Tao of Seneca, which I’ve put together as a small thank-you gesture for all of my readers. All three volumes are available for free.",
       "original_url": null,
-      "links": []
+      "links": [
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=How%20to%20Keep%20Your%20Cool%3A%20An%20Ancient%20Guide%20to%20Anger%20Management%20Seneca",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=How%20to%20Keep%20Your%20Cool%3A%20An%20Ancient%20Guide%20to%20Anger%20Management%20Seneca",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/4288402",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "How to Keep Your Cool",
+          "catalog_creator": "Seneca, James S. Romm, James S. Romm"
+        }
+      ]
     },
     {
       "position": 2,
@@ -30,7 +49,21 @@
       "creator": "Love, Death & Robots",
       "note": "If you don’t have Netflix, here is a great taste on YouTube. The series’ description from Wikipedia: “Love, Death & Robots (stylized as LOVE DEATH + R⬤BOTS, and represented in emoji form as ❤️💀🤖) is an adult animated anthology streaming television series created by Tim Miller. Produced by Blur Studio, it consists of stand-alone episodes that feature different narrative and animation styles and are produced by different animation studios from a range of countries, exploring diverse genres, particularly comedy, horror, science fiction, and fantasy.”",
       "original_url": null,
-      "links": []
+      "links": [
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Night%20of%20the%20Mini%20Dead%20(S3E4)%20Love%2C%20Death%20%26%20Robots",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Night%20of%20the%20Mini%20Dead%20(S3E4)%20Love%2C%20Death%20%26%20Robots",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
+        }
+      ]
     },
     {
       "position": 3,

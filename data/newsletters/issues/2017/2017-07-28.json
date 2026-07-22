@@ -94,6 +94,16 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/4zup485rraehp9m5r/qygvyg/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1RpbUZlcnJpc3MvcG9zdHMvMTAxNTU1OTI0NDQzNDIyNDE="
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=TED%20Talk",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=TED%20Talk",
+          "search_fallback": true
         }
       ]
     },

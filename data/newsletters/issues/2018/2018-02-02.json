@@ -33,6 +33,29 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/o8uvgq544hqhn4p05/xksph6/aHR0cHM6Ly93d3cucHVibGlzaGVyc3dlZWtseS5jb20vcHcvaG9tZS9pbmRleC5odG1s"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Priceless%3A%20How%20I%20Went%20Undercover%20to%20Rescue%20the%20World's%20Stolen%20Treasures%20Robert%20K",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Priceless%3A%20How%20I%20Went%20Undercover%20to%20Rescue%20the%20World's%20Stolen%20Treasures%20Robert%20K",
+          "search_fallback": true
+        },
+        {
+          "type": "audible",
+          "url": "https://www.audible.com/search?keywords=Priceless%3A%20How%20I%20Went%20Undercover%20to%20Rescue%20the%20World's%20Stolen%20Treasures%20Robert%20K",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/269265",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Priceless",
+          "catalog_creator": "Robert K. Wittman, John Shiffman, Mark Deakins"
         }
       ]
     },

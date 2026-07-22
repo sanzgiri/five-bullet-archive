@@ -54,6 +54,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/3ohphkhd8rx803/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1fS0VoTEIwMkc3Zw=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Green%20Frontier",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Green%20Frontier",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -159,6 +172,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/kkhmh6h9pezpwe/aHR0cHM6Ly9tYXVpbnVpdmVuaXNvbi5jb20vYmxvZ3Mva2l0Y2hlbi1maWVsZC9pbi1iYWxhbmNlLXdpdGgtbmF0dXJlP3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT10aW1lbWFpbCZ1dG1fY2FtcGFpZ249NWJ1bGxldGZyaWRheSZ1dG1fdGVybT1ibG9nJnV0bV9jb250ZW50PWJsb2c="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Hawai%E2%80%98i%E2%80%99s%20Axis%20Deer%3A%20From%20Invasive%20Species%20to%20Food%20Source",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Hawai%E2%80%98i%E2%80%99s%20Axis%20Deer%3A%20From%20Invasive%20Species%20to%20Food%20Source",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

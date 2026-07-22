@@ -27,7 +27,7 @@
           "url": "https://www.youtube.com/watch?v=i7UkKEEGgAQ"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/2yWAPCnRMbpbGqVHAZzqgJ"
         },
         {
@@ -72,6 +72,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/c/veritasium/videos"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Most%20Important%20Algorithm%20Of%20All%20Time",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Most%20Important%20Algorithm%20Of%20All%20Time",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -128,7 +141,7 @@
           "url": "https://podcasts.apple.com/us/podcast/12-krom-the-barbarian/id975078285?i=1000381916654&l=en"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/49SMSxh40sl63JyD1NG6e0"
         },
         {

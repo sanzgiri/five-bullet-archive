@@ -42,7 +42,7 @@
           "url": "https://podcasts.apple.com/us/podcast/brains-background-noise-may-explain-value-of-shock-therapy/id1021340531?i=1000668375169"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/0j7rIs7GBVkKcDlRXV7skJ?si=6nl2JgxDT_6_RhLYVbPVrg"
         },
         {
@@ -90,6 +90,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=1tWi5BiXqCE"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=David%20Holmes%3A%20The%20Boy%20Who%20Lived",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=David%20Holmes%3A%20The%20Boy%20Who%20Lived",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

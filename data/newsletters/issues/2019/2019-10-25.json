@@ -41,6 +41,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/user/HUMANthemovie2015/videos?view=0&sort=p&flow=grid"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=HUMAN%20Extended%20Version%2C%20Volume%201",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=HUMAN%20Extended%20Version%2C%20Volume%201",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -58,7 +71,7 @@
           "url": "https://twitter.com/nntaleb"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Bed-Procrustes-Philosophical-Practical-Aphorisms-ebook/dp/B004C43F9S/"
         }
       ]

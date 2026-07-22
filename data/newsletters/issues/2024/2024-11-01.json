@@ -31,7 +31,7 @@
           "url": "https://music.apple.com/us/album/sabelo/598796498?i=598796771"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/1FPx0zQMlGR8CbDZWfDfCQ?dlsi=22b8e0dd92b743b1&nd=1&si=1gH1rP4IQrWTQBPR8lkJZA"
         },
         {
@@ -94,6 +94,19 @@
         {
           "type": "other",
           "url": "https://www.rottentomatoes.com/m/the_biggest_little_farm"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Biggest%20Little%20Farm",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Biggest%20Little%20Farm",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -109,6 +122,19 @@
         {
           "type": "original",
           "url": "https://tim.blog/2024/10/30/jon-batiste/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Jon%20Batiste%20on%20the%20podcast",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Jon%20Batiste%20on%20the%20podcast",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

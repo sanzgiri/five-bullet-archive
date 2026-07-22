@@ -54,7 +54,7 @@
           "url": "https://youtu.be/xHkamJJzNBE?si=51HOxY5_pFB-WeJJ"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/5phsN1qTbBz0ZCYtcQ4ndW"
         },
         {
@@ -87,6 +87,19 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/wguidara/?hl=en"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Unreasonable%20Hospitality%3A%20The%20Remarkable%20Power%20of%20Giving%20People%20More%20Than%20They%20Expect%20Will%20Guidara",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/8998906",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Unreasonable Hospitality",
+          "catalog_creator": "Will Guidara"
         }
       ]
     },

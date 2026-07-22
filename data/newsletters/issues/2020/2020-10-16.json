@@ -31,7 +31,7 @@
           "url": "https://www.youtube.com/watch?v=F39XU3WhmE8"
         },
         {
-          "type": "other",
+          "type": "spotify_album",
           "url": "https://open.spotify.com/album/5XttR9hovHAbIPg5Su5Nh8?highlight=spotify:track:3UVj0QFwXzsvVnZFh8ABNJ"
         },
         {
@@ -51,7 +51,7 @@
           "url": "https://www.youtube.com/watch?v=LEsB_pwCmpQ"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/3i3wfvCeWE0sXNejkNqMvM"
         },
         {

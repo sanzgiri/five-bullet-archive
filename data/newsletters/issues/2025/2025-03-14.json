@@ -67,6 +67,11 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Wil_Wheaton"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Dungeons%20%26%20Dragons%20Worlds%20%26%20Realms%20%E2%80%94%20Adventures%20from%20Greyhawk%20to%20Faer%C3%BBn%20and%20Beyond%20Adam%20Lee",
+          "search_fallback": true
         }
       ]
     },

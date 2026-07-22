@@ -50,7 +50,7 @@
           "url": "https://en.wikipedia.org/wiki/C._S._Lewis"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/gp/product/B008LUYSAE/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1"
         },
         {
@@ -64,6 +64,19 @@
         {
           "type": "other",
           "url": "https://youtu.be/VTdgyT5_U70"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Most%20Reluctant%20Convert",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Most%20Reluctant%20Convert",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -85,7 +98,7 @@
           "url": "https://www.youtube.com/watch?v=VIOpMRup5fk"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/7EQi4fnEqivyU2z5YYAsbu?si=khaLl_amQ5y5hkIWRy5VNQ"
         },
         {

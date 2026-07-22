@@ -54,7 +54,7 @@
           "url": "https://www.amazon.com/gp/product/B08GSL7VGT/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/gp/product/B08GSL7VGT/"
         },
         {
@@ -66,7 +66,7 @@
           "url": "https://www.youtube.com/watch?v=KeUx7tk1kdM"
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.disneyplus.com/movies/isle-of-dogs/3Ypmb1WnRXCH"
         },
         {
@@ -80,6 +80,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=dt__kig8PVU"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Isle%20of%20Dogs",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Isle%20of%20Dogs",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

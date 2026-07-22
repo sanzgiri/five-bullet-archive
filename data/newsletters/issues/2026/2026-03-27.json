@@ -40,6 +40,19 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=nmVcIhnvSx8"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Kurt%20Vonnegut%20on%20how%20to%20write%20a%20short%20story",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Kurt%20Vonnegut%20on%20how%20to%20write%20a%20short%20story",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -82,6 +95,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=d_Z_tybgPgg"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Wolfwalkers",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Wolfwalkers",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

@@ -52,6 +52,19 @@
         {
           "type": "other",
           "url": "https://nypost.com/2025/06/07/tech/film-festival-showcases-what-ai-can-do-on-the-big-screen/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Total%20Pixel%20Space%20Jacob%20Adler",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Total%20Pixel%20Space%20Jacob%20Adler",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -115,7 +128,7 @@
           "url": "https://www.oliverburkeman.com/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/B08XZY5ZF7/"
         },
         {
@@ -137,6 +150,11 @@
         {
           "type": "other",
           "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Oliver%20Burkeman",
+          "search_fallback": true
         }
       ]
     }

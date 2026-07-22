@@ -28,7 +28,7 @@
           "url": "https://www.youtube.com/watch?v=u2aGF0yQLyI&list=OLAK5uy_mCrPxcQIGaM-qk6Q42P-lzrFoULe0AO5c"
         },
         {
-          "type": "other",
+          "type": "spotify_album",
           "url": "https://open.spotify.com/album/5yk2ZpcB1q93OZ2tdkuEak?highlight=spotify%3Atrack%3A5dF3DJfd1GXtk1CjkOyqtq"
         },
         {
@@ -82,12 +82,25 @@
           "url": "https://en.wikipedia.org/wiki/Carlo_Rovelli"
         },
         {
-          "type": "other",
+          "type": "audible",
           "url": "https://www.audible.com/search?searchNarrator=Roy%20McMillan&ref_pageloadid=zXpBOhNlshdUzayE&pf_rd_p=f6da0b63-439d-48a7-a859-b187b7c50705&pf_rd_r=8QK6KJXB93F1C388FZZJ&plink=mWzlXeHDOobPUPyB&pageLoadId=S8hvexH41HLVe3S9&creativeId=16015ba4-2e2d-4ae3-93c5-e937781a25cd&ref=a_pd_Realit_pin_narrator_1"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/dp/1681375664?lv=shuf&tag=offsitoftimfe-20&channelId=1&plpRedirect=mhFallback"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Reality%20Is%20Not%20What%20It%20Seems%20Carlo%20Rovelli",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/2729526",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Reality Is Not What It Seems",
+          "catalog_creator": "Carlo Rovelli, Simon Carnell, Erica Segre, Roy McMillan"
         }
       ]
     },

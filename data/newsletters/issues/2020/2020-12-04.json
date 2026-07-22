@@ -72,6 +72,19 @@
         {
           "type": "original",
           "url": "https://en.wikipedia.org/wiki/Ayahuasca"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=ayahuasca%20Luis%20Eduardo%20Luna%20%5C%5BComplete%20Film%5C%5D%5D",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=ayahuasca%20Luis%20Eduardo%20Luna%20%5C%5BComplete%20Film%5C%5D%5D",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -93,7 +106,7 @@
           "url": "https://www.youtube.com/watch?v=32bdevGClD4"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/20nb0Wl1yqoEERbUSILuG1"
         },
         {
@@ -132,7 +145,7 @@
           "url": "https://twitter.com/stephenking?lang=en"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Writing-Memoir-Craft-Stephen-King-ebook/dp/B000FC0SIM/"
         },
         {

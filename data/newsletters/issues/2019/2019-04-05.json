@@ -56,6 +56,19 @@
         {
           "type": "other",
           "url": "https://el2.convertkit-mail2.com/c/p9urq7wddu9h7v73p/l4cehmh02437ko/aHR0cHM6Ly90d2l0dGVyLmNvbS9FcGlnZW5ldGlxdWUvc3RhdHVzLzExMDY1MTU5MDYzNzE0MjgzNTM="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=David%20Hockney%3A%20The%20Art%20of%20Seeing",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=David%20Hockney%3A%20The%20Art%20of%20Seeing",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

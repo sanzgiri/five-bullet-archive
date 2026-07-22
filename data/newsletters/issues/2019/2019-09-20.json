@@ -64,6 +64,19 @@
         {
           "type": "other",
           "url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/d7aeh0hkwz273o/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1Kb3lrX0VNdHpuMA=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Remember%20Shakti%3A%20Bell'Alla%20prt%202",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Remember%20Shakti%3A%20Bell'Alla%20prt%202",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -111,6 +124,24 @@
         {
           "type": "other",
           "url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/rga8hoh7v9o58x/aHR0cHM6Ly93d3cuY3JlYXRpdmVsaXZlLmNvbS8="
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Creative%20Calling%3A%20Establish%20a%20Daily%20Practice%2C%20Infuse%20Your%20World%20with%20Meaning%2C%20and%20Succeed%20in%20Work%20%2B%20Life%20Chase%20Jarvis",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Creative%20Calling%3A%20Establish%20a%20Daily%20Practice%2C%20Infuse%20Your%20World%20with%20Meaning%2C%20and%20Succeed%20in%20Work%20%2B%20Life%20Chase%20Jarvis",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/4501267",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Creative Calling",
+          "catalog_creator": "Chase Jarvis"
         }
       ]
     },

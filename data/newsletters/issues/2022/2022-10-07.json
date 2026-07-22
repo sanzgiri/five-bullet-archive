@@ -27,11 +27,11 @@
           "url": "https://www.youtube.com/watch?v=PthfEZ7day4"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/7dOkzYYMAXDDjhibQYw8v5"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/artist/6xIXch03AK6grENT8RlmeF"
         },
         {
@@ -64,6 +64,24 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Lichen"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Entangled%20Life%20Merlin%20Sheldrake",
+          "search_fallback": true
+        },
+        {
+          "type": "audible",
+          "url": "https://www.audible.com/search?keywords=Entangled%20Life%20Merlin%20Sheldrake",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/4896624",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Entangled Life",
+          "catalog_creator": "Merlin Sheldrake, Merlin Sheldrake"
         }
       ]
     },
@@ -81,7 +99,7 @@
           "url": "https://www.amazon.com/1883-Season-1/dp/B0B8JTS8QW"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/1883-Season-1/dp/B0B8JTS8QW"
         },
         {
@@ -97,7 +115,7 @@
           "url": "https://play.google.com/store/tv/show?id=2LfnZj-WViE.P&cdid=tvseason-iM93KU_dCwI.P&gdid=tvepisode-8c1ZwRxgk2g.P"
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.paramountplus.com/shows/1883/"
         },
         {
@@ -117,7 +135,7 @@
           "url": "https://www.timmcgraw.com/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Tribe-Mentors-Short-Advice-World/dp/1328994961/"
         },
         {
@@ -127,6 +145,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=dbyxdYKhC7U"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=1883",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=1883",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -142,6 +173,19 @@
         {
           "type": "original",
           "url": "https://twitter.com/DadInvest/status/1572582613872939008"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=2022%20year%20in%20the%20markets%20review",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=2022%20year%20in%20the%20markets%20review",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

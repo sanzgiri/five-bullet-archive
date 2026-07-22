@@ -59,6 +59,24 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Peter_Lynch"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=One%20Up%20On%20Wall%20Street%20Peter%20Lynch",
+          "search_fallback": true
+        },
+        {
+          "type": "audible",
+          "url": "https://www.audible.com/search?keywords=One%20Up%20On%20Wall%20Street%20Peter%20Lynch",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/143955",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "One Up On Wall Street",
+          "catalog_creator": "Peter Lynch, Peter Lynch"
         }
       ]
     },

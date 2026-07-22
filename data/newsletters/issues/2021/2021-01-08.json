@@ -33,6 +33,19 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/p/CI6d8POH7ca/"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Of%20Wolves%20and%20Men%20Barry%20Lopez",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/1324331",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Of Wolves and Men",
+          "catalog_creator": "Barry Lopez"
         }
       ]
     },
@@ -58,7 +71,7 @@
           "url": "https://twitter.com/bjmillermd"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Beginners-Guide-End-Practical-Advice/dp/1501157213/"
         },
         {
@@ -108,7 +121,7 @@
           "url": "https://www.vicetv.com/en_us/video/synthetic-toad-venom-machine/5fd3a82ce9ee6249e7195abd"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/gp/video/detail/B08S2NYHFT/ref=atv_dp_season_select_s3"
         },
         {
@@ -120,7 +133,7 @@
           "url": "https://en.wikipedia.org/wiki/Errol_Morris"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Fog-War-Robert-McNamara/dp/B00ANTX3HA/"
         },
         {
@@ -142,6 +155,19 @@
         {
           "type": "other",
           "url": "https://tim.blog/2018/09/20/hamilton-morris/?utm_source=convertkit&utm_medium=convertkit&utm_source=5bf"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20first%20episode%20of%20Season%203%20of%20Hamilton%E2%80%99s%20Pharmacopeia",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20first%20episode%20of%20Season%203%20of%20Hamilton%E2%80%99s%20Pharmacopeia",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -167,7 +193,7 @@
           "url": "https://claudiadawson.blog/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Recomendo-Expanded-Claudia-Dawson/dp/1940689058/"
         },
         {

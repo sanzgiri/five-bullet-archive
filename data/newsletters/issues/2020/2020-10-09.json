@@ -26,6 +26,19 @@
         {
           "type": "other",
           "url": "https://twitter.com/david_lynch"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Catching%20the%20Big%20Fish%3A%20Meditation%2C%20Consciousness%2C%20and%20Creativity%20David%20Lynch",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/238472",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Catching the Big Fish",
+          "catalog_creator": "David Lynch"
         }
       ]
     },
@@ -101,7 +114,7 @@
           "url": "https://www.youtube.com/watch?v=IXVITQTYFeY"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/5auJid3318lKJOVzKfAGdW"
         },
         {

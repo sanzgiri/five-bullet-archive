@@ -30,6 +30,19 @@
         {
           "type": "other",
           "url": "https://www.inshadow.net/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=IN-SHADOW%20-%20A%20Modern%20Odyssey%20-%20Animated%20Short%20Film",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=IN-SHADOW%20-%20A%20Modern%20Odyssey%20-%20Animated%20Short%20Film",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -45,6 +58,11 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=-QuVe-hjMs0"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/Le%20Festin",
+          "search_fallback": true
         }
       ]
     },
@@ -72,6 +90,11 @@
         {
           "type": "other",
           "url": "https://genius.com/Ren-hi-ren-lyrics#about"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/Hi%20Ren%20Ren",
+          "search_fallback": true
         }
       ]
     },
@@ -91,6 +114,19 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Haruki_Murakami"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Novelist%20as%20a%20Vocation%20Haruki%20Murakami",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/8783937",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Novelist as a Vocation",
+          "catalog_creator": "Haruki Murakami, Philip Gabriel, Ted Goossen"
         }
       ]
     },
@@ -108,7 +144,7 @@
           "url": "https://en.wikipedia.org/wiki/Ana%C3%AFs_Nin"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Courage-Be-Disliked-Phenomenon-Happiness/dp/1668065967/?tag=offsitoftimfe-20"
         },
         {

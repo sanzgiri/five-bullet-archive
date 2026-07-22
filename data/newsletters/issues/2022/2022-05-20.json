@@ -37,6 +37,19 @@
         {
           "type": "other",
           "url": "https://twitter.com/lexfridman"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Devon%20Larratt%20vs.%20%E2%80%9CThe%20Mountain%E2%80%9D%20from%20Game%20of%20Thrones%20(225%20lbs%20vs.%20419%20lbs)",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Devon%20Larratt%20vs.%20%E2%80%9CThe%20Mountain%E2%80%9D%20from%20Game%20of%20Thrones%20(225%20lbs%20vs.%20419%20lbs)",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -95,6 +108,16 @@
         {
           "type": "other",
           "url": "https://mostrecommendedbooks.com/"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Book%20Review%3A%20Raise%20A%20Genius!%20Scott%20Alexander",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Book%20Review%3A%20Raise%20A%20Genius!%20Scott%20Alexander",
+          "search_fallback": true
         }
       ]
     },
@@ -124,12 +147,25 @@
           "url": "https://en.wikipedia.org/wiki/Persistence_hunting"
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.netflix.com/title/81045007"
         },
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/San_people"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Great%20Dance%20Craig%20Foster)%20and%20Damon%20Foster",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Great%20Dance%20Craig%20Foster)%20and%20Damon%20Foster",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

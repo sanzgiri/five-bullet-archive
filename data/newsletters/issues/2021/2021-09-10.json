@@ -23,7 +23,7 @@
           "url": "https://www.amazon.com/gp/product/B00B49L7Y4/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/gp/product/B00B49L7Y4/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         },
         {
@@ -49,6 +49,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=QL5TffdOQ7g"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Searching%20for%20Sugar%20Man",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Searching%20for%20Sugar%20Man",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -70,7 +83,7 @@
           "url": "https://youtu.be/e2Z0sON2UPc"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7?autoplay=true"
         },
         {
@@ -107,6 +120,19 @@
         {
           "type": "other",
           "url": "https://twitter.com/gothamcomedy"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Why%20I%20speak%20French%20TJ",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Why%20I%20speak%20French%20TJ",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

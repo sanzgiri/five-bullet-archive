@@ -40,6 +40,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/27uk8e5mmuoh8o8p4/zvtghn/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzAyLzAyL2Fybm9sZC1zY2h3YXJ6ZW5lZ2dlci8="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Brooklyn%20Castle",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Brooklyn%20Castle",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

@@ -36,6 +36,16 @@
         {
           "type": "original",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dI7&mc=b&s=bomwH&u=w&y=J&"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=At%20University%20of%20Oregon%2C%20no%20more%20free%20speech%20for%20professors%20on%20race%2C%20religion%2C%20sexual%20orientation...",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=At%20University%20of%20Oregon%2C%20no%20more%20free%20speech%20for%20professors%20on%20race%2C%20religion%2C%20sexual%20orientation...",
+          "search_fallback": true
         }
       ]
     },
@@ -66,6 +76,19 @@
         {
           "type": "original",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=dIK&mc=b&s=bomwH&u=w&y=0&"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Westworld",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Westworld",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

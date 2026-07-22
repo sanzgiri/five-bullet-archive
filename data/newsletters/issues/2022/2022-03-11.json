@@ -156,7 +156,7 @@
           "url": "https://www.youtube.com/watch?v=YFSgYa8YfWk"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/0gXMYs6RDg5muWWoi2q3mb?autoplay=true"
         },
         {
@@ -168,11 +168,11 @@
           "url": "https://twitter.com/OzzyOsbourne"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Braveheart-Mel-Gibson/dp/B000HX4ZF6/ref=sr_1_2?crid=2CSLIBQE0FJ2A&keywords=braveheart&qid=1646967645&sprefix=braveheart%2Caps%2C93&sr=8-2"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Braveheart-Mel-Gibson/dp/B000HX4ZF6/ref=sr_1_2?crid=2CSLIBQE0FJ2A&keywords=braveheart&qid=1646967645&sprefix=braveheart%2Caps%2C93&sr=8-2"
         },
         {
@@ -182,6 +182,19 @@
         {
           "type": "other",
           "url": "https://tv.apple.com/us/movie/braveheart/umc.cmc.6lkfj9wyv04km68kr34nv7t0k?action=play"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Road%20to%20Nowhere%20Ozzy%20Ozbourne",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Road%20to%20Nowhere%20Ozzy%20Ozbourne",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

@@ -45,6 +45,19 @@
         {
           "type": "other",
           "url": "https://twitter.com/lebowski_eth/status/1599841626566053888?s=20&t=Hcv-o7WVXRpvDbt_a2TfPg"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Heart%20Valley%3A%20Life%20Lessons%20from%20a%20Shepherd",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Heart%20Valley%3A%20Life%20Lessons%20from%20a%20Shepherd",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -66,7 +79,7 @@
           "url": "https://www.youtube.com/watch?v=i9DRet4ND8k"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/03CmE9ciOBL27OQ5aPEu6k"
         },
         {
@@ -105,7 +118,7 @@
           "url": "https://twitter.com/edsmithwriter"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Making-Decisions/dp/0008530149/"
         },
         {
@@ -132,7 +145,7 @@
           "url": "https://podcasts.apple.com/us/podcast/you-2-0-decide-already/id1028908750?i=1000448394544"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/5llcIzW5kCqivY3UcNxg16"
         },
         {
@@ -175,7 +188,7 @@
           "url": "https://podcasts.apple.com/us/podcast/bj-miller/id1515607844?i=1000483889756"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/B082VKY29Q/"
         },
         {

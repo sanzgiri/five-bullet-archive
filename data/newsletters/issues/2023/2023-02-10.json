@@ -68,6 +68,11 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=From%20Strength%20to%20Strength%3A%20Finding%20Success%2C%20Happiness%2C%20and%20Deep%20Purpose%20in%20the%20Second%20Half%20of%20Life%20Arthur%20Brooks",
+          "search_fallback": true
         }
       ]
     },
@@ -108,7 +113,7 @@
           "url": "https://youtu.be/4h26oYuE2h0"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/0lsRatBUs9HNIZAmoGABzk?si=Q2OkpwjoQjigZ7wcksyzlQ&nd=1"
         },
         {
@@ -116,7 +121,7 @@
           "url": "https://music.apple.com/us/album/trampoline-single/1480896910"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR"
         },
         {

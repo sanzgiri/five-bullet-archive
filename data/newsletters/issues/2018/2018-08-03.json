@@ -21,6 +21,24 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7ho2r09/78i7h8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9SYWRpY2FsLUFjY2VwdGFuY2UtRW1icmFjaW5nLUhlYXJ0LUJ1ZGRoYS9kcC8wNTUzMzgwOTkw"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Radical%20Acceptance%20Tara%20Brach",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Radical%20Acceptance%20Tara%20Brach",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/53422",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Radical Acceptance",
+          "catalog_creator": "Tara Brach"
         }
       ]
     },

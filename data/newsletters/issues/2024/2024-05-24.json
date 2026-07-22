@@ -52,6 +52,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?t=44s&v=TCkTatcGCn4"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Most%20Complete%20Puncher%20EVER%20-%20Naoya%20Inoue%20%E4%BA%95%E4%B8%8A%E5%B0%9A%E5%BC%A5",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Most%20Complete%20Puncher%20EVER%20-%20Naoya%20Inoue%20%E4%BA%95%E4%B8%8A%E5%B0%9A%E5%BC%A5",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

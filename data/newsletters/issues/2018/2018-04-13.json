@@ -33,6 +33,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/pnceh9/aHR0cHM6Ly90d2l0dGVyLmNvbS9IYW1pbHRvbk1vcnJpcw=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=VICELAND",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=VICELAND",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

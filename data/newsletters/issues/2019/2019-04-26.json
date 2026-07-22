@@ -55,6 +55,19 @@
         {
           "type": "original",
           "url": "https://el2.convertkit-mail2.com/c/8kue0m6zzuohgp32w/vvc3hrhxwx4e75/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9SQkctUnV0aC1CYWRlci1HaW5zYnVyZy9kcC9CMDdDVDhLS1Ja"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=RBG",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=RBG",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

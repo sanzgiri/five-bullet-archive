@@ -57,6 +57,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=dWevopoBmAE&authuser=0"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Me%20You%20Can%E2%80%99t%20See",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Me%20You%20Can%E2%80%99t%20See",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

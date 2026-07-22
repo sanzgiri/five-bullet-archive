@@ -60,6 +60,19 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/daveelitch/?hl=en"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=V%20Shivapriya%20%26%20BR%20Somashekar%20Jois%20%7C%20Konnakol%20Duet%20%7C%20MadRasana%20Unplugged%20Season%2003%20Episode%2001",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=V%20Shivapriya%20%26%20BR%20Somashekar%20Jois%20%7C%20Konnakol%20Duet%20%7C%20MadRasana%20Unplugged%20Season%2003%20Episode%2001",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -110,6 +123,19 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Yanomami"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Magical%20Death",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Magical%20Death",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

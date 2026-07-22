@@ -100,6 +100,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=vE8mFDabqD0"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Schitt%E2%80%99s%20Creek",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Schitt%E2%80%99s%20Creek",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -115,6 +128,19 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=_-kaib_rXTQ"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Jim%20Carrey%20Motivational%20Video%20%E2%80%94%20WHO%20IS%20THE%20REAL%20YOU%3F",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Jim%20Carrey%20Motivational%20Video%20%E2%80%94%20WHO%20IS%20THE%20REAL%20YOU%3F",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

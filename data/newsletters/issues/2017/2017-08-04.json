@@ -67,6 +67,16 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/68u8wxgppu8h56ppw/kmbmh6/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9lbWlseW1jZG93ZWxsXy8="
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=This%20repost",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=This%20repost",
+          "search_fallback": true
         }
       ]
     },

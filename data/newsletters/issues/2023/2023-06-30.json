@@ -23,7 +23,7 @@
           "url": "https://www.youtube.com/watch?v=KOOhPfMbuIQ"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5?si=MZnj8x_yT4-M8Nj5OOs_Kw"
         },
         {
@@ -62,7 +62,7 @@
           "url": "https://podcasts.apple.com/us/podcast/kings-of-kings/id173001861?i=1000355848105"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/6EDjj9pMFbm1gVuw3TSlWX?si=Md882NZyQQiw9kfAsdH78w"
         },
         {
@@ -126,6 +126,19 @@
         {
           "type": "other",
           "url": "https://twitter.com/austinkleon"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Steal%20Like%20an%20Artist%3A%2010%20Things%20Nobody%20Told%20You%20About%20Being%20Creative%20Austin%20Kleon",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/791869",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Steal Like an Artist",
+          "catalog_creator": "Austin Kleon"
         }
       ]
     },

@@ -24,11 +24,11 @@
           "url": "https://www.amazon.com/Princess-Mononoke-English-Language-Crudup/dp/B081F8K9ZX/ref=tmm_aiv_swatch_0?_encoding=UTF8&qid=1617306661&sr=8-1"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Princess-Mononoke-English-Language-Crudup/dp/B081F8K9ZX/ref=tmm_aiv_swatch_0?_encoding=UTF8&qid=1617306661&sr=8-1"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Princess-Mononoke-Japanese-Language-Matsuda/dp/B081RC3212/ref=sr_1_3?dchild=1&keywords=princess+mononoke+japanese&qid=1617157045&sr=8-3"
         },
         {
@@ -48,12 +48,25 @@
           "url": "https://www.youtube.com/watch?v=rPs1C4277wE"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Spirited-English-Language-Daveigh-Chase/dp/B081GFFJLN/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Art-Spirited-Away-Hayao-Miyazaki/dp/1569317771"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Princess%20Mononoke",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Princess%20Mononoke",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -149,7 +162,7 @@
           "url": "https://podcasts.apple.com/gb/podcast/the-%2469-million-jpeg/id290783428?i=1000512778687"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/7GiTmf0koicq1e58E8ycHo?si=5cea7657343a4df8"
         },
         {

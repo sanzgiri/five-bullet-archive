@@ -34,6 +34,16 @@
         {
           "type": "other",
           "url": "https://twitter.com/stephenfry"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=The%20Hitchhiker%E2%80%99s%20Guide%20to%20the%20Galaxy%20Douglas%20Adams%2C%20narrated%20by%20the%20one%20and%20only%20Stephen%20Fry",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Hitchhiker%E2%80%99s%20Guide%20to%20the%20Galaxy%20Douglas%20Adams%2C%20narrated%20by%20the%20one%20and%20only%20Stephen%20Fry",
+          "search_fallback": true
         }
       ]
     },
@@ -64,6 +74,19 @@
         {
           "type": "original",
           "url": "https://www.instagram.com/p/CFSLrHpgmAl/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Speed%20bag%20magic",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Speed%20bag%20magic",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

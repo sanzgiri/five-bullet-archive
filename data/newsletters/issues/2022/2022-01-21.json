@@ -70,11 +70,11 @@
           "url": "https://www.youtube.com/watch?v=goQGBkkuVpE"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/3LsIKnWBQhqjQ5TWNxJenK"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Zitarrosa-Album-Version/dp/B001C3G8OQ"
         },
         {
@@ -109,12 +109,25 @@
           "url": "https://www.barrylopez.com/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Wolves-Men-Barry-Holstun-Lopez/dp/0684163225/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Arctic-Dreams-Barry-Lopez/dp/0375727485/"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Arctic%20Dreams%20Barry%20Lopez",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/1324301",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Arctic Dreams",
+          "catalog_creator": "Barry Lopez"
         }
       ]
     },
@@ -142,6 +155,19 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/derekdel/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Derek%20DelGaudio%E2%80%99s%20In%20%26%20Of%20Itself",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Derek%20DelGaudio%E2%80%99s%20In%20%26%20Of%20Itself",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

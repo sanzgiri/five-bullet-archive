@@ -55,6 +55,19 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9h9g8mr/pnceh9/aHR0cDovL3d3dy5oYm8uY29tL3RoZS1kZWZpYW50LW9uZXMvaW5kZXguaHRtbA=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Defiant%20Ones.",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Defiant%20Ones.",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

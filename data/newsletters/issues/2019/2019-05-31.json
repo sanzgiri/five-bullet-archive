@@ -21,6 +21,19 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/o8uzm727egaqh459w3/0diwh9h9xg8rr0/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0zNm0xby10TTA1Zw=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=My%20philosophy%20for%20a%20happy%20life%20%7C%20Sam%20Berns%20%7C%20TEDxMidAtlantic",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=My%20philosophy%20for%20a%20happy%20life%20%7C%20Sam%20Berns%20%7C%20TEDxMidAtlantic",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

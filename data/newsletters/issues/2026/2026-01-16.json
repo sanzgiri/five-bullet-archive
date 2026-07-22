@@ -42,7 +42,7 @@
           "url": "https://www.amazon.com/Secret-Life-Walter-Mitty/dp/B00JP5ONY0/?tag=offsitoftimfe-20"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Secret-Life-Walter-Mitty/dp/B00JP5ONY0/?tag=offsitoftimfe-20"
         },
         {
@@ -64,6 +64,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=5I6T_WztBXg"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Secret%20Life%20of%20Walter%20Mitty",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Secret%20Life%20of%20Walter%20Mitty",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -85,7 +98,7 @@
           "url": "https://tim.blog/2007/12/16/10-random-gifts-that-please-almost-everyone/"
         },
         {
-          "type": "other",
+          "type": "audible",
           "url": "https://www.audible.com/series/Foundation-Korean-Michel-Thomas-Method-Audiobooks/B0BN4JZ5DB?creativeId=292d6343-f11b-4bbe-a8a5-d4b7272abf61&ipRedirectOverride=true&overrideBaseCountry=true&pageLoadId=5oEjZNgapw4pzgPM&pf_rd_p=8431280a-a7ba-4839-9f08-cb75c29d7f6a&pf_rd_r=Z891QQQB960GT4JKWDFP&plink=YTchwYlNSpMGisXR&ref_pageloadid=not_applicable"
         }
       ]
@@ -104,7 +117,7 @@
           "url": "https://www.youtube.com/watch?feature=youtu.be&v=mr_NUWhYASg"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Test-Courage-Biography-Nazi-Hunter-Christopher-ebook/dp/B0071MB022/?tag=offsitoftimfe-20"
         }
       ]

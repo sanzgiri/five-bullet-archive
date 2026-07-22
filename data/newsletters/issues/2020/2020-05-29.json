@@ -155,6 +155,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/xmvhph6h79k8066/aHR0cHM6Ly90d2l0dGVyLmNvbS9UaW1IYXJmb3Jk"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Trial%2C%20error%2C%20and%20the%20God%20complex",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Trial%2C%20error%2C%20and%20the%20God%20complex",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

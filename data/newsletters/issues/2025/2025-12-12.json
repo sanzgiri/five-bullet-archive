@@ -27,7 +27,7 @@
           "url": "https://youtu.be/IVM5zKR0CKU?si=FQPGPDkiI0wJb7rn"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/75dJocBoEEYgBkhCw78j4G?dlsi=b8d7f9597e994322&nd=1&si=nf3tSFYNTH-HXoXCNzMrjQ"
         },
         {
@@ -68,6 +68,11 @@
         {
           "type": "other",
           "url": "https://www.floodgate.com/"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Pattern%20Breakers%3A%20Why%20Some%20Start-Ups%20Change%20the%20Future%20Mike%20Maples%20and%20Peter%20Ziebelman",
+          "search_fallback": true
         }
       ]
     },
@@ -97,7 +102,7 @@
           "url": "https://x.com/danwwang?lang=en"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Breakneck-Chinas-Quest-Engineer-Future/dp/1324106034/?tag=offsitoftimfe-20"
         }
       ]
@@ -142,6 +147,19 @@
         {
           "type": "other",
           "url": "https://x.com/photomatt/status/1997749043733156236"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Thinking%20Game",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Thinking%20Game",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

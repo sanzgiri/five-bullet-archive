@@ -27,7 +27,7 @@
           "url": "https://www.youtube.com/watch?v=KK2zeLbKlnc"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/3ktye8UiJXiXHbp1Elonn6?si=913e6b689e20428d"
         },
         {
@@ -35,7 +35,7 @@
           "url": "https://www.gramatik.net/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
         },
         {
@@ -87,6 +87,19 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/p/CgmvolcA5ar/"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Travels%20with%20Charley%3A%20In%20Search%20of%20America%20John%20Steinbeck",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/181620",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Travels with Charley in Search of America",
+          "catalog_creator": "John Steinbeck, Jay Parini"
         }
       ]
     },
@@ -122,6 +135,19 @@
         {
           "type": "other",
           "url": "https://tim.blog/2022/09/23/a-rare-in-person-random-show-kevin-rose/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Price%20of%20Everything",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Price%20of%20Everything",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

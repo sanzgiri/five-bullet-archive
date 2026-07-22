@@ -22,6 +22,11 @@
         {
           "type": "original",
           "url": "https://www.amazon.com/Tales-Dervishes-Teaching-Stories-Masters-Thousand/dp/0140193588"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Tales%20of%20the%20Dervishes%3A%20Teaching-Stories%20of%20the%20Sufi%20Masters%20over%20the%20Past%20Thousand%20Years",
+          "search_fallback": true
         }
       ]
     },
@@ -68,6 +73,19 @@
         {
           "type": "other",
           "url": "https://twitter.com/sivers?lang=en"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=My%20Octopus%20Teacher",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=My%20Octopus%20Teacher",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -89,7 +107,7 @@
           "url": "https://www.youtube.com/watch?v=apu_2WRrSaI"
         },
         {
-          "type": "other",
+          "type": "spotify_album",
           "url": "https://open.spotify.com/album/5UPjxVI1xabSZjcRXEpl52?highlight=spotify:track:0Jk5J9HrDmCEKV7xYmaB6m"
         },
         {

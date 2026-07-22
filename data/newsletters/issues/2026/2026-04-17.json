@@ -24,7 +24,7 @@
           "url": "https://www.amazon.com/gp/video/detail/B0GM4YCY7B/?tag=offsitoftimfe-20"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/gp/video/detail/B0GM4YCY7B/?tag=offsitoftimfe-20"
         },
         {
@@ -42,6 +42,19 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/David_Arquette"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=You%20Cannot%20Kill%20David%20Arquette",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=You%20Cannot%20Kill%20David%20Arquette",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -86,16 +99,29 @@
           "url": "https://en.wikipedia.org/wiki/Barry_Lopez"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Wolves-Men-Barry-Holstun-Lopez/dp/0684163225/?tag=offsitoftimfe-20"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Arctic-Dreams-Barry-Lopez/dp/0375727485/?tag=offsitoftimfe-20"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/About-This-Life-Journeys-Threshold/dp/0679754474/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=About%20This%20Life%3A%20Journeys%20on%20the%20Threshold%20of%20Memory%20Barry%20Lopez",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/633425",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "About This Life",
+          "catalog_creator": "Barry Lopez"
         }
       ]
     },

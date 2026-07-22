@@ -29,6 +29,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/gku0l36gga5hkq9od/nmtohvh045o62/aHR0cDovL3d3dy5hcnRuZXQuY29tL2FydGlzdHMvYW5keS1nb2xkc3dvcnRoeS8="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Rivers%20and%20Tides%20(documentary)",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Rivers%20and%20Tides%20(documentary)",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

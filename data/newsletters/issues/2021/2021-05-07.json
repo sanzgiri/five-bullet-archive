@@ -30,6 +30,19 @@
         {
           "type": "other",
           "url": "https://www.inshadow.net/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=IN-SHADOW%20-%20A%20Modern%20Odyssey%20-%20Animated%20Short%20Film",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=IN-SHADOW%20-%20A%20Modern%20Odyssey%20-%20Animated%20Short%20Film",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -51,7 +64,7 @@
           "url": "https://www.youtube.com/watch?v=tW2cTkdhm_I"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/6Keph1R8W5UIsjTWxUAZEG?si=cd22cf68368a44cd"
         },
         {
@@ -103,6 +116,19 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Dan_O'Brien_(author"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Buffalo%20for%20the%20Broken%20Heart%3A%20Restoring%20Life%20to%20a%20Black%20Hills%20Ranch%20Dan%20O%E2%80%99Brien)_",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/449477",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Buffalo for the Broken Heart",
+          "catalog_creator": "Dan O'Brien"
         }
       ]
     },

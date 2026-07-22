@@ -75,6 +75,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/r8u063gzzaohv240p/2ou2ho/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UdXhlZG8tUGFyay1TdHJlZXQtU2NpZW5jZS1DaGFuZ2VkL2RwLzA2ODQ4NzI4ODk="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Instagram",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Instagram",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

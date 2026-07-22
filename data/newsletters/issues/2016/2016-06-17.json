@@ -74,6 +74,16 @@
         {
           "type": "original",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wyw&mc=e&s=bomwH&u=w&y=Z&"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Good%20lord",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Good%20lord",
+          "search_fallback": true
         }
       ]
     },

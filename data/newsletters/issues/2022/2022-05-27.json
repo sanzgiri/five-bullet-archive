@@ -54,8 +54,21 @@
           "url": "https://twitter.com/davideagleman"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Sum-Forty-Afterlives-David-Eagleman/dp/0307389936/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Can%20we%20create%20new%20senses%20for%20humans%3F%20David%20Eagleman",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Can%20we%20create%20new%20senses%20for%20humans%3F%20David%20Eagleman",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -102,6 +115,24 @@
         {
           "type": "other",
           "url": "https://twitter.com/annakaharris"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Conscious%3A%20A%20Brief%20Guide%20to%20the%20Fundamental%20Mystery%20of%20the%20Mind%20Annaka%20Harris",
+          "search_fallback": true
+        },
+        {
+          "type": "audible",
+          "url": "https://www.audible.com/search?keywords=Conscious%3A%20A%20Brief%20Guide%20to%20the%20Fundamental%20Mystery%20of%20the%20Mind%20Annaka%20Harris",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/4311053",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Conscious",
+          "catalog_creator": "Annaka Harris, Annaka Harris"
         }
       ]
     },

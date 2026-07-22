@@ -31,11 +31,11 @@
           "url": "https://www.youtube.com/watch?v=bt90VCye6Vk"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Past-Lives-Greta-Lee/dp/B0CBHDBRF2/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Past-Lives-Greta-Lee/dp/B0CBHDBRF2/"
         },
         {
@@ -81,6 +81,19 @@
         {
           "type": "other",
           "url": "https://www.duolingo.com/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=%E2%80%9CK-Pop%E2%80%9D%20on%20Explained_%2C%20S1%20E4",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=%E2%80%9CK-Pop%E2%80%9D%20on%20Explained_%2C%20S1%20E4",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -141,7 +154,7 @@
           "url": "https://www.ryanestrada.com/countingkorean/index.html"
         },
         {
-          "type": "other",
+          "type": "audible",
           "url": "https://www.audible.com/series/Foundation-Korean-Michel-Thomas-Method-Audiobooks/B0BN4JZ5DB"
         },
         {
@@ -157,7 +170,7 @@
           "url": "https://www.duolingo.com/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/dp/1786576007?psc=1&ref=ppx_yo2ov_dt_b_product_details"
         },
         {
@@ -165,7 +178,7 @@
           "url": "https://en.wikipedia.org/wiki/Lonely_Planet"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Korean-Level-Downloadable-Included-English/dp/1186701072/ref=pd_bxgy_d_sccl_2/130-4397740-4827749?pd_rd_w=T6OIH&content-id=amzn1.sym.7746dde5-5539-43d2-b75f-28935d70f100&pf_rd_p=7746dde5-5539-43d2-b75f-28935d70f100&pf_rd_r=0NQWMKDASYRH2SEM6VBW&pd_rd_wg=3F6QJ&pd_rd_r=48451a08-bd01-42d8-9caf-6905e56fd2e8&pd_rd_i=1186701072&psc=1"
         },
         {

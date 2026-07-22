@@ -71,6 +71,19 @@
         {
           "type": "other",
           "url": "https://www.linkedin.com/in/chrisberesfordhill/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Conan%20O%E2%80%99Brien%20Can%E2%80%99t%20Stop",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Conan%20O%E2%80%99Brien%20Can%E2%80%99t%20Stop",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -158,7 +171,7 @@
           "url": "https://podcasts.apple.com/us/podcast/the-tim-ferriss-show/id863897795"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM"
         },
         {

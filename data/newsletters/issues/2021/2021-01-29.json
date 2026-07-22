@@ -55,7 +55,7 @@
           "url": "https://www.youtube.com/watch?v=2zToEPpFEN8"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI"
         },
         {
@@ -96,6 +96,19 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=nmVcIhnvSx8"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Kurt%20Vonnegut%20on%20how%20to%20write%20a%20short%20story",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Kurt%20Vonnegut%20on%20how%20to%20write%20a%20short%20story",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -139,6 +152,19 @@
         {
           "type": "other",
           "url": "https://tim.blog/2020/09/30/mark-plotkin/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Guardians%20of%20the%20Amazon",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Guardians%20of%20the%20Amazon",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

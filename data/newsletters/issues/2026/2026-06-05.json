@@ -71,7 +71,7 @@
           "url": "https://podcasts.apple.com/us/podcast/868-tims-founder-kitchen-from-brainstorm-to-the/id863897795?i=1000770838211"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/04EV7D2yhOJtKxuqyoC6TP?si=IoqB_IODQTiss2QuRD-Wtw&nd=1&dlsi=a9116c112473462f"
         },
         {
@@ -96,6 +96,11 @@
         {
           "type": "other",
           "url": "https://tim.blog/2019/01/24/susan-cain/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Art%20Is%20the%20Highest%20Form%20of%20Hope",
+          "search_fallback": true
         }
       ]
     },
@@ -150,6 +155,19 @@
         {
           "type": "other",
           "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Why%20We%20Sleep%20Matthew%20Walker",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/3249791",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Why We Sleep",
+          "catalog_creator": "Matthew Walker"
         }
       ]
     }

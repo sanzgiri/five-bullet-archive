@@ -45,6 +45,19 @@
         {
           "type": "original",
           "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/6mceh8hk4v7gro/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9LdW1hcmUtVmlrcmFtLUdhbmRoaS9kcC9CMDBBTUJIMTFJL3JlZj10bW1fYWl2X3N3YXRjaF8xP19lbmNvZGluZz1VVEY4JnFpZD0mc3I9"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Kumare",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Kumare",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

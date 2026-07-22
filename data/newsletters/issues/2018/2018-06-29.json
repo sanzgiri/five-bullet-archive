@@ -63,6 +63,11 @@
         {
           "type": "other",
           "url": "https://tim.blog/2010/04/11/public-speaking-how-i-prepare-every-time/"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/%E2%80%9CSave%20Me%E2%80%9D%20by%20Damageplan",
+          "search_fallback": true
         }
       ]
     },
@@ -88,7 +93,7 @@
           "url": "https://tribeofmentors.com/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Body-Back-Original-Trigger-Therapy/dp/B005F9F5H4"
         }
       ]

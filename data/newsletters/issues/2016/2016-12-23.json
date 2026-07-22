@@ -48,6 +48,19 @@
         {
           "type": "other",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=day&mc=b&s=bomwH&u=w&y=X&"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=How%20to%20Chop%20Wood%20The%20Smart%20Way",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=How%20to%20Chop%20Wood%20The%20Smart%20Way",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -120,6 +133,16 @@
         {
           "type": "other",
           "url": "http://multimedia.fourhournewsletter.com/4hourweek/1/1/photos/6075.jpg?img1482484436448"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Leonardo%20Da%20Vinci%E2%80%99s%20To%20Do%20List%20(Circa%201490)%20Is%20Much%20Cooler%20Than%20Yours",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Leonardo%20Da%20Vinci%E2%80%99s%20To%20Do%20List%20(Circa%201490)%20Is%20Much%20Cooler%20Than%20Yours",
+          "search_fallback": true
         }
       ]
     }

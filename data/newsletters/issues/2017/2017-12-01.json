@@ -75,6 +75,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/v8ur85neeurhvqq96/2ou2ho/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzExLzA4L3RpbS1vcmVpbGx5Lw=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Fred%20Rogers%20(%E2%80%9CMr.%20Rogers%E2%80%9D%20of%20television%20fame)%20testifies%20before%20the%20Senate%20Subcommittee%20on%20Communications%20in%201969",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Fred%20Rogers%20(%E2%80%9CMr.%20Rogers%E2%80%9D%20of%20television%20fame)%20testifies%20before%20the%20Senate%20Subcommittee%20on%20Communications%20in%201969",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

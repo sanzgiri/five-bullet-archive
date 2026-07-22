@@ -28,7 +28,7 @@
           "url": "https://www.youtube.com/watch?v=f8kW2LI19K4"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/gp/product/B0875MWHHN"
         },
         {
@@ -54,6 +54,19 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/rosasalazar/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Undone",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Undone",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -141,7 +154,7 @@
           "url": "https://www.youtube.com/watch?v=RuA4vuBp344"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/1AolHkT2QxjfORIgO74vmi"
         },
         {

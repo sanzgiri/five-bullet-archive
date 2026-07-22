@@ -36,6 +36,19 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/wvunxemrragh48xx8/opfkhq/aHR0cHM6Ly93d3cuaGJvLmNvbS9jb250ZW50L2hib3dlYi9lbi9kb2N1bWVudGFyaWVzL3NwaWVsYmVyZy9zeW5vcHNpcy5odG1s"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Spielberg",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Spielberg",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

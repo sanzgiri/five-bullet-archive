@@ -106,6 +106,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/p9u0o5g5pqu9h4qdxmh8/86sqhohp5m8vg8/aHR0cHM6Ly90d2l0dGVyLmNvbS9kYW5fZm9nZWxtYW4="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Crazy%2C%20Stupid%2C%20Love",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Crazy%2C%20Stupid%2C%20Love",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

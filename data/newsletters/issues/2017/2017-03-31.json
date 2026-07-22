@@ -44,6 +44,11 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8hk34v5/e1pnyl/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JTTEN5ZzNCeTRBLz90YWtlbi1ieT10aW1mZXJyaXNz"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/RJD2%20station%20on%20Pandora",
+          "search_fallback": true
         }
       ]
     },

@@ -42,6 +42,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=FcQ3ELLLgqc"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Prisoner%20No%20More",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Prisoner%20No%20More",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -82,7 +95,7 @@
           "url": "https://music.youtube.com/watch?v=sqlGsIRGiSQ&si=z8NeIRx2AjGklEre"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/5dx95jHmEMSvbq4EyG2Pee"
         },
         {
@@ -117,7 +130,7 @@
           "url": "https://polymath707.substack.com/p/getting-closer-to-her-from-moshi"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Her-Joaquin-Phoenix/dp/B00KATY250/?tag=offsitoftimfe-20"
         },
         {
@@ -148,11 +161,11 @@
           "url": "https://en.wikipedia.org/wiki/Michel_Thomas"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Test-Courage-Biography-Nazi-Hunter-Christopher-ebook/dp/B0071MB022/?tag=offsitoftimfe-20"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/stores/Christopher-Robbins/author/B0034OYMBW/?tag=offsitoftimfe-20&ccs_id=645ee105-20b3-42c5-8d32-fd449ab86dca"
         },
         {

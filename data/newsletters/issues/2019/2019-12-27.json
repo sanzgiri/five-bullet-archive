@@ -29,6 +29,11 @@
         {
           "type": "other",
           "url": "https://el2.convertkit-mail4.com/c/8kunrv2v70toho6zqqtz/qmt8h7h22kokgq/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9CZXR0ZXItQW5nZWxzLU91ci1OYXR1cmUtVmlvbGVuY2UvZHAvMDE0MzEyMjAxMA=="
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/Julieta%20Venegas%20%E2%80%94%20Eres%20para%20M%C3%AD",
+          "search_fallback": true
         }
       ]
     },
@@ -87,6 +92,19 @@
         {
           "type": "other",
           "url": "https://el2.convertkit-mail4.com/c/8kunrv2v70toho6zqqtz/pkteh9h55qgqkp/aHR0cHM6Ly90d2l0dGVyLmNvbS9qb3JkYW5icGV0ZXJzb24="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Rise%20of%20Jordan%20Peterson",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Rise%20of%20Jordan%20Peterson",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

@@ -69,7 +69,7 @@
           "url": "https://www.youtube.com/watch?v=zQc3opYjALk"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/1CUalyCHoiuVMjJQr2ps5U?autoplay=true"
         },
         {
@@ -94,6 +94,19 @@
         {
           "type": "original",
           "url": "https://www.netflix.com/title/81506279"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Old%20Enough!",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Old%20Enough!",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

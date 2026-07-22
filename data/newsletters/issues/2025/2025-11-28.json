@@ -41,6 +41,19 @@
         {
           "type": "other",
           "url": "https://press.uchicago.edu/ucp/books/author/H/S/au8169879.html"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Genentech%3A%20The%20Beginnings%20of%20Biotech%20Sally%20Smith%20Hughes",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/6417017",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Genentech",
+          "catalog_creator": "Sally Smith Hughes, Suzie Althens"
         }
       ]
     },
@@ -56,6 +69,19 @@
         {
           "type": "original",
           "url": "https://youtu.be/duJendMuh9w"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=UFC%20is%20NOT%20Ready%20For%20Him...%20Next%20Gen%20Submission%20Master%20-%20Mica%20Galv%C3%A3o",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=UFC%20is%20NOT%20Ready%20For%20Him...%20Next%20Gen%20Submission%20Master%20-%20Mica%20Galv%C3%A3o",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

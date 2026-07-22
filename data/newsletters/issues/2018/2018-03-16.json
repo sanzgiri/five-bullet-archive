@@ -40,6 +40,19 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohg65mo/zvtghn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9CYXJrbGV5LU1hcmF0aG9ucy1SYWNlLVRoYXQtWW91bmcvZHAvQjAxN1k0M1AzUy8="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Barkley%20Marathons%3A%20The%20Race%20That%20Eats%20Its%20Young",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Barkley%20Marathons%3A%20The%20Race%20That%20Eats%20Its%20Young",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

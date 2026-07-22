@@ -53,6 +53,19 @@
         {
           "type": "other",
           "url": "https://twitter.com/ethanajacobs/status/1415729968793927683"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Kokoyakyu%3A%20High%20School%20Baseball",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Kokoyakyu%3A%20High%20School%20Baseball",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -70,11 +83,11 @@
           "url": "https://www.vice.com/en/article/exm5dw/terence-mckennas-memes-234"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Archaic-Revival-Speculations-Psychedelic-Mushrooms/dp/0062506137/ref=sr_1_1?dchild=1&keywords=the+archaic+revival&qid=1626384158&sr=8-1"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Food-Gods-Original-Knowledge-Evolution/dp/0553371304/ref=pd_vtp_1/147-3319022-5415553?pd_rd_w=XSpGa&pf_rd_p=016e3697-91be-4dc2-9533-ef9350e7e73d&pf_rd_r=JR7WJ73AZ606GHC4RQG8&pd_rd_r=9bc56b9a-19e5-4c3c-be89-9032bc01c940&pd_rd_wg=G2y9x&pd_rd_i=0553371304&psc=1"
         }
       ]
@@ -97,7 +110,7 @@
           "url": "https://www.youtube.com/watch?v=2Enjla7qvtA"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/103UkTPcm9VkLMQ8YuvKeG?si=bc6d89e2b54d4961"
         },
         {

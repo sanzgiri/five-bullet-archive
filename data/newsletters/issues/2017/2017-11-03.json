@@ -67,6 +67,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/38uml98xxakh2l7ox/kmbmh6/aHR0cHM6Ly93d3cuc2hvcGlmeS5jb20v"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Abstract%3A%20The%20Art%20of%20Design",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Abstract%3A%20The%20Art%20of%20Design",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

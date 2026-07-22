@@ -35,27 +35,27 @@
           "url": "https://www.youtube.com/watch?v=QGeEduRTPWg"
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.netflix.com/watch/80181888?trackId=14277283"
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.netflix.com/watch/80181883?trackId=14277283"
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.netflix.com/watch/80181575?trackId=14277283"
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.netflix.com/watch/80181884?trackId=14277283"
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.netflix.com/watch/80181982?trackId=14277283"
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.netflix.com/watch/80181983?trackId=14277283"
         },
         {
@@ -65,6 +65,19 @@
         {
           "type": "other",
           "url": "https://tim.blog/2020/12/08/jerry-seinfeld/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Comedians%20in%20Cars%20Getting%20Coffee",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Comedians%20in%20Cars%20Getting%20Coffee",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -151,7 +164,7 @@
           "url": "https://twitter.com/davidfidelerphd"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Breakfast-Seneca-Stoic-Guide-Living/dp/039353166X/ref=sr_1_1?keywords=Breakfast+with+Seneca%3A+A+Stoic+Guide+to+the+Art+of+Living&qid=1637591923&sr=8-1"
         },
         {

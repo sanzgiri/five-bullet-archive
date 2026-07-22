@@ -66,7 +66,7 @@
           "url": "https://www.santabarbarapistachios.com/shop-pistachios-santa-barbara#!/Chile-Lemon-Organic-In-Shell-Pistachios/p/62066743/category=18513096"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/ref=mp_s_a_1_2?dchild=1&keywords=4-hour+chef+ferriss&qid=1630000729&sr=8-2"
         }
       ]
@@ -101,12 +101,25 @@
           "url": "https://www.bloomberg.com/news/newsletters/2021-08-22/hbo-is-about-to-lose-5-million-customers-it-s-not-concerned"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Chapter-I-Sea-Monsters/dp/B098RBMJV9/ref=sr_1_fkmr0_1?dchild=1&keywords=100+foot+wave&qid=1630076232&sr=8-1-fkmr0"
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.hbomax.com/series/urn:hbo:series:GYK6A0wdFMsMdJgEAAAAJ"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=100%20Foot%20Wave",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=100%20Foot%20Wave",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -122,6 +135,19 @@
         {
           "type": "original",
           "url": "https://youtu.be/J6NuhlibHsM"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Fox%20Calls",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Fox%20Calls",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

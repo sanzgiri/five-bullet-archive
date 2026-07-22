@@ -83,6 +83,19 @@
         {
           "type": "original",
           "url": "https://youtu.be/_KLSbCtinXs"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Letterkenny%20Problems%20Ep.%201",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Letterkenny%20Problems%20Ep.%201",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -126,6 +139,11 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=5m7SGjJo7c4"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Dungeons%20%26%20Dragons%20Art%20%26%20Arcana%3A%20A%20Visual%20History",
+          "search_fallback": true
         }
       ]
     },

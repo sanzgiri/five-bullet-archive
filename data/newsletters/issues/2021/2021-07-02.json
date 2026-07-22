@@ -53,6 +53,19 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/vincent_bal/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Playing%20with%20shadows%20Vincent%20Bal%2C%20a%20%E2%80%9Cshadowologist",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Playing%20with%20shadows%20Vincent%20Bal%2C%20a%20%E2%80%9Cshadowologist",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -188,7 +201,7 @@
           "url": "https://www.vice.com/en/article/exm5dw/terence-mckennas-memes-234"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/True-Hallucinations-Extraordinary-Adventures-Paradise/dp/0062506528/ref=sr_1_1?dchild=1&keywords=True+Hallucinations&qid=1625249759&s=books&sr=1-1"
         },
         {

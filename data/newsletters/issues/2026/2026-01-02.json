@@ -116,7 +116,7 @@
           "url": "https://www.gymnasticbodies.com/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788/?tag=offsitoftimfe-20"
         },
         {
@@ -155,7 +155,7 @@
           "url": "https://ctt.ec/V4GIS"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Solve-Happy-Engineer-Your-Path/dp/1501157558?tag=offsitoftimfe-20"
         },
         {
@@ -163,12 +163,25 @@
           "url": "https://en.wikipedia.org/wiki/Mo_Gawdat"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Solve-Happy-Engineer-Your-Path/dp/1501157558?tag=offsitoftimfe-20"
         },
         {
           "type": "other",
           "url": "https://ctt.ec/d2Eoe"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=How%20to%20Stop%20Worrying%20and%20Start%20Living%20Dale%20Carnegie",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/451588",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "How to Stop Worrying and Start Living",
+          "catalog_creator": "Dale Carnegie"
         }
       ]
     }

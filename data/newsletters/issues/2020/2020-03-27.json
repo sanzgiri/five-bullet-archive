@@ -44,6 +44,19 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/56cvh7hzg6w2e2/aHR0cHM6Ly92aW1lby5jb20vb25kZW1hbmQvZG9zZWQ="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=DOSED",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=DOSED",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

@@ -29,6 +29,19 @@
         {
           "type": "other",
           "url": "https://www.imdb.com/title/tt0251424/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Alfred%20Hitchcock%20defines%20happiness",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Alfred%20Hitchcock%20defines%20happiness",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -50,7 +63,7 @@
           "url": "https://twitter.com/scmallaby"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/More-Money-Than-God-audiobook/dp/B004AUQPF0/"
         },
         {
@@ -64,6 +77,19 @@
         {
           "type": "other",
           "url": "https://tim.blog/2022/08/31/roelof-botha/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Power%20Law%3A%20Venture%20Capital%20and%20the%20Making%20of%20the%20New%20Future%20Sebastian%20Mallaby",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/6267508",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "The Power Law",
+          "catalog_creator": "Sebastian Mallaby"
         }
       ]
     },
@@ -91,6 +117,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=Q5rg_63Shqg"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Pisces%20(Live%20Session)",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Pisces%20(Live%20Session)",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -112,7 +151,7 @@
           "url": "https://skullshaver.com/collections/mens-shavers?tw_source=google&tw_adid=&utm_source=google&utm_medium=paid&utm_campaign=21070065322&utm_content=&utm_term=&gadid=&gad_source=1&gclid=CjwKCAjw48-vBhBbEiwAzqrZVB0sv-QUou6KSokNVLfmIBvUESd8tPJPJ1iMdkNHnfgZ-QVwxKGqmhoCIWoQAvD_BwE"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Skull-Shaver-Pitbull-Gold-Adapter/dp/B08GQFV54Z?ref_=ast_sto_dp&th=1&psc=1"
         }
       ]

@@ -31,7 +31,7 @@
           "url": "https://www.youtube.com/watch?v=dlXZHB-FrEk"
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.hbomax.com/sk/en/feature/urn:hbo:feature:GZJF5jwTZSad9XQEAAA3K"
         },
         {
@@ -49,6 +49,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=T0YVueR5ho0"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=An%20Irish%20Goodbye",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=An%20Irish%20Goodbye",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -110,6 +123,11 @@
         {
           "type": "other",
           "url": "https://twitter.com/ostadjaan"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Wine%20%26%20Prayer%3A%20Eighty%20Ghazals%20from%20the%20Divan%20of%20Hafiz",
+          "search_fallback": true
         }
       ]
     },
@@ -127,7 +145,7 @@
           "url": "https://en.wikipedia.org/wiki/Ken_Liu"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Paper-Menagerie-Other-Stories/dp/148142436X/"
         },
         {
@@ -135,7 +153,7 @@
           "url": "https://ma.tt/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Paper-Menagerie-Other-Stories/dp/148142436X/"
         },
         {

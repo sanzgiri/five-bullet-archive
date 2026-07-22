@@ -29,6 +29,11 @@
         {
           "type": "other",
           "url": "https://twitter.com/themoth"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Moth%20Presents%20Occasional%20Magic%3A%20True%20Stories%20About%20Defying%20the%20Impossible",
+          "search_fallback": true
         }
       ]
     },
@@ -46,7 +51,7 @@
           "url": "https://www.amazon.com/You-Cannot-Kill-David-Arquette/dp/B08DKRHKGY/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/You-Cannot-Kill-David-Arquette/dp/B08DKRHKGY/"
         },
         {
@@ -54,7 +59,7 @@
           "url": "https://www.youtube.com/watch?v=8rzmyeryahQ"
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.hulu.com/movie/you-cannot-kill-david-arquette-ec161115-8a1f-4271-9d83-88c3f2c21d2d?d=Gracenote&cmp=rt_where_to_watch&content_id=1000146449"
         },
         {
@@ -72,6 +77,19 @@
         {
           "type": "other",
           "url": "https://twitter.com/davidarquette"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=You%20Cannot%20Kill%20David%20Arquette",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=You%20Cannot%20Kill%20David%20Arquette",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -93,7 +111,7 @@
           "url": "https://yaktrax.implus.com/products/traction/yaktrax-walk-ice-shoes"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/stores/Yaktrax/page/6A1DA552-1ACD-4668-93BD-1C24EEE18432?ref_=ast_bln"
         },
         {
@@ -134,6 +152,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=O_VYXcdTReQ&t=1020"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=A%20Brief%20History%20of%205-MeO-DMT%20Hamilton%20Morris",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=A%20Brief%20History%20of%205-MeO-DMT%20Hamilton%20Morris",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -170,7 +201,7 @@
           "url": "https://www.youtube.com/watch?v=OMShxq3tSrY"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/7dgQ4X73bWNVAGFfafhga9"
         },
         {

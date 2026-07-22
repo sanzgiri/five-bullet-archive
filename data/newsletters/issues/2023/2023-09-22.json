@@ -31,7 +31,7 @@
           "url": "https://www.instagram.com/jeffreyzurofsky/?hl=en"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
         },
         {
@@ -62,8 +62,21 @@
           "url": "https://www.youtube.com/watch?v=J-B9CVCcLrM"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Red-Army-Scotty-Bowman/dp/B00XWTXYJK"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=In%20Search%20of%20Greatness",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=In%20Search%20of%20Greatness",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

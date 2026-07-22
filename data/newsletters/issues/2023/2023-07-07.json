@@ -23,7 +23,7 @@
           "url": "https://open.spotify.com/track/4vcOCbnDKDxIi4apdeP4zl?si=8bfaa73c7ee048a9"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/4vcOCbnDKDxIi4apdeP4zl?si=8bfaa73c7ee048a9"
         },
         {
@@ -73,7 +73,7 @@
           "url": "https://www.reddit.com/r/Superbowl/comments/5xy94s/blood_from_the_shoulder_of_pallas_a_lengthy_text/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Watchmen-Alan-Moore/dp/1401245250"
         }
       ]
@@ -98,6 +98,16 @@
         {
           "type": "other",
           "url": "https://www.stephenfry.com/"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=The%20Hitchhiker%E2%80%99s%20Guide%20to%20the%20Galaxy%20Douglas%20Adams%2C%20narrated%20by%20the%20one%20and%20only%20Stephen%20Fry",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Hitchhiker%E2%80%99s%20Guide%20to%20the%20Galaxy%20Douglas%20Adams%2C%20narrated%20by%20the%20one%20and%20only%20Stephen%20Fry",
+          "search_fallback": true
         }
       ]
     },

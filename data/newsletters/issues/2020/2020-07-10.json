@@ -85,6 +85,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/kkhmh6h9x5vn4o/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzA5LzA5L2RhcnJlbi1hcm9ub2Zza3kvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Fountain",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Fountain",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -186,6 +199,11 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/e0hph7hnrlo7m6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1zTVlmNlRjdkZ2NA=="
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/Sabelo%20Bajofondo",
+          "search_fallback": true
         }
       ]
     },

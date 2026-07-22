@@ -27,7 +27,7 @@
           "url": "https://youtu.be/k-tTxtLTpfk"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj"
         },
         {
@@ -102,6 +102,19 @@
         {
           "type": "original",
           "url": "https://youtu.be/TzChDqTfL4E"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Most%20Vicious%20Heavyweight%20In%20History%20-%20Jack%20Dempsey",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Most%20Vicious%20Heavyweight%20In%20History%20-%20Jack%20Dempsey",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -166,7 +179,7 @@
           "url": "https://podcasts.apple.com/us/podcast/id1657210471?mt=2&ls=1"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/show/0O9MhcUVpWSjPpMFwia1WH"
         },
         {

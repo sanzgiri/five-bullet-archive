@@ -26,6 +26,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/zefghnhrwp937l/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1kRFNxMmZGOWZsaw=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Mike%20Wallace%20Is%20Here",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Mike%20Wallace%20Is%20Here",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

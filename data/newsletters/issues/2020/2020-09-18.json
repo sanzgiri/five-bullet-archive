@@ -28,7 +28,7 @@
           "url": "https://podcasts.apple.com/us/podcast/464-tim-ferriss-my-healing-journey-after-childhood-abuse/id863897795?i=1000491267481"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/1M2SsLRhA1IQHEHG7CbNjC"
         },
         {
@@ -71,7 +71,7 @@
           "url": "https://www.youtube.com/watch?v=RTzL-G2kIA8"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/4iY6Xv5g3SbauDZmCf2kr4"
         },
         {
@@ -127,6 +127,19 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/John_McPhee"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Draft%20No.%204%20John%20McPhee",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/3158194",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Draft No. 4",
+          "catalog_creator": "John McPhee"
         }
       ]
     },

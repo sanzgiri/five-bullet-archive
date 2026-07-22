@@ -69,7 +69,7 @@
           "url": "https://www.ryanestrada.com/learntoreadkoreanin15minutes/"
         },
         {
-          "type": "other",
+          "type": "streaming",
           "url": "https://www.netflix.com/title/81498621"
         }
       ]
@@ -107,7 +107,7 @@
           "url": "https://youtu.be/JOoKoY0tIw0?si=Kotr2ihPMlQh0z3O"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/2Ene2KtroHMwyI4oxwEbl9?autoplay=true&v=T"
         },
         {
@@ -140,6 +140,11 @@
         {
           "type": "other",
           "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Art%20of%20Possibility%20Rosamund%20Stone%20Zander%20and%20Benjamin%20Zander%20*%20*%20*%20You%20can%20complement%20this%20edition%20of%205-Bullet%20Friday%20w",
+          "search_fallback": true
         }
       ]
     }

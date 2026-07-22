@@ -127,6 +127,16 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/owhkhqh8eqnd4d/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Joe%20Green",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Joe%20Green",
+          "search_fallback": true
         }
       ]
     }

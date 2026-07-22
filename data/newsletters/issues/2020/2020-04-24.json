@@ -84,6 +84,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/vet3hrhdwwmk7z/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL25lZnRhbGkuZXNwaW5vemFjdXRpL3ZpZGVvcy8yMDAzNzY0NzEzMDkwMTM2Lw=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=What%20Representing%20Men%20in%20Divorce%20Taught%20Me%20about%20Fatherhood%20(TEDxUniversityofNevada)",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=What%20Representing%20Men%20in%20Divorce%20Taught%20Me%20about%20Fatherhood%20(TEDxUniversityofNevada)",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

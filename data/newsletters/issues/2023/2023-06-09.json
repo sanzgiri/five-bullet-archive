@@ -27,7 +27,7 @@
           "url": "https://podcasts.apple.com/us/podcast/making-jordan-peele/id1171160683?i=1000613493060"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/2dl6tpa3dDYBzbL51SOXl3?si=A-u1WuH4QRaK2czSoh_rag"
         },
         {
@@ -51,15 +51,15 @@
           "url": "https://twitter.com/jordanpeele"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Us-Lupita-Nyongo/dp/B07PH23CW4"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Nope-Daniel-Kaluuya/dp/B0B8V3YZ85"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Get-Out-Daniel-Kaluuya/dp/B06Y1FYX25"
         },
         {
@@ -135,6 +135,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=JtqIas3bYhg"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Cyberpunk%3A%20Edgerunners",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Cyberpunk%3A%20Edgerunners",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -160,7 +173,7 @@
           "url": "https://music.apple.com/us/album/passear/1594701597?i=1594701602"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/6WqEmMNyQ9e3HRKzhV3Hr2"
         },
         {

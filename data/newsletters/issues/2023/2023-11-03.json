@@ -61,7 +61,7 @@
           "url": "https://www.amazon.com/Past-Lives-Greta-Lee/dp/B0CBHDBRF2/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Past-Lives-Greta-Lee/dp/B0CBHDBRF2/"
         },
         {
@@ -95,6 +95,19 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/J_Magaro/?hl=en"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Past%20Lives",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Past%20Lives",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

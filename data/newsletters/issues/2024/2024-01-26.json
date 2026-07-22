@@ -25,6 +25,19 @@
         {
           "type": "other",
           "url": "http://www.phys.unm.edu/~tw/fas/yits/archive/oliver_wildgeese.html"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Mary%20Oliver%20reciting%20her%20poem%20%E2%80%9CWild%20Geese.%E2%80%9D",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Mary%20Oliver%20reciting%20her%20poem%20%E2%80%9CWild%20Geese.%E2%80%9D",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -128,8 +141,21 @@
           "url": "https://en.wikipedia.org/wiki/Amor_Towles"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Lincoln-Highway-Novel-Amor-Towles/dp/0735222355/"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Lincoln%20Highway%20Amor%20Towles",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/6080647",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "The Lincoln Highway",
+          "catalog_creator": "Amor Towles"
         }
       ]
     },

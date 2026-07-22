@@ -27,7 +27,7 @@
           "url": "https://youtu.be/IR5_rTCi-Bo?si=5pW0J6YK8q5tNBcj"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/0bgsj8kz5zWbQ6njk2Oqoz"
         },
         {
@@ -60,6 +60,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=MNchUEPt8yM"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Lost%20in%20Starlight",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Lost%20in%20Starlight",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -77,11 +90,11 @@
           "url": "https://www.amazon.com/Rode-Microphones-PSA1-Professional-Studio/dp/B09JBVR5B4/?th=1"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Shure-MV7-Microphone-Certified-Podcasting/dp/B0CTJ7PVN1/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Logitech-Calling-Noise-Canceling-Correction-Microsoft/dp/B09NBWWP79/"
         },
         {
@@ -141,6 +154,11 @@
         {
           "type": "other",
           "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20ONE%20Thing%20Gary%20Keller%20*%20*%20*%20You%20can%20complement%20this%20edition%20of%205-Bullet%20Friday%20with%20my%20brand-new%20podcast%20episo",
+          "search_fallback": true
         }
       ]
     }

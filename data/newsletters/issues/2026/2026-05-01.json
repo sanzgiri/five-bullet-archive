@@ -28,7 +28,7 @@
           "url": "https://www.youtube.com/watch?v=f5IruTV-LGQ"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/7EYENG2nOnb0DqXPHq4NF0?si=49c1c35bda804814&nd=1&dlsi=19f1cbfa8e3242af"
         },
         {
@@ -61,6 +61,19 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/valentindelluc/?hl=en"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Valentin%20Delluc%3A%20Speedriding%20in",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Valentin%20Delluc%3A%20Speedriding%20in",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -107,6 +120,19 @@
         {
           "type": "other",
           "url": "https://tim.blog/2020/11/11/mary-karr/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Art%20of%20Memoir%20Mary%20Karr",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/2074239",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "The Art of Memoir",
+          "catalog_creator": "Mary Karr"
         }
       ]
     },

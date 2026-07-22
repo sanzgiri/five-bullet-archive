@@ -53,6 +53,19 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/kgamh6h20drogr/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1qUlZub2ZjMm1xWSZmZWF0dXJlPXlvdXR1LmJl"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=174%20LBS%3A%20%233%20Michael%20Kemerer%20(Iowa)%20vs.%20%231%20Mark%20Hall%20(Penn%20State)%20%7C%202020%20B1G%20Wrestling",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=174%20LBS%3A%20%233%20Michael%20Kemerer%20(Iowa)%20vs.%20%231%20Mark%20Hall%20(Penn%20State)%20%7C%202020%20B1G%20Wrestling",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

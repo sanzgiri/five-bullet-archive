@@ -46,6 +46,19 @@
         {
           "type": "other",
           "url": "https://el2.convertkit-mail.com/c/27uk8e5mmuoh22w0ohr/mmb7h5hqlgoow0/aHR0cHM6Ly93d3cucm90dGVudG9tYXRvZXMuY29tL20vdGhlX2JpZ2dlc3RfbGl0dGxlX2Zhcm0="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Biggest%20Little%20Farm",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Biggest%20Little%20Farm",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

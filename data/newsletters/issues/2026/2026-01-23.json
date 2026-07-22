@@ -51,7 +51,7 @@
           "url": "https://www.amazon.com/gp/video/detail/B00A5IXEF0/?tag=offsitoftimfe-20"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/gp/video/detail/B00A5IXEF0/?tag=offsitoftimfe-20"
         },
         {
@@ -73,6 +73,19 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Les_Blank"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Burden%20of%20Dreams",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Burden%20of%20Dreams",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -113,7 +126,7 @@
           "url": "https://www.youtube.com/watch?feature=youtu.be&si=AGWMHzA5EiMn1Fsy&v=69rU9ajij10"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/6sjTzevtstOxOMsFsypsEm?context=spotify%3Aartist%3A6ZLTlhejhndI4Rh53vYhrY&si=okVRL0ksQbixDyMoRg0O3A"
         },
         {

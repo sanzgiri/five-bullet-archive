@@ -29,6 +29,11 @@
         {
           "type": "other",
           "url": "https://www.ahs.uwaterloo.ca/~mcgill/fitnessleadersguide.pdf"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Back%20Mechanic%20Dr",
+          "search_fallback": true
         }
       ]
     },
@@ -58,7 +63,7 @@
           "url": "https://en.wikipedia.org/wiki/Elliott_Kalan"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245/"
         },
         {
@@ -66,7 +71,7 @@
           "url": "https://podcasts.apple.com/us/podcast/power-broker-01-robert-caro/id394775318?i=1000642195418"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/6nRsxCu5n0Z8xBF63OGI1n?si=F_JYXAfQQi-mJDzOR511AA"
         },
         {

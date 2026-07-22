@@ -44,6 +44,24 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Lee_Horsley"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Lonesome%20Dove%20Larry%20McMurtry",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Lonesome%20Dove%20Larry%20McMurtry",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/2909950",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Lonesome Dove",
+          "catalog_creator": "Larry McMurtry, Lee Horsley"
         }
       ]
     },
@@ -63,6 +81,19 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/David_Hockney"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=David%20Hockney%3A%20The%20Art%20of%20Seeing",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=David%20Hockney%3A%20The%20Art%20of%20Seeing",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -115,7 +146,7 @@
           "url": "https://tim.blog/2019/03/28/neil-gaiman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
         },
         {
-          "type": "other",
+          "type": "audible",
           "url": "https://www.audible.com/pd/The-Graveyard-Book-Audiobook/B002V8DEKC?"
         },
         {

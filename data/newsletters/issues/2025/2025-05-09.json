@@ -33,6 +33,11 @@
         {
           "type": "other",
           "url": "https://genius.com/Ren-hi-ren-lyrics#about"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/Hi%20Ren%20Ren",
+          "search_fallback": true
         }
       ]
     },
@@ -50,7 +55,7 @@
           "url": "https://www.santabarbarapistachios.com/shop-pistachios-santa-barbara#!/Chile-Lemon-Organic-In-Shell-Pistachios/p/62066743/category=18513096"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
         }
       ]
@@ -134,12 +139,17 @@
           "url": "https://tim.blog/2025/05/09/terry-real-therapy/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Dont-Want-Talk-About-Overcoming/dp/0684835398/"
         },
         {
           "type": "other",
           "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=How%20to%20Stop%20Worrying%20and%20Start%20Living%20Dale%20Carnegie%20*%20*%20*%20You%20can%20complement%20this%20edition%20of%205-Bullet%20Friday%20with%20my%20brand-new%20interview%20w",
+          "search_fallback": true
         }
       ]
     }

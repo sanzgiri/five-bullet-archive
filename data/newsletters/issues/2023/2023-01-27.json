@@ -23,7 +23,7 @@
           "url": "https://www.amazon.com/Winnebago-Man-Jack-Rebney/dp/B00466SRDQ/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Winnebago-Man-Jack-Rebney/dp/B00466SRDQ/"
         },
         {
@@ -41,6 +41,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=7p0FUqqTPYc"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Winnebago%20Man",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Winnebago%20Man",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -91,6 +104,11 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/halehliza/?hl=en"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=GOLD%20Rumi%2C%20translated%20by%20Haleh%20Liza%20Gafori",
+          "search_fallback": true
         }
       ]
     },
@@ -131,7 +149,7 @@
           "url": "https://tim.blog/2022/05/17/cal-newport-and-tim-ferriss-revisit-the-4-hour-workweek/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/"
         },
         {

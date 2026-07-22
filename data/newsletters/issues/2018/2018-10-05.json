@@ -25,6 +25,16 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hzo46l/gwfnh5hk58wz3/aHR0cHM6Ly90d2l0dGVyLmNvbS9uaWNra29rb25hcw=="
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Why%20We%20Are%20Self%20Publishing%20the%20Aviary%20Cookbook",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Why%20We%20Are%20Self%20Publishing%20the%20Aviary%20Cookbook",
+          "search_fallback": true
         }
       ]
     },

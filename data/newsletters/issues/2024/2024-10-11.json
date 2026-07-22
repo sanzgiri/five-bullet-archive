@@ -45,6 +45,11 @@
         {
           "type": "original",
           "url": "https://www.sciencedirect.com/science/article/pii/S0163725824000615"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/Psilocybin%20for%20dementia%20prevention%3F%20The%20potential%20role%20of%20psilocybin%20to%20alter%20mechanisms%20associated%20with%20major%20depression%20and%20neurodegenerative%20diseases",
+          "search_fallback": true
         }
       ]
     },

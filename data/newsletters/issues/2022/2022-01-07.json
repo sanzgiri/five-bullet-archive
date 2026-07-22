@@ -50,7 +50,7 @@
           "url": "https://www.amazon.com/Cave-Forgotten-Dreams-Werner-Herzog/dp/B0093SOOHU/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Cave-Forgotten-Dreams-Werner-Herzog/dp/B0093SOOHU/"
         },
         {
@@ -68,6 +68,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=qfJfRx2IAYo"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Cave%20of%20Forgotten%20Dreams",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Cave%20of%20Forgotten%20Dreams",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

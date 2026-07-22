@@ -165,8 +165,21 @@
           "url": "https://www.instagram.com/charliemackesy/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Boy-Mole-Fox-Horse/dp/0062976583/ref=sr_1_2?crid=LQ1C3131FHMV&dchild=1&keywords=the+boy+the+mole+the+fox+and+the+horse&qid=1616514842&sprefix=the+boy%2Caps%2C210&sr=8-2"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Boy%2C%20the%20Mole%2C%20the%20Fox%20and%20the%20Horse%20Charlie%20Mackesy",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/5773096",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "The Boy, the Mole, the Fox and the Horse",
+          "catalog_creator": "Charlie Mackesy, Charlie Mackesy"
         }
       ]
     },
@@ -250,7 +263,7 @@
           "url": "https://www.amazon.com/Charger-Anker-Adapter-Foldable-Compact/dp/B08T5QN2TR/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Charger-Anker-Adapter-Foldable-Compact/dp/B08T5QN2TR/"
         },
         {

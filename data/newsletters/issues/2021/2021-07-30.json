@@ -36,7 +36,7 @@
           "url": "https://www.youtube.com/watch?v=D8h_5cXInLw"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/5q2VLWdcivagFiJCXqltQS?autoplay=true"
         },
         {
@@ -100,6 +100,19 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/ztato/?hl=en"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=We%20Will%20Find%20It",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=We%20Will%20Find%20It",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

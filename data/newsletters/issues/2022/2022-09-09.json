@@ -66,7 +66,7 @@
           "url": "https://protekt.com/products/rest-grape-natural-liquid-supplement-beverage-enhancer?variant=40970641965206"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Rest-Liquid-Pack-Grape-10/dp/B08YNM17FV?ref_=ast_sto_dp&th=1"
         },
         {
@@ -105,12 +105,30 @@
           "url": "https://en.wikipedia.org/wiki/Rob_Inglis"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/The-Fellowship-of-Ring-audiobook/dp/B0099SNQYG/"
         },
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/J._R._R._Tolkien"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=A%20Wizard%20of%20Earthsea%20Ursula%20K",
+          "search_fallback": true
+        },
+        {
+          "type": "audible",
+          "url": "https://www.audible.com/search?keywords=A%20Wizard%20of%20Earthsea%20Ursula%20K",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/2393576",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "A Wizard of Earthsea",
+          "catalog_creator": "Ursula K. Le Guin, Rob Inglis"
         }
       ]
     },
@@ -132,7 +150,7 @@
           "url": "https://www.youtube.com/watch?v=jHubmkOe-MQ"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/2W5EvgsEBmBWqZz4GumrXA?si=2304d125703a4883"
         },
         {

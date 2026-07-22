@@ -29,6 +29,24 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohorkk0/76t7h8hn7x00g/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzExLzI2L2RhdmUtZWxpdGNoLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Catching%20the%20Big%20Fish%3A%20Meditation%2C%20Consciousness%2C%20and%20Creativity%20David%20Lynch",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Catching%20the%20Big%20Fish%3A%20Meditation%2C%20Consciousness%2C%20and%20Creativity%20David%20Lynch",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/238472",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Catching the Big Fish",
+          "catalog_creator": "David Lynch"
         }
       ]
     },

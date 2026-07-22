@@ -130,6 +130,11 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/davisville/"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/Alan%20Watts%20and%20Superposition%20%E2%80%94%20Listen%2C%20Dream",
+          "search_fallback": true
         }
       ]
     },

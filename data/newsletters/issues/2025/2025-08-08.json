@@ -27,7 +27,7 @@
           "url": "https://youtu.be/e6HJ7TYvh7s"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/"
         },
         {
@@ -39,7 +39,7 @@
           "url": "https://www.walmart.com/ip/Coyote-Scramble/14312603259"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/"
         },
         {
@@ -74,7 +74,7 @@
           "url": "https://music.apple.com/kz/song/jardines-feat-lido-pimienta/911592477"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/0mtF7aTcgLR6uhx28ovali"
         },
         {
@@ -101,12 +101,17 @@
           "url": "https://www.amazon.com/dp/1506700705?ref=ppx_yo2ov_dt_b_fed_asin_title"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/dp/1506700705?ref=ppx_yo2ov_dt_b_fed_asin_title"
         },
         {
           "type": "other",
           "url": "https://www.abebooks.com/servlet/SearchResults?afn_sr=impact&clickid=UK33Q33-3xyKTnrVKpyxmUvEUkpxvOy9MWX9zk0&cm_mmc=aff-_-ir-_-64613-_-77416&isbn=1506700705&ref_=aff_ir_64613_77416"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Frank%20Miller%E2%80%99s%20Sin%20City%3A%20Hard%20Goodbye%20Curator%E2%80%99s%20Collection",
+          "search_fallback": true
         }
       ]
     },
@@ -128,7 +133,7 @@
           "url": "https://www.derekthompson.org/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ"
         }
       ]
@@ -155,7 +160,7 @@
           "url": "https://tim.blog/2025/08/06/coyote-card-game/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ"
         },
         {

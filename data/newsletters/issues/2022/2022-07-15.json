@@ -21,6 +21,19 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=36m1o-tM05g"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=My%20philosophy%20for%20a%20happy%20life%20%7C%20Sam%20Berns%20%7C%20TEDxMidAtlantic",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=My%20philosophy%20for%20a%20happy%20life%20%7C%20Sam%20Berns%20%7C%20TEDxMidAtlantic",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -76,7 +89,7 @@
           "url": "https://www.amazon.com/Wind-River-Jeremy-Renner/dp/B0747CZ514"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Wind-River-Jeremy-Renner/dp/B0747CZ514"
         },
         {
@@ -102,6 +115,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=s7WuKdVhrmA"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Wind%20River",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Wind%20River",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

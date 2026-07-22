@@ -59,6 +59,11 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=MIfBuU3kn-s"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/A%20Thousand%20Kisses%20Deep%20Leonard%20Cohen",
+          "search_fallback": true
         }
       ]
     },
@@ -82,6 +87,19 @@
         {
           "type": "other",
           "url": "https://www3.nhk.or.jp/nhkworld/en/shows/10yearshayaomiyazaki/?type=tvEpisode"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=%E2%80%9CEp.%201%20Ponyo%20is%20Here%E2%80%9D%20(10%20Years%20with%20Hayao%20Miyazaki)",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=%E2%80%9CEp.%201%20Ponyo%20is%20Here%E2%80%9D%20(10%20Years%20with%20Hayao%20Miyazaki)",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

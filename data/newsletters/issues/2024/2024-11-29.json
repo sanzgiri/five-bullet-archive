@@ -72,6 +72,19 @@
         {
           "type": "other",
           "url": "https://youtu.be/67vbA5ZJdKQ?si=WYzgrtRgnjUI4IJG"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Wild%20Robot",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Wild%20Robot",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -123,7 +136,7 @@
           "url": "https://en.wikipedia.org/wiki/David_Whyte_(poet"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Consolations-Nourishment-Underlying-Meaning-Everyday/dp/1932887342"
         },
         {

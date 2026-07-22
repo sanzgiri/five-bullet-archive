@@ -23,7 +23,7 @@
           "url": "https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8?si=9a7e224b605b4687"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8?si=9a7e224b605b4687"
         },
         {
@@ -31,7 +31,7 @@
           "url": "https://www.youtube.com/watch?v=IRqkY6tSzOM"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/artist/4ID8ALXR4zZrcJFvxL41n0"
         },
         {
@@ -102,6 +102,19 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Gints_Zilbalodis"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Flow",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Flow",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

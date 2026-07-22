@@ -27,7 +27,7 @@
           "url": "https://twitter.com/dgelles"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Let-People-Surfing-Education-Businessman-Including/dp/0143109677/"
         }
       ]
@@ -115,6 +115,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=GqxaCG9PBOs"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Beanie%20Mania",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Beanie%20Mania",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -136,7 +149,7 @@
           "url": "https://podcasts.apple.com/us/podcast/ep-207-getting-free-with-karma-yoga-part-1/id518366323?i=1000577109555"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/episode/2b7xVInEINPWcN1C7KUdAD?si=yCrGopKNR3eDrF_oiub1Nw"
         },
         {

@@ -39,7 +39,7 @@
           "url": "https://tim.blog/2015/12/28/derek-sivers-reloaded-on-success-habits-and-billionaires-with-perfect-abs/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/0374159122"
         }
       ]
@@ -62,7 +62,7 @@
           "url": "https://www.youtube.com/watch?v=9_gkpYORQLU"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/0YPuRrM2NwzdtuShUKkts6?si=2gPqqF6oRx6L5lKRNtKy6g&context=spotify%3Asearch%3Apolphia"
         },
         {
@@ -112,7 +112,7 @@
           "url": "https://www.amazon.com/Gatekeepers-Yuval-Diskin/dp/B00DHNB3X0/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Gatekeepers-Yuval-Diskin/dp/B00DHNB3X0/"
         },
         {
@@ -142,6 +142,19 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/The_Gatekeepers_(film"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Gatekeepers",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Gatekeepers",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

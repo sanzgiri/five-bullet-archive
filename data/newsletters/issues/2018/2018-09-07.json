@@ -55,6 +55,19 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=-XSC_UG5_kU"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Apple%20Engineer%20Talks%20About%20New%20Macbook%20Pro",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Apple%20Engineer%20Talks%20About%20New%20Macbook%20Pro",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

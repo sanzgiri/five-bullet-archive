@@ -50,8 +50,21 @@
           "url": "https://en.wikipedia.org/wiki/Eternal_return"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Book-Laughter-Forgetting-Milan-Kundera/dp/0060932147/"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Unbearable%20Lightness%20of%20Being%20Milan%20Kundera",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/9080898",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "The Unbearable Lightness of Being",
+          "catalog_creator": "Milan Kundera"
         }
       ]
     },
@@ -71,6 +84,19 @@
         {
           "type": "other",
           "url": "https://tim.blog/2015/04/14/jon-favreau/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=An%20Honest%20Liar",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=An%20Honest%20Liar",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

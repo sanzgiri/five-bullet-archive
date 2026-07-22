@@ -45,6 +45,19 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Rom%C3%A1n_Gonz%C3%A1lez_(boxer"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Roman%20Gonzalez%20vs%20Brian%20Viloria%20-%20Highlights%20(Explosive%20FIGHT%20%26%20KNOCKOUT)",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Roman%20Gonzalez%20vs%20Brian%20Viloria%20-%20Highlights%20(Explosive%20FIGHT%20%26%20KNOCKOUT)",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -62,7 +75,7 @@
           "url": "https://youtu.be/WIUAC03YMlA"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/19x5x7F8SYMfWNiJOmqMUu?si=2772c60ea2d94a6a"
         },
         {

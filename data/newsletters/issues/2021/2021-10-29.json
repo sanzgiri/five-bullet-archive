@@ -31,7 +31,7 @@
           "url": "https://www.instagram.com/p/CVjBb-KgLJ2/?utm_source=ig_web_copy_link"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357/ref=sr_1_1?dchild=1&keywords=the+4-hour+workweek&qid=1635532742&qsid=132-7848523-6560001&sr=8-1&sres=0307465357%2C0091923727%2CB000PKG4DM%2CB087NLDGGT%2CB07GFT333H%2CB087LBK148%2CB004C71SLM%2C1074807308%2CB07HXGLHMB%2C8498673771%2CB082VKY29Q%2C030746363X%2CB08MS6V6DM%2C1974159248%2C1138058386%2CB097818DX5&srpt=ABIS_BOOK"
         },
         {
@@ -79,6 +79,19 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Destino"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Destino",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Destino",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

@@ -27,7 +27,7 @@
           "url": "https://youtu.be/uMJfqpDxqxM?si=h7_ynXPpL_yVIOTl"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/4XOYQUsG8n48Q7HoTKahOX?si=MvJ3JGebRtW6Wn0yuuFeYA"
         },
         {
@@ -71,6 +71,19 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=BwXWg3VipQE"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Becorns%20Episode%203%3A%20Orioles%20vs%20Catbirds",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Becorns%20Episode%203%3A%20Orioles%20vs%20Catbirds",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

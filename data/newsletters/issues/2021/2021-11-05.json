@@ -27,7 +27,7 @@
           "url": "https://www.youtube.com/watch?v=xTA_FexW3qU"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/53qU2K55RJgfs9F50irpB3"
         },
         {
@@ -72,6 +72,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=sPkoW4cmqT8"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Struggle%3A%20The%20Life%20and%20Lost%20Art%20of%20Szukalski",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Struggle%3A%20The%20Life%20and%20Lost%20Art%20of%20Szukalski",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

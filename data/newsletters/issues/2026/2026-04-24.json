@@ -45,6 +45,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=_MQODtUW8k0&rco=1"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Eat%20Drink%20Man%20Woman",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Eat%20Drink%20Man%20Woman",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -107,6 +120,19 @@
         {
           "type": "other",
           "url": "https://daveelitch.com/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Rory%20Sutherland%20explains%20how%20one%20tiny%20detail%20on%20your%20dashboard%20could%20completely%20transform%20how%20we%20think%20about%20speed%20and%20safety",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Rory%20Sutherland%20explains%20how%20one%20tiny%20detail%20on%20your%20dashboard%20could%20completely%20transform%20how%20we%20think%20about%20speed%20and%20safety",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -158,7 +184,7 @@
           "url": "https://en.wikipedia.org/wiki/Jonathan_Sacks,_Baron_Sacks"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Celebrating-Life-Finding-Happiness-Unexpected/dp/1399420720/?tag=offsitoftimfe-20"
         },
         {

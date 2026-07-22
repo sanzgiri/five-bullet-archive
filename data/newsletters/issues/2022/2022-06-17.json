@@ -65,7 +65,7 @@
           "url": "https://www.youtube.com/playlist?list=PLC3905B77A1AA37F8"
         },
         {
-          "type": "other",
+          "type": "spotify_album",
           "url": "https://open.spotify.com/album/0EeIE2qfTB9BeN1KKkASdO?autoplay=true"
         },
         {
@@ -81,11 +81,11 @@
           "url": "https://twitter.com/hybridbanduk"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/3USWdwXKWAPcf5TTx6i5rj?si=790399b090ee42a0"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/4uLJoOUcEDa4VUbUXB8OVU?si=5e61ce2c3adf4b17"
         }
       ]

@@ -26,6 +26,11 @@
         {
           "type": "other",
           "url": "https://twitter.com/dennismckenna4?lang=en"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Brotherhood%20of%20the%20Screaming%20Abyss%20Dennis%20McKenna%2C%20PhD",
+          "search_fallback": true
         }
       ]
     },
@@ -47,11 +52,11 @@
           "url": "https://en.wikipedia.org/wiki/Ted_Chiang"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Stories-Your-Life-Others-Chiang/dp/1101972122/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Arrival-Amy-Adams/dp/B01M2C4NP8/"
         },
         {
@@ -67,7 +72,7 @@
           "url": "https://gizmodo.com/this-new-ted-chiang-short-story-could-change-your-life-1452465465"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Exhalation-Stories-Ted-Chiang/dp/1101947888/"
         }
       ]
@@ -90,11 +95,11 @@
           "url": "https://twitter.com/NewYorker"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Sour-Grapes-Rudy-Kurniawan/dp/B06XWKJN5F/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Billionaires-Vinegar-Mystery-Worlds-Expensive/dp/0307338789"
         }
       ]

@@ -52,6 +52,19 @@
         {
           "type": "other",
           "url": "https://el2.convertkit-mail.com/c/92uv0r9rmwtnhd9x7qi0/0qawh9hx49opdd/aHR0cHM6Ly90d2l0dGVyLmNvbS9zcGVpcm9sbw=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Moth%20Presents%20%E2%80%94%20Stephanie%20Peirolo%3A%20Walking%20with%20RJ",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Moth%20Presents%20%E2%80%94%20Stephanie%20Peirolo%3A%20Walking%20with%20RJ",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -98,6 +111,11 @@
         {
           "type": "other",
           "url": "https://el2.convertkit-mail.com/c/92uv0r9rmwtnhd9x7qi0/63teh8hw45k37z/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9kYXZpc3ZpbGxlLw=="
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/Alan%20Watts%20and%20Superposition%20%E2%80%94%20Listen%2C%20Dream",
+          "search_fallback": true
         }
       ]
     },

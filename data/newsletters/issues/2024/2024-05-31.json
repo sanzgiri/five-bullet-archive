@@ -25,6 +25,11 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Jean-Pierre_Weill"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Well%20of%20Being%3A%20A%20Children%E2%80%99s%20Book%20for%20Adults%20Jean-Pierre%20Weill",
+          "search_fallback": true
         }
       ]
     },
@@ -40,6 +45,19 @@
         {
           "type": "original",
           "url": "https://youtu.be/YQD5z0xmoJU?t=5073"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Stephen%20Fry%20on%20living%20the%20artistic%20life",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Stephen%20Fry%20on%20living%20the%20artistic%20life",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -61,7 +79,7 @@
           "url": "https://www.youtube.com/watch?v=IR5_rTCi-Bo"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/0bgsj8kz5zWbQ6njk2Oqoz"
         },
         {

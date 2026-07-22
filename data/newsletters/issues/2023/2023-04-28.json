@@ -23,7 +23,7 @@
           "url": "https://www.youtube.com/watch?v=YANHZfxEC-I"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/1FPx0zQMlGR8CbDZWfDfCQ?autoplay=true"
         },
         {
@@ -39,7 +39,7 @@
           "url": "https://www.youtube.com/watch?v=sMYf6TcvFv4"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/1U8Ne0wsPio5SMDZv5bwJw"
         },
         {
@@ -87,6 +87,19 @@
         {
           "type": "other",
           "url": "https://www.simoncoronel.com/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Infinite%20Chocolate%20Bar%20Trick",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Infinite%20Chocolate%20Bar%20Trick",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -108,7 +121,7 @@
           "url": "https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Excellent-Advice-Living-Wisdom-Earlier/dp/0593654528/"
         },
         {

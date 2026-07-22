@@ -52,6 +52,11 @@
         {
           "type": "other",
           "url": "https://www.benjaminzander.org/"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Art%20of%20Possibility%3A%20Transforming%20Professional%20and%20Personal%20Life%20Rosamund%20Stone%20Zander%20and%20Benjamin%20Zander",
+          "search_fallback": true
         }
       ]
     },
@@ -199,11 +204,11 @@
           "url": "https://aeropress.com/products/aeropress-coffee-maker"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Hario-Mini-Mill-Coffee-Grinder/dp/B001804CLY/"
         },
         {
@@ -211,7 +216,7 @@
           "url": "https://www.comandantegrinder.com/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/gp/product/B084HNY3BG/"
         },
         {

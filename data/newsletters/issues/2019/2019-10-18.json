@@ -64,6 +64,19 @@
         {
           "type": "other",
           "url": "https://www.nytimes.com/2019/09/04/science/psychedelic-drugs-hopkins-depression.html"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=%40andersoncooper",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=%40andersoncooper",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -108,7 +121,7 @@
           "url": "https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
         }
       ]

@@ -64,6 +64,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=d_Z_tybgPgg"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Wolfwalkers",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Wolfwalkers",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -79,6 +92,19 @@
         {
           "type": "original",
           "url": "https://youtu.be/56HpCQak9AQ"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Wrestling%20Coaches%20Strip%20in%20Protest%20at%20the%202016%20Olympics%2C%20a%20breakdown",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Wrestling%20Coaches%20Strip%20in%20Protest%20at%20the%202016%20Olympics%2C%20a%20breakdown",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

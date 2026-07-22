@@ -27,7 +27,7 @@
           "url": "https://www.youtube.com/watch?v=OMShxq3tSrY"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/7dgQ4X73bWNVAGFfafhga9"
         },
         {
@@ -81,7 +81,7 @@
           "url": "https://wisprflow.ai/"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/15-Commitments-Conscious-Leadership-Sustainable/dp/0990976904/?tag=offsitoftimfe-20"
         }
       ]
@@ -110,6 +110,19 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Philip_Roth"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Philip%20Roth%3A%20Unmasked",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Philip%20Roth%3A%20Unmasked",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -150,7 +163,7 @@
           "url": "https://en.wikipedia.org/wiki/C._S._Lewis"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Mere-Christianity-C-S-Lewis/dp/0060652926/?tag=offsitoftimfe-20"
         },
         {

@@ -46,7 +46,7 @@
           "url": "https://www.youtube.com/watch?v=J34esa_aJxc"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/30dIbe1zV4orwzUtria9Np"
         },
         {
@@ -100,7 +100,7 @@
           "url": "https://www.allaboutvision.com/resources/dominant-eye-test.htm"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
         },
         {

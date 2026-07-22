@@ -42,6 +42,19 @@
         {
           "type": "other",
           "url": "https://el2.convertkit-mail.com/c/gku0l36gga5hmmo8ki4/7na7h8h8nve67d/aHR0cHM6Ly90d2l0dGVyLmNvbS9TYW1zX0FudGljcy9zdGF0dXMvMTE5Njc5MzE0NTU3NDU0MzM2MQ=="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=%E2%80%9CEp.%201%20Ponyo%20is%20Here%E2%80%9D%20(_10%20Years%20with%20Hayao%20Miyazaki_)",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=%E2%80%9CEp.%201%20Ponyo%20is%20Here%E2%80%9D%20(_10%20Years%20with%20Hayao%20Miyazaki_)",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

@@ -46,7 +46,7 @@
           "url": "https://open.spotify.com/track/0ioDPiytuIov5YwJwAAXk1?si=2936f904243b4ef8"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/0ioDPiytuIov5YwJwAAXk1?si=2936f904243b4ef8"
         },
         {
@@ -75,6 +75,19 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=Joyk_EMtzn0"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Tabla%20Solo%20in%20Jhaptal",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Tabla%20Solo%20in%20Jhaptal",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -151,7 +164,7 @@
           "url": "https://en.wikipedia.org/wiki/Kurt_Vonnegut"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Breakfast-Champions-Novel-Kurt-Vonnegut/dp/0385334206/"
         },
         {

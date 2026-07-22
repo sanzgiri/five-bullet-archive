@@ -29,6 +29,19 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/ethanhawke/?hl=en"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Give%20yourself%20permission%20to%20be%20creative%20Ethan%20Hawke",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=Give%20yourself%20permission%20to%20be%20creative%20Ethan%20Hawke",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -94,6 +107,19 @@
         {
           "type": "other",
           "url": "https://youtu.be/y2YtIBYM4w0"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=JEW%20Ari%20Shaffir",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=JEW%20Ari%20Shaffir",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -115,7 +141,7 @@
           "url": "https://en.wikipedia.org/wiki/Yongey_Mingyur_Rinpoche"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/stores/Eric-Swanson/author/B001HPC2EE"
         },
         {
@@ -213,6 +239,19 @@
         {
           "type": "other",
           "url": "https://unsubscribe.fourhourmail.com/5qu8lqg33u7hvkod3ou0s4"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Joyful%20Wisdom%20Yongey%20Mingyur%20Rinpoche",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/180726",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "Joyful Wisdom",
+          "catalog_creator": "Yongey Mingyur Rinpoche, Eric Swanson"
         }
       ]
     }

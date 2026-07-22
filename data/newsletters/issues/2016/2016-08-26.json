@@ -40,6 +40,16 @@
         {
           "type": "original",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wEU&mc=e&s=bomwH&u=w&y=y&"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Princess%20of%20whales%3A%20How%20a%20naked%20female%20scientist%20tries%20to%20tame%20belugas%20in%20the%20freezing%20Arctic",
+          "search_fallback": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=Princess%20of%20whales%3A%20How%20a%20naked%20female%20scientist%20tries%20to%20tame%20belugas%20in%20the%20freezing%20Arctic",
+          "search_fallback": true
         }
       ]
     },

@@ -72,6 +72,19 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/lviehmhvq2rvlg/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzEyLzEzL3BldGVyLWF0dGlhLXZzLXRpbS1mZXJyaXNzLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=This%20is%20Water",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=This%20is%20Water",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },

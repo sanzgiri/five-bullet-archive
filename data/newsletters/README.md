@@ -14,6 +14,10 @@ Full newsletter bodies are not committed by default. Each structured recommendat
 
 Records marked `extraction_status: "metadata_only"` confirm an issue date but do not yet contain recommendation bullets. Run `npm run archive:build` to validate every dated file and rebuild the index.
 
+## Link enrichment
+
+Run `npm run archive:enrich` to add portable discovery links by category. Existing direct links are preserved. Music receives Spotify links; books and audiobooks receive Amazon, WorldCat, and resolved Libby title links when a confident public-catalog match is available; films and television receive JustWatch and Kanopy searches. Search fallbacks are explicitly marked with `search_fallback: true`, while Libby links use stable `share.libbyapp.com/title/...` records and retain the participating-library requirement.
+
 ## Bulk Hotmail extraction
 
 The local extractor uses Microsoft Graph's read-only delegated `Mail.Read` permission and device-code login. It never needs a password or client secret, does not commit its token cache, and does not save full message bodies or mailbox message IDs.

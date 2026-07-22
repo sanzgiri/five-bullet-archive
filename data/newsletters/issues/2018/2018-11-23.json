@@ -75,6 +75,11 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/qdurox544u7h0we79/85uqhohwqdrm8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9iL3JlZj1zOV9hY3NzX2J3X2NnX0JPT0tQUjE3XzFhMV93P25vZGU9ODg4NTUzMDAxMSZwZl9yZF9tPUFUVlBES0lLWDBERVImcGZfcmRfcz1tZXJjaGFuZGlzZWQtc2VhcmNoLTEmcGZfcmRfcj1ONUdFM1dIQlkyUDRaUlQwN0RFUyZwZl9yZF90PTEwMSZwZl9yZF9wPTAyNTIxNGE1LWM4MTUtNDM4NC1iMDU4LWE5Y2VmMWNjOTIxNSZwZl9yZF9pPTI4MzE1NQ=="
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/Putumayo%20presents",
+          "search_fallback": true
         }
       ]
     },

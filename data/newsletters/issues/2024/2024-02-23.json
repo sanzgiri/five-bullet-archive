@@ -46,7 +46,7 @@
           "url": "https://youtu.be/CGyEd0aKWZE?si=ZwqQj6MD5APRNoHH"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/5lF0pHbsJ0QqyIrLweHJPW?si=hkmdGlDMT7i7WU9sSO57qw&pi=u-E_PwLUfdSVuN"
         },
         {
@@ -102,6 +102,11 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=rXUuStdMeoE"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=String%20Theory%3A%20David%20Foster%20Wallace%20on%20Tennis",
+          "search_fallback": true
         }
       ]
     },

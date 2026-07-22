@@ -40,6 +40,19 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/shorts/7T_TcO5EMRQ"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=The%20Butterfield%20Diet%20Plan",
+          "region": "US",
+          "search_fallback": true
+        },
+        {
+          "type": "kanopy",
+          "url": "https://www.kanopy.com/en/search?query=The%20Butterfield%20Diet%20Plan",
+          "region": "US",
+          "requires_participating_library": true,
+          "search_fallback": true
         }
       ]
     },
@@ -57,7 +70,7 @@
           "url": "https://open.spotify.com/track/5KGgCNMcuPrkNIThcp4Qjc"
         },
         {
-          "type": "other",
+          "type": "spotify_track",
           "url": "https://open.spotify.com/track/5KGgCNMcuPrkNIThcp4Qjc"
         },
         {
@@ -114,6 +127,19 @@
         {
           "type": "other",
           "url": "https://www.facebook.com/FutureVenturesVC"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/search?q=The%20Wayfinders%3A%20Why%20Ancient%20Wisdom%20Matters%20in%20the%20Modern%20World%20Wade%20Davis)",
+          "search_fallback": true
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/title/3438645",
+          "requires_participating_library": true,
+          "catalog_match": "exact_normalized_title",
+          "catalog_title": "The Wayfinders",
+          "catalog_creator": "Wade Davis, Tom Perkins"
         }
       ]
     },
@@ -139,7 +165,7 @@
           "url": "https://tim.blog/2020/09/30/mark-plotkin/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/Tales-Shamans-Apprentice-Ethnobotanist-Medicines/dp/014012991X/"
         },
         {
