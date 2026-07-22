@@ -54,4 +54,18 @@ const index = issues.map(({ bullets, ...metadata }) => ({
   path: `issues/${metadata.issue_date.slice(0, 4)}/${metadata.issue_date}.json`,
 }));
 await writeFile(path.join(root, "index.jsonl"), `${index.map((x) => JSON.stringify(x)).join("\n")}\n`);
-console.log(`Validated ${issues.length} issues and rebuilt index.jsonl`);
+
+const serviceTypes = new Set(["spotify_track", "spotify_album", "amazon", "justwatch"]);
+const archiveData = issues.flatMap((issue) => issue.bullets.map((bullet) => ({
+  id: `${issue.issue_date}-${bullet.position}`,
+  date: issue.issue_date,
+  section: bullet.section,
+  category: bullet.category,
+  title: bullet.title,
+  creator: bullet.creator,
+  note: bullet.note,
+  links: bullet.links.filter((link) => link.type === "original" || serviceTypes.has(link.type)),
+})));
+await mkdir(path.resolve("public"), { recursive: true });
+await writeFile(path.resolve("public/archive-data.json"), `${JSON.stringify(archiveData)}\n`);
+console.log(`Validated ${issues.length} issues and rebuilt index.jsonl + archive-data.json`);
