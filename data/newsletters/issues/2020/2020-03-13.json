@@ -28,7 +28,7 @@
     {
       "position": 2,
       "section": "What I’m watching as a palate cleanser after too much news —",
-      "category": "video",
+      "category": "web_video",
       "title": "The Butterfield Diet Plan",
       "creator": null,
       "note": "I can’t stop watching this two-minute video, which was sent to me by the musician and artist [Amanda Palmer](https://el2.fourhourmail.com/c/e5ux264rrb7hqonnmsz/v4t3hrhd3m877v/aHR0cHM6Ly90aW0uYmxvZy8yMDE5LzA0LzE4L2FtYW5kYS1wYWxtZXItMi8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm) ([@amandapalmer](https://el2.fourhourmail.com/c/e5ux264rrb7hqonnmsz/mnc7h5h702wpp9/aHR0cHM6Ly90d2l0dGVyLmNvbS9hbWFuZGFwYWxtZXI=)). Amanda sent it to me because the “treat day” maps perfectly to the “cheat day” of the [Slow-Carb Diet](https://el2.fourhourmail.com/c/e5ux264rrb7hqonnmsz/e3sph7h2wm5ggw/aHR0cHM6Ly90aW0uYmxvZy8yMDEyLzA3LzEyL2hvdy10by1sb3NlLTEwMC1wb3VuZHMvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg==) from my second book, [_The 4-Hour Body_](https://el2.fourhourmail.com/c/e5ux264rrb7hqonnmsz/ogakhqh7lx5vv7/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Ib3VyLUJvZHktVW5jb21tb24tSW5jcmVkaWJsZS1TdXBlcmh1bWFuL2RwLzAzMDc0NjM2M1gv). Rock on, Amanda!",
@@ -53,19 +53,6 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/e5ux264rrb7hqonnmsz/ogakhqh7lx5vv7/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Ib3VyLUJvZHktVW5jb21tb24tSW5jcmVkaWJsZS1TdXBlcmh1bWFuL2RwLzAzMDc0NjM2M1gv"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=The%20Butterfield%20Diet%20Plan",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=The%20Butterfield%20Diet%20Plan",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },
@@ -91,7 +78,7 @@
     {
       "position": 4,
       "section": "What I’m excited to learn and share (plus, book giveaway) —",
-      "category": "book",
+      "category": "article",
       "title": "Here’s some current inspiration",
       "creator": null,
       "note": ", and here’s one iconic example: [Isaac Newton had the most productive period of his life when he self-quarantined during the plague](https://el2.fourhourmail.com/c/e5ux264rrb7hqonnmsz/q3i8h7h02eq55d/aHR0cHM6Ly90d2l0dGVyLmNvbS9XaWxsaWFtX0JsYWtlL3N0YXR1cy8xMjM0OTY2MDc3MTIzMjg0OTkz). [**Please submit your ideas at this link before 11:59 p.m. PT, Sunday,**](https://el2.fourhourmail.com/c/e5ux264rrb7hqonnmsz/9dfzhnhl34nmmz/aHR0cHM6Ly9mb3Jtcy5nbGUvaGpmOEs4dmQ1M3VFVjREajg=) **and I’ll mail signed copies of** [**_Tools of Titans_**](https://el2.fourhourmail.com/c/e5ux264rrb7hqonnmsz/nxtohvhk52eppr/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Ub29scy1UaXRhbnMtQmlsbGlvbmFpcmVzLVdvcmxkLUNsYXNzLVBlcmZvcm1lcnMvZHAvMTMyODY4Mzc4OC8=) **and** [**_Tribe of Mentors_**](https://el2.fourhourmail.com/c/e5ux264rrb7hqonnmsz/wrc2hgh3vm8pp8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UcmliZS1NZW50b3JzLVNob3J0LUFkdmljZS1Xb3JsZC9kcC8xMzI4OTk0OTYxLw==) **to a few dozen of you, as selected by my team of magic elves.** I’ll then publish my favorite responses on the blog and/or podcast to benefit the entire community. What am I personally doing? Well, for starters, here’s [one skill I’m planning on tackling with Professor YouTube’s help](https://el2.fourhourmail.com/c/e5ux264rrb7hqonnmsz/03swh9hkwnq55n/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcy9zdGF0dXMvMTIzNDE3OTM2MDkwODg2MTQ0MA==). #coronauniversity",
@@ -120,16 +107,6 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/e5ux264rrb7hqonnmsz/03swh9hkwnq55n/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcy9zdGF0dXMvMTIzNDE3OTM2MDkwODg2MTQ0MA=="
-        },
-        {
-          "type": "amazon",
-          "url": "https://www.amazon.com/s?k=Here%E2%80%99s%20some%20current%20inspiration",
-          "search_fallback": true
-        },
-        {
-          "type": "worldcat",
-          "url": "https://search.worldcat.org/search?q=Here%E2%80%99s%20some%20current%20inspiration",
-          "search_fallback": true
         }
       ]
     },

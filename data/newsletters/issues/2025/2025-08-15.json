@@ -12,7 +12,7 @@
     {
       "position": 1,
       "section": "Short video I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Coyote and Badger Caught Playing on Camera",
       "creator": null,
       "note": "The end of this short clip is particularly excellent.",
@@ -21,19 +21,6 @@
         {
           "type": "original",
           "url": "https://openspacetrust.org/blog/coyote-and-badger/"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Coyote%20and%20Badger%20Caught%20Playing%20on%20Camera",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Coyote%20and%20Badger%20Caught%20Playing%20on%20Camera",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },
@@ -122,7 +109,7 @@
     {
       "position": 5,
       "section": "Book highlight I’m pondering",
-      "category": "book",
+      "category": "quote",
       "title": "Anthony de Mello",
       "creator": null,
       "note": ")([Click here to share on X](https://ctt.ec/vQg71).)\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with the most recent episode of the [Random Show](https://tim.blog/2025/08/12/random-show-vibe-coding/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit) with my good friend Kevin Rose.  \n​  \nAnd, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
@@ -143,16 +130,6 @@
         {
           "type": "other",
           "url": "https://twitter.com/tferriss"
-        },
-        {
-          "type": "amazon",
-          "url": "https://www.amazon.com/s?k=Anthony%20de%20Mello",
-          "search_fallback": true
-        },
-        {
-          "type": "worldcat",
-          "url": "https://search.worldcat.org/search?q=Anthony%20de%20Mello",
-          "search_fallback": true
         }
       ]
     }

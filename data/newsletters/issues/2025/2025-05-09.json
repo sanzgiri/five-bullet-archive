@@ -46,6 +46,11 @@
           "catalog_match": "musicbrainz_exact_title_artist",
           "catalog_title": "Hi Ren",
           "catalog_creator": "Ren"
+        },
+        {
+          "type": "spotify_album",
+          "url": "https://open.spotify.com/album/2wXIwZRV93MS5en0FQuDMA",
+          "catalog_match": "verified_title_creator"
         }
       ]
     },
@@ -128,7 +133,7 @@
     {
       "position": 6,
       "section": "Book highlight I’m revisiting",
-      "category": "book",
+      "category": "quote",
       "title": "How to Stop Worrying and Start Living",
       "creator": "Dale Carnegie * * * You can complement this edition of 5-Bullet Friday with my brand-new interview w",
       "note": "​\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [my brand-new interview](https://tim.blog/2025/05/09/terry-real-therapy/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) with therapist Terry Real, author of [_I Don’t Want to Talk About It: Overcoming the Secret Legacy of Male Depression_](https://www.amazon.com/Dont-Want-Talk-About-Overcoming/dp/0684835398/).  \n​  \nAnd, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
@@ -147,17 +152,8 @@
           "url": "https://tim.blog/2025/05/09/terry-real-therapy/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
         },
         {
-          "type": "amazon",
-          "url": "https://www.amazon.com/Dont-Want-Talk-About-Overcoming/dp/0684835398/"
-        },
-        {
           "type": "other",
           "url": "https://twitter.com/tferriss"
-        },
-        {
-          "type": "worldcat",
-          "url": "https://search.worldcat.org/search?q=How%20to%20Stop%20Worrying%20and%20Start%20Living%20Dale%20Carnegie%20*%20*%20*%20You%20can%20complement%20this%20edition%20of%205-Bullet%20Friday%20with%20my%20brand-new%20interview%20w",
-          "search_fallback": true
         }
       ]
     }

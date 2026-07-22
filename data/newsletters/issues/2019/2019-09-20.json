@@ -47,7 +47,7 @@
     {
       "position": 3,
       "section": "Video I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "Remember Shakti: Bell'Alla prt 2",
       "creator": null,
       "note": "I’ve developed a keen interest in hand percussion, and this video is one hell of a showcase. As one professional drummer friend put it, “They’re both heavy, heavy cats. Total masters. I’ve watched that clip dozens of times. No joke.” [Zakir Hussain](https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/l9sehmh4v5dkg0/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvWmFraXJfSHVzc2Fpbl8obXVzaWNpYW4p)’s facial expressions when he’s shredding (in the blue shirt) are priceless. If you’d like a cool overview of the tabla, plus another ripping solo, [check this out](https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/d7aeh0hkwz273o/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1Kb3lrX0VNdHpuMA==).",
@@ -64,19 +64,6 @@
         {
           "type": "other",
           "url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/d7aeh0hkwz273o/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1Kb3lrX0VNdHpuMA=="
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Remember%20Shakti%3A%20Bell'Alla%20prt%202",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Remember%20Shakti%3A%20Bell'Alla%20prt%202",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

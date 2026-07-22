@@ -40,7 +40,7 @@
     {
       "position": 2,
       "section": "What I’m watching (short) —",
-      "category": "video",
+      "category": "web_video",
       "title": "Playing with shadows",
       "creator": "Vincent Bal, a “shadowologist",
       "note": ", a “shadowologist.” Thanks to JZ for the recommendation.",
@@ -53,19 +53,6 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/vincent_bal/"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Playing%20with%20shadows%20Vincent%20Bal%2C%20a%20%E2%80%9Cshadowologist",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Playing%20with%20shadows%20Vincent%20Bal%2C%20a%20%E2%80%9Cshadowologist",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

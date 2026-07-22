@@ -12,7 +12,7 @@
     {
       "position": 1,
       "section": "What I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "The Madness of Steve Jobs, Told by Steve Wozniak",
       "creator": null,
       "note": "I strongly dislike the clickbait title of the video, which isn’t the focus at all, but Steve Wozniak’s wide-ranging stories and observations are simply fantastic.",
@@ -21,19 +21,6 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=R3OcY37GOAA&feature=youtu.be"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=The%20Madness%20of%20Steve%20Jobs%2C%20Told%20by%20Steve%20Wozniak",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=The%20Madness%20of%20Steve%20Jobs%2C%20Told%20by%20Steve%20Wozniak",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

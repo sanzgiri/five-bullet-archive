@@ -12,7 +12,7 @@
     {
       "position": 1,
       "section": "What I’m watching and planning on rewatching —",
-      "category": "video",
+      "category": "web_video",
       "title": "“This is Water”",
       "creator": null,
       "note": "commencement speech by David Foster Wallace, which he gave at Kenyon College on May 21, 2005. It is [also available in book form](https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/opfkhq/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UaGlzLVdhdGVyLURlbGl2ZXJlZC1TaWduaWZpY2FudC1Db21wYXNzaW9uYXRlL2RwLzAzMTYwNjgyMjU=), but I highly recommend the audio. One of the most impressive humans I know listens to this every two weeks, which is how I first heard it.",
@@ -25,19 +25,6 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/opfkhq/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UaGlzLVdhdGVyLURlbGl2ZXJlZC1TaWduaWZpY2FudC1Db21wYXNzaW9uYXRlL2RwLzAzMTYwNjgyMjU="
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=%E2%80%9CThis%20is%20Water%E2%80%9D",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=%E2%80%9CThis%20is%20Water%E2%80%9D",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

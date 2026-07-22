@@ -68,7 +68,7 @@
     {
       "position": 3,
       "section": "Extreme quote I’m pondering while on book deadline —",
-      "category": "book",
+      "category": "quote",
       "title": "send a tweet to @tferriss",
       "creator": null,
       "note": "and put #5BulletFriday in there so I can find it.",
@@ -77,16 +77,6 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/qdurox544u7h44nk5/gykm1o/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
-        },
-        {
-          "type": "amazon",
-          "url": "https://www.amazon.com/s?k=send%20a%20tweet%20to%20%40tferriss",
-          "search_fallback": true
-        },
-        {
-          "type": "worldcat",
-          "url": "https://search.worldcat.org/search?q=send%20a%20tweet%20to%20%40tferriss",
-          "search_fallback": true
         }
       ]
     }

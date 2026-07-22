@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T20:29:45.277Z",
+  "generated_at": "2026-07-22T20:39:23.269Z",
   "methodology": {
     "recommendation_coverage": "Eligible recommendations with at least one enrichment destination.",
     "service_slot_coverage": "Covered destination slots divided by all expected category/service combinations.",
@@ -9,58 +9,58 @@
   "exact_item_mapping_coverage": {
     "note": "Search fallbacks are excluded from every metric in this section.",
     "music_to_spotify": {
-      "covered": 46,
+      "covered": 59,
       "eligible": 69,
-      "percent": 66.7
+      "percent": 85.5
     },
     "books_to_amazon": {
-      "covered": 110,
-      "eligible": 134,
-      "percent": 82.1
+      "covered": 91,
+      "eligible": 109,
+      "percent": 83.5
     },
     "films_to_justwatch": {
       "covered": 142,
-      "eligible": 368,
-      "percent": 38.6
+      "eligible": 225,
+      "percent": 63.1
     }
   },
   "recommendation_coverage": {
-    "eligible": 571,
-    "covered": 571,
+    "eligible": 403,
+    "covered": 403,
     "percent": 100
   },
   "service_slot_coverage": {
-    "eligible": 571,
-    "covered": 571,
+    "eligible": 403,
+    "covered": 403,
     "missing": 0,
     "percent": 100,
-    "exact_or_resolved": 298,
-    "exact_or_resolved_percent": 52.2,
-    "search_fallback": 273,
-    "search_fallback_percent": 47.8
+    "exact_or_resolved": 292,
+    "exact_or_resolved_percent": 72.5,
+    "search_fallback": 111,
+    "search_fallback_percent": 27.5
   },
   "by_service": {
     "spotify": {
       "eligible": 69,
       "covered": 69,
-      "exact_or_resolved": 46,
-      "search_fallback": 23,
+      "exact_or_resolved": 59,
+      "search_fallback": 10,
       "missing": 0,
       "coverage_percent": 100
     },
     "amazon": {
-      "eligible": 134,
-      "covered": 134,
-      "exact_or_resolved": 110,
-      "search_fallback": 24,
+      "eligible": 109,
+      "covered": 109,
+      "exact_or_resolved": 91,
+      "search_fallback": 18,
       "missing": 0,
       "coverage_percent": 100
     },
     "justwatch": {
-      "eligible": 368,
-      "covered": 368,
+      "eligible": 225,
+      "covered": 225,
       "exact_or_resolved": 142,
-      "search_fallback": 226,
+      "search_fallback": 83,
       "missing": 0,
       "coverage_percent": 100
     }

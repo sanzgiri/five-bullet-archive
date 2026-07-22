@@ -34,6 +34,11 @@
           "type": "spotify_track",
           "url": "https://open.spotify.com/search/Julieta%20Venegas%20%E2%80%94%20Eres%20para%20M%C3%AD",
           "search_fallback": true
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/track/32JziZKwTGzOPPkjzv10tg",
+          "catalog_match": "verified_title_creator"
         }
       ]
     },

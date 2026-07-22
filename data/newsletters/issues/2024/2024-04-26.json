@@ -35,7 +35,7 @@
     {
       "position": 2,
       "section": "What I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Keynote by NVIDIA CEO Jensen Huang",
       "creator": null,
       "note": "This entire video is worth watching. If you’re short on time, [click here](https://youtu.be/cEg8cOx7UZk?t=2173) to hear one of my favorite moments, punctuated with a very deliberate and uncomfortable pause. Great food for thought.",
@@ -48,19 +48,6 @@
         {
           "type": "other",
           "url": "https://youtu.be/cEg8cOx7UZk?t=2173"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Keynote%20by%20NVIDIA%20CEO%20Jensen%20Huang",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Keynote%20by%20NVIDIA%20CEO%20Jensen%20Huang",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

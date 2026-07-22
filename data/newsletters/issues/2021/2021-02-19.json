@@ -133,7 +133,7 @@
     {
       "position": 4,
       "section": "Important video I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "A Brief History of 5-MeO-DMT",
       "creator": "Hamilton Morris",
       "note": "com/HamiltonMorris)**).** 5-MeO-DMT, sometimes referred to as “toad” or “the God molecule,” is a powerful psychedelic most commonly extracted from the venom glands of the [Sonoran Desert toad](https://en.wikipedia.org/wiki/Colorado_River_toad). For me, the most important part of this presentation begins at 12:45 ([click here to begin at 12:45](https://www.youtube.com/watch?v=O_VYXcdTReQ&t=765)). For the main points I want to underscore, I suggest watching [60 seconds here](https://www.youtube.com/watch?v=O_VYXcdTReQ&t=765), then watching [another three minutes starting around 17:00](https://www.youtube.com/watch?v=O_VYXcdTReQ&t=1020). This video finally burst the dam in me, which led to the next bullet, which turned into a blog post…",
@@ -162,19 +162,6 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=O_VYXcdTReQ&t=1020"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=A%20Brief%20History%20of%205-MeO-DMT%20Hamilton%20Morris",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=A%20Brief%20History%20of%205-MeO-DMT%20Hamilton%20Morris",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

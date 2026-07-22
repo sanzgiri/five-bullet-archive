@@ -122,7 +122,7 @@
     {
       "position": 5,
       "section": "Book highlight I am pondering",
-      "category": "book",
+      "category": "quote",
       "title": "Why We Sleep",
       "creator": "Matthew Walker",
       "note": "([Click here to share on X](https://ctt.ec/I7pUi).)\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [my behind-the-scenes conversation](https://tim.blog/2026/06/02/jake-becraft-strand-therapeutics/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) with [Jake Becraft](https://x.com/DrSynbio), CEO and co-founder of [Strand Therapeutics](https://www.strandtx.com/), which is building one of the most advanced programmable genetic medicine platforms in biotech.  \n​  \nAnd, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
@@ -155,27 +155,6 @@
         {
           "type": "other",
           "url": "https://twitter.com/tferriss"
-        },
-        {
-          "type": "worldcat",
-          "url": "https://search.worldcat.org/search?q=Why%20We%20Sleep%20Matthew%20Walker",
-          "search_fallback": true
-        },
-        {
-          "type": "amazon",
-          "url": "https://www.amazon.com/dp/1501144316",
-          "catalog_match": "openlibrary_exact_title_creator",
-          "catalog_title": "Why We Sleep",
-          "catalog_creator": "Matthew P. Walker, Matthew Walker",
-          "isbn10": "1501144316"
-        },
-        {
-          "type": "libby",
-          "url": "https://share.libbyapp.com/title/3249791",
-          "requires_participating_library": true,
-          "catalog_match": "exact_normalized_title",
-          "catalog_title": "Why We Sleep",
-          "catalog_creator": "Matthew Walker"
         }
       ]
     }

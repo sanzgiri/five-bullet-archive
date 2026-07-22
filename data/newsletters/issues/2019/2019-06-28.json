@@ -82,7 +82,7 @@
     {
       "position": 4,
       "section": "What I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "How Wolves Change Rivers",
       "creator": null,
       "note": "This short video (< 5 minutes) has been viewed more than 40 million times. It’s an incredible visual portrait of how wolves can help—literally—change the course of rivers. Though highly simplified, this video showcases a beautiful, critically important, and woefully underappreciated phenomenon called [trophic cascade](https://el2.fourhourmail.com/c/gku0l36gga5he4l55h3/8qfqhoh2l8prk6/aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9zY2l0YWJsZS9rbm93bGVkZ2UvbGlicmFyeS90cm9waGljLWNhc2NhZGVzLWFjcm9zcy1kaXZlcnNlLXBsYW50LWVjb3N5c3RlbXMtODAwNjAzNDc=). I have just one edit suggestion for the video owner, which would be to expand the narration mention of “deer” to “deer and elk.” For another quick video summary of trophic cascade and “keystone species,” I suggest [3 Animals That Keep Their Whole Ecosystem Together](https://el2.fourhourmail.com/c/gku0l36gga5he4l55h3/lztehmhn3pvxw8/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1KR2NJcDRZRUtyYw==). I hoped to be a marine biologist for more than a decade, and I’ve spent a good deal of time studying sharks and their role in trophic cascade. Past podcast guests like [Stewart Brand](https://el2.fourhourmail.com/c/gku0l36gga5he4l55h3/dnceh0ho0xwprp/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzExLzIxL3N0ZXdhcnQtYnJhbmQvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg==), arguably the most interesting man in the world, have looked at the role of elephants/pachyderms in top-down ecosystem dynamics and preservation/restoration. In the last two years, I’ve become most interested in the gray wolf and other terrestrial apex predators. More on this soon...",
@@ -103,19 +103,6 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/gku0l36gga5he4l55h3/dnceh0ho0xwprp/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzExLzIxL3N0ZXdhcnQtYnJhbmQvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg=="
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=How%20Wolves%20Change%20Rivers",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=How%20Wolves%20Change%20Rivers",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

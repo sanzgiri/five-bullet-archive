@@ -97,7 +97,7 @@
     {
       "position": 3,
       "section": "30-minute doc I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "The Greatest Submission Artist – Gordon Ryan",
       "creator": null,
       "note": null,
@@ -106,19 +106,6 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=kaW71ZyUX80"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=The%20Greatest%20Submission%20Artist%20%E2%80%93%20Gordon%20Ryan",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=The%20Greatest%20Submission%20Artist%20%E2%80%93%20Gordon%20Ryan",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

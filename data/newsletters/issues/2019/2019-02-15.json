@@ -39,7 +39,7 @@
     {
       "position": 2,
       "section": "What I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "Bruce Lee at the 1967 Long Beach Tournament",
       "creator": null,
       "note": "Bruce was so far ahead of his time, it’s hard to believe. How did I not find this video sooner?! The audio includes a lot of great anecdotes as a bonus.",
@@ -48,19 +48,6 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/r8u063gzzaoh5wpq9/dgseh0h4mzpd2g/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1BcUhxTWRSY1JPUQ=="
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Bruce%20Lee%20at%20the%201967%20Long%20Beach%20Tournament",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Bruce%20Lee%20at%20the%201967%20Long%20Beach%20Tournament",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

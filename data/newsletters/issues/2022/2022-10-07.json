@@ -182,7 +182,7 @@
     {
       "position": 4,
       "section": "Short video I’m sharing for awkward laughs and pre-Halloween horror",
-      "category": "video",
+      "category": "web_video",
       "title": "2022 year in the markets review",
       "creator": null,
       "note": null,
@@ -191,19 +191,6 @@
         {
           "type": "original",
           "url": "https://twitter.com/DadInvest/status/1572582613872939008"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=2022%20year%20in%20the%20markets%20review",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=2022%20year%20in%20the%20markets%20review",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

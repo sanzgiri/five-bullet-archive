@@ -35,7 +35,7 @@
     {
       "position": 2,
       "section": "What I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Mentalism, mind reading and the art of getting inside your head",
       "creator": "Derren Brown",
       "note": "(TED).",
@@ -48,19 +48,6 @@
         {
           "type": "other",
           "url": "https://derrenbrown.co.uk/"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Mentalism%2C%20mind%20reading%20and%20the%20art%20of%20getting%20inside%20your%20head%20Derren%20Brown",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Mentalism%2C%20mind%20reading%20and%20the%20art%20of%20getting%20inside%20your%20head%20Derren%20Brown",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

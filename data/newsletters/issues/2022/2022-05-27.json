@@ -35,7 +35,7 @@
     {
       "position": 2,
       "section": "TED Talk I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Can we create new senses for humans?",
       "creator": "David Eagleman",
       "note": "([@davideagleman](https://twitter.com/davideagleman)). Official description: “As humans, we can perceive less than a ten-trillionth of all light waves. ‘Our experience of reality,’ says neuroscientist David Eagleman, ‘is constrained by our biology.’ He wants to change that. His research into our brain processes has led him to create new interfaces—such as a sensory vest—to take in previously unseen information about the world around us.” I’ve previously recommended David’s [_Sum: Forty Tales from the Afterlives_](https://www.amazon.com/Sum-Forty-Afterlives-David-Eagleman/dp/0307389936/), which is a collection of 40 thought exercises on the nature of existence, reality, perception, death, pain, boredom, and more.",
@@ -56,19 +56,6 @@
         {
           "type": "amazon",
           "url": "https://www.amazon.com/Sum-Forty-Afterlives-David-Eagleman/dp/0307389936/"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Can%20we%20create%20new%20senses%20for%20humans%3F%20David%20Eagleman",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Can%20we%20create%20new%20senses%20for%20humans%3F%20David%20Eagleman",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

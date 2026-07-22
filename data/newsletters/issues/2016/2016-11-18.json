@@ -54,7 +54,7 @@
     {
       "position": 3,
       "section": "Video you might have missed —",
-      "category": "video",
+      "category": "web_video",
       "title": "@JESSIEgraffPWR",
       "creator": null,
       "note": ")\nteach you [how to do a\npullup](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wst&mc=e&s=bomwH&u=w&y=W&).",
@@ -67,19 +67,6 @@
         {
           "type": "other",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wst&mc=e&s=bomwH&u=w&y=W&"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=%40JESSIEgraffPWR",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=%40JESSIEgraffPWR",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

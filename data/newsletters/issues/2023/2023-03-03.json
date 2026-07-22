@@ -135,6 +135,11 @@
           "type": "spotify_track",
           "url": "https://open.spotify.com/search/Alan%20Watts%20and%20Superposition%20%E2%80%94%20Listen%2C%20Dream",
           "search_fallback": true
+        },
+        {
+          "type": "spotify_album",
+          "url": "https://open.spotify.com/album/4WER0jHByxYmFwXZgRL6Pk",
+          "catalog_match": "verified_title_creator"
         }
       ]
     },

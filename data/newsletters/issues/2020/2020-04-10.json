@@ -31,6 +31,11 @@
           "type": "spotify_track",
           "url": "https://open.spotify.com/search/Chancha%20Via%20Circuito%20-%20Jardines%20ft.%20Lido%20Pimienta",
           "search_fallback": true
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/track/47cXnfnILbqGJFjAORgXy5",
+          "catalog_match": "verified_title_creator"
         }
       ]
     },

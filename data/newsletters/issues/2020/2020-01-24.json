@@ -55,7 +55,7 @@
     {
       "position": 3,
       "section": "What I’m rewatching —",
-      "category": "video",
+      "category": "web_video",
       "title": "This is Water",
       "creator": null,
       "note": "commencement speech by David Foster Wallace, which he gave at Kenyon College on May 21, 2005. It is [also available in book form](https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/85uqhohpwd9po8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UaGlzLVdhdGVyLURlbGl2ZXJlZC1TaWduaWZpY2FudC1Db21wYXNzaW9uYXRlL2RwLzAzMTYwNjgyMjU=), but I highly recommend the audio/video. Popular podcast guest [Dr. Peter Attia](https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/lviehmhvq2rvlg/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzEyLzEzL3BldGVyLWF0dGlhLXZzLXRpbS1mZXJyaXNzLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=) listens to this every two weeks, which is how I first learned about the video.",
@@ -72,19 +72,6 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/lviehmhvq2rvlg/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzEyLzEzL3BldGVyLWF0dGlhLXZzLXRpbS1mZXJyaXNzLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=This%20is%20Water",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=This%20is%20Water",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

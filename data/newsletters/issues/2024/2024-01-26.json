@@ -12,7 +12,7 @@
     {
       "position": 1,
       "section": "Short video I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Mary Oliver reciting her poem “Wild Geese.”",
       "creator": null,
       "note": "Pause and spend a few minutes with this poem. It’s worth the reminder. The full text is available [here](http://www.phys.unm.edu/~tw/fas/yits/archive/oliver_wildgeese.html), and I read it often.",
@@ -25,19 +25,6 @@
         {
           "type": "other",
           "url": "http://www.phys.unm.edu/~tw/fas/yits/archive/oliver_wildgeese.html"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Mary%20Oliver%20reciting%20her%20poem%20%E2%80%9CWild%20Geese.%E2%80%9D",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Mary%20Oliver%20reciting%20her%20poem%20%E2%80%9CWild%20Geese.%E2%80%9D",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

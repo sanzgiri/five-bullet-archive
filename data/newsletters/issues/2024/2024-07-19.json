@@ -12,7 +12,7 @@
     {
       "position": 1,
       "section": "Short TED Talk I’m watching once again",
-      "category": "video",
+      "category": "web_video",
       "title": "Give yourself permission to be creative",
       "creator": "Ethan Hawke",
       "note": ". This clocks in at roughly nine minutes. And thanks to Laird Z. for the recommendation. From the description: “Reflecting on moments that shaped his life, actor [Ethan Hawke](https://www.instagram.com/ethanhawke/?hl=en) examines how courageous expression promotes healing and connection with one another—and invites you to discover your own unabashed creativity. ‘There is no path till you walk it,’ he says.”",
@@ -29,19 +29,6 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/ethanhawke/?hl=en"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Give%20yourself%20permission%20to%20be%20creative%20Ethan%20Hawke",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Give%20yourself%20permission%20to%20be%20creative%20Ethan%20Hawke",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

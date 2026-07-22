@@ -13,7 +13,7 @@
     {
       "position": 1,
       "section": "What I’m watching (shorter) —",
-      "category": "video",
+      "category": "web_video",
       "title": "Hakuho Shō “The Best Sumo of All Time” HD Yokozuna Highlights",
       "creator": null,
       "note": "and [**Chiyonofuji Mitsugu (千代の富士 貢) 53-match win streak**](https://el2.fourhourmail.com/c/qdurox544u7hn32vgc6/ogakhqh85me40o/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj15T2ZNdHlHU2hQQQ==)**.** I lived in Japan as an exchange student between 1992 and 1993. It was in Tokyo that I became obsessed with the ancient art and sport of sumo wrestling. [Can you spot Waldo here?](https://el2.fourhourmail.com/c/qdurox544u7hn32vgc6/pqbeh9h78we9p8/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0J0T2NsR3JBZ2xxLw==) These two highlight videos show very different styles at the highest levels. Chiyonofuji, nicknamed “The Wolf,” was light for a competitor and suffered dual shoulder dislocations early in his career. He rebuilt himself with astonishing muscularity and changed his strategies and techniques to become the “eternal Fuji” incarnate. Hakuho comes from a Mongolian wrestling tradition and does things I’ve never seen in 20+ years of watching sumo.",
@@ -30,19 +30,6 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/qdurox544u7hn32vgc6/pqbeh9h78we9p8/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0J0T2NsR3JBZ2xxLw=="
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Hakuho%20Sh%C5%8D%20%E2%80%9CThe%20Best%20Sumo%20of%20All%20Time%E2%80%9D%20HD%20Yokozuna%20Highlights",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Hakuho%20Sh%C5%8D%20%E2%80%9CThe%20Best%20Sumo%20of%20All%20Time%E2%80%9D%20HD%20Yokozuna%20Highlights",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

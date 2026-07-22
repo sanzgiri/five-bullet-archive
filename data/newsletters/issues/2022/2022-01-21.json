@@ -134,7 +134,7 @@
     {
       "position": 4,
       "section": "What I’m rewatching and enjoying even more the second time —",
-      "category": "video",
+      "category": "web_video",
       "title": "Derek DelGaudio’s In & Of Itself",
       "creator": null,
       "note": "(Hulu). Derek’s feats of magic are rivaled by his feats of social engineering, memory, and more. I found the entire show incredibly inventive. Even if you don’t have Hulu or won’t subscribe, [the trailer here](https://www.youtube.com/watch?v=_62BeXxd_jo) is worth watching. Description: “Storyteller and conceptual magician [Derek DelGaudio](https://en.wikipedia.org/wiki/Derek_DelGaudio) ([@derekdel](https://www.instagram.com/derekdel/)) attempts to understand the illusory nature of identity and answer the deceptively simple question ‘Who am I?’”",
@@ -155,19 +155,6 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/derekdel/"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Derek%20DelGaudio%E2%80%99s%20In%20%26%20Of%20Itself",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Derek%20DelGaudio%E2%80%99s%20In%20%26%20Of%20Itself",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

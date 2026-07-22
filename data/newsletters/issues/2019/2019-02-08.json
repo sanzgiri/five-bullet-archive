@@ -39,7 +39,7 @@
     {
       "position": 2,
       "section": "Short video I’ve watched at least 10 times (do NOT try this at home) —",
-      "category": "video",
+      "category": "web_video",
       "title": "Can’t stop watching this",
       "creator": null,
       "note": null,
@@ -48,19 +48,6 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/0kswh9hox59849/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JxYmVaY2VCZXBhLw=="
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Can%E2%80%99t%20stop%20watching%20this",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Can%E2%80%99t%20stop%20watching%20this",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

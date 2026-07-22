@@ -42,6 +42,11 @@
           "catalog_match": "musicbrainz_exact_title_artist",
           "catalog_title": "Zitarrosa",
           "catalog_creator": "Bajofondo"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/track/3LsIKnWBQhqjQ5TWNxJenK",
+          "catalog_match": "verified_title_creator"
         }
       ]
     },
@@ -120,7 +125,7 @@
     {
       "position": 5,
       "section": "Book highlight I’m pondering",
-      "category": "book",
+      "category": "quote",
       "title": "The Way to Love",
       "creator": "Anthony de Mello",
       "note": "​  \n([Click here to share on Twitter](https://ctt.ec/Z4QUx).)\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [my interview](https://tim.blog/2023/01/27/wade-davis/) with famed explorer Wade Davis, [this list](https://tim.blog/2019/12/09/tim-ferriss-recommended-books/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) of my four must-read books, and [my most recent podcast interview](https://tim.blog/2024/12/05/david-whyte/), featuring renowned poet David Whyte.\n\nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
@@ -153,19 +158,6 @@
         {
           "type": "other",
           "url": "https://twitter.com/tferriss"
-        },
-        {
-          "type": "worldcat",
-          "url": "https://search.worldcat.org/search?q=The%20Way%20to%20Love%20Anthony%20de%20Mello",
-          "search_fallback": true
-        },
-        {
-          "type": "libby",
-          "url": "https://share.libbyapp.com/title/626658",
-          "requires_participating_library": true,
-          "catalog_match": "exact_normalized_title",
-          "catalog_title": "The Way to Love",
-          "catalog_creator": "Anthony De Mello"
         }
       ]
     }

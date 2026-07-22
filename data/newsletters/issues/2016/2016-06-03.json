@@ -31,7 +31,7 @@
     {
       "position": 2,
       "section": "What I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "The History of Japan in 9 Minutes",
       "creator": null,
       "note": "This clever (and funny) video was introduced to me by [Kevin\nKelly](http://www.fourhournewsletter.com/click.html?x=a62e&lc=wkN&mc=e&s=bomwH&u=w&y=v&)\nafter a catch-up session at my house. It’s a little slow for the first few\nminutes, but it covers--to use their language--a “fuck ton.” How? In part, by\nomitting reading the proper nouns and intelligently using text overlay.\nDefinitely worth the time.",
@@ -44,19 +44,6 @@
         {
           "type": "other",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wkN&mc=e&s=bomwH&u=w&y=v&"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=The%20History%20of%20Japan%20in%209%20Minutes",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=The%20History%20of%20Japan%20in%209%20Minutes",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

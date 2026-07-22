@@ -74,7 +74,7 @@
     {
       "position": 3,
       "section": "Magic trick I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Infinite Chocolate Bar Trick",
       "creator": null,
       "note": "Special thanks to [Simon Coronel](https://www.simoncoronel.com/), world champion of magic, for making me aware of this.",
@@ -87,19 +87,6 @@
         {
           "type": "other",
           "url": "https://www.simoncoronel.com/"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Infinite%20Chocolate%20Bar%20Trick",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Infinite%20Chocolate%20Bar%20Trick",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

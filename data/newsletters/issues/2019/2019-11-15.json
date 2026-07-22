@@ -48,7 +48,7 @@
     {
       "position": 2,
       "section": "What I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "Amazing Uzbek Food in Samarkand - GIANT 21 METER Kebab Grill + Ancient Uzbekistan!",
       "creator": "Mark Wiens",
       "note": ". This wonderful video was sent to me by the real “most interesting man in the world,” [Kevin Kelly](https://el2.convertkit-mail.com/c/e5ux264rrb7h7kl78i6/l3sehmh4mz2o9d/aHR0cHM6Ly90aW0uYmxvZy8yMDE0LzA4LzI5L2tldmluLWtlbGx5Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=). He and I traveled through Uzbekistan in 2017 (Plov! Plov! Plov!). In fact, we even [recorded a short podcast in the back of a taxi](https://el2.convertkit-mail.com/c/e5ux264rrb7h7kl78i6/ewaph7he32vkgx/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzA2LzIwL2Nvb2wtdG9vbHMtZm9yLXRyYXZlbC8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm) as we wound our way through the mountains. Side note: if you like “5-Bullet Friday,” you might enjoy Kevin’s newsletter, [Recomendo](https://el2.convertkit-mail.com/c/e5ux264rrb7h7kl78i6/67beh8hw8drp86/aHR0cHM6Ly93d3cucmVjb21lbmRvLmNvbS8=).",
@@ -73,19 +73,6 @@
         {
           "type": "other",
           "url": "https://el2.convertkit-mail.com/c/e5ux264rrb7h7kl78i6/67beh8hw8drp86/aHR0cHM6Ly93d3cucmVjb21lbmRvLmNvbS8="
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Amazing%20Uzbek%20Food%20in%20Samarkand%20-%20GIANT%2021%20METER%20Kebab%20Grill%20%2B%20Ancient%20Uzbekistan!%20Mark%20Wiens",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Amazing%20Uzbek%20Food%20in%20Samarkand%20-%20GIANT%2021%20METER%20Kebab%20Grill%20%2B%20Ancient%20Uzbekistan!%20Mark%20Wiens",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

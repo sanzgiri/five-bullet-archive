@@ -1,14 +1,16 @@
 {
-  "generated_at": "2026-07-22T20:29:34.839Z",
+  "generated_at": "2026-07-22T20:38:39.511Z",
   "issues": 530,
-  "reclassified_non_books": 0,
+  "reclassified_non_books": 25,
+  "reclassified_non_films": 143,
   "reclassified_non_music": 0,
-  "spotify_exact_added": 0,
+  "removed_irrelevant_links": 338,
+  "spotify_exact_added": 13,
   "musicbrainz_resolved": 0,
   "amazon_exact_added": 0,
   "justwatch_exact_added": 0,
-  "errors": 13,
-  "amazon_exact_total": 416,
+  "errors": 0,
+  "amazon_exact_total": 412,
   "justwatch_exact_total": 142,
-  "spotify_exact_total": 185
+  "spotify_exact_total": 198
 }

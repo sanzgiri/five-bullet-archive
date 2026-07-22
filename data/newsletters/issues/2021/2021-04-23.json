@@ -67,7 +67,7 @@
     {
       "position": 3,
       "section": "What I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "Derek DelGaudio’s In & Of Itself",
       "creator": null,
       "note": "(Hulu). Derek’s feats of magic are rivaled by his feats of social engineering, memory, and more. I found the entire show incredibly inventive. Even if you don’t have Hulu or won’t subscribe, [the trailer here](https://www.youtube.com/watch?v=_62BeXxd_jo) is worth watching. Description: “Storyteller and conceptual magician Derek DelGaudio attempts to understand the illusory nature of identity and answer the deceptively simple question ‘Who am I?’”",
@@ -80,26 +80,13 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=_62BeXxd_jo"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Derek%20DelGaudio%E2%80%99s%20In%20%26%20Of%20Itself",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Derek%20DelGaudio%E2%80%99s%20In%20%26%20Of%20Itself",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },
     {
       "position": 4,
       "section": "What I’m watching (very short) —",
-      "category": "video",
+      "category": "web_video",
       "title": "Mollii helps Kevin who suffers Parkinsonism/idiopathic tremor",
       "creator": null,
       "note": "This video is just as magical as the above, but it’s a hard science problem. Nonetheless, it’s difficult for me to wrap my head around how it works so well. Has anyone reading this had firsthand experience with such a suit? If so, please let me know [@tferriss on Twitter](https://twitter.com/tferriss) with #parkinsons so I can find you. Here’s the technical description: “\\[Mollii is\\] a comfortable jacket and trousers with built-in electro-stimulation for adults and children living with motor function and other disabilities. Each suit delivers individually programmed electro-stimulation to muscle groups over the whole body simultaneously during a 60 minute session. Mollii’s sensory-level stimulation brings relief and help where needed by prompting natural responses of muscle inhibition, muscle activation and pain relief, lasting for up to 48 hours.”",
@@ -112,19 +99,6 @@
         {
           "type": "other",
           "url": "https://twitter.com/tferriss"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Mollii%20helps%20Kevin%20who%20suffers%20Parkinsonism%2Fidiopathic%20tremor",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Mollii%20helps%20Kevin%20who%20suffers%20Parkinsonism%2Fidiopathic%20tremor",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

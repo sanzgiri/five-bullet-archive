@@ -12,7 +12,7 @@
     {
       "position": 1,
       "section": "What I’m watching (shorter)",
-      "category": "video",
+      "category": "web_video",
       "title": "The Moth Presents — Stephanie Peirolo: Walking with RJ",
       "creator": null,
       "note": "This is an incredibly moving and brutal 12-minute video. It helps put things in perspective, and it made me reconsider my “stresses” as almost entirely absurd. Perhaps you also need a reset for this weekend? Watch the whole thing to feel it properly.",
@@ -21,19 +21,6 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=WebsjShV0ZA"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=The%20Moth%20Presents%20%E2%80%94%20Stephanie%20Peirolo%3A%20Walking%20with%20RJ",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=The%20Moth%20Presents%20%E2%80%94%20Stephanie%20Peirolo%3A%20Walking%20with%20RJ",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

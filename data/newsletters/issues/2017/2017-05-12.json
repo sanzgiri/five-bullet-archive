@@ -12,7 +12,7 @@
     {
       "position": 1,
       "section": "What I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "High-speed sword quenching",
       "creator": null,
       "note": ",\nrecommended by [Murray\nCarter](https://el2.fourhourmail.com/c/27uk8e5mmuohvzzrk/q1opyg/aHR0cDovL3RpbS5ibG9nLzIwMTcvMDQvMjYvbXVycmF5LWNhcnRlci8=)\n(note the deformation → reformation)  \n[The archer’s paradox in slow\nmotion](https://el2.fourhourmail.com/c/27uk8e5mmuohvzzrk/x1zvjk/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1PN3pld3R1VU1fMA==),\nfeaturing one of my all-time favorite archers, Bryon Ferguson (from\n[SmarterEveryDay](https://el2.fourhourmail.com/c/27uk8e5mmuohvzzrk/e1pnyl/aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQzYxMDdnclJJNG0wbzItZW1nb0RuQUE=))**What",
@@ -33,19 +33,6 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohvzzrk/e1pnyl/aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQzYxMDdnclJJNG0wbzItZW1nb0RuQUE="
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=High-speed%20sword%20quenching",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=High-speed%20sword%20quenching",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

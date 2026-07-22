@@ -124,7 +124,7 @@
     {
       "position": 5,
       "section": "I’m pondering, especially this week —",
-      "category": "video",
+      "category": "web_video",
       "title": "send a tweet to @tferriss",
       "creator": null,
       "note": "and put #5BulletFriday in there so I can find it.",
@@ -133,19 +133,6 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/o8uvgq544hqhke7vx/wy8v14/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=send%20a%20tweet%20to%20%40tferriss",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=send%20a%20tweet%20to%20%40tferriss",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     }

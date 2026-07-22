@@ -13,7 +13,7 @@
     {
       "position": 1,
       "section": "What I’m watching over and over again",
-      "category": "video",
+      "category": "web_video",
       "title": "WING - Dopamine (Official Video) (BEATBOX)",
       "creator": null,
       "note": "(BEATBOX)**](https://www.youtube.com/watch?v=qlrpeYdm9Ec)**.”** This blew my mind. Long ago, I tracked the evolution of beatboxing alongside the extra-rapid evolution of breakdancing (e.g., [Rahzel at Red Bull BC One](https://www.youtube.com/watch?v=LBdXpsP85xM)).  \n​  \nRecently, someone sent me WING, and my head nearly exploded. It is a rapid-fire celebration of “WTF?!?” I clearly missed a quantum leap. [Watch two minutes](https://www.youtube.com/watch?v=qlrpeYdm9Ec) of this, and you’ll see what I mean.  \n​  \nBe sure to check out [WING’s channel](https://www.youtube.com/channel/UCN8JqVWsdgVx3svFEMWI85Q), which has other seemingly impossible videos.",
@@ -34,19 +34,6 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/channel/UCN8JqVWsdgVx3svFEMWI85Q"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=WING%20-%20Dopamine%20(Official%20Video)%20(BEATBOX)",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=WING%20-%20Dopamine%20(Official%20Video)%20(BEATBOX)",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

@@ -132,7 +132,7 @@
     {
       "position": 5,
       "section": "Book highlight I’m pondering",
-      "category": "book",
+      "category": "quote",
       "title": "What Got You Here Won't Get You There",
       "creator": "Marshall Goldsmith",
       "note": "​  \n(Also see: [360-degree feedback](https://en.wikipedia.org/wiki/360-degree_feedback))",
@@ -149,27 +149,6 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/360-degree_feedback"
-        },
-        {
-          "type": "worldcat",
-          "url": "https://search.worldcat.org/search?q=What%20Got%20You%20Here%20Won't%20Get%20You%20There%20Marshall%20Goldsmith",
-          "search_fallback": true
-        },
-        {
-          "type": "amazon",
-          "url": "https://www.amazon.com/dp/1401388728",
-          "catalog_match": "openlibrary_exact_title_creator",
-          "catalog_title": "What Got You Here Won't Get You There",
-          "catalog_creator": "Marshall Goldsmith",
-          "isbn10": "1401388728"
-        },
-        {
-          "type": "libby",
-          "url": "https://share.libbyapp.com/title/1393923",
-          "requires_participating_library": true,
-          "catalog_match": "exact_normalized_title",
-          "catalog_title": "What Got You Here Won't Get You There",
-          "catalog_creator": "Marshall Goldsmith, Mark Reiter"
         }
       ]
     },

@@ -138,7 +138,7 @@
     {
       "position": 4,
       "section": "What I’m watching to prepare for the Dune: Part Two premiere",
-      "category": "video",
+      "category": "web_video",
       "title": "Timothée Chalamet replaced by Elmo in Dune",
       "creator": null,
       "note": null,
@@ -147,19 +147,6 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=EHK5fBm1YWk"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Timoth%C3%A9e%20Chalamet%20replaced%20by%20Elmo%20in%20Dune",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Timoth%C3%A9e%20Chalamet%20replaced%20by%20Elmo%20in%20Dune",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

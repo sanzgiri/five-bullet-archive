@@ -73,7 +73,7 @@
     {
       "position": 3,
       "section": "Short video I’m watching repeatedly —",
-      "category": "video",
+      "category": "web_video",
       "title": "Speed bag magic",
       "creator": null,
       "note": "This was sent to me by a former world-championship-level kickboxer.",
@@ -82,19 +82,6 @@
         {
           "type": "original",
           "url": "https://www.instagram.com/p/CFSLrHpgmAl/"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Speed%20bag%20magic",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Speed%20bag%20magic",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

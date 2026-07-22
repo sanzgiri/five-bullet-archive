@@ -12,7 +12,7 @@
     {
       "position": 1,
       "section": "Interview I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Sir Michael Caine",
       "creator": null,
       "note": "**If you only have 90 seconds,** [**watch this clip on “using the difficulty.”**](https://youtu.be/VXSVqg1KCbw?si=u8p-RmsL-zXIfyq3) This gem from the archives also features the late [Sir Michael Parkinson](https://www.bbc.com/news/entertainment-arts-66430865), who interviewed more than 2,000 renowned guests, including Muhammad Ali, Sir Paul McCartney, and Dame Judi Dench. Equal in prodigious output is the legendary [Sir Michael Caine](https://en.wikipedia.org/wiki/Michael_Caine), his guest, who has appeared in more than 160 films.",
@@ -33,19 +33,6 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Michael_Caine"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Sir%20Michael%20Caine",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Sir%20Michael%20Caine",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

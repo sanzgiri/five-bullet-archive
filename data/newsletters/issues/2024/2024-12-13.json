@@ -66,7 +66,7 @@
     {
       "position": 3,
       "section": "Short demo that I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Tabla Solo in Jhaptal",
       "creator": null,
       "note": "I’ve developed a keen interest in hand percussion, and this video is one hell of a showcase. It features the legendary Ravi Shankar and Alla Rakha, who show how words can be converted to beautiful tabla playing at unbelievable speed.",
@@ -75,19 +75,6 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=Joyk_EMtzn0"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Tabla%20Solo%20in%20Jhaptal",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Tabla%20Solo%20in%20Jhaptal",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

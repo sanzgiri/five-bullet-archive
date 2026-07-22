@@ -98,7 +98,7 @@
     {
       "position": 3,
       "section": "Short clip I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Khabib vs Lex: Training with Khabib",
       "creator": null,
       "note": "Lex is a serious Brazilian jiu-jitsu (BJJ) practitioner and black belt [under Rick Migliarese and Phil Migliarese](https://www.instagram.com/p/CrEqiVarQIr/). So what happens when he rolls with one of the greatest of all time? I really appreciate that Lex taped and shared this, and there are a lot of comments that will make you happy you’re not underneath Khabib:  \n​  \n​_I felt like I was drowning watching this  \n​  \nThe fact that he doesn’t go for the sub, so you don’t tap, so you don’t reset position, so he can keep mauling you is diabolical lol  \n​  \n​_If you like the above video, you may also like “[Eddie Bravo speaks on Marcelo Garcia](https://www.youtube.com/watch?v=lY0PL5RYU8M).” To put this in perspective, Eddie Bravo is a savant of BJJ mastery and innovation. He famously tapped out Royler Gracie in competition. The above video was recorded after he trained with Marcelo Garcia, 9x world champion in BJJ and submission grappling.",
@@ -115,19 +115,6 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=lY0PL5RYU8M"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Khabib%20vs%20Lex%3A%20Training%20with%20Khabib",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Khabib%20vs%20Lex%3A%20Training%20with%20Khabib",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

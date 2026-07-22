@@ -123,7 +123,7 @@
     {
       "position": 7,
       "section": "Book highlight I’m pondering",
-      "category": "book",
+      "category": "quote",
       "title": "The Art of Possibility",
       "creator": "Rosamund Stone Zander and Benjamin Zander * * * You can complement this edition of 5-Bullet Friday w",
       "note": "* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [my conversation with Steve Jang](https://tim.blog/2023/11/30/steve-jang-live-from-south-korea/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit) on all things South Korea, recorded in Seoul.  \n​  \nAnd, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
@@ -140,11 +140,6 @@
         {
           "type": "other",
           "url": "https://twitter.com/tferriss"
-        },
-        {
-          "type": "worldcat",
-          "url": "https://search.worldcat.org/search?q=The%20Art%20of%20Possibility%20Rosamund%20Stone%20Zander%20and%20Benjamin%20Zander%20*%20*%20*%20You%20can%20complement%20this%20edition%20of%205-Bullet%20Friday%20w",
-          "search_fallback": true
         }
       ]
     }

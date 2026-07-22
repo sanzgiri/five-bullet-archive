@@ -12,7 +12,7 @@
     {
       "position": 1,
       "section": "Short video I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Animal: What Makes You Truly Happy?",
       "creator": null,
       "note": "If this week has been stressful or heavy for you, this very short video might help you decompress. #bunnyrabbit​",
@@ -21,19 +21,6 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=WnJgdyaJ2BQ"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Animal%3A%20What%20Makes%20You%20Truly%20Happy%3F",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Animal%3A%20What%20Makes%20You%20Truly%20Happy%3F",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

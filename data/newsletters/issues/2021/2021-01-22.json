@@ -40,7 +40,7 @@
     {
       "position": 2,
       "section": "Short video (~8 minutes) I’m watching again —",
-      "category": "video",
+      "category": "web_video",
       "title": "The art of misdirection | Apollo Robbins",
       "creator": null,
       "note": "Apollo ([@ApolloRobbins](https://twitter.com/ApolloRobbins), [website](http://www.apollorobbins.com/)) was first recommended to me by Tristan Harris ([@tristanharris](https://twitter.com/tristanharris)), with whom I [recorded a podcast in 2019](https://tim.blog/2019/09/19/tristan-harris-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). The subject of that portion of the conversation was attention. This part of the video description explains how it relates: “Hailed as the greatest pickpocket in the world, Apollo Robbins studies the quirks of human behavior as he steals your watch.” It’s a fantastic demonstration of what also happens to you when you’re outmatched on social media by companies whose scientists, engineers, and business models focus on hijacking your attention.",
@@ -65,19 +65,6 @@
         {
           "type": "other",
           "url": "https://tim.blog/2019/09/19/tristan-harris-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=The%20art%20of%20misdirection%20%7C%20Apollo%20Robbins",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=The%20art%20of%20misdirection%20%7C%20Apollo%20Robbins",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

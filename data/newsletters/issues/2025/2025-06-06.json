@@ -159,7 +159,7 @@
     {
       "position": 6,
       "section": "Book passage I’ve highlighted",
-      "category": "book",
+      "category": "quote",
       "title": "Let Your Life Speak",
       "creator": "Parker J",
       "note": "* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [my interview with Kevin Kelly](https://www.youtube.com/watch?v=eZ3Y_rjKvIE), author of [_Excellent Advice for Living_](https://www.amazon.com/Excellent-Advice-Living-Wisdom-Earlier/dp/0593654528) and co-founder of _WIRED_ magazine.  \n​  \nAnd, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
@@ -178,25 +178,8 @@
           "url": "https://www.youtube.com/watch?v=eZ3Y_rjKvIE"
         },
         {
-          "type": "amazon",
-          "url": "https://www.amazon.com/Excellent-Advice-Living-Wisdom-Earlier/dp/0593654528"
-        },
-        {
           "type": "other",
           "url": "https://twitter.com/tferriss"
-        },
-        {
-          "type": "worldcat",
-          "url": "https://search.worldcat.org/search?q=Let%20Your%20Life%20Speak%20Parker%20J",
-          "search_fallback": true
-        },
-        {
-          "type": "libby",
-          "url": "https://share.libbyapp.com/title/1862823",
-          "requires_participating_library": true,
-          "catalog_match": "exact_normalized_title",
-          "catalog_title": "Let Your Life Speak",
-          "catalog_creator": "Parker J. Palmer"
         }
       ]
     }

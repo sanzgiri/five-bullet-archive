@@ -85,7 +85,7 @@
     {
       "position": 4,
       "section": "Short clip I’m watching for 2021 inspiration and perspective —",
-      "category": "video",
+      "category": "web_video",
       "title": "Anton Ego speech from Ratatouille.",
       "creator": null,
       "note": null,
@@ -94,19 +94,6 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=-JPOoFkrh94"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Anton%20Ego%20speech%20from%20Ratatouille.",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Anton%20Ego%20speech%20from%20Ratatouille.",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

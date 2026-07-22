@@ -43,7 +43,7 @@
     {
       "position": 2,
       "section": "Short video I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Fight-corner motivation by Teddy Atlas, renowned boxing coach",
       "creator": null,
       "note": "The most relevant part is linked directly, it lasts less than a minute, and Bradley ended up winning the fight with a 9th-round TKO.",
@@ -52,19 +52,6 @@
         {
           "type": "original",
           "url": "https://youtu.be/ruykPnaSeAg?t=1719"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Fight-corner%20motivation%20by%20Teddy%20Atlas%2C%20renowned%20boxing%20coach",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Fight-corner%20motivation%20by%20Teddy%20Atlas%2C%20renowned%20boxing%20coach",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

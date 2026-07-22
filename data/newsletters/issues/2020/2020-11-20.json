@@ -36,7 +36,7 @@
     {
       "position": 2,
       "section": "Short video I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "Alive Inside: A Story of Music & Memory",
       "creator": null,
       "note": "This clip will amaze you. Watch the whole thing, as the post-music conversation towards the end is the most mind-blowing.",
@@ -45,19 +45,6 @@
         {
           "type": "original",
           "url": "https://youtu.be/8HLEr-zP3fc"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Alive%20Inside%3A%20A%20Story%20of%20Music%20%26%20Memory",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Alive%20Inside%3A%20A%20Story%20of%20Music%20%26%20Memory",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

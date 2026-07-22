@@ -13,7 +13,7 @@
     {
       "position": 1,
       "section": "What I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "World Chase Tag",
       "creator": null,
       "note": "([@worldchasetag](https://twitter.com/worldchasetag))**.** Who knew parkour could be combined with tag to make a professional sport? [This video](https://www.youtube.com/watch?v=rgWBm5ud20Y) has nearly 40 million views and gives you a taste of the action. I chanced upon World Chase Tag on [NBCSN](https://www.nbcsports.com/) ([@nbcsports](https://twitter.com/nbcsports)). It makes you wonder what other disparate games and skills could be combined to make something amazing. Salsa curling competitions? Skeet falconry? Handstand hopscotch fingerpainting? So many options...",
@@ -38,19 +38,6 @@
         {
           "type": "other",
           "url": "https://twitter.com/nbcsports"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=World%20Chase%20Tag",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=World%20Chase%20Tag",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

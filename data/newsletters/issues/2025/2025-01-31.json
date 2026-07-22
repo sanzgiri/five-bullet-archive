@@ -12,7 +12,7 @@
     {
       "position": 1,
       "section": "Book highlight I’m pondering",
-      "category": "book",
+      "category": "quote",
       "title": "Happy Money: The Science of Happier Spending",
       "creator": null,
       "note": "for their time, while the others billed the company $1.50/minute ($90/hour). Afterward, students who billed the company at the higher rate reported feeling more pressed for time—even though they had completed the same tasks for the same amount of time as students who billed at the lower rate. In other words, making students’ time worth a lot of money was all it took to turn them into stressed-out, time-squeezed consultants.”\n\nFrom [_Happy Money: The Science of Happier Spending_](https://www.amazon.com/Happy-Money-Science-Happier-Spending/dp/1451665075/) by Elizabeth Dunn and Michael Norton",
@@ -21,11 +21,6 @@
         {
           "type": "original",
           "url": "https://www.amazon.com/Happy-Money-Science-Happier-Spending/dp/1451665075/"
-        },
-        {
-          "type": "worldcat",
-          "url": "https://search.worldcat.org/search?q=Happy%20Money%3A%20The%20Science%20of%20Happier%20Spending",
-          "search_fallback": true
         }
       ]
     },
@@ -97,7 +92,7 @@
     {
       "position": 4,
       "section": "Interview I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "NVIDIA CEO Jensen Huang’s Vision for the Future",
       "creator": "Cleo Abram",
       "note": "([@cleoabram](https://www.instagram.com/cleoabram/?hl=en)). This is a great example of video adding value to a podcast interview (can we call them “podcasts” anymore?), particularly concept visualization. Cleo is the video journalist behind [_Huge If True_](https://www.youtube.com/playlist?list=PLF-HhhjMki5n3PF6xpvR7-wH_-P-FpLqk), an optimistic show about incredible tech developments around the world.",
@@ -118,19 +113,6 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/playlist?list=PLF-HhhjMki5n3PF6xpvR7-wH_-P-FpLqk"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=NVIDIA%20CEO%20Jensen%20Huang%E2%80%99s%20Vision%20for%20the%20Future%20Cleo%20Abram",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=NVIDIA%20CEO%20Jensen%20Huang%E2%80%99s%20Vision%20for%20the%20Future%20Cleo%20Abram",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

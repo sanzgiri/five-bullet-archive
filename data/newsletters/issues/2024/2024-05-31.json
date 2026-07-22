@@ -36,7 +36,7 @@
     {
       "position": 2,
       "section": "Short video I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Stephen Fry on living the artistic life",
       "creator": null,
       "note": "The link will take you to 1:24:33. This particular segment caused me to think deeply. I’m not sure I totally agree with the premise, but that’s part of the magic that makes it good to chew on.",
@@ -45,19 +45,6 @@
         {
           "type": "original",
           "url": "https://youtu.be/YQD5z0xmoJU?t=5073"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Stephen%20Fry%20on%20living%20the%20artistic%20life",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Stephen%20Fry%20on%20living%20the%20artistic%20life",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

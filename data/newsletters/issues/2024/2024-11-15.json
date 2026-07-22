@@ -69,7 +69,7 @@
     {
       "position": 4,
       "section": "What I’m watching (short)",
-      "category": "video",
+      "category": "web_video",
       "title": "Jensen Huang got his best career advice from a gardener in Japan",
       "creator": null,
       "note": null,
@@ -78,19 +78,6 @@
         {
           "type": "original",
           "url": "https://x.com/arjunkhemani/status/1856687281513316637"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Jensen%20Huang%20got%20his%20best%20career%20advice%20from%20a%20gardener%20in%20Japan",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Jensen%20Huang%20got%20his%20best%20career%20advice%20from%20a%20gardener%20in%20Japan",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

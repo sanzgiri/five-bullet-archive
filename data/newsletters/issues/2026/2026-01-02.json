@@ -136,7 +136,7 @@
     {
       "position": 2,
       "section": "Book highlights that I’m pondering",
-      "category": "book",
+      "category": "quote",
       "title": "How to Stop Worrying and Start Living",
       "creator": "Dale Carnegie",
       "note": "([Click here to share on X](https://ctt.ec/V4GIS).)**​  \n​  \n“When life gets tough, some of us feel that we’ve lost the game and life has won. But life isn’t trying to defeat you. Life isn’t even a participant—the game is yours.”  \n​**— [_Solve for Happy_](https://www.amazon.com/Solve-Happy-Engineer-Your-Path/dp/1501157558?tag=offsitoftimfe-20) by [Mo Gawdat](https://en.wikipedia.org/wiki/Mo_Gawdat) [_​  \n​_](https://www.amazon.com/Solve-Happy-Engineer-Your-Path/dp/1501157558?tag=offsitoftimfe-20)([Click here to share on X](https://ctt.ec/d2Eoe).)\n\n* * *\n\nHappy new year, everyone! May 2026 be your most joyous yet, and may it be full of surprises that make you smile.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
@@ -155,33 +155,12 @@
           "url": "https://ctt.ec/V4GIS"
         },
         {
-          "type": "amazon",
-          "url": "https://www.amazon.com/Solve-Happy-Engineer-Your-Path/dp/1501157558?tag=offsitoftimfe-20"
-        },
-        {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Mo_Gawdat"
         },
         {
-          "type": "amazon",
-          "url": "https://www.amazon.com/Solve-Happy-Engineer-Your-Path/dp/1501157558?tag=offsitoftimfe-20"
-        },
-        {
           "type": "other",
           "url": "https://ctt.ec/d2Eoe"
-        },
-        {
-          "type": "worldcat",
-          "url": "https://search.worldcat.org/search?q=How%20to%20Stop%20Worrying%20and%20Start%20Living%20Dale%20Carnegie",
-          "search_fallback": true
-        },
-        {
-          "type": "libby",
-          "url": "https://share.libbyapp.com/title/451588",
-          "requires_participating_library": true,
-          "catalog_match": "exact_normalized_title",
-          "catalog_title": "How to Stop Worrying and Start Living",
-          "catalog_creator": "Dale Carnegie"
         }
       ]
     }

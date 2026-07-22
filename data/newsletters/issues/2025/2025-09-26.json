@@ -120,7 +120,7 @@
     {
       "position": 4,
       "section": "Puzzle I’d love your help with! Signed books in the mix…",
-      "category": "book",
+      "category": "article",
       "title": "If you haven’t bought a copy of COYOTE, why haven’t you",
       "creator": null,
       "note": "?** Answers can be totally anonymous! Knowing this would really help me a ton, as [the reviews are fantastic](https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/ref=sr_1_5?crid=2Z41985ITFLYY&dib=eyJ2IjoiMSJ9.vUHW0nkEDYw3ajjbBTMfwEedCPlVY2iwxegFRxjCiESZWCetq1hIiZbaQdmA6wJcqNlnTqDmmdFLq-W1KcYPUjHwuMtHrL59ZCW8l5unV0tovJYaXRc7Mn8KCHHY7JbyZwz4Z607CUnhoRgon_rbsuJ49dT5HdCgZx3MkQvYCbX-75Z2G7Ohw59HXnu_62jYoHxcdZ0gnBsImmkAa7wa1TP9Rl7b1T5iSGx2Mx4IO1T_FhyXahxneH5D7GDOnxWkSSOzC6p_NW3EHD0kiVuQc6j7VU6jMhi3k_Vp0lbu9mA.LBLECOGNnVjzA8hkXs8zsx9lhGazwHWlWblc4HzonvU&dib_tag=se&keywords=coyote%20exploding%20kittens&qid=1753101145&sprefix=coyote%20exploding%2Caps%2C103&sr=8-5#averageCustomerReviewsAnchor), and the buzz is phenomenal (300M+ social views of game play), but compared to my books, only a small fraction of you have bought the game. I would love to know why, as that could help shape everything we do for the critical holiday season, which is the make-it-or-break-it period for games and toys.  \n​  \nCould you please take literally one minute to let me know [on this Google Form](https://forms.gle/EFcc9C4PuGH8MMKS7)? I’ll choose 10 respondents at random and gladly mail out 10 signed copies of _The 4-Hour Workweek_ as a token of gratitude. Thank you for taking a moment to help, if you can. There’s room to make changes now, but that window is narrowing, and your input is really important.",
@@ -131,17 +131,8 @@
           "url": "https://forms.gle/EFcc9C4PuGH8MMKS7"
         },
         {
-          "type": "amazon",
-          "url": "https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/ref=sr_1_5?crid=2Z41985ITFLYY&dib=eyJ2IjoiMSJ9.vUHW0nkEDYw3ajjbBTMfwEedCPlVY2iwxegFRxjCiESZWCetq1hIiZbaQdmA6wJcqNlnTqDmmdFLq-W1KcYPUjHwuMtHrL59ZCW8l5unV0tovJYaXRc7Mn8KCHHY7JbyZwz4Z607CUnhoRgon_rbsuJ49dT5HdCgZx3MkQvYCbX-75Z2G7Ohw59HXnu_62jYoHxcdZ0gnBsImmkAa7wa1TP9Rl7b1T5iSGx2Mx4IO1T_FhyXahxneH5D7GDOnxWkSSOzC6p_NW3EHD0kiVuQc6j7VU6jMhi3k_Vp0lbu9mA.LBLECOGNnVjzA8hkXs8zsx9lhGazwHWlWblc4HzonvU&dib_tag=se&keywords=coyote%20exploding%20kittens&qid=1753101145&sprefix=coyote%20exploding%2Caps%2C103&sr=8-5#averageCustomerReviewsAnchor"
-        },
-        {
           "type": "other",
           "url": "https://forms.gle/EFcc9C4PuGH8MMKS7"
-        },
-        {
-          "type": "worldcat",
-          "url": "https://search.worldcat.org/search?q=If%20you%20haven%E2%80%99t%20bought%20a%20copy%20of%20COYOTE%2C%20why%20haven%E2%80%99t%20you",
-          "search_fallback": true
         }
       ]
     },

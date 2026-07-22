@@ -85,7 +85,7 @@
     {
       "position": 4,
       "section": "Soothing videos I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Snacks for Spring Festival",
       "creator": null,
       "note": "“**[**For Everyone Who Knows My Name.**](https://youtu.be/8Cg3p9K0il4?si=93DasZq1qYZMkyKZ)**”  \n“**[**I Turned the Woodshed into a Forest-Themed Closet.**](https://youtu.be/JJL3ZKrHeKM?si=guRpnzmSjDrKrYJp)**”**  \nAll of these videos are from creator [Li Ziqi](https://www.youtube.com/@cnliziqi) (李子柒), who has amassed 21.5M subscribers on YouTube alone. Li stepped out of the spotlight in 2021 shortly after breaking the Guinness World Record for the most subscribers for a Chinese language channel on YouTube. Following negotiations with her agency Weinan, Li is back, sharing her serene landscapes and idyllic activities. It doesn’t hurt that she’s as beautiful as she is crafty. No Chinese knowledge required, as the visuals drive everything.",
@@ -106,19 +106,6 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/@cnliziqi"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Snacks%20for%20Spring%20Festival",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Snacks%20for%20Spring%20Festival",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

@@ -18,6 +18,8 @@ Records marked `extraction_status: "metadata_only"` confirm an issue date but do
 
 Run `npm run archive:enrich` to add portable discovery links by category. Existing direct links are preserved. The primary destinations are Spotify for music, Amazon for books and audiobooks, and JustWatch for films and television. Search fallbacks are explicitly marked with `search_fallback: true`. Run `node scripts/resolve-catalog-links.mjs --curated-only --musicbrainz` to validate unresolved recordings against MusicBrainz and improve their Spotify searches with canonical recording and artist names. Older WorldCat, Libby, Audible, and Kanopy links remain in the records as optional secondary destinations, but they are not required by the coverage audit.
 
+Catalog eligibility is intentionally strict. Talks, clips, interviews, and other non-catalog video are stored as `web_video` and do not receive JustWatch links. Papers, posts, reviews, threads, excerpts, highlights, and standalone quotations are stored as `article` or `quote` rather than `book`, so they do not receive Amazon links. The resolver removes previously generated service links when it makes one of these corrections.
+
 Run `npm run archive:audit-enrichment` to regenerate `enrichment-audit.json`. The audit treats exact-item mapping coverage as the primary quality metric and excludes generated search fallbacks from it. It also records convenience-link coverage, unresolved destinations, and titleless recommendations excluded from enrichment.
 
 ## Bulk Hotmail extraction

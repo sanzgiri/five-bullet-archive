@@ -12,7 +12,7 @@
     {
       "position": 1,
       "section": "What I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "Alexander Hamilton in Spoken Word",
       "creator": null,
       "note": "\\-- Lin-Manuel Miranda at the White House Poetry Jam. Miranda is the creator\nof In the Heights and Hamilton. It started 7 years ago as an inkling in his\nmind after reading Chernow's Hamilton. He read the 800-page biography and\nthought it read like a hip-hop saga. He then created the most unexpected\nbroadway success of all time, based on the life of an orphaned founding\nfather.",
@@ -21,19 +21,6 @@
         {
           "type": "original",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=wRj&mc=e&s=bomwH&u=w&y=m&"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Alexander%20Hamilton%20in%20Spoken%20Word",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Alexander%20Hamilton%20in%20Spoken%20Word",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

@@ -66,7 +66,7 @@
     {
       "position": 3,
       "section": "What I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "Markus Eder’s The Ultimate Run - The Most Insane Ski Run Ever Imagined",
       "creator": null,
       "note": "Thanks to JZ for the recommendation. From the description: “What if you could link every powder turn, every rail, every cliff drop, every comp run and every kicker nailed into one ultimate run? Well, [Markus Eder](https://www.redbull.com/ca-en/athlete/markus-eder) \\[[@markus1eder](https://www.instagram.com/markus1eder/?hl=en)\\] did just that in ‘The Ultimate Run’! This is Markus’ Opus Magnum, a medley of face shots, massive tricks and even bigger drops, which was documented by Innsbruck based production company Legs of Steel over the past two years. Markus has been visualizing the ultimate run since 2015. It may look like a simple undertaking in the final edit, but for arguably the most versatile skier on the planet, it meant taking his skill levels in every form and style of contemporary freeskiing to the next level.”",
@@ -83,19 +83,6 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/markus1eder/?hl=en"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Markus%20Eder%E2%80%99s%20The%20Ultimate%20Run%20-%20The%20Most%20Insane%20Ski%20Run%20Ever%20Imagined",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Markus%20Eder%E2%80%99s%20The%20Ultimate%20Run%20-%20The%20Most%20Insane%20Ski%20Run%20Ever%20Imagined",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

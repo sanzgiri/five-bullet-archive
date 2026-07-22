@@ -153,7 +153,7 @@
     {
       "position": 6,
       "section": "Reviews I’m reading",
-      "category": "book",
+      "category": "article",
       "title": "COYOTE",
       "creator": null,
       "note": "game review on Amazon (and elsewhere). Thank you all SO much for the kind words, and I _still_ have a lot of down time! If you got the game on Amazon and played it—whether you loved or hated it—could you please take 60 seconds and leave a review [by clicking here](https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/#averageCustomerReviewsAnchor)? I’ll read all of them this weekend.",
@@ -162,22 +162,13 @@
         {
           "type": "original",
           "url": "https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/#averageCustomerReviewsAnchor"
-        },
-        {
-          "type": "amazon",
-          "url": "https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/#averageCustomerReviewsAnchor"
-        },
-        {
-          "type": "worldcat",
-          "url": "https://search.worldcat.org/search?q=COYOTE",
-          "search_fallback": true
         }
       ]
     },
     {
       "position": 7,
       "section": "Book highlight I’m pondering",
-      "category": "book",
+      "category": "quote",
       "title": "Dennis McKenna",
       "creator": null,
       "note": "; more often than not, they are about experiencing the here and now in a very intense way.”  \n​**— [Dennis McKenna](https://tim.blog/2021/07/21/dennis-mckenna/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit), [_The Brotherhood of the Screaming Abyss_](https://www.amazon.com/Brotherhood-Screaming-Abyss-Terrence-McKenna/dp/1957869011/)  \n([Click here to share on X](https://ctt.ec/yI4M4))\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [my brand-new interview with Dr. Jeffrey Goldberg](https://www.youtube.com/watch?v=4VpA3Z2arlw) on cutting-edge science for eye health, red light therapy, and the future of eyesight restoration.  \n​  \nAnd, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
@@ -186,10 +177,6 @@
         {
           "type": "original",
           "url": "https://tim.blog/2021/07/21/dennis-mckenna/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
-        },
-        {
-          "type": "amazon",
-          "url": "https://www.amazon.com/Brotherhood-Screaming-Abyss-Terrence-McKenna/dp/1957869011/"
         },
         {
           "type": "other",
@@ -202,11 +189,6 @@
         {
           "type": "other",
           "url": "https://twitter.com/tferriss"
-        },
-        {
-          "type": "worldcat",
-          "url": "https://search.worldcat.org/search?q=Dennis%20McKenna",
-          "search_fallback": true
         }
       ]
     }

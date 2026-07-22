@@ -12,7 +12,7 @@
     {
       "position": 1,
       "section": "Videos I’m enjoying",
-      "category": "video",
+      "category": "web_video",
       "title": "Devon Larratt vs. “The Mountain” from Game of Thrones (225 lbs vs. 419 lbs)",
       "creator": null,
       "note": "](https://youtu.be/IkkL-bAH8H4)​  \n​[**Devon Larratt Best Moments**](https://youtu.be/hAeinX5Pm7Y)**  \n​**[**#265: Devon Larratt: Arm Wrestling**](https://youtu.be/nvBEXXnNaNQ) on the [Lex Fridman](https://lexfridman.com/) ([@lexfridman](https://twitter.com/lexfridman)) podcast.",
@@ -37,19 +37,6 @@
         {
           "type": "other",
           "url": "https://twitter.com/lexfridman"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Devon%20Larratt%20vs.%20%E2%80%9CThe%20Mountain%E2%80%9D%20from%20Game%20of%20Thrones%20(225%20lbs%20vs.%20419%20lbs)",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Devon%20Larratt%20vs.%20%E2%80%9CThe%20Mountain%E2%80%9D%20from%20Game%20of%20Thrones%20(225%20lbs%20vs.%20419%20lbs)",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },
@@ -79,7 +66,7 @@
     {
       "position": 3,
       "section": "Book review I’m reading",
-      "category": "book",
+      "category": "article",
       "title": "Book Review: Raise A Genius!",
       "creator": "Scott Alexander",
       "note": "([@slatestarcodex](https://twitter.com/slatestarcodex?lang=en)) of [Slate Star Codex](https://slatestarcodex.com/) fame, now writing at [Astral Codex Ten](https://astralcodexten.substack.com/). Hat tip to R.R. of [Most Recommended Books](https://mostrecommendedbooks.com/). Here’s the opening paragraph: “A few months ago, I learned about Laszlo Polgar, the man who trained all three of his daughters to be chess grandmasters. He claimed he could make any child a genius just by teaching them using his special methods. I was pretty upset because, although he had a book called _Raise A Genius_, it was hard to find and only available in Hungarian and Esperanto.”",
@@ -108,16 +95,6 @@
         {
           "type": "other",
           "url": "https://mostrecommendedbooks.com/"
-        },
-        {
-          "type": "amazon",
-          "url": "https://www.amazon.com/s?k=Book%20Review%3A%20Raise%20A%20Genius!%20Scott%20Alexander",
-          "search_fallback": true
-        },
-        {
-          "type": "worldcat",
-          "url": "https://search.worldcat.org/search?q=Book%20Review%3A%20Raise%20A%20Genius!%20Scott%20Alexander",
-          "search_fallback": true
         }
       ]
     },

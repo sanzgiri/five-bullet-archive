@@ -45,13 +45,19 @@
           "type": "spotify_track",
           "url": "https://open.spotify.com/search/Beats%20Antique%20-%20Collide%20(Album)",
           "search_fallback": true
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/track/0Jk5J9HrDmCEKV7xYmaB6m",
+          "catalog_match": "verified_title_creator",
+          "match_note": "Representative track recommended in the newsletter note: Beauty Beats."
         }
       ]
     },
     {
       "position": 3,
       "section": "What I’m (re)watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "\"What really matters at the end of life” (TED)",
       "creator": null,
       "note": "](http://www.fourhournewsletter.com/click.html?x=a62e&lc=woT&mc=e&s=bomwH&u=w&y=4&)\n— At the end of our lives, what do we most wish for? BJ Miller is a palliative\ncare physician at Zen Hospice Project who thinks deeply about how to create a\ndignified, graceful end of life for his patients. Take the time to savor this\nmoving talk, which asks big questions about how we think on death and honor\nlife. If you want to hear more from BJ, I recently [had him on the\npodcast](http://www.fourhournewsletter.com/click.html?x=a62e&lc=woD&mc=e&s=bomwH&u=w&y=w&).\nI LOVED this conversation, and I hope you do as well.",
@@ -64,19 +70,6 @@
         {
           "type": "other",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=woD&mc=e&s=bomwH&u=w&y=w&"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=%22What%20really%20matters%20at%20the%20end%20of%20life%E2%80%9D%20(TED)",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=%22What%20really%20matters%20at%20the%20end%20of%20life%E2%80%9D%20(TED)",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

@@ -31,7 +31,7 @@
     {
       "position": 2,
       "section": "Video you might have missed —",
-      "category": "video",
+      "category": "web_video",
       "title": "basic spices",
       "creator": null,
       "note": "to prep meals like a pro. Here’s [what I\nrecommend](http://www.fourhournewsletter.com/click.html?x=a62e&lc=ws3&mc=e&s=bomwH&u=w&y=k&).",
@@ -44,19 +44,6 @@
         {
           "type": "other",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=ws3&mc=e&s=bomwH&u=w&y=k&"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=basic%20spices",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=basic%20spices",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

@@ -39,7 +39,7 @@
     {
       "position": 2,
       "section": "What I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "The Moth Presents — Stephanie Peirolo: Walking with RJ",
       "creator": null,
       "note": "This is an incredibly moving and brutal 12-minute video. I include this in the Thanksgiving edition of “5-Bullet Friday” (in the US, of course) deliberately. It helps put things in perspective, and it made me reconsider my “stresses” as almost entirely absurd. For anyone reading this newsletter, there is indeed much to be thankful for. My sincerest gratitude to Stephanie ([@speirolo](https://el2.convertkit-mail.com/c/92uv0r9rmwtnhd9x7qi0/0qawh9hx49opdd/aHR0cHM6Ly90d2l0dGVyLmNvbS9zcGVpcm9sbw==)) for the gift of this talk.",
@@ -52,19 +52,6 @@
         {
           "type": "other",
           "url": "https://el2.convertkit-mail.com/c/92uv0r9rmwtnhd9x7qi0/0qawh9hx49opdd/aHR0cHM6Ly90d2l0dGVyLmNvbS9zcGVpcm9sbw=="
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=The%20Moth%20Presents%20%E2%80%94%20Stephanie%20Peirolo%3A%20Walking%20with%20RJ",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=The%20Moth%20Presents%20%E2%80%94%20Stephanie%20Peirolo%3A%20Walking%20with%20RJ",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },
@@ -116,6 +103,11 @@
           "type": "spotify_track",
           "url": "https://open.spotify.com/search/Alan%20Watts%20and%20Superposition%20%E2%80%94%20Listen%2C%20Dream",
           "search_fallback": true
+        },
+        {
+          "type": "spotify_album",
+          "url": "https://open.spotify.com/album/4WER0jHByxYmFwXZgRL6Pk",
+          "catalog_match": "verified_title_creator"
         }
       ]
     },

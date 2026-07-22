@@ -13,7 +13,7 @@
     {
       "position": 1,
       "section": "Short video I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Exercise Scientist Critiques the Most Jacked 79-Year-Old (Robby Robinson)",
       "creator": null,
       "note": "](https://www.youtube.com/watch?v=W8cj1VJAXfE)**.”** I must admit, [Mike Israetel](https://rpstrength.com/pages/team/michael-israetel) is hilarious. Don’t discount him because of neck circumference. I’ve been quietly watching his videos over the last few months, and this Robby Robinson analysis showcases a lot of the reasons why.",
@@ -26,19 +26,6 @@
         {
           "type": "other",
           "url": "https://rpstrength.com/pages/team/michael-israetel"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Exercise%20Scientist%20Critiques%20the%20Most%20Jacked%2079-Year-Old%20(Robby%20Robinson)",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Exercise%20Scientist%20Critiques%20the%20Most%20Jacked%2079-Year-Old%20(Robby%20Robinson)",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

@@ -222,6 +222,11 @@
           "catalog_match": "musicbrainz_exact_title_artist",
           "catalog_title": "Sabelo",
           "catalog_creator": "Bajofondo"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/track/1FPx0zQMlGR8CbDZWfDfCQ",
+          "catalog_match": "verified_title_creator"
         }
       ]
     },

@@ -98,7 +98,7 @@
     {
       "position": 2,
       "section": "What I’m watching and listening to —",
-      "category": "video",
+      "category": "web_video",
       "title": "Throwback to one of my favorites ‘Land of Cole’ from the ‘Touching Souls’ Studio sessions",
       "creator": null,
       "note": "**and** **“**[**Jamming before our soundcheck with the one and only @paulbassoon 🎶**](https://www.instagram.com/p/CWasRdlj1n7/)**”** by [Kabeção](https://linktr.ee/Kabecao) ([@kabecaohandpan](https://www.instagram.com/kabecaohandpan/)). You can find [his music on Spotify](https://open.spotify.com/artist/2AawTjX2X63z0FkI0BdLIA), [Bandcamp](https://kabecao.bandcamp.com/music), and [his YouTube channel](https://www.youtube.com/c/Kabe%C3%A7%C3%A3ohandpan/videos), the last of which features handpan lessons and tips.",
@@ -131,19 +131,6 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/c/Kabe%C3%A7%C3%A3ohandpan/videos"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Throwback%20to%20one%20of%20my%20favorites%20%E2%80%98Land%20of%20Cole%E2%80%99%20from%20the%20%E2%80%98Touching%20Souls%E2%80%99%20Studio%20sessions",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Throwback%20to%20one%20of%20my%20favorites%20%E2%80%98Land%20of%20Cole%E2%80%99%20from%20the%20%E2%80%98Touching%20Souls%E2%80%99%20Studio%20sessions",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

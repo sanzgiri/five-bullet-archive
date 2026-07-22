@@ -93,7 +93,7 @@
     {
       "position": 3,
       "section": "Short video I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Kobe Bryant - ‘Failure Doesn’t Exist’",
       "creator": null,
       "note": "It’s easy to get caught up in labels and false constructs. Don’t let “failure” be one of them.",
@@ -102,19 +102,6 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=js8OfeEL4jI"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Kobe%20Bryant%20-%20%E2%80%98Failure%20Doesn%E2%80%99t%20Exist%E2%80%99",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Kobe%20Bryant%20-%20%E2%80%98Failure%20Doesn%E2%80%99t%20Exist%E2%80%99",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

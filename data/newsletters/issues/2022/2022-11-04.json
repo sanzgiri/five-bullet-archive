@@ -90,7 +90,7 @@
     {
       "position": 3,
       "section": "Short video I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Japanese Supermarkets / 日本のスーパー",
       "creator": "Dōgen",
       "note": "([@Dōgen](https://twitter.com/Dogen)). Having recently returned from Japan, this made me laugh. Why is the lighting in Japan SO bad?! What’s going on with all the battling music?! Thanks to Father [Craig Mod](https://craigmod.com/) ([@craigmod](https://twitter.com/craigmod)) for turning me on to Dōgen, whose Japanese is truly spectacular.",
@@ -115,26 +115,13 @@
         {
           "type": "other",
           "url": "https://twitter.com/craigmod"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Japanese%20Supermarkets%20%2F%20%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%20D%C5%8Dgen",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Japanese%20Supermarkets%20%2F%20%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%20D%C5%8Dgen",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },
     {
       "position": 4,
       "section": "Videos I’m having fun with",
-      "category": "video",
+      "category": "web_video",
       "title": "YouTube Shorts",
       "creator": null,
       "note": ",** [**Instagram Reels**](https://www.instagram.com/timferriss/reels/)**, and** [**TikTok**](https://www.tiktok.com/@timferriss)**.** Check out [this hilarious Boyd Varty story](https://www.tiktok.com/@timferriss/video/7155526172569373958) and [this Bill Burr clip on bombing](https://www.tiktok.com/@timferriss/video/7156966116542270726), as well as [my evening routine](https://www.tiktok.com/@timferriss/video/7159554047802871046) and some [advice on speed reading](https://www.tiktok.com/@timferriss/video/7156594593100844293). Which other videos should I cut into shorts? Or what subject matter would you like covered? Let me know on Twitter at [@tferriss](https://twitter.com/tferriss) and add #TimTok at the end so I can easily find it.",
@@ -171,19 +158,6 @@
         {
           "type": "other",
           "url": "https://twitter.com/tferriss"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=YouTube%20Shorts",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=YouTube%20Shorts",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

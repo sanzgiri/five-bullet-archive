@@ -35,7 +35,7 @@
     {
       "position": 2,
       "section": "What I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "Everything you think you know about addiction is wrong",
       "creator": null,
       "note": ", a TED talk by Johann Hari ([@johannhari101](https://twitter.com/johannhari101)). If you know anyone who has struggled with depression, addiction, or feeling isolated, this video offers some surprising and actionable insights. Here’s the official description: ”What really causes addiction -- to everything from cocaine to smart-phones? And how can we overcome it? Johann Hari has seen our current methods fail firsthand, as he has watched loved ones struggle to manage their addictions. He started to wonder why we treat addicts the way we do -- and if there might be a better way. As he shares in this deeply personal talk, his questions took him around the world, and unearthed some surprising and hopeful ways of thinking about an age-old problem.”",
@@ -48,19 +48,6 @@
         {
           "type": "other",
           "url": "https://twitter.com/johannhari101"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Everything%20you%20think%20you%20know%20about%20addiction%20is%20wrong",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Everything%20you%20think%20you%20know%20about%20addiction%20is%20wrong",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

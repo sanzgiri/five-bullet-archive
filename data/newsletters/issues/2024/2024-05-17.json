@@ -27,7 +27,7 @@
     {
       "position": 2,
       "section": "What I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Jerry Seinfeld’s Recent Duke Commencement Speech",
       "creator": null,
       "note": "There is some _really_ powerful stuff hidden between the jokes. There are 3–4 concepts (e.g., fascination over passion) that made me pause and rewind, which I suspect will be very helpful as I navigate my next chapters. If you want to skip some of the local references in the beginning, I suggest starting [here](https://youtu.be/76QV2SrSqgo?t=170), which will take you to 2:50. Also… how good does Jerry look at 70?!? I want whatever he’s taking.",
@@ -40,19 +40,6 @@
         {
           "type": "other",
           "url": "https://youtu.be/76QV2SrSqgo?t=170"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Jerry%20Seinfeld%E2%80%99s%20Recent%20Duke%20Commencement%20Speech",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Jerry%20Seinfeld%E2%80%99s%20Recent%20Duke%20Commencement%20Speech",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

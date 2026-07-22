@@ -49,7 +49,7 @@
     {
       "position": 2,
       "section": "What I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "Could a drug prevent depression and PTSD?",
       "creator": null,
       "note": "This talk by neuroscientist [Rebecca Brachman](https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/rmc8hohx9zn3e/aHR0cDovL3JlYmVjY2EuYnJhY2htYW4ub3JnLw==) is a compelling exploration of Calypsol/ketamine — also of great interest to me — for preventing, and not just treating, depression. This video is worth watching for her history of tuberculosis and medical discovery alone.",
@@ -62,19 +62,6 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/rmc8hohx9zn3e/aHR0cDovL3JlYmVjY2EuYnJhY2htYW4ub3JnLw=="
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Could%20a%20drug%20prevent%20depression%20and%20PTSD%3F",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Could%20a%20drug%20prevent%20depression%20and%20PTSD%3F",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

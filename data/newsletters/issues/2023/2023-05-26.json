@@ -85,7 +85,7 @@
     {
       "position": 4,
       "section": "What I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "The drawing advice that changed my life",
       "creator": null,
       "note": "This video has great advice for anyone looking to expand their creativity. It also has pithy and powerful principles (alliteration!) for anyone looking to procrastinate less.",
@@ -94,19 +94,6 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=M6NsEDwHHiE&list=LL&index=5"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=The%20drawing%20advice%20that%20changed%20my%20life",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=The%20drawing%20advice%20that%20changed%20my%20life",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

@@ -75,7 +75,7 @@
     {
       "position": 2,
       "section": "Short videos I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "The Skin Deep",
       "creator": null,
       "note": "([YouTube](https://www.youtube.com/c/TheSkinDeep/videos?view=0&sort=p&flow=grid), [Instagram](https://www.instagram.com/the_skindeep/?hl=en)). “Explore human connection — one conversation at a time.” The Skin Deep delivers on that promise. Consider “[Hard Questions for a Mother to Answer](https://www.youtube.com/watch?v=c7X2lKOpozs)” or, for something lighter, try [“Are First Impressions Spot On?](https://www.youtube.com/watch?v=_sgIH81kj78)” The Skin Deep is an Emmy award-winning creative studio exploring human emotion, intimacy, and connection in the digital age, and if you want to go a step further, check out [their question card decks](https://shop.theskindeep.com/) for friends, couples, long-term couples, families, and more. Hat tip to my lovely girlfriend for introducing me to this gem.**What I’m reading** —  \n[**The Psychedelic Election**](https://andrewsullivan.substack.com/p/the-psychedelic-election) by [Andrew Sullivan](https://andrewsullivan.substack.com/) ([@sullydish](https://twitter.com/sullydish)). Greek civilization, a mysterious once-in-a-lifetime ceremony at the Temple of Eleusis, and a cameo by Marcus Aurelius… what’s not to like? This fascinating piece touches on a lot, including how people in D.C. or Oregon can, just possibly, be part of the next Renaissance.",
@@ -116,19 +116,6 @@
         {
           "type": "other",
           "url": "https://twitter.com/sullydish"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=The%20Skin%20Deep",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=The%20Skin%20Deep",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

@@ -12,7 +12,7 @@
     {
       "position": 1,
       "section": "What I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "AI x Human",
       "creator": null,
       "note": "Thanks to MM for sharing this mesmerizing clip. It’s a taste of things to come, and the 10x and 100x future will arrive quickly. For similar clips, check out the [Kimi Visuals](https://www.instagram.com/kimivisuals/) page [on Instagram](https://www.instagram.com/kimivisuals/).",
@@ -29,19 +29,6 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/kimivisuals/"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=AI%20x%20Human",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=AI%20x%20Human",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

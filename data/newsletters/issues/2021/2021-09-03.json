@@ -91,7 +91,7 @@
     {
       "position": 3,
       "section": "TED Talk I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "Do we see reality as it is?",
       "creator": "Donald Hoffman",
       "note": "([@donalddhoffman](https://twitter.com/donalddhoffman/)), a professor in the Department of Cognitive Sciences at the University of California, Irvine. Description: “Cognitive scientist Donald Hoffman is trying to answer a big question: Do we experience the world as it really is... or as we need it to be? In this ever so slightly mind-blowing talk, he ponders how our minds construct reality for us.” For those who are in a rush, I suggest starting around [10:21 at “In my lab.…”](https://youtu.be/oYp5XuGYqqY?t=621) Also pay close attention to what he’s researching, which is [mentioned around 18:21](https://youtu.be/oYp5XuGYqqY?t=1101).",
@@ -116,19 +116,6 @@
         {
           "type": "other",
           "url": "https://youtu.be/oYp5XuGYqqY?t=1101"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Do%20we%20see%20reality%20as%20it%20is%3F%20Donald%20Hoffman",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Do%20we%20see%20reality%20as%20it%20is%3F%20Donald%20Hoffman",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

@@ -105,7 +105,7 @@
     {
       "position": 5,
       "section": "Quote I’m pondering, especially as it relates to the Tweet bullet above —",
-      "category": "video",
+      "category": "web_video",
       "title": "Cheryl Strayed",
       "creator": null,
       "note": "([@cherylstrayed](https://el2.fourhourmail.com/c/d0u95nv33i0h8ww5zf5/v5s3hrh3rvqxq3/aHR0cHM6Ly90d2l0dGVyLmNvbS9jaGVyeWxzdHJheWVk)), hat tip to [Ryan Holiday](https://el2.fourhourmail.com/c/d0u95nv33i0h8ww5zf5/m6a7h5h0zqlgl7/aHR0cHM6Ly90aW0uYmxvZy8yMDE2LzA2LzI1L3VzZWZ1bC1sZXNzb25zLWZyb20td29ya2Fob2xpY3MtYW5vbnltb3VzLWNvcnBvcmF0ZS1pbXBsb3Npb25zLWFuZC1tb3JlLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=)\n\nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just [send a tweet to @tferriss](https://el2.fourhourmail.com/c/d0u95nv33i0h8ww5zf5/enbph7hwoldpdn/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==) and put #5BulletFriday at the end so I can find it.  \n\nHave a wonderful weekend, all!\n\nTim",
@@ -126,19 +126,6 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/d0u95nv33i0h8ww5zf5/enbph7hwoldpdn/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Cheryl%20Strayed",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Cheryl%20Strayed",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     }

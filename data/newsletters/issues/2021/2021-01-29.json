@@ -87,7 +87,7 @@
     {
       "position": 3,
       "section": "Short video I’m watching again —",
-      "category": "video",
+      "category": "web_video",
       "title": "Kurt Vonnegut on how to write a short story",
       "creator": null,
       "note": "There are some exceptional gems in this two-minute video. Most of the rules apply to good nonfiction writing, too, IMHO.",
@@ -96,19 +96,6 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=nmVcIhnvSx8"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Kurt%20Vonnegut%20on%20how%20to%20write%20a%20short%20story",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Kurt%20Vonnegut%20on%20how%20to%20write%20a%20short%20story",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

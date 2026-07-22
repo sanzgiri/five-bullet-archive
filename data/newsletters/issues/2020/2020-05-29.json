@@ -142,7 +142,7 @@
     {
       "position": 4,
       "section": "What I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "Trial, error, and the God complex",
       "creator": null,
       "note": ",** a TED talk by Tim Harford ([@TimHarford](https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/xmvhph6h79k8066/aHR0cHM6Ly90d2l0dGVyLmNvbS9UaW1IYXJmb3Jk)). Official description: “Economics writer Tim Harford studies complex systems—and finds a surprising link among the successful ones: they were built through trial and error. In this sparkling talk from TEDGlobal 2011, he asks us to embrace our randomness and start making better mistakes.” This talk takes a little time to warm up, and it might seem meandering in the middle, but I found the payoff and message to be really helpful, especially when nearly everything seems magnified by uncertainty and doubt.",
@@ -155,19 +155,6 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/xmvhph6h79k8066/aHR0cHM6Ly90d2l0dGVyLmNvbS9UaW1IYXJmb3Jk"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Trial%2C%20error%2C%20and%20the%20God%20complex",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Trial%2C%20error%2C%20and%20the%20God%20complex",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

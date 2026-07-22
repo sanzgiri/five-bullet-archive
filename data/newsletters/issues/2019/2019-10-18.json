@@ -39,7 +39,7 @@
     {
       "position": 2,
       "section": "What I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "@andersoncooper",
       "creator": null,
       "note": ") presented [a wonderful and powerful segment](https://www.cbsnews.com/news/psychedelic-drugs-lsd-active-agent-in-magic-mushrooms-to-treat-addiction-depression-anxiety-60-minutes-2019-10-13/) produced by [Sarah Koch](https://www.imdb.com/name/nm2695378/), in which he meets with patients who’ve undergone psychedelic treatments. The description is “Study participants at some of the country’s leading medical research centers are going through intense therapy and six-hour psychedelic journeys deep into their minds to do things like quit smoking and worry less.” It’s definitely worth a watch and does an excellent job of providing balanced perspectives. Kudos to all the researchers featured, including Dr. Roland Griffiths, Dr. Matthew Johnson, and Mary Cosimano from the [Johns Hopkins Center for Psychedelic and Consciousness Research](https://hopkinspsychedelic.org/) ([NYT coverage here](https://www.nytimes.com/2019/09/04/science/psychedelic-drugs-hopkins-depression.html)).",
@@ -64,19 +64,6 @@
         {
           "type": "other",
           "url": "https://www.nytimes.com/2019/09/04/science/psychedelic-drugs-hopkins-depression.html"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=%40andersoncooper",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=%40andersoncooper",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

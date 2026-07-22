@@ -28,7 +28,7 @@
     {
       "position": 2,
       "section": "What I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "Roman Gonzalez vs Brian Viloria - Highlights (Explosive FIGHT & KNOCKOUT)",
       "creator": null,
       "note": "](https://youtu.be/pJyb5ya5MOI)**” (via Ralphbert).** This highlight video is absurd. Be sure to watch at least three minutes. It boggles my mind that anyone can throw nonstop power punches for so long with such precision. But who are we dealing with here? This machine in the blue shorts: “Román Alberto González Luna \\[[@chocolatitobox](https://twitter.com/chocolatitobox)\\] (born 16 June 1987), best known by his nickname ‘Chocolatito,’ is a Nicaraguan professional boxer. He is the first boxer from Nicaragua to win world titles in four weight classes, having surpassed his mentor, idol, and former three-weight world champion, the late Alexis Argüello. González is also the first boxer in history to win world titles in all four of the lowest weight classes: minimumweight, light flyweight, flyweight, and super flyweight. … From September 2015 to March 2017, he was also ranked by _The Ring_ as the world’s best active boxer, pound for pound.” ([Wikipedia](https://en.wikipedia.org/wiki/Rom%C3%A1n_Gonz%C3%A1lez_(boxer)))",
@@ -45,19 +45,6 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Rom%C3%A1n_Gonz%C3%A1lez_(boxer"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Roman%20Gonzalez%20vs%20Brian%20Viloria%20-%20Highlights%20(Explosive%20FIGHT%20%26%20KNOCKOUT)",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Roman%20Gonzalez%20vs%20Brian%20Viloria%20-%20Highlights%20(Explosive%20FIGHT%20%26%20KNOCKOUT)",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

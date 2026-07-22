@@ -122,7 +122,7 @@
     {
       "position": 4,
       "section": "What I’m watching (short)",
-      "category": "video",
+      "category": "web_video",
       "title": "The STRONGEST Hobby Lifter Ever - Lifting Legends",
       "creator": null,
       "note": null,
@@ -131,19 +131,6 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=aNy9Kw7BPQc"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=The%20STRONGEST%20Hobby%20Lifter%20Ever%20-%20Lifting%20Legends",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=The%20STRONGEST%20Hobby%20Lifter%20Ever%20-%20Lifting%20Legends",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

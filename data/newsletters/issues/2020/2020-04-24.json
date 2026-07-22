@@ -63,7 +63,7 @@
     {
       "position": 3,
       "section": "Video I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "What Representing Men in Divorce Taught Me about Fatherhood (TEDxUniversityofNevada)",
       "creator": null,
       "note": "](https://el2.fourhourmail.com/c/4zup485rraehg0plgun/3zuphkhnppxdlm/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1SbFN3c0UyMm5YMA==)** by attorney [Marilyn York](https://el2.fourhourmail.com/c/4zup485rraehg0plgun/42ivhehnxxw2e8/aHR0cDovL3d3dy5tYXJpbHlueW9yay5uZXQv) ([@themarilynyork](https://el2.fourhourmail.com/c/4zup485rraehg0plgun/rlf8hohe66k5rr/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3RoZW1hcmlseW55b3JrLw==)), who owns a men’s rights, family law firm in Nevada, established in 2001. This opened my eyes quite a bit. If you find it heavy, [this video](https://el2.fourhourmail.com/c/4zup485rraehg0plgun/vet3hrhdwwmk7z/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL25lZnRhbGkuZXNwaW5vemFjdXRpL3ZpZGVvcy8yMDAzNzY0NzEzMDkwMTM2Lw==) and the next bullet correct for that...",
@@ -84,19 +84,6 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/vet3hrhdwwmk7z/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL25lZnRhbGkuZXNwaW5vemFjdXRpL3ZpZGVvcy8yMDAzNzY0NzEzMDkwMTM2Lw=="
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=What%20Representing%20Men%20in%20Divorce%20Taught%20Me%20about%20Fatherhood%20(TEDxUniversityofNevada)",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=What%20Representing%20Men%20in%20Divorce%20Taught%20Me%20about%20Fatherhood%20(TEDxUniversityofNevada)",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

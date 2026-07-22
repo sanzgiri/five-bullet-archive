@@ -63,7 +63,7 @@
     {
       "position": 3,
       "section": "Hilarious video I’ve watched at least 10 times —",
-      "category": "video",
+      "category": "web_video",
       "title": "There’s a Horse in the Hospital",
       "creator": "John Mulaney",
       "note": "fourhourmail.com/c/68u8wxgppu8ho6rgwsp/k2imh6h305332o/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9qb2hubXVsYW5leS8_aGw9ZW4=)**).**",
@@ -76,19 +76,6 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/68u8wxgppu8ho6rgwsp/k2imh6h305332o/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9qb2hubXVsYW5leS8_aGw9ZW4="
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=There%E2%80%99s%20a%20Horse%20in%20the%20Hospital%20John%20Mulaney",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=There%E2%80%99s%20a%20Horse%20in%20the%20Hospital%20John%20Mulaney",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

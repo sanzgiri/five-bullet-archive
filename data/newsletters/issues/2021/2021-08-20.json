@@ -171,7 +171,7 @@
     {
       "position": 4,
       "section": "TED Talk I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "Dreams from endangered cultures",
       "creator": "Wade Davis)",
       "note": ") ([@wadedavisofficial](https://www.instagram.com/wadedavisofficial/)). Description: “With stunning photos and stories, National Geographic Explorer Wade Davis celebrates the extraordinary diversity of the world’s indigenous cultures, which are disappearing from the planet at an alarming rate.” **Related discovery:** While on the TED website, I realized that [my most recent TED talk just crossed 10M views](https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals). Huge thanks to everyone who has watched it! For some, the tools described might help in combating anxiety related to the current doomsday news cycle.",
@@ -192,19 +192,6 @@
         {
           "type": "other",
           "url": "https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Dreams%20from%20endangered%20cultures%20Wade%20Davis)",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Dreams%20from%20endangered%20cultures%20Wade%20Davis)",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

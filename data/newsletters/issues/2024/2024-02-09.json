@@ -31,7 +31,7 @@
     {
       "position": 2,
       "section": "Short video I’m sharing with friends",
-      "category": "video",
+      "category": "web_video",
       "title": "Some wise words from synth pioneer Herbie Hancock.",
       "creator": null,
       "note": "This is an amazing story from a very young Herbie Hancock about Miles Davis. Rare video. Special thanks to [Dave Elitch](https://tim.blog/2018/11/26/dave-elitch/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content) for the find.",
@@ -44,19 +44,6 @@
         {
           "type": "other",
           "url": "https://tim.blog/2018/11/26/dave-elitch/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Some%20wise%20words%20from%20synth%20pioneer%20Herbie%20Hancock.",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Some%20wise%20words%20from%20synth%20pioneer%20Herbie%20Hancock.",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

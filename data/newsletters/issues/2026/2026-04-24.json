@@ -101,7 +101,7 @@
     {
       "position": 3,
       "section": "Short video that’s making me safer",
-      "category": "video",
+      "category": "web_video",
       "title": "Rory Sutherland explains how one tiny detail on your dashboard could completely transform how we think about speed and safety",
       "creator": null,
       "note": "[Rory Sutherland](https://en.wikipedia.org/wiki/Rory_Sutherland_(advertising_executive)) is vice chairman of Ogilvy. This clip comes from his talk “[Alchemy: The Surprising Power of Ideas That Don’t Make Sense](https://www.youtube.com/watch?v=lhlS-Wds02M)” (the clip starts at [18:11](https://www.youtube.com/watch?v=lhlS-Wds02M&t=1091s)). For another take on this concept, check out [Derek Sivers’ hilarious story](https://www.youtube.com/watch?v=amS0u15AL14) about biking and bird poop. Hat tip to drummer extraordinaire [Dave Elitch](https://daveelitch.com/) for putting this on my radar.",
@@ -130,19 +130,6 @@
         {
           "type": "other",
           "url": "https://daveelitch.com/"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Rory%20Sutherland%20explains%20how%20one%20tiny%20detail%20on%20your%20dashboard%20could%20completely%20transform%20how%20we%20think%20about%20speed%20and%20safety",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Rory%20Sutherland%20explains%20how%20one%20tiny%20detail%20on%20your%20dashboard%20could%20completely%20transform%20how%20we%20think%20about%20speed%20and%20safety",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

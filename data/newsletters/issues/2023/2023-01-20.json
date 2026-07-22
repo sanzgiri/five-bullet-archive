@@ -86,7 +86,7 @@
     {
       "position": 3,
       "section": "Comedy I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Sheng Wang: Sweet and Juicy",
       "creator": null,
       "note": "I saw [Sheng Wang](https://www.shengwangtime.com/) ([@shengwangtime](https://mobile.twitter.com/shengwangtime)) open for [Ali Wong](https://www.youtube.com/watch?v=QxxLmgleW1s) ([@aliwong](https://www.instagram.com/aliwong/)) in NYC a few years ago, and I laughed my ass off. He’s dry [like Mitch Hedberg](https://youtu.be/vrIw2i4WtA4) and takes on the tough task of clean comedy [like Jim Gaffigan](https://www.youtube.com/watch?v=OI743NOJ7mc) ([@JimGaffigan](https://twitter.com/jimgaffigan)). Here’s the description: “Sheng Wang delivers a laid-back set on juicing, mammograms, how snoring is an evolutionary mistake, and the existential angst of buying pants from Costco.” I’m omitting links to trailers on purpose, as I don’t think they do the special justice.",
@@ -123,26 +123,13 @@
         {
           "type": "other",
           "url": "https://twitter.com/jimgaffigan"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Sheng%20Wang%3A%20Sweet%20and%20Juicy",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Sheng%20Wang%3A%20Sweet%20and%20Juicy",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },
     {
       "position": 4,
       "section": "Lecture I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Runnin’ Down a Dream: How to Succeed and Thrive in a Career You Love",
       "creator": null,
       "note": "This speech focuses on one topic: finding your dream path, where what’s easy for you is hard for others and what’s fun for you is work for others. Delivered by former basketball player and legendary venture capitalist [Bill Gurley](https://abovethecrowd.com/) ([@bgurley](https://twitter.com/bgurley?lang=en)), it contains good reminders for people in all stages of life.\n\nThe below quotes are all from one of his case studies, Bobby Knight…",
@@ -159,19 +146,6 @@
         {
           "type": "other",
           "url": "https://twitter.com/bgurley?lang=en"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Runnin%E2%80%99%20Down%20a%20Dream%3A%20How%20to%20Succeed%20and%20Thrive%20in%20a%20Career%20You%20Love",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Runnin%E2%80%99%20Down%20a%20Dream%3A%20How%20to%20Succeed%20and%20Thrive%20in%20a%20Career%20You%20Love",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

@@ -27,7 +27,7 @@
     {
       "position": 2,
       "section": "Video I can’t stop watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "Don't Talk PSA | Angry Voicemail (Uncensored)",
       "creator": null,
       "note": "](https://el2.fourhourmail.com/c/gku0l36gga5hn6dwg/opfkhq/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0xTDNlZUMybEpacw==). This absolutely isn’t a productive use of time, but it’s hilarious fare worth consuming before the next bullet. Alamo Drafthouse theaters ([@alamodrafthouse](https://el2.fourhourmail.com/c/gku0l36gga5hn6dwg/zvtghn/aHR0cHM6Ly90d2l0dGVyLmNvbS9hbGFtb2RyYWZ0aG91c2U=)) are probably my favorites in the country. The food, booze, and experience are fantastic. This is partly due to a simple rule: Do not fucking talk or use your phone, or we’ll kick your ass out. The above video is a consequence of that rule, and be sure to watch past the first 30 seconds or so.",
@@ -40,19 +40,6 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/gku0l36gga5hn6dwg/zvtghn/aHR0cHM6Ly90d2l0dGVyLmNvbS9hbGFtb2RyYWZ0aG91c2U="
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Don't%20Talk%20PSA%20%7C%20Angry%20Voicemail%20(Uncensored)",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Don't%20Talk%20PSA%20%7C%20Angry%20Voicemail%20(Uncensored)",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

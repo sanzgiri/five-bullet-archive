@@ -71,7 +71,7 @@
     {
       "position": 3,
       "section": "TED talk I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "How we can face the future without fear, together",
       "creator": "Rabbi Lord Jonathan Sacks",
       "note": ". Rabbi Sacks was an incredible man, and he sadly passed away last Saturday. I’m sure he’s already helping those in need on the other side. To feel his brilliance and warmth of spirit, you might also enjoy [this conversation between Rabbi Sacks and David Brooks](https://www.youtube.com/watch?v=zfplRTXO5HA) or [my long-form podcast with him](https://tim.blog/2020/08/26/rabbi-lord-jonathan-sacks-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), recorded just a few months ago. May he rest in peace, and my sincerest condolences to his family and loved ones.",
@@ -92,19 +92,6 @@
         {
           "type": "other",
           "url": "https://tim.blog/2020/08/26/rabbi-lord-jonathan-sacks-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=How%20we%20can%20face%20the%20future%20without%20fear%2C%20together%20Rabbi%20Lord%20Jonathan%20Sacks",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=How%20we%20can%20face%20the%20future%20without%20fear%2C%20together%20Rabbi%20Lord%20Jonathan%20Sacks",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

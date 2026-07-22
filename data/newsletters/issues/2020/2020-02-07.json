@@ -44,7 +44,7 @@
     {
       "position": 2,
       "section": "What I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "174 LBS: #3 Michael Kemerer (Iowa) vs. #1 Mark Hall (Penn State) | 2020 B1G Wrestling",
       "creator": null,
       "note": "vs. #1 Mark Hall (Penn State) | 2020 B1G Wrestling**](https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/kgamh6h20drogr/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1qUlZub2ZjMm1xWSZmZWF0dXJlPXlvdXR1LmJl)**.** This is an absolutely beautiful wrestling match, full of technical mastery and physical savagery. Even though I never reached a high level in collegiate wrestling, nothing I’ve done since can compare in terms of pure exhaustion. This was a great reminder of how nonstop the action can be.",
@@ -53,19 +53,6 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/kgamh6h20drogr/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1qUlZub2ZjMm1xWSZmZWF0dXJlPXlvdXR1LmJl"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=174%20LBS%3A%20%233%20Michael%20Kemerer%20(Iowa)%20vs.%20%231%20Mark%20Hall%20(Penn%20State)%20%7C%202020%20B1G%20Wrestling",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=174%20LBS%3A%20%233%20Michael%20Kemerer%20(Iowa)%20vs.%20%231%20Mark%20Hall%20(Penn%20State)%20%7C%202020%20B1G%20Wrestling",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

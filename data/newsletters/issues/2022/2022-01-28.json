@@ -12,7 +12,7 @@
     {
       "position": 1,
       "section": "Short videos I’m studying —",
-      "category": "video",
+      "category": "web_video",
       "title": "Master of camouflage hunting",
       "creator": null,
       "note": "and **“**[**When on course to take the #Moto2 championship lead in Misano, Fernandez suffered this dramatic crash!**](https://www.instagram.com/p/CZPu0VEIZzy/)**”** Thanks to the Salsa Muppet for recommending these two.",
@@ -25,19 +25,6 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/p/CZPu0VEIZzy/"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Master%20of%20camouflage%20hunting",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Master%20of%20camouflage%20hunting",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

@@ -12,7 +12,7 @@
     {
       "position": 1,
       "section": "What I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Mentalism, mind reading and the art of getting inside your head",
       "creator": "Derren Brown",
       "note": "([@derrenbrown](http://twitter.com/derrenbrown)). If that whets your appetite, follow it up with **“**[**The Events: How to Be a Psychic Spy**](https://www.youtube.com/watch?v=mICJw09UfrE)**”** by Derren. I’m very keen to learn more about mentalism. Can anyone suggest a “curriculum” or great way of learning? [Please send me a note on Twitter using @tferriss and #mentalism if so](https://twitter.com/tferriss)!",
@@ -37,19 +37,6 @@
         {
           "type": "other",
           "url": "https://twitter.com/tferriss"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Mentalism%2C%20mind%20reading%20and%20the%20art%20of%20getting%20inside%20your%20head%20Derren%20Brown",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Mentalism%2C%20mind%20reading%20and%20the%20art%20of%20getting%20inside%20your%20head%20Derren%20Brown",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

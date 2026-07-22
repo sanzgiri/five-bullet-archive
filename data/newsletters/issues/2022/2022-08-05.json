@@ -35,7 +35,7 @@
     {
       "position": 2,
       "section": "Short video I’m rewatching",
-      "category": "video",
+      "category": "web_video",
       "title": "This is Water",
       "creator": null,
       "note": "commencement speech by [David Foster Wallace](https://en.wikipedia.org/wiki/David_Foster_Wallace), which he gave at Kenyon College on May 21, 2005. It is [also available in book form](https://www.amazon.com/This-Water-Delivered-Significant-Compassionate/dp/0316068225), but I highly recommend the audio. Past podcast guest [Dr. Peter Attia](https://tim.blog/2021/06/08/peter-attia-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) listens to this every two weeks, which is how it first crossed my radar.",
@@ -56,19 +56,6 @@
         {
           "type": "other",
           "url": "https://tim.blog/2021/06/08/peter-attia-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=This%20is%20Water",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=This%20is%20Water",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

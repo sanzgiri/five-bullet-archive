@@ -93,7 +93,7 @@
     {
       "position": 3,
       "section": "What I’m watching (short) —",
-      "category": "video",
+      "category": "web_video",
       "title": "Wrestling Coaches Strip in Protest at the 2016 Olympics, a breakdown",
       "creator": null,
       "note": "This was sent to me by a former Olympian. It’s tragic, hilarious, and nearly unbelievable on several levels. Thanks, Matty T!",
@@ -102,19 +102,6 @@
         {
           "type": "original",
           "url": "https://youtu.be/56HpCQak9AQ"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Wrestling%20Coaches%20Strip%20in%20Protest%20at%20the%202016%20Olympics%2C%20a%20breakdown",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Wrestling%20Coaches%20Strip%20in%20Protest%20at%20the%202016%20Olympics%2C%20a%20breakdown",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

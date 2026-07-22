@@ -58,7 +58,7 @@
     {
       "position": 3,
       "section": "Science I’m watching closely",
-      "category": "video",
+      "category": "web_video",
       "title": "Efficacy of Adjunctive D-Cycloserine to Intermittent Theta-Burst Stimulation for Major Depressive Disorder",
       "creator": null,
       "note": "From the Key Points: “In this double-blind, placebo-controlled, randomized clinical trial that included 50 participants, those receiving intermittent theta-burst stimulation with adjunctive D-cycloserine (100 mg) had significantly greater improvements in depressive symptoms compared with stimulation with a placebo.”",
@@ -67,19 +67,6 @@
         {
           "type": "original",
           "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2796973"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Efficacy%20of%20Adjunctive%20D-Cycloserine%20to%20Intermittent%20Theta-Burst%20Stimulation%20for%20Major%20Depressive%20Disorder",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Efficacy%20of%20Adjunctive%20D-Cycloserine%20to%20Intermittent%20Theta-Burst%20Stimulation%20for%20Major%20Depressive%20Disorder",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

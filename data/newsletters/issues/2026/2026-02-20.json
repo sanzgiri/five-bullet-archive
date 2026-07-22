@@ -48,7 +48,7 @@
     {
       "position": 2,
       "section": "Short video I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Asking 73-year-old how he got ripped",
       "creator": null,
       "note": "73 years old! One of the best comments: “I aspire to be the oldest guy in the gym, not the youngest in the nursing home. He is an inspiration.”  \n​  \nPair it with “[Shredded at 72: The Simple Routine Behind His Insane Strength](https://www.youtube.com/watch?v=hPoNH4DUd4k).”",
@@ -61,19 +61,6 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=hPoNH4DUd4k"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Asking%2073-year-old%20how%20he%20got%20ripped",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Asking%2073-year-old%20how%20he%20got%20ripped",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

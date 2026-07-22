@@ -12,7 +12,7 @@
     {
       "position": 1,
       "section": "What I’m listening to and watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Playing God, Unplugged",
       "creator": null,
       "note": "Guitarist [Tim Henson](https://www.youtube.com/@TimHensonW6RST/featured) of [Polyphia](https://en.wikipedia.org/wiki/Polyphia) is a different species.",
@@ -29,19 +29,6 @@
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Polyphia"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Playing%20God%2C%20Unplugged",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Playing%20God%2C%20Unplugged",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },
@@ -63,7 +50,7 @@
     {
       "position": 3,
       "section": "Podcast I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Mark Zuckerberg: First Interview in the Metaverse",
       "creator": null,
       "note": "on [_The Lex Fridman Podcast_](https://lexfridman.com/podcast/). Even if you only watch the first five minutes, this is well worth the time. These next-gen, photo-realistic avatars and their motion tracking are truly jaw-dropping. The tech, and lag, are improving in leaps and bounds, and the future is going to get very weird very quickly.",
@@ -76,19 +63,6 @@
         {
           "type": "other",
           "url": "https://lexfridman.com/podcast/"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Mark%20Zuckerberg%3A%20First%20Interview%20in%20the%20Metaverse",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Mark%20Zuckerberg%3A%20First%20Interview%20in%20the%20Metaverse",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

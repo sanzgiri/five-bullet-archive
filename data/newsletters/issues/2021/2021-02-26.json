@@ -40,7 +40,7 @@
     {
       "position": 2,
       "section": "What I’m watching (short) —",
-      "category": "video",
+      "category": "web_video",
       "title": "Penn and Teller: Fool Us | Mahdi Gilbert Performs Sleight of Hand without Hands",
       "creator": null,
       "note": "I discovered Mahdi through this video, which he shared in a comment [on the blog](http://tim.blog/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) and wrote that “everyone needs hope during this long and dark winter.” For more magic, check out my interviews with [Penn Jillette](https://tim.blog/2020/01/09/penn-jillette/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) and [Richard Turner](https://www.youtube.com/watch?v=JuDn9QoDjz0).",
@@ -61,19 +61,6 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=JuDn9QoDjz0"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Penn%20and%20Teller%3A%20Fool%20Us%20%7C%20Mahdi%20Gilbert%20Performs%20Sleight%20of%20Hand%20without%20Hands",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Penn%20and%20Teller%3A%20Fool%20Us%20%7C%20Mahdi%20Gilbert%20Performs%20Sleight%20of%20Hand%20without%20Hands",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

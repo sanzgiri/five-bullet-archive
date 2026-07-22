@@ -93,7 +93,7 @@
     {
       "position": 4,
       "section": "What I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "The Most Vicious Heavyweight In History - Jack Dempsey",
       "creator": null,
       "note": null,
@@ -102,19 +102,6 @@
         {
           "type": "original",
           "url": "https://youtu.be/TzChDqTfL4E"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=The%20Most%20Vicious%20Heavyweight%20In%20History%20-%20Jack%20Dempsey",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=The%20Most%20Vicious%20Heavyweight%20In%20History%20-%20Jack%20Dempsey",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

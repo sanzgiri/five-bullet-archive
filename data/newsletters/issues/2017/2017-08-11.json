@@ -31,7 +31,7 @@
     {
       "position": 2,
       "section": "I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "Kurt Vonnegut on the Shapes of Stories",
       "creator": null,
       "note": "I have loved Kurt Vonnegut forever. This very short video is a great\nintroduction to his humor and how simply powerful (and powerfully simple) good\nstories can be. Kurt has inspired me for ages because his writing is\napproachable -- he uses simple language to create fantastic characters and\nimpart profound lessons. Unlike someone like Milan Kundera, who inspires but\nintimidates me, Vonnegut made me think “Hmmm… maybe I could actually be a\nwriter…” If you’re looking for other resources, one book that has also helped\nme to think about storytelling over a discrete timeline was [Save The\nCat](https://el2.fourhourmail.com/c/mvu8n09oou5hq77g3/pnceh9/aHR0cDovL2Ftem4udG8vMmZ2UDlQUA==).**What",
@@ -44,19 +44,6 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hq77g3/pnceh9/aHR0cDovL2Ftem4udG8vMmZ2UDlQUA=="
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Kurt%20Vonnegut%20on%20the%20Shapes%20of%20Stories",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Kurt%20Vonnegut%20on%20the%20Shapes%20of%20Stories",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

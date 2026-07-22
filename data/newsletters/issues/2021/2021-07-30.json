@@ -87,7 +87,7 @@
     {
       "position": 3,
       "section": "What I’m watching (short) —",
-      "category": "video",
+      "category": "web_video",
       "title": "We Will Find It",
       "creator": null,
       "note": "from [Zoï Tatopoulos](https://www.instagram.com/ztato/?hl=en). The art direction, dancing, and cinematography in this video are outstanding. It’s very intense, and I debated whether to include it in 5BF. In the end, its sheer originality (e.g., the first-person-perspective flip partway through) compelled me to run the risk that many of you will conclude with some version of “What in the holy f--- did I just watch?” For those of you who are extra frisky, it’s a good idea to watch this one sober.",
@@ -100,19 +100,6 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/ztato/?hl=en"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=We%20Will%20Find%20It",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=We%20Will%20Find%20It",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

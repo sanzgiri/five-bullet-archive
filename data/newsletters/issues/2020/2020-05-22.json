@@ -40,7 +40,7 @@
     {
       "position": 2,
       "section": "What I’m rewatching and sharing —",
-      "category": "video",
+      "category": "web_video",
       "title": "How MDMA is being used to treat PTSD",
       "creator": null,
       "note": "from** **_The Economist_****.** [This seven-minute video](https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/l0aehmhk3n0nve/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj04SzVzSnVUYlF2WQ==) is beautifully done, and I highly recommend a quick watch. Here’s a portion of the description, edited for length: “The FDA has labeled MDMA a breakthrough treatment…. In a recent study, more than 60% of patients no longer met the clinical criteria for PTSD after MDMA treatment. For Jonathan, a suicidal veteran, conventional treatments hadn’t worked. He saw this trial as his last hope, and for him, the treatment was a revelation.”",
@@ -53,19 +53,6 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/l0aehmhk3n0nve/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj04SzVzSnVUYlF2WQ=="
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=How%20MDMA%20is%20being%20used%20to%20treat%20PTSD",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=How%20MDMA%20is%20being%20used%20to%20treat%20PTSD",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

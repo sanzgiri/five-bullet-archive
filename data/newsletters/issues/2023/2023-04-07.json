@@ -12,7 +12,7 @@
     {
       "position": 1,
       "section": "What I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Michael Jackson on Fire Diorama",
       "creator": null,
       "note": "This is the best thing I’ve seen on the Internet in a looong time. Keep watching. It just gets weirder. Huge thanks to Oli for sending this to me. I have no idea how he tracked this down on a YouTube channel with five videos, but what a gift! First, you see an amazing craftsman, and then…",
@@ -21,19 +21,6 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=QHi479xN_po"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Michael%20Jackson%20on%20Fire%20Diorama",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Michael%20Jackson%20on%20Fire%20Diorama",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

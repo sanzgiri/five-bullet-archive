@@ -79,7 +79,7 @@
     {
       "position": 3,
       "section": "What I’m watching to CTFO —",
-      "category": "video",
+      "category": "web_video",
       "title": "Schitt’s Creek",
       "creator": null,
       "note": ", created by Eugene Levy (**[**@RealEugeneLevy**](https://twitter.com/Realeugenelevy)**) and Dan Levy (**[**@DanJLevy**](https://twitter.com/danjlevy)**).** I’m extremely late to the party, but this show is hilarious and appeared in my life at the perfect time. The writing and acting are outstanding. 2–3 short episodes before bed is a great way to laugh and decompress after a hard day of slogging through the Internet like [Atreyu in the Swamp of Sadness](https://www.youtube.com/watch?v=vE8mFDabqD0). Sometimes you just need some audio-visual Scooby Snacks to get you through the week.",
@@ -100,26 +100,13 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=vE8mFDabqD0"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Schitt%E2%80%99s%20Creek",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Schitt%E2%80%99s%20Creek",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },
     {
       "position": 4,
       "section": "Short video I’m watching once again —",
-      "category": "video",
+      "category": "web_video",
       "title": "Jim Carrey Motivational Video — WHO IS THE REAL YOU?",
       "creator": null,
       "note": "I found the very beginning points and the story about his father to be most impactful. Jim is endlessly fascinating to me. Ignore the “law of attraction” stuff in the last 10–15 seconds, which is not from Jim Carrey himself.",
@@ -128,19 +115,6 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=_-kaib_rXTQ"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Jim%20Carrey%20Motivational%20Video%20%E2%80%94%20WHO%20IS%20THE%20REAL%20YOU%3F",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Jim%20Carrey%20Motivational%20Video%20%E2%80%94%20WHO%20IS%20THE%20REAL%20YOU%3F",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

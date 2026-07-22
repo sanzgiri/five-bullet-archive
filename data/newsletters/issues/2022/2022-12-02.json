@@ -27,7 +27,7 @@
     {
       "position": 2,
       "section": "What I’m watching for a good laugh",
-      "category": "video",
+      "category": "web_video",
       "title": "The Butterfield Diet Plan",
       "creator": null,
       "note": "via Pippa L., in response to [my clip on how to master cheat days](https://www.youtube.com/shorts/7T_TcO5EMRQ). Hoisin crispy owl!",
@@ -40,19 +40,6 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/shorts/7T_TcO5EMRQ"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=The%20Butterfield%20Diet%20Plan",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=The%20Butterfield%20Diet%20Plan",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

@@ -46,7 +46,7 @@
     {
       "position": 3,
       "section": "What I’m watching (7 minutes) —",
-      "category": "video",
+      "category": "web_video",
       "title": "@nytimes",
       "creator": null,
       "note": ")\nas an “Op-Doc” - [Santa is a Psychedelic\nMushroom](https://el2.fourhourmail.com/c/d0u95nv33i0hk4p49/xksph6/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAxNy8xMi8yMS9vcGluaW9uL3NhbnRhLWNocmlzdG1hcy1tdXNocm9vbXMuaHRtbA==).\nAnyone else want to visit Lapland?**",
@@ -59,19 +59,6 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hk4p49/xksph6/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAxNy8xMi8yMS9vcGluaW9uL3NhbnRhLWNocmlzdG1hcy1tdXNocm9vbXMuaHRtbA=="
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=%40nytimes",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=%40nytimes",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

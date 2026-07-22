@@ -74,7 +74,7 @@
     {
       "position": 3,
       "section": "Short video that’s making me laugh",
-      "category": "video",
+      "category": "web_video",
       "title": "Letterkenny Problems Ep. 1",
       "creator": null,
       "note": "If the preceding bullet was too highfalutin, this clip is only 90 seconds long and will offend at least 69% of you. Consider yourselves warned. Description: “Two good old boys from Letterkenny, Ontario, tell you their problems.” Hat tip to Dr. Montucky for this gem, which I needed in the midst of a serious week.",
@@ -83,19 +83,6 @@
         {
           "type": "original",
           "url": "https://youtu.be/_KLSbCtinXs"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Letterkenny%20Problems%20Ep.%201",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Letterkenny%20Problems%20Ep.%201",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

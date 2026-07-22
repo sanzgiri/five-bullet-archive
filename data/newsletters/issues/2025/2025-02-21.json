@@ -54,7 +54,7 @@
     {
       "position": 3,
       "section": "What I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Nobody Can Match His Level, Finally a Heavyweight with Elite Submissions - Kaynan Duarte",
       "creator": null,
       "note": "Kaynan Duarte, 27, is a four-time champion at the ADCC Submission Fighting World Championship (considered the “Olympics of submission grappling”) and two-time champion at the World IBJJF Jiu-Jitsu Championship in the Heavyweight division. Much is expected of him: “Legendary grappler and coach André Galvão believes his star pupil Kaynan Duarte has the potential to become the greatest jiu-jitsu athlete of all time.” ([Source](https://bjjdoc.com/2024/09/20/andre-galvao-kaynan-duarte-can-be-the-greatest-of-all-time/))",
@@ -67,19 +67,6 @@
         {
           "type": "other",
           "url": "https://bjjdoc.com/2024/09/20/andre-galvao-kaynan-duarte-can-be-the-greatest-of-all-time/"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Nobody%20Can%20Match%20His%20Level%2C%20Finally%20a%20Heavyweight%20with%20Elite%20Submissions%20-%20Kaynan%20Duarte",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Nobody%20Can%20Match%20His%20Level%2C%20Finally%20a%20Heavyweight%20with%20Elite%20Submissions%20-%20Kaynan%20Duarte",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

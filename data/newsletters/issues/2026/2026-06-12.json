@@ -140,7 +140,7 @@
     {
       "position": 5,
       "section": "Book highlight I’m pondering",
-      "category": "book",
+      "category": "quote",
       "title": "Sebastian Mallaby",
       "creator": null,
       "note": "’s [_The Infinity Machine: Demis Hassabis, DeepMind, and the Quest for Superintelligence_](https://www.amazon.com/Infinity-Machine-Hassabis-DeepMind-Superintelligence/dp/B0FSST2RLN?tag=offsitoftimfe-20):  \n​  \n​**_I recalled a line from the_** [**Life Story**](https://en.wikipedia.org/wiki/Life_Story_(film)) **_movie, which had inspired_** [**_Hassabis_**](https://en.wikipedia.org/wiki/Demis_Hassabis) **_\\[co-founder of DeepMind\\] to apply to Cambridge. “I’m one of the believers,” says Watson, the codiscoverer of DNA. “Blessed are they who believed before there was any evidence.”_****​  \n​  \nTF**: This one alludes to believing a problem is soluble without much evidence to support the conviction. How does that square—or not—with science itself? Can you artfully combine limited faith with science to drive breakthroughs, or is it a slippery slope to intellectual perdition? If possibly both, how do you bias towards the former?\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [my brand-new interview](https://tim.blog/2026/06/10/max-levchin-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) with Max Levchin, a serial entrepreneur, computer scientist, philanthropist, and active investor in more than 100 startups. Max is the founder and CEO of [Affirm](https://www.affirm.com/) and was one of the original co-founders of [PayPal](paypal.com).  \n​  \nAnd, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
@@ -149,10 +149,6 @@
         {
           "type": "original",
           "url": "https://en.wikipedia.org/wiki/Sebastian_Mallaby"
-        },
-        {
-          "type": "amazon",
-          "url": "https://www.amazon.com/Infinity-Machine-Hassabis-DeepMind-Superintelligence/dp/B0FSST2RLN?tag=offsitoftimfe-20"
         },
         {
           "type": "other",
@@ -173,11 +169,6 @@
         {
           "type": "other",
           "url": "https://twitter.com/tferriss"
-        },
-        {
-          "type": "worldcat",
-          "url": "https://search.worldcat.org/search?q=Sebastian%20Mallaby",
-          "search_fallback": true
         }
       ]
     }

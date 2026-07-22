@@ -12,7 +12,7 @@
     {
       "position": 1,
       "section": "What I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "Ryan Speedo Green: From Juvenile Delinquency to Opera Stardom",
       "creator": null,
       "note": "(via [@60Minutes](https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/krfmh6hp5vomo/aHR0cHM6Ly90d2l0dGVyLmNvbS82ME1pbnV0ZXMvc3RhdHVzLzEwNzE5NjMzODA4Mjk4NzYyMjQ=)). This short, 13-minute clip tells the incredible story of Ryan Speedo Green ([@ryanspeedogreen](https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/29t2hohx8wqdx/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3J5YW5zcGVlZG9ncmVlbi8=), [website](https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/gzcnh5h2lw0pv/aHR0cHM6Ly93d3cucnlhbnNwZWVkb2dyZWVuLmNvbS8=)), once a violent youth locked in solitary confinement, now a powerhouse on the global opera stage. One of my favorite lines from this video, which I’ll likely end up repeating to myself, is “Don’t let this moment define you.”",
@@ -33,19 +33,6 @@
         {
           "type": "other",
           "url": "https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/gzcnh5h2lw0pv/aHR0cHM6Ly93d3cucnlhbnNwZWVkb2dyZWVuLmNvbS8="
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Ryan%20Speedo%20Green%3A%20From%20Juvenile%20Delinquency%20to%20Opera%20Stardom",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Ryan%20Speedo%20Green%3A%20From%20Juvenile%20Delinquency%20to%20Opera%20Stardom",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

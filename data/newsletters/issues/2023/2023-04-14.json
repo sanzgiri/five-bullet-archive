@@ -12,7 +12,7 @@
     {
       "position": 1,
       "section": "Video I’m enjoying",
-      "category": "video",
+      "category": "web_video",
       "title": "Remember Shakti: Bell’Alla prt 2",
       "creator": null,
       "note": "I have a keen interest in hand percussion, and this video is one hell of a showcase. As one professional drummer friend put it, “They’re both heavy, heavy cats. Total masters. I’ve watched that clip dozens of times. No joke.” [Zakir Hussain](https://en.wikipedia.org/wiki/Zakir_Hussain_(musician))’s facial expressions when shredding are priceless. If you’d like a cool overview of the tabla, plus another amazing solo, [check this out](https://youtu.be/Joyk_EMtzn0).",
@@ -29,19 +29,6 @@
         {
           "type": "other",
           "url": "https://youtu.be/Joyk_EMtzn0"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Remember%20Shakti%3A%20Bell%E2%80%99Alla%20prt%202",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Remember%20Shakti%3A%20Bell%E2%80%99Alla%20prt%202",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

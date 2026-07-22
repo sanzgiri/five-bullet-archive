@@ -63,6 +63,11 @@
           "type": "spotify_track",
           "url": "https://open.spotify.com/search/Le%20Festin",
           "search_fallback": true
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/track/3yShr5EC1pAAJcEOKj6h1R",
+          "catalog_match": "verified_title_creator"
         }
       ]
     },
@@ -103,6 +108,11 @@
           "catalog_match": "musicbrainz_exact_title_artist",
           "catalog_title": "Hi Ren",
           "catalog_creator": "Ren"
+        },
+        {
+          "type": "spotify_album",
+          "url": "https://open.spotify.com/album/2wXIwZRV93MS5en0FQuDMA",
+          "catalog_match": "verified_title_creator"
         }
       ]
     },

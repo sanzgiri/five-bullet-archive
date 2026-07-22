@@ -12,7 +12,7 @@
     {
       "position": 1,
       "section": "Thread I’m reading and bookmarking",
-      "category": "book",
+      "category": "article",
       "title": "How to be more emotionally intelligent (without trying so hard)",
       "creator": null,
       "note": "](https://x.com/FU_joehudson/status/1870954535801540736)**”** by [Joe Hudson](https://www.artofaccomplishment.com/about). Joe Hudson has coached top leaders at OpenAI, Alphabet, Apple, and more. He has worked with everyone [from Sam Altman](https://x.com/FU_joehudson/status/1902768469185269887) to [Ev Williams](https://www.artofaccomplishment.com/about). Numbers 4, 7, 8, and 9 are a few of the many that struck a chord with me.",
@@ -33,16 +33,6 @@
         {
           "type": "other",
           "url": "https://www.artofaccomplishment.com/about"
-        },
-        {
-          "type": "amazon",
-          "url": "https://www.amazon.com/s?k=How%20to%20be%20more%20emotionally%20intelligent%20(without%20trying%20so%20hard)",
-          "search_fallback": true
-        },
-        {
-          "type": "worldcat",
-          "url": "https://search.worldcat.org/search?q=How%20to%20be%20more%20emotionally%20intelligent%20(without%20trying%20so%20hard)",
-          "search_fallback": true
         }
       ]
     },

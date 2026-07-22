@@ -96,7 +96,7 @@
     {
       "position": 3,
       "section": "What I’m watching and listening to",
-      "category": "video",
+      "category": "web_video",
       "title": "Pisces (Live Session)",
       "creator": null,
       "note": "](https://www.youtube.com/watch?v=SQNtGoM3FVU)**”** by [JINJER](https://www.jinjer-merch-america.com/about.html) ([@jinjerofficial](https://twitter.com/jinjerofficial)). A lot of you have been asking me for Ukrainian music and gorgeous, talented humans with extreme range (or was that a fever dream?). Well, JINJER might be just what you need. Be sure to listen to the first two minutes for the surprise transformation. It’s no joke. As commenter @davidacus956 put it, “I heard this on Spotify and was like ‘I like the distinction between the two vocalists’ and then I watched this.” And if that whets your appetite, [here’s a bonus](https://www.youtube.com/watch?v=Q5rg_63Shqg) with a festive costume change. Huge thanks to S. for the recommendation!",
@@ -117,19 +117,6 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=Q5rg_63Shqg"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Pisces%20(Live%20Session)",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Pisces%20(Live%20Session)",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

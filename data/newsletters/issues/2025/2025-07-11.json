@@ -117,7 +117,7 @@
     {
       "position": 5,
       "section": "Book highlight I’m pondering",
-      "category": "book",
+      "category": "quote",
       "title": "Oliver Burkeman",
       "creator": null,
       "note": ", [_Four Thousand Weeks_](https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/B08XZY5ZF7/)_  \n​_([Click here to share on X](https://ctt.ec/DeflA).)  \n​  \nPair this quote with one of my favorite pieces of writing from Oliver, “[The Liberation of Cosmic Insignificance Therapy](https://tim.blog/2021/12/15/the-liberation-of-cosmic-insignificance-therapy/%20?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content).”\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with my conversations ([part one](https://youtu.be/B87ATe3Bxh8?si=himPndTz087avWFa), [part two](https://youtu.be/d3dPRkyNbj8?si=Aigm5SXGnH-z1JWL)) with Craig Mod. Craig is a writer, photographer, and walker living in Tokyo and Kamakura, Japan.  \n​  \nAnd, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
@@ -126,10 +126,6 @@
         {
           "type": "original",
           "url": "https://www.oliverburkeman.com/"
-        },
-        {
-          "type": "amazon",
-          "url": "https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/B08XZY5ZF7/"
         },
         {
           "type": "other",
@@ -150,11 +146,6 @@
         {
           "type": "other",
           "url": "https://twitter.com/tferriss"
-        },
-        {
-          "type": "worldcat",
-          "url": "https://search.worldcat.org/search?q=Oliver%20Burkeman",
-          "search_fallback": true
         }
       ]
     }

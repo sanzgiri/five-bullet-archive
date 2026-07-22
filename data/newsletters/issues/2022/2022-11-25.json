@@ -50,7 +50,7 @@
     {
       "position": 3,
       "section": "What I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "This Guy Is Relentless",
       "creator": null,
       "note": "[Rich Roll](https://tim.blog/2022/01/04/rich-roll/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@⁨RichRoll](https://twitter.com/richroll)),⁩ I loved your interview with [Casey Neistat](https://tim.blog/2015/10/27/casey-neistat/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@casey](https://www.youtube.com/caseyneistat)). Both of you are inspiring… and irritatingly handsome.",
@@ -75,19 +75,6 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/caseyneistat"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=This%20Guy%20Is%20Relentless",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=This%20Guy%20Is%20Relentless",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

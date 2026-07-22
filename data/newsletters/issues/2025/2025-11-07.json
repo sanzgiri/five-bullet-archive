@@ -13,7 +13,7 @@
     {
       "position": 1,
       "section": "Short instructional video I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Standard Omelet vs. Classic French Omelet",
       "creator": "Jacques Pépin",
       "note": ". The living legend. Jacques’ bio is unreal, and his eloquent and no-BS approach to teaching was an inspiration when I was working on [_The 4-Hour Chef_](https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/). This recent video of Jacques shows him in fine form at almost 90 years of age!",
@@ -30,19 +30,6 @@
         {
           "type": "amazon",
           "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Standard%20Omelet%20vs.%20Classic%20French%20Omelet%20Jacques%20P%C3%A9pin",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Standard%20Omelet%20vs.%20Classic%20French%20Omelet%20Jacques%20P%C3%A9pin",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

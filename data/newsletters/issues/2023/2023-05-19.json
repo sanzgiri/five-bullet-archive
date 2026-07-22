@@ -12,7 +12,7 @@
     {
       "position": 1,
       "section": "What I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Judo throw by Israpil Sagaipov at the Continental Judo League in Moscow",
       "creator": null,
       "note": "via Rob Amante. It’s not every day that you see a Terminator with b-boy flair. I’m into it.",
@@ -21,19 +21,6 @@
         {
           "type": "original",
           "url": "https://www.instagram.com/p/Cq0NDgFPcfE/"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Judo%20throw%20by%20Israpil%20Sagaipov%20at%20the%20Continental%20Judo%20League%20in%20Moscow",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Judo%20throw%20by%20Israpil%20Sagaipov%20at%20the%20Continental%20Judo%20League%20in%20Moscow",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

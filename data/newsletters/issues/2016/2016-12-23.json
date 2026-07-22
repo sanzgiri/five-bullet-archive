@@ -35,7 +35,7 @@
     {
       "position": 2,
       "section": "What I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "How to Chop Wood The Smart Way",
       "creator": null,
       "note": "(BTW, check out [this\nstudy](http://www.fourhournewsletter.com/click.html?x=a62e&lc=day&mc=b&s=bomwH&u=w&y=X&)\non chopping wood and testosterone afterward.) Hat tip to JZ for both.",
@@ -48,19 +48,6 @@
         {
           "type": "other",
           "url": "http://www.fourhournewsletter.com/click.html?x=a62e&lc=day&mc=b&s=bomwH&u=w&y=X&"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=How%20to%20Chop%20Wood%20The%20Smart%20Way",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=How%20to%20Chop%20Wood%20The%20Smart%20Way",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

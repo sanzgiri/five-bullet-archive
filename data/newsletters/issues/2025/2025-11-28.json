@@ -60,7 +60,7 @@
     {
       "position": 3,
       "section": "Video I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "UFC is NOT Ready For Him... Next Gen Submission Master - Mica Galvão",
       "creator": null,
       "note": "Across the board, it is head-spinning to consider how much grappling has evolved in the last decade, but Mica and some of the younger guard (e.g., Kade Ruotolo) take things to levels practically unthinkable 10 years ago. This is a fun highlight reel, and don’t miss the hand-inverted inside ankle pick.",
@@ -69,19 +69,6 @@
         {
           "type": "original",
           "url": "https://youtu.be/duJendMuh9w"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=UFC%20is%20NOT%20Ready%20For%20Him...%20Next%20Gen%20Submission%20Master%20-%20Mica%20Galv%C3%A3o",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=UFC%20is%20NOT%20Ready%20For%20Him...%20Next%20Gen%20Submission%20Master%20-%20Mica%20Galv%C3%A3o",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

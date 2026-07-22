@@ -35,7 +35,7 @@
     {
       "position": 2,
       "section": "What I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "Psychedelic Assisted Therapy: Last Week Tonight with John Oliver",
       "creator": null,
       "note": "The writing and execution on this are brilliant. Masterfully done, John Oliver ([@iamjohnoliver](https://twitter.com/iamjohnoliver)) and the whole team at _Last Week Tonight_ ([@LastWeekTonight](https://twitter.com/LastWeekTonight))! They threaded so many needles well that it might be a quilt. NOTE: The YouTube video appears to be restricted to U.S. viewers only. There is a shorter version available on Twitter [here](https://twitter.com/LastWeekTonight/status/1628091263894405120). For projects related to this, and some familiar names from the video, [click here](https://saiseifoundation.org/projects/).",
@@ -60,19 +60,6 @@
         {
           "type": "other",
           "url": "https://saiseifoundation.org/projects/"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Psychedelic%20Assisted%20Therapy%3A%20Last%20Week%20Tonight%20with%20John%20Oliver",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Psychedelic%20Assisted%20Therapy%3A%20Last%20Week%20Tonight%20with%20John%20Oliver",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

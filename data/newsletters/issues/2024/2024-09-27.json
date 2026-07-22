@@ -12,7 +12,7 @@
     {
       "position": 1,
       "section": "What I’m watching (short)",
-      "category": "video",
+      "category": "web_video",
       "title": "Telegram founder Pavel Durov on the freedom of not owning any major assets",
       "creator": null,
       "note": null,
@@ -21,19 +21,6 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/embed/1Ut6RouSs0w?end=2288&start=2141"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Telegram%20founder%20Pavel%20Durov%20on%20the%20freedom%20of%20not%20owning%20any%20major%20assets",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Telegram%20founder%20Pavel%20Durov%20on%20the%20freedom%20of%20not%20owning%20any%20major%20assets",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

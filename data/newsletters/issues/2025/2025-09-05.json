@@ -47,7 +47,7 @@
     {
       "position": 2,
       "section": "Short highlight video I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "The Little Giant - Ryuju Nagayama (2025 World Champion)",
       "creator": null,
       "note": "](https://www.youtube.com/watch?v=cdxCvuGdmyc)**.** I thought I’d seen all the most explosive judo fighters, and I was wrong. Nagayama’s throws show power and dizzying versatility at the highest level. And, most impressive, his movement is crisp and clean, like a perfect bedsheet at the Four Seasons. From the description: “Nagayama is the 2025 world champion and two-time bronze medalist. He is also an Olympic bronze medalist and 2022 Asian champion. For a long time, Nagayama was one of the most exciting judokas in the world. Despite his small height, he is one of the most powerful athletes in lower weight classes.”",
@@ -56,19 +56,6 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=cdxCvuGdmyc"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=The%20Little%20Giant%20-%20Ryuju%20Nagayama%20(2025%20World%20Champion)",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=The%20Little%20Giant%20-%20Ryuju%20Nagayama%20(2025%20World%20Champion)",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },
@@ -190,7 +177,7 @@
     {
       "position": 5,
       "section": "Book highlights I’m pondering",
-      "category": "book",
+      "category": "quote",
       "title": "Four Thousand Weeks: Time Management for Mortals",
       "creator": "Oliver Burkeman: “After years of trying and failing to make time for her illustration work, by tamin",
       "note": "by** [**Oliver Burkeman**](https://www.oliverburkeman.com/)**:  \n​  \n​**“After years of trying and failing to make time for her illustration work, by taming her to-do list and shuffling her schedule, Abel saw that her only viable option was to claim time instead—to just start drawing, for an hour or two, every day, and to accept the consequences, even if those included neglecting other activities she sincerely valued.”  \n​  \n…**​  \n​  \n​**“The derision we heap upon the avid stamp collector or train spotter might really be a kind of defense mechanism, to spare us from confronting the possibility that they’re truly happy in a way that the rest of us—pursuing our telic lives, ceaselessly in search of future fulfillment—are not.”  \n​  \n…**​  \n​  \n​**“The only faculty you can use to see what’s happening to your attention is your attention, the very thing that’s already been commandeered. This means that once the attention economy has rendered you sufficiently distracted, or annoyed, or on edge, it becomes easy to assume that this is just what life these days inevitably feels like. In T. S. Eliot’s words, we are ‘distracted from distraction by distraction.’ The unsettling possibility is that if you’re convinced that none of this is a problem for you—that social media hasn’t turned you into an angrier, less empathetic, more anxious, or more numbed-out version of yourself—that might be because it has. Your finite time has been appropriated, without your realizing anything’s amiss.”  \n​  \n…  \n​  \n“De Graaf had put his finger on one of the sneakier problems with treating time solely as something to be used as well as possible, which is that we start to experience pressure to use our leisure time productively, too.”  \n​  \n…  \n​  \n“The most fundamental thing we fail to appreciate about the world, Heidegger asserts in his magnum opus, _Being and Time_, is how bafflingly astonishing it is that it’s there at all—the fact that there is anything rather than nothing. Most philosophers and scientists spend their careers pondering the way things are: what sorts of things exist, where they come from, how they relate to each other, and so on. But we’ve forgotten to be amazed that things are in the first place—that ‘a world is worlding all around us,’ as Heidegger puts it. This fact—the fact that there is being, to begin with—is ‘the brute reality on which all of us ought to be constantly stubbing our toes,’ in the splendid phrase of the writer Sarah Bakewell. But instead, it almost always passes us by.”  \n​  \n​**One of my favorite chapters from the book is titled “**[**Cosmic Insignificance Therapy**](https://tim.blog/2021/12/15/the-liberation-of-cosmic-insignificance-therapy/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit)**,” and you can find it for free** [**here**](https://tim.blog/2021/12/15/the-liberation-of-cosmic-insignificance-therapy/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit)**. It left me with a profound sense of calm that lasted several days. It sticks with you.**\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [my brand-new conversation with Dr. Dominic D’Agostino](https://tim.blog/2025/09/03/dr-dominic-dagostino-all-things-ketones/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit) on all things ketones, sardine fasting, and much, much more.  \n​  \nAnd, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
@@ -219,11 +206,6 @@
         {
           "type": "other",
           "url": "https://twitter.com/tferriss"
-        },
-        {
-          "type": "worldcat",
-          "url": "https://search.worldcat.org/search?q=Four%20Thousand%20Weeks%3A%20Time%20Management%20for%20Mortals%20Oliver%20Burkeman%3A%20%E2%80%9CAfter%20years%20of%20trying%20and%20failing%20to%20make%20time%20for%20her%20illustration%20work%2C%20by%20tamin",
-          "search_fallback": true
         }
       ]
     }

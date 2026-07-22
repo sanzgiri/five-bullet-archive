@@ -39,6 +39,11 @@
           "catalog_match": "musicbrainz_exact_title_artist",
           "catalog_title": "I Know What I Know",
           "catalog_creator": "Paul Simon"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/track/1JLqsx00ZNdZeoSIvZyH4A",
+          "catalog_match": "verified_title_creator"
         }
       ]
     },

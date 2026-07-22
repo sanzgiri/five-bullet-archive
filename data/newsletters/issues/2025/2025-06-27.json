@@ -143,7 +143,7 @@
     {
       "position": 5,
       "section": "Book highlight I’m pondering",
-      "category": "book",
+      "category": "quote",
       "title": "The ONE Thing",
       "creator": "Gary Keller * * * You can complement this edition of 5-Bullet Friday with my brand-new podcast episo",
       "note": "​\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [my brand-new podcast episode](https://www.youtube.com/watch?v=gxkjMnSCg3k), a _4-Hour Workweek_ case study featuring Charlie Houpert, founder of “Charisma on Command,” which now has 10M+ subscribers on YouTube across its channels.  \n​  \nAnd, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
@@ -164,11 +164,6 @@
         {
           "type": "other",
           "url": "https://twitter.com/tferriss"
-        },
-        {
-          "type": "worldcat",
-          "url": "https://search.worldcat.org/search?q=The%20ONE%20Thing%20Gary%20Keller%20*%20*%20*%20You%20can%20complement%20this%20edition%20of%205-Bullet%20Friday%20with%20my%20brand-new%20podcast%20episo",
-          "search_fallback": true
         }
       ]
     }

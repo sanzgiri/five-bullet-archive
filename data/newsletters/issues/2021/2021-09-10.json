@@ -99,7 +99,7 @@
     {
       "position": 3,
       "section": "Comedian I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "Why I speak French",
       "creator": "TJ",
       "note": ". I first saw Tanael “TJ” Joachim at the [Gotham Comedy Club](https://www.gothamcomedyclub.com/) ([@gothamcomedy](https://twitter.com/gothamcomedy)) in New York City. He calmly captured the room, and while I was laughing, I realized how great he was at tackling “off-limits” topics. His comedy was really smart. People got very uncomfortable, and I loved every minute of it. His performance at Gotham a few weeks ago was tighter than most of his older clips online, like the sample above. If he continues to refine and has the right management, I think he could be big.",
@@ -120,19 +120,6 @@
         {
           "type": "other",
           "url": "https://twitter.com/gothamcomedy"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Why%20I%20speak%20French%20TJ",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Why%20I%20speak%20French%20TJ",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

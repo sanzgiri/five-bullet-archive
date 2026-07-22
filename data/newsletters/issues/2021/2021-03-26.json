@@ -13,7 +13,7 @@
     {
       "position": 1,
       "section": "What I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "Valentin Delluc: Speedriding in From Avoriaz with Love",
       "creator": null,
       "note": "This is one of the most terrifying and impressive things I’ve seen in years. Truly jaw-dropping, and the cinematography is gorgeous. Do yourself a favor, and instead of another cup of coffee, watch this three-minute video. Description: “This new project from speedriding pioneer [Valentin Delluc](https://www.redbull.com/ca-en/athlete/valentin-delluc) \\[[@valentindelluc](https://www.instagram.com/valentindelluc/?hl=en)\\] sees him flying into a deserted snow resort on his skis.”",
@@ -30,19 +30,6 @@
         {
           "type": "other",
           "url": "https://www.instagram.com/valentindelluc/?hl=en"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Valentin%20Delluc%3A%20Speedriding%20in%20From%20Avoriaz%20with%20Love",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Valentin%20Delluc%3A%20Speedriding%20in%20From%20Avoriaz%20with%20Love",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

@@ -46,7 +46,7 @@
     {
       "position": 3,
       "section": "Genius video I’m once again sending to friends (I never get tired of this one) —",
-      "category": "video",
+      "category": "web_video",
       "title": "Apple Engineer Talks About New Macbook Pro",
       "creator": null,
       "note": null,
@@ -55,19 +55,6 @@
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=-XSC_UG5_kU"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=Apple%20Engineer%20Talks%20About%20New%20Macbook%20Pro",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=Apple%20Engineer%20Talks%20About%20New%20Macbook%20Pro",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

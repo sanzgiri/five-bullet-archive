@@ -61,7 +61,7 @@
     {
       "position": 4,
       "section": "What I’m watching —",
-      "category": "video",
+      "category": "web_video",
       "title": "My philosophy for a happy life | Sam Berns | TEDxMidAtlantic",
       "creator": null,
       "note": "\\-- This video hit me really, really hard. I don’t know how I found it, and despite some tears, it was exactly the reset I needed. This kid is a total stud. Just watch and do _not_ rush. Read the description afterward.**",
@@ -70,19 +70,6 @@
         {
           "type": "original",
           "url": "https://el2.fourhourmail.com/c/4zup485rraehpwp3x/xksph6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0zNm0xby10TTA1Zw=="
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=My%20philosophy%20for%20a%20happy%20life%20%7C%20Sam%20Berns%20%7C%20TEDxMidAtlantic",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=My%20philosophy%20for%20a%20happy%20life%20%7C%20Sam%20Berns%20%7C%20TEDxMidAtlantic",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },

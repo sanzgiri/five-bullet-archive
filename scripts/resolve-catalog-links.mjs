@@ -6,10 +6,20 @@ const reportPath = path.resolve("data/newsletters/catalog-resolution-report.json
 const curatedOnly = process.argv.includes("--curated-only");
 const resolveMusicBrainz = process.argv.includes("--musicbrainz");
 const spotifyMatches = new Map([
-  ["45|shinedown", "https://open.spotify.com/track/420JGkyLfLUZcgBHKiIK9v"],
-  ["love me or leave me|billie holiday", "https://open.spotify.com/track/3d8zTTGjJ3T6fh1RHTylkB"],
-  ["save me by damageplan|", "https://open.spotify.com/track/3VMoO0h3y7a8PBlJP1gZeq"],
-  ["a thousand kisses deep|leonard cohen", "https://open.spotify.com/track/1ReUenrzajxFqwCCfJv3EE"],
+  ["45|shinedown", { type: "spotify_track", url: "https://open.spotify.com/track/420JGkyLfLUZcgBHKiIK9v" }],
+  ["love me or leave me|billie holiday", { type: "spotify_track", url: "https://open.spotify.com/track/3d8zTTGjJ3T6fh1RHTylkB" }],
+  ["save me by damageplan|", { type: "spotify_track", url: "https://open.spotify.com/track/3VMoO0h3y7a8PBlJP1gZeq" }],
+  ["a thousand kisses deep|leonard cohen", { type: "spotify_track", url: "https://open.spotify.com/track/1ReUenrzajxFqwCCfJv3EE" }],
+  ["beats antique collide album|", { type: "spotify_track", url: "https://open.spotify.com/track/0Jk5J9HrDmCEKV7xYmaB6m", note: "Representative track recommended in the newsletter note: Beauty Beats." }],
+  ["alan watts and superposition listen dream|", { type: "spotify_album", url: "https://open.spotify.com/album/4WER0jHByxYmFwXZgRL6Pk" }],
+  ["julieta venegas eres para mi|", { type: "spotify_track", url: "https://open.spotify.com/track/32JziZKwTGzOPPkjzv10tg" }],
+  ["chancha via circuito jardines ft lido pimienta|", { type: "spotify_track", url: "https://open.spotify.com/track/47cXnfnILbqGJFjAORgXy5" }],
+  ["sabelo|bajofondo", { type: "spotify_track", url: "https://open.spotify.com/track/1FPx0zQMlGR8CbDZWfDfCQ" }],
+  ["zitarrosa|bajofondo", { type: "spotify_track", url: "https://open.spotify.com/track/3LsIKnWBQhqjQ5TWNxJenK" }],
+  ["hi ren|ren", { type: "spotify_album", url: "https://open.spotify.com/album/2wXIwZRV93MS5en0FQuDMA" }],
+  ["le festin|", { type: "spotify_track", url: "https://open.spotify.com/track/3yShr5EC1pAAJcEOKj6h1R" }],
+  ["i know what i know|paul simon", { type: "spotify_track", url: "https://open.spotify.com/track/1JLqsx00ZNdZeoSIvZyH4A" }],
+  ["tres deseos sesiones de estudio en vivo|", { type: "spotify_track", url: "https://open.spotify.com/track/6O3BszmiYc6sbnbU7ua7Se" }],
 ]);
 
 async function walk(directory) {
@@ -41,6 +51,12 @@ function addExact(bullet, type, url, metadata) {
   if (bullet.links.some((link) => link.type === type && link.url === url)) return false;
   bullet.links.push({ type, url, ...metadata });
   return true;
+}
+
+function removeServiceLinks(bullet, types) {
+  const before = bullet.links.length;
+  bullet.links = bullet.links.filter((link) => !types.includes(link.type));
+  return before - bullet.links.length;
 }
 
 function isbn10(isbns = []) {
@@ -155,7 +171,7 @@ async function musicBrainzMatch(bullet) {
 }
 
 const files = await walk(root);
-const report = { generated_at: null, issues: files.length, reclassified_non_books: 0, reclassified_non_music: 0, spotify_exact_added: 0, musicbrainz_resolved: 0, amazon_exact_added: 0, justwatch_exact_added: 0, errors: 0 };
+const report = { generated_at: null, issues: files.length, reclassified_non_books: 0, reclassified_non_films: 0, reclassified_non_music: 0, removed_irrelevant_links: 0, spotify_exact_added: 0, musicbrainz_resolved: 0, amazon_exact_added: 0, justwatch_exact_added: 0, errors: 0 };
 const bookQueue = [];
 const filmQueue = [];
 const musicQueue = [];
@@ -166,8 +182,8 @@ for (const filename of files) {
   for (const bullet of issue.bullets) {
     if (bullet.category === "music" && !hasExact(bullet, "spotify_track") && !hasExact(bullet, "spotify_album")) {
       const key = `${norm(bullet.title)}|${norm(bullet.creator)}`;
-      const spotifyUrl = spotifyMatches.get(key);
-      if (spotifyUrl && addExact(bullet, "spotify_track", spotifyUrl, { catalog_match: "verified_title_creator" })) {
+      const spotifyMatch = spotifyMatches.get(key);
+      if (spotifyMatch && addExact(bullet, spotifyMatch.type, spotifyMatch.url, { catalog_match: "verified_title_creator", ...(spotifyMatch.note ? { match_note: spotifyMatch.note } : {}) })) {
         report.spotify_exact_added += 1;
         changed.set(filename, issue);
       }
@@ -184,6 +200,24 @@ for (const filename of files) {
       report.reclassified_non_books += 1;
       changed.set(filename, issue);
       continue;
+    }
+    if (["book", "audiobook"].includes(bullet.category) && /\b(?:article|paper|study|thread|review|reviews|quote|excerpt|highlight|highlights|passage|puzzle|giveaway)\b/i.test(`${bullet.section} ${bullet.title}`)) {
+      bullet.category = /quote|excerpt|highlight|passage/i.test(bullet.section) ? "quote" : "article";
+      report.reclassified_non_books += 1;
+      report.removed_irrelevant_links += removeServiceLinks(bullet, ["amazon", "audible", "libby", "worldcat"]);
+      changed.set(filename, issue);
+      continue;
+    }
+    if (["video", "tv"].includes(bullet.category) && !hasExact(bullet, "justwatch")) {
+      const evidence = `${bullet.title} ${bullet.section} ${bullet.note ?? ""}`;
+      const catalogMedia = /\b(?:movie|film|documentary|docuseries|series|season|episode|television|tv show|netflix|hbo)\b/i.test(evidence);
+      if (!catalogMedia) {
+        bullet.category = "web_video";
+        report.reclassified_non_films += 1;
+        report.removed_irrelevant_links += removeServiceLinks(bullet, ["justwatch", "kanopy"]);
+        changed.set(filename, issue);
+        continue;
+      }
     }
     if (!curatedOnly && ["book", "audiobook"].includes(bullet.category) && !hasExact(bullet, "amazon")) bookQueue.push({ filename, issue, bullet });
     if (!curatedOnly && ["video", "tv"].includes(bullet.category) && !hasExact(bullet, "justwatch")) filmQueue.push({ filename, issue, bullet });

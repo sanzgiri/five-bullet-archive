@@ -12,7 +12,7 @@
     {
       "position": 1,
       "section": "What I’m watching",
-      "category": "video",
+      "category": "web_video",
       "title": "This short and mesmerizing video",
       "creator": null,
       "note": ", thanks to [Matt Mullenweg](https://tim.blog/2022/03/09/matt-mullenweg-antarctica/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@photomatt](https://twitter.com/photomatt/?hl=en)). Be sure to watch through the finale.",
@@ -29,19 +29,6 @@
         {
           "type": "other",
           "url": "https://twitter.com/photomatt/?hl=en"
-        },
-        {
-          "type": "justwatch",
-          "url": "https://www.justwatch.com/us/search?q=This%20short%20and%20mesmerizing%20video",
-          "region": "US",
-          "search_fallback": true
-        },
-        {
-          "type": "kanopy",
-          "url": "https://www.kanopy.com/en/search?query=This%20short%20and%20mesmerizing%20video",
-          "region": "US",
-          "requires_participating_library": true,
-          "search_fallback": true
         }
       ]
     },
