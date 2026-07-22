@@ -59,7 +59,15 @@
         {
           "type": "spotify_track",
           "url": "https://open.spotify.com/search/Sel%20Smadj",
-          "search_fallback": true
+          "search_fallback": true,
+          "catalog_basis": "musicbrainz"
+        },
+        {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/recording/c6abdf03-73f3-4a93-ad5d-1e2ca6618519",
+          "catalog_match": "musicbrainz_exact_title_artist",
+          "catalog_title": "Sel",
+          "catalog_creator": "Smadj"
         }
       ]
     },

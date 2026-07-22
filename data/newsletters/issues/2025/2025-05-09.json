@@ -37,7 +37,15 @@
         {
           "type": "spotify_track",
           "url": "https://open.spotify.com/search/Hi%20Ren%20Ren",
-          "search_fallback": true
+          "search_fallback": true,
+          "catalog_basis": "musicbrainz"
+        },
+        {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/recording/07ad5d8e-675e-4eff-beae-b0cd8cbbcb1a",
+          "catalog_match": "musicbrainz_exact_title_artist",
+          "catalog_title": "Hi Ren",
+          "catalog_creator": "Ren"
         }
       ]
     },

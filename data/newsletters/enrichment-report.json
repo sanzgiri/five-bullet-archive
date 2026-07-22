@@ -1,12 +1,10 @@
 {
   "issues": 530,
   "bullets": 2709,
-  "links_added": {
-    "libby": 76
-  },
+  "links_added": {},
   "links_reclassified": {},
-  "libby_resolved": 76,
-  "libby_unresolved": 58,
+  "libby_resolved": 0,
+  "libby_unresolved": 0,
   "link_totals": {
     "original": 2690,
     "other": 7669,
@@ -14,9 +12,10 @@
     "kanopy": 368,
     "amazon": 392,
     "worldcat": 155,
-    "spotify_track": 228,
+    "spotify_track": 233,
     "audible": 18,
     "libby": 76,
+    "musicbrainz": 7,
     "spotify_album": 16,
     "streaming": 31
   },
@@ -28,6 +27,6 @@
     "spotify_track": 39,
     "audible": 7
   },
-  "generated_at": "2026-07-22T20:16:25.325Z",
-  "libby_library_key_used_for_catalog_resolution": "lapl"
+  "generated_at": "2026-07-22T20:20:43.168Z",
+  "libby_library_key_used_for_catalog_resolution": null
 }

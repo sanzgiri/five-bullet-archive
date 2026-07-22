@@ -16,7 +16,7 @@ Records marked `extraction_status: "metadata_only"` confirm an issue date but do
 
 ## Link enrichment
 
-Run `npm run archive:enrich` to add portable discovery links by category. Existing direct links are preserved. Music receives Spotify links; books and audiobooks receive Amazon, WorldCat, and resolved Libby title links when a confident public-catalog match is available; films and television receive JustWatch and Kanopy searches. Search fallbacks are explicitly marked with `search_fallback: true`, while Libby links use stable `share.libbyapp.com/title/...` records and retain the participating-library requirement.
+Run `npm run archive:enrich` to add portable discovery links by category. Existing direct links are preserved. The primary destinations are Spotify for music, Amazon for books and audiobooks, and JustWatch for films and television. Search fallbacks are explicitly marked with `search_fallback: true`. Run `node scripts/resolve-catalog-links.mjs --curated-only --musicbrainz` to validate unresolved recordings against MusicBrainz and improve their Spotify searches with canonical recording and artist names. Older WorldCat, Libby, Audible, and Kanopy links remain in the records as optional secondary destinations, but they are not required by the coverage audit.
 
 Run `npm run archive:audit-enrichment` to regenerate `enrichment-audit.json`. The audit treats exact-item mapping coverage as the primary quality metric and excludes generated search fallbacks from it. It also records convenience-link coverage, unresolved destinations, and titleless recommendations excluded from enrichment.
 

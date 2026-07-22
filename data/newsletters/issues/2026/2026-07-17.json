@@ -30,7 +30,15 @@
         {
           "type": "spotify_track",
           "url": "https://open.spotify.com/search/I%20Know%20What%20I%20Know%20Paul%20Simon",
-          "search_fallback": true
+          "search_fallback": true,
+          "catalog_basis": "musicbrainz"
+        },
+        {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/recording/b5c35ddf-2754-4c25-8b56-afc5ea66c82c",
+          "catalog_match": "musicbrainz_exact_title_artist",
+          "catalog_title": "I Know What I Know",
+          "catalog_creator": "Paul Simon"
         }
       ]
     },

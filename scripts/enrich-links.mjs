@@ -112,13 +112,10 @@ for (const filename of files) {
     }
     if (["book", "audiobook"].includes(bullet.category)) {
       if (!hasDomain(bullet.links, /amazon\.com/)) add(bullet.links, "amazon", `https://www.amazon.com/s?k=${encodeURIComponent(query)}`, { search_fallback: true });
-      if (!hasDomain(bullet.links, /worldcat\.org/)) add(bullet.links, "worldcat", `https://search.worldcat.org/search?q=${encodeURIComponent(query)}`, { search_fallback: true });
-      if (bullet.category === "audiobook" && !hasDomain(bullet.links, /audible\.com/)) add(bullet.links, "audible", `https://www.audible.com/search?keywords=${encodeURIComponent(query)}`, { search_fallback: true });
       if (resolveLibby && !hasDomain(bullet.links, /libbyapp\.com/)) libbyQueue.push({ filename, issue, bullet });
     }
     if (["video", "tv"].includes(bullet.category)) {
       if (!hasDomain(bullet.links, /justwatch\.com/)) add(bullet.links, "justwatch", `https://www.justwatch.com/us/search?q=${encodeURIComponent(query)}`, { region: "US", search_fallback: true });
-      if (!hasDomain(bullet.links, /kanopy\.com/)) add(bullet.links, "kanopy", `https://www.kanopy.com/en/search?query=${encodeURIComponent(query)}`, { region: "US", requires_participating_library: true, search_fallback: true });
     }
     for (const link of bullet.links.slice(before)) stats.links_added[link.type] = (stats.links_added[link.type] ?? 0) + 1;
     if (bullet.links.length !== before) changed = true;
