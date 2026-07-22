@@ -7,7 +7,61 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "partial",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching again",
+      "category": "video",
+      "title": "IN-SHADOW - A Modern Odyssey - Animated Short Film",
+      "creator": "Lubomir Arsov",
+      "note": "I watch this at least once a year. It’s a gripping short animation. I think anyone who spends time on a computer or phone needs to watch it. The intensity is followed by redemption, and the artwork and art direction are spectacular throughout. It is written, directed, and produced by Lubomir Arsov (@lubomirarsov). For more, here is the official website. And thanks to Joe P. for the great recommendation long ago. Perhaps it’s time to cut the puppet strings that make you dance. This one helps me keep social media apps off of my phone.",
+      "original_url": "https://www.youtube.com/watch?v=j800SVeiS5I",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=j800SVeiS5I"
+        },
+        {
+          "type": "other",
+          "url": "https://www.inshadow.net/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Song I’m enjoying to welcome the weekend",
+      "category": "music",
+      "title": "Le Festin",
+      "creator": null,
+      "note": "I love cooking to this with my lady. Even if you’re plowing through this email, listen to a minute of this before the next bullet. Trust me.",
+      "original_url": "https://www.youtube.com/watch?v=-QuVe-hjMs0",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=-QuVe-hjMs0"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Song I’m revisiting",
+      "category": "music",
+      "title": "Hi Ren",
+      "creator": "Ren",
+      "note": "This is f*cking incredible. I remember when I first watched it, enraptured. It’s a wild cocktail of talent, craziness, philosophy, meaning, and relief. The lyrics are pure genius. Watch the whole thing—trust me. If you want to dig deeper, you can find the song’s origin story here. Thanks again to Ivy Ankles for sending this to me.",
+      "original_url": "https://www.youtube.com/watch?v=s_nc1IVoMxc",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=s_nc1IVoMxc"
+        },
+        {
+          "type": "other",
+          "url": "https://genius.com/Ren-hi-ren-lyrics"
+        }
+      ]
+    }
+  ]
 }
