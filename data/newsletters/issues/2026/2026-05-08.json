@@ -7,7 +7,167 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "La Descarriá",
+      "creator": "Corina Lawrence feat",
+      "note": "([YouTube](https://www.youtube.com/watch?v=ATVaPK5bz9A), [Spotify](https://open.spotify.com/track/1iNpP6yYax94B4eADEW3Qx?si=QfLK5KYfSRyhL1IKTu2MSQ)) by [Corina Lawrence](https://www.instagram.com/corinalawrence_/) feat. [Miss Bolivia](https://www.instagram.com/missboliviamusica/) ([Uji](https://www.instagram.com/uji_music/) Remix).",
+      "original_url": "https://www.youtube.com/watch?v=ATVaPK5bz9A",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=ATVaPK5bz9A"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=ATVaPK5bz9A"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/1iNpP6yYax94B4eADEW3Qx?si=QfLK5KYfSRyhL1IKTu2MSQ"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/corinalawrence_/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/missboliviamusica/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/uji_music/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Documentary I’m watching",
+      "category": "video",
+      "title": "The Painter and the Thief",
+      "creator": null,
+      "note": "This doc never gets old. It’s stellar and was originally recommended by author and former rocket scientist [Ozan Varol](https://ozanvarol.com/the-best-of-what-im-reading-watching-and-exploring-february2021/), who served on the operations team for the 2003 Mars Exploration Rovers project. Here’s the official description of _The Painter and the Thief_: “Desperate for answers about the theft of her two paintings, a Czech artist seeks out and befriends the career criminal who stole them. After inviting her thief to sit for a portrait, the two form an improbable relationship and an inextricable bond that will forever link these lonely souls.” The two main protagonists are [Barbora Kysilkova](https://artbarbar.com/) and [Karl-Bertil Nordland](https://www.thehumanaspect.com/story/548). **Even if you never watch the film, you really must watch** [**the trailer**](https://www.youtube.com/watch?v=hcifoEG_Mkg)**.**",
+      "original_url": "https://www.primevideo.com/detail?camp=1789&gti=amzn1.dv.gti.e8b91c74-60c8-36b4-7fc9-5b6a5b443fa6&linkCode=xm2&tag=offsitoftimfe-20",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.primevideo.com/detail?camp=1789&gti=amzn1.dv.gti.e8b91c74-60c8-36b4-7fc9-5b6a5b443fa6&linkCode=xm2&tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://ozanvarol.com/the-best-of-what-im-reading-watching-and-exploring-february2021/"
+        },
+        {
+          "type": "other",
+          "url": "https://artbarbar.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.thehumanaspect.com/story/548"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=hcifoEG_Mkg"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Profile I’m reading",
+      "category": "article",
+      "title": "The Podcast Where You Can Eavesdrop on the A.I. Elite",
+      "creator": "Benjamin Wallace",
+      "note": "(_New York Times_). ([Alternate link](https://archive.is/PQWHK).) From the subheading: “[Dwarkesh Patel](https://www.youtube.com/c/DwarkeshPatel) was a bored college sophomore looking for intellectual stimulation. Now he commands interviews with Jensen Huang and Mark Zuckerberg and holds his own with deeply nerdy A.I. researchers.”  \n​  \nBut how did Dwarkesh get started? Good old-fashioned chutzpah, combined with good writing:  \n​  \n​_Mr. Patel recorded the first episode of “The Lunar Society,” his original name for the podcast, from his dorm room at the University of Texas at Austin in 2020, during the early months of the Covid pandemic, when he was 19. He was taking online classes, bored, and thirsty for intellectual engagement. So he did what any normal college sophomore might do and cold-emailed Bryan Caplan, a member of George Mason University’s famously libertarian economics department. In the email, he described how three Caplan books had shifted his perspective on immigration, education and how many children to have. Mr. Caplan responded encouragingly, and after a further friendly exchange, Mr. Patel asked if he could interview him for a podcast.  \n​  \n…  \n​  \nBesides the podcast, which at the time was largely focused on economics and history, Mr. Patel wrote blog posts that he now calls “insight porn.” “The Mystery of the Miracle Year,” which he published four months after graduating college, explored how Albert Einstein, among others, did most of his greatest work within a 12-month span. The post ended with an appeal to free “smart twentysomethings” from “rote menial work, prevent them from being overexposed to the current paradigm.” Viewing conventional wisdom and middle-class drudgery as impediments to innovation is the kind of self-validating thesis tech entrepreneurs love. Within two days of its posting, the Y Combinator co-founder Paul Graham and the venture capitalist Marc Andreessen would both tweet links to the essay. More consequentially, Mr. Patel became the 42nd person Jeff Bezos was following on Twitter. He tweeted about this in wonderment. “You’re thoughtful and thought-provoking,” Mr. Bezos replied. “Gratitude. Please keep it up!” In 48 hours, Mr. Patel’s Twitter followers went from 800 to 14,000. His mother wondered whether he could ask Mr. Bezos for a job._",
+      "original_url": "https://www.nytimes.com/2026/04/26/business/dwarkesh-patel-podcast-ai.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/2026/04/26/business/dwarkesh-patel-podcast-ai.html"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nytimes.com/by/benjamin-wallace"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.is/PQWHK"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/c/DwarkeshPatel"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Tide shift I’m tracking",
+      "category": "music",
+      "title": "Could At-Home Brain Stimulation Reduce Psychiatry’s Reliance on S.S.R.I.s?",
+      "creator": "Rachel E",
+      "note": "(_New York Times_) ([Alternate link](https://archive.is/Dyad7).)**​  \n“**[**Top Psychiatrists Call for a Greater Focus on Ceasing Medication**](https://www.nytimes.com/2026/05/01/science/psychiatry-kennedy-ssris-maha-antidepressants.html?unlocked_article_code=1.f1A.oMD4.100Azx1QS2Pw&smid=url-share)**”** by [Ellen Barry](https://www.nytimes.com/by/ellen-barry) (_New York Times_) ([Alternate link](https://archive.is/WWpfw).)  \n​  \nOne excerpt from the latter:  \n​  \n“_Various efforts within the psychopharmacology society aim to make deprescribing part of regular medical practice. One group is proposing the creation of a new insurance code so that doctors can be reimbursed for helping patients get off medications. Another is developing a clinical tool to help doctors ascertain whether a patient is a good candidate for deprescribing.”_",
+      "original_url": "https://www.nytimes.com/2026/04/28/health/depression-at-home-brain-stimulation-fda.html?unlocked_article_code=1.elA.JmyB.KYFF1RX1ElVY&smid=em-share",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/2026/04/28/health/depression-at-home-brain-stimulation-fda.html?unlocked_article_code=1.elA.JmyB.KYFF1RX1ElVY&smid=em-share"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nytimes.com/by/rachel-e-gross"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.is/Dyad7"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nytimes.com/2026/05/01/science/psychiatry-kennedy-ssris-maha-antidepressants.html?unlocked_article_code=1.f1A.oMD4.100Azx1QS2Pw&smid=url-share"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nytimes.com/by/ellen-barry"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.is/WWpfw"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“\\[Michael Levin\\] agrees with the plant neurobiologists that neurons are overrated, and that other cells can do what neurons do, just more slowly. ‘Whenever I’m at a conference with neuroscientists, I like to ask them to define a neuron,’ he told me. ‘They list maybe five things neurons can do, and I point out that every cell in the body can do those things.’ By which he means, and has demonstrated, that all cells can communicate (both electrically and chemically), form networks, and store information. ‘I’m not denigrating neuroscience,’ he said. ‘I’m saying neuroscience is widely applicable way beyond neurons. Neuroscience is no more about neurons than computer science is about your laptop.’ The term ‘plant neurobiology’ does not offend him.” — Michael Pollan, A World Appears * * * You can complement this edition of 5-Bullet Friday with a new episode of the “How to Simplify Your Life” miniseries on the podcast, featuring advice from Anne Lamott, Claire Hughes Johnson, David Yarrow, and Diana Chapman. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Michael Pollan, A World Appears * * * You can complement this edition of 5-Bullet Friday with a new episode of the “How to Simplify Your Life” miniseries on the podcast, featuring advice from Anne Lamott, Claire Hughes Johnson, David Yarrow, and Diana Chapman. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://tim.blog/2026/01/21/dr-michael-levin/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2026/01/21/dr-michael-levin/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/06/28/michael-pollan-this-is-your-mind-on-plants/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/World-Appears-Journey-into-Consciousness/dp/198488199X/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/05/06/how-to-simplify-your-life-3/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,146 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Song I’m waking up to",
+      "category": "music",
+      "title": "Mindjer dôce mel",
+      "creator": "Eneida Marta",
+      "note": "([Spotify](https://open.spotify.com/track/4vcOCbnDKDxIi4apdeP4zl?si=8bfaa73c7ee048a9), [YouTube](https://www.youtube.com/watch?v=NRxXG0bxbKw)) by [Eneida Marta](https://www.eneidamartamusic.com/index-EN.html) ([@eneida\\_marta](https://www.instagram.com/eneida_marta/)).",
+      "original_url": "https://open.spotify.com/track/4vcOCbnDKDxIi4apdeP4zl?si=8bfaa73c7ee048a9",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://open.spotify.com/track/4vcOCbnDKDxIi4apdeP4zl?si=8bfaa73c7ee048a9"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/4vcOCbnDKDxIi4apdeP4zl?si=8bfaa73c7ee048a9"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=NRxXG0bxbKw"
+        },
+        {
+          "type": "other",
+          "url": "https://www.eneidamartamusic.com/index-EN.html"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/eneida_marta/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "How Podcaster Andrew Huberman Got America to Care About Science",
+      "creator": "Jamie Ducharme for TIME_",
+      "note": "for _TIME_.",
+      "original_url": "https://time.com/6290594/andrew-hubman-lab-podcast-interview/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://time.com/6290594/andrew-hubman-lab-podcast-interview/"
+        },
+        {
+          "type": "other",
+          "url": "https://time.com/author/jamie-ducharme/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading for a second and third time (short)",
+      "category": "article",
+      "title": "Blood from the shoulder of Pallas",
+      "creator": null,
+      "note": "For those who don’t recognize [_The Watchmen_](https://www.amazon.com/Watchmen-Alan-Moore/dp/1401245250), it is considered the _Citizen Kane_ of graphic novels. This excerpt is, I think, a beautiful reminder of how the mystical and measurable can intermingle.",
+      "original_url": "https://www.reddit.com/r/Superbowl/comments/5xy94s/blood_from_the_shoulder_of_pallas_a_lengthy_text/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.reddit.com/r/Superbowl/comments/5xy94s/blood_from_the_shoulder_of_pallas_a_lengthy_text/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Watchmen-Alan-Moore/dp/1401245250"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Audiobook I’m listening to",
+      "category": "audiobook",
+      "title": "The Hitchhiker’s Guide to the Galaxy",
+      "creator": "Douglas Adams, narrated by the one and only Stephen Fry",
+      "note": ", narrated by the one and only [Stephen Fry](https://www.stephenfry.com/). Stephen Fry makes this audiobook incredible. It’s one of the best voice performances I’ve ever heard. Like many people, I’d come across this book now and again for decades, but I was turned off by the goofy cover. Shame on me, but… perhaps it was perfect that I procrastinated until finding the audiobook, which has been great for laughs and smiles.",
+      "original_url": "https://www.audible.com/pd/The-Hitchhikers-Guide-to-the-Galaxy-Audiobook/B002VA9SWS",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.audible.com/pd/The-Hitchhikers-Guide-to-the-Galaxy-Audiobook/B002VA9SWS"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Douglas_Adams"
+        },
+        {
+          "type": "other",
+          "url": "https://www.stephenfry.com/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "What I’m sipping on cheat day",
+      "category": "other",
+      "title": "Barr Hill Gin",
+      "creator": null,
+      "note": "From the description: “Barr Hill Gin is distilled once in our custom-built, botanical extraction still with hand-crushed, organic juniper and then finished with raw honey from our region. The raw honey contributes botanical depth from the countless wildflowers foraged by the bees. How do we extract such complexity from simple raw materials? Our secrets are kept in the hive.”",
+      "original_url": "https://www.barrhill.com/products/barr-hill-gin",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.barrhill.com/products/barr-hill-gin"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“HAPPINESS. — A butterfly, which when pursued, seems always just beyond your grasp; but if you sit down quietly, may alight upon you.” — L. in The Daily Crescent (June, 1848) (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my appearance on the Huberman Lab podcast, my video on mastering cheat days, and this list of some of my favorite and most impactful reads. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "A butterfly, which when pursued, seems always just beyond your grasp; but if you sit down quietly, may alight upon you.” — L. in The Daily Crescent",
+      "note": null,
+      "original_url": "https://ctt.ec/AIkBK",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://ctt.ec/AIkBK"
+        },
+        {
+          "type": "other",
+          "url": "https://hubermanlab.com/tim-ferriss-how-to-learn-better-and-create-your-best-future/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=PsGkGrUQYys"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/01/07/tim-ferriss-reading-recommendations-2021/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

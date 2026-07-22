@@ -6,7 +6,119 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Uber Creator Invents New Cryptocurrency—And Wants Your Help Making It Reality",
+      "creator": null,
+      "note": "from Fortune. I don’t follow most crypto and blockchain chatter, but I am following this one exceptionally closely. If you want to check out the Uber co-founder’s new site directly, you can visit [Eco.com](https://el2.fourhourmail.com/c/mvu8n09oou5h9zn3z/opfkhq/aHR0cHM6Ly9lY28uY29tLyNsZWFybg==).",
+      "original_url": "https://el2.fourhourmail.com/c/mvu8n09oou5h9zn3z/78i7h8/aHR0cDovL2ZvcnR1bmUuY29tLzIwMTgvMDMvMDEvYml0Y29pbi11YmVyLWNyeXB0b2N1cnJlbmN5LWVjby1nYXJyZXR0LWNhbXAvPz1tcGVzYQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5h9zn3z/78i7h8/aHR0cDovL2ZvcnR1bmUuY29tLzIwMTgvMDMvMDEvYml0Y29pbi11YmVyLWNyeXB0b2N1cnJlbmN5LWVjby1nYXJyZXR0LWNhbXAvPz1tcGVzYQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5h9zn3z/opfkhq/aHR0cHM6Ly9lY28uY29tLyNsZWFybg=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "New person I’m following on social —",
+      "category": "other",
+      "title": "Frans Lanting on Instagram",
+      "creator": null,
+      "note": "Here is [the pic and description](https://el2.fourhourmail.com/c/mvu8n09oou5h9zn3z/pnceh9/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JnTTZfdWtuYl9CLz90YWtlbi1ieT1mcmFuc2xhbnRpbmc=) that caught my attention.",
+      "original_url": "https://el2.fourhourmail.com/c/mvu8n09oou5h9zn3z/zvtghn/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9mcmFuc2xhbnRpbmcv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5h9zn3z/zvtghn/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9mcmFuc2xhbnRpbmcv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5h9zn3z/pnceh9/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JnTTZfdWtuYl9CLz90YWtlbi1ieT1mcmFuc2xhbnRpbmc="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Gadget I’m experimenting with —",
+      "category": "other",
+      "title": "DCT ProFlex",
+      "creator": null,
+      "note": "for strengthening, prehabbing, and rehabbing my lower legs and ankles, especially the right ankle, in which I recently tore two ligaments ([disgusting pics here](https://el2.fourhourmail.com/c/mvu8n09oou5h9zn3z/60aeh8/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JjdFE5OHBsWjFkLz90YWtlbi1ieT10aW1mZXJyaXNz)). I learned about this device from the amazing [Ryan Flaherty, nicknamed the “savant of speed.](https://el2.fourhourmail.com/c/mvu8n09oou5h9zn3z/kmbmh6/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzA1LzA3L3J5YW4tZmxhaGVydHkv)”",
+      "original_url": "https://el2.fourhourmail.com/c/mvu8n09oou5h9zn3z/xksph6/aHR0cDovL2R5bmFtaWNjb250cmFjdGlvbnRlY2huaXF1ZS5jb20vZGN0LXByb2ZsZXgv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5h9zn3z/xksph6/aHR0cDovL2R5bmFtaWNjb250cmFjdGlvbnRlY2huaXF1ZS5jb20vZGN0LXByb2ZsZXgv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5h9zn3z/60aeh8/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JjdFE5OHBsWjFkLz90YWtlbi1ieT10aW1mZXJyaXNz"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5h9zn3z/kmbmh6/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzA1LzA3L3J5YW4tZmxhaGVydHkv"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Most popular post on Instagram —",
+      "category": "other",
+      "title": "the graffiti says it all…",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/mvu8n09oou5h9zn3z/52hvh7/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JnWFo1ZkJGN1N0Lz90YWtlbi1ieT10aW1mZXJyaXNz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5h9zn3z/52hvh7/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JnWFo1ZkJGN1N0Lz90YWtlbi1ieT10aW1mZXJyaXNz"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Humor is what happens when we're told the truth quicker and more directly than we're used to.” - George Saunders And as always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know. Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it. Have a wonderful weekend, all! Tim [](https://el2.fourhourmail.com/c/mvu8n09oou5h9zn3z/q3i8h7/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. Seneca and Marcus, 60 29th Street, San Francisco, California 94110, United States",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/mvu8n09oou5h9zn3z/2ou2ho/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5h9zn3z/2ou2ho/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5h9zn3z/gvfnh5/aHR0cDovL2dvLmZvdXJob3Vyd29ya3dlZWsuY29tLzEweC1vdXRwdXQv"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "http://el2.fourhourmail.com/u/mvu8n09oou5h9zn3z"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5h9zn3z/3wcphk/aHR0cDovL2ZvdXJob3Vyd29ya3dlZWsuY29tL2Jsb2c="
+        }
+      ]
+    }
+  ]
 }

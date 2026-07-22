@@ -6,7 +6,104 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m “reading” (as an audiobook) —",
+      "category": "audiobook",
+      "title": "Priceless: How I Went Undercover to Rescue the World's Stolen Treasures",
+      "creator": "Robert K",
+      "note": "Wittman ([@robertwittman](https://el2.fourhourmail.com/c/o8uvgq544hqhn4p05/zvtghn/aHR0cHM6Ly90d2l0dGVyLmNvbS9yb2JlcnR3aXR0bWFu)) and‎ John Shiffman ([@johnshiffman](https://el2.fourhourmail.com/c/o8uvgq544hqhn4p05/pnceh9/aHR0cHM6Ly90d2l0dGVyLmNvbS9qb2huc2hpZmZtYW4=)). This fast read was recommended to me by a friend in the intelligence community. I finished the book in three days. There’s much more to it, but here is the description from [Publisher’s Weekly](https://el2.fourhourmail.com/c/o8uvgq544hqhn4p05/xksph6/aHR0cHM6Ly93d3cucHVibGlzaGVyc3dlZWtseS5jb20vcHcvaG9tZS9pbmRleC5odG1s): “Former FBI agent Wittman, who created the agency's Art Crime Team and pursued a lifelong interest in antiques and collectibles, goes undercover to hobnob with infamous art thieves. The ineffective, the stupid, the clever, and the dangerous; Wittman befriends them all, in order to betray them, a fact that causes him a certain amount of angst. Among other challenges are bumbling agency bureaucrats and government turf wars when attempting to recover stolen art abroad. A fatal car accident that Wittman was involved in early in his career shaped his perspective: ‘I understood that because someone made a mistake in judgment, it didn't make him evil. My newfound ability to see both sides of a situation-to think and feel like the accused-was invaluable.’ Wittman keeps the narrative interesting, and reveals himself as something of a renegade: ‘Under the FBI's strict undercover rules, you're only supposed to work one case at a time. I never followed that rule.’ Keep the lies to a minimum, he advises, and avoid working in your hometown.”",
+      "original_url": "https://el2.fourhourmail.com/c/o8uvgq544hqhn4p05/opfkhq/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9QcmljZWxlc3MtVW5kZXJjb3Zlci1SZXNjdWUtV29ybGRzLVRyZWFzdXJlcy9kcC8wMzA3NDYxNDgzLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqhn4p05/opfkhq/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9QcmljZWxlc3MtVW5kZXJjb3Zlci1SZXNjdWUtV29ybGRzLVRyZWFzdXJlcy9kcC8wMzA3NDYxNDgzLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqhn4p05/zvtghn/aHR0cHM6Ly90d2l0dGVyLmNvbS9yb2JlcnR3aXR0bWFu"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqhn4p05/pnceh9/aHR0cHM6Ly90d2l0dGVyLmNvbS9qb2huc2hpZmZtYW4="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqhn4p05/xksph6/aHR0cHM6Ly93d3cucHVibGlzaGVyc3dlZWtseS5jb20vcHcvaG9tZS9pbmRleC5odG1s"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Hang Massive (hang drum duo)",
+      "creator": null,
+      "note": "](https://el2.fourhourmail.com/c/o8uvgq544hqhn4p05/60aeh8/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj14azNCdk5MZU5ndw==)  \nAnd separately...  \n[”Vivrant Thing” by Q-Tip](https://el2.fourhourmail.com/c/o8uvgq544hqhn4p05/kmbmh6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1oWVRqQmhwbFRHWQ==)",
+      "original_url": "https://el2.fourhourmail.com/c/o8uvgq544hqhn4p05/60aeh8/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj14azNCdk5MZU5ndw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqhn4p05/60aeh8/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj14azNCdk5MZU5ndw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqhn4p05/kmbmh6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1oWVRqQmhwbFRHWQ=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Two things you might have missed during the holidays —",
+      "category": "other",
+      "title": "Terry Crews",
+      "creator": null,
+      "note": "and [Tim Urban](https://el2.fourhourmail.com/c/o8uvgq544hqhn4p05/2ou2ho/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzExLzMwL21hbmFnaW5nLXByb2NyYXN0aW5hdGlvbi1wcmVkaWN0aW5nLXRoZS1mdXR1cmUtYW5kLWZpbmRpbmctaGFwcGluZXNzLw==). Recorded in December, they are _still_ receiving hundreds of thousands of downloads each month. Both contain equal parts hilarity, tactical advice, and profound a-ha moments. It was a gift to be part of these.",
+      "original_url": "https://el2.fourhourmail.com/c/o8uvgq544hqhn4p05/52hvh7/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzEyLzIwL3RlcnJ5LWNyZXdzLWhvdy10by1oYXZlLWRvLWFuZC1iZS1hbGwteW91LXdhbnQv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqhn4p05/52hvh7/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzEyLzIwL3RlcnJ5LWNyZXdzLWhvdy10by1oYXZlLWRvLWFuZC1iZS1hbGwteW91LXdhbnQv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqhn4p05/2ou2ho/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzExLzMwL21hbmFnaW5nLXByb2NyYXN0aW5hdGlvbi1wcmVkaWN0aW5nLXRoZS1mdXR1cmUtYW5kLWZpbmRpbmctaGFwcGluZXNzLw=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“The problem is not to find the answer, it's to face the answer.” \\- Terence McKenna Have a wonderful weekend, all! Tim [](https://el2.fourhourmail.com/c/o8uvgq544hqhn4p05/q3i8h7/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. Seneca and Marcus, 60 29th Street, San Francisco, California 94110, United States",
+      "creator": null,
+      "note": null,
+      "original_url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqhn4p05/gvfnh5/aHR0cDovL2dvLmZvdXJob3Vyd29ya3dlZWsuY29tLzEweC1vdXRwdXQv"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "http://el2.fourhourmail.com/u/o8uvgq544hqhn4p05"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqhn4p05/3wcphk/aHR0cDovL2ZvdXJob3Vyd29ya3dlZWsuY29tL2Jsb2c="
+        }
+      ]
+    }
+  ]
 }

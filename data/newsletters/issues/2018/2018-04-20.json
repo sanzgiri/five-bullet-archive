@@ -6,7 +6,127 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Amazon",
+      "creator": null,
+      "note": ", [other options](https://el2.fourhourmail.com/c/wvunxemrragh4l827/opfkhq/aHR0cDovL3d3dy5kZWFsdG1vdmllLmNvbS8=))** directed by [Luke Korem](https://el2.fourhourmail.com/c/wvunxemrragh4l827/zvtghn/aHR0cHM6Ly90d2l0dGVyLmNvbS9sdWtla29yZW0=). This absolutely blew my mind, and I don’t want to spoil it with description. Trust me and watch [the short trailer here](https://el2.fourhourmail.com/c/wvunxemrragh4l827/pnceh9/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1GX19EUTFydVljaw==). Truly amazing. I can’t remember the last time I finished a documentary, only to want to immediately watch it again. I also can’t remember a doc that made me as emotional as this did, pushing me from laughter to tears. It’s a masterful visual biography.",
+      "original_url": "https://el2.fourhourmail.com/c/wvunxemrragh4l827/78i7h8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9ncC9wcm9kdWN0L0IwNzZIRFhNWDgv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrragh4l827/78i7h8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9ncC9wcm9kdWN0L0IwNzZIRFhNWDgv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrragh4l827/opfkhq/aHR0cDovL3d3dy5kZWFsdG1vdmllLmNvbS8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrragh4l827/zvtghn/aHR0cHM6Ly90d2l0dGVyLmNvbS9sdWtla29yZW0="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrragh4l827/pnceh9/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1GX19EUTFydVljaw=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Cooperation over Competition: Statement on Open Science for Psychedelic Medicines and Practices",
+      "creator": null,
+      "note": "This is incredibly important, as there are rumors (credible, based on my sources) that at least one for-profit startup is using exclusive manufacturing agreements to prevent academic, non-profit researchers from furthering studies and phase 3 trials with psilocybin. Don’t miss the signatures at the end of the article.",
+      "original_url": "https://el2.fourhourmail.com/c/wvunxemrragh4l827/xksph6/aHR0cDovL2NoYWNydW5hLm5ldC9jb29wZXJhdGlvbi1vdmVyLWNvbXBldGl0aW9uLXN0YXRlbWVudC1vbi1vcGVuLXNjaWVuY2UtZm9yLXBzeWNoZWRlbGljLW1lZGljaW5lcy1hbmQtcHJhY3RpY2VzLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrragh4l827/xksph6/aHR0cDovL2NoYWNydW5hLm5ldC9jb29wZXJhdGlvbi1vdmVyLWNvbXBldGl0aW9uLXN0YXRlbWVudC1vbi1vcGVuLXNjaWVuY2UtZm9yLXBzeWNoZWRlbGljLW1lZGljaW5lcy1hbmQtcHJhY3RpY2VzLw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "New food condiment I’m putting on everything —",
+      "category": "other",
+      "title": "The Salt Lick BBQ garlic dry rub",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/wvunxemrragh4l827/60aeh8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TYWx0LUxpY2stQkJRLUdhcmxpYy1EcnkvZHAvQjAwNVdEQTk5Mi8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrragh4l827/60aeh8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TYWx0LUxpY2stQkJRLUdhcmxpYy1EcnkvZHAvQjAwNVdEQTk5Mi8="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Asheville Percussion Festival 2017 with David Kuckhermann on Handpan",
+      "creator": null,
+      "note": "(Hat tip to [@SoniaHendrix](https://el2.fourhourmail.com/c/wvunxemrragh4l827/52hvh7/aHR0cHM6Ly90d2l0dGVyLmNvbS9Tb25pYUhlbmRyaXg=)!) David is amazing, as are his compositions. I’d love to meet him sometime. I know very little about music, so I’m taking a stab at learning the basic vocabulary. This video is aspirational, as I gravitate to percussion. For another impressive, but very different, species of drummer, check out [Dave Elitch](https://el2.fourhourmail.com/c/wvunxemrragh4l827/2ou2ho/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JlR09ZTXZsY2NnLz90YWtlbi1ieT1kYXZlZWxpdGNo). Dave, I need more lessons! I’m a bad student! #moreslowly #doitagain",
+      "original_url": "https://el2.fourhourmail.com/c/wvunxemrragh4l827/kmbmh6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1UX1VyT3l1SE1oVQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrragh4l827/kmbmh6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1UX1VyT3l1SE1oVQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrragh4l827/52hvh7/aHR0cHM6Ly90d2l0dGVyLmNvbS9Tb25pYUhlbmRyaXg="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrragh4l827/2ou2ho/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JlR09ZTXZsY2NnLz90YWtlbi1ieT1kYXZlZWxpdGNo"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Everything we call real is made of things that cannot be regarded as real.” \\- Niels Bohr, physicist who made foundational contributions to the understanding of atomic structure and quantum theory, for which he received the Nobel Prize in 1922. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim [](https://el2.fourhourmail.com/c/wvunxemrragh4l827/93tzhn/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. Seneca and Marcus, 60 29th Street, San Francisco, California 94110, United States",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/wvunxemrragh4l827/q3i8h7/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTmllbHNfQm9ocg==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrragh4l827/q3i8h7/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTmllbHNfQm9ocg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrragh4l827/gvfnh5/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrragh4l827/3wcphk/aHR0cDovL2dvLmZvdXJob3Vyd29ya3dlZWsuY29tLzEweC1vdXRwdXQv"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "http://el2.fourhourmail.com/u/wvunxemrragh4l827"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrragh4l827/43avhe/aHR0cDovL2ZvdXJob3Vyd29ya3dlZWsuY29tL2Jsb2c="
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,143 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching on YouTube (free) —",
+      "category": "video",
+      "title": "HUMAN Extended Version, Volume 1",
+      "creator": null,
+      "note": "Sincere thanks to subscriber [Dave Thackeray](https://twitter.com/DaveThackeray) for [recommending this film on Twitter](https://twitter.com/DaveThackeray/status/1185284571820113920). It is beautiful, jolting, heart-melting, and brutal... all at once. The footage and stories blend into a powerful visual journey that evoked nearly every imaginable emotion in me. Here’s part of the description: “What is it that makes us human? Is it that we love, that we fight? That we laugh? Cry? Our curiosity? The quest for discovery? Driven by these questions, filmmaker and artist [Yann Arthus-Bertrand](https://en.wikipedia.org/wiki/Yann_Arthus-Bertrand) ([@yannarthusbertrand](https://www.instagram.com/yannarthusbertrand/)) spent three years collecting real-life stories from 2,000 women and men in 60 countries. Working with a dedicated team of translators, journalists and cameramen, Yann captures deeply personal and emotional accounts of topics that unite us all….” For more from project HUMAN, [check out their YouTube channel](https://www.youtube.com/user/HUMANthemovie2015/videos?view=0&sort=p&flow=grid).",
+      "original_url": "https://www.youtube.com/watch?v=vdb4XGVTHkE",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=vdb4XGVTHkE"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/DaveThackeray"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/DaveThackeray/status/1185284571820113920"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Yann_Arthus-Bertrand"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/yannarthusbertrand/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/user/HUMANthemovie2015/videos?view=0&sort=p&flow=grid"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Myth I’m considering in modern-day circumstances —",
+      "category": "other",
+      "title": "@nntaleb",
+      "creator": null,
+      "note": "Nassim Taleb ([@nntaleb](https://twitter.com/nntaleb)) has a related book of aphorisms titled [_The Bed of Procrustes_](https://www.amazon.com/Bed-Procrustes-Philosophical-Practical-Aphorisms-ebook/dp/B004C43F9S/). He explains the title thusly: “Every aphorism here is about a Procrustean bed of sorts — we humans, facing limits of knowledge, and things we do not observe, the unseen and the unknown, resolve tension by squeezing life and the world into crisp commoditized ideas, reductive categories, specific vocabularies, and prepackaged narratives, which, on the occasion, has explosive consequences.”",
+      "original_url": "https://twitter.com/nntaleb",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://twitter.com/nntaleb"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Bed-Procrustes-Philosophical-Practical-Aphorisms-ebook/dp/B004C43F9S/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Device I’m enjoying",
+      "category": "other",
+      "title": "Sonos Amp",
+      "creator": null,
+      "note": "This wireless amplifier was a gift from [Matt Mullenweg](https://tim.blog/2015/02/09/matt-mullenweg/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@photomatt](https://twitter.com/photomatt)). It nailed a wonderful trifecta for me: 1) it allowed me to resurrect some old but very cool wired speakers, 2) it allowed me to toss about 50 pounds of broken devices associated with those speakers, and 3) in doing so, it created a beautiful corner where I could put art and flowers in place of a garbage pile of broken stuff. [Here’s a picture—see the nook under the laptop—of what it looks like in my kitchen](https://www.instagram.com/p/B0gknQuH7Kx/). Thank you, Matthew-san!",
+      "original_url": "https://www.sonos.com/en-us/shop/amp.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.sonos.com/en-us/shop/amp.html"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/02/09/matt-mullenweg/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/photomatt"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/B0gknQuH7Kx/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Model hallucinations",
+      "creator": "Philip Gerrans and Chris Letheby",
+      "note": "and [Chris Letheby](https://researchers.adelaide.edu.au/profile/christopher.letheby) ([@chrisletheby](https://twitter.com/chrisletheby)) (_Aeon_). Thanks to [Jason Silva](https://tim.blog/2014/05/14/jason-silva-brain-games/) ([@JasonSilva](https://twitter.com/JasonSilva)) for bringing this to my attention. This entire piece is worth reading, but here are a few paragraphs that really jumped out at me:\n\n> How does this story explain the therapeutic effects of psychedelics? As we’ve seen, the self-model is an integrated bundle of predictions – and lots of these predictions, built up over a lifetime of experience, can make us deeply stressed and unhappy. A person with social anxiety expects and experiences the world to be hostile and uncontrollable because she feels vulnerable and unable to cope. The self-model that produces these feelings magnifies the adversity of her social world. Similarly, people with depression anticipate and recollect failure and unhappiness, and attribute it to their own inadequacy. Their self-model makes it hard to access positive experiences, and often feeds on itself in a negative downward spiral. Because our brains are endlessly trying to predict what’s next and reduce the likelihood of error, it’s no wonder that our expectations of ourselves tend to be self-fulfilling.  \n>   \n> Theoretically we should be able to re-engineer the mechanisms of our self-model, and so change the way we organise and interpret our experience. The problem is that the self-model functions in a way that’s quite similar to the lenses of our eyes. We see with them and through them, but it’s almost impossible to see the lenses themselves, to really appreciate how they affect the signals that reach us, let alone take them off if they are unhelpful. In general, the mind presents us with the finished product in the form of images, not the modelling processes themselves. So too with the self: for better or worse, we feel like unified entities, not complicated and precarious hierarchical models that track and predict our organismic responses to what’s happening.\n\n\\[...\\]\n\n> The second effect is more subtle. It concerns the way that psychedelics can enlighten us about the processes behind our own subjectivity. When the self falls apart and is subsequently rebuilt, the role of the self-model seems to become visible to its possessor. Yes, this offers a psychological reprieve – but more importantly, it draws attention to the difference between a world seen with and without the self. For an anxious or depressed person, psychedelics make it possible to appreciate the intermediate, representational role of the self-model. Ego dissolution offers vivid experiential proof, not only that things can be different, but that the self that conditions experience is just a heuristic, not an unchangeable, persisting thing.",
+      "original_url": "https://aeon.co/amp/essays/psychedelics-work-by-violating-our-models-of-self-and-the-world",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://aeon.co/amp/essays/psychedelics-work-by-violating-our-models-of-self-and-the-world"
+        },
+        {
+          "type": "other",
+          "url": "https://researchers.adelaide.edu.au/profile/philip.gerrans"
+        },
+        {
+          "type": "other",
+          "url": "https://researchers.adelaide.edu.au/profile/christopher.letheby"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/chrisletheby"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/05/14/jason-silva-brain-games/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/JasonSilva"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“The purpose of life, as far as I can tell, is to find a mode of being that’s so meaningful that the fact that life is suffering is no longer relevant.”— Jordan Peterson (@jordanbpeterson)",
+      "creator": "Jordan Peterson",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Jordan_Peterson",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Jordan_Peterson"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/jordanbpeterson"
+        }
+      ]
+    }
+  ]
 }

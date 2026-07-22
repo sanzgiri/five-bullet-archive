@@ -6,7 +6,123 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Winter jacket that’s saving my ass",
+      "category": "other",
+      "title": "Stio’s Environ XT Jacket",
+      "creator": null,
+      "note": "I recently replaced my old ski jacket/shell with this, and I’m thrilled that I did. It’s lightweight, durable, and has made even windy negative temperatures easy to handle with a proper base layer and midlayer. The Stio Environ XT is one of _SKI Magazine_’s “Best Men’s Ski Jackets of 2023,” and I chose Afternoon Azure for color. Here’s the description from the website: “Primed and ready for sidecountry hits, all-day tours, and storm laps in the resort, this jacket is for the minimalist who never uses his powder skirt and the purist who knows exactly what he needs.”",
+      "original_url": "https://www.stio.com/products/mens-environ-xt-jacket",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.stio.com/products/mens-environ-xt-jacket"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Audiobook I’m loving",
+      "category": "audiobook",
+      "title": "Lonesome Dove",
+      "creator": "Larry McMurtry",
+      "note": ". This is one of the best audiobooks I’ve ever found. The dialogue is burst-out-loud funny, and the writing is spectacularly visual. I’d heard the name _Lonesome Dove_ many times over the years, and I finally dove in after a friend mentioned that it’s his all-time favorite book. Here’s the description: “A love story, an adventure, and an epic of the frontier, Larry McMurtry’s Pulitzer Prize-winning classic, _Lonesome Dove_, is the grandest novel ever written about the last defiant wilderness of America. Two retired Texas Rangers, Captains Woodrow Call and Augustus ‘Gus’ McCrae, lead a cattle drive from the small town of Lonesome Dove to the unsettled Montana territories. On their grueling journey, they are joined by Joshua Deets, a Black scout and former Ranger; Jake Spoon, a fugitive; and Newt Dobbs, a 17-year-old boy who may have family ties to Call.”\n\nEven if you end up reading the text, listen to 30–60 minutes of the audiobook for narrator [Lee Horsley](https://en.wikipedia.org/wiki/Lee_Horsley)’s accents and performance. Warning: Gus can be high-volume, as he’s a loudmouth in the book, and there is one tough stretch via audio about one-third in. I was tempted to put it down briefly, as was a friend, so just power through or switch to text. It evens out after that and simply gets better and better with each short chapter.",
+      "original_url": "https://www.audible.com/pd/Lonesome-Dove-Audiobook/B07BGQ2ZQ3",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.audible.com/pd/Lonesome-Dove-Audiobook/B07BGQ2ZQ3"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Larry_McMurtry"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Lee_Horsley"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Documentary I’m watching",
+      "category": "video",
+      "title": "David Hockney: The Art of Seeing",
+      "creator": null,
+      "note": "Here’s the description: “[David Hockney](https://en.wikipedia.org/wiki/David_Hockney), widely considered to be Britain’s best-loved living artist, has taken over the Royal Academy \\[RA\\] in London with his exhibition A Bigger Picture, made up of recent works depicting the landscape of his native Yorkshire. In this programme, Andrew Marr, a friend of Hockney’s and an amateur painter himself, is in conversation with the artist, both at his home in Bridlington and in the galleries of the RA.”",
+      "original_url": "https://www.youtube.com/watch?v=Cdqch3-D94A",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=Cdqch3-D94A"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/David_Hockney"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Article I’m rereading",
+      "category": "article",
+      "title": "Taming the Mammoth: Why You Should Stop Caring What Other People Think",
+      "creator": null,
+      "note": "This remains one of the most empowering articles I’ve read in recent years. It’s hilarious and amazing. For double trouble, pair it with [my interview with the author](https://tim.blog/2017/11/30/managing-procrastination-predicting-the-future-and-finding-happiness/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), Tim Urban ([@waitbutwhy](https://twitter.com/waitbutwhy)).",
+      "original_url": "https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/11/30/managing-procrastination-predicting-the-future-and-finding-happiness/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/waitbutwhy"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I'm pondering",
+      "category": "quote",
+      "title": "“The very secret of life for me, I believed, was to maintain in the midst of rushing events an inner tranquility.” — Margaret Bourke-White (Click here to share on Twitter) * * * You can complement this edition of 5-Bullet Friday with my interview with bestselling author Neil Gaiman, who wrote and narrated another of my favorite audiobooks, The Graveyard Book_. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Margaret Bourke-White",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Margaret_Bourke-White",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Margaret_Bourke-White"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/biut5"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/03/28/neil-gaiman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/03/28/neil-gaiman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.audible.com/pd/The-Graveyard-Book-Audiobook/B002V8DEKC?"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

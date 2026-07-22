@@ -6,7 +6,205 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "book",
+      "title": "The Moth Presents Occasional Magic: True Stories About Defying the Impossible",
+      "creator": null,
+      "note": "I love [The Moth](https://themoth.org/) ([@themoth](https://twitter.com/themoth)), and you get a snapshot of pure genius and pure emotion in this collection of short stories (i.e., hit talks). I’ve been reading 1–3 chapters per night, right before bed. Here’s the description: “Carefully selected by the creative minds at storytelling phenomenon The Moth, and adapted to the page to preserve the raw energy of stories told live, onstage and without notes, Occasional Magic features voices familiar and new. Inside, storytellers from around the world share times when, in the face of seemingly impossible situations, they found moments of beauty, wonder, and clarity that shed light on their lives and helped them find a path forward. From a fifteen-year-old saving a life in Chicago to a mother of triplets trekking to the North Pole to a ninety-year-old Russian man recalling his standoff with the KGB, these storytellers attest to the variety and richness of the human experience, and the shared threads that connect us all. With honesty and humor, they stare down their fear, embrace uncertainty, and encourage us all to be more authentic, vulnerable, and alive.”",
+      "original_url": "https://www.amazon.com/dp/B07DZHV2ZX/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/dp/B07DZHV2ZX/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1"
+        },
+        {
+          "type": "other",
+          "url": "https://themoth.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/themoth"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Film I’m watching —",
+      "category": "video",
+      "title": "You Cannot Kill David Arquette",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/You-Cannot-Kill-David-Arquette/dp/B08DKRHKGY/), [YouTube](https://www.youtube.com/watch?v=8rzmyeryahQ), [Hulu](https://www.hulu.com/movie/you-cannot-kill-david-arquette-ec161115-8a1f-4271-9d83-88c3f2c21d2d?d=Gracenote&cmp=rt_where_to_watch&content_id=1000146449), [iTunes](https://itunes.apple.com/us/movie/you-cannot-kill-david-arquette/id1523870285)). This one is hard to categorize. I found it bizarre, hilarious, and uplifting. The trailer is worth 1,000 words, so click [here](https://www.youtube.com/watch?v=K5Ujq07y8Rk&t=84s) for a brain tickle of WTFs. The official description: “Branded as the most hated man in wrestling after winning a highly controversial WCW World Heavyweight Championship in 2000, actor [David Arquette](https://en.wikipedia.org/wiki/David_Arquette) \\[[@davidarquette](https://twitter.com/davidarquette)\\] attempts a rocky return to the sport that stalled his promising Hollywood career. Dangerously determined to redeem his reputation and reclaim his self-respect, Arquette will stop at nothing to earn his place in professional wrestling.”",
+      "original_url": "https://www.amazon.com/You-Cannot-Kill-David-Arquette/dp/B08DKRHKGY/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/You-Cannot-Kill-David-Arquette/dp/B08DKRHKGY/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/You-Cannot-Kill-David-Arquette/dp/B08DKRHKGY/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=8rzmyeryahQ"
+        },
+        {
+          "type": "other",
+          "url": "https://www.hulu.com/movie/you-cannot-kill-david-arquette-ec161115-8a1f-4271-9d83-88c3f2c21d2d?d=Gracenote&cmp=rt_where_to_watch&content_id=1000146449"
+        },
+        {
+          "type": "other",
+          "url": "https://itunes.apple.com/us/movie/you-cannot-kill-david-arquette/id1523870285"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=K5Ujq07y8Rk&t=84s"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/David_Arquette"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/davidarquette"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Product that yet again saved my ass —",
+      "category": "other",
+      "title": "Yaktrax",
+      "creator": null,
+      "note": "([official website](https://yaktrax.implus.com/products/traction/yaktrax-walk-ice-shoes), [Amazon](https://www.amazon.com/stores/Yaktrax/page/6A1DA552-1ACD-4668-93BD-1C24EEE18432?ref_=ast_bln)), for modifying normal shoes—or putting hiking boots on steroids—when you need to walk on snow or ice. These are amazing and fit in a jacket pocket when folded up. I bought the basic “[Walk](https://yaktrax.implus.com/products/traction/yaktrax-walk-ice-shoes)” model, but there are many options. They’ve been a lifesaver on slippery sidewalks, slick trails, and asphalt covered in black ice. Yaktrax enabled me to navigate Austin by foot over the last week of deep freeze.",
+      "original_url": "https://yaktrax.implus.com/products/traction/yaktrax-walk-ice-shoes",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://yaktrax.implus.com/products/traction/yaktrax-walk-ice-shoes"
+        },
+        {
+          "type": "other",
+          "url": "https://yaktrax.implus.com/products/traction/yaktrax-walk-ice-shoes"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/stores/Yaktrax/page/6A1DA552-1ACD-4668-93BD-1C24EEE18432?ref_=ast_bln"
+        },
+        {
+          "type": "other",
+          "url": "https://yaktrax.implus.com/products/traction/yaktrax-walk-ice-shoes"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Important video I’m watching —",
+      "category": "video",
+      "title": "A Brief History of 5-MeO-DMT",
+      "creator": "Hamilton Morris",
+      "note": "com/HamiltonMorris)**).** 5-MeO-DMT, sometimes referred to as “toad” or “the God molecule,” is a powerful psychedelic most commonly extracted from the venom glands of the [Sonoran Desert toad](https://en.wikipedia.org/wiki/Colorado_River_toad). For me, the most important part of this presentation begins at 12:45 ([click here to begin at 12:45](https://www.youtube.com/watch?v=O_VYXcdTReQ&t=765)). For the main points I want to underscore, I suggest watching [60 seconds here](https://www.youtube.com/watch?v=O_VYXcdTReQ&t=765), then watching [another three minutes starting around 17:00](https://www.youtube.com/watch?v=O_VYXcdTReQ&t=1020). This video finally burst the dam in me, which led to the next bullet, which turned into a blog post…",
+      "original_url": "https://www.youtube.com/watch?v=O_VYXcdTReQ&feature=youtu.be",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=O_VYXcdTReQ&feature=youtu.be"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/HamiltonMorris"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Colorado_River_toad"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=O_VYXcdTReQ&t=765"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=O_VYXcdTReQ&t=765"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=O_VYXcdTReQ&t=1020"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Blog post I just finished minutes ago —",
+      "category": "article",
+      "title": "An Urgent Plea to Users of Psychedelics: Let’s Consider a More Ethical Menu of Plants and Compounds",
+      "creator": null,
+      "note": "I consider the problems, substitutions, questions, and suggestions in this post incredibly important and incredibly time-sensitive. Thank you for reading and sharing if you can.",
+      "original_url": "https://tim.blog/2021/02/21/urgent-plea-users-of-psychedelics-ethical-plants-compounds/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2021/02/21/urgent-plea-users-of-psychedelics-ethical-plants-compounds/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "El son reggae",
+      "creator": "Les Nubians",
+      "note": "([YouTube](https://www.youtube.com/watch?v=OMShxq3tSrY), [Spotify](https://open.spotify.com/track/7dgQ4X73bWNVAGFfafhga9)) by [Les Nubians](https://en.wikipedia.org/wiki/Les_Nubians) ([@lesnubians](https://www.instagram.com/lesnubians/)).",
+      "original_url": "https://www.youtube.com/watch?v=OMShxq3tSrY",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=OMShxq3tSrY"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=OMShxq3tSrY"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/7dgQ4X73bWNVAGFfafhga9"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Les_Nubians"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/lesnubians/"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Do as little as needed, not as much as possible.”— Henk Kraaijenhof Coach of Merlene Joyce “Queen of the Track” Ottey, who won 23 combined medals at the Olympic games and world championships. Merlene also holds the record for the most Olympic appearances (seven) of any track and field athlete. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful week, all. Much love to you and yours, Tim",
+      "creator": "Henk Kraaijenhof Coach of Merlene Joyce “Queen of the Track” Ottey, who won 23 combined medals at the Olympic games and world championships. Merlene also holds the record for the most Olympic appearances",
+      "note": null,
+      "original_url": "https://helpingthebesttogetbetter.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://helpingthebesttogetbetter.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Merlene_Ottey"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

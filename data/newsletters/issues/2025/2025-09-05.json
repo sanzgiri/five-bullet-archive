@@ -6,7 +6,195 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Device I’m using",
+      "category": "other",
+      "title": "Optimal HRV Reader Version 2.0",
+      "creator": null,
+      "note": "I’m once again tracking my heart-rate variability (HRV), as I’m experimenting with [vagus nerve stimulation](https://tim.blog/2025/08/27/kevin-tracey-vagus-nerve/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit) to improve HRV and other metrics. But not all trackers are created equal. The latest Optimal HRV band enhances reading accuracy and significantly reduces artifacts, ensuring you get the most precise data possible. You can watch my video on HRV training [here](https://www.youtube.com/watch?v=hJFGkTV1HCQ). The [**Morpheus device**](https://trainwithmorpheus.com/) was also recommended to me by several high-level competitive athletes and is used by friends like [Dr. Peter Attia](https://youtu.be/3TClfAvj2-Q?t=970) and performance coach [Andy Galpin](http://youtu.be/mfUO1CaEMBw?t=2369). It seems clearly superior for tracking some types of exercise (e.g., Zone 2), but I found the Optimal HRV forearm band and app much faster and easier for simple morning HRV checks. I have both and plan on using both for different applications.",
+      "original_url": "https://www.optimalhrv.com/product-page/optimal-hrv-monitor",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.optimalhrv.com/product-page/optimal-hrv-monitor"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/08/27/kevin-tracey-vagus-nerve/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=hJFGkTV1HCQ"
+        },
+        {
+          "type": "other",
+          "url": "https://trainwithmorpheus.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/3TClfAvj2-Q?t=970"
+        },
+        {
+          "type": "other",
+          "url": "http://youtu.be/mfUO1CaEMBw?t=2369"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Short highlight video I’m watching",
+      "category": "video",
+      "title": "The Little Giant - Ryuju Nagayama (2025 World Champion)",
+      "creator": null,
+      "note": "](https://www.youtube.com/watch?v=cdxCvuGdmyc)**.** I thought I’d seen all the most explosive judo fighters, and I was wrong. Nagayama’s throws show power and dizzying versatility at the highest level. And, most impressive, his movement is crisp and clean, like a perfect bedsheet at the Four Seasons. From the description: “Nagayama is the 2025 world champion and two-time bronze medalist. He is also an Olympic bronze medalist and 2022 Asian champion. For a long time, Nagayama was one of the most exciting judokas in the world. Despite his small height, he is one of the most powerful athletes in lower weight classes.”",
+      "original_url": "https://www.youtube.com/watch?v=cdxCvuGdmyc",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=cdxCvuGdmyc"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "Psychedelic Therapy Crashed and Burned. MAHA Might Bring It Back",
+      "creator": "John Semley",
+      "note": "(_WIRED_). As the young whippersnappers might say, there’s a lot of tea in this one.",
+      "original_url": "https://www.wired.com/story/psychedelic-therapy-mdma-maha/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.wired.com/story/psychedelic-therapy-mdma-maha/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.wired.com/author/john-semley/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Movie I’m absolutely loving",
+      "category": "video",
+      "title": "KPop Demon Hunters",
+      "creator": null,
+      "note": "I’m late to the party, but better late than never. Now, I’m gonzo. I’ve been force-feeding myself all of the related YouTube videos I can find. This animated action-musical is _everywhere_ and has become Netflix’s [most popular film](https://www.netflix.com/tudum/top10/most-popular) of all time. But I didn’t know any of this until last night. I showed up for my annual full-body MRI (e.g., [Biograph](https://www.biograph.com/) or [Prenuvo](https://prenuvo.com/)) yesterday, and the technician said, “For your viewing, I see you requested _KPop Demon Hunters_,” to which I replied, “What the hell is that?” Then I realized that I’d been punked by my assistant. Nice one. I decided to roll with it, and I’m _so_ glad that I did. It has a 99% audience score [on Rotten Tomatoes](https://www.rottentomatoes.com/m/kpop_demon_hunters). As soon as I finished it, I thought, “Oh, I could easily watch this again tomorrow.” The animation is truly spectacular, and the music is the most earworm-rich that I’ve heard in years.  \n​  \nBut the real magic is story, story, and story. This one is elegantly architected and beautifully polished. If you want to dig under the hood, consider starting with [_The Writer’s Journey_](https://www.amazon.com/Writers-Journey-Anniversary-Mythic-Structure/dp/1615933158/) or [_Save the Cat! Goes to the Movies_](https://www.amazon.com/Save-Cat-Goes-Movies-Screenwriters/dp/1932907351/).  \n​  \nShort description: “K-pop superstars Rumi ([Arden Cho](https://en.wikipedia.org/wiki/Arden_Cho)), Mira ([May Hong](https://en.wikipedia.org/wiki/May_Hong)), and Zoey ([Ji-young Yoo](https://en.wikipedia.org/wiki/Ji-young_Yoo)) use their secret identities as demon hunters to protect their fans from growing, supernatural danger. Together they face their biggest threat: an irresistible rival boy band of demons in disguise.” Yes, it sounds like the last thing I’d ever want to watch, and yet… I’m a true believer.  \n​  \nIt’s co-directed and co-written by [Maggie Kang](https://www.instagram.com/nutmags/?hl=en) and [Chris Appelhans](https://en.wikipedia.org/wiki/Chris_Appelhans). For the screenplay, Maggie and Chris were joined by [the writing duo](https://blcklst.com/profile/hanya-mcmenez) Danya Jimenez and Hannah McMechan, with the original story coming from Maggie. Watch the trailer [here](https://www.youtube.com/watch?v=AzCAwdp1uIQ).  \n​  \nThis film was seven or so years in the making, and it paid off. Here are just a few impressive stats:  \n​  \n• It has become Netflix’s [most popular film](https://www.netflix.com/tudum/top10/most-popular) ever with 266M+ views.\n\n• Four songs [from the soundtrack](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) simultaneously hit the Billboard Hot 100 Top 10—a record.\n\n• The song “[Your Idol](https://www.youtube.com/watch?v=2FS3JAPTKXs)” by the fictional (read that again) Saja Boys reached #1 on Spotify’s US chart, the highest placement ever for a K-pop boy band, surpassing (real) #1 K-pop boy band BTS.\n\n• The _KPop Demon Hunters_ cast, collectively, amassed more than 2.09 billion streams worldwide on Spotify, averaging ~30 million daily streams on 13 tracks.  \n​  \nI had so many questions after watching this. Who made this?!? Why wasn’t it in theaters? How and why and when and who?!?  \n​  \nSo, if you’re curious about that side of things, here’s one piece about the whole enchilada: [“The Tragedy of ‘KPop Demon Hunters.’”](https://puck.news/why-did-kpop-demon-hunters-go-straight-to-streaming/)  \n​  \nTo be clear, I don’t think it’s a tragedy. Sony made a justifiable decision based on the circumstances and information they had at the time. So criticizing their decision is somewhat like critiquing a top poker player for folding when they ran all the math and probabilities correctly but ended up with a one-in-a-million flip thereafter that would’ve been a windfall. Judge people by processes and not outcomes. Still… damn, Netflix. Lady Luck has smiled upon you, and nicely done.",
+      "original_url": "https://www.netflix.com/title/81498621",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.netflix.com/title/81498621"
+        },
+        {
+          "type": "other",
+          "url": "https://www.netflix.com/tudum/top10/most-popular"
+        },
+        {
+          "type": "other",
+          "url": "https://www.biograph.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://prenuvo.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rottentomatoes.com/m/kpop_demon_hunters"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Writers-Journey-Anniversary-Mythic-Structure/dp/1615933158/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Save-Cat-Goes-Movies-Screenwriters/dp/1932907351/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Arden_Cho"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/May_Hong"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Ji-young_Yoo"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/nutmags/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Chris_Appelhans"
+        },
+        {
+          "type": "other",
+          "url": "https://blcklst.com/profile/hanya-mcmenez"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=AzCAwdp1uIQ"
+        },
+        {
+          "type": "other",
+          "url": "https://www.netflix.com/tudum/top10/most-popular"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=2FS3JAPTKXs"
+        },
+        {
+          "type": "other",
+          "url": "https://puck.news/why-did-kpop-demon-hunters-go-straight-to-streaming/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Book highlights I’m pondering",
+      "category": "book",
+      "title": "Four Thousand Weeks: Time Management for Mortals",
+      "creator": "Oliver Burkeman: “After years of trying and failing to make time for her illustration work, by tamin",
+      "note": "by** [**Oliver Burkeman**](https://www.oliverburkeman.com/)**:  \n​  \n​**“After years of trying and failing to make time for her illustration work, by taming her to-do list and shuffling her schedule, Abel saw that her only viable option was to claim time instead—to just start drawing, for an hour or two, every day, and to accept the consequences, even if those included neglecting other activities she sincerely valued.”  \n​  \n…**​  \n​  \n​**“The derision we heap upon the avid stamp collector or train spotter might really be a kind of defense mechanism, to spare us from confronting the possibility that they’re truly happy in a way that the rest of us—pursuing our telic lives, ceaselessly in search of future fulfillment—are not.”  \n​  \n…**​  \n​  \n​**“The only faculty you can use to see what’s happening to your attention is your attention, the very thing that’s already been commandeered. This means that once the attention economy has rendered you sufficiently distracted, or annoyed, or on edge, it becomes easy to assume that this is just what life these days inevitably feels like. In T. S. Eliot’s words, we are ‘distracted from distraction by distraction.’ The unsettling possibility is that if you’re convinced that none of this is a problem for you—that social media hasn’t turned you into an angrier, less empathetic, more anxious, or more numbed-out version of yourself—that might be because it has. Your finite time has been appropriated, without your realizing anything’s amiss.”  \n​  \n…  \n​  \n“De Graaf had put his finger on one of the sneakier problems with treating time solely as something to be used as well as possible, which is that we start to experience pressure to use our leisure time productively, too.”  \n​  \n…  \n​  \n“The most fundamental thing we fail to appreciate about the world, Heidegger asserts in his magnum opus, _Being and Time_, is how bafflingly astonishing it is that it’s there at all—the fact that there is anything rather than nothing. Most philosophers and scientists spend their careers pondering the way things are: what sorts of things exist, where they come from, how they relate to each other, and so on. But we’ve forgotten to be amazed that things are in the first place—that ‘a world is worlding all around us,’ as Heidegger puts it. This fact—the fact that there is being, to begin with—is ‘the brute reality on which all of us ought to be constantly stubbing our toes,’ in the splendid phrase of the writer Sarah Bakewell. But instead, it almost always passes us by.”  \n​  \n​**One of my favorite chapters from the book is titled “**[**Cosmic Insignificance Therapy**](https://tim.blog/2021/12/15/the-liberation-of-cosmic-insignificance-therapy/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit)**,” and you can find it for free** [**here**](https://tim.blog/2021/12/15/the-liberation-of-cosmic-insignificance-therapy/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit)**. It left me with a profound sense of calm that lasted several days. It sticks with you.**\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [my brand-new conversation with Dr. Dominic D’Agostino](https://tim.blog/2025/09/03/dr-dominic-dagostino-all-things-ketones/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit) on all things ketones, sardine fasting, and much, much more.  \n​  \nAnd, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
+      "original_url": "https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/B08XZY5ZF7/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/B08XZY5ZF7/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.oliverburkeman.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/12/15/the-liberation-of-cosmic-insignificance-therapy/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/12/15/the-liberation-of-cosmic-insignificance-therapy/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/09/03/dr-dominic-dagostino-all-things-ketones/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

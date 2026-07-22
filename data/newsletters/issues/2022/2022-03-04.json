@@ -6,7 +6,171 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "The River Runner",
+      "creator": null,
+      "note": "([Netflix](https://www.netflix.com/title/81457001), [Amazon](https://www.amazon.com/River-Runner-4K-UHD/dp/B09GM8D22N/ref=sr_1_1?keywords=the+river+runner&qid=1645540723&sr=8-1), [more options](https://geni.us/TheRiverRunner)). This jumped to the top of my to-watch list, thanks to [Brad Ludden](https://en.wikipedia.org/wiki/Brad_Ludden) of [First Descents](https://firstdescents.org/), a world-class waterman in his own right and associate producer on this film. [Here’s the trailer](https://www.youtube.com/watch?v=CdLovewceng). Kudos to director [Rush Sturges](https://riverroots.com/team/rush-sturges) ([@rushsturges](http://instagram.com/rushsturges)), writers [Thayer Walker](http://thayerwalker.com/) ([@inkdwell](http://www.instagram.com/inkdwell)), [Corinna Halloran](https://www.corinnahalloran.com/index) ([@corinnahalloran](https://twitter.com/corinnahalloran)), and the whole team. This _Outside_ feature by Thayer and [Scott Lindgren](https://www.instagram.com/scottlindgren_/?hl=en), the documentary’s protagonist, became a model for the film: “[After a Hard Diagnosis, One Athlete Learns to Soften Up](https://www.outsideonline.com/outdoor-adventure/water-activities/scott-lindgren-kayaker/).”",
+      "original_url": "https://www.netflix.com/title/81457001",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.netflix.com/title/81457001"
+        },
+        {
+          "type": "other",
+          "url": "https://www.netflix.com/title/81457001"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/River-Runner-4K-UHD/dp/B09GM8D22N/ref=sr_1_1?keywords=the+river+runner&qid=1645540723&sr=8-1"
+        },
+        {
+          "type": "other",
+          "url": "https://geni.us/TheRiverRunner"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Brad_Ludden"
+        },
+        {
+          "type": "other",
+          "url": "https://firstdescents.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=CdLovewceng"
+        },
+        {
+          "type": "other",
+          "url": "https://riverroots.com/team/rush-sturges"
+        },
+        {
+          "type": "other",
+          "url": "http://instagram.com/rushsturges"
+        },
+        {
+          "type": "other",
+          "url": "http://thayerwalker.com/"
+        },
+        {
+          "type": "other",
+          "url": "http://www.instagram.com/inkdwell"
+        },
+        {
+          "type": "other",
+          "url": "https://www.corinnahalloran.com/index"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/corinnahalloran"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/scottlindgren_/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.outsideonline.com/outdoor-adventure/water-activities/scott-lindgren-kayaker/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Short article I’m reading —",
+      "category": "article",
+      "title": "Essential Life-Learnings from 14 Years of Brain Pickings",
+      "creator": "Maria Popova",
+      "note": "([@brainpicker](https://twitter.com/brainpicker)). The key takeaway is so important and yet so easy to forget. I read this twice in the past week.",
+      "original_url": "https://www.themarginalian.org/2020/10/21/14-years-of-brain-pickings/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.themarginalian.org/2020/10/21/14-years-of-brain-pickings/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/10/21/brain-pickings/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/brainpicker"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Mangaliso",
+      "creator": "Bongeziwe Mabandla",
+      "note": "([YouTube](https://www.youtube.com/watch?v=2xQaCnHDkwA), [Spotify](https://open.spotify.com/track/4JWc8uU6q7LPJQqlBHttBI)) by [Bongeziwe Mabandla](https://en.wikipedia.org/wiki/Bongeziwe_Mabandla) ([@Bongeziwe](https://twitter.com/bongeziwe)).",
+      "original_url": "https://www.youtube.com/watch?v=2xQaCnHDkwA",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=2xQaCnHDkwA"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=2xQaCnHDkwA"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/4JWc8uU6q7LPJQqlBHttBI"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Bongeziwe_Mabandla"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/bongeziwe"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Book I’m revisiting —",
+      "category": "book",
+      "title": "The Lessons of History",
+      "creator": "Will and Ariel Durant",
+      "note": "This short and powerful book was first recommended to me by [investor Ray Dalio](https://tim.blog/2017/09/13/ray-dalio/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). At fewer than 150 pages, it can be digested in a few sittings and offers an impressive overview of human nature and the rise and fall of civilizations. The prose is also beautiful. Here’s the official book description: “A concise survey of the culture and civilization of mankind, _The Lessons of History_ is the result of a lifetime of research from Pulitzer Prize–winning historians Will and Ariel Durant. With their accessible compendium of philosophy and social progress, the Durants take us on a journey through history, exploring the possibilities and limitations of humanity over time.”",
+      "original_url": "https://www.amazon.com/Lessons-History-Will-Durant/dp/143914995X",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Lessons-History-Will-Durant/dp/143914995X"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/09/13/ray-dalio/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Good writing is always about things that are important to you, things that are scary to you, things that eat you up. But the writing is a way of not allowing those things to destroy you.”— John Edgar Wideman And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "John Edgar Wideman And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/John_Edgar_Wideman",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/John_Edgar_Wideman"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

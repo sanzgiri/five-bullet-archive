@@ -6,7 +6,147 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Film I’m watching",
+      "category": "video",
+      "title": "The Handmaiden",
+      "creator": null,
+      "note": "I absolutely loved this movie. It’s beautiful, hilarious, horrifying, and sensual in equal measure. This BAFTA-winning film was introduced to me by recent podcast guest [Steve Jang](https://tim.blog/2023/11/30/steve-jang-live-from-south-korea/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content) (see [his top-10 recommended Korean films here](https://tim.blog/2023/11/30/steve-jang-live-from-south-korea/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content)), and it currently has 96% on [Rotten Tomatoes](https://www.rottentomatoes.com/m/the_handmaiden). Description: “From Park Chan-wook, the celebrated director of _Oldboy_, _Lady Vengeance_ and _Stoker_, comes a ravishing new crime drama. Park presents a gripping and sensual tale of two women—a young Japanese lady living on a secluded estate and a Korean woman who is hired to serve as her new handmaiden but is secretly plotting with a conman to defraud her of a large inheritance. Inspired by the novel _Fingersmith_ by British author Sarah Waters, _The Handmaiden_ borrows the most dynamic elements of its source material and combines it with Park Chan-wook’s singular vision to create an unforgettable viewing experience.” You can find the trailer [here](https://youtu.be/whldChqCsYk?feature=shared).",
+      "original_url": "https://www.amazon.com/Handmaiden-KIM-MIN-hee/dp/B08J8LSZ4S/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Handmaiden-KIM-MIN-hee/dp/B08J8LSZ4S/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/11/30/steve-jang-live-from-south-korea/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/11/30/steve-jang-live-from-south-korea/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rottentomatoes.com/m/the_handmaiden"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/whldChqCsYk?feature=shared"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Podcast episodes I’m putting into action",
+      "category": "podcast",
+      "title": "Body Electric Part 2: When Human Met Desk",
+      "creator": null,
+      "note": "from the [_TED Radio Hour_](https://www.npr.org/podcasts/510298/ted-radio-hour) podcast ([Apple Podcasts](https://podcasts.apple.com/us/podcast/body-electric-part-2-when-human-met-desk/id523121474?i=1000630489697), [Spotify](https://open.spotify.com/episode/1ioVkZgHnubUaGsJ0nXUO5?si=jF7scOrPTd20JEnfE90ujQ)). I recommend the first 7–8 minutes and the last 7–8 minutes. If in a rush, listen to the last 10 minutes.  \n​**“**[**Body Electric Part 3: Why Our Eyes Are Elongating**](https://podcasts.apple.com/bz/podcast/body-electric-part-3-why-our-eyes-are-elongating/id523121474?i=1000631487110)**”**",
+      "original_url": "https://podcasts.apple.com/us/podcast/body-electric-part-2-when-human-met-desk/id523121474?i=1000630489697",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://podcasts.apple.com/us/podcast/body-electric-part-2-when-human-met-desk/id523121474?i=1000630489697"
+        },
+        {
+          "type": "other",
+          "url": "https://www.npr.org/podcasts/510298/ted-radio-hour"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/body-electric-part-2-when-human-met-desk/id523121474?i=1000630489697"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/1ioVkZgHnubUaGsJ0nXUO5?si=jF7scOrPTd20JEnfE90ujQ"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/bz/podcast/body-electric-part-3-why-our-eyes-are-elongating/id523121474?i=1000631487110"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "30-minute doc I’m watching",
+      "category": "video",
+      "title": "The Greatest Submission Artist – Gordon Ryan",
+      "creator": null,
+      "note": null,
+      "original_url": "https://www.youtube.com/watch?v=kaW71ZyUX80",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=kaW71ZyUX80"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "Lululemon’s Founder Is Racing to Cure the Rare Disease Destroying His Muscles",
+      "creator": "Ari Altstedter",
+      "note": "(_Bloomberg_). [Alternate article link](https://archive.ph/8z9Af), in case you have any issues accessing using the previous one.  \n​  \nFrom the sub-heading: “For decades, Chip Wilson has been facing a form of muscular dystrophy. Now the notoriously unfiltered billionaire is spending $100 million to cure it.”\n\nSometimes, the ultra-rich can produce breakthroughs in medicine, if they’re willing to spend big and take risks. Chip is willing to do both. Survival is one hell of a motivator. Here’s one excerpt from the piece:  \n​  \n​_“If you’re going to be in a foxhole, being in one with Chip Wilson feels a little less suffocating,” says Craig Kelley, a 53-year-old FSHD patient. Kelley, who has difficulty going up stairs and can’t take off a T-shirt without bracing himself, guesses the odds of a cure have “tripled” since Wilson got involved. “I hope anybody with any kind of long-term disability can have a bit of a game changer like Chip.”  \n​  \n​_There are also some incredible examples of non-rich people doing the seemingly impossible to save family members. I strongly recommend listening to “[John Crowley — The Real-Life Captain America and Bruce Banner (Seriously)](https://tim.blog/2017/02/28/john-crowley/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content),” whose story has been the basis of both books and feature films.",
+      "original_url": "https://www.bloomberg.com/news/features/2023-10-20/lululemon-founder-chip-wilson-races-to-find-muscular-dystrophy-cure?leadSource=uverify+wall",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.bloomberg.com/news/features/2023-10-20/lululemon-founder-chip-wilson-races-to-find-muscular-dystrophy-cure?leadSource=uverify+wall"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/aaltsted?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.ph/8z9Af"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/02/28/john-crowley/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The people I distrust most are those who want to improve our lives but have only one course of action in mind.” — Frank Herbert (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my interview from South Korea with renowned investor Steve Jang, the latest episode from The Tim Ferriss Experiment_, and my conversation with Lululemon founder Chip Wilson. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Frank Herbert",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Frank_Herbert",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Frank_Herbert"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/66lwb"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/11/30/steve-jang-live-from-south-korea/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/P6ySb3P64mw"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/05/19/chip-wilson/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

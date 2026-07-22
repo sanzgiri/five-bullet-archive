@@ -6,7 +6,143 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Soldier of Love",
+      "creator": "Sade",
+      "note": "([YouTube](https://youtu.be/IR5_rTCi-Bo?si=5pW0J6YK8q5tNBcj), [Spotify](https://open.spotify.com/track/0bgsj8kz5zWbQ6njk2Oqoz), [Apple Music](https://music.apple.com/am/song/soldier-of-love/349971713)) by [Sade](https://www.instagram.com/sade/).",
+      "original_url": "https://youtu.be/IR5_rTCi-Bo?si=5pW0J6YK8q5tNBcj",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/IR5_rTCi-Bo?si=5pW0J6YK8q5tNBcj"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/IR5_rTCi-Bo?si=5pW0J6YK8q5tNBcj"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/0bgsj8kz5zWbQ6njk2Oqoz"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/am/song/soldier-of-love/349971713"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/sade/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Lost in Starlight",
+      "creator": null,
+      "note": "The visuals in this film blew my mind. I never really thought of South Korea as an animation powerhouse, but this changes things. This particular film was co-written and directed by [Han Ji-won](https://www.imdb.com/name/nm11853957/), who earned the distinction of being the youngest South Korean to direct a theatrically released animated film ([_Clearer Than You Think_](https://www.youtube.com/watch?v=MNchUEPt8yM)). Here’s part of the description: “When an astronaut leaves Earth for Mars, the vast infinite space divides star-crossed lovers in this animated romance that crosses the cosmos.”  \n​  \nHonestly, that teaser doesn’t do it justice, but you shouldn’t read more about it or watch the trailers, which give away too much. Just try 15 minutes and see what you think.  \n​  \nFor my English-speaking friends: to enjoy the cadence and spirit of the original Korean, which I highly recommend, scroll over the captions bubble in the bottom-right corner of the Netflix viewing window, then choose “Korean \\[Original\\]” under “Audio” and “English” under “Subtitles.”",
+      "original_url": "https://www.netflix.com/title/81664623",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.netflix.com/title/81664623"
+        },
+        {
+          "type": "other",
+          "url": "https://www.imdb.com/name/nm11853957/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=MNchUEPt8yM"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Microphone arm I’m using",
+      "category": "other",
+      "title": "RØDE PSA1+ Professional Studio Arm",
+      "creator": null,
+      "note": "This is the latest addition to my minimalist podcast toolkit. The [Shure MV7+](https://www.amazon.com/Shure-MV7-Microphone-Certified-Podcasting/dp/B0CTJ7PVN1/) microphone, the [Logitech Brio 4K](https://www.amazon.com/Logitech-Calling-Noise-Canceling-Correction-Microsoft/dp/B09NBWWP79/) webcam, and [Riverside](https://riverside.fm/) for remote recordings completes the setup. From the description: “The PSA1+ is the ultimate studio boom arm for podcasters, streamers, and broadcasters. Its innovative parallelogram spring design ensures ultra-smooth movement and precise microphone placement in any position, while its fully damped internal springs and neoprene arm cover eliminate mechanical noise for completely silent operation.” This arm literally took me 1–2 minutes to set up, and it’s compact enough that you could throw it in a suitcase.",
+      "original_url": "https://www.amazon.com/Rode-Microphones-PSA1-Professional-Studio/dp/B09JBVR5B4/?th=1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Rode-Microphones-PSA1-Professional-Studio/dp/B09JBVR5B4/?th=1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Shure-MV7-Microphone-Certified-Podcasting/dp/B0CTJ7PVN1/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Logitech-Calling-Noise-Canceling-Correction-Microsoft/dp/B09NBWWP79/"
+        },
+        {
+          "type": "other",
+          "url": "https://riverside.fm/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Launch ideas for going big?",
+      "category": "other",
+      "title": "Coyote",
+      "creator": null,
+      "note": ", launches globally and everywhere (Target, Walmart, Amazon, etc.) at the end of July. The game has exceeded all expectations on social media, with 170M+ video views of gameplay alone ([here’s a great example](https://www.instagram.com/reel/DH_0XdEp4NQ/#)), and [the retail sales we do have](https://www.walmart.com/ip/Coyote-Scramble/14312603259) say we have a tiger by the tail. I want to blow the roof off and break some records. Do you have any ideas for PR, stunts, appearances on shows, collaborations, media, or otherwise that you think could be fun and impactful? [**Please submit your ideas here**](https://forms.gle/QmBZRBmKJXyDCh3d9), and my team will be reviewing all entries. Thanks so much in advance! This one has been 2+ years in the making!",
+      "original_url": "https://www.instagram.com/p/DIPEDY7vkn5/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/p/DIPEDY7vkn5/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/reel/DH_0XdEp4NQ/#"
+        },
+        {
+          "type": "other",
+          "url": "https://www.walmart.com/ip/Coyote-Scramble/14312603259"
+        },
+        {
+          "type": "other",
+          "url": "https://forms.gle/QmBZRBmKJXyDCh3d9"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Book highlight I’m pondering",
+      "category": "book",
+      "title": "The ONE Thing",
+      "creator": "Gary Keller * * * You can complement this edition of 5-Bullet Friday with my brand-new podcast episo",
+      "note": "​\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [my brand-new podcast episode](https://www.youtube.com/watch?v=gxkjMnSCg3k), a _4-Hour Workweek_ case study featuring Charlie Houpert, founder of “Charisma on Command,” which now has 10M+ subscribers on YouTube across its channels.  \n​  \nAnd, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
+      "original_url": "https://www.amazon.com/The-ONE-Thing-audiobook/dp/B00FPVS27W/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/The-ONE-Thing-audiobook/dp/B00FPVS27W/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/12/12/gary-keller/%20?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=gxkjMnSCg3k"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

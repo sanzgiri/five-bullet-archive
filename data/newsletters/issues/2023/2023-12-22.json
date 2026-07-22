@@ -6,7 +6,211 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Blog post I’m reading",
+      "category": "article",
+      "title": "What’s in My Bag, 2023",
+      "creator": null,
+      "note": "I have never met anyone more meticulous about everyday carry than [Matt Mullenweg](https://tim.blog/2022/03/09/matt-mullenweg-antarctica/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). Each year, he publishes an updated “What’s in my bag” blog post, and [this is the latest](https://ma.tt/2023/12/the-bag-post/). For a fun comparison, [see this photo](https://ma.tt/2014/08/whats-in-my-bag/) of Matt’s gadgets from nearly a decade ago.",
+      "original_url": "https://ma.tt/2023/12/the-bag-post/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://ma.tt/2023/12/the-bag-post/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/03/09/matt-mullenweg-antarctica/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://ma.tt/2023/12/the-bag-post/"
+        },
+        {
+          "type": "other",
+          "url": "https://ma.tt/2014/08/whats-in-my-bag/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "A Viral Dance and ‘Happiness Campaign’ Frustrates Iran’s Clerics",
+      "creator": null,
+      "note": "(NYT) [Original Instagram video](https://www.instagram.com/p/Cz3B20zoGif/). [Alternate link](https://web.archive.org/web/20231216052332/https://www.nytimes.com/2023/12/16/world/middleeast/a-viral-dance-and-happiness-campaign-frustrates-irans-clerics.html) if you have trouble viewing the article.",
+      "original_url": "https://www.nytimes.com/2023/12/16/world/middleeast/a-viral-dance-and-happiness-campaign-frustrates-irans-clerics.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/2023/12/16/world/middleeast/a-viral-dance-and-happiness-campaign-frustrates-irans-clerics.html"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/Cz3B20zoGif/"
+        },
+        {
+          "type": "other",
+          "url": "https://web.archive.org/web/20231216052332/https://www.nytimes.com/2023/12/16/world/middleeast/a-viral-dance-and-happiness-campaign-frustrates-irans-clerics.html"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Book I’m savoring",
+      "category": "book",
+      "title": "Masterpieces of Fantasy Art",
+      "creator": "Dian Hanson",
+      "note": ". This is a sumptuous dive back into the most gorgeous art I met through _Heavy Metal_ magazine, fantasy nerdom, and everything in between. I think of it as a buffet of creative inspiration, as the styles vary widely. From the official description: “Fantasy art, that colorful blend of myth, muscle and sexy maidens, took off in 1923 with the launch of _Weird Tales_ magazine, was reinvigorated in the 1960s with _The Lord of the Rings_, _Conan the Barbarian_ paperbacks with Frank Frazetta covers, and the late ’60s emergence of fantasy psychedelia. This book features original paintings, contextualized by preparatory sketches, sculptures, calendars, magazines, and paperback books, for an immersive dive into this dynamic, fanciful genre.”",
+      "original_url": "https://www.amazon.com/Masterpieces-Fantasy-Art-Dian-Hanson/dp/3836593629",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Masterpieces-Fantasy-Art-Dian-Hanson/dp/3836593629"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Dian_Hanson"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Slightly healthier junk food I’ll weave into the holidays",
+      "category": "other",
+      "title": "Tate’s Bake Shop Ginger Zinger Cookies",
+      "creator": null,
+      "note": "I can easily finish an entire bag of these chewy beauties on cheat day. They are gluten-free, which I only learned after the fact. Tate’s [Chocolate Chip Cookies](https://www.amazon.com/Tates-Bake-Shop-Chocolate-Cookies/dp/B00B62W306?th=1) are also fantastic, but the Ginger Zingers are my hands-down fave. In between butter cookies and gingerbread men, I’ll have a few of these around Christmas to convince myself I’m behaving.",
+      "original_url": "https://www.amazon.com/Tates-Bake-Shop-Gluten-Cookies/dp/B00MEBSRS0/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Tates-Bake-Shop-Gluten-Cookies/dp/B00MEBSRS0/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Tates-Bake-Shop-Chocolate-Cookies/dp/B00B62W306?th=1"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering once again",
+      "category": "quote",
+      "title": "“The secret to doing good research is always to be a little underemployed. You waste years by not being able to waste hours.” — Amos Tversky (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my interview from Antarctica with Matt Mullenweg, my conversation with renowned chef Samin Nosrat, and this clip from 2008 of me breakdancing (yes, really). And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. And happy holidays to you and yours! Tim ### Forwarded this message? Sign up here. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. Sign Up ### Listen to The Tim Ferriss Show Podcast The Tim Ferriss Show is one of the most popular podcasts in the world with more than 900 million downloads. It has been selected for \"Best of Apple Podcasts\" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts on many occasions. Podcasts Apple Podcasts Overcast Spotify Tim's Blog ### Read Tim's Books [](https://tim.blog/tim-ferriss-books/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test) Amazon Audible B & N Tim's Blog Follow Tim: [](https://twitter.com/tferriss) [](https://www.instagram.com/timferriss/) [](https://www.youtube.com/channel/UCznv7Vf9nBdJYvBagFdAHWw) [](https://www.facebook.com/TimFerriss) [](https://www.linkedin.com/in/timferriss/) DO NOT REPLY HERE: Due to volume, please do not reply to this email. Sadly we are unable to read 1000+ email replies daily. To reply to Tim, please do so in the blog comments here. No longer want these emails? Unsubscribe 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Amos Tversky",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Amos_Tversky",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Amos_Tversky"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/yej8O"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/03/09/matt-mullenweg-antarctica/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/10/01/samin-nosrat/"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/WeCV6KLnO7g?si=617w2BasNGCije1K"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/?utm_source=convertkit&utm_medium=convertit&utm_campaign=footer"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/27uk8e5mmuohv6r605hrsrke6444"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,167 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Video I’m enjoying",
+      "category": "video",
+      "title": "Remember Shakti: Bell’Alla prt 2",
+      "creator": null,
+      "note": "I have a keen interest in hand percussion, and this video is one hell of a showcase. As one professional drummer friend put it, “They’re both heavy, heavy cats. Total masters. I’ve watched that clip dozens of times. No joke.” [Zakir Hussain](https://en.wikipedia.org/wiki/Zakir_Hussain_(musician))’s facial expressions when shredding are priceless. If you’d like a cool overview of the tabla, plus another amazing solo, [check this out](https://youtu.be/Joyk_EMtzn0).",
+      "original_url": "https://youtu.be/uPP1FygQfJg",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/uPP1FygQfJg"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Zakir_Hussain_(musician"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/Joyk_EMtzn0"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Documentary I’m revisiting",
+      "category": "video",
+      "title": "Bird by Bird with Annie",
+      "creator": null,
+      "note": "I’ve loved [Anne Lamott](https://tim.blog/2021/07/09/anne-lamott/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@ANNELAMOTT](https://twitter.com/AnneLamott)) and her work for more than a decade, and ever since I [had her on the podcast](https://tim.blog/2021/07/09/anne-lamott/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), I’ve gone even deeper into the Annieverse. This documentary had just the right blend of humor, humanity, and insight to help me with some difficult emotions this week. Description: “Perhaps best known for her widely celebrated book on writing, [_Bird by Bird_](https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016/), Anne Lamott is one of the rare artists who can teach us not only how to write, but how to live. From Academy Award-winning filmmaker Freida Lee Mock (_Maya Lin: A Strong Clear Vision_), _Bird by Bird with Annie_ offers an intimate portrait of the writer and her craft, interweaving the story of Lamott’s life—in itself a deeply moving tale of addiction and redemption, grief and joy, intellect and faith—with a year’s worth of interviews, public lectures, and readings and footage of the writer at work, focusing particularly on Lamott’s candid, humorous, and disarmingly straightforward advice on the struggles and joys of writing. In the end, the author’s genuine reassurance and guidance concerning the actual process of writing—which has little resemblance to its glorified image—becomes a stirring call to action that celebrates the potential of each individual, the silencing of our inner critics, and the courage to create something honest, meaningful, and real. Poignant and inspirational, _Bird by Bird with Annie_ takes us deep into Anne Lamott’s intoxicatingly brave world, one in which writing is a means of finding out who we are, how we live, and why we’re here.” You can [find the trailer here](https://www.youtube.com/watch?v=Dl2XJkwvMrc).",
+      "original_url": "https://www.amazon.com/gp/product/B003PN2OV2/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/gp/product/B003PN2OV2/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/07/09/anne-lamott/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/AnneLamott"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/07/09/anne-lamott/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=Dl2XJkwvMrc"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Essay I’m reading",
+      "category": "article",
+      "title": "The age of average",
+      "creator": "Alex Murrell",
+      "note": "([@alexjmurrell](https://twitter.com/alexjmurrell)). Lest you throw up your hands too early, here is a key line near the end: “But it’s not all bad news. I believe that the age of average is the age of opportunity.” Thanks to Matt T. for sending this to me.",
+      "original_url": "https://www.alexmurrell.co.uk/articles/the-age-of-average",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.alexmurrell.co.uk/articles/the-age-of-average"
+        },
+        {
+          "type": "other",
+          "url": "https://www.alexmurrell.co.uk/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/alexjmurrell"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "La Descarriá",
+      "creator": "Corina Lawrence, feat",
+      "note": "([YouTube](https://www.youtube.com/watch?v=ATVaPK5bz9A), [Apple Music](https://music.apple.com/us/album/la-descarri%C3%A1-uji-remix/1568172210?i=1568172212), [Spotify](https://open.spotify.com/track/1iNpP6yYax94B4eADEW3Qx?si=QfLK5KYfSRyhL1IKTu2MSQ&nd=1)) by [Corina Lawrence](https://www.instagram.com/corinalawrence_/), feat. [Miss Bolivia](https://www.instagram.com/missboliviamusica/) ([Uji](https://www.instagram.com/uji_music/) Remix)",
+      "original_url": "https://www.youtube.com/watch?v=ATVaPK5bz9A",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=ATVaPK5bz9A"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=ATVaPK5bz9A"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/album/la-descarri%C3%A1-uji-remix/1568172210?i=1568172212"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/1iNpP6yYax94B4eADEW3Qx?si=QfLK5KYfSRyhL1IKTu2MSQ&nd=1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/corinalawrence_/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/missboliviamusica/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/uji_music/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Most men pursue pleasure with such breathless haste that they hurry past it.” — Søren Kierkegaard (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my advice on how to build a luxury brand, my video on learning hand percussion, my conversation with Rock and Roll Hall of Famer Stewart Copeland, and my interview with Anne Lamott on taming your inner critic, perfectionism, prayer, and more. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Søren Kierkegaard",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/nj0Dh"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=YXWhh-mp2Xw"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=KKOTBT0Utv4"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=qvVCc01dm_c"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/07/09/anne-lamott/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

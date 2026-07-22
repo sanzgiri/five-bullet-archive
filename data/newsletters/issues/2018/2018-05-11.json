@@ -6,7 +6,124 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "TED Radio Hour - Comfort Zone",
+      "creator": null,
+      "note": "This was a really fun podcast to be a part of. Guy Raz ([@guyraz](https://el2.fourhourmail.com/c/r8u063gzzaohv240p/opfkhq/aHR0cHM6Ly90d2l0dGVyLmNvbS9ndXlyYXo=)) is exceptionally good at his craft, and I learned a lot from the other guests included.",
+      "original_url": "https://el2.fourhourmail.com/c/r8u063gzzaohv240p/78i7h8/aHR0cHM6Ly93d3cubnByLm9yZy9wcm9ncmFtcy90ZWQtcmFkaW8taG91ci82MDYwNzMwNDQvY29tZm9ydC16b25l",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaohv240p/78i7h8/aHR0cHM6Ly93d3cubnByLm9yZy9wcm9ncmFtcy90ZWQtcmFkaW8taG91ci82MDYwNzMwNDQvY29tZm9ydC16b25l"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaohv240p/opfkhq/aHR0cHM6Ly90d2l0dGVyLmNvbS9ndXlyYXo="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Location I am considering traveling to —",
+      "category": "other",
+      "title": "Yala National Park",
+      "creator": null,
+      "note": "Here is something about it that caught my eye: “Yala harbours 215 bird species including six endemic species of Sri Lanka. The number of mammals that has been recorded from the park is 44, and it has one of the highest leopard densities in the world.”",
+      "original_url": "https://el2.fourhourmail.com/c/r8u063gzzaohv240p/zvtghn/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvWWFsYV9OYXRpb25hbF9QYXJr",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaohv240p/zvtghn/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvWWFsYV9OYXRpb25hbF9QYXJr"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Instagram",
+      "creator": null,
+      "note": ", [Twitter](https://el2.fourhourmail.com/c/r8u063gzzaohv240p/xksph6/aHR0cHM6Ly90d2l0dGVyLmNvbS9WYXN5bExvbWFjaGVua28=))**, who — as a friend put it — “does things no one else can do.” I have no idea why it took so long for me to find this mind-blowing southpaw. These videos help explain why many consider him the best pound-for-pound fighter in the world (including ESPN): [Highlights and history](https://el2.fourhourmail.com/c/r8u063gzzaohv240p/60aeh8/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj01VmVpZVNSQ2puWQ==), [techniques](https://el2.fourhourmail.com/c/r8u063gzzaohv240p/kmbmh6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1DQVU0blBDMmRHdw==).\n\n**Person I’m learning more about —  \n[Alfred Lee Loomis](https://el2.fourhourmail.com/c/r8u063gzzaohv240p/52hvh7/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQWxmcmVkX0xlZV9Mb29taXM=)** — (November 4, 1887 – August 11, 1975) was an American attorney, investment banker, philanthropist, scientist/physicist, inventor of the LORAN Long Range Navigation System, and a lifelong patron of scientific research. The book that made me fascinated by Alfred’s life is titled [Tuxedo Park : A Wall Street Tycoon and the Secret Palace of Science That Changed the Course of World War II](https://el2.fourhourmail.com/c/r8u063gzzaohv240p/2ou2ho/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UdXhlZG8tUGFyay1TdHJlZXQtU2NpZW5jZS1DaGFuZ2VkL2RwLzA2ODQ4NzI4ODk=).",
+      "original_url": "https://el2.fourhourmail.com/c/r8u063gzzaohv240p/pnceh9/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9sb21hY2hlbmtvdmFzaWxpeS8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaohv240p/pnceh9/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9sb21hY2hlbmtvdmFzaWxpeS8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaohv240p/xksph6/aHR0cHM6Ly90d2l0dGVyLmNvbS9WYXN5bExvbWFjaGVua28="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaohv240p/60aeh8/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj01VmVpZVNSQ2puWQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaohv240p/kmbmh6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1DQVU0blBDMmRHdw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaohv240p/52hvh7/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQWxmcmVkX0xlZV9Mb29taXM="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaohv240p/2ou2ho/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UdXhlZG8tUGFyay1TdHJlZXQtU2NpZW5jZS1DaGFuZ2VkL2RwLzA2ODQ4NzI4ODk="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“There have been so many times I have seen a man wanting to weep but instead beat his heart until it was unconscious.” — Nayyirah Waheed And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim P.S. — Don’t miss your name. If you haven’t reserved your name on eco.com yet, check out eco.com/join. Remember the land grab for Twitter usernames, and how you wished you had acted earlier? Eco is a digital currency platform backed by some of the most successful founders in tech, including Garrett Camp, co-founder of Uber. You can reserve your username to match Twitter or IG (e.g., eco.com/timferriss), or reserve your business or non-profit name (e.g., eco.com/bbc, eco.com/donorschoose). Hope it saves you a headache later! [](https://el2.fourhourmail.com/c/r8u063gzzaohv240p/nesohv/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. Seneca and Marcus, 60 29th Street, San Francisco, California 94110, United States",
+      "creator": "Nayyirah Waheed And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim P.S. — Don’t miss your name. If you haven’t reserved your name on eco.com yet, check out eco.com/join. Remember the land grab for Twitter usernames, and how you wished you had acted earlier? Eco is a digital currency platform backed by some of the most successful founders in tech, including Garrett Camp, co-founder of Uber. You can reserve your username to match Twitter or IG",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/r8u063gzzaohv240p/q3i8h7/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9zYWx0LU5heXlpcmFoLVdhaGVlZC9kcC8xNDkyMjM4Mjg3",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaohv240p/q3i8h7/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9zYWx0LU5heXlpcmFoLVdhaGVlZC9kcC8xNDkyMjM4Mjg3"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaohv240p/gvfnh5/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaohv240p/93tzhn/aHR0cDovL2Vjby5jb20v"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaohv240p/3wcphk/aHR0cHM6Ly9lY28uY29tL2pvaW4="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaohv240p/43avhe/aHR0cDovL2dvLmZvdXJob3Vyd29ya3dlZWsuY29tLzEweC1vdXRwdXQv"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/r8u063gzzaohv240p"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaohv240p/rxh8ho/aHR0cDovL2ZvdXJob3Vyd29ya3dlZWsuY29tL2Jsb2c="
+        }
+      ]
+    }
+  ]
 }

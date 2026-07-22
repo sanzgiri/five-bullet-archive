@@ -6,7 +6,131 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Stoned on Shiva",
+      "creator": "Steve Gold",
+      "note": "([YouTube](https://www.youtube.com/watch?v=9TazKJJAq5o), [Spotify](https://open.spotify.com/track/47S5BUvioIt6D5elpRVllE)) by [Steve Gold](https://open.spotify.com/artist/4ZFgZInIgcrtQgaB3xuKQj).",
+      "original_url": "https://www.youtube.com/watch?v=9TazKJJAq5o",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=9TazKJJAq5o"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=9TazKJJAq5o"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/47S5BUvioIt6D5elpRVllE"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/artist/4ZFgZInIgcrtQgaB3xuKQj"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Podcast episode I’m listening to",
+      "category": "podcast",
+      "title": "Can A Sleeping Pill Help Fight Alzheimer’s?",
+      "creator": "Matt Walker",
+      "note": "([Apple Podcasts](https://podcasts.apple.com/us/podcast/the-matt-walker-podcast/id1578319619?i=1000724349556), [Spotify](https://open.spotify.com/episode/0rKN3XvELyxoKeH7WLqi6H?si=tk4lKeHjQn2OoXliCDR2cw), [YouTube](https://www.youtube.com/watch?v=61o-NVGYVTI)) by [Matt Walker](https://tim.blog/2023/01/18/matthew-walker-sleep/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit). This is one of many reasons that I’m now experimenting with DORAs for sleep enhancement, given my genetic predisposition to Alzheimer’s disease. Be sure to pay attention to the DORA vs. Ambien (zolpidem) comparison. From the episode description: “Matt explores the critical link between sleep and Alzheimer’s disease today, explaining how the brain’s ‘glymphatic system’ clears toxic proteins like amyloid and tau during deep sleep. … Matt goes on to discuss groundbreaking research on a new class of sleeping pills, [Dual Orexin Receptor Antagonists](https://en.wikipedia.org/wiki/Orexin_antagonist) (DORAs), that may enhance this cleaning mechanism. While preliminary human and animal studies show these drugs can reduce toxic proteins and offer neuroprotection, the findings underscore the profound importance of prioritizing high-quality sleep as a powerful, accessible tool for ensuring long-term brain health.”",
+      "original_url": "https://podcasts.apple.com/us/podcast/the-matt-walker-podcast/id1578319619?i=1000724349556",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://podcasts.apple.com/us/podcast/the-matt-walker-podcast/id1578319619?i=1000724349556"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/the-matt-walker-podcast/id1578319619?i=1000724349556"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/0rKN3XvELyxoKeH7WLqi6H?si=tk4lKeHjQn2OoXliCDR2cw"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=61o-NVGYVTI"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/01/18/matthew-walker-sleep/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Orexin_antagonist"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Research I’m following",
+      "category": "research",
+      "title": "The Quest to Reinvent Anesthesia",
+      "creator": null,
+      "note": "(_UCSF Magazine_). If successful, this could reshape healthcare and dramatically reduce costs. Description, bolding mine: “UCSF researchers are scouring millions of compounds – with help from tiny zebrafish – **to create anesthetics safe enough to use without an anesthesiologist**.”",
+      "original_url": "https://magazine.ucsf.edu/quest-reinvent-anesthesia",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://magazine.ucsf.edu/quest-reinvent-anesthesia"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Older research clips that I can’t stop forwarding",
+      "category": "research",
+      "title": "Dealing with a dolphin’s ‘urges’ - The Girl Who Talked to Dolphins",
+      "creator": null,
+      "note": "“**[**Teaching a dolphin to speak English - The Girl Who Talked to Dolphins**](https://youtu.be/uNhR-16r5lM)**”**",
+      "original_url": "https://youtu.be/31AWe-FN7CA",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/31AWe-FN7CA"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/uNhR-16r5lM"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Above all, do not lose your desire to walk: Every day I walk myself into a state of well-being and walk away from every illness; I have walked myself into my best thoughts, and I know of no thought so burdensome that one cannot walk away from it.” — Søren Kierkegaard (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my recent interview with Roblox co-founder David Baszucki on the ketogenic therapy for brain health, his key business decisions, the Roblox economy, and much, much more. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Søren Kierkegaard",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/oCl_c"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/11/04/david-baszucki-roblox/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

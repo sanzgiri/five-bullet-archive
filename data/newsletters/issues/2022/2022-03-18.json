@@ -6,7 +6,151 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Book I’m reading",
+      "category": "book",
+      "title": "AMORALMAN: A True Story and Other Lies",
+      "creator": "Derek DelGaudio",
+      "note": "([@derek\\_del](https://twitter.com/derek_del)). From the description: “Derek DelGaudio believed he was a decent, honest man. But when irrefutable evidence to the contrary is found in an old journal, his memories are reawakened and Derek is forced to confront—and try to understand—his role in a significant act of deception from his past.” Hat tip to [Dr. Mark Plotkin](https://tim.blog/2020/09/30/mark-plotkin/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) for recommending this book to me. I’ve previously mentioned Derek in 5BF for his amazing one-man show, [_In & Of Itself_](https://www.hulu.com/movie/derek-delgaudios-in-of-itself-19b9d405-40b2-483e-8e1f-e25fe10c7299).",
+      "original_url": "https://www.amazon.com/AMORALMAN-True-Story-Other-Lies/dp/0525658556/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/AMORALMAN-True-Story-Other-Lies/dp/0525658556/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Derek_DelGaudio"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/derek_del"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/09/30/mark-plotkin/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.hulu.com/movie/derek-delgaudios-in-of-itself-19b9d405-40b2-483e-8e1f-e25fe10c7299"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Short article I’m reading",
+      "category": "article",
+      "title": "Can’t cook, won’t cook? Here are the tips that saved me from a life of terrible meals.",
+      "creator": "Elle Hunt",
+      "note": "([@elle\\_hunt](https://twitter.com/elle_hunt)).",
+      "original_url": "https://www.theguardian.com/food/2022/mar/02/cant-cook-wont-cook-here-are-the-tips-that-saved-me-from-a-life-of-terrible-meals",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.theguardian.com/food/2022/mar/02/cant-cook-wont-cook-here-are-the-tips-that-saved-me-from-a-life-of-terrible-meals"
+        },
+        {
+          "type": "other",
+          "url": "https://www.theguardian.com/profile/elle-hunt"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/elle_hunt"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Track I’m listening to",
+      "category": "music",
+      "title": "Black Out the Sun",
+      "creator": "Sevendust",
+      "note": "([YouTube](https://www.youtube.com/watch?v=xHkamJJzNBE), [Spotify](https://open.spotify.com/track/5phsN1qTbBz0ZCYtcQ4ndW?autoplay=true), [Apple Music](https://music.apple.com/album/black-out-the-sun/596121821?i=596122462)) by [Sevendust](https://sevendust.com/) ([@Sevendust](https://twitter.com/Sevendust)). Sevendust has been one of my favorite bands forever, and they are one of the best live bands I’ve ever seen. I only experienced the latter for the first time a few months ago with [Dave “The Snapping Turtle of Metal” Elitch](https://tim.blog/2018/11/26/dave-elitch/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). Here are a few pics from the aftermath: [Dave Elitch](https://www.instagram.com/p/CZvGirPsvAA/) and [Clint Lowery](https://www.instagram.com/p/CTycJKdgspi/).",
+      "original_url": "https://www.youtube.com/watch?v=xHkamJJzNBE",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=xHkamJJzNBE"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=xHkamJJzNBE"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/5phsN1qTbBz0ZCYtcQ4ndW?autoplay=true"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/album/black-out-the-sun/596121821?i=596122462"
+        },
+        {
+          "type": "other",
+          "url": "https://sevendust.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/Sevendust"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/11/26/dave-elitch/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/CZvGirPsvAA/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/CTycJKdgspi/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Socks I used during my Antarctica trip",
+      "category": "other",
+      "title": "Terramar Thermasilk Over-the-Calf Sock Liner",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/Terramar-Thermasilk-Liner-Black-Medium/dp/B000V5I95C/ref=sr_1_5?keywords=terramar%2Bsocks&qid=1639079555&sr=8-5&th=1), [official website](https://www.terramarsports.com/collections/mens-socks/products/sl2095)). “Over forty years ago, Terramar was the first company to introduce silk performance base layer products. Thermasilk® is still going strong. The sock liner offers a natural, super soft touch and feel with all the technology you need. The result is a breathable, lightweight layer that keeps you warm, dry, and comfortable for all your outdoor adventures.”",
+      "original_url": "https://www.amazon.com/Terramar-Thermasilk-Liner-Black-Medium/dp/B000V5I95C/ref=sr_1_5?keywords=terramar%2Bsocks&qid=1639079555&sr=8-5&th=1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Terramar-Thermasilk-Liner-Black-Medium/dp/B000V5I95C/ref=sr_1_5?keywords=terramar%2Bsocks&qid=1639079555&sr=8-5&th=1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Terramar-Thermasilk-Liner-Black-Medium/dp/B000V5I95C/ref=sr_1_5?keywords=terramar%2Bsocks&qid=1639079555&sr=8-5&th=1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.terramarsports.com/collections/mens-socks/products/sl2095"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Dogmatism and skepticism are both, in a sense, absolute philosophies; one is certain of knowing, the other of not knowing. What philosophy should dissipate is certainty, whether of knowledge or ignorance.” — Bertrand Russell And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Bertrand Russell And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Bertrand_Russell",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Bertrand_Russell"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

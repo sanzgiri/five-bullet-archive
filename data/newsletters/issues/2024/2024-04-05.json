@@ -6,7 +6,139 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Thread I’m reading and putting into action",
+      "category": "article",
+      "title": "Decluttering books",
+      "creator": null,
+      "note": "Even folks like [Mark Manson](https://tim.blog/2022/12/30/mark-manson/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content) make cameos answering the following questions I posted on Twitter/X: “The topic is decluttering books -- Anyone out there have advice for donating, getting rid of, or organizing an excess of books? What mental tricks or systems do you use to thin books out of your house?”",
+      "original_url": "https://twitter.com/tferriss/status/1773802218786844725",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://twitter.com/tferriss/status/1773802218786844725"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/12/30/mark-manson/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Song I’m loving",
+      "category": "music",
+      "title": "My Friend",
+      "creator": "Groove Armada",
+      "note": "([YouTube](https://youtu.be/JxohJX9ElpE?si=ej0Bar_v9ly2jl1-), [Apple Music](https://music.apple.com/us/album/my-friend/211467492?i=211468591), [Spotify](https://open.spotify.com/track/1CUalyCHoiuVMjJQr2ps5U?autoplay=true)) by [Groove Armada](https://www.groovearmada.com/) ([@GrooveArmada](https://twitter.com/GrooveArmada)).",
+      "original_url": "https://youtu.be/JxohJX9ElpE?si=ej0Bar_v9ly2jl1-",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/JxohJX9ElpE?si=ej0Bar_v9ly2jl1-"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/JxohJX9ElpE?si=ej0Bar_v9ly2jl1-"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/album/my-friend/211467492?i=211468591"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/1CUalyCHoiuVMjJQr2ps5U?autoplay=true"
+        },
+        {
+          "type": "other",
+          "url": "https://www.groovearmada.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/GrooveArmada"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Expression I’m enjoying",
+      "category": "other",
+      "title": "Felix culpa",
+      "creator": null,
+      "note": "“_Felix culpa_ is a Latin phrase that comes from the words _felix_, meaning ‘happy,’ ‘lucky,’ or ‘blessed,’ and _culpa_, meaning ‘fault’ or ‘fall.’ In the Catholic tradition, the phrase is most often translated ‘happy fault,’ as in the Catholic Exsultet. Other translations include ‘blessed fall’ or ‘fortunate fall.’” More broadly and put another way in Oxford Languages: **“an apparent error or disaster with happy consequences.”**",
+      "original_url": "https://en.m.wikipedia.org/wiki/Felix_culpa#:~:text=Felix%20culpa%20is%20a%20Latin,%22%20or%20%22fortunate%20fall%22",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.m.wikipedia.org/wiki/Felix_culpa#:~:text=Felix%20culpa%20is%20a%20Latin,%22%20or%20%22fortunate%20fall%22"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Short article I’m reading",
+      "category": "article",
+      "title": "A stealth attack came close to compromising the world’s computers",
+      "creator": null,
+      "note": "[Alternate link](https://archive.ph/G7kBC). From the article: “On March 29th Andres Freund, an engineer at Microsoft, published a short detective story. In recent weeks he had noticed that SSH—a system to log on securely to another device over the internet—was running about 500 milliseconds more slowly than expected.” [As one tweet put it](https://twitter.com/vxunderground/status/1774071339671794134), “The xz backdoor was initially caught by a software engineer at Microsoft. He noticed 500ms lag and thought something was suspicious. This is the Silver Back Gorilla of nerds. The internet final boss.” Or as _The New York Times_ asked, “[Did One Guy Just Stop a Huge Cyberattack?](https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html)”",
+      "original_url": "https://www.economist.com/science-and-technology/2024/04/02/a-stealth-attack-came-close-to-compromising-the-worlds-computers",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.economist.com/science-and-technology/2024/04/02/a-stealth-attack-came-close-to-compromising-the-worlds-computers"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.ph/G7kBC"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/vxunderground/status/1774071339671794134"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“I sometimes wonder whether conspiracy theories are an attempt to re-enchant the world in a distorted way. It’s like religion knocking on the door and trying to come back in a strange and distorted form. A sense of mystery beyond our own understanding of the world. If you ever talk to conspiracy theorists, that’s the sense you get from them. A sort of almost romantic sense of awe that there is this dark mysterious thing that a rational thing could never penetrate.” — Adam Curtis (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my brand-new interview with Netflix co-founder Reed Hastings, my conversation with The Subtle Art of Not Giving a F\\*c_k author Mark Manson, and my recent episode featuring legendary actor Scott Glenn. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Adam Curtis",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Adam_Curtis",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Adam_Curtis"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/ZQ5mG"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/04/03/reed-hastings/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/12/30/mark-manson/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/03/27/scott-glenn/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

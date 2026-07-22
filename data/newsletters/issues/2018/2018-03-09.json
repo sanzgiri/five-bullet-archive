@@ -6,7 +6,119 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "City of Thieves by David Benioff",
+      "creator": null,
+      "note": "I’ve been aching for fiction as therapy recently, and this novel was highly recommended to me by screenwriter, filmmaker, and co-creator of Billions, Brian Koppelman (my conversation with him [here](https://el2.fourhourmail.com/c/mvu8n09oou5h926mr/opfkhq/aHR0cHM6Ly90aW0uYmxvZy8yMDE0LzA2LzA0L2JyaWFuLWtvcHBlbG1hbi1zY3JlZW53cml0ZXIv)). For whatever reason, it took me months to finally open it in my Kindle, and now I’m hooked. It’s just what the doctor ordered -- a fantastic blend of comedy and tragedy that forces you to feel gratitude amidst any personal storm you might be facing… all while laughing out loud and embarrassing yourself on airplanes (as I just did).",
+      "original_url": "https://el2.fourhourmail.com/c/mvu8n09oou5h926mr/78i7h8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9DaXR5LVRoaWV2ZXMtTm92ZWwtRGF2aWQtQmVuaW9mZi9kcC8wNDUyMjk1Mjk3Lw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5h926mr/78i7h8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9DaXR5LVRoaWV2ZXMtTm92ZWwtRGF2aWQtQmVuaW9mZi9kcC8wNDUyMjk1Mjk3Lw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5h926mr/opfkhq/aHR0cHM6Ly90aW0uYmxvZy8yMDE0LzA2LzA0L2JyaWFuLWtvcHBlbG1hbi1zY3JlZW53cml0ZXIv"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Purchase I’m enjoying —",
+      "category": "other",
+      "title": "Panasonic \"Advanced\" eneloop rechargeable batteries with 3-hour quick charger",
+      "creator": null,
+      "note": "After lamenting to a videographer about the constant waste of batteries in podcasting, and the hassle of proper disposal, she recommended this rechargeable setup. They come pre-charged, take three hours to recharge fully, and Panasonic claims that the batteries will hold a 70% or greater charge for up to 10 years. So far, they are working out spectacularly well, and I’m carrying far less karmic guilt by no longer amassing half-dead normal batteries.",
+      "original_url": "https://el2.fourhourmail.com/c/mvu8n09oou5h926mr/zvtghn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9kcC9CMDFHM1NTMDRBL3JlZj1zc3BhX2RrX2RldGFpbF8xP3RoPTE=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5h926mr/zvtghn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9kcC9CMDFHM1NTMDRBL3JlZj1zc3BhX2RrX2RldGFpbF8xP3RoPTE="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Food I’m experimenting with —",
+      "category": "other",
+      "title": "Siete Family Foods grain-free tortillas",
+      "creator": null,
+      "note": "Siete is a local Austin, Texas, company that I was introduced to not long ago. These tortillas have become a rare double hit in both the paleo/CrossFit and vegan communities. Recently, I’ve been experimenting with breakfast tacos (scrambled eggs, cilantro, hot sauce, a little guacamole) and dinner tacos (e.g., salmon, guac, greens, beans). The almond flour tortillas are my favorite for taste, but be sure to use two tortillas at a time, lest you end up with food in your paws. The coconut/cassava is great for single layers, and the chia/cassava is the most durable of all. I grabbed a sampler pack and tried them all.",
+      "original_url": "https://el2.fourhourmail.com/c/mvu8n09oou5h926mr/pnceh9/aHR0cHM6Ly9zaWV0ZWZvb2RzLmNvbS9jb2xsZWN0aW9ucy90b3J0aWxsYXM=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5h926mr/pnceh9/aHR0cHM6Ly9zaWV0ZWZvb2RzLmNvbS9jb2xsZWN0aW9ucy90b3J0aWxsYXM="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "Following my podcast with Tim O’Reilly, I’ve been thinking about the below quote and considering Tim’s similar recommendations: “You do not need to leave your room. Remain sitting at your table and listen. Do not even listen, simply wait, be quiet, still and solitary. The world will freely offer itself to you to be unmasked, it has no choice, it will roll in ecstasy at your feet.” - Franz Kafka",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/mvu8n09oou5h926mr/xksph6/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzExLzA4L3RpbS1vcmVpbGx5Lw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5h926mr/xksph6/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzExLzA4L3RpbS1vcmVpbGx5Lw=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "What I’m hoping works —",
+      "category": "other",
+      "title": "Dr. Gabor Maté",
+      "creator": null,
+      "note": "and [Joe Gebbia, co-founder of Airbnb](https://el2.fourhourmail.com/c/mvu8n09oou5h926mr/kmbmh6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1YYW85REpFcGs4SQ==). Please let me know what you think and how I can improve it! Is it even worth doing? My opinion jumps back and forth, so please share your feedback. All new videos will go up on [my YouTube channel](https://el2.fourhourmail.com/c/mvu8n09oou5h926mr/52hvh7/aHR0cHM6Ly93d3cueW91dHViZS5jb20vdGltZmVycmlzcw==) (be sure to subscribe for all updates) full of experiments, injuries, TV episodes, and other antics.\n\nAnd as always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know. Just [send a tweet to @tferriss](https://el2.fourhourmail.com/c/mvu8n09oou5h926mr/2ou2ho/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==) and put #5BulletFriday in there so I can find it.  \n\nHave a wonderful weekend, all!  \n\nTim\n\n[![](https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg)](https://el2.fourhourmail.com/c/mvu8n09oou5h926mr/q3i8h7/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=)\n\nFORWARDED THIS MESSAGE? [SIGN UP](https://el2.fourhourmail.com/c/mvu8n09oou5h926mr/gvfnh5/aHR0cDovL2dvLmZvdXJob3Vyd29ya3dlZWsuY29tLzEweC1vdXRwdXQv).\n\n![Tim Ferriss Photo](http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg)\n\nJoin 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff.\n\nDUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just [click here](http://el2.fourhourmail.com/u/mvu8n09oou5h926mr). To reply to Tim, please do so in the blog comments [here](https://el2.fourhourmail.com/c/mvu8n09oou5h926mr/3wcphk/aHR0cDovL2ZvdXJob3Vyd29ya3dlZWsuY29tL2Jsb2c=).\n\nSeneca and Marcus, 60 29th Street, San Francisco, California 94110, United States\n\n \n\n![](http://el2.fourhourmail.com/o/mvu8n09oou5h926mr)",
+      "original_url": "https://el2.fourhourmail.com/c/mvu8n09oou5h926mr/60aeh8/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1IOUI1bVlmQlBsWQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5h926mr/60aeh8/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1IOUI1bVlmQlBsWQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5h926mr/kmbmh6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1YYW85REpFcGs4SQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5h926mr/52hvh7/aHR0cHM6Ly93d3cueW91dHViZS5jb20vdGltZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5h926mr/2ou2ho/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5h926mr/gvfnh5/aHR0cDovL2dvLmZvdXJob3Vyd29ya3dlZWsuY29tLzEweC1vdXRwdXQv"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "http://el2.fourhourmail.com/u/mvu8n09oou5h926mr"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5h926mr/3wcphk/aHR0cDovL2ZvdXJob3Vyd29ya3dlZWsuY29tL2Jsb2c="
+        }
+      ]
+    }
+  ]
 }

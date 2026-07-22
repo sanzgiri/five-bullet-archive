@@ -7,7 +7,162 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Doc I’m watching",
+      "category": "video",
+      "title": "You Cannot Kill David Arquette",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/gp/video/detail/B0GM4YCY7B/?tag=offsitoftimfe-20), [YouTube](https://www.youtube.com/watch?v=8rzmyeryahQ), [Apple TV](https://tv.apple.com/us/movie/you-cannot-kill-david-arquette/umc.cmc.2bpxpw2zp5ttiw7l2xb9yp9l1)). This one is hard to categorize. I found it bizarre, hilarious, and uplifting. The trailer is worth 1,000 words, so click [here](https://www.youtube.com/watch?t=84s&v=K5Ujq07y8Rk) for a brain tickle of WTFs. The official description: “Branded as the most hated man in wrestling after winning a highly controversial WCW World Heavyweight Championship in 2000, actor [David Arquette](https://en.wikipedia.org/wiki/David_Arquette) attempts a rocky return to the sport that stalled his promising Hollywood career. Dangerously determined to redeem his reputation and reclaim his self-respect, Arquette will stop at nothing to earn his place in professional wrestling.”",
+      "original_url": "https://www.amazon.com/gp/video/detail/B0GM4YCY7B/?tag=offsitoftimfe-20",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/gp/video/detail/B0GM4YCY7B/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/gp/video/detail/B0GM4YCY7B/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=8rzmyeryahQ"
+        },
+        {
+          "type": "other",
+          "url": "https://tv.apple.com/us/movie/you-cannot-kill-david-arquette/umc.cmc.2bpxpw2zp5ttiw7l2xb9yp9l1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?t=84s&v=K5Ujq07y8Rk"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/David_Arquette"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Air purifier I’m loving",
+      "category": "other",
+      "title": "Jaspr Air Scrubber",
+      "creator": null,
+      "note": "I’ve tried a lot of air purifiers over the years, and there are a handful of great options. This is the best combination of function and aesthetics that I’ve found. I love the design and am buying more units for my family. It’s quiet enough to sleep next to, and it’s beautiful enough to put in your living room. Thank you to [Dr. Tommy Wood](https://tim.blog/2026/01/28/dr-tommy-wood-how-to-future-proof-your-brain-from-dementia/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) for introducing me to Jaspr. More from Dr. Wood coming soon to [the blog](https://tim.blog/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf).",
+      "original_url": "https://jaspr.co/products/airscrubber?tw_source=google&tw_adid=792823540946&tw_campaign=23464625989&tw_kwdid=kwd-378620422267&gad_source=1&gad_campaignid=23464625989",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://jaspr.co/products/airscrubber?tw_source=google&tw_adid=792823540946&tw_campaign=23464625989&tw_kwdid=kwd-378620422267&gad_source=1&gad_campaignid=23464625989"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/01/28/dr-tommy-wood-how-to-future-proof-your-brain-from-dementia/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Book I’m reading",
+      "category": "book",
+      "title": "About This Life: Journeys on the Threshold of Memory",
+      "creator": "Barry Lopez",
+      "note": ". I have fallen in love with Barry Lopez’s writing. If you’re new to his work, I would suggest reading [_Of Wolves and Men_](https://www.amazon.com/Wolves-Men-Barry-Holstun-Lopez/dp/0684163225/?tag=offsitoftimfe-20) or [_Arctic Dreams_](https://www.amazon.com/Arctic-Dreams-Barry-Lopez/dp/0375727485/?tag=offsitoftimfe-20) first, as they are nonfiction at its best. [_About This Life_](https://www.amazon.com/About-This-Life-Journeys-Threshold/dp/0679754474/?tag=offsitoftimfe-20) is a mostly autobiographical collection of essays. In descending order, my favorites are: “Learning to See,” “Orchids on the Volcanoes,” and “Apologia.”",
+      "original_url": "https://www.amazon.com/About-This-Life-Journeys-Threshold/dp/0679754474/?tag=offsitoftimfe-20",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/About-This-Life-Journeys-Threshold/dp/0679754474/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Barry_Lopez"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Wolves-Men-Barry-Holstun-Lopez/dp/0684163225/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Arctic-Dreams-Barry-Lopez/dp/0375727485/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/About-This-Life-Journeys-Threshold/dp/0679754474/?tag=offsitoftimfe-20"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Profile I’m reading",
+      "category": "article",
+      "title": "The New World: Joshua Kushner, Thrive Capital, and the American dream",
+      "creator": "Jeremy Stern",
+      "note": "(_Colossus_).",
+      "original_url": "https://colossus.com/article/joshua-kushner-thrive-new-world/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://colossus.com/article/joshua-kushner-thrive-new-world/"
+        },
+        {
+          "type": "other",
+          "url": "https://colossus.com/author/jeremy-stern/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Study I’m supporting",
+      "category": "other",
+      "title": "Investigating Rapid-Acting TMS for Adolescent Depression",
+      "creator": null,
+      "note": "Do you know a teenager (ages 13–20) experiencing symptoms of depression? If so, this may be worth a look. Dr. Sean O’Sullivan and his team at UT Austin are running a clinical trial using accelerated and personalized transcranial magnetic stimulation (TMS) to treat depression. It is drug-free, and the treatment is only five days long.  \n​  \nThis is the very approach I’ve used personally, and I had my most recent TMS treatment for GAD/OCD last week. The results are some of the most impressive I’ve ever seen.  \n​  \nIf you or someone you know might benefit, you can reach the study team directly: [texassaintstudy@gmail.com](mailto:texassaintstudy@gmail.com) or (512) 495-5995. Find their [ClinicalTrials.gov listing here (NCT06523439)](https://clinicaltrials.gov/study/NCT06523439). Participants who attend all visits will receive a total of $525. The FDA cleared TMS for adolescent depression in 2024.  \n​  \n​_Disclaimer: To be an eligible participant for this study, you must have had fewer than 3 months of antidepressant medication treatment in the past year and fewer than 10 psychotherapy sessions in the past year._",
+      "original_url": "https://sites.utexas.edu/osullivanlab/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://sites.utexas.edu/osullivanlab/"
+        },
+        {
+          "type": "other",
+          "url": "https://clinicaltrials.gov/study/NCT06523439"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“It is urgent to live enchanted.” — Valter hugo mãe (Click to share on X.) * * * You can complement this edition of 5-Bullet Friday with my brand-new podcast episode, featuring mega 4-Hour Workweek success story Brian Dean. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Valter hugo mãe",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Valter_hugo_m%C3%A3e",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Valter_hugo_m%C3%A3e"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/C7fxa"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/04/16/brian-dean-backlinko-case-study/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

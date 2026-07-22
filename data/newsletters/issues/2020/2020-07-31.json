@@ -1,13 +1,185 @@
 {
   "schema_version": 1,
   "issue_date": "2020-07-31",
-  "subject": "5-Bullet Friday — July 31, 2020 ",
+  "subject": "5-Bullet Friday — July 31, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "TV series I just binge-watched —",
+      "category": "video",
+      "title": "Green Frontier",
+      "creator": null,
+      "note": "(__Frontera Verde_), co-created by [Diego Ramírez Schrempp](https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/6qheh8h24wx4z5/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9lbF90cmlwdWxhbnRlLw==), [Mauricio Leiva-Cock](https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/kkhmh6h9pezpre/aHR0cHM6Ly93d3cuaW1kYi5jb20vbmFtZS9ubTM3MDc4NjQv), and [Jenny Ceballos](https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/58hvh7h9w03wqo/aHR0cHM6Ly93d3cuaW1kYi5jb20vbmFtZS9ubTEwMjc0NDM5Lw==). The production company for the series is [Dynamo](https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/25h2hohoxglx6e/aHR0cHM6Ly93d3cuZHluYW1vLm5ldC9ob21l) ([@DynamoCine](https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/qvh8h7h63ve3z6/aHR0cHM6Ly90d2l0dGVyLmNvbS9keW5hbW9jaW5l)), which was also behind [_Narcos_](https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/g3hnh5hz2ng2re/aHR0cHM6Ly93d3cubmV0ZmxpeC5jb20vdGl0bGUvODAwMjUxNzI=) and [_El Chapo_](https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/9qhzhnh28x480p/aHR0cHM6Ly93d3cubmV0ZmxpeC5jb20vdGl0bGUvODAxMzMwNDI=). I’ll skip the text description and just recommend that you watch [the trailer here](https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/3ohphkhd8rx803/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1fS0VoTEIwMkc3Zw==). Suffice to say, I asked my girlfriend if she would watch this with me, and less than 30 seconds into the trailer, she replied with an unequivocal “HELL, NO.” I don’t do creepy often, but when I do, it’s something like _Frontera Verde_. Thanks to my friend Doug for the recommendation.",
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/x0hph6h7mzkmor/aHR0cHM6Ly93d3cubmV0ZmxpeC5jb20vdGl0bGUvODAyMDU1OTQ=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/x0hph6h7mzkmor/aHR0cHM6Ly93d3cubmV0ZmxpeC5jb20vdGl0bGUvODAyMDU1OTQ="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/6qheh8h24wx4z5/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9lbF90cmlwdWxhbnRlLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/kkhmh6h9pezpre/aHR0cHM6Ly93d3cuaW1kYi5jb20vbmFtZS9ubTM3MDc4NjQv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/58hvh7h9w03wqo/aHR0cHM6Ly93d3cuaW1kYi5jb20vbmFtZS9ubTEwMjc0NDM5Lw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/25h2hohoxglx6e/aHR0cHM6Ly93d3cuZHluYW1vLm5ldC9ob21l"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/qvh8h7h63ve3z6/aHR0cHM6Ly90d2l0dGVyLmNvbS9keW5hbW9jaW5l"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/g3hnh5hz2ng2re/aHR0cHM6Ly93d3cubmV0ZmxpeC5jb20vdGl0bGUvODAwMjUxNzI="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/9qhzhnh28x480p/aHR0cHM6Ly93d3cubmV0ZmxpeC5jb20vdGl0bGUvODAxMzMwNDI="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/3ohphkhd8rx803/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1fS0VoTEIwMkc3Zw=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Ground On Down",
+      "creator": "Ben Harper",
+      "note": "([YouTube](https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/n2hohvho4g24m6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj04Zi1EN1h4ODlyNA==), [Spotify](https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/wnh2hghod4mdn8/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3RyYWNrLzZUSGg1Q0w1UFlmN09xT3E5cFRxTmI=), [Apple Music](https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/reh8hoh5p7kp4k/aHR0cHM6Ly9tdXNpYy5hcHBsZS5jb20vYWxidW0vZ3JvdW5kLW9uLWRvd24vMTQ0MDg0OTcwOT9pPTE0NDA4NDk3MTMmdW89NSZhdD0xMDAwbEl4OCZpdHNjZz0zMDIwMSZjdD1lYzA4MDExZS1kYWRkLWM5MGYtZDU1Zi0yODk3YWFkODJiY2YmbXR0bmFnZW5jeWlkPTc2OTQ1OTA0NjcxNjU1OTc0MyZtdHRuc2l0ZWlkPTEyNTExNSZtdHRuM3BpZD1hX2N1c3RvbV83Nzk4MTYwODE3OTg4NzM4NzQmbXR0bnN1YjE9U2hhemFtX3dlYiZtdHRuc3ViMj1lYzA4MDExZS1kYWRkLWM5MGYtZDU1Zi0yODk3YWFkODJiY2YmYXBwPW11c2ljJml0c2N0PVNoYXphbV93ZWI=)**)** by [Ben Harper](https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/08hwh9h74xn4vv/aHR0cHM6Ly93d3cuYmVuaGFycGVyLmNvbS8=) ([@benharper](https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/8ghqhoh583w8zd/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9iZW5oYXJwZXIv)).",
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/n2hohvho4g24m6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj04Zi1EN1h4ODlyNA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/n2hohvho4g24m6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj04Zi1EN1h4ODlyNA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/n2hohvho4g24m6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj04Zi1EN1h4ODlyNA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/wnh2hghod4mdn8/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3RyYWNrLzZUSGg1Q0w1UFlmN09xT3E5cFRxTmI="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/reh8hoh5p7kp4k/aHR0cHM6Ly9tdXNpYy5hcHBsZS5jb20vYWxidW0vZ3JvdW5kLW9uLWRvd24vMTQ0MDg0OTcwOT9pPTE0NDA4NDk3MTMmdW89NSZhdD0xMDAwbEl4OCZpdHNjZz0zMDIwMSZjdD1lYzA4MDExZS1kYWRkLWM5MGYtZDU1Zi0yODk3YWFkODJiY2YmbXR0bmFnZW5jeWlkPTc2OTQ1OTA0NjcxNjU1OTc0MyZtdHRuc2l0ZWlkPTEyNTExNSZtdHRuM3BpZD1hX2N1c3RvbV83Nzk4MTYwODE3OTg4NzM4NzQmbXR0bnN1YjE9U2hhemFtX3dlYiZtdHRuc3ViMj1lYzA4MDExZS1kYWRkLWM5MGYtZDU1Zi0yODk3YWFkODJiY2YmYXBwPW11c2ljJml0c2N0PVNoYXphbV93ZWI="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/08hwh9h74xn4vv/aHR0cHM6Ly93d3cuYmVuaGFycGVyLmNvbS8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/8ghqhoh583w8zd/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9iZW5oYXJwZXIv"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "The Four Quadrants of Conformism",
+      "creator": "Paul Graham",
+      "note": "fourhourmail.com/c/38uml98xxakhvl3veho/l2hehmhkp4qpe9/aHR0cHM6Ly90d2l0dGVyLmNvbS9wYXVsZw==)). Pair this with Paul’s 2004 essay “[What You Can’t Say](https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/m2h7h5hnx92xv6/aHR0cDovL3d3dy5wYXVsZ3JhaGFtLmNvbS9zYXkuaHRtbA==),” which features The Conformist Test: “Let’s start with a test: Do you have any opinions that you would be reluctant to express in front of a group of your peers? If the answer is no, you might want to stop and think about that. If everything you believe is something you’re supposed to believe, could that possibly be a coincidence? Odds are it isn’t. Odds are you just think what you’re told.”",
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/vqh3hrhk64m6lr/aHR0cDovL3BhdWxncmFoYW0uY29tL2NvbmZvcm1pc20uaHRtbA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/vqh3hrhk64m6lr/aHR0cDovL3BhdWxncmFoYW0uY29tL2NvbmZvcm1pc20uaHRtbA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/l2hehmhkp4qpe9/aHR0cHM6Ly90d2l0dGVyLmNvbS9wYXVsZw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/m2h7h5hnx92xv6/aHR0cDovL3d3dy5wYXVsZ3JhaGFtLmNvbS9zYXkuaHRtbA=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m watching (short cinematic video) —",
+      "category": "video",
+      "title": "Hawai‘i’s Axis Deer: From Invasive Species to Food Source",
+      "creator": null,
+      "note": "This short video is stunningly beautiful. I saw early edits, and I’ve been looking forward to sharing it. [Patagonia Provisions](https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/e0hph7hnzemz6r/aHR0cHM6Ly93d3cucGF0YWdvbmlhcHJvdmlzaW9ucy5jb20v) supported and co-produced the piece.I’m not involved with many companies these days, but I’m thrilled to be helping [Maui Nui Venison](https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/7qh7h8h4e8deqx/aHR0cHM6Ly9tYXVpbnVpdmVuaXNvbi5jb20vcGFnZXMvdGltP3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT10aW1lbWFpbCZ1dG1fY2FtcGFpZ249NWJ1bGxldGZyaWRheSZ1dG1fdGVybT10aW1wYWdlJnV0bV9jb250ZW50PXRpbXBhZ2U=). Their ethos and mission are a rare blend of many things I care deeply about. Maui Nui venison is wild-harvested from Maui’s invasive axis deer population. Axis deer severely impact Maui’s ecosystems, and if not actively managed, their population will quadruple in size over the next 20 years. Beyond their mission to help balance these populations, Maui Nui Venison’s taste and nutritional profile are unbelievable. Harvested using stress-free methods, their [fresh venison](https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/owhkhqh8enxepe/aHR0cHM6Ly9tYXVpbnVpdmVuaXNvbi5jb20vY29sbGVjdGlvbnMvYWxsLXZlbmlzb24tcHJvZHVjdHMvcHJvZHVjdHMvZnJlc2gtYm94LXN1YnNjcmlwdGlvbj91dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9dGltZW1haWwmdXRtX2NhbXBhaWduPTVidWxsZXRmcmlkYXkmdXRtX3Rlcm09c3Vic2NyaXB0aW9uJnV0bV9jb250ZW50PXN1YnNjcmlwdGlvbg==) is clean tasting, tender, and one of the most nutrient-dense red meats on the planet. I’ve leaned out significantly in the last two months of eating predominantly Maui Nui venison.As friend and past podcast guest [Justin Boreta](https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/z2hghnhdz75zng/aHR0cHM6Ly9ib3JldGEubmV0Lw==) texted me last night (and I had no idea he’d even tried it): “This Maui venison is so good… Holy sh\\*t! I had no idea. Thanks for the heads up. I smoked [some medallions](https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/owhkhqh8enxepe/aHR0cHM6Ly9tYXVpbnVpdmVuaXNvbi5jb20vY29sbGVjdGlvbnMvYWxsLXZlbmlzb24tcHJvZHVjdHMvcHJvZHVjdHMvZnJlc2gtYm94LXN1YnNjcmlwdGlvbj91dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9dGltZW1haWwmdXRtX2NhbXBhaWduPTVidWxsZXRmcmlkYXkmdXRtX3Rlcm09c3Vic2NyaXB0aW9uJnV0bV9jb250ZW50PXN1YnNjcmlwdGlvbg==) and then made them into something like a brisket scramble. It was beyond. It tastes better knowing that it’s also sustainable. Dunno if/why I will go back to beef unless it’s super special.” For those who like ribs, [here are some pics of my last rib meal](https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/x0hph6h7mzkm2r/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0NBV2hlVkhIeG1mLw==).  \n  \nMy go-to protein-rich snacks are their Venison Sticks, and [**Maui Nui is offering subscribers of this newsletter 20% off all their snack products**](https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/7qh7h8h4e8deqx/aHR0cHM6Ly9tYXVpbnVpdmVuaXNvbi5jb20vcGFnZXMvdGltP3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT10aW1lbWFpbCZ1dG1fY2FtcGFpZ249NWJ1bGxldGZyaWRheSZ1dG1fdGVybT10aW1wYWdlJnV0bV9jb250ZW50PXRpbXBhZ2U=)—simply use code **TIM** at checkout. If you’d like more related reading, check out this blog post: [**In Balance with Nature**](https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/kkhmh6h9pezpwe/aHR0cHM6Ly9tYXVpbnVpdmVuaXNvbi5jb20vYmxvZ3Mva2l0Y2hlbi1maWVsZC9pbi1iYWxhbmNlLXdpdGgtbmF0dXJlP3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT10aW1lbWFpbCZ1dG1fY2FtcGFpZ249NWJ1bGxldGZyaWRheSZ1dG1fdGVybT1ibG9nJnV0bV9jb250ZW50PWJsb2c=).",
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/dpheh0h7xkdxvl/aHR0cHM6Ly9tYXVpbnVpdmVuaXNvbi5jb20vcGFnZXMvbWlzc2lvbj91dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9dGltZW1haWwmdXRtX2NhbXBhaWduPTVidWxsZXRmcmlkYXkmdXRtX3Rlcm09bWlzc2lvbiZ1dG1fY29udGVudD1taXNzaW9u",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/dpheh0h7xkdxvl/aHR0cHM6Ly9tYXVpbnVpdmVuaXNvbi5jb20vcGFnZXMvbWlzc2lvbj91dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9dGltZW1haWwmdXRtX2NhbXBhaWduPTVidWxsZXRmcmlkYXkmdXRtX3Rlcm09bWlzc2lvbiZ1dG1fY29udGVudD1taXNzaW9u"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/e0hph7hnzemz6r/aHR0cHM6Ly93d3cucGF0YWdvbmlhcHJvdmlzaW9ucy5jb20v"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/7qh7h8h4e8deqx/aHR0cHM6Ly9tYXVpbnVpdmVuaXNvbi5jb20vcGFnZXMvdGltP3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT10aW1lbWFpbCZ1dG1fY2FtcGFpZ249NWJ1bGxldGZyaWRheSZ1dG1fdGVybT10aW1wYWdlJnV0bV9jb250ZW50PXRpbXBhZ2U="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/owhkhqh8enxepe/aHR0cHM6Ly9tYXVpbnVpdmVuaXNvbi5jb20vY29sbGVjdGlvbnMvYWxsLXZlbmlzb24tcHJvZHVjdHMvcHJvZHVjdHMvZnJlc2gtYm94LXN1YnNjcmlwdGlvbj91dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9dGltZW1haWwmdXRtX2NhbXBhaWduPTVidWxsZXRmcmlkYXkmdXRtX3Rlcm09c3Vic2NyaXB0aW9uJnV0bV9jb250ZW50PXN1YnNjcmlwdGlvbg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/z2hghnhdz75zng/aHR0cHM6Ly9ib3JldGEubmV0Lw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/owhkhqh8enxepe/aHR0cHM6Ly9tYXVpbnVpdmVuaXNvbi5jb20vY29sbGVjdGlvbnMvYWxsLXZlbmlzb24tcHJvZHVjdHMvcHJvZHVjdHMvZnJlc2gtYm94LXN1YnNjcmlwdGlvbj91dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9dGltZW1haWwmdXRtX2NhbXBhaWduPTVidWxsZXRmcmlkYXkmdXRtX3Rlcm09c3Vic2NyaXB0aW9uJnV0bV9jb250ZW50PXN1YnNjcmlwdGlvbg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/x0hph6h7mzkm2r/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0NBV2hlVkhIeG1mLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/7qh7h8h4e8deqx/aHR0cHM6Ly9tYXVpbnVpdmVuaXNvbi5jb20vcGFnZXMvdGltP3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT10aW1lbWFpbCZ1dG1fY2FtcGFpZ249NWJ1bGxldGZyaWRheSZ1dG1fdGVybT10aW1wYWdlJnV0bV9jb250ZW50PXRpbXBhZ2U="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/kkhmh6h9pezpwe/aHR0cHM6Ly9tYXVpbnVpdmVuaXNvbi5jb20vYmxvZ3Mva2l0Y2hlbi1maWVsZC9pbi1iYWxhbmNlLXdpdGgtbmF0dXJlP3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT10aW1lbWFpbCZ1dG1fY2FtcGFpZ249NWJ1bGxldGZyaWRheSZ1dG1fdGVybT1ibG9nJnV0bV9jb250ZW50PWJsb2c="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Don’t try to solve serious matters in the middle of the night.” — Philip K. Dick And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Philip K. Dick And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/58hvh7h9w03wxo/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUGhpbGlwX0suX0RpY2s=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/58hvh7h9w03wxo/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUGhpbGlwX0suX0RpY2s="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhvl3veho/25h2hohoxglx9e/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    }
+  ]
 }

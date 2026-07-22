@@ -6,7 +6,154 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Tito on Timbales",
+      "creator": "Tito Puente",
+      "note": "([YouTube](https://www.youtube.com/watch?v=dIxO88gh31w), [Spotify](https://open.spotify.com/track/75wYMQCuwgiCRt6SBzcVzu?dlsi=eee04e76aac242c9&nd=1&si=b9e6c3dab009457b)) by [Tito Puente](https://en.wikipedia.org/wiki/Tito_Puente). Tito is a legend. I like to imagine that he freestyled for an hour and selected his favorite six minutes for this track. The man knows how to jam. Let it cleanse your mind of this week’s BS and set the stage for a homebase slide into the weekend.",
+      "original_url": "https://www.youtube.com/watch?v=dIxO88gh31w",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=dIxO88gh31w"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=dIxO88gh31w"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/75wYMQCuwgiCRt6SBzcVzu?dlsi=eee04e76aac242c9&nd=1&si=b9e6c3dab009457b"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Tito_Puente"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Mountain Queen: The Summits of Lhakpa Sherpa",
+      "creator": null,
+      "note": "I watched this beautiful doc after [Noah Kagan](https://tim.blog/2024/01/23/noah-kagan-million-dollar-weekend/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) recommended it and after I saw this article: [_Netflix just got one of the best documentaries of the year — and it’s 100% on Rotten Tomatoes_](https://www.tomsguide.com/entertainment/netflix/netflix-just-got-one-of-the-most-inspiring-documentaries-of-the-year-and-its-100-on-rotten-tomatoes). The official synopsis gives you a taste: “The first Nepali woman to summit and survive Mount Everest, Lhakpa Sherpa devoted her life to inspiring and empowering girls. Now a single mother working at a Whole Foods in Connecticut, she embarks on a dramatic return to the mountain, determined to redeem her life’s purpose and inspire her own daughters.”",
+      "original_url": "https://www.netflix.com/title/81719138",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.netflix.com/title/81719138"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/01/23/noah-kagan-million-dollar-weekend/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.tomsguide.com/entertainment/netflix/netflix-just-got-one-of-the-most-inspiring-documentaries-of-the-year-and-its-100-on-rotten-tomatoes"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Comic Book Script Archive",
+      "creator": null,
+      "note": "“The Comic Book Script Archive was founded by Tim Simmons because he couldn’t find an online resource for comic book scripts. Eventually, he decided to make one. Comics Experience is pleased to present Tim’s archive as an educational resource for those interested in comic book scripting.”",
+      "original_url": "https://comicsexperience.com/scripts/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://comicsexperience.com/scripts/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m excited to finally share",
+      "category": "other",
+      "title": "Concept Art",
+      "creator": null,
+      "note": "In the shadows in my top-secret lair, I’ve been working with some of my favorite artists in the world on the expansion and world-building of [_The Legend of COCKPUNCH_](http://cockpunch.com/podcast). But…  \n​  \nThat was a joke, right? Or was it?  \n​  \nSome of you might recall it as an experiment in Emergent Long Fiction (ELF), as well as a fundraiser for my nonprofit [Saisei Foundation](https://saiseifoundation.org/), which supports science related to mental health therapeutics. Less obvious is the fact that _The Legend of COCKPUNCH_, though launched with laughability as an immunity cloak, was designed from the outset to be a viable and extensive fantasy world with a few tweaks. This is the first of several posts showing what I’ve been up to behind the scenes. I’ll be sharing much more.  \n​  \n​[This first concept art](https://www.instagram.com/p/C-ddnZiv-3b/) is a silhouette exploration of the various factions and major houses by [Tyler Jacobson](https://www.instagram.com/tylerjacobsonart/?hl=en), frequent illustrator and concept artist for _Magic: The Gathering_ and _Dungeons & Dragons_, including covers for both the 5th edition _Dungeon Master’s Guide_ and _Player’s Handbook_.",
+      "original_url": "https://www.instagram.com/p/C-ddnZiv-3b/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/p/C-ddnZiv-3b/"
+        },
+        {
+          "type": "other",
+          "url": "http://cockpunch.com/podcast"
+        },
+        {
+          "type": "other",
+          "url": "https://saiseifoundation.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/C-ddnZiv-3b/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/tylerjacobsonart/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Question I’m asking myself frequently",
+      "category": "other",
+      "title": "Tara Brach",
+      "creator": null,
+      "note": ": “There was a wise old sage who said, ‘There’s really only one question worth considering, and that is: What are you unwilling to feel?’”  \n​  \nDo you wake up with a sense of foreboding and anxiety and a desire to stay in bed? When you go to bed, are you full of anxiety and worries and preoccupation about what happened, or what could happen the next day? I use this question as a systems check-in for identifying things I should stop, lessen, or double down on.",
+      "original_url": "https://tim.blog/2015/07/31/tara-brach/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2015/07/31/tara-brach/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I'm pondering",
+      "category": "quote",
+      "title": "“Things turn out best for the people who make the best of the way things turn out.” — John Wooden. Nicknamed “the Wizard of Westwood,” he won ten NCAA championships over a 12-year period as head coach for the UCLA Bruins, including a record seven in a row. (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my interview with leading meditation teacher Tara Brach; my conversation with legendary drummer for The Police, Stewart Copeland; and the latest supercombo podcast episode, featuring former commander of JSOC General Stanley McChrystal and World Series of Poker champion Liv Boeree. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "John Wooden. Nicknamed “the Wizard of Westwood,” he won ten NCAA championships over a 12-year period as head coach for the UCLA Bruins, including a record seven in a row.",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/John_Wooden",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/John_Wooden"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/T8ahl"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/07/31/tara-brach/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/09/06/stewart-copeland/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/08/09/general-stanley-mcchrystal-and-liv-boeree/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

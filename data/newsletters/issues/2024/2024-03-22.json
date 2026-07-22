@@ -6,7 +6,151 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading and putting to use",
+      "category": "book",
+      "title": "Back Mechanic",
+      "creator": "Dr",
+      "note": ", one of the great Jedis of spine mechanics. The description: “_Back Mechanic_ guides you through a self-assessment of your pain triggers then shows you how to avoid these roadblocks to recovery. Then, effective exercises are coached in a step-by-step progressive plan. Spine expert Prof. McGill used his 30 years of research findings and clinical investigations to create this evidence-based guide that has helped thousands reclaim their lives.” Long-term readers might recognize Stuart’s name, as I featured the following exercises from him in a previous 5BF: “[Enhancing low back health through stabilization exercise](https://www.ahs.uwaterloo.ca/~mcgill/fitnessleadersguide.pdf).” From extreme pain six months ago, these exercises helped me to aggressively ski half-day sessions 4–5x/week all of January and February.",
+      "original_url": "https://www.amazon.com/Back-Mechanic-Stuart-McGill-2015-09-30/dp/B01FKSGJYC",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Back-Mechanic-Stuart-McGill-2015-09-30/dp/B01FKSGJYC"
+        },
+        {
+          "type": "other",
+          "url": "https://www.backfitpro.com/about-us/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.ahs.uwaterloo.ca/~mcgill/fitnessleadersguide.pdf"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Podcast episode I’m loving",
+      "category": "podcast",
+      "title": "Power Broker #01: Robert Caro",
+      "creator": "99% Invisible_, hosted by Roman Mars and Elliott Kalan",
+      "note": ", hosted by [Roman Mars](https://en.wikipedia.org/wiki/Roman_Mars) and [Elliott Kalan](https://en.wikipedia.org/wiki/Elliott_Kalan). This is spectacular. I must confess with great shame that I have never finished [_The Power Broker_](https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245/)_,_ the legendary Pulitzer Prize winner by Robert Caro. Dozens of my most brilliant friends have recommended it, and I’ve tried valiantly, but I somehow fall short. The book chronicles the life of Robert Moses, a city planner who became the most powerful man in New York, shaping the city’s politics and infrastructure.  \n​  \nThis three-part podcast allowed me to salvage my self-respect and dive back into what I knew to be an incredible story worth exploring. It also reignited my desire to finish the book.  \n​  \nListen on [Apple Podcasts](https://podcasts.apple.com/us/podcast/power-broker-01-robert-caro/id394775318?i=1000642195418), [Spotify](https://open.spotify.com/episode/6nRsxCu5n0Z8xBF63OGI1n?si=F_JYXAfQQi-mJDzOR511AA), or wherever you get your podcasts. I will be listening to episodes #2 and #3 in the series over the weekend. To sample Robert Caro’s incredible writing, read the “if you do everything” paragraph [here](https://www.dwarkeshpatel.com/p/lyndon-johnson).  \n​  \nFor a cinematic impression of Robert Moses, you can find a creative variant of him in Edward Norton’s brilliant adaptation of [_Motherless Brooklyn_](https://en.wikipedia.org/wiki/Motherless_Brooklyn_(novel)) as Moses Randolph. [The trailer here](https://www.youtube.com/watch?v=Fru8IkuDp_k)—and the entire film—is well worth watching.",
+      "original_url": "https://99percentinvisible.org/episode/power-broker-01-robert-caro/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://99percentinvisible.org/episode/power-broker-01-robert-caro/"
+        },
+        {
+          "type": "other",
+          "url": "https://99percentinvisible.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Roman_Mars"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Elliott_Kalan"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245/"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/power-broker-01-robert-caro/id394775318?i=1000642195418"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/6nRsxCu5n0Z8xBF63OGI1n?si=F_JYXAfQQi-mJDzOR511AA"
+        },
+        {
+          "type": "other",
+          "url": "https://www.dwarkeshpatel.com/p/lyndon-johnson"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Motherless_Brooklyn_(novel"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=Fru8IkuDp_k"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What is making me laugh",
+      "category": "other",
+      "title": "Humanitarians of Tinder",
+      "creator": null,
+      "note": "Since I’m back on the dating scene, I decided to revisit this old gem. After a hard day, it’s a great way to laugh until it hurts and go to bed with a smile. Life is absurd, and sometimes you just need to bathe in the “WTF?” of it all.",
+      "original_url": "https://humanitariansoftinder.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://humanitariansoftinder.com/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Fiction writing I’m sharing",
+      "category": "other",
+      "title": "How to Start a War",
+      "creator": null,
+      "note": "“How to Start a War” is my first published fiction piece, and it’s the first time I’ve shared fiction on the blog. It’s a short story about mercenaries, modern life, and the games we play. How much of it is actually fiction? Well, that’s a damn good question. [Read it here](https://tim.blog/2024/03/22/how-to-start-a-war/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content), and let me know what you think in the blog post’s comments.",
+      "original_url": "https://tim.blog/2024/03/22/how-to-start-a-war/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2024/03/22/how-to-start-a-war/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/03/22/how-to-start-a-war/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Poem I’m pondering",
+      "category": "other",
+      "title": "David Whyte",
+      "creator": null,
+      "note": "([Click here to share on Twitter](https://ctt.ec/o6vpb).)\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with the latest _Tim Ferriss Experiment_ episode (“[How to Quickly Learn Poker](https://www.youtube.com/watch?v=Z_uUkjQKamI)”), my most recent interview with [Edward Norton](https://tim.blog/2019/10/31/edward-norton-motherless-brooklyn/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content), and my brand-new “walk and talk” conversation with the one and only [Seth Godin](https://tim.blog/2024/03/20/seth-godin-3/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content).  \n​  \nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
+      "original_url": "https://onbeing.org/poetry/everything-is-waiting-for-you/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://onbeing.org/poetry/everything-is-waiting-for-you/"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/o6vpb"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=Z_uUkjQKamI"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/10/31/edward-norton-motherless-brooklyn/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/03/20/seth-godin-3/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

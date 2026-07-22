@@ -6,7 +6,143 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m wearing",
+      "category": "other",
+      "title": "Glerups",
+      "creator": null,
+      "note": "Many of you asked about the shoes I’m wearing in [this photo](https://www.instagram.com/p/C3lDKlNP_Pt/). In the colder months, I wear Glerups indoors effectively 100% of the time. I love them.",
+      "original_url": "https://www.glerups.com/collections/all",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.glerups.com/collections/all"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/C3lDKlNP_Pt/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Burn",
+      "creator": "Ellie Goulding",
+      "note": "([YouTube](https://youtu.be/CGyEd0aKWZE?si=ZwqQj6MD5APRNoHH), [Spotify](https://open.spotify.com/track/5lF0pHbsJ0QqyIrLweHJPW?si=hkmdGlDMT7i7WU9sSO57qw&pi=u-E_PwLUfdSVuN), [Apple Music](https://music.apple.com/gb/song/burn/1445742982)) by [Ellie Goulding](https://www.instagram.com/elliegoulding/?hl=en). This has become one of my go-to feel-good tracks. It’s perfect for first thing in the morning or at 5 p.m. after too many video calls have chewed on your soul.",
+      "original_url": "https://youtu.be/CGyEd0aKWZE?si=ZwqQj6MD5APRNoHH",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/CGyEd0aKWZE?si=ZwqQj6MD5APRNoHH"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/CGyEd0aKWZE?si=ZwqQj6MD5APRNoHH"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/5lF0pHbsJ0QqyIrLweHJPW?si=hkmdGlDMT7i7WU9sSO57qw&pi=u-E_PwLUfdSVuN"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/gb/song/burn/1445742982"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/elliegoulding/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Summer destinations I’m considering",
+      "category": "other",
+      "title": "The 24 Best Places to Go in 2024",
+      "creator": null,
+      "note": "If you have any clear favorites, [please let me know on Twitter @tferriss](https://twitter.com/tferriss)! I’ll start referring to it as “X” in 2030.",
+      "original_url": "https://www.cntraveller.com/article/best-places-to-go-in-the-world-2024",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.cntraveller.com/article/best-places-to-go-in-the-world-2024"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading",
+      "category": "book",
+      "title": "String Theory: David Foster Wallace on Tennis",
+      "creator": null,
+      "note": "“Federer Both Flesh and Not” is considered one of Wallace’s best essays, and it doesn’t disappoint. I’m not a tennis player, and that didn’t affect my enjoyment of this writing one iota. The essay was first published in _The New York Times_ as “[Federer as Religious Experience](https://www.nytimes.com/2006/08/20/sports/playmagazine/20federer.html)” in 2006.  \n​  \nHere are two excerpts to give you a taste:  \n​  \n​_There are three kinds of valid explanation for Federer’s ascendancy. One kind involves mystery and metaphysics and is, I think, closest to the real truth. The others are more technical and make for better journalism.  \n​  \nThe metaphysical explanation is that Roger Federer is one of those rare, preternatural athletes who appear to be exempt, at least in part, from certain physical laws. Good analogs here include Michael Jordan, who could not only jump inhumanly high but actually hang there a beat or two longer than gravity allows, and Muhammad Ali, who really could “float” across the canvas and land two or three jabs in the clock-time required for one. There are probably a half-dozen other examples since 1960. And Roger Federer is of this type—a type that one could call genius, or mutant, or avatar.  \n​_​  \n\\[...\\]  \n​_​  \nIn 2006, though, it’s fair to ask why this kind of talent still matters so much. Recall what is true about dogma and Wimbledon’s sign. Kinesthetic virtuoso or no, Roger Federer is now dominating the largest, strongest, fittest, best-trained and -coached field of male pros who’ve ever existed, with everyone using a kind of nuclear racket that’s said to have made the finer calibrations of kinesthetic sense irrelevant, like trying to whistle Mozart during a Metallica concert.  \n​  \n​_Thanks to [David Perell](https://perell.com/essays/) for the recommendation! He mentioned this after [our interview in his studio](https://www.youtube.com/watch?v=rXUuStdMeoE).",
+      "original_url": "https://www.amazon.com/String-Theory-Wallace-Library-Publication/dp/1598534807/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/String-Theory-Wallace-Library-Publication/dp/1598534807/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nytimes.com/2006/08/20/sports/playmagazine/20federer.html"
+        },
+        {
+          "type": "other",
+          "url": "https://perell.com/essays/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=rXUuStdMeoE"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Poem I’m pondering, bolding mine",
+      "category": "other",
+      "title": "Leonard Cohen",
+      "creator": null,
+      "note": ", “[Good Advice For Someone Like Me](https://www.leonardcohenfiles.com/goodadvice.html)”  \n([Click here to share on Twitter](https://ctt.ec/oc3Tu).)  \n​  \nHow do you interpret the bolded part? Here’s one friend’s take: “If you expand and become a large enough container, the little ripples that are so easy to complain about—that affect you—won’t bother you anymore. Just ripples in the ocean.”\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [my recent interview](https://tim.blog/2024/02/21/cal-newport-slow-productivity/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content) with _Deep Work_ author Cal Newport, [the latest episode](https://youtu.be/nZJf_b2bL8Y?si=drqzwPUDilSR6UM4) (“How to Start a Business”) from _The Tim Ferriss Experiment_, and [my conversation](https://tim.blog/2022/01/07/michio-kaku/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content) with the co-founder of string field theory Michio Kaku.  \n​  \nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
+      "original_url": "https://en.wikipedia.org/wiki/Leonard_Cohen",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Leonard_Cohen"
+        },
+        {
+          "type": "other",
+          "url": "https://www.leonardcohenfiles.com/goodadvice.html"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/oc3Tu"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/02/21/cal-newport-slow-productivity/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/nZJf_b2bL8Y?si=drqzwPUDilSR6UM4"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/01/07/michio-kaku/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

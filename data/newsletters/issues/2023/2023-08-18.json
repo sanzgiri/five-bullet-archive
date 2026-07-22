@@ -6,7 +6,250 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m revisiting",
+      "category": "other",
+      "title": "How To Be Successful",
+      "creator": null,
+      "note": ",”** 13 lessons on achieving outlier success written by [Sam Altman](https://blog.samaltman.com/) ([@sama](https://twitter.com/sama)), CEO of [OpenAI](https://openai.com/). Here is one of the many paragraphs I highlighted for myself: “It’s useful to focus on adding another zero to whatever you define as your success metric—money, status, impact on the world, or whatever. I am willing to take as much time as needed between projects to find my next thing. But I always want it to be a project that, if successful, will make the rest of my career look like a footnote.”  \n​  \nHere is another: “I believe that it’s easier to do a hard startup than an easy startup. People want to be part of something exciting and feel that their work matters. If you are making progress on an important problem, you will have a constant tailwind of people wanting to help you. Let yourself grow more ambitious, and don’t be afraid to work on what you really want to work on.”",
+      "original_url": "https://blog.samaltman.com/how-to-be-successful",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://blog.samaltman.com/how-to-be-successful"
+        },
+        {
+          "type": "other",
+          "url": "https://blog.samaltman.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/sama"
+        },
+        {
+          "type": "other",
+          "url": "https://openai.com/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Interview I’m reading",
+      "category": "article",
+      "title": "Legendary Author John McPhee on Procrastination, Dread, and His Endless Final Project",
+      "creator": null,
+      "note": null,
+      "original_url": "https://www.gq.com/story/john-mcphee-interview?mbid=social_twitter",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.gq.com/story/john-mcphee-interview?mbid=social_twitter"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Interstate Love Song",
+      "creator": "Stone Temple Pilots",
+      "note": "([Spotify](https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3), [YouTube](https://www.youtube.com/watch?v=KHFtW1ZGjtQ)) by [Stone Temple Pilots](https://stonetemplepilots.com/) ([@STPBand](https://twitter.com/STPBand)).",
+      "original_url": "https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=KHFtW1ZGjtQ"
+        },
+        {
+          "type": "other",
+          "url": "https://stonetemplepilots.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/STPBand"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Device I’m still using weekly to save my back and neck",
+      "category": "other",
+      "title": "The Body Back Buddy",
+      "creator": null,
+      "note": ", which was originally recommended to me by [Dustin Moskovitz](https://tim.blog/2023/08/10/dustin-moskovitz-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@moskov](https://twitter.com/moskov)), co-founder of Asana and Facebook. Here’s how Dustin answered my “best purchase for <$100?” question in [_Tribe of Mentors_](https://tim.blog/tim-ferriss-books/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf): “[The Back Buddy](https://www.amazon.com/Body-Back-Original-Trigger-Therapy/dp/B005F9F5H4) by the Body Back Company is my favorite purchase from the past five years, bar none. Most basically, it allows you to administer self-massage anywhere on your back with the full leverage of two hands, but I’ve also really gotten to know and appreciate all the little knobs and other features over the years. I’ve even learned how to manipulate parts of my skeletal structure (i.e., self-chiropracty) and incorporate it into my yoga practice.”",
+      "original_url": "https://www.amazon.com/Body-Back-Original-Trigger-Therapy/dp/B005F9F5H4",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Body-Back-Original-Trigger-Therapy/dp/B005F9F5H4"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/08/10/dustin-moskovitz-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/moskov"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/tim-ferriss-books/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Body-Back-Original-Trigger-Therapy/dp/B005F9F5H4"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“I’ve always thought that a big laugh is a really loud noise from the soul saying, ‘Ain’t that the truth!’” — Quincy Jones (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my recent interview with co-founder and CEO of Asana Dustin Moskovitz, my conversation with comedy legend Jerry Seinfeld, and my interview with Unreasonable Success and How to Achieve It author Richard Koch. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Quincy Jones",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Quincy_Jones",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Quincy_Jones"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/m28nq"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/08/10/dustin-moskovitz-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/12/08/jerry-seinfeld/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/09/22/richard-koch/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "P.P.S. You all did it!",
+      "category": "other",
+      "title": "a campaign to help Indigenous peoples",
+      "creator": null,
+      "note": "reclaim and protect their ancestral territories. Your donations quickly surpassed the $100,000 needed to trigger my [Saisei Foundation](https://saiseifoundation.org/) and [Paul Stamets](https://tim.blog/2018/10/11/paul-stamets/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)’ matching donations of $50,000 each, eventually bringing the Amazon Conservation Team to its $320,000 goal in a matter of days. I’m extremely grateful for the incredible showing of generosity, and you should all be very proud. This is a major step toward restoring these sacred sites to their rightful stewards and protecting some of the world’s most biodiverse areas from deforestation, roadbuilding, and mining. Nicely done! 🙏\n\n### Forwarded this message? [Sign up here](https://go.tim.blog/5-bullet-friday-1/?utm_source=convertkit&utm_medium=convertit&utm_campaign=footer).\n\nJoin millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff.\n\n[Sign Up](https://go.tim.blog/5-bullet-friday-1/)\n\n![Tim Ferriss](https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png) \n\n### Listen to _The Tim Ferriss Show_ Podcast\n\n_The Tim Ferriss Show_ is one of the most popular podcasts in the world with more than 900 million downloads. It has been selected for \"Best of Apple Podcasts\" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts   \non many occasions.\n\n  [![Apple Podcasts](https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png)  Podcasts](https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2) \n\n  [![Apple Podcast](https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png)  Apple Podcasts](https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2) \n\n  [![Overcast](https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png)  Overcast](https://overcast.fm/itunes863897795/the-tim-ferriss-show)    [![Spotify](https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png)  Spotify](https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM)    [![Tim's Blog](https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png)  Tim's Blog](https://tim.blog/podcast?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test)\n\n### Read Tim's Books\n\n[![Read Tim's Books](https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png)](https://tim.blog/tim-ferriss-books/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test)\n\n  [![Amazon](https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png)  Amazon](https://www.amazon.com/Timothy-Ferriss/e/B001ILKBW2%3Fref=dbs_a_mng_rwt_scns_share)    [![Audible](https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png)  Audible](https://www.audible.com/ep/TimsBooks)   [![B & N](https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png) B & N](https://www.barnesandnoble.com/s/%22Timothy%20Ferriss%22?Ntk=P_key_Contributor_List)    [![Tim's Blog](https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png)  Tim's Blog](https://tim.blog/tim-ferriss-books/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test)\n\nFollow Tim:\n\n[![TW](https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png)](https://twitter.com/tferriss)\n\n[![IG](https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png)](https://www.instagram.com/timferriss/)\n\n[![YT](https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png)](https://www.youtube.com/channel/UCznv7Vf9nBdJYvBagFdAHWw)\n\n[![FB](https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png)](https://www.facebook.com/TimFerriss)\n\n[![IN](https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png)](https://www.linkedin.com/in/timferriss/)\n\n**DO NOT REPLY HERE**: Due to volume, please do not reply to this email. Sadly we are unable to read 1000+ email replies daily. To reply to Tim, please do so in the blog comments [here](https://tim.blog/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test).\n\nNo longer want these emails?  [Unsubscribe](https://unsubscribe.fourhourmail.com/lmun74z88amh067w99cqsdzdd400)\n\n3​11​2 Win​dso​r R​d., Box #UNS, Austin TX 78703, United States\n\n​\n\n![](https://open.fourhourmail.com/lmun74z88amh067w99cqsdzdd400)",
+      "original_url": "https://4agc.com/landing_pages/c3a3b92b-66dc-4bd3-a0fe-7ec8995d1144?campaign_id=b0ee7084-6f39-4d34-a08d-4cd3214dc8ba",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://4agc.com/landing_pages/c3a3b92b-66dc-4bd3-a0fe-7ec8995d1144?campaign_id=b0ee7084-6f39-4d34-a08d-4cd3214dc8ba"
+        },
+        {
+          "type": "other",
+          "url": "https://saiseifoundation.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/10/11/paul-stamets/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/?utm_source=convertkit&utm_medium=convertit&utm_campaign=footer"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/lmun74z88amh067w99cqsdzdd400"
+        }
+      ]
+    }
+  ]
 }

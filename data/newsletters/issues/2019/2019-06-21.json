@@ -7,7 +7,103 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Documentary I’m watching —",
+      "category": "video",
+      "title": "The King of Kong",
+      "creator": null,
+      "note": "This doc was originally recommended to me by the world’s most interesting man, [Kevin Kelly](https://el2.fourhourmail.com/c/75u8wd0mmu8h07opxh9/zefghnhko53g8m/aHR0cHM6Ly90aW0uYmxvZy8yMDE0LzA4LzI5L2tldmluLWtlbGx5Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=). I’ve watched it every year or two since. The movie is like a real-life _Spinal Tap_ about becoming king of the nerds. Trust me; it’s well worth the watch. Here’s a shortened description: “In the early 1980s, legendary Billy Mitchell set a Donkey Kong record that stood for almost 25 years. This documentary follows the assault on the record by Steve Wiebe, an earnest teacher from Washington who took up the game while unemployed.”",
+      "original_url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h07opxh9/78i7h8h60dogmn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9LaW5nLUtvbmctUXVhcnRlcnMtQmlsbHktTWl0Y2hlbGwvZHAvQjAwMTJIREFBTS8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h07opxh9/78i7h8h60dogmn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9LaW5nLUtvbmctUXVhcnRlcnMtQmlsbHktTWl0Y2hlbGwvZHAvQjAwMTJIREFBTS8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h07opxh9/zefghnhko53g8m/aHR0cHM6Ly90aW0uYmxvZy8yMDE0LzA4LzI5L2tldmluLWtlbGx5Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Artist whose work I’m revisiting —",
+      "category": "other",
+      "title": "Dustin Yellin",
+      "creator": null,
+      "note": "([@dustinyellin](https://el2.fourhourmail.com/c/75u8wd0mmu8h07opxh9/k5cmh6h58zl737/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9kdXN0aW55ZWxsaW4v)). Dustin is a contemporary artist best known for sculptural paintings that use multiple layers of glass, each covered in detailed imagery, to create a single, intricate, three-dimensional collage. His work is notable both for its massive scale and its fantastic, dystopian themes. Yellin is the founder of Pioneer Works ([@pioneerworks](https://el2.fourhourmail.com/c/75u8wd0mmu8h07opxh9/q9s8h7h48erx67/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9waW9uZWVyd29ya3Mv))—a not-for-profit cultural center in Red Hook, Brooklyn—where I [originally discovered his work](https://el2.fourhourmail.com/c/75u8wd0mmu8h07opxh9/95azhnh6g4p726/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0Jia0hrdU1GZ0JOLw==).",
+      "original_url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h07opxh9/x4tph6hpnkwglm/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRHVzdGluX1llbGxpbg==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h07opxh9/x4tph6hpnkwglm/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRHVzdGluX1llbGxpbg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h07opxh9/k5cmh6h58zl737/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9kdXN0aW55ZWxsaW4v"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h07opxh9/q9s8h7h48erx67/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9waW9uZWVyd29ya3Mv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h07opxh9/95azhnh6g4p726/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0Jia0hrdU1GZ0JOLw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Jim Carrey Motivational Video — WHO IS THE REAL YOU?",
+      "creator": null,
+      "note": "I found the very beginning points and the story about his father to be the most important. Ignore the “law of attraction” stuff in the last 10–15 seconds, which is not from Jim Carrey himself.",
+      "original_url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h07opxh9/59bvh7hn53me9o/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1fLWthaWJfclhUUQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h07opxh9/59bvh7hn53me9o/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1fLWthaWJfclhUUQ=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "New wine I’m loving —",
+      "category": "other",
+      "title": "Velenosi Querciantica Visciole Selezione",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h07opxh9/g7hnh5hleg3vzz/aHR0cHM6Ly93d3cudml2aW5vLmNvbS92ZWxlbm9zaS1xdWVyY2lhbnRpY2EtdmlzY2lvbGUtc2VsZXppb25lLWEwZjgxL3cvMTI1OTI1MQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h07opxh9/g7hnh5hleg3vzz/aHR0cHM6Ly93d3cudml2aW5vLmNvbS92ZWxlbm9zaS1xdWVyY2lhbnRpY2EtdmlzY2lvbGUtc2VsZXppb25lLWEwZjgxL3cvMTI1OTI1MQ=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Almost everything will work again if you unplug it for a few minutes, including you.” — Anne Lamott And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim [](https://el2.fourhourmail.com/c/75u8wd0mmu8h07opxh9/rlf8hoh3qk085m/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRHVuZV8obm92ZWwp)",
+      "creator": "Anne Lamott And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h07opxh9/3zuphkh2qx7wdq/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQW5uZV9MYW1vdHQ=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h07opxh9/3zuphkh2qx7wdq/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQW5uZV9MYW1vdHQ="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h07opxh9/42ivhehp0wro2r/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    }
+  ]
 }

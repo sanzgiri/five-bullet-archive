@@ -6,7 +6,131 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Mike Tyson says psychedelics saved his life, now he hopes they can change the world (Reuters)",
+      "creator": null,
+      "note": "](https://www.reuters.com/lifestyle/sports/mike-tyson-says-psychedelics-saved-his-life-now-he-hopes-they-can-change-world-2021-05-28/)**.  \n  \n**",
+      "original_url": "https://www.reuters.com/lifestyle/sports/mike-tyson-says-psychedelics-saved-his-life-now-he-hopes-they-can-change-world-2021-05-28/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.reuters.com/lifestyle/sports/mike-tyson-says-psychedelics-saved-his-life-now-he-hopes-they-can-change-world-2021-05-28/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching (short) —",
+      "category": "video",
+      "title": "V Shivapriya & BR Somashekar Jois | Konnakol Duet | MadRasana Unplugged Season 03 Episode 01",
+      "creator": null,
+      "note": "From the description: “We begin Season 3 with the most traditional, classical & **ancient vocal percussive art form of India; the mother of all percussive languages** – **Konnakkol.** In this video, we present to you an exclusive ‘Konnakkol Duet’ by Vidwan B R Somashekar Jois and Kumari V Shivapriya. They will be reciting few exciting rhythmic phrases set to Mishrachaapu Tala followed by a special Mohara-Korvai composed by Vidwan B C Manjunath.” If you want extra credit, pair this video with a few of renowned drummer [Terry Bozzio](https://en.wikipedia.org/wiki/Terry_Bozzio) ([@TerryBozzio](https://twitter.com/terrybozzio)): **“**[**Solos & Duets****”**](https://www.youtube.com/watch?v=a3F7ZizBPWg) (1hr+) and **“**[**Baby Snakes**](https://www.youtube.com/watch?v=hQtqvl3FsBY)**”** (three-minute drum solo). Thanks to drummer [Dave Elitch](https://tim.blog/2018/11/26/dave-elitch/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@daveelitch](https://www.instagram.com/daveelitch/?hl=en)) for the recommendations.",
+      "original_url": "https://youtu.be/iurhjlBum0o",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/iurhjlBum0o"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Terry_Bozzio"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/terrybozzio"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=a3F7ZizBPWg"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=hQtqvl3FsBY"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/11/26/dave-elitch/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/daveelitch/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Newsletter I’m enjoying —",
+      "category": "other",
+      "title": "Arnold Schwarzenegger’s email newsletter",
+      "creator": null,
+      "note": "Arnold is absolutely hilarious. For a taste, and a personal favorite, read this sample edition: “[Well here we are again](https://ckarchive.com/b/k0umh6hq5m93).” And in case you missed it, my podcast interview with Arnold ([@Schwarzenegger](https://twitter.com/Schwarzenegger)) from 2015 [can be found here](https://tim.blog/2015/02/02/arnold-schwarzenegger/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). We cover mailing cow balls to politicians, psychological warfare, and much more.",
+      "original_url": "http://schwarzenegger.com/join/",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://schwarzenegger.com/join/"
+        },
+        {
+          "type": "other",
+          "url": "https://ckarchive.com/b/k0umh6hq5m93"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/Schwarzenegger"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/02/02/arnold-schwarzenegger/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Short documentary I’m watching —",
+      "category": "video",
+      "title": "Magical Death",
+      "creator": null,
+      "note": "It’s a common fiction that indigenous use of psychedelics is entirely focused on healing. In reality, while healing is one common and legitimate use, psychedelic plants have also been weaponized for warfare for centuries, if not millenia. Stated uses include night-vision enhancement, attempts at divination of enemy locations, and “remote attacks.” This video shows an example of the last. Whether or not you believe such things are possible, it demonstrates that human nature—warts and all—is cross-cultural. Description: “A documentary film by anthropologist [Napoleon Chagnon](https://en.wikipedia.org/wiki/Napoleon_Chagnon) that explores the role of the shaman within the [Yanomamo](https://en.wikipedia.org/wiki/Yanomami) culture, as well as the close relationship shamanism shares with politics within their society.” Plant medicine does not automagically mean peaceful or harmonious ever after. Humans love power.",
+      "original_url": "https://www.youtube.com/watch?v=txT0oWkMjJM",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=txT0oWkMjJM"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Napoleon_Chagnon"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Yanomami"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“In this world there are only two tragedies. One is not getting what one wants, and the other is getting it.”— Oscar Wilde And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Oscar Wilde And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Oscar_Wilde",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Oscar_Wilde"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

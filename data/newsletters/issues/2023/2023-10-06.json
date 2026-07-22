@@ -6,7 +6,119 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "Jason Blum: How the producer behind the latest ‘Exorcist’ film is making the most profitable movies in Hollywood",
+      "creator": "Devin Gordon for Fortune_",
+      "note": "for _Fortune_. [Click here if you have any issues reading at the above link](http://archive.today/o0hLY). Below is a snippet from the article, which applies to publishing and other industries:  \n​  \n​_In Hollywood, Blum’s company is renowned for its low-cost, high-reward “Blumhouse system” of moviemaking, the core of which is a simple proposition: To keep budgets down—which used to mean $5 million to $8 million back in the_ Insidious _days and now means more like $10 million to $12 million—the creative principals work for the minimum required by union contracts (known in the industry as “scale”) in exchange for bonuses and back-end profits based on the film’s performance. The bigger the profits, the bigger the bonus.  \n​  \nIt’s “betting on yourself,” Blum likes to say. The system, he argues, gives artists creative freedom while incentivizing them to do work that resonates with audiences.  \n​  \nFor directors, scale means around $300,000, a fraction of what big names command elsewhere. For a Blumhouse lead actor, it’s about $65,000 for five or six weeks of work—even for stars accustomed to making millions per film. That’s the kind of deal Ethan Hawke, one of Blum’s oldest friends in the business, took to star in the first two of his three Blumhouse films—_Sinister_,_ The Purge_, and_ The Black Phone_—which grossed a combined $340 million. Hawke, the consummate indie actor of his generation, is now a very rich man._",
+      "original_url": "https://fortune.com/longform/jason-blum-exorcist-blumhouse-low-budget-horror-films/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://fortune.com/longform/jason-blum-exorcist-blumhouse-low-budget-horror-films/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.devingordon.net/about"
+        },
+        {
+          "type": "other",
+          "url": "http://archive.today/o0hLY"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching to de-stress",
+      "category": "video",
+      "title": "When you lied on your résumé",
+      "creator": null,
+      "note": "“You can’t put this in 5BF,” I told myself for a few weeks. Then it became “How can I NOT put this in 5BF?” I’ve had this stupid video in an open tab on my computer for much longer than I’d care to admit. Whenever I’m taking myself or my day too seriously, I turn up the audio and take it for a spin. This is one place where the music makes all the difference.",
+      "original_url": "https://www.instagram.com/p/CyEh1HepPZb/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/p/CyEh1HepPZb/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Documentary I’m watching while shaking a fist at the screen",
+      "category": "video",
+      "title": "Boogie Man: The Lee Atwater Story",
+      "creator": null,
+      "note": "I recently attended an event where politics was in the air, and someone recommended this doc as a tutorial in how Machiavellian campaigns are actually run, how the sausage is made, and how damage is inflicted. If you are cynical about politics, as I am, this will 10x your tendencies, but it might also make you less susceptible to the everyday deception that has become acceptable in our current systems.",
+      "original_url": "https://www.amazon.com/Boogie-Man-Lee-Atwater-Story/dp/B003OUPYYU/ref=tmm_aiv_swatch_0?_encoding=UTF8&qid=&sr=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Boogie-Man-Lee-Atwater-Story/dp/B003OUPYYU/ref=tmm_aiv_swatch_0?_encoding=UTF8&qid=&sr="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading to recover from the above",
+      "category": "book",
+      "title": "Catching the Big Fish: Meditation, Consciousness, and Creativity",
+      "creator": "David Lynch",
+      "note": ". Filmmaker David Lynch describes his personal methods of capturing and working with ideas and the immense creative benefits he has experienced from the practice of meditation. This book has been recommended to me by many high-caliber creatives, [including drummer Dave Elitch](https://tim.blog/2018/11/26/dave-elitch/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf).",
+      "original_url": "https://www.amazon.com/Catching-Big-Fish-Meditation-Consciousness/dp/1585426121",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Catching-Big-Fish-Meditation-Consciousness/dp/1585426121"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/David_Lynch"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/11/26/dave-elitch/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Home is not where you were born; home is where all your attempts to escape cease.” — Naguib Mahfouz (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my brand-new interview with Arnold Schwarzenegger, The Terminator director James Cameron's daily routine for endurance and stamina, and my short video on how to meditate. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Naguib Mahfouz",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Naguib_Mahfouz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Naguib_Mahfouz"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/z892b"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/10/02/arnold-schwarzenegger-be-useful/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/11/12/james-cameron/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/BfLuQ2arP48?si=L6pzwIfVJwAuVurp"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

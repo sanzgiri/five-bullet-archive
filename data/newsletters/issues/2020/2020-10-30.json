@@ -7,7 +7,136 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Feature film I’m watching —",
+      "category": "video",
+      "title": "Hunt for the Wilderpeople",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/Hunt-Wilderpeople-Sam-Neill/dp/B01HE1FTGC/ref=tmm_aiv_swatch_0/ref=dv_web_auth_no_re_sig?_encoding=UTF8&_encoding=UTF8&qid=1603504389&sr=1-1&), [Netflix](https://www.netflix.com/title/80096995), [YouTube Movies](https://www.youtube.com/watch?v=A7rkPMtXxlw)). This film is both hilarious and gorgeous. _Hunt for the Wilderpeople_ was the first local feature to gross more than $1M NZD in its opening weekend at the New Zealand box office. Written and directed by [Taika Waititi](https://en.wikipedia.org/wiki/Taika_Waititi) ([@TaikaWaititi](https://twitter.com/TaikaWaititi)), this upbeat comedy was exactly what I needed after a rough week. Check out this [short trailer](https://www.youtube.com/watch?v=dPaU4Gymt3E), and you’ll see what I mean. Bro, good food for the soul, aye!",
+      "original_url": "https://www.amazon.com/Hunt-Wilderpeople-Sam-Neill/dp/B01HE1FTGC/ref=tmm_aiv_swatch_0/ref=dv_web_auth_no_re_sig?_encoding=UTF8&_encoding=UTF8&qid=1603504389&sr=1-1&",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Hunt-Wilderpeople-Sam-Neill/dp/B01HE1FTGC/ref=tmm_aiv_swatch_0/ref=dv_web_auth_no_re_sig?_encoding=UTF8&_encoding=UTF8&qid=1603504389&sr=1-1&"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Hunt-Wilderpeople-Sam-Neill/dp/B01HE1FTGC/ref=tmm_aiv_swatch_0/ref=dv_web_auth_no_re_sig?_encoding=UTF8&_encoding=UTF8&qid=1603504389&sr=1-1&"
+        },
+        {
+          "type": "other",
+          "url": "https://www.netflix.com/title/80096995"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=A7rkPMtXxlw"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Taika_Waititi"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/TaikaWaititi"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=dPaU4Gymt3E"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Short videos I’m watching —",
+      "category": "video",
+      "title": "The Skin Deep",
+      "creator": null,
+      "note": "([YouTube](https://www.youtube.com/c/TheSkinDeep/videos?view=0&sort=p&flow=grid), [Instagram](https://www.instagram.com/the_skindeep/?hl=en)). “Explore human connection — one conversation at a time.” The Skin Deep delivers on that promise. Consider “[Hard Questions for a Mother to Answer](https://www.youtube.com/watch?v=c7X2lKOpozs)” or, for something lighter, try [“Are First Impressions Spot On?](https://www.youtube.com/watch?v=_sgIH81kj78)” The Skin Deep is an Emmy award-winning creative studio exploring human emotion, intimacy, and connection in the digital age, and if you want to go a step further, check out [their question card decks](https://shop.theskindeep.com/) for friends, couples, long-term couples, families, and more. Hat tip to my lovely girlfriend for introducing me to this gem.**What I’m reading** —  \n[**The Psychedelic Election**](https://andrewsullivan.substack.com/p/the-psychedelic-election) by [Andrew Sullivan](https://andrewsullivan.substack.com/) ([@sullydish](https://twitter.com/sullydish)). Greek civilization, a mysterious once-in-a-lifetime ceremony at the Temple of Eleusis, and a cameo by Marcus Aurelius… what’s not to like? This fascinating piece touches on a lot, including how people in D.C. or Oregon can, just possibly, be part of the next Renaissance.",
+      "original_url": "https://www.youtube.com/c/TheSkinDeep/videos?view=0&sort=p&flow=grid",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/c/TheSkinDeep/videos?view=0&sort=p&flow=grid"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/c/TheSkinDeep/videos?view=0&sort=p&flow=grid"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/the_skindeep/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=c7X2lKOpozs"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=_sgIH81kj78"
+        },
+        {
+          "type": "other",
+          "url": "https://shop.theskindeep.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://andrewsullivan.substack.com/p/the-psychedelic-election"
+        },
+        {
+          "type": "other",
+          "url": "https://andrewsullivan.substack.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/sullydish"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "New page that I’ve been working on —",
+      "category": "other",
+      "title": "gathered language from all of my recent podcast sponsor reads",
+      "creator": null,
+      "note": "(which perform well above industry average, based on data from multiple partners) in one place, which also allows us to review [what has worked/converted best for different categories of brands](https://tim.blog/podcast-sponsors/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). [This page](https://tim.blog/podcast-sponsors/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) shares the end product, which will evolve over time.",
+      "original_url": "https://tim.blog/podcast-sponsors/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/podcast-sponsors/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/podcast-sponsors/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/podcast-sponsors/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“I was always ashamed to take. So I gave. It was not a virtue. It was a disguise.”— Anaïs NinAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Anaïs NinAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Ana%C3%AFs_Nin",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Ana%C3%AFs_Nin"
+        },
+        {
+          "type": "other",
+          "url": "http://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

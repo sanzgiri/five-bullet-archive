@@ -6,7 +6,135 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Can Dying Languages Be Saved?",
+      "creator": "Judith Thurman for The New Yorker_",
+      "note": "for _The New Yorker_. As longtime readers know, I am obsessed with languages and [language learning](https://tim.blog/category/language/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). This article checked all the boxes. Fun fact: Another [article from Judith](http://www.newyorker.com/reporting/2008/06/23/080623fa_fact_thurman) prompted the Herzog documentary in the next bullet.",
+      "original_url": "https://www.newyorker.com/magazine/2015/03/30/a-loss-for-words",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.newyorker.com/magazine/2015/03/30/a-loss-for-words"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Judith_Thurman"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/category/language/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "http://www.newyorker.com/reporting/2008/06/23/080623fa_fact_thurman"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Cave of Forgotten Dreams",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/Cave-Forgotten-Dreams-Werner-Herzog/dp/B0093SOOHU/), [Apple TV](https://itunes.apple.com/us/movie/cave-of-forgotten-dreams/id451797497?cmp=rt_where_to_watch)). Description: “[Werner Herzog](https://en.wikipedia.org/wiki/Werner_Herzog)’s award-winning 2011 doc is a thrilling study of 32,000-year-old cave paintings recently discovered in Southern France.” It has [96% on Rotten Tomatoes](https://www.rottentomatoes.com/m/cave_of_forgotten_dreams), and you can [watch the trailer here](https://www.youtube.com/watch?v=qfJfRx2IAYo).",
+      "original_url": "https://www.amazon.com/Cave-Forgotten-Dreams-Werner-Herzog/dp/B0093SOOHU/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Cave-Forgotten-Dreams-Werner-Herzog/dp/B0093SOOHU/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Cave-Forgotten-Dreams-Werner-Herzog/dp/B0093SOOHU/"
+        },
+        {
+          "type": "other",
+          "url": "https://itunes.apple.com/us/movie/cave-of-forgotten-dreams/id451797497?cmp=rt_where_to_watch"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Werner_Herzog"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rottentomatoes.com/m/cave_of_forgotten_dreams"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=qfJfRx2IAYo"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Recipe I’m loving —",
+      "category": "other",
+      "title": "Slow-Roast Gochujang Chicken",
+      "creator": "Molly Baz",
+      "note": "([@mollybaz](https://www.instagram.com/mollybaz/?hl=en)). This was simply incredible and my first encounter with gochujang. Huge thanks to Kerry for the introduction. Here is [a link to another recipe for the gochujang sauce itself, if you prefer homemade to store-bought](https://www.maangchi.com/recipe/gochujang).",
+      "original_url": "https://www.bonappetit.com/recipe/slow-roast-gochujang-chicken?intcid=inline_amp",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.bonappetit.com/recipe/slow-roast-gochujang-chicken?intcid=inline_amp"
+        },
+        {
+          "type": "other",
+          "url": "https://mollybaz.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/mollybaz/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.maangchi.com/recipe/gochujang"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Podcast episode I’m listening to —",
+      "category": "podcast",
+      "title": "Terry Real: Breaking the cycle of shame, anger, and depression",
+      "creator": null,
+      "note": "on [_The Peter Attia Drive_](https://peterattiamd.com/podcast/) podcast.",
+      "original_url": "https://peterattiamd.com/terryreal/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://peterattiamd.com/terryreal/"
+        },
+        {
+          "type": "other",
+          "url": "https://peterattiamd.com/podcast/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering once again —",
+      "category": "quote",
+      "title": "“Destroying rainforest for economic gain is like burning a Renaissance painting to cook a meal.”― E. O. Wilson RIP December 26, 2021 And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": null,
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/E._O._Wilson",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/E._O._Wilson"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

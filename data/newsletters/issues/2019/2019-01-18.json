@@ -6,7 +6,135 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Documentary I’m watching again —",
+      "category": "video",
+      "title": "Tim’s Vermeer",
+      "creator": null,
+      "note": "I first saw this film in 2014, and I decided it was worth a revisit, given my renewed interest in art. It’s absolutely marvelous. Here’s a description from Wikipedia: “Tim's Vermeer is a documentary film, directed by Teller, produced by his stage partner Penn Jillette and Farley Ziegler, about inventor Tim Jenison's efforts to duplicate the painting techniques of Johannes Vermeer, in order to test his theory that Vermeer painted with the help of optical devices.”",
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakhd9rx4/pvieh9hv6onqm/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UaW1zLVZlcm1lZXItTWFydGluLU11bGwvZHAvQjAwSzMxRThOUS8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhd9rx4/pvieh9hv6onqm/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UaW1zLVZlcm1lZXItTWFydGluLU11bGwvZHAvQjAwSzMxRThOUS8="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Surge Cities: The 50 Most Startup-Friendly Places in America",
+      "creator": null,
+      "note": "([@Inc](https://el2.fourhourmail.com/c/38uml98xxakhd9rx4/55tvh7hex2r62/aHR0cHM6Ly90d2l0dGVyLmNvbS9JbmM=)). Using [seven key indicators](https://el2.fourhourmail.com/c/38uml98xxakhd9rx4/qnc8h7hxwp9k5/aHR0cHM6Ly93d3cuaW5jLmNvbS9zdXJnZS1jaXRpZXMvYmVzdC1wbGFjZXMtc3RhcnQtYnVzaW5lc3MuaHRtbCNzdXJnZS1tZXRob2RvbG9neQ==), such as the rate of entrepreneurship and overall job creation, this list provides a comprehensive overview of fastest-growing startup-friendly cities in the U.S. The top three are Austin (#1), Salt Lake City (#2), and Raleigh (#3). There are many more you might not expect, and quite a few should be fantastic places to invest in the next few years.",
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakhd9rx4/6kfeh8hqrem9r/aHR0cHM6Ly93d3cuaW5jLmNvbS9zdXJnZS1jaXRpZXMvYmVzdC1wbGFjZXMtc3RhcnQtYnVzaW5lc3MuaHRtbA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhd9rx4/6kfeh8hqrem9r/aHR0cHM6Ly93d3cuaW5jLmNvbS9zdXJnZS1jaXRpZXMvYmVzdC1wbGFjZXMtc3RhcnQtYnVzaW5lc3MuaHRtbA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhd9rx4/55tvh7hex2r62/aHR0cHM6Ly90d2l0dGVyLmNvbS9JbmM="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhd9rx4/qnc8h7hxwp9k5/aHR0cHM6Ly93d3cuaW5jLmNvbS9zdXJnZS1jaXRpZXMvYmVzdC1wbGFjZXMtc3RhcnQtYnVzaW5lc3MuaHRtbCNzdXJnZS1tZXRob2RvbG9neQ=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I can’t stop eating —",
+      "category": "other",
+      "title": "Hu’s almond butter and puffed quinoa dark chocolate bars",
+      "creator": null,
+      "note": "Be forewarned: this and their cashew butter version cause a complete loss of portion control. This is not my first encounter with Hu, and after eating tens of thousands of calories of their products (paleo and vegan, but calories nonetheless), I connected with the team to figure out the secret sauce. Long story short, I’ve now become an advisor to Hu. My first chocolate adventure! They have some fun things coming.",
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakhd9rx4/96szhnh7wro5v/aHR0cHM6Ly9odWtpdGNoZW4uY29tL3Byb2R1Y3RzL2FsbW9uZC1idXR0ZXItcHVmZmVkLXF1aW5vYQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhd9rx4/96szhnh7wro5v/aHR0cHM6Ly9odWtpdGNoZW4uY29tL3Byb2R1Y3RzL2FsbW9uZC1idXR0ZXItcHVmZmVkLXF1aW5vYQ=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Down from the Mountain: O Brother, Where Art Thou?",
+      "creator": null,
+      "note": "“Recorded at Nashville's historic Ryman Theater as a sort of a musical wrap party for the Coen Brothers' 2000 film O Brother Where Art Thou, this album offers live versions of several of the traditional American folk songs featured in the film, with a few additions along the same vein.” ([AllMusic Review by Zac Johnson](https://el2.fourhourmail.com/c/38uml98xxakhd9rx4/wob2hghz76e00/aHR0cHM6Ly93d3cuYWxsbXVzaWMuY29tL2FsYnVtL2Rvd24tZnJvbS10aGUtbW91bnRhaW4tby1icm90aGVyLXdoZXJlLWFydC10aG91LW13MDAwMDAxMTMxMQ==))",
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakhd9rx4/ngaohvhdq0z7z/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Eb3duLU1vdW50YWluLVBlcmZvcm1hbmNlcy1NdXNpY2lhbnMtU291bmR0cmFjay9kcC9CMDBHMkoxTkhXL3JlZj1zcl8xXzM_aWU9VVRGOCZxaWQ9MTU0NzgxODI3NSZzcj04LTMma2V5d29yZHM9RG93bitmcm9tK3RoZStNb3VudGFpbiUzQStPK0Jyb3RoZXIlMkMrV2hlcmUrQXJ0K1Rob3UlM0Y=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhd9rx4/ngaohvhdq0z7z/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Eb3duLU1vdW50YWluLVBlcmZvcm1hbmNlcy1NdXNpY2lhbnMtU291bmR0cmFjay9kcC9CMDBHMkoxTkhXL3JlZj1zcl8xXzM_aWU9VVRGOCZxaWQ9MTU0NzgxODI3NSZzcj04LTMma2V5d29yZHM9RG93bitmcm9tK3RoZStNb3VudGFpbiUzQStPK0Jyb3RoZXIlMkMrV2hlcmUrQXJ0K1Rob3UlM0Y="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhd9rx4/wob2hghz76e00/aHR0cHM6Ly93d3cuYWxsbXVzaWMuY29tL2FsYnVtL2Rvd24tZnJvbS10aGUtbW91bnRhaW4tby1icm90aGVyLXdoZXJlLWFydC10aG91LW13MDAwMDAxMTMxMQ=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Those who do not weep, do not see.” — Victor Hugo And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim P.S. Next Tuesday, January 22nd, is “Hi, How Are You?” Day, a global day of mental health awareness. It is intended to destigmatize and normalize the struggles millions face every day. The ask is simple—reach out to a loved one with “Hi, how are you?” and really mean it. That’s it. You never know who might need your help. An associated fundraising concert will be held in my hometown of Austin, TX, featuring The Flaming Lips, The Black Angels, Yo La Tengo, Built To Spill, and more. You can watch the free live-stream starting at 7 PM CST at this link. Learn more about the Hi, How Are You Project, so named for a mural made famous by Kurt Cobain, at www.hihowareyou.org. And if you are in a particularly dark place, please read my very personal blog post titled “Some Practical Thoughts on Suicide.” [](https://el2.fourhourmail.com/c/38uml98xxakhd9rx4/6pseh8hqrem3w/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Victor Hugo And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim P.S. Next Tuesday, January 22nd, is “Hi, How Are You?” Day, a global day of mental health awareness. It is intended to destigmatize and normalize the struggles millions face every day. The ask is simple—reach out to a loved one with “Hi, how are you?” and really mean it. That’s it. You never know who might need your help. An associated fundraising concert will be held in my hometown of Austin, TX, featuring The Flaming Lips, The Black Angels, Yo La Tengo, Built To Spill, and more. You can watch the free live-stream starting at 7 PM CST at this link. Learn more about the Hi, How Are You Project, so named for a mural made famous by Kurt Cobain, at www.hihowareyou.org. And if you are in a particularly dark place, please read my very personal blog post titled “Some Practical Thoughts on Suicide.”",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakhd9rx4/0nhwh9h8er3lp/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvVmljdG9yX0h1Z28=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhd9rx4/0nhwh9h8er3lp/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvVmljdG9yX0h1Z28="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhd9rx4/vgu3hrh50rzw6/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhd9rx4/m3i7h5hr5zd4r/aHR0cDovL2FjbC1saXZlLmNvbS9jYWxlbmRhci9oaS1ob3ctYXJlLXlvdS1kYXk="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhd9rx4/evfph7hxvo8d9/aHR0cHM6Ly9xZWxsby5jb20vY29uY2VydC9IaS1Ib3ctQXJlLVlvdS1EYXktMjAxOS03NzEzP2ZlYXR1cmU9aGlob3dhcmV5b3UyMDE5JnN1YmlkPXBhcnRuZXJzaGlwJnBvc3RiYWNrPXRpbS1mZXJyaXMtbmV3c2xldHRlciZ1dG1fY2FtcGFpZ249TWFya2V0aW5nX0hpSG93QXJlWW91X1N0aW5ncmF5UWVsbG9fMDEtMjAxOSZ1dG1fc291cmNlPXBhcnRuZXJzaGlwJnV0bV9tZWRpdW09bmV3c2xldHRlciZjb250ZW50PXRpbS1mZXJyaXM="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhd9rx4/o6tkhqhz9d20k/aHR0cDovL3d3dy5oaWhvd2FyZXlvdS5vcmcv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhd9rx4/prceh9hv6onp2/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzA1LzA2L2hvdy10by1jb21taXQtc3VpY2lkZS8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm"
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhd9rx4/5navh7hex2r4o/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/38uml98xxakhd9rx4"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhd9rx4/0ghwh9h8er3lq/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

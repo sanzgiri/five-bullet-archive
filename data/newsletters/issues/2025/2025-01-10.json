@@ -6,7 +6,135 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Jerry Seinfeld, Ichiro Suzuki, and the Pursuit of Mastery",
+      "creator": "Trung Phan",
+      "note": "([@TrungTPhan](https://twitter.com/TrungTPhan)).",
+      "original_url": "https://www.readtrung.com/p/jerry-seinfeld-ichiro-suzuki-and",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.readtrung.com/p/jerry-seinfeld-ichiro-suzuki-and"
+        },
+        {
+          "type": "other",
+          "url": "https://www.readtrung.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/TrungTPhan"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Long-standing tech problem I recently solved",
+      "category": "other",
+      "title": "Texting Android friends from iMessage",
+      "creator": null,
+      "note": "!** I prefer using my laptop for texting during work hours, as it’s _much_ faster. Sadly, it’s impossible to iMessage my friends and family who are on Android… or so I thought. For years, my workaround has been using the WhatsApp desktop app, but my friend Mike taught me an easier way.  \n​  \nIn simplest terms, here’s what you do:**​  \n​  \n1**. On your iPhone, go to Settings > Apps > Messages.  \n​**2**. Tap Text Message Forwarding. (If you don’t see it, turn iMessage off and back on, then tap Send & Receive and sign in again.)  \n​**3**. Tap to turn on each device that you want to allow to send and receive messages from this iPhone.**​  \n​  \n​**It’s unintuitive. You need to turn on this additional feature that _forwards_ SMS messages from your MacBook to your iPhone and then to the Android recipient. But it works like a charm. Even Google and ChatGPT insisted I would need to use third-party apps, but it’s not true. The above does the trick.  \n​  \nFor more details and troubleshooting, [click here](https://support.apple.com/en-us/102545) to read the full instructions. Enjoy!",
+      "original_url": "https://support.apple.com/en-us/102545",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://support.apple.com/en-us/102545"
+        },
+        {
+          "type": "other",
+          "url": "https://support.apple.com/en-us/102545"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Track that I’m playing on repeat",
+      "category": "music",
+      "title": "Syria",
+      "creator": "Unders",
+      "note": "([YouTube](https://youtu.be/G5TBWxjnaIE?si=o2omxvNdDoLb7veK), [Spotify](https://open.spotify.com/track/3rkge8kur9i26zpByFKvBu)) by [Unders](https://www.unders.nl/) ([@undersmusic](https://www.instagram.com/undersmusic/)).",
+      "original_url": "https://youtu.be/G5TBWxjnaIE?si=o2omxvNdDoLb7veK",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/G5TBWxjnaIE?si=o2omxvNdDoLb7veK"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/G5TBWxjnaIE?si=o2omxvNdDoLb7veK"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/3rkge8kur9i26zpByFKvBu"
+        },
+        {
+          "type": "other",
+          "url": "https://www.unders.nl/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/undersmusic/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Article worth sharing",
+      "category": "article",
+      "title": "The risks of mixing ayahuasca and SSRIs: 5 Questions for UCLA psychiatry professor Charles Grob",
+      "creator": null,
+      "note": null,
+      "original_url": "https://themicrodose.substack.com/p/the-risks-of-mixing-ayahuasca-and",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://themicrodose.substack.com/p/the-risks-of-mixing-ayahuasca-and"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“An old friend of mine, a journalist, once said that paradise on earth was to work all day alone in anticipation of an evening in interesting company.” ― Ian McEwan, from his novel Machines Like Me _(Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my most recent podcast episode, featuring New York Times bestselling author Greg McKeown; my interview with legendary comedian Jerry Seinfeld, and my conversation with renowned ethnopharmacologist Dennis McKenna. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": null,
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Ian_McEwan",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Ian_McEwan"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Machines_Like_Me"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/KFU4a"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/01/09/personal-reboot-greg-mckeown/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/12/08/jerry-seinfeld/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/07/21/dennis-mckenna/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

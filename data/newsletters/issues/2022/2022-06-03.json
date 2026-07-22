@@ -6,7 +6,171 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Planet Earth II “Grasslands” episode",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/Planet-Earth-II/dp/B01MTB2GLE), [YouTube](https://www.youtube.com/show/SC0O50qcq8y0bdKsYyjAbegg?season=1&sbp=CgEx), [Apple TV](https://tv.apple.com/us/episode/les-prairies/umc.cmc.mv3kvuyujy5z0hvhk22dwils?action=play)), hosted by [David Attenborough](https://en.wikipedia.org/wiki/David_Attenborough) ([@davidattenborough](https://www.instagram.com/davidattenborough/)). The episode’s description: “Grasslands cover one quarter of all land and support the vast gatherings of wildlife, but to survive here, animals must endure the most hostile seasonal changes on the planet. From Asia’s bizarre-looking saiga antelope to the giant anteaters of Brazil, grassland animals have adapted in extraordinary ways to cope with these extremes. In the flooded Okavango, lions take on formidable buffalo in epic battles; on the savannah, bee-eaters take advantage of elephants to help catch insects; and on the freezing northern tundra, caribou embark on great migrations shadowed by hungry Arctic wolves.”",
+      "original_url": "https://www.amazon.com/Planet-Earth-II/dp/B01MTB2GLE",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Planet-Earth-II/dp/B01MTB2GLE"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Planet-Earth-II/dp/B01MTB2GLE"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/show/SC0O50qcq8y0bdKsYyjAbegg?season=1&sbp=CgEx"
+        },
+        {
+          "type": "other",
+          "url": "https://tv.apple.com/us/episode/les-prairies/umc.cmc.mv3kvuyujy5z0hvhk22dwils?action=play"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/David_Attenborough"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/davidattenborough/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Audiobook I’m listening to",
+      "category": "audiobook",
+      "title": "Green Hills of Africa",
+      "creator": "Ernest Hemingway",
+      "note": ". I haven’t read Hemingway in more than a decade, but this specific nonfiction book was recommended to me by one of the smartest people I know. The writing, and commentary on writers and writing itself, is outstanding. It helps if you have some familiarity with hunting, but it’s not required. Before reading, I would suggest taking a few minutes to glance at 1–2 pictures of a few recurring animals: [kudu](https://www.istockphoto.com/photos/kudu), [sable antelope](https://www.istockphoto.com/photos/sable-antelope), [oryx](https://www.istockphoto.com/photos/oryx), [wildebeest](https://www.istockphoto.com/photos/wildebeest), [white rhino](https://www.gettyimages.ca/photos/white-rhinoceros), and [water buffalo](https://www.shutterstock.com/search/water+buffalo). Be forewarned that the original publication date was 1935, and some of the language is dated and will be offensive to most. From the description: “His second major venture into nonfiction (after _Death in the Afternoon_, 1932), _Green Hills of Africa_ is Ernest Hemingway’s lyrical journal of a month on safari in the great game country of East Africa, where he and his wife, Pauline, journeyed in December of 1933. Hemingway’s well-known interest in—and fascination with—big-game hunting is magnificently captured in this evocative account of his trip. In examining the poetic grace of the chase, and the ferocity of the kill, Hemingway also looks inward, seeking to explain the lure of the hunt and the primal undercurrent that comes alive on the plains of Africa. Yet _Green Hills of Africa_ is also an impassioned portrait of the glory of the African landscape and of the beauty of a wilderness that was, even then, being threatened by the incursions of man.”",
+      "original_url": "https://www.amazon.com/Green-Hills-of-Africa-audiobook/dp/B000LP5E82/ref=sr_1_1?keywords=green+hills+of+africa+by+ernest+hemingway&qid=1653938391&s=books&sprefix=green+hills+of+%2Cstripbooks%2C89&sr=1-1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Green-Hills-of-Africa-audiobook/dp/B000LP5E82/ref=sr_1_1?keywords=green+hills+of+africa+by+ernest+hemingway&qid=1653938391&s=books&sprefix=green+hills+of+%2Cstripbooks%2C89&sr=1-1"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Ernest_Hemingway"
+        },
+        {
+          "type": "other",
+          "url": "https://www.istockphoto.com/photos/kudu"
+        },
+        {
+          "type": "other",
+          "url": "https://www.istockphoto.com/photos/sable-antelope"
+        },
+        {
+          "type": "other",
+          "url": "https://www.istockphoto.com/photos/oryx"
+        },
+        {
+          "type": "other",
+          "url": "https://www.istockphoto.com/photos/wildebeest"
+        },
+        {
+          "type": "other",
+          "url": "https://www.gettyimages.ca/photos/white-rhinoceros"
+        },
+        {
+          "type": "other",
+          "url": "https://www.shutterstock.com/search/water+buffalo"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Podcast episode I’m listening to",
+      "category": "podcast",
+      "title": "Matthew Inman and Elan Lee: Invite Everyone to The Party",
+      "creator": null,
+      "note": "([Apple Podcasts](https://podcasts.apple.com/us/podcast/matthew-inman-and-elan-lee-invite-everyone-to-the-party/id1507009944?i=1000514857698), [Spotify](https://open.spotify.com/episode/5FjKmNS99BGmCI59q0B0qt)) on _Inc._’s [_What I Know_](https://www.inc.com/what-i-know-podcast) podcast. Here is the official description: “[Christine Lagorio-Chafkin](https://twitter.com/lagorio) talks to [Matthew Inman](http://twitter.com/oatmeal) and [Elan Lee](https://mobile.twitter.com/elanlee)—founders of [Exploding Kittens](https://www.explodingkittens.com/)—about how they founded their company, when to give up on a potentially good idea, and the $1 million dollar meow.” To better understand the scope of Exploding Kittens, here’s a paragraph from [a recent announcement](https://www.businesswire.com/news/home/20211203005465/en/Asmodee-to-Make-a-Strategic-Investment-in-Exploding-Kittens): “Exploding Kittens is a leading game and entertainment company with a mission to inspire people to connect, laugh, and play fun games in the physical world. After initially seeking to raise $10K through Kickstarter, the Exploding Kittens campaign raised $8.7M in 30 days from 219,000 backers. To date, Exploding Kittens is the #1 most-backed project in Kickstarter history and has sold over 18 million games.”",
+      "original_url": "https://podcasts.apple.com/us/podcast/matthew-inman-and-elan-lee-invite-everyone-to-the-party/id1507009944?i=1000514857698",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://podcasts.apple.com/us/podcast/matthew-inman-and-elan-lee-invite-everyone-to-the-party/id1507009944?i=1000514857698"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/matthew-inman-and-elan-lee-invite-everyone-to-the-party/id1507009944?i=1000514857698"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/5FjKmNS99BGmCI59q0B0qt"
+        },
+        {
+          "type": "other",
+          "url": "https://www.inc.com/what-i-know-podcast"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/lagorio"
+        },
+        {
+          "type": "other",
+          "url": "http://twitter.com/oatmeal"
+        },
+        {
+          "type": "other",
+          "url": "https://mobile.twitter.com/elanlee"
+        },
+        {
+          "type": "other",
+          "url": "https://www.explodingkittens.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.businesswire.com/news/home/20211203005465/en/Asmodee-to-Make-a-Strategic-Investment-in-Exploding-Kittens"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m re-reading yet again (very short)",
+      "category": "article",
+      "title": "On Needing to Find Something to Worry About",
+      "creator": null,
+      "note": "This brief blog post provides me with an afterglow of extended calm for at least a few hours, and it can sometimes last a few days. The quote from Donald Winnicott packs a wallop, so don’t miss it.",
+      "original_url": "https://www.theschooloflife.com/article/on-needing-to-find-something-to-worry-about/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.theschooloflife.com/article/on-needing-to-find-something-to-worry-about/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“These are times in which a genius would wish to live. It is not in the still calm of life, or in the repose of a pacific station, that great characters are formed. The habits of a vigorous mind are formed in contending with difficulties. Great necessities call out great virtues.” — Abigail Adams, Letter to John Quincy Adams dated January 19th, 1780 And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Abigail Adams, Letter to John Quincy Adams dated January 19th, 1780 And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Abigail_Adams",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Abigail_Adams"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/John_Quincy_Adams"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -7,7 +7,182 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading (longer) —",
+      "category": "book",
+      "title": "The Art of Seeing Things: Essays by John Burroughs",
+      "creator": null,
+      "note": ", edited by [Charlotte Zoë Walker](https://www.charlottezoewalker.com/) ([@czwalkergil](https://twitter.com/czwalkergil)). How do you sharpen the eye and mind? How can you more fully experience the vibrant details of nature? [John Burroughs](https://en.wikipedia.org/wiki/John_Burroughs) writes beautifully on these and many other topics. He can be heavy on the bird references, but the essay that is the namesake of this volume—“The Art of Seeing Things”—is simply outstanding.",
+      "original_url": "https://www.amazon.com/Art-Seeing-Things-Essays-Burroughs/dp/0815606788/ref=sr_1_1?dchild=1&keywords=the+art+of+seeing+burroughs&qid=1609194463&sr=8-1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Art-Seeing-Things-Essays-Burroughs/dp/0815606788/ref=sr_1_1?dchild=1&keywords=the+art+of+seeing+burroughs&qid=1609194463&sr=8-1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.charlottezoewalker.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/czwalkergil"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/John_Burroughs"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading (shorter) —",
+      "category": "article",
+      "title": "100 Tips for a Better Life",
+      "creator": "Conor Barnes",
+      "note": "([@Ideopunk](https://twitter.com/ideopunk)). This is a surprisingly good list, despite the generic headline. Thanks to [Ryan Holiday](https://tim.blog/2020/04/09/ryan-holiday-stoicism/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@RyanHoliday](https://twitter.com/ryanholiday)) for the recommendation.",
+      "original_url": "https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life"
+        },
+        {
+          "type": "other",
+          "url": "https://ideopunk.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/ideopunk"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/04/09/ryan-holiday-stoicism/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/ryanholiday"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m wearing —",
+      "category": "other",
+      "title": "Yaktrax",
+      "creator": null,
+      "note": "([official website](https://yaktrax.implus.com/products/traction/yaktrax-walk-ice-shoes), [Amazon](https://www.amazon.com/stores/Yaktrax/page/6A1DA552-1ACD-4668-93BD-1C24EEE18432?ref_=ast_bln)), for modifying normal shoes when you need to walk on snow or ice. These are amazing and fit in a jacket pocket when folded up. I bought the basic “[Walk](https://yaktrax.implus.com/products/traction/yaktrax-walk-ice-shoes)” model, but there are many options. They’ve been a lifesaver on slippery sidewalks, slick hiking trails, and much more.",
+      "original_url": "https://yaktrax.implus.com/products/traction/yaktrax-walk-ice-shoes",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://yaktrax.implus.com/products/traction/yaktrax-walk-ice-shoes"
+        },
+        {
+          "type": "other",
+          "url": "https://yaktrax.implus.com/products/traction/yaktrax-walk-ice-shoes"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/stores/Yaktrax/page/6A1DA552-1ACD-4668-93BD-1C24EEE18432?ref_=ast_bln"
+        },
+        {
+          "type": "other",
+          "url": "https://yaktrax.implus.com/products/traction/yaktrax-walk-ice-shoes"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "The Big Sick",
+      "creator": null,
+      "note": "([trailer](https://www.youtube.com/watch?v=jcD0Daqc3Yw), [Amazon](https://www.amazon.com/Big-Sick-Kumail-Nanjiani/dp/B089XYBLJV/)). If you’re looking for a very funny and smart movie, this is what the doctor ordered (pun intended). It currently has 98% on Rotten Tomatoes’ Tomatometer. Here’s the description: “_The Big Sick_ is based on the real-life courtship between Pakistan-born comedian [Kumail Nanjiani](https://en.wikipedia.org/wiki/Kumail_Nanjiani) \\[[@kumailn](https://twitter.com/kumailn)\\] and [Emily Gordon](https://en.wikipedia.org/wiki/Emily_V._Gordon) \\[[@emilyvgordon](https://twitter.com/emilyvgordon)\\], who fall in love but struggle as their cultures clash. When Emily contracts a mysterious illness, Kumail finds himself forced to face her feisty parents, his family’s expectations, and his true feelings.” I found this movie while looking for the best comedy screenplays online, which took me to [this page](https://www.scriptreaderpro.com/best-comedy-scripts/).",
+      "original_url": "https://www.amazon.com/Big-Sick-Kumail-Nanjiani/dp/B089XYBLJV/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Big-Sick-Kumail-Nanjiani/dp/B089XYBLJV/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=jcD0Daqc3Yw"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Big-Sick-Kumail-Nanjiani/dp/B089XYBLJV/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Kumail_Nanjiani"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/kumailn"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Emily_V._Gordon"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/emilyvgordon"
+        },
+        {
+          "type": "other",
+          "url": "https://www.scriptreaderpro.com/best-comedy-scripts/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Indifférence",
+      "creator": "Les Doigts de l’Homme",
+      "note": "([@LesDoigtsDeLHomme](https://www.facebook.com/LesDoigtsDeLHomme/)). Give this one a few minutes, as it warms up and rips. Bonus points to anyone who can figure out the word play in this band’s name…",
+      "original_url": "https://www.youtube.com/watch?v=MPnw2VmzVAM",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=MPnw2VmzVAM"
+        },
+        {
+          "type": "other",
+          "url": "https://www.lamastrock.com/les-doigts-de-l-homme/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.facebook.com/LesDoigtsDeLHomme/"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“There is more wisdom in your body than in your deepest philosophy.” ― Friedrich Nietzsche, Thus Spoke Zarathustra And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, and here’s to a most joyous 2021! Much love to you and yours, Tim",
+      "creator": null,
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Thus_Spoke_Zarathustra"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

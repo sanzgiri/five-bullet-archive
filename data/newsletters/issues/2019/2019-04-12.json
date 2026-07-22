@@ -6,7 +6,107 @@
     "gmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": false,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "The Madness of Steve Jobs, Told by Steve Wozniak",
+      "creator": null,
+      "note": "I strongly dislike the clickbait title of the video, which isn’t the focus at all, but Steve Wozniak’s wide-ranging stories and observations are simply fantastic.",
+      "original_url": "https://www.youtube.com/watch?v=R3OcY37GOAA&feature=youtu.be",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=R3OcY37GOAA&feature=youtu.be"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Nerdy cooking article that made a real difference —",
+      "category": "article",
+      "title": "The Best Way to Bake a Sweet Potato",
+      "creator": null,
+      "note": "(Cook’s Illustrated [@[TestKitchen](https://twitter.com/TestKitchen)]). One of the short answers? “Microwaving the potatoes to 200 degrees and then baking them for another hour [at 425 degrees] causes their cell walls to break down and their starches to gelatinize, yielding a smooth, plush texture. Much of their moisture also evaporates during that time, so their flavor concentrates.” TF: I also found 425F for one hour, followed by 275F for one hour, to work well.",
+      "original_url": "https://www.cooksillustrated.com/articles/518-the-best-way-to-bake-a-sweet-potato",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.cooksillustrated.com/articles/518-the-best-way-to-bake-a-sweet-potato"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/TestKitchen"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading and listening to —",
+      "category": "book",
+      "title": "The Moth Presents All These Wonders: True Stories About Facing the Unknown",
+      "creator": null,
+      "note": "Here’s the description: “Celebrating the 20th anniversary of storytelling phenomenon [The Moth](https://themoth.org/), 45 unforgettable true stories about risk, courage, and facing the unknown, drawn from the best ever told on their stages.” I’ve only read 50 or so pages, but one of my favorites thus far is [Unusual Normality](https://player.themoth.org/#/?actionType=ADD_AND_PLAY&storyId=4726) ([YouTube option here if any loading issues](https://www.youtube.com/watch?v=DJPvPZwUSKY)) by Ishmael Beah (@[ishmaelbeah](https://twitter.com/ishmaelbeah)). Reading one short (2–5-page) story over tea or coffee in the morning is a nice jumpstart to the day.",
+      "original_url": "https://www.amazon.com/Moth-Presents-All-These-Wonders/dp/1101904402",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Moth-Presents-All-These-Wonders/dp/1101904402"
+        },
+        {
+          "type": "other",
+          "url": "https://themoth.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://player.themoth.org/#/?actionType=ADD_AND_PLAY&storyId=4726"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=DJPvPZwUSKY"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/ishmaelbeah"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Wine I’m enjoying —",
+      "category": "other",
+      "title": "Sucette Grenache 2016",
+      "creator": null,
+      "note": "I was sent this bottle by Richard Betts, the ninth person in history to pass the Master Sommelier test on his first attempt ([my interview with him here](https://tim.blog/2015/10/05/richard-betts/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)). It’s a beauty.",
+      "original_url": "http://www.anapproachtorelaxation.com/what-were-making/sucette/",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.anapproachtorelaxation.com/what-were-making/sucette/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/10/05/richard-betts/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Our bodies are apt to be our autobiographies.” — Frank Gelett Burgess",
+      "creator": "Frank Gelett Burgess",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Gelett_Burgess",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Gelett_Burgess"
+        }
+      ]
+    }
+  ]
 }

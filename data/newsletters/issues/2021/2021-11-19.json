@@ -6,7 +6,147 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m thinking about —",
+      "category": "other",
+      "title": "For people who are actually investing a large % of their own capital -- what do you consider the current best hedges/investments against inflation? Please only reply if you have at least 10-20% of your net worth in your answer. Thanks! #convictioncheck",
+      "creator": null,
+      "note": "“**[**For people who are actually investing a large % of their own capital -- what do you consider the current best hedges/investments against inflation? Please only reply if you have at least 10-20% of your net worth in your answer. Thanks! #convictioncheck**](https://twitter.com/tferriss/status/1461420883915034636)**”****TIM: \\[The following is not investment advice; it is intended for informational and entertainment purposes only.\\] To reciprocate, I’ll share that I have 10%+ in real estate, BTC, ETH, and companies (equities) with both strong global revenue spread and the ability to raise prices. That said, I have absolutely no expertise related to inflation. Furthermore, “what do you consider the current best hedges/investments against inflation?” may not be a great question for driving decisions. Be safe out there, kids. I’m still reading and thinking and reading and thinking...****2) “**[**The amount of magical thinking in response to this confirms my original tweet. Questions: 1) What would you invest in NOW if all in cash? Not: how would you justify your current investments? 2) If you're 20%+ in any position, you're willing to die on the sword for it. Why? You…**](https://twitter.com/tferriss/status/1461449336676663305)**” (Short thread) TIM: I’m well aware that two glasses of wine didn’t help my spelling. Shocker! “Faired” should be “fared.” To-****_may_****\\-to, to-****_mah_****\\-to, toemto, tmroakjlke, wine o’clock?**",
+      "original_url": "https://twitter.com/tferriss/status/1461420883915034636",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://twitter.com/tferriss/status/1461420883915034636"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss/status/1461449336676663305"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Book I’m rereading —",
+      "category": "book",
+      "title": "Awareness: The Perils and Opportunities of Reality",
+      "creator": null,
+      "note": "This short book has completely captured me since it was first recommended to me by [Peter Mallouk](https://tim.blog/2019/01/17/peter-mallouk/), who said it gave him durable peace for weeks at a time. I originally grabbed the Kindle version with low expectations. I devoured it in three days, and a shelf in my guest bedroom is now permanently stocked with copies for friends. It won’t resonate with everyone, but it found me at the right moment. I’ve now read it roughly a dozen times.",
+      "original_url": "https://www.amazon.com/Awareness-Opportunities-Reality-Anthony-Mello/dp/0385249373/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Awareness-Opportunities-Reality-Anthony-Mello/dp/0385249373/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/01/17/peter-mallouk/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Tech shortcut I’m enjoying immensely —",
+      "category": "other",
+      "title": "Use Live Text and Visual Look Up on your iPhone",
+      "creator": null,
+      "note": "This is pretty amazing, and [here’s a short video showing what it looks like](https://www.youtube.com/watch?v=hL5HJKQNPQQ). I’ll focus on one use case: I frequently take pictures of key pages in books. I do this with both physical books (often books received as gifts) and Kindle books that I’ve already highlighted (to capture the highlights of my highlights). [Here’s a real-world example of the latter](https://www.instagram.com/p/BjXWLVqg2Sb/). Using this new feature, I can simply copy and paste directly from photos on my iPhone into Evernote, Google Docs, or elsewhere! This saves quite a few steps. Here is the official description: “With iOS 15, you can use Live Text to copy and share text within photos, translate languages, make a call, and more. And with Visual Look Up, it’s easy to identify objects found within your photos.” Hat tip to the Sidewalk-Sprinting Zombie from Albany! For more details on how I organize and remember what I read, see here: “[How to Remember What You Read](https://www.youtube.com/watch?v=YQOrqAKKcUQ).”",
+      "original_url": "https://support.apple.com/en-us/HT212630",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://support.apple.com/en-us/HT212630"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=hL5HJKQNPQQ"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/BjXWLVqg2Sb/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=YQOrqAKKcUQ"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m reminding myself of —",
+      "category": "quote",
+      "title": "“The aim of science is to seek the simplest explanations of complex facts. We are apt to fall into the error of thinking that the facts are simple because simplicity is the goal of our quest. The guiding motto in the life of every natural philosopher should be, 'Seek simplicity and distrust it.'”— Alfred North Whitehead",
+      "creator": "Alfred North Whitehead",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Alfred_North_Whitehead",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Alfred_North_Whitehead"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“It is a fault to wish to be understood before we have made ourselves clear to ourselves.”— Simone Weil (Thank you to Maria Popova for introducing me to this quote.) And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim P.S. If you’re looking for good causes to support this holiday season, I’m using Endaoment (@endaomentdotorg) to set up my foundation to receive donations in cryptocurrency. Check out some of our projects here. [](https://tim.blog/2020/12/08/jerry-seinfeld/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf-footer-jerry) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Simone Weil",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Simone_Weil",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Simone_Weil"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/10/21/brain-pickings/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://endaoment.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/endaomentdotorg"
+        },
+        {
+          "type": "other",
+          "url": "https://app.endaoment.org/saisei"
+        },
+        {
+          "type": "other",
+          "url": "https://app.endaoment.org/saisei"
+        },
+        {
+          "type": "other",
+          "url": "https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/hAHoQ5faPwYaTb1HKvQEBZ?w=800&fit=max"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/10x-output/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=template"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/v8ur85neeurhq33ovi7"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=template"
+        }
+      ]
+    }
+  ]
 }

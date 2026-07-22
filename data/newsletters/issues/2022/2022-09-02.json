@@ -6,7 +6,187 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Podcast episode I’m listening to",
+      "category": "podcast",
+      "title": "Off Course",
+      "creator": null,
+      "note": "from [_This American Life_](https://www.thisamericanlife.org/)_._ This was just what I needed this week, as my life has taken an unexpected turn. Here’s the episode description: “Three people, and one animal, who know the path their lives will take until, suddenly, they don’t.” My favorite story is the first with Yibin Li, which deeply moved me. Don’t be surprised if your eyes well up. Take 15–20 minutes and thank me later. Huge hat tip to Loni for the recommendation.",
+      "original_url": "https://www.thisamericanlife.org/765/off-course",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.thisamericanlife.org/765/off-course"
+        },
+        {
+          "type": "other",
+          "url": "https://www.thisamericanlife.org/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m using once again for workouts",
+      "category": "other",
+      "title": "XPO Trainer",
+      "creator": null,
+      "note": "I love [the XPO Trainer](https://www.armoredfitness.com/products/xpo-trainer-2). Recommended to me by elite powerlifter [Mark Bell](https://www.instagram.com/marksmellybell/?hl=en) (check his other gear [here](https://markbellslingshot.com/); our podcast together [here](https://tim.blog/2017/07/12/inside-the-world-of-supertraining-mark-bell/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)), it is effectively a “prowler” with mechanical resistance. I was initially skeptical, but it’s been one of my favorite torture tools for years now. The harder you push, the harder it pushes back, and the wheels allow me to easily use this anywhere. Perhaps counterintuitively, it is much more difficult to use on asphalt than soft or loose surfaces, which suits my urban environment perfectly. No weight plates are required. The XPO is not made in high volume, and it’s a bit expensive, so here are [a few alternatives](https://www.amazon.com/s?k=prowler+sled&linkCode=sl2&linkId=ef1aa1fde3f7c1d82fa0133188f2d89e&tag=offsitoftimfe-20&ref=as_li_ss_tl) that are most suitable for grass or sand. I use the 1.0 version of the XPO Trainer, but there are newer models available. Bonus: If you want to see a walk-through of Mark’s incredible gym, [here’s a video](https://www.youtube.com/watch?v=i_7aWnSf2mU) we shot together that showcases his favorite toys. If you have a push sled, a few kettlebells, a jump rope, and a weighted rucksack, you can get in exceptional shape quickly.",
+      "original_url": "https://www.armoredfitness.com/products/xpo-trainer-2",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.armoredfitness.com/products/xpo-trainer-2"
+        },
+        {
+          "type": "other",
+          "url": "https://www.armoredfitness.com/products/xpo-trainer-2"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/marksmellybell/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://markbellslingshot.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/07/12/inside-the-world-of-supertraining-mark-bell/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/s?k=prowler+sled&linkCode=sl2&linkId=ef1aa1fde3f7c1d82fa0133188f2d89e&tag=offsitoftimfe-20&ref=as_li_ss_tl"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=i_7aWnSf2mU"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Song and album I’m enjoying",
+      "category": "music",
+      "title": "I Know What I Know",
+      "creator": "Paul Simon with General M",
+      "note": "([YouTube](https://www.youtube.com/watch?v=2hanjM_IenU), [Spotify](https://open.spotify.com/track/6uKtine48noy5bOCSWVPzw?si=a72a2a2704d14346)) by [Paul Simon](https://www.paulsimon.com/) with [General M.D. Shirinda](https://www.discogs.com/artist/867947-General-MD-Shirinda) and [The Gaza Sisters](https://www.discogs.com/artist/441145-The-Gaza-Sisters). [_Graceland_](https://en.wikipedia.org/wiki/Graceland_(album)) is one of my favorite albums of all time, and it has been for decades. If there is a better feel-good album with a wider range of musical talent and style, I don’t know what it is. And don’t just take my word for it: “[_Graceland_](https://en.wikipedia.org/wiki/Graceland_(album)) became Simon’s most successful studio album and his highest-charting album in over a decade; it is estimated to have sold more than 16 million copies worldwide. It was lauded by critics, won the 1987 Grammy for Album of the Year, and is frequently cited as one of the best albums of all time.”",
+      "original_url": "https://www.youtube.com/watch?v=2hanjM_IenU",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=2hanjM_IenU"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=2hanjM_IenU"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/6uKtine48noy5bOCSWVPzw?si=a72a2a2704d14346"
+        },
+        {
+          "type": "other",
+          "url": "https://www.paulsimon.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.discogs.com/artist/867947-General-MD-Shirinda"
+        },
+        {
+          "type": "other",
+          "url": "https://www.discogs.com/artist/441145-The-Gaza-Sisters"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Graceland_(album"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Graceland_(album"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Won’t You Be My Neighbor?",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/Wont-You-Be-My-Neighbor/dp/B07FJNWQR5), [Apple TV](https://tv.apple.com/us/movie/wont-you-be-my-neighbor/umc.cmc.2wefnx04ypbec7v4ih6kl3zkm?action=play), [YouTube](https://www.youtube.com/watch?v=YEYI4UJMcc4)). This was repeatedly recommended to me by my friend [Kevin Rose](https://tim.blog/2022/04/13/the-random-show-with-kevin-rose/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). It was particularly reassuring that Mister Rogers basically took the good TV playbook of the time and did the exact opposite, which helped lead to mega-success. Description: “_Won’t You Be My Neighbor?_ is a 2018 American documentary film directed by Morgan Neville about the life and guiding philosophy of Fred Rogers, the host and creator of _Mister Rogers’ Neighborhood_. The [trailer for the film](https://www.youtube.com/watch?v=FhwktRDG_aQ) debuted on what would have been Rogers’ 90th birthday, March 20, 2018. It received acclaim from critics and audiences and grossed more than $22 million, making it the highest-grossing biographical documentary ever produced.” ([Wikipedia](https://en.wikipedia.org/wiki/Won%27t_You_Be_My_Neighbor%3F_(film)))\n\n**If you don’t have time for the entire movie,** [**please watch this short clip of a young Fred Rogers speaking before the Senate Subcommittee on Communications**](https://www.youtube.com/watch?v=fKy7ljRr0AA)**. It’s absolutely mesmerizing.**",
+      "original_url": "https://www.amazon.com/Wont-You-Be-My-Neighbor/dp/B07FJNWQR5",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Wont-You-Be-My-Neighbor/dp/B07FJNWQR5"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Wont-You-Be-My-Neighbor/dp/B07FJNWQR5"
+        },
+        {
+          "type": "other",
+          "url": "https://tv.apple.com/us/movie/wont-you-be-my-neighbor/umc.cmc.2wefnx04ypbec7v4ih6kl3zkm?action=play"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=YEYI4UJMcc4"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/04/13/the-random-show-with-kevin-rose/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=FhwktRDG_aQ"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Won%27t_You_Be_My_Neighbor%3F_(film"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=fKy7ljRr0AA"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Fairy tales are more than true: not because they tell us that dragons exist, but because they tell us that dragons can be beaten.” — From Coraline by Neil Gaiman You can complement this edition of 5-Bullet Friday with my short letter to a friend who wants to get in shape, my interview with the late strength coach Charles Poliquin, and my conversation with Pavel Tsatsouline, best known for popularizing the kettlebell in the West. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "From Coraline by Neil Gaiman You can complement this edition of 5-Bullet Friday with my short letter to a friend who wants to get in shape, my interview with the late strength coach Charles Poliquin, and my conversation with Pavel Tsatsouline, best known for popularizing the kettlebell in the West. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://www.amazon.com/Coraline-Neil-Gaiman-audiobook/dp/B0000YSH38/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Coraline-Neil-Gaiman-audiobook/dp/B0000YSH38/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/03/28/neil-gaiman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/01/19/2021-reboot-letter-to-a-friend-who-wants-to-get-in-shape/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/07/21/charles-poliquin/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/01/15/pavel-tsatsouline/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

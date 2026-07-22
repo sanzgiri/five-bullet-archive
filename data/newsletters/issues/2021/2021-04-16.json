@@ -6,7 +6,166 @@
     "gmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": false,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Article I’m reading —",
+      "category": "article",
+      "title": "A Tiny Particle’s Wobble Could Upend the Known Laws of Physics",
+      "creator": null,
+      "note": "(New York Times). The subheading gives you the gist: “Experiments with particles known as muons suggest that there are forms of matter and energy vital to the nature and evolution of the cosmos that are not yet known to science.” To dig deeper, or if you have issues with the above link, [visit this link](https://www.nytimes.com/2021/04/16/learning/lesson-of-the-day-a-tiny-particles-wobble-could-upend-the-known-laws-of-physics.html) and see the accompanying short video.",
+      "original_url": "https://www.nytimes.com/2021/04/07/science/particle-physics-muon-fermilab-brookhaven.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/2021/04/07/science/particle-physics-muon-fermilab-brookhaven.html"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nytimes.com/2021/04/16/learning/lesson-of-the-day-a-tiny-particles-wobble-could-upend-the-known-laws-of-physics.html"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Breaking news that I’m exploring —",
+      "category": "other",
+      "title": "Magic mushroom compound at least as good as antidepressant in UK study",
+      "creator": null,
+      "note": "(Reuters) and “[Psychedelic drug worked for depression as well as common antidepressant, small trial finds](https://www.nbcnews.com/health/mental-health/psychedelic-drug-worked-depression-well-common-antidepressant-small-trial-finds-n1264093)” (NBC News). These articles discuss the first head-to-head comparison of psilocybin therapy and the antidepressant escitalopram, also known as Lexapro. There is a lot of confusing media coverage, but the above two pieces are well done. What is the simple summary? Below is a snippet of how one researcher uninvolved with the study, [Dr. Alexandre Lehmann](https://www.mcgill.ca/ent/about-us/faculty/dr-alexandre-lehmann) (Scientific Director at [PSFC](https://psfc.co/), Cognitive Neuroscience PI at McGill University), put it. I’ve bolded an important contrast that is under-discussed in the buzz online:\n\n“Results published in one of the world’s top medical journals [The New England Journal of Medicine] demonstrate that two sessions of psilocybin-assisted psychotherapy were as effective in treating depression over the course of six weeks as daily intake of SSRI antidepressants combined with psychotherapy. Additionally, remission rates were twice as high in the psilocybin group as in the escitalopram group. Furthermore, psilocybin appeared to outperform escitalopram on a number of secondary outcome measures. However, in secondary measures, the methodology used does not allow to assert this with the highest statistical standards.\n\n...\n\n“Even if psilocybin turns out to be ‘only just as good’ as SSRIs, but can provide long-term relief after a few doses, with fewer side effects, and be effective in the estimated 30% of patients who do not benefit from SSRIs…” that would be a very big deal, indeed.\n\nAs [Dr. Robin Carhart-Harris](https://neuroscape.ucsf.edu/profile/robin-carhart-harris/) ([@RCarhartHarris](https://twitter.com/RCarhartHarris)), the lead author of [the paper](https://www.nejm.org/doi/suppl/10.1056/NEJMoa2032994/suppl_file/nejmoa2032994_appendix.pdf), elaborates in [the NBC coverage](https://www.nbcnews.com/health/mental-health/psychedelic-drug-worked-depression-well-common-antidepressant-small-trial-finds-n1264093): “The receptors SSRIs work on seem to inhibit responses in the brain, particularly stress responses, and we think that takes the edge off so you can tolerate stress better…. With psychedelics, it’s almost the opposite. It’s almost like a brutal confrontation with the root of your suffering, which can allow people to better understand where their depression stems from.”",
+      "original_url": "https://www.reuters.com/world/uk/magic-mushroom-compound-least-good-antidepressant-uk-study-2021-04-14/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.reuters.com/world/uk/magic-mushroom-compound-least-good-antidepressant-uk-study-2021-04-14/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nbcnews.com/health/mental-health/psychedelic-drug-worked-depression-well-common-antidepressant-small-trial-finds-n1264093"
+        },
+        {
+          "type": "other",
+          "url": "https://www.mcgill.ca/ent/about-us/faculty/dr-alexandre-lehmann"
+        },
+        {
+          "type": "other",
+          "url": "https://psfc.co/"
+        },
+        {
+          "type": "other",
+          "url": "https://neuroscape.ucsf.edu/profile/robin-carhart-harris/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/RCarhartHarris"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nejm.org/doi/suppl/10.1056/NEJMoa2032994/suppl_file/nejmoa2032994_appendix.pdf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nbcnews.com/health/mental-health/psychedelic-drug-worked-depression-well-common-antidepressant-small-trial-finds-n1264093"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "#277: The War Continues at Home. Fighting Demons and Finding Peace",
+      "creator": null,
+      "note": "and “[#115: Into the Fire, and Beyond the Call of Duty, with Medal of Honor Recipient Dakota Meyer](https://jockopodcast.com/2018/02/28/115-into-the-fire-and-beyond-the-call-of-duty-with-medal-of-honor-winner-dakota-meyer/).” Both episodes feature Dakota Meyer, who is the second-youngest living Medal of Honor recipient, the third living recipient for either the Iraq War or the War in Afghanistan, and the first living United States Marine in 38 years to be so honored. [In episode #277](https://jockopodcast.com/2021/04/14/277-the-war-continues-at-home-fighting-demons-and-finding-peace-with-dakota-meyer/), he discusses his personal use of psychedelics for PTSD and the outcomes he’s experienced. The following news from this week is related and includes Dakota: “[Rick Perry returns to the Texas Capitol to pitch study of psychedelic drugs for PTSD in veterans](https://www.texastribune.org/2021/04/13/veterans-ptsd-psychedelics-texas/).”",
+      "original_url": "https://jockopodcast.com/2021/04/14/277-the-war-continues-at-home-fighting-demons-and-finding-peace-with-dakota-meyer/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://jockopodcast.com/2021/04/14/277-the-war-continues-at-home-fighting-demons-and-finding-peace-with-dakota-meyer/"
+        },
+        {
+          "type": "other",
+          "url": "https://jockopodcast.com/2018/02/28/115-into-the-fire-and-beyond-the-call-of-duty-with-medal-of-honor-winner-dakota-meyer/"
+        },
+        {
+          "type": "other",
+          "url": "https://jockopodcast.com/2021/04/14/277-the-war-continues-at-home-fighting-demons-and-finding-peace-with-dakota-meyer/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.texastribune.org/2021/04/13/veterans-ptsd-psychedelics-texas/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Historical figure I’m studying —",
+      "category": "other",
+      "title": "Plenty Coups",
+      "creator": null,
+      "note": "From Wikipedia: “Plenty Coups ([Crow](https://en.wikipedia.org/wiki/Crow_language): Alaxchíia Ahú, ‘many achievements’; 1848–1932) was the principal chief of the [Crow Nation](https://en.wikipedia.org/wiki/Crow_Nation) (Apsáalooke) and a visionary leader.”",
+      "original_url": "https://en.wikipedia.org/wiki/Plenty_Coups",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Plenty_Coups"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Crow_language"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Crow_Nation"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Song I’m listening to —",
+      "category": "music",
+      "title": "Canopée",
+      "creator": "Polo & Pan",
+      "note": "([YouTube](https://www.youtube.com/watch?v=f5IruTV-LGQ), [Spotify](https://open.spotify.com/track/7EYENG2nOnb0DqXPHq4NF0?si=49c1c35bda804814)) by [Polo & Pan](http://www.poloandpanmusic.com/#/) ([@poloandpan](https://www.instagram.com/poloandpan/?hl=en)).",
+      "original_url": "https://www.youtube.com/watch?v=f5IruTV-LGQ",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=f5IruTV-LGQ"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=f5IruTV-LGQ"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/7EYENG2nOnb0DqXPHq4NF0?si=49c1c35bda804814"
+        },
+        {
+          "type": "other",
+          "url": "http://www.poloandpanmusic.com/#/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/poloandpan/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted.” — Ralph Waldo Emerson",
+      "creator": "Ralph Waldo Emerson",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson"
+        }
+      ]
+    }
+  ]
 }

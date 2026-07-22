@@ -6,7 +6,143 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "VICELAND",
+      "creator": null,
+      "note": ", [**Amazon**](https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/opfkhq/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UaGUtQ2FjdHVzLUFwcHJlbnRpY2UvZHAvQjA3N0Y0MVBONS9yZWY9c3JfMV8xP2llPVVURjgmcWlkPTE1MjM0OTA5NTkmc3I9OC0xJmtleXdvcmRzPWhhbWlsdG9uJTI3cytwaGFybWFjb3BpZWErc2Vhc29uKzI=)) — I have no idea how I missed this show until now, but better late than never. Both seasons are incredibly intelligent, well produced, and, at points, hilarious. If you want an immediate “WTF?!” response, watch [“The Psychedelic Toad” episode](https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/zvtghn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UaGUtQ2FjdHVzLUFwcHJlbnRpY2UvZHAvQjA3N0Y0MVBONS9yZWY9c3JfMV8xP2llPVVURjgmcWlkPTE1MjM0OTA5NTkmc3I9OC0xJmtleXdvcmRzPWhhbWlsdG9uJTI3cytwaGFybWFjb3BpZWErc2Vhc29uKzI=). Here’s the official description: “Hamilton Morris ([@hamiltonmorris](https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/pnceh9/aHR0cHM6Ly90d2l0dGVyLmNvbS9IYW1pbHRvbk1vcnJpcw==)) is fascinated by drugs. Join him on an incredible journey as he investigates the history, chemistry, and social impact of the world's most extraordinary mind-altering substances in Hamilton's Pharmacopeia.”",
+      "original_url": "https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/78i7h8/aHR0cHM6Ly93d3cudmljZWxhbmQuY29tL2VuX3VzL3Nob3cvaGFtaWx0b25zLXBoYXJtYWNvcGVpYQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/78i7h8/aHR0cHM6Ly93d3cudmljZWxhbmQuY29tL2VuX3VzL3Nob3cvaGFtaWx0b25zLXBoYXJtYWNvcGVpYQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/opfkhq/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UaGUtQ2FjdHVzLUFwcHJlbnRpY2UvZHAvQjA3N0Y0MVBONS9yZWY9c3JfMV8xP2llPVVURjgmcWlkPTE1MjM0OTA5NTkmc3I9OC0xJmtleXdvcmRzPWhhbWlsdG9uJTI3cytwaGFybWFjb3BpZWErc2Vhc29uKzI="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/zvtghn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UaGUtQ2FjdHVzLUFwcHJlbnRpY2UvZHAvQjA3N0Y0MVBONS9yZWY9c3JfMV8xP2llPVVURjgmcWlkPTE1MjM0OTA5NTkmc3I9OC0xJmtleXdvcmRzPWhhbWlsdG9uJTI3cytwaGFybWFjb3BpZWErc2Vhc29uKzI="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/pnceh9/aHR0cHM6Ly90d2l0dGVyLmNvbS9IYW1pbHRvbk1vcnJpcw=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Cirkus by Gramatik",
+      "creator": null,
+      "note": "([@Gramatik](https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/60aeh8/aHR0cHM6Ly90d2l0dGVyLmNvbS9HcmFtYXRpaw==))**",
+      "original_url": "https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/xksph6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1ET1VHdzB5TE5wNA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/xksph6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1ET1VHdzB5TE5wNA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/60aeh8/aHR0cHM6Ly90d2l0dGVyLmNvbS9HcmFtYXRpaw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Strange but True: Komodo Dragons Show that ‘Virgin Births’ Are Possible",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/kmbmh6/aHR0cHM6Ly93d3cuc2NpZW50aWZpY2FtZXJpY2FuLmNvbS9hcnRpY2xlL3N0cmFuZ2UtYnV0LXRydWUta29tb2RvLWQv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/kmbmh6/aHR0cHM6Ly93d3cuc2NpZW50aWZpY2FtZXJpY2FuLmNvbS9hcnRpY2xlL3N0cmFuZ2UtYnV0LXRydWUta29tb2RvLWQv"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Person I’m following on social —",
+      "category": "other",
+      "title": "@oceanramsey",
+      "creator": null,
+      "note": "), freediver, conservationist, and shark whisperer. [Here is one of dozens of incredible shots](https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/2ou2ho/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JlbXVUemlIT1Y2Lz90YWtlbi1ieT1vY2VhbnJhbXNleQ==). I wanted to be a marine biologist for more than a decade, and I care deeply about shark protection. Apex predators are extremely important for balance in marine ecosystems. This all led me to several people, including photographer Paul Nicklen ([@paulnicklen](https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/q3i8h7/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wYXVsbmlja2xlbi8=)), who then led me to Ocean.",
+      "original_url": "https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/52hvh7/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9vY2VhbnJhbXNleS8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/52hvh7/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9vY2VhbnJhbXNleS8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/2ou2ho/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JlbXVUemlIT1Y2Lz90YWtlbi1ieT1vY2VhbnJhbXNleQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/q3i8h7/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wYXVsbmlja2xlbi8="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering (my favorite part bolded) —",
+      "category": "quote",
+      "title": "“There is a pervasive form of contemporary violence .... (and that is) activism and overwork. The rush and pressure of modern life are a form, perhaps the most common form, of its innate violence. To allow oneself to be carried away by a multitude of conflicting concerns, to surrender to too many demands, to commit oneself to too many projects, to want to help everyone in everything, is to succumb to violence. The frenzy of our activism neutralizes our work for peace. It destroys our own inner capacity for peace. It destroys the fruitfulness of our own work, because it kills the root of inner wisdom which makes work fruitful.” \\- Thomas Merton (1915-1968) American Catholic writer, social activist, theologian, and mystic And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim P.S. -- Deal of the week: For the last two years, I've been a mentor at an event called two12, and though I can’t attend this year, I admire how they’ve helped entrepreneurs and executives grow their businesses. The event is small (65 attendees), invite-only, and every attendee receives a personalized schedule via which they meet with different mentors in small groups. Keynotes, panel conversations, and strategy sessions are also available. The event is expensive, but it includes four days of face-to-face interaction with smart entrepreneurs and leaders, and all costs (hotel, meals, etc.) are included. As a subscriber to 5-Bullet Friday, you can receive $1,000 off the regular price, if you mention my name on your application and are accepted. I get no cut or commission. Just a fun event. [](https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/w4b2hg/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. Seneca and Marcus, 60 29th Street, San Francisco, California 94110, United States",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/gvfnh5/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvVGhvbWFzX01lcnRvbg==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/gvfnh5/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvVGhvbWFzX01lcnRvbg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/93tzhn/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/3wcphk/aHR0cHM6Ly90d28xMi5pby8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/nesohv/aHR0cHM6Ly90d28xMi5pby8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/43avhe/aHR0cHM6Ly90d28xMi5pby8="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/rxh8ho/aHR0cDovL2dvLmZvdXJob3Vyd29ya3dlZWsuY29tLzEweC1vdXRwdXQv"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "http://el2.fourhourmail.com/u/gku0l36gga5hnqo5k"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5hnqo5k/8viqho/aHR0cDovL2ZvdXJob3Vyd29ya3dlZWsuY29tL2Jsb2c="
+        }
+      ]
+    }
+  ]
 }

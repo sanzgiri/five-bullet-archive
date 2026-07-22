@@ -6,7 +6,159 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Device that has improved my sleep",
+      "category": "other",
+      "title": "PSO-RITE",
+      "creator": null,
+      "note": "for psoas muscle release.** Recommended by multiple people in [this Twitter thread](https://twitter.com/tferriss/status/1537476784207241217) on iliacus self-release.",
+      "original_url": "https://www.amazon.com/PSO-RITE-Psoas-Release-Personal-Massager/dp/B07DPCWV8Z/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/PSO-RITE-Psoas-Release-Personal-Massager/dp/B07DPCWV8Z/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss/status/1537476784207241217"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Free Guy",
+      "creator": null,
+      "note": "(94% Audience Score on** [**Rotten Tomatoes**](https://www.rottentomatoes.com/m/free_guy)**).** _Free Guy_ stars and was produced by [Ryan Reynolds](https://en.wikipedia.org/wiki/Ryan_Reynolds) ([@VancityReynolds](https://twitter.com/VancityReynolds)). The movie is directed by [Shawn Levy](https://en.wikipedia.org/wiki/Shawn_Levy) ([@ShawnLevyDirect](https://twitter.com/shawnlevydirect)) from a screenplay by [Matt Lieberman](https://en.wikipedia.org/wiki/Matt_Lieberman) ([@elprotecto](https://twitter.com/elprotecto)) and [Zak Penn](https://en.wikipedia.org/wiki/Zak_Penn) ([@zakpenn](https://mobile.twitter.com/zakpenn)). Here is the official description of the movie: “A bank teller (Ryan Reynolds) discovers he is actually a background player in an open-world video game and decides to become the hero of his own story. Now, in a world where there are no limits, he is determined to be the guy who saves his world his way before it’s too late.”",
+      "original_url": "https://www.amazon.com/Free-Guy-Ryan-Reynolds/dp/B09GQZBBMF/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Free-Guy-Ryan-Reynolds/dp/B09GQZBBMF/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rottentomatoes.com/m/free_guy"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Ryan_Reynolds"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/VancityReynolds"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Shawn_Levy"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/shawnlevydirect"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Matt_Lieberman"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/elprotecto"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Zak_Penn"
+        },
+        {
+          "type": "other",
+          "url": "https://mobile.twitter.com/zakpenn"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "My Twelve Rules for Life",
+      "creator": "Russ Roberts",
+      "note": "([@EconTalker](https://twitter.com/econtalker)). In particular, I’m thinking about this one:  \n​  \n“**2\\. Find something healthy to worship**\n\nDavid Foster Wallace says it well:\n\n_Because here’s something else that’s weird but true: in the day-to-day trenches of adult life, there is actually no such thing as atheism. There is no such thing as not worshipping. Everybody worships. The only choice we get is what to worship. And the compelling reason for maybe choosing some sort of god or spiritual-type thing to worship—be it JC or Allah, be it YHWH or the Wiccan Mother Goddess, or the Four Noble Truths, or some inviolable set of ethical principles—is that pretty much anything else you worship will eat you alive. If you worship money and things, if they are where you tap real meaning in life, then you will never have enough, never feel you have enough. It’s the truth. Worship your body and beauty and sexual allure and you will always feel ugly. And when time and age start showing, you will die a million deaths before they finally grieve you. On one level, we all know this stuff already. It’s been codified as myths, proverbs, clichés, epigrams, parables; the skeleton of every great story. The whole trick is keeping the truth up front in daily consciousness.  \n​_​  \n…​  \n​  \n​But the most important thing to remember is not to worship yourself. Not as easy as it sounds.”",
+      "original_url": "https://russroberts.medium.com/my-twelve-rules-for-life-4041fb11a1b3",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://russroberts.medium.com/my-twelve-rules-for-life-4041fb11a1b3"
+        },
+        {
+          "type": "other",
+          "url": "https://russroberts.info/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/econtalker"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Eres para Mí",
+      "creator": "Julieta Venegas",
+      "note": "([YouTube](https://www.youtube.com/watch?v=pj2ntDiXJCk), [Spotify](https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3?si=1f9c4dfd7235420a)) by [Julieta Venegas](https://en.wikipedia.org/wiki/Julieta_Venegas) ([@julietav](https://twitter.com/julietav)). Feeling sapped by an ever-increasing creep of nihilism in the world (dramatic, I know)? This is the type of track that helps me find an optimistic foothold. Good medicine for challenging times and good medicine for seeing the silver linings all around us. [Things are generally better than we think](https://www.amazon.com/Better-Angels-Our-Nature-Violence/dp/0143122010).",
+      "original_url": "https://www.youtube.com/watch?v=pj2ntDiXJCk",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=pj2ntDiXJCk"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=pj2ntDiXJCk"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3?si=1f9c4dfd7235420a"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Julieta_Venegas"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/julietav"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Better-Angels-Our-Nature-Violence/dp/0143122010"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The road to hell is not paved with good intentions. It is paved with lack of intention.” — Dr. Gabor Maté For more from Gabor, start here. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Dr. Gabor Maté For more from Gabor, start here. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://tim.blog/2018/02/20/gabor-mate/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2018/02/20/gabor-mate/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/02/20/gabor-mate/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

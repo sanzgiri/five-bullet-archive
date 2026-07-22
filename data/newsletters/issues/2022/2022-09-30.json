@@ -6,7 +6,143 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short video I’m watching",
+      "category": "video",
+      "title": "Animal: What Makes You Truly Happy?",
+      "creator": null,
+      "note": "If this week has been stressful or heavy for you, this very short video might help you decompress. #bunnyrabbit​",
+      "original_url": "https://www.youtube.com/watch?v=WnJgdyaJ2BQ",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=WnJgdyaJ2BQ"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m using",
+      "category": "other",
+      "title": "Jakt Gear’s SLING-A-LING Magnetic Paracord Bow Sling",
+      "creator": null,
+      "note": "Huge thank you to Jedi Jordon for the recommendation!",
+      "original_url": "https://jaktgear.com/collections/bow-sling/products/mysling-a-ling-bow-sling",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://jaktgear.com/collections/bow-sling/products/mysling-a-ling-bow-sling"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m revisiting amidst present-day craziness",
+      "category": "other",
+      "title": "50 ways to be ridiculously generous—and feel ridiculously good.",
+      "creator": "Alexandra Franzen",
+      "note": ". This is a great list, which I found recommended on the website of fellow Austinite [Professor Raj Raghunathan](https://www.happysmarts.com/), author of [_If You’re So Smart, Why Aren’t You Happy?_](https://www.amazon.com/Youre-Smart-Why-Arent-Happy/dp/1101980737). If you feel overwhelmed or underjoyed, try this: give an extra $10 or $20 to the barista next time you buy coffee. Give $5 of that to the barista and pay for the next person or next few people behind you. Simply walk out after the drive-by karma bomb. The afterglow is incredible and can last hours. Paradoxically, the fastest path to feeling better is often this type of indirect route, and it makes me think of this quote often attributed to Henry David Thoreau: “Happiness is like a butterfly: the more you chase it, the more it will evade you, but if you notice the other things around you, it will gently come and sit on your shoulder.”",
+      "original_url": "https://www.youcangetitdone.com/post/50-ways",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youcangetitdone.com/post/50-ways"
+        },
+        {
+          "type": "other",
+          "url": "http://www.alexandrafranzen.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.happysmarts.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Youre-Smart-Why-Arent-Happy/dp/1101980737"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Saved My Life",
+      "creator": "Andy Grammer",
+      "note": "([YouTube](https://www.youtube.com/watch?v=nn6UCXR02qk), [Spotify](https://open.spotify.com/track/6ATM1zRLGYYP72J9xwnL1L?si=8acbd91208274d50)) by [Andy Grammer](https://andygrammer.com/) ([@andygrammer](https://twitter.com/andygrammer)) and [R3HAB](https://www.r3hab.com/) ([@R3HAB](https://mobile.twitter.com/r3hab)).",
+      "original_url": "https://www.youtube.com/watch?v=nn6UCXR02qk",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=nn6UCXR02qk"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=nn6UCXR02qk"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/6ATM1zRLGYYP72J9xwnL1L?si=8acbd91208274d50"
+        },
+        {
+          "type": "other",
+          "url": "https://andygrammer.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/andygrammer"
+        },
+        {
+          "type": "other",
+          "url": "https://www.r3hab.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://mobile.twitter.com/r3hab"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“It is good to come to a country you know practically nothing about. Your thoughts grow still, useless. … In a country you know nothing about, there is no reference point. You struggle to associate colors, smells, dim memories. You live a little like a child, or an animal.” — Andrzej Stasiuk Hat tip to Rolf Potts, author of The Vagabond’s Way_, for sharing this with me. You can complement this edition of 5-Bullet Friday with bestselling author A.J. Jacobs’s strategies for happiness through gratitude, angel investor Naval Ravikant’s happiness hacks, and my ultra-popular conversation with Derek Sivers on finding happiness, saying no to millions, and more. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Andrzej Stasiuk Hat tip to Rolf Potts, author of The Vagabond’s Way_, for sharing this with me. You can complement this edition of 5-Bullet Friday with bestselling author A.J. Jacobs’s strategies for happiness through gratitude, angel investor Naval Ravikant’s happiness hacks, and my ultra-popular conversation with Derek Sivers on finding happiness, saying no to millions, and more. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Andrzej_Stasiuk",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Andrzej_Stasiuk"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/09/28/rolf-potts-the-vagabonds-way/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Vagabonds-Way-Meditations-Wanderlust-Discovery/dp/0593497457"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/11/05/a-j-jacobs/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2016/01/30/naval-ravikant-on-happiness-hacks/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/12/14/derek-sivers-on-developing-confidence-finding-happiness-and-saying-no-to-millions/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,131 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Article I’m reading —",
+      "category": "article",
+      "title": "How to win the Tour de France, in one image",
+      "creator": null,
+      "note": "([Fast Company](https://el2.fourhourmail.com/c/e5ux264rrb7hwv5o0/opfkhq/aHR0cHM6Ly90d2l0dGVyLmNvbS9GYXN0Q29tcGFueQ==)).** I was led to this piece by Dr. Peter Attia ([@PeterAttiaMD](https://el2.fourhourmail.com/c/e5ux264rrb7hwv5o0/zvtghn/aHR0cHM6Ly90d2l0dGVyLmNvbS9QZXRlckF0dGlhTUQ=)), and here’s a short preview: “Practically speaking, the energy savings is the equivalent of pedaling 9.3 miles per hour while actually flying down the road at 33.5 miles per hour.”",
+      "original_url": "https://el2.fourhourmail.com/c/e5ux264rrb7hwv5o0/78i7h8/aHR0cHM6Ly93d3cuZmFzdGNvbXBhbnkuY29tLzkwMTk5NjE5L2hvdy10by13aW4tdGhlLXRvdXItZGUtZnJhbmNlLWluLW9uZS1pbWFnZQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7hwv5o0/78i7h8/aHR0cHM6Ly93d3cuZmFzdGNvbXBhbnkuY29tLzkwMTk5NjE5L2hvdy10by13aW4tdGhlLXRvdXItZGUtZnJhbmNlLWluLW9uZS1pbWFnZQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7hwv5o0/opfkhq/aHR0cHM6Ly90d2l0dGVyLmNvbS9GYXN0Q29tcGFueQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7hwv5o0/zvtghn/aHR0cHM6Ly90d2l0dGVyLmNvbS9QZXRlckF0dGlhTUQ="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Location I am considering exploring —",
+      "category": "other",
+      "title": "Ukraine",
+      "creator": null,
+      "note": "I’d love to visit [**Lviv**](https://el2.fourhourmail.com/c/e5ux264rrb7hwv5o0/xksph6/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTHZpdg==), which has been considered one of the cultural centers of Ukraine, and in particular, I’d love to check out the historic city centre, which is on the UNESCO World Heritage List. What else should I see? Please let me know on Twitter ([@tferriss](https://el2.fourhourmail.com/c/e5ux264rrb7hwv5o0/60aeh8/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcy8=)) and use hashtag #ukrainetim. And which Ukrainians should I meet? I’ve only met a few in my life, but I’ve always been impressed by their friendliness. Case in point: [Cirque du Soleil acrobat Andrii Bondarenko](https://el2.fourhourmail.com/c/e5ux264rrb7hwv5o0/kmbmh6/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9hbmRyaWlfYm9uZGFyZW5rby8=).",
+      "original_url": "https://el2.fourhourmail.com/c/e5ux264rrb7hwv5o0/pnceh9/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvVWtyYWluZQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7hwv5o0/pnceh9/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvVWtyYWluZQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7hwv5o0/xksph6/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTHZpdg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7hwv5o0/60aeh8/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcy8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7hwv5o0/kmbmh6/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9hbmRyaWlfYm9uZGFyZW5rby8="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Most popular on social this month —",
+      "category": "other",
+      "title": "“Underwater weight training with the XPT gang.”",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/e5ux264rrb7hwv5o0/52hvh7/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JsTGRCYW9ueWhILz90YWtlbi1ieT10aW1mZXJyaXNz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7hwv5o0/52hvh7/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JsTGRCYW9ueWhILz90YWtlbi1ieT10aW1mZXJyaXNz"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Person I’m learning more about —",
+      "category": "other",
+      "title": "Attila",
+      "creator": null,
+      "note": "(406–453), frequently called Attila the Hun, was the ruler of the Huns from 434 until his death in March 453. He was also the leader of a tribal empire in Central and Eastern Europe consisting of Huns, Ostrogoths, and Alans, among others.",
+      "original_url": "https://el2.fourhourmail.com/c/e5ux264rrb7hwv5o0/2ou2ho/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQXR0aWxh",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7hwv5o0/2ou2ho/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQXR0aWxh"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.” — Ralph Waldo Emerson [](https://el2.fourhourmail.com/c/e5ux264rrb7hwv5o0/gvfnh5/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUmFscGhfV2FsZG9fRW1lcnNvbg==)And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim P.S. In case you missed it, I recently published a guest post by famed screenwriter and author Steven Pressfield titled “How to Undertake the Artist’s Journey.” It really hit home for me, and perhaps it’s finding you at the right time. Enjoy! [](https://el2.fourhourmail.com/c/e5ux264rrb7hwv5o0/nesohv/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #508, Austin TX 78703, United States",
+      "creator": "Ralph Waldo Emerson",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/e5ux264rrb7hwv5o0/q3i8h7/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUmFscGhfV2FsZG9fRW1lcnNvbg==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7hwv5o0/q3i8h7/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUmFscGhfV2FsZG9fRW1lcnNvbg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7hwv5o0/93tzhn/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7hwv5o0/3wcphk/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzA3LzA1L3RoZS1hcnRpc3RzLWpvdXJuZXktc3RldmUtcHJlc3NmaWVsZC8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm"
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7hwv5o0/43avhe/aHR0cDovL2dvLmZvdXJob3Vyd29ya3dlZWsuY29tLzEweC1vdXRwdXQv"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/e5ux264rrb7hwv5o0"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7hwv5o0/rxh8ho/aHR0cDovL2ZvdXJob3Vyd29ya3dlZWsuY29tL2Jsb2c="
+        }
+      ]
+    }
+  ]
 }

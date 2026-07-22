@@ -6,7 +6,167 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Mentalism, mind reading and the art of getting inside your head",
+      "creator": "Derren Brown",
+      "note": "([@derrenbrown](http://twitter.com/derrenbrown)). If that whets your appetite, follow it up with **“**[**The Events: How to Be a Psychic Spy**](https://www.youtube.com/watch?v=mICJw09UfrE)**”** by Derren. I’m very keen to learn more about mentalism. Can anyone suggest a “curriculum” or great way of learning? [Please send me a note on Twitter using @tferriss and #mentalism if so](https://twitter.com/tferriss)!",
+      "original_url": "https://www.youtube.com/watch?v=2IFa0tqHrwE",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=2IFa0tqHrwE"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Derren_Brown"
+        },
+        {
+          "type": "other",
+          "url": "http://twitter.com/derrenbrown"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=mICJw09UfrE"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m studying",
+      "category": "other",
+      "title": "Drunken monkey hypothesis",
+      "creator": null,
+      "note": "From Wikipedia: “\\[The Drunken monkey hypothesis\\] proposes that human attraction to ethanol may derive from dependence of the primate ancestors of _Homo sapiens_ on ripe and fermenting fruit as a dominant food source.” Thanks to [Dr. Mark Plotkin](https://tim.blog/2020/09/30/mark-plotkin/) ([@DocMarkPlotkin](https://twitter.com/docmarkplotkin)) for introducing me to this hypothesis. Learn more about Mark [here](https://tim.blog/2020/09/30/mark-plotkin/).",
+      "original_url": "https://en.wikipedia.org/wiki/Drunken_monkey_hypothesis",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Drunken_monkey_hypothesis"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/09/30/mark-plotkin/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/docmarkplotkin"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/09/30/mark-plotkin/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’ll be practicing outdoors this summer",
+      "category": "other",
+      "title": "AcroYoga with Chelsey Korus and Matt Giordano",
+      "creator": null,
+      "note": "This video has 1M+ views for a reason, and the sequences make me want to dive back into AcroYoga. For a good overview of the fundamentals, check out co-founder [Jason Nemer](https://tim.blog/2016/08/24/jason-nemer/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)’s book, [_Move, Connect, Play: The Art and Science of AcroYoga_](https://www.amazon.com/Move-Connect-Play-Science-Acroyoga/dp/1250774179/). You can also watch my video interview with him [here](https://www.youtube.com/watch?v=fNH4S22Ijao).",
+      "original_url": "https://www.youtube.com/watch?v=bMMlzQsQPk4",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=bMMlzQsQPk4"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2016/08/24/jason-nemer/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Move-Connect-Play-Science-Acroyoga/dp/1250774179/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=fNH4S22Ijao"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Ave Cruz",
+      "creator": "Céu",
+      "note": "([YouTube](https://www.youtube.com/watch?v=lJWqglNy8ww), [Spotify](https://open.spotify.com/track/0efWZjlvvketulDmLvAIBc?autoplay=true)) by [Céu](https://www.ceumusic.com/) ([@ceumusic](https://twitter.com/ceumusic)). Caramel and velvet for winding down.  \n​**Hard:** **“**[**Blood from a Stone**](https://www.youtube.com/watch?v=7f-ljyfb4yg)**”** ([YouTube](https://www.youtube.com/watch?v=7f-ljyfb4yg), [Spotify](https://open.spotify.com/track/3E67SH1aQjwRBvQ9jphK6c?autoplay=true)) by [Sevendust](https://sevendust.com/) ([@Sevendust](https://twitter.com/Sevendust)). Sonic hammer for winding up.",
+      "original_url": "https://www.youtube.com/watch?v=lJWqglNy8ww",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=lJWqglNy8ww"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=lJWqglNy8ww"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/0efWZjlvvketulDmLvAIBc?autoplay=true"
+        },
+        {
+          "type": "other",
+          "url": "https://www.ceumusic.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/ceumusic"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=7f-ljyfb4yg"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=7f-ljyfb4yg"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/3E67SH1aQjwRBvQ9jphK6c?autoplay=true"
+        },
+        {
+          "type": "other",
+          "url": "https://sevendust.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/Sevendust"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Question I am once again revisiting",
+      "category": "other",
+      "title": "How am I complicit in creating the conditions I say I don’t want?",
+      "creator": null,
+      "note": "(Click to see thread and discussion.) **​  \n​**— [Jerry Colonna](https://tim.blog/2021/12/14/jerry-colonna-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)  \n​\n\n​  \nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
+      "original_url": "https://twitter.com/DanielPink/status/1484200878898921472",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://twitter.com/DanielPink/status/1484200878898921472"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/12/14/jerry-colonna-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

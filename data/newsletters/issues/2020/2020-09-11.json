@@ -1,13 +1,157 @@
 {
   "schema_version": 1,
   "issue_date": "2020-09-11",
-  "subject": "5-Bullet Friday — September 11, 2020 ",
+  "subject": "5-Bullet Friday — September 11, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m thinking about nearly 24/7 —",
+      "category": "other",
+      "title": "Apple Podcasts",
+      "creator": null,
+      "note": ", [Spotify](https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM), [Overcast](https://overcast.fm/itunes863897795/the-tim-ferriss-show), [Stitcher](https://www.stitcher.com/podcast/the-tim-ferriss-show), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuYXJ0MTkuY29tL3RpbS1mZXJyaXNzLXNob3c), [Castbox](https://castbox.fm/channel/id1059468?country=us), [Pocket Casts](https://pca.st/timferriss), [Podcast Addict](https://podcastaddict.com/podcast/2031148).",
+      "original_url": "https://podcasts.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://podcasts.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM"
+        },
+        {
+          "type": "other",
+          "url": "https://overcast.fm/itunes863897795/the-tim-ferriss-show"
+        },
+        {
+          "type": "other",
+          "url": "https://www.stitcher.com/podcast/the-tim-ferriss-show"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuYXJ0MTkuY29tL3RpbS1mZXJyaXNzLXNob3c"
+        },
+        {
+          "type": "other",
+          "url": "https://castbox.fm/channel/id1059468?country=us"
+        },
+        {
+          "type": "other",
+          "url": "https://pca.st/timferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://podcastaddict.com/podcast/2031148"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Dune official trailer",
+      "creator": null,
+      "note": "It’s no secret that I love Frank Herbert’s [_Dune_](https://www.amazon.com/Dune-Chronicles-Book-1/dp/0441013597/). [The Litany Against Fear of the Bene Gesserit](https://dune.fandom.com/wiki/Litany_Against_Fear) has appeared in my books, I’ve referenced quotes from _Dune_ on the podcast, and I still think it is one of the finest examples of world-building, and practically useful, fiction in the English language. Past attempts to translate _Dune_ to the screen have failed to capture the magic, but this trailer made me smile. I’m keeping expectations low, but if the YouTube comments are to be believed (and you should read them to get an idea of how devout/hardcore the fan base is), at least the writers and filmmakers aren’t trying to cram everything from the _Dune_ universe into one feature-length film. Fingers crossed...",
+      "original_url": "https://www.youtube.com/watch?v=n9xhJrPXop4",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=n9xhJrPXop4"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Dune-Chronicles-Book-1/dp/0441013597/"
+        },
+        {
+          "type": "other",
+          "url": "https://dune.fandom.com/wiki/Litany_Against_Fear"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "How to Find the Side Door: Startup Lessons from RXBar, 5-hour Energy, and More",
+      "creator": null,
+      "note": "This post from [Guy Raz](https://tim.blog/2020/09/10/guy-raz/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) of [_How I Built This_](https://www.amazon.com/How-Built-This-Unexpected-Entrepreneurs/dp/0358216761/) explores how RXBar, 5-hour Energy, and other unorthodox startups created their own categories—and billions of dollars of value—by “taking the side door.” Sometimes the best way to beat the competition and win... is to sidestep competition altogether.",
+      "original_url": "https://tim.blog/2020/09/10/guy-raz-how-i-built-this-excerpt/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2020/09/10/guy-raz-how-i-built-this-excerpt/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/09/10/guy-raz/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/How-Built-This-Unexpected-Entrepreneurs/dp/0358216761/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Simple shoes that I’m loving —",
+      "category": "other",
+      "title": "OluKai “Nohea Mesh” slip-on shoes",
+      "creator": null,
+      "note": "([Official website](https://olukai.com/products/nohea-mesh-mens-slip-on-shoes-clay-banyan), [Zappos](https://www.zappos.com/p/olukai-nohea-mesh-clay-banyan/product/8084223/color/878894), [REI](https://www.rei.com/product/864982/olukai-nohea-mesh-shoes-mens), [Amazon](https://www.amazon.com/OluKai-Nohea-Mesh-Shoe-Mens/dp/B008QZGA2I?th=1)).",
+      "original_url": "https://olukai.com/products/nohea-mesh-mens-slip-on-shoes-clay-banyan",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://olukai.com/products/nohea-mesh-mens-slip-on-shoes-clay-banyan"
+        },
+        {
+          "type": "other",
+          "url": "https://olukai.com/products/nohea-mesh-mens-slip-on-shoes-clay-banyan"
+        },
+        {
+          "type": "other",
+          "url": "https://www.zappos.com/p/olukai-nohea-mesh-clay-banyan/product/8084223/color/878894"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rei.com/product/864982/olukai-nohea-mesh-shoes-mens"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/OluKai-Nohea-Mesh-Shoe-Mens/dp/B008QZGA2I?th=1"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“The willow submits to the wind and prospers until one day it is many willows — a wall against the wind.” ― Frank Herbert, Dune And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "a wall against the wind.” ― Frank Herbert, Dune And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Frank_Herbert",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Frank_Herbert"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Dune-Chronicles-Book-1/dp/0441013597/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

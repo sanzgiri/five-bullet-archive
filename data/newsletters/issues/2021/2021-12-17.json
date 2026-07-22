@@ -6,7 +6,183 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Documentary that’s captivating me —",
+      "category": "video",
+      "title": "The Alpinist",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/Alpinist-Peter-Mortimer/dp/B09KYJ4RVP/), [Netflix](https://www.netflix.com/title/81500204), [Apple TV](https://itunes.apple.com/us/movie/the-alpinist/id1589178189?ign-mpt=uo%3D2), [YouTube](https://www.youtube.com/watch?v=7NApHRfO3SM), [Google Play](https://play.google.com/store/movies/details/The_Alpinist?id=I4pWS1dfGxU.P&hl=en&gl=US))_._ If you want an incredible infusion of wonder and adrenaline, this doc delivers. It’s stunning. Description: “[Marc-André Leclerc](https://en.wikipedia.org/wiki/Marc-Andr%C3%A9_Leclerc) climbs alone, far from the limelight. On remote alpine faces, the free-spirited 23-year-old Canadian makes some of the boldest solo ascents in history. Yet, he draws scant attention. With no cameras, no rope, and no margin for error, Leclerc’s approach is the essence of solo adventure. Nomadic and publicity shy, he doesn’t own a phone or car and is reluctant to let a film crew in on his pure vision of climbing...” Even if you don’t watch the full doc, [be sure to watch the short trailer here](https://www.youtube.com/watch?v=SRpVyzagXLQ). Special thanks to [Peter Mortimer](https://en.wikipedia.org/wiki/Peter_Mortimer_(filmmaker)) ([@SenderFilms](https://twitter.com/senderfilms)) and [Nick Rosen](https://www.imdb.com/name/nm2833230/) ([@finsterbone](https://twitter.com/finsterbone)) for including audio from [_The Tim Ferriss Show_](https://tim.blog/podcast/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) in this beautiful film.",
+      "original_url": "https://www.amazon.com/Alpinist-Peter-Mortimer/dp/B09KYJ4RVP/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Alpinist-Peter-Mortimer/dp/B09KYJ4RVP/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Alpinist-Peter-Mortimer/dp/B09KYJ4RVP/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.netflix.com/title/81500204"
+        },
+        {
+          "type": "other",
+          "url": "https://itunes.apple.com/us/movie/the-alpinist/id1589178189?ign-mpt=uo%3D2"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=7NApHRfO3SM"
+        },
+        {
+          "type": "other",
+          "url": "https://play.google.com/store/movies/details/The_Alpinist?id=I4pWS1dfGxU.P&hl=en&gl=US"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Marc-Andr%C3%A9_Leclerc"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=SRpVyzagXLQ"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Peter_Mortimer_(filmmaker"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/senderfilms"
+        },
+        {
+          "type": "other",
+          "url": "https://www.imdb.com/name/nm2833230/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/finsterbone"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/podcast/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching and listening to —",
+      "category": "video",
+      "title": "Throwback to one of my favorites ‘Land of Cole’ from the ‘Touching Souls’ Studio sessions",
+      "creator": null,
+      "note": "**and** **“**[**Jamming before our soundcheck with the one and only @paulbassoon 🎶**](https://www.instagram.com/p/CWasRdlj1n7/)**”** by [Kabeção](https://linktr.ee/Kabecao) ([@kabecaohandpan](https://www.instagram.com/kabecaohandpan/)). You can find [his music on Spotify](https://open.spotify.com/artist/2AawTjX2X63z0FkI0BdLIA), [Bandcamp](https://kabecao.bandcamp.com/music), and [his YouTube channel](https://www.youtube.com/c/Kabe%C3%A7%C3%A3ohandpan/videos), the last of which features handpan lessons and tips.",
+      "original_url": "https://www.instagram.com/p/CUNVXyBj1hH/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/p/CUNVXyBj1hH/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/CWasRdlj1n7/"
+        },
+        {
+          "type": "other",
+          "url": "https://linktr.ee/Kabecao"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/kabecaohandpan/"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/artist/2AawTjX2X63z0FkI0BdLIA"
+        },
+        {
+          "type": "other",
+          "url": "https://kabecao.bandcamp.com/music"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/c/Kabe%C3%A7%C3%A3ohandpan/videos"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Recent breakthroughs I’m tracking closely —",
+      "category": "music",
+      "title": "The chase for fusion energy: An emerging industry of nuclear-fusion firms promises to have commercial reactors ready in the next decade.",
+      "creator": "Philip Ball",
+      "note": "com/philipcball)) for _Nature_. If you prefer video, check out this excellent overview by Matt Ferrell ([@mattferrell](https://twitter.com/mattferrell)), which covers the recent excitement in fusion: “[Exploring Why This Nuclear Fusion Breakthrough Matters](https://www.youtube.com/watch?v=-KEwkWjADEA).”",
+      "original_url": "https://www.nature.com/immersive/d41586-021-03401-w/index.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nature.com/immersive/d41586-021-03401-w/index.html"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/philipcball"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/mattferrell"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=-KEwkWjADEA"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m celebrating —",
+      "category": "other",
+      "title": "match up to $1 million in donations to my foundation, Saisei Foundation, and the deadline is 5 p.m. PST next Wed, December 23rd",
+      "creator": null,
+      "note": "!** In other words, if you all donate $100K, $200K, $500K, $1M, or anywhere in between by that deadline, they will match and donate at least that much. [Click here to learn how I’ll use the funds and what I’m up to](https://app.endaoment.org/saisei). It’s some very exciting and high-leverage stuff. [Endaoment](https://app.endaoment.org/saisei)—the platform I’m using—allows you to donate cryptocurrencies or cash/USD (just [click “Donate via PayPal” to see options for cash/USD](https://app.endaoment.org/saisei)) to nonprofits like my foundation. **These donations are tax deductible for many, but please confirm with your tax advisor.** Donation receipts are automatically generated for donors as soon as a transaction completes. [Please click here](https://app.endaoment.org/saisei) to learn more and also see some of the firsts Saisei Foundation has been a part of.",
+      "original_url": "https://app.endaoment.org/saisei",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://app.endaoment.org/saisei"
+        },
+        {
+          "type": "other",
+          "url": "https://app.endaoment.org/saisei"
+        },
+        {
+          "type": "other",
+          "url": "https://app.endaoment.org/saisei"
+        },
+        {
+          "type": "other",
+          "url": "https://app.endaoment.org/saisei"
+        },
+        {
+          "type": "other",
+          "url": "https://app.endaoment.org/saisei"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Movements are what take five or ten percent of people and make them decisive—because in a world where apathy rules, five or ten percent is an enormous number.” — Bill McKibben And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "because in a world where apathy rules, five or ten percent is an enormous number.” — Bill McKibben And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://twitter.com/tferriss",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,218 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Tool I’m using for physical care",
+      "category": "other",
+      "title": "The Body Lever",
+      "creator": null,
+      "note": "Hat tip to [Nsima Inyang](https://www.youtube.com/watch?v=mLGqrlxofXA) for introducing me to this self-care contraption. It can be used a thousand ways, but I mostly use it on the legs and low back (e.g., QL and obliques). Who knew you could get so much benefit from putting your muscles in a giant nutcracker?",
+      "original_url": "https://www.bodylever.shop/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.bodylever.shop/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=mLGqrlxofXA"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "He Escaped Alzheimer’s Fate. Scientists Want to Know How.",
+      "creator": "Pam Belluck",
+      "note": "(_The New York Times_). [Click here](https://archive.is/XNjrW#selection-637.0-641.11) if you have any issues reading the full article at the above link. One of my takeaways: I’ll keep taking those 3–4 sauna sessions a week, based on the mention of heat shock proteins (HSPs). From the article:  \n​  \n​_Mr. Whitney, 76, is a scientific unicorn with potential to provide answers about one of the world’s most devastating diseases. He has a rare genetic mutation that essentially guaranteed he would develop Alzheimer’s disease in his late 40s or early 50s and would likely die within a decade.  \n​  \nHis mother and nine of her 13 siblings developed Alzheimer’s and died in the prime of their lives. So did his oldest brother, and other relatives going back generations. It is the largest family in the United States known to have an Alzheimer’s-causing mutation.  \n​  \n“Nobody in history had ever dodged that bullet,” Mr. Whitney said.  \n​  \nBut somehow, he has done just that. Something has shielded him from his genetic destiny, allowing him to escape Alzheimer’s for at least 25 years longer than anyone expected._",
+      "original_url": "https://www.nytimes.com/2025/10/07/health/alzheimers-gene-mutation.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/2025/10/07/health/alzheimers-gene-mutation.html"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nytimes.com/by/pam-belluck"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.is/XNjrW#selection-637.0-641.11"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m grieving",
+      "category": "other",
+      "title": "Some Practical Thoughts on Suicide",
+      "creator": null,
+      "note": "This post has saved some lives, and I should’ve written it sooner. Read the comments.  \n​  \n​[**My Healing Journey After Childhood Abuse (Includes Extensive Resource List)**](https://tim.blog/2020/09/14/how-to-heal-trauma/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit) — This includes two very different but complementary approaches.  \n​  \nIf you or someone you know is struggling or in crisis, help is available. Call or text 988 (the US Suicide & Crisis Lifeline) or chat [988Lifeline.org](http://www.988lifeline.org/). [Crisis Text Line](https://www.crisistextline.org/): text “HOME” to 741741 to connect with a crisis counselor for free, 24/7 support. If you’re outside of the US, please [click here for a list of international suicide hotlines](http://www.suicide.org/international-suicide-hotlines.html).  \n​  \n​**And last but certainly not least: call your family and closest friends this weekend.** Check in, tell them you love them, and make a pact that none of you will suffer in silence.",
+      "original_url": "https://tim.blog/2015/05/06/how-to-commit-suicide/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2015/05/06/how-to-commit-suicide/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/09/14/how-to-heal-trauma/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "http://www.988lifeline.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.crisistextline.org/"
+        },
+        {
+          "type": "other",
+          "url": "http://www.suicide.org/international-suicide-hotlines.html"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Much lighter stuff that I’m reading",
+      "category": "article",
+      "title": "The Best Family Trip Ever, According to WSJ Readers",
+      "creator": null,
+      "note": "([Alternate link](https://archive.is/p21Zg).) From the subheadline: “We asked people to share the memorable travel moments that lasted long after the return to everyday life.”",
+      "original_url": "https://www.wsj.com/lifestyle/travel/best-family-trip-moments-edc4210b",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.wsj.com/lifestyle/travel/best-family-trip-moments-edc4210b"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.is/p21Zg"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Update on the private community from last 5BF",
+      "category": "other",
+      "title": "game",
+      "creator": null,
+      "note": "community for parents. The first 200 were invited via email to the community, and we are off to a great start. I want to start small and ensure everything works, but the hope is to invite more people from the list after we kick the tires.",
+      "original_url": "http://coyotegame.com",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://coyotegame.com"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Book highlight I’m pondering",
+      "category": "book",
+      "title": "How to Stop Worrying and Start Living",
+      "creator": "Dale Carnegie * * * Have a wonderful weekend, all",
+      "note": "​\n\n* * *\n\nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​\n\n### Forwarded this message? [Sign up here](https://go.tim.blog/5-bullet-friday-1/).\n\nJoin millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff.\n\n[Sign Up](https://go.tim.blog/5-bullet-friday-1/)\n\n![Tim Ferriss](https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png) \n\n### Listen to _The Tim Ferriss Show_ Podcast\n\n_The Tim Ferriss Show_ is one of the most popular podcasts in the world with more than one billion downloads. It has been selected for \"Best of Apple Podcasts\" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts   \non many occasions.\n\n  [![Apple Podcast](https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png)  Podcasts](https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2) \n\n  [![Apple Podcast](https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png)  Apple Podcasts](https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2) \n\n  [![Overcast](https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png)  Overcast](https://overcast.fm/itunes863897795/the-tim-ferriss-show)    [![Spotify](https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png)  Spotify](https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM)    [![Tim's Blog](https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png)  Tim's Blog](https://tim.blog/podcast?utm_campaign=design-test&utm_medium=convertit&utm_source=convertkit)\n\n### Read Tim's Books\n\n[![Read Tim's Books](https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png)](https://tim.blog/tim-ferriss-books/?utm_campaign=design-test&utm_medium=convertit&utm_source=convertkit)\n\n  [![Amazon](https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png)  Amazon](https://www.amazon.com/Timothy-Ferriss/e/B001ILKBW2%3Fref=dbs_a_mng_rwt_scns_share)    [![Audible](https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png)  Audible](https://www.audible.com/ep/TimsBooks)   [![B & N](https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png) B & N](https://www.barnesandnoble.com/s/%22Timothy%20Ferriss%22?Ntk=P_key_Contributor_List)    [![Tim's Blog](https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png)  Tim's Blog](https://tim.blog/tim-ferriss-books/?utm_campaign=design-test&utm_medium=convertit&utm_source=convertkit)\n\nFollow Tim:\n\n[![TW](https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png)](https://twitter.com/tferriss)\n\n[![IG](https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png)](https://www.instagram.com/timferriss/)\n\n[![YT](https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png)](https://www.youtube.com/channel/UCznv7Vf9nBdJYvBagFdAHWw)\n\n[![FB](https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png)](https://www.facebook.com/TimFerriss)\n\n[![IN](https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png)](https://www.linkedin.com/in/timferriss/)\n\n**DO NOT REPLY HERE**: Due to volume, please do not reply to this email. Sadly we are unable to read 1000+ email replies daily. To reply to Tim, please do so in the blog comments [here](https://tim.blog/?utm_campaign=design-test&utm_medium=convertit&utm_source=convertkit).\n\nNo longer want these emails?  [Unsubscribe](https://unsubscribe.fourhourmail.com/27uk8e5mmuoh840portgugq5n744hgh7w8)\n\n3​11​2 Win​dso​r R​d., Box #UNS, Austin TX 78703, United States\n\n![](https://te.sparkloop.app/open/team_ca67a1a3a4/92140966/NO) [​](https://te.sparkloop.app/click/team_ca67a1a3a4/92140966/NO)\n\n![](https://open.fourhourmail.com/27uk8e5mmuoh840portgugq5n744hgh7w8)",
+      "original_url": "https://www.amazon.com/How-Stop-Worrying-Start-Living/dp/0671733354",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/How-Stop-Worrying-Start-Living/dp/0671733354"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Dale_Carnegie"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_campaign=design-test&utm_medium=convertit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/27uk8e5mmuoh840portgugq5n744hgh7w8"
+        },
+        {
+          "type": "other",
+          "url": "https://te.sparkloop.app/click/team_ca67a1a3a4/92140966/NO"
+        }
+      ]
+    }
+  ]
 }

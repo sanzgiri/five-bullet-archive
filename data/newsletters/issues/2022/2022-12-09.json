@@ -6,7 +6,286 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Series I’m watching",
+      "category": "video",
+      "title": "Goliath",
+      "creator": null,
+      "note": "I might be late to the party, but, man, this series is fantastic. The writing is great, the production value is high, and it checks a lot of boxes. Stars include [Billy Bob Thornton](https://en.wikipedia.org/wiki/Billy_Bob_Thornton), [Nina Arianda](https://en.wikipedia.org/wiki/Nina_Arianda), and [Tania Raymonde](https://en.wikipedia.org/wiki/Tania_Raymonde) ([@taniaraymonde](https://www.instagram.com/tania.raymonde/?hl=en)), among others. Here is the official description: “Once a powerful lawyer, Billy McBride is now burned out and washed up, spending more time in a bar than a courtroom. When he reluctantly agrees to pursue a wrongful death lawsuit against the biggest client of the massive law firm he helped create, Billy and his ragtag team uncover a vast and deadly conspiracy, pitting them all in a life or death trial against the ultimate Goliath.”",
+      "original_url": "https://www.primevideo.com/detail/0TAAO3YTUNN2QPVKG2TTHYAYB6/ref=atv_dp_season_select_s1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.primevideo.com/detail/0TAAO3YTUNN2QPVKG2TTHYAYB6/ref=atv_dp_season_select_s1"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Billy_Bob_Thornton"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Nina_Arianda"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Tania_Raymonde"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/tania.raymonde/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Articles I’m reading",
+      "category": "article",
+      "title": "Tinder Experiments II: Guys, unless you are really hot you are probably better off not wasting your time on Tinder — a quantitative socio-economic study",
+      "creator": null,
+      "note": "Ruh roh! Special thanks to Andy D.  \n​**​  \n“**[**How I Learned SQL in 4 Months Coming from a Non-Technical Background**](https://anupambajra.medium.com/how-i-learned-sql-in-4-months-coming-from-a-non-technical-background-8482e5aec06e)**”**",
+      "original_url": "https://medium.com/@worstonlinedater/tinder-experiments-ii-guys-unless-you-are-really-hot-you-are-probably-better-off-not-wasting-your-2ddf370a6e9a",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://medium.com/@worstonlinedater/tinder-experiments-ii-guys-unless-you-are-really-hot-you-are-probably-better-off-not-wasting-your-2ddf370a6e9a"
+        },
+        {
+          "type": "other",
+          "url": "https://anupambajra.medium.com/how-i-learned-sql-in-4-months-coming-from-a-non-technical-background-8482e5aec06e"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Songs I’m listening to",
+      "category": "music",
+      "title": "Layla",
+      "creator": "Kalaban Coura, feat",
+      "note": "([Spotify](https://open.spotify.com/track/3T9hkdRxU2pXZjNNXiSETh?si=a215477f122f4921&nd=1), [YouTube](https://youtu.be/Pyy4pVuhY34), [Apple Music](https://music.apple.com/us/album/layla-feat-quentin-dujardin/715448638?i=715448646)) by [Kalaban Coura](http://www.aguamusic.be/en/artist/kalaban-coura), feat. [Quentin Dujardin](https://www.quentindujardin.be/en/biography) ([@quentindujardinofficial](https://www.instagram.com/quentindujardinofficial/?hl=en))  \n​  \n​**“**[**Masala**](https://open.spotify.com/album/0CH1Jbos8zY7GX4WKAy5B3?highlight=spotify:track:3FzhN6s32SOcczLau47fLG)**”** ([Spotify](https://open.spotify.com/album/0CH1Jbos8zY7GX4WKAy5B3?highlight=spotify:track:3FzhN6s32SOcczLau47fLG), [YouTube](https://www.youtube.com/watch?v=K8W2_y_hivs), [Apple Music](https://music.apple.com/us/album/namaskar-ep/1524623635)) by [Jean du Voyage](https://www.francerocks.com/artist/jean-du-voyage/) ([@jeanduvoyagemusic](https://www.instagram.com/jeanduvoyagemusic/?hl=en)), feat. [Pierre Harmegnies](https://tidal.com/browse/artist/8423757)**​**",
+      "original_url": "https://open.spotify.com/track/3T9hkdRxU2pXZjNNXiSETh?si=a215477f122f4921",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://open.spotify.com/track/3T9hkdRxU2pXZjNNXiSETh?si=a215477f122f4921"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/3T9hkdRxU2pXZjNNXiSETh?si=a215477f122f4921&nd=1"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/Pyy4pVuhY34"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/album/layla-feat-quentin-dujardin/715448638?i=715448646"
+        },
+        {
+          "type": "other",
+          "url": "http://www.aguamusic.be/en/artist/kalaban-coura"
+        },
+        {
+          "type": "other",
+          "url": "https://www.quentindujardin.be/en/biography"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/quentindujardinofficial/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/album/0CH1Jbos8zY7GX4WKAy5B3?highlight=spotify:track:3FzhN6s32SOcczLau47fLG"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/album/0CH1Jbos8zY7GX4WKAy5B3?highlight=spotify:track:3FzhN6s32SOcczLau47fLG"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=K8W2_y_hivs"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/album/namaskar-ep/1524623635"
+        },
+        {
+          "type": "other",
+          "url": "https://www.francerocks.com/artist/jean-du-voyage/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/jeanduvoyagemusic/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://tidal.com/browse/artist/8423757"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Podcast episode I’m listening to",
+      "category": "podcast",
+      "title": "The Narrative Holy Trinity of World, Character, and Plot, with Fonda Lee",
+      "creator": null,
+      "note": "You can listen with the embedded web player at that link, or you can find the transcript [here](https://wetranscripts.dreamwidth.org/190072.html).",
+      "original_url": "https://writingexcuses.com/2021/10/24/16-43-the-narrative-holy-trinity-of-world-character-and-plot-with-fonda-lee/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://writingexcuses.com/2021/10/24/16-43-the-narrative-holy-trinity-of-world-character-and-plot-with-fonda-lee/"
+        },
+        {
+          "type": "other",
+          "url": "https://wetranscripts.dreamwidth.org/190072.html"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Creative people, as I see them, are distinguished by the fact that they can live with anxiety, even though a high price may be paid in terms of insecurity, sensitivity, and defenselessness for the gift of the ‘divine madness,’ to borrow the term used by the classical Greeks. They do not run away from non-being, but by encountering and wrestling with it, force it to produce being. They knock on silence for an answering music; they pursue meaninglessness until they can force it to mean.” — Rollo May (via Cody Swift and Riverstyx Foundation) You can complement this edition of 5-Bullet Friday with my in-depth interviews exploring the creative processes of comedy legend Jerry Seinfeld, master of memoir Mary Karr, and iconic nonfiction writer Michael Lewis. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Rollo May",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Rollo_May",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Rollo_May"
+        },
+        {
+          "type": "other",
+          "url": "https://espd55.com/speakers/cody-swift/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.riverstyxfoundation.org/"
+        },
+        {
+          "type": "other",
+          "url": "http://tim.blog/jerry"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/11/11/mary-karr/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/05/01/michael-lewis/"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "P.P.S.",
+      "category": "other",
+      "title": "The Legend of CØCKPUNCH™",
+      "creator": null,
+      "note": "debuted this week at #1 in “Fiction” on Apple Podcasts and has been in the Top 100 for all podcasts on Apple Podcasts (U.S. and other countries) all week. Even if you hate the name, I think most of you will [enjoy the 50-second trailer](https://podcasts.apple.com/us/podcast/c%C3%B8ckpunch/id1657210471). Please subscribe on [Apple Podcasts](https://podcasts.apple.com/us/podcast/c%C3%B8ckpunch/id1657210471), [Spotify](https://open.spotify.com/show/0O9MhcUVpWSjPpMFwia1WH), or wherever you get your podcasts. This entire podcast (and more) is intended to add some laughter and levity to a world dominated by doomscrolling and pessimism. There are surprises ahead… **​  \n​**\n\n### Forwarded this message? [Sign up here](https://go.tim.blog/5-bullet-friday-1/?utm_source=convertkit&utm_medium=convertit&utm_campaign=footer).\n\nJoin millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff.\n\n[Sign Up](https://go.tim.blog/5-bullet-friday-1/)\n\n![Tim Ferriss](https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png) \n\n### Listen to _The Tim Ferriss Show_ Podcast\n\n_The Tim Ferriss Show_ is one of the most popular podcasts in the world with more than 900 million downloads. It has been selected for \"Best of Apple Podcasts\" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts   \non many occasions.\n\n  [![Apple Podcasts](https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png)  Podcasts](https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2) \n\n  [![Apple Podcast](https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png)  Apple Podcasts](https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2) \n\n  [![Overcast](https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png)  Overcast](https://overcast.fm/itunes863897795/the-tim-ferriss-show)    [![Spotify](https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png)  Spotify](https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM)    [![Tim's Blog](https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png)  Tim's Blog](https://tim.blog/podcast?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test)\n\n### Read Tim's Books\n\n[![Read Tim's Books](https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png)](https://tim.blog/tim-ferriss-books/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test)\n\n  [![Amazon](https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png)  Amazon](https://www.amazon.com/Timothy-Ferriss/e/B001ILKBW2%3Fref=dbs_a_mng_rwt_scns_share)    [![Audible](https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png)  Audible](https://www.audible.com/ep/TimsBooks)   [![B & N](https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png) B & N](https://www.barnesandnoble.com/s/%22Timothy%20Ferriss%22?Ntk=P_key_Contributor_List)    [![Tim's Blog](https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png)  Tim's Blog](https://tim.blog/tim-ferriss-books/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test)\n\nFollow Tim:\n\n[![TW](https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png)](https://twitter.com/tferriss)\n\n[![IG](https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png)](https://www.instagram.com/timferriss/)\n\n[![YT](https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png)](https://www.youtube.com/channel/UCznv7Vf9nBdJYvBagFdAHWw)\n\n[![FB](https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png)](https://www.facebook.com/TimFerriss)\n\n[![IN](https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png)](https://www.linkedin.com/in/timferriss/)\n\n**DO NOT REPLY HERE**: Due to volume, please do not reply to this email. Sadly we are unable to read 1000+ email replies daily. To reply to Tim, please do so in the blog comments [here](https://tim.blog/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test).\n\nNo longer want these emails?  [Unsubscribe](https://unsubscribe.fourhourmail.com/r8u063gzzaoh2vpdrgfz)\n\n3​11​2 Win​dso​r R​d., Box #UNS, Austin TX 78703, United States\n\n​\n\n![](https://open.fourhourmail.com/r8u063gzzaoh2vpdrgfz)",
+      "original_url": "https://podcasts.apple.com/us/podcast/c%C3%B8ckpunch/id1657210471",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://podcasts.apple.com/us/podcast/c%C3%B8ckpunch/id1657210471"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/c%C3%B8ckpunch/id1657210471"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/c%C3%B8ckpunch/id1657210471"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/show/0O9MhcUVpWSjPpMFwia1WH"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/?utm_source=convertkit&utm_medium=convertit&utm_campaign=footer"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/r8u063gzzaoh2vpdrgfz"
+        }
+      ]
+    }
+  ]
 }

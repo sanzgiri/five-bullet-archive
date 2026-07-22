@@ -6,7 +6,143 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Profile I’m reading",
+      "category": "article",
+      "title": "Man of Extremes: The Return of James Cameron",
+      "creator": null,
+      "note": "(_The New Yorker_). James Cameron is a beast worth studying. His track record is unparalleled, and few humans are as aggressive or as capable. Even if you’re feeling rushed, take 60 seconds to read the first paragraph of this piece, which is incredible. Kudos to [Dana Goodyear](https://en.wikipedia.org/wiki/Dana_Goodyear) ([@danagoodyear](https://twitter.com/danagoodyear)) on the writing.",
+      "original_url": "https://www.newyorker.com/magazine/2009/10/26/man-of-extremes",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.newyorker.com/magazine/2009/10/26/man-of-extremes"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Dana_Goodyear"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/danagoodyear"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Album I’m listening to while working",
+      "category": "music",
+      "title": "2001 Instrumental",
+      "creator": "Dr",
+      "note": "([YouTube](https://www.youtube.com/watch?v=3MufzuaKfZg&list=PLATQ8iWXs4GxyetKHEYTwlKwKH5fcr2Jm&index=4), [Spotify](https://open.spotify.com/album/33wf5Y2Ne4wHZHbNgmFjiG), [Apple Music](https://music.apple.com/us/album/2001-instrumental/1440869002)) by [Dr. Dre](https://www.drdre.com/) ([@drdre](https://twitter.com/drdre)).",
+      "original_url": "https://www.youtube.com/watch?v=3MufzuaKfZg&list=PLATQ8iWXs4GxyetKHEYTwlKwKH5fcr2Jm&index=4",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=3MufzuaKfZg&list=PLATQ8iWXs4GxyetKHEYTwlKwKH5fcr2Jm&index=4"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=3MufzuaKfZg&list=PLATQ8iWXs4GxyetKHEYTwlKwKH5fcr2Jm&index=4"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/album/33wf5Y2Ne4wHZHbNgmFjiG"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/album/2001-instrumental/1440869002"
+        },
+        {
+          "type": "other",
+          "url": "https://www.drdre.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/drdre"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Pick of the Litter",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/Pick-Litter-Patriot/dp/B07GVV638F/), [Disney+](https://www.disneyplus.com/series/pick-of-the-litter/5iClwiby7D1y), [YouTube](https://www.youtube.com/watch?v=Djc1s_ZRRC0)). This feel-good documentary was recommended to me by my mom. It is a little sappy at points, but the training for avoiding automobiles and refusing to follow owner commands is incredible. Fair warning: some of you will shed a tear or two. The official description: “_Pick of the Litter_ follows a litter of puppies from the moment they’re born and begin their quest to become guide dogs for the blind. Cameras follow these pups through an intense two-year odyssey as they train to become dogs whose ultimate responsibility is to protect their blind partners from harm. Along the way, these remarkable animals rely on a community of dedicated individuals who train them to do amazing, life-changing things in the service of their human. The stakes are high, and not every dog can make the cut.”",
+      "original_url": "https://www.amazon.com/Pick-Litter-Patriot/dp/B07GVV638F/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Pick-Litter-Patriot/dp/B07GVV638F/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Pick-Litter-Patriot/dp/B07GVV638F/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.disneyplus.com/series/pick-of-the-litter/5iClwiby7D1y"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=Djc1s_ZRRC0"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Pilgrimage I’m learning more about",
+      "category": "other",
+      "title": "The Camino de Santiago",
+      "creator": null,
+      "note": "From Wikipedia: “The Camino de Santiago, known in English as the Way of St James, is a network of pilgrims’ ways or pilgrimages leading to the shrine of the apostle Saint James the Great in the cathedral of Santiago de Compostela in Galicia in northwestern Spain, where tradition holds that the remains of the apostle are buried. As Pope Benedict XVI said, ‘It is a way sown with so many demonstrations of fervor, repentance, hospitality, art, and culture, which speak to us eloquently of the spiritual roots of the Old Continent.’”",
+      "original_url": "https://en.wikipedia.org/wiki/Camino_de_Santiago",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Camino_de_Santiago"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“‘What is the secret of your serenity?’ Said the Master, ‘Wholehearted cooperation with the inevitable.’” — Anthony de Mello You can complement this edition of 5-Bullet Friday with my recent interview with travel writer Rolf Potts, this video of my top travel tips, and this clip on some of my favorite travel destinations. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Anthony de Mello You can complement this edition of 5-Bullet Friday with my recent interview with travel writer Rolf Potts, this video of my top travel tips, and this clip on some of my favorite travel destinations. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Anthony_de_Mello",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Anthony_de_Mello"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/09/28/rolf-potts-the-vagabonds-way/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=dY1OYkOJ0XI"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=WOYky1opGiY"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=WOYky1opGiY"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

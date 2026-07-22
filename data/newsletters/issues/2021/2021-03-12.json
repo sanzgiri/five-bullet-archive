@@ -7,7 +7,135 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m experimenting with —",
+      "category": "other",
+      "title": "Dr. Dominic D’Agostino",
+      "creator": null,
+      "note": "(his first episode, “[Dom D’Agostino on Fasting, Ketosis, and the End of Cancer](https://tim.blog/2015/11/03/dominic-dagostino/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf),” was a mega-hit): “[Fasting (36 hrs) Data from @mybiosense Breath Acetone and @levels CGM (Libre). Abbott Precision Xtra = 0.8 mM, whereas @ketomojo = 1.8 mM BHB (not sure what to make of that)...](https://www.instagram.com/p/CL-CyAkgW_u/?igshid=1igcvnyhg83tx)” The images and explanations continue in the linked post.",
+      "original_url": "https://twitter.com/DominicDAgosti2",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://twitter.com/DominicDAgosti2"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/11/03/dominic-dagostino/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/CL-CyAkgW_u/?igshid=1igcvnyhg83tx"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Articles I’ve been reading, all themed around NFTs —",
+      "category": "article",
+      "title": "Banksy Work Physically Burned and Digitized as NFT in Art-World First",
+      "creator": null,
+      "note": "and **“**[**The Non-Fungible Token Bible: Everything you need to know about NFTs**](https://opensea.io/blog/guides/non-fungible-tokens/)**”** (especially sections 1, 2, and 3, as a lot has happened since this piece was published).**“**[**NFTs are a dangerous trap**](https://seths.blog/2021/03/nfts-are-a-dangerous-trap/)**”** by [Seth Godin](https://tim.blog/2020/10/26/seth-godin-the-practice/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). Quick note and questions related to Seth’s post — The current energy costs of crypto/blockchain appear to be enormous. For the crypto-literate engineers out there: How should we think about the promise and feasibility of Proof of Stake as a remedy, and how much of the energetic costs might that mitigate? The creator of Ethereum, Vitalik Buterin, [recently discussed concrete timelines for some related scaling here](https://tim.blog/2021/03/08/vitalik-buterin-naval-ravikant/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). One more question for the same engineers: Do you expect most “modern” blockchains moving forward to use PoS, as Top Shot has done, to name just one example? How else might we otherwise think about solutions for the known problem of ecological/energy costs? If you have thoughts, please [let me know on Twitter @tferriss](http://twitter.com/tferriss) and use #blockchain so I can find responses. Thank you.  \n  \nLast, if you want a very quick definition of NFTs, you can listen to [this 90-second clip](https://twitter.com/tferriss/status/1362893746992533507) from [Katie Haun](https://tim.blog/2021/02/18/katie-haun/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf).",
+      "original_url": "https://www.coindesk.com/banksy-work-physically-burned-and-digitized-as-nft-in-art-world-first",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.coindesk.com/banksy-work-physically-burned-and-digitized-as-nft-in-art-world-first"
+        },
+        {
+          "type": "other",
+          "url": "https://opensea.io/blog/guides/non-fungible-tokens/"
+        },
+        {
+          "type": "other",
+          "url": "https://seths.blog/2021/03/nfts-are-a-dangerous-trap/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/10/26/seth-godin-the-practice/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/03/08/vitalik-buterin-naval-ravikant/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "http://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss/status/1362893746992533507"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/02/18/katie-haun/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching to CTFO —",
+      "category": "video",
+      "title": "Schitt’s Creek",
+      "creator": null,
+      "note": ", created by Eugene Levy (**[**@RealEugeneLevy**](https://twitter.com/Realeugenelevy)**) and Dan Levy (**[**@DanJLevy**](https://twitter.com/danjlevy)**).** I’m extremely late to the party, but this show is hilarious and appeared in my life at the perfect time. The writing and acting are outstanding. 2–3 short episodes before bed is a great way to laugh and decompress after a hard day of slogging through the Internet like [Atreyu in the Swamp of Sadness](https://www.youtube.com/watch?v=vE8mFDabqD0). Sometimes you just need some audio-visual Scooby Snacks to get you through the week.",
+      "original_url": "https://www.netflix.com/watch/80036165",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.netflix.com/watch/80036165"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/Realeugenelevy"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/danjlevy"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=vE8mFDabqD0"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Short video I’m watching once again —",
+      "category": "video",
+      "title": "Jim Carrey Motivational Video — WHO IS THE REAL YOU?",
+      "creator": null,
+      "note": "I found the very beginning points and the story about his father to be most impactful. Jim is endlessly fascinating to me. Ignore the “law of attraction” stuff in the last 10–15 seconds, which is not from Jim Carrey himself.",
+      "original_url": "https://www.youtube.com/watch?v=_-kaib_rXTQ",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=_-kaib_rXTQ"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“I don't trust people who don’t love themselves and tell me ‘I love you.’ … There is an African saying which is: ‘Be careful when a naked person offers you a shirt.’”— Maya AngelouAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Maya AngelouAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Maya_Angelou",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Maya_Angelou"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

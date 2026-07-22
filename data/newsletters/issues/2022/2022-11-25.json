@@ -6,7 +6,135 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Popular on Twitter",
+      "category": "other",
+      "title": "You’re 90% done. Congratulations! You only have 50% left.",
+      "creator": null,
+      "note": null,
+      "original_url": "https://twitter.com/tferriss/status/1588360155590463488",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://twitter.com/tferriss/status/1588360155590463488"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Viking berserkers may have used henbane to induce trance-like state",
+      "creator": "Jennifer Ouellette",
+      "note": "([@JenLucPiquant](https://twitter.com/JenLucPiquant)) for _Ars Technica_.",
+      "original_url": "https://arstechnica.com/science/2019/09/viking-berserkers-may-have-used-henbane-to-induce-trance-like-state/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://arstechnica.com/science/2019/09/viking-berserkers-may-have-used-henbane-to-induce-trance-like-state/"
+        },
+        {
+          "type": "other",
+          "url": "https://arstechnica.com/author/jenniferouellette/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/JenLucPiquant"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "This Guy Is Relentless",
+      "creator": null,
+      "note": "[Rich Roll](https://tim.blog/2022/01/04/rich-roll/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@⁨RichRoll](https://twitter.com/richroll)),⁩ I loved your interview with [Casey Neistat](https://tim.blog/2015/10/27/casey-neistat/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@casey](https://www.youtube.com/caseyneistat)). Both of you are inspiring… and irritatingly handsome.",
+      "original_url": "https://www.youtube.com/watch?v=PS9OUF_lhFc",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=PS9OUF_lhFc"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/01/04/rich-roll/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/richroll"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/10/27/casey-neistat/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/caseyneistat"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m using to fuel writing",
+      "category": "other",
+      "title": "The Ultimate AeroPress Technique (Episode #3)",
+      "creator": null,
+      "note": "](https://www.youtube.com/watch?v=j6VlT_jUVPc)**”** by [James Hoffmann](https://www.youtube.com/@jameshoffmann). See the video’s description for details and step-by-step instructions.",
+      "original_url": "https://www.youtube.com/watch?v=j6VlT_jUVPc",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=j6VlT_jUVPc"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/@jameshoffmann"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Poem I’m pondering",
+      "category": "other",
+      "title": "Portia Nelson",
+      "creator": null,
+      "note": ", [_There’s a Hole in My Sidewalk: The Romance of Self-Discovery_](https://www.amazon.com/Theres-Hole-My-Sidewalk-Self-Discovery/dp/1582706859/)​  \n​\n\n​  \nYou can complement this edition of _5-Bullet Friday_ with my “[4-Minute Cup Of Coffee](https://www.youtube.com/watch?v=hnavN3yfLoE)” clip from _The Tonight Show Starring Jimmy Fallon_, the [top coffee gear](https://tim.blog/the-4-hour-chef-coffee-top-gear/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) from [_The 4-Hour Chef_](https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/), and [this morning tea video](https://www.youtube.com/watch?v=wIVD3-SRdvQ) for those of you who might prefer a coffee alternative.  \n​  \nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
+      "original_url": "https://en.wikipedia.org/wiki/Portia_Nelson",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Portia_Nelson"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Theres-Hole-My-Sidewalk-Self-Discovery/dp/1582706859/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=hnavN3yfLoE"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/the-4-hour-chef-coffee-top-gear/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=wIVD3-SRdvQ"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,155 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Barry Lopez on the Cure for Our Existential Loneliness and the Three Tenets of a Full Life",
+      "creator": null,
+      "note": "on _The Marginalian_. Thank you to [Maria Popova](https://tim.blog/2014/10/21/brain-pickings/?utm_source=convertkit&utm_medium=convertit&utm_campaign=5bf) ([@mariapopova](https://www.instagram.com/mariapopova/?hl=en)) for sending this to me, as she knows I love Barry’s writing. If you’re new to his work and want to sample one of his award-winning books, I suggest starting with [_Of Wolves and Men_](https://www.amazon.com/Wolves-Men-Barry-Holstun-Lopez/dp/0684163225/) or [_Arctic Dreams_](https://www.amazon.com/Arctic-Dreams-Barry-Lopez/dp/0375727485/). They represent nonfiction at its best.",
+      "original_url": "https://www.themarginalian.org/2022/09/18/barry-lopez-place-loneliness/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.themarginalian.org/2022/09/18/barry-lopez-place-loneliness/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/10/21/brain-pickings/?utm_source=convertkit&utm_medium=convertit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/mariapopova/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Wolves-Men-Barry-Holstun-Lopez/dp/0684163225/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Arctic-Dreams-Barry-Lopez/dp/0375727485/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Alone_, Season 7",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/Alone-Season-7/dp/B08B1VH3SX), [YouTube](https://www.youtube.com/show/SCsjo9oAbmSJ-urstiIn24OQ?season=7&sbp=CgE3GhoKGFVDOEJwUmZzbzZPd2JBWXlyWkdPMTlSdw%253D%253D)). In the process of curing your existential loneliness with the first bullet, why not enjoy the lunacy of extended solo survival? I’ve picked up a lot of practical, tactical advice from _Alone_, and it’s an addictive watch. Here is the official description: “In _Alone_, ten people are left in solitude, and separated from each other, in the harsh \\[wilderness\\]. With no camera crews or producers, they have to survive using only what they can stuff into a backpack. They will hunt, build shelters and fend off predators as they face extreme isolation, psychological distress, and the terrifying plunge into the unknown. Self-documenting their experience, whoever stays the longest wins.” Hat tip to Mr. High Performance himself, [Kelly Starrett](https://thereadystate.com/the-trs-difference/#trsteam), for the recommendation.",
+      "original_url": "https://www.amazon.com/Alone-Season-7/dp/B08B1VH3SX",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Alone-Season-7/dp/B08B1VH3SX"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Alone-Season-7/dp/B08B1VH3SX"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/show/SCsjo9oAbmSJ-urstiIn24OQ?season=7&sbp=CgE3GhoKGFVDOEJwUmZzbzZPd2JBWXlyWkdPMTlSdw%253D%253D"
+        },
+        {
+          "type": "other",
+          "url": "https://thereadystate.com/the-trs-difference/#trsteam"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m experimenting with",
+      "category": "other",
+      "title": "The Secret Ingredient That Improves Meat Every Time",
+      "creator": null,
+      "note": "([@kenjilopezalt](https://www.instagram.com/kenjilopezalt/)) for _The New York Times_. Spoiler: “More recently, I’ve been testing the limits of cooking with mayonnaise and discovering it may just be the most magical marinade ingredient I’ve ever encountered. I mean it.” Once you have watched a few episodes of _Alone_ and seen people starving, mayo will seem like the decadence that it is. Read this article before you judge.",
+      "original_url": "https://www.nytimes.com/2019/10/28/dining/mayo-meat-marinade.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/2019/10/28/dining/mayo-meat-marinade.html"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/J._Kenji_L%C3%B3pez-Alt"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/kenjilopezalt/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "I Am a Man of Constant Sorrow - Radio Edit",
+      "creator": "the Soggy Bottom Boys",
+      "note": "([YouTube](https://youtu.be/mFpEYOPBsDU), [Spotify](https://open.spotify.com/track/0YwNdeDFbGP6AGwsQrtzdY?si=K_0sjEznTpKoWNp67smLtA&context=spotify%3Aalbum%3A7gzX88qS3Vx2r87g5pbdfJ)) by the [Soggy Bottom Boys](https://en.wikipedia.org/wiki/Man_of_Constant_Sorrow#Soggy_Bottom_Boys). No hidden message here! Just love the music.",
+      "original_url": "https://youtu.be/mFpEYOPBsDU",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/mFpEYOPBsDU"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/mFpEYOPBsDU"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/0YwNdeDFbGP6AGwsQrtzdY?si=K_0sjEznTpKoWNp67smLtA&context=spotify%3Aalbum%3A7gzX88qS3Vx2r87g5pbdfJ"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Man_of_Constant_Sorrow#Soggy_Bottom_Boys"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering once again",
+      "category": "quote",
+      "title": "“Here is my secret. It is very simple: it is only with the heart that one can see rightly. What is essential is invisible to the eye.” — Antoine de Saint-Exupéry (Click here to share on Twitter) * * * You can complement this edition of 5-Bullet Friday with my clip on what I’d carry with me in case of a zombie apocalypse, this list of culinary immersion resources, and this prescriptive one-pager on cooking from The 4-Hour Chef. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Antoine de Saint-Exupéry",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/q5QU3"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/OawCY63Mtrc"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/the-4-hour-chef-total-culinary-immersion-resources/?utm_source=convertkit&utm_medium=convertit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/wp-content/uploads/2019/07/tim_ferriss_the-4-hour-chef_one_pager_cooking.pdf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

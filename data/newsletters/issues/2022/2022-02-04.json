@@ -6,7 +6,159 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Treats I’m enjoying and gifting for V Day —",
+      "category": "other",
+      "title": "Hu Chocolate Variety Pack",
+      "creator": null,
+      "note": "This includes eight of Hu’s bestselling dark chocolate bars or “a full library of chocolate,” as one friend puts it. The nut butter bars (four of the eight) are easily my favorite chocolate bars on the planet. I could watch _Talladega Nights_ and eat an entire box by myself… and perhaps I already have. On top of that, Hu has agreed to give 25% of the proceeds of any sales from [the links in this bullet](https://hu.rfrl.co/nzxo5) to my mental-health-focused nonprofit foundation, so it’s win-win-win-win for me, my girlfriend, Ricky Bobby, and the millions who suffer from conditions like PTSD, treatment-resistant depression, OCD, and more.",
+      "original_url": "https://hu.rfrl.co/nzxo5",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://hu.rfrl.co/nzxo5"
+        },
+        {
+          "type": "other",
+          "url": "https://hu.rfrl.co/nzxo5"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Track I’m playing on repeat —",
+      "category": "music",
+      "title": "Aguanta",
+      "creator": "Desta French",
+      "note": "([YouTube](https://www.youtube.com/watch?v=txaNbo-__xc), [Spotify](https://open.spotify.com/track/3zNUKKD6iFpxA1x3cavlDH?si=FQjh_KhFQb-fz4GOsX292w)) by [Desta French](https://linktr.ee/destafrenchh) ([@destafrench](https://www.instagram.com/destafrench/?hl=en)). Huge thank you to SH for introducing me and my lithe, dance-prone gf to this one! Listen to just the audio before you watch any video. Some percentage of you will end up playing this on repeat over and over and over again…",
+      "original_url": "https://www.youtube.com/watch?v=txaNbo-__xc",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=txaNbo-__xc"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=txaNbo-__xc"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/3zNUKKD6iFpxA1x3cavlDH?si=FQjh_KhFQb-fz4GOsX292w"
+        },
+        {
+          "type": "other",
+          "url": "https://linktr.ee/destafrenchh"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/destafrench/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Article I’m contemplating once again —",
+      "category": "article",
+      "title": "Reality has a surprising amount of detail",
+      "creator": "John Salvatier",
+      "note": "([@johnsalvatier](https://twitter.com/johnsalvatier?lang=en)). This 2017 beauty was sent to me by my dear friend, Pineapple-Eating Cat (long story). It made me recall [my conversation with Tim O’Reilly](https://tim.blog/2017/11/08/tim-oreilly/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) and his daily habit of pausing to take a photograph of a flower. If you read this article, and it only takes 5–10 minutes, be sure to read to the end. Here are two teaser sections:  \n  \n_This means it’s really easy to get_ stuck_. Stuck in your current way of seeing and thinking about things. Frames are made out of the details that seem important to you. The important details you haven’t noticed are invisible to you, and the details you_ have _noticed seem completely obvious and you see right through them. This all makes it difficult to imagine how you could be missing something important.__…__If you wish to not get stuck, seek to perceive what you have not yet perceived._",
+      "original_url": "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail"
+        },
+        {
+          "type": "other",
+          "url": "http://johnsalvatier.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/johnsalvatier?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/11/08/tim-oreilly/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Podcast episode I’m listening to —",
+      "category": "podcast",
+      "title": "Dune: The Deeper Dimension",
+      "creator": null,
+      "note": "on [_Soul of Islam Radio_](https://podcasts.apple.com/us/podcast/soul-of-islam-radio/id928730843) with [Ihsan Alexander](https://www.ihsanalexander.com/dune-the-deeper-dimension/) ([@spiritualexcellence](https://www.youtube.com/c/spiritualexcellence/videos?view=0&sort=p&flow=grid)) ([Apple Podcasts](https://podcasts.apple.com/us/podcast/dune-the-deeper-dimension/id928730843?i=1000492219763), [Spotify](https://open.spotify.com/episode/6AH1uz3RUGeSb0qmLFc7j3?si=kYy-AIhXRESvIYztB8EFaw), [Transcript](https://www.ihsanalexander.com/dune-the-deeper-dimension/)). Description: “_Dune_, first written by Frank Herbert in 1965, has been heralded as the most significant work of science-fiction ever written and has captured the imagination of millions since its original publication. … In this episode of _Soul of Islam Radio_, we take a brief dive into the deeper dimension of _Dune_, which takes extensive inspiration from classical Islamic spirituality and eschatology. In ‘Dune: The Deeper Dimension,’ we explore the representative meanings and values of the Fremen culture, the role of Paul Muad’Dib, spiritual asceticism, the mastery of the self, the awakening of human potential, and much more.”",
+      "original_url": "https://podcasts.apple.com/us/podcast/dune-the-deeper-dimension/id928730843?i=1000492219763",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://podcasts.apple.com/us/podcast/dune-the-deeper-dimension/id928730843?i=1000492219763"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/soul-of-islam-radio/id928730843"
+        },
+        {
+          "type": "other",
+          "url": "https://www.ihsanalexander.com/dune-the-deeper-dimension/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/c/spiritualexcellence/videos?view=0&sort=p&flow=grid"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/dune-the-deeper-dimension/id928730843?i=1000492219763"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/6AH1uz3RUGeSb0qmLFc7j3?si=kYy-AIhXRESvIYztB8EFaw"
+        },
+        {
+          "type": "other",
+          "url": "https://www.ihsanalexander.com/dune-the-deeper-dimension/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Passage and verse I’m pondering: Mary Oliver meets Kanye West —",
+      "category": "other",
+      "title": "Mary Oliver",
+      "creator": null,
+      "note": "Source: “Of Power and Time,” which is included in [_Upstream: Selected Essays_](https://www.amazon.com/Upstream-Selected-Essays-Mary-Oliver/dp/0143130080/).  \n  \nFirst off, how many alternatives did Mary consider to “mustard”? Ham sandwiches? Croutons? And if you lose your teeth, would you not want extra mustard? I’ll let you all grapple with this.  \n  \nIn the meantime, here comes the stretch, which might pull your lyrical hamstring.  \n  \nThough I don’t think you’ll find this comparison in any Poetry 101 classes at your local college, the above brought to mind several snippets from Kanye West ([@kanyewest](https://www.instagram.com/kanyewest/?hl=en)). The vernacular is different, but the gist is the same:  \n  \n“**And you don’t give a fuck what they all say, right?****Awesome, the Christian in Christian Dior****Damn, they don’t make ’em like this anymore****I ask, ’cause I’m not sure****Do anybody make real shit anymore?**\n\n**Bow in the presence of greatness****’Cause right now, thou hast forsaken us****You should be honored by my lateness****That I would even show up to this fake shit****So go ahead, go nuts, go apeshit.”**— [Kanye West](https://en.wikipedia.org/wiki/Kanye_West), “[Stronger](https://www.youtube.com/watch?v=PsO6ZnUZI0g)”  \n  \nAnd there you have it.**###**As always, please give me feedback on Twitter, especially if you have any more parallel verses from Mary Oliver and Kanye West.  \n  \nWhich bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n  \nHave a wonderful weekend, all.  \n  \nMuch love to you and yours,  \n  \nTim",
+      "original_url": "https://en.wikipedia.org/wiki/Mary_Oliver",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Mary_Oliver"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Upstream-Selected-Essays-Mary-Oliver/dp/0143130080/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/kanyewest/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Kanye_West"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=PsO6ZnUZI0g"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

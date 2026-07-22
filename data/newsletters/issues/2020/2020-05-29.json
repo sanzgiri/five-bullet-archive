@@ -1,13 +1,181 @@
 {
   "schema_version": 1,
   "issue_date": "2020-05-29",
-  "subject": "5-Bullet Friday — May 29, 2020 ",
+  "subject": "5-Bullet Friday — May 29, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Zitarrosa",
+      "creator": "Bajofondo",
+      "note": "([YouTube](https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/gwfnh5hz6g7w9v/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1nb1FHQmtrdVZwRQ==), [Spotify](https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/nmtohvho62w008/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3RyYWNrLzNMc0lLbldCUWhxalE1VFdOeEplbks=), [Amazon Music](https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/rmc8hoh5wk9zz7/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9aaXRhcnJvc2EtQWxidW0tVmVyc2lvbi9kcC9CMDAxQzNHOE9R)) by [Bajofondo](https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/8nsqhoh5qwennp/aHR0cDovL3d3dy5iYWpvZm9uZG9tdXNpYy5jb20v) ([@Bajofondo](https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/l0aehmhk6q577z/aHR0cHM6Ly90d2l0dGVyLmNvbS9CYWpvZm9uZG8=)). This track is great for cooking, writing, dancing, or simply calming yourself. It does it all. I first found Bajofondo when I [lived in Buenos Aires and traveled through Uruguay many lifetimes ago](https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/ddbeh0h78dznn7/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj01cFdtaEJtLUNpSQ==). From Wikipedia: “Bajofondo is a Río de la Plata-based music band consisting of eight musicians from Argentina and Uruguay, which aims to create a more contemporary version of tango and other musical styles of the Río de la Plata region.”  \n  \n**What I’m** **_very_**",
+      "original_url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/qgi8h7h6oegpwx/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1nb1FHQmtrdVZwRQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/qgi8h7h6oegpwx/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1nb1FHQmtrdVZwRQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/gwfnh5hz6g7w9v/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1nb1FHQmtrdVZwRQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/nmtohvho62w008/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3RyYWNrLzNMc0lLbldCUWhxalE1VFdOeEplbks="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/rmc8hoh5wk9zz7/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9aaXRhcnJvc2EtQWxidW0tVmVyc2lvbi9kcC9CMDAxQzNHOE9R"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/8nsqhoh5qwennp/aHR0cDovL3d3dy5iYWpvZm9uZG9tdXNpYy5jb20v"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/l0aehmhk6q577z/aHR0cHM6Ly90d2l0dGVyLmNvbS9CYWpvZm9uZG8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/ddbeh0h78dznn7/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj01cFdtaEJtLUNpSQ=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "excited to launch next Tuesday —",
+      "category": "other",
+      "title": "The audiobook versions of Tools of Titans and Tribe of Mentors",
+      "creator": null,
+      "note": "!** Thousands of you have asked for these, and I’ve worked with Audible over the last year to produce them. Finally! I’m thrilled with how they turned out, and [you can download them and learn more by **clicking on this link**](https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/ozukhqh8gx3dd4/aHR0cDovL2F1ZGlibGUuY29tL3RpbXNib29rcw==). For those unfamiliar with these books, both were #1 _New York Times_ bestsellers, and the subtitles sum them up well:[**_Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers  \n  \n_**](https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/zoighnhdp59xxo/aHR0cDovL2F1ZGlibGUuY29tL3RpbXNib29rcw==)[**_Tribe of Mentors: Short Life Advice from the Best in the World  \n  \n_**](https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/plfeh9h7grkoo9/aHR0cDovL2F1ZGlibGUuY29tL3RpbXNib29rcw==)Everything in these books has been vetted, explored, and applied to my own life in some fashion. In fact, I created both books as the ultimate notebooks and cheat sheets for myself. _Tools of Titans_ was never intended to be published.I’ve used dozens of the tactics and philosophies in high-stakes negotiations, high-risk environments, and large business dealings. The lessons have saved me years of wasted effort and frustration.  \n  \nNote: If you’re new to Audible, you can grab one of the two books for free as part of the free trial by signing up through [this link](https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/xotph6h79k800n/aHR0cDovL2F1ZGlibGUuY29tL3RpbXNib29rcw==). No matter your challenge or opportunity, I’m confident something in [these two books](https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/6wceh8h2nxveep/aHR0cDovL2F1ZGlibGUuY29tL3RpbXNib29rcw==) can help. They have changed my life, and I hope the same for you.",
+      "original_url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/7gh7h8h4wdv550/aHR0cDovL2F1ZGlibGUuY29tL3RpbXNib29rcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/7gh7h8h4wdv550/aHR0cDovL2F1ZGlibGUuY29tL3RpbXNib29rcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/ozukhqh8gx3dd4/aHR0cDovL2F1ZGlibGUuY29tL3RpbXNib29rcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/zoighnhdp59xxo/aHR0cDovL2F1ZGlibGUuY29tL3RpbXNib29rcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/plfeh9h7grkoo9/aHR0cDovL2F1ZGlibGUuY29tL3RpbXNib29rcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/xotph6h79k800n/aHR0cDovL2F1ZGlibGUuY29tL3RpbXNib29rcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/6wceh8h2nxveep/aHR0cDovL2F1ZGlibGUuY29tL3RpbXNib29rcw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "New experiment that just went live yesterday —",
+      "category": "other",
+      "title": "The Tools of Titans short-form podcast",
+      "creator": null,
+      "note": "! This is my first new podcast in years.** The episodes will be hyper-actionable and short: 10–30 minutes each. If you like “5-Bullet Friday,” you will like this podcast, and it also gives a taste of the [_Tools of Titans_](https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/5navh7h9k3p225/aHR0cDovL2F1ZGlibGUuY29tL3RpbXNib29rcw==) audiobook. **You can listen and subscribe on** [**Apple Podcasts**](https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/vnb3hrhkem2rr9/aHR0cHM6Ly9wb2RjYXN0cy5hcHBsZS5jb20vdXMvcG9kY2FzdC90b29scy10aXRhbnMtdGFjdGljcy1yb3V0aW5lcy1oYWJpdHMtd29ybGQtY2xhc3MtcGVyZm9ybWVycy9pZDE1MTU2MDc4NDQ=)**,** [**Spotify**](https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/7eh7h8h4wdv55e/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3Nob3cvNEVYV3J4cnVUVEJwdld1c1lZUFVESA==)**,** [**Overcast**](https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/z6ughnhdp59xxg/aHR0cHM6Ly9vdmVyY2FzdC5mbS9pdHVuZXMxNTE1NjA3ODQ0L3Rvb2xzLW9mLXRpdGFucy10aGUtdGFjdGljcy1yb3V0aW5lcy1hbmQtaGFiaXRzLW9mLXdvcmxkLWNsYXNzLXBlcmZvcm1lcnM=)**,** [**Stitcher**](https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/x5iph6h79k8068/aHR0cHM6Ly93d3cuc3RpdGNoZXIuY29tL3BvZGNhc3QvdG9vbHMtb2YtdGl0YW5zLXRoZS10YWN0aWNzLXJvdXRpbmVzLWFuZC1oYWJpdHMtb2Ytd29ybGRjbGFzcw==)**,** [**Pocket Casts**](https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/k3fmh6h96zgvqd/aHR0cHM6Ly9wY2Euc3QveXRtZjl6ZDE=)**,** [**Anchor**](https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/g8tnh5hz6g7w5o/aHR0cHM6Ly9hbmNob3IuZm0vdG9vbHMtb2YtdGl0YW5z)**, or wherever you get your podcasts.** Here is [a good ol’ RSS feed](https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/4gcvheh26wz8e0/aHR0cHM6Ly9hbmNob3IuZm0vcy8yMzc5Y2IxMC9wb2RjYXN0L3Jzcw==) in case you need it. **It’s very helpful to me** [**if you subscribe**](https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/zl2sghnhdp59xx2/aHR0cHM6Ly9wb2RjYXN0cy5hcHBsZS5jb20vdXMvcG9kY2FzdC90b29scy10aXRhbnMtdGFjdGljcy1yb3V0aW5lcy1oYWJpdHMtd29ybGQtY2xhc3MtcGVyZm9ybWVycy9pZDE1MTU2MDc4NDQ=)**, so thank you for doing so** [**here**](https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/p99aeh9h7grkoow/aHR0cHM6Ly9wb2RjYXN0cy5hcHBsZS5jb20vdXMvcG9kY2FzdC90b29scy10aXRhbnMtdGFjdGljcy1yb3V0aW5lcy1oYWJpdHMtd29ybGQtY2xhc3MtcGVyZm9ybWVycy9pZDE1MTU2MDc4NDQ=)**, if you can.** Lots of fun stuff coming…",
+      "original_url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/03swh9h7gn0rr6/aHR0cHM6Ly9wb2RjYXN0cy5hcHBsZS5jb20vdXMvcG9kY2FzdC90b29scy10aXRhbnMtdGFjdGljcy1yb3V0aW5lcy1oYWJpdHMtd29ybGQtY2xhc3MtcGVyZm9ybWVycy9pZDE1MTU2MDc4NDQ=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/03swh9h7gn0rr6/aHR0cHM6Ly9wb2RjYXN0cy5hcHBsZS5jb20vdXMvcG9kY2FzdC90b29scy10aXRhbnMtdGFjdGljcy1yb3V0aW5lcy1oYWJpdHMtd29ybGQtY2xhc3MtcGVyZm9ybWVycy9pZDE1MTU2MDc4NDQ="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/5navh7h9k3p225/aHR0cDovL2F1ZGlibGUuY29tL3RpbXNib29rcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/vnb3hrhkem2rr9/aHR0cHM6Ly9wb2RjYXN0cy5hcHBsZS5jb20vdXMvcG9kY2FzdC90b29scy10aXRhbnMtdGFjdGljcy1yb3V0aW5lcy1oYWJpdHMtd29ybGQtY2xhc3MtcGVyZm9ybWVycy9pZDE1MTU2MDc4NDQ="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/7eh7h8h4wdv55e/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3Nob3cvNEVYV3J4cnVUVEJwdld1c1lZUFVESA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/z6ughnhdp59xxg/aHR0cHM6Ly9vdmVyY2FzdC5mbS9pdHVuZXMxNTE1NjA3ODQ0L3Rvb2xzLW9mLXRpdGFucy10aGUtdGFjdGljcy1yb3V0aW5lcy1hbmQtaGFiaXRzLW9mLXdvcmxkLWNsYXNzLXBlcmZvcm1lcnM="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/x5iph6h79k8068/aHR0cHM6Ly93d3cuc3RpdGNoZXIuY29tL3BvZGNhc3QvdG9vbHMtb2YtdGl0YW5zLXRoZS10YWN0aWNzLXJvdXRpbmVzLWFuZC1oYWJpdHMtb2Ytd29ybGRjbGFzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/k3fmh6h96zgvqd/aHR0cHM6Ly9wY2Euc3QveXRtZjl6ZDE="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/g8tnh5hz6g7w5o/aHR0cHM6Ly9hbmNob3IuZm0vdG9vbHMtb2YtdGl0YW5z"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/4gcvheh26wz8e0/aHR0cHM6Ly9hbmNob3IuZm0vcy8yMzc5Y2IxMC9wb2RjYXN0L3Jzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/zl2sghnhdp59xx2/aHR0cHM6Ly9wb2RjYXN0cy5hcHBsZS5jb20vdXMvcG9kY2FzdC90b29scy10aXRhbnMtdGFjdGljcy1yb3V0aW5lcy1oYWJpdHMtd29ybGQtY2xhc3MtcGVyZm9ybWVycy9pZDE1MTU2MDc4NDQ="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/p99aeh9h7grkoow/aHR0cHM6Ly9wb2RjYXN0cy5hcHBsZS5jb20vdXMvcG9kY2FzdC90b29scy10aXRhbnMtdGFjdGljcy1yb3V0aW5lcy1oYWJpdHMtd29ybGQtY2xhc3MtcGVyZm9ybWVycy9pZDE1MTU2MDc4NDQ="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Trial, error, and the God complex",
+      "creator": null,
+      "note": ",** a TED talk by Tim Harford ([@TimHarford](https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/xmvhph6h79k8066/aHR0cHM6Ly90d2l0dGVyLmNvbS9UaW1IYXJmb3Jk)). Official description: “Economics writer Tim Harford studies complex systems—and finds a surprising link among the successful ones: they were built through trial and error. In this sparkling talk from TEDGlobal 2011, he asks us to embrace our randomness and start making better mistakes.” This talk takes a little time to warm up, and it might seem meandering in the middle, but I found the payoff and message to be really helpful, especially when nearly everything seems magnified by uncertainty and doubt.",
+      "original_url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/o82bkhqh8gx3dv9/aHR0cHM6Ly93d3cudGVkLmNvbS90YWxrcy90aW1faGFyZm9yZF90cmlhbF9lcnJvcl9hbmRfdGhlX2dvZF9jb21wbGV4P2xhbmd1YWdlPWVu",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/o82bkhqh8gx3dv9/aHR0cHM6Ly93d3cudGVkLmNvbS90YWxrcy90aW1faGFyZm9yZF90cmlhbF9lcnJvcl9hbmRfdGhlX2dvZF9jb21wbGV4P2xhbmd1YWdlPWVu"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/xmvhph6h79k8066/aHR0cHM6Ly90d2l0dGVyLmNvbS9UaW1IYXJmb3Jk"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“The universe is full of magical things patiently waiting for our wits to grow sharper.”― Eden Phillpotts And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/k0eumh6h96zgvq0/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRWRlbl9QaGlsbHBvdHRz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/k0eumh6h96zgvq0/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRWRlbl9QaGlsbHBvdHRz"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg4x5lun/qdni8h7h6oegp5k/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    }
+  ]
 }

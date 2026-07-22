@@ -6,7 +6,139 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "AI x Human",
+      "creator": null,
+      "note": "Thanks to MM for sharing this mesmerizing clip. It’s a taste of things to come, and the 10x and 100x future will arrive quickly. For similar clips, check out the [Kimi Visuals](https://www.instagram.com/kimivisuals/) page [on Instagram](https://www.instagram.com/kimivisuals/).",
+      "original_url": "https://twitter.com/linusekenstam/status/1706070252944036249?s=42&t=yJfyfnTSV_o4T1PbLzZ9rQ",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://twitter.com/linusekenstam/status/1706070252944036249?s=42&t=yJfyfnTSV_o4T1PbLzZ9rQ"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/kimivisuals/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/kimivisuals/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Genius doorstop I’m ordering for myself",
+      "category": "other",
+      "title": "Stoppy",
+      "creator": null,
+      "note": "I discovered this over the past weekend at a hotel, and the porter must have thought I was on drugs. Upon seeing him use this doorstop, I said, “No way… it’s like putting wheels on luggage! Why did it take people so long?!?” and began turning it over in my hands while he glanced around, unsure of what to do. The physics and material of the design entirely prevent it from sliding, even on slick hardwood floors.",
+      "original_url": "https://www.amazon.com/dp/B07C85M56Y/ref=twister_B0BTTC977R?_encoding=UTF8&th=1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/dp/B07C85M56Y/ref=twister_B0BTTC977R?_encoding=UTF8&th=1"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "As psychedelic-assisted therapy grows, so does interest from a new group: chaplains",
+      "creator": "Deena Prichep",
+      "note": "(_NPR_) by [Deena Prichep](http://www.deenaprichep.com/) ([@deenaprichep](https://twitter.com/deenaprichep?lang=en)), a fellow of [The Ferriss – UC Berkeley Psychedelic Journalism Fellowship](https://projects.journalism.berkeley.edu/bcsp/). You can find [all of the 2023 fellows on this page](https://journalism.berkeley.edu/announcing-2023-cohort-of-ferriss-uc-berkeley-psychedelic-journalism-fellows/).",
+      "original_url": "https://www.npr.org/2023/09/24/1201095225/as-psychedelic-assisted-therapy-grows-so-does-interest-from-a-new-group-chaplain",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.npr.org/2023/09/24/1201095225/as-psychedelic-assisted-therapy-grows-so-does-interest-from-a-new-group-chaplain"
+        },
+        {
+          "type": "other",
+          "url": "http://www.deenaprichep.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/deenaprichep?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://projects.journalism.berkeley.edu/bcsp/"
+        },
+        {
+          "type": "other",
+          "url": "https://journalism.berkeley.edu/announcing-2023-cohort-of-ferriss-uc-berkeley-psychedelic-journalism-fellows/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "The Game Master: Matthew Mercer takes Dungeons & Dragons very seriously. But he never expected to become the once-geeky game’s first household name",
+      "creator": "Luke Winkie",
+      "note": "(_Slate_) by [Luke Winkie](https://slate.com/author/luke-winkie). As some of you know, [I grew up playing D&D and still have all of my treasures](https://www.instagram.com/p/Cl2Getbojcv/). But not even in my wildest dreams could I have imagined the resurgence of the game and massive breakout hits like [Critical Role](https://critrole.com/), which have turned into both cultural phenomena and business successes. It all makes me smile. Here’s a taste from the above article:  \n​  \n​_“On paper, it sounds like something nobody would give a shit about,” said Mercer. “We were fully aware of that.” But, he figured he’d give it a shot and see what happened. If the show didn’t work out, he’d return to the drudgery of daily life. The rest is history. Critical Role is a miraculous success, with 2 million YouTube subscribers and an additional 1.3 million followers on Twitch. Critical Role’s first season, called “Vox Machina,” ran for 115 episodes over the course of two-and-a-half years, demolishing the meager expectations of the eight-player cast._",
+      "original_url": "https://slate.com/human-interest/2023/08/dungeons-dragons-critical-role-matthew-mercer-twitch.html?via=rss_socialflow_twitter",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://slate.com/human-interest/2023/08/dungeons-dragons-critical-role-matthew-mercer-twitch.html?via=rss_socialflow_twitter"
+        },
+        {
+          "type": "other",
+          "url": "https://slate.com/author/luke-winkie"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/Cl2Getbojcv/"
+        },
+        {
+          "type": "other",
+          "url": "https://critrole.com/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Without courage we cannot practice any other virtue with consistency. We can’t be kind, true, merciful, generous, or honest.” — Maya Angelou (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my interview with game designer Justin Gary, my conversation with bestselling author Michael Pollan, and the 25 most-clicked links from 5-Bullet Friday so far this year. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Maya Angelou",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Maya_Angelou",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Maya_Angelou"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/0RcTs"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/08/16/justin-gary/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/06/28/michael-pollan-this-is-your-mind-on-plants/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/09/20/tim-ferriss-favorite-books-articles-tools/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

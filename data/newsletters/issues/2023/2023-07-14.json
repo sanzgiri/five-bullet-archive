@@ -6,7 +6,159 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Book I’m enjoying",
+      "category": "book",
+      "title": "The Filmmaker Says: Quotes, Quips, and Words of Wisdom",
+      "creator": null,
+      "note": "Short and sweet. I dog-eared a lot of pages in this book, which then inspired lovely twists and turns in my experiments with [fiction](https://podcast.cockpunch.com/) and artwork. Here’s [a short process video](https://www.youtube.com/watch?v=Krn2qDVaiTw) on the latter for those interested.",
+      "original_url": "https://www.amazon.com/Filmmaker-Says-Quotes-Quips-Wisdom/dp/161689220X/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Filmmaker-Says-Quotes-Quips-Wisdom/dp/161689220X/"
+        },
+        {
+          "type": "other",
+          "url": "https://podcast.cockpunch.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=Krn2qDVaiTw"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Woman I had to learn more about",
+      "category": "other",
+      "title": "Sadie Farrell",
+      "creator": null,
+      "note": ", better known as “Sadie the Goat.”** They just don’t make female NYC river pirates like they used to. Here’s a teaser from [Wikipedia](https://en.wikipedia.org/wiki/Sadie_Farrell): “Upon encountering a lone traveler, she would headbutt, like a charging goat, a man in the stomach.” Her entry is short and definitely worth the read. Don’t gloss over the ear part. Thanks to N. for intro’ing me to this incredible character.",
+      "original_url": "https://en.wikipedia.org/wiki/Sadie_Farrell",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Sadie_Farrell"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Sadie_Farrell"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "Meet the Psychedelic Boom’s First Responders",
+      "creator": "Chris Colin for WIRED_",
+      "note": "for _WIRED_. This is one of the best articles related to psychedelics that I’ve read in a long time. It reinforces a very important, and often misunderstood, point. As mentioned in the piece: “Difficult is not necessarily bad.”  \n​  \nMost classical psychedelics could be considered anti-escapist; if you want to avoid your problems, your addictions, your past trauma, the things you’re ashamed of, and so on, these are the wrong drugs. It should be no surprise that when these things are put into inescapable high resolution for anyone, it can be highly unpleasant (i.e., “bad”) but that facing these truths and catalyzing meaningful changes (e.g., quitting smoking or heroin or bad relationships) are part of what makes psychedelics so unbelievably powerful for certain cases.  \n​  \nThe term “bad trip,” which is even used by some medical associations and regulatory groups, needs to be replaced. It is misleading and will lead to some truly bad policies and protocols. As [this _WIRED_ piece](https://www.wired.com/story/meet-the-psychedelic-booms-first-responders/) demonstrates, and as any seasoned facilitator with several hundred sessions will tell you, it is often the deeply difficult experiences, characterized by being largely unpleasant, that have the greatest transformative effects on patients, IF excellent pre-session, in-session, and post-session care are provided. Sometimes, short-term hard can be incredibly long-term beneficial. “Good trip” and “bad trip” are too nebulous and too prone to being wielded by people with special interests (or no firsthand experiences themselves) to favor their incentives. Those terms are imprecise in a field that desperately needs more precision. Instead, I suggest using “safe” or “unsafe” trip as the critical binary distinction, and safety can be applied to physical safety as well as psychological safety. Contributing factors would include, but not be limited to, screening, medical intake, prep, in-session guidance, and post-session care and longer-term integration.  \n​  \nSo, in summary: safe vs. unsafe, not good vs. bad. I suggest reading [the _WIRED_ piece](https://www.wired.com/story/meet-the-psychedelic-booms-first-responders/), which is excellent on multiple levels. To save you the one stumble I had, here is the origin of “[Potemkin](https://en.wikipedia.org/wiki/Potemkin_village).” And I’m really honored to have supported [Fireside Project](https://firesideproject.org/) via the [Saisei Foundation](https://saiseifoundation.org/).",
+      "original_url": "https://www.wired.com/story/meet-the-psychedelic-booms-first-responders/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.wired.com/story/meet-the-psychedelic-booms-first-responders/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/chriscolin3000"
+        },
+        {
+          "type": "other",
+          "url": "https://www.wired.com/story/meet-the-psychedelic-booms-first-responders/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.wired.com/story/meet-the-psychedelic-booms-first-responders/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Potemkin_village"
+        },
+        {
+          "type": "other",
+          "url": "https://firesideproject.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://saiseifoundation.org/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Coffee grinder I’m testing",
+      "category": "other",
+      "title": "Fellow Gen 2 Ode Brew Grinder",
+      "creator": null,
+      "note": "The Gen 2 Ode makes me think of the legendary [Dieter Rams](https://en.wikipedia.org/wiki/Dieter_Rams) and his “[10 principles for good design](https://www.braun.net.nz/less-but-better-braun-design-principles/).” It’s one of the few devices that I absolutely love using every morning. The elegance—in aesthetics, function, and space efficiency—really tickles my OCD. All that said, please be forewarned that this beauty is very expensive. If you’re looking for a more economical option that still does the job, I also have [this burr grinder](https://www.amazon.com/gp/product/B084HNY3BG/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1) in Austin. If you want a portable hand grinder, [you might try this](https://www.comandantegrinder.com/). All of these devices combine well with today’s P.S.",
+      "original_url": "https://www.amazon.com/dp/B0BLRMCM9Y?ref=ppx_pop_mob_ap_share",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/dp/B0BLRMCM9Y?ref=ppx_pop_mob_ap_share"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Dieter_Rams"
+        },
+        {
+          "type": "other",
+          "url": "https://www.braun.net.nz/less-but-better-braun-design-principles/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/gp/product/B084HNY3BG/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.comandantegrinder.com/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Passage I’m pondering",
+      "category": "other",
+      "title": "Rainer Maria Rilke",
+      "creator": null,
+      "note": "​  \n([Click here to share on Twitter](https://ctt.ec/SC5tp).)  \n​\n\n* * *\n\n​  \nYou can complement this edition of _5-Bullet Friday_ with what I consider “[Psychedelics 101](https://tim.blog/2021/03/31/psychedelics-101/?utm_source=convertkit&utm_medium=convertit&utm_campaign=5bf)”; my [first interview](https://tim.blog/2018/05/06/michael-pollan-how-to-change-your-mind/?utm_source=convertkit&utm_medium=convertit&utm_campaign=5bf) with _How to Change Your Mind_ author [Michael Pollan](https://tim.blog/2018/05/06/michael-pollan-how-to-change-your-mind/?utm_source=convertkit&utm_medium=convertit&utm_campaign=5bf) on the science of psychedelics; and [_Trip of Compassion_](https://tim.blog/2019/03/09/trip-of-compassion/?utm_source=convertkit&utm_medium=convertit&utm_campaign=5bf), a powerful documentary on healing trauma with MDMA.  \n​  \nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
+      "original_url": "https://en.wikipedia.org/wiki/Rainer_Maria_Rilke",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Rainer_Maria_Rilke"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/SC5tp"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/03/31/psychedelics-101/?utm_source=convertkit&utm_medium=convertit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/05/06/michael-pollan-how-to-change-your-mind/?utm_source=convertkit&utm_medium=convertit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/05/06/michael-pollan-how-to-change-your-mind/?utm_source=convertkit&utm_medium=convertit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/03/09/trip-of-compassion/?utm_source=convertkit&utm_medium=convertit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,143 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Heartstrings",
+      "creator": "Russell Malone",
+      "note": "([YouTube](https://youtu.be/2Enjla7qvtA), [Spotify](https://open.spotify.com/track/103UkTPcm9VkLMQ8YuvKeG?si=bc6d89e2b54d4961&nd=1), [Apple Music](https://music.apple.com/us/album/heartstrings/1444204322)) by [Russell Malone](https://en.wikipedia.org/wiki/Russell_Malone).",
+      "original_url": "https://www.youtube.com/watch?v=2Enjla7qvtA",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=2Enjla7qvtA"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/2Enjla7qvtA"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/103UkTPcm9VkLMQ8YuvKeG?si=bc6d89e2b54d4961&nd=1"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/album/heartstrings/1444204322"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Russell_Malone"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m using for lower-back pain",
+      "category": "other",
+      "title": "Acumobility Massage Ball",
+      "creator": null,
+      "note": "Yes, this model looks like a pink nipple. The basics: I’m lying on the ground on my back and placing the nub where I am sorest on my “QL” ([quadratus lumborum](https://en.wikipedia.org/wiki/Quadratus_lumborum_muscle)). Starting with my right side, I would then bring my right knee towards my chest, followed by extending the same leg straight and back to resting position. Repeat this motion, almost like a single-leg high march from the back, for 10 repetitions. Then switch sides. **This is all easiest to follow by watching** [**this short video**](https://www.youtube.com/watch?v=siIyO_yM1eI)**.** Personally, I’m placing the nub just above the crest of my hip, but you’ll find your most sensitive spot. From [this page](https://www.kenhub.com/en/library/anatomy/quadratus-lumborum-muscle): “In order to palpate the muscle, one needs to place the fingers above the posterior iliac crest at the level of the hip.” Special thanks to [Eric Cressey](https://ericcressey.com/) for the recommendation and for making the above short video for you fine subscribers.",
+      "original_url": "https://www.amazon.com/dp/B09NCHVDK5/ref=tsm_1_tp_tc",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/dp/B09NCHVDK5/ref=tsm_1_tp_tc"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Quadratus_lumborum_muscle"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=siIyO_yM1eI"
+        },
+        {
+          "type": "other",
+          "url": "https://www.kenhub.com/en/library/anatomy/quadratus-lumborum-muscle"
+        },
+        {
+          "type": "other",
+          "url": "https://ericcressey.com/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "App I’m loving",
+      "category": "other",
+      "title": "iOS",
+      "creator": null,
+      "note": "and [Android](https://play.google.com/store/apps/details?id=com.the3d4medical.EssentialAnatomy&hl=en_US&gl=US&pli=1) (note: some reviewers report the app crashing on Android). Monster drummer [Dave Elitch](https://tim.blog/2018/11/26/dave-elitch/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) shared this with me, and I’ve been nerding out ever since. For a taste of its capabilities, check out [this short YouTube tutorial](https://www.youtube.com/watch?v=ssJjcJgdU54).",
+      "original_url": "https://apps.apple.com/us/app/essential-anatomy-5/id596684220",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://apps.apple.com/us/app/essential-anatomy-5/id596684220"
+        },
+        {
+          "type": "other",
+          "url": "https://play.google.com/store/apps/details?id=com.the3d4medical.EssentialAnatomy&hl=en_US&gl=US&pli=1"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/11/26/dave-elitch/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=ssJjcJgdU54"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "Life After Death: the living coffin",
+      "creator": null,
+      "note": "The idea of my corpse being sealed inside a coffin never sat well with me. I much preferred the idea of being cremated or, better still, being quickly and easily absorbed by the earth, feeding the soil and ecosystems that fed me during my lifetime. This is a possible step in that direction.",
+      "original_url": "https://www.musingsmag.com/life-after-death-the-living-coffin/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.musingsmag.com/life-after-death-the-living-coffin/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Poem I’m pondering",
+      "category": "other",
+      "title": "Fernando Pessoa",
+      "creator": null,
+      "note": "([Click here to share an excerpt on Twitter](https://ctt.ec/beakm).)  \n​\n\n* * *\n\n​  \nYou can complement this edition of _5-Bullet Friday_ with [my interview with Dr. BJ Miller](https://tim.blog/2016/04/14/bj-miller/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), who has helped thousands of people through hospice and end-of-life care, and [my short video](https://youtu.be/TSh16vvYJBk) on hamstring exercises for lower-back pain.  \n​  \nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
+      "original_url": "https://en.wikipedia.org/wiki/Fernando_Pessoa",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Fernando_Pessoa"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/beakm"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2016/04/14/bj-miller/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/TSh16vvYJBk"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

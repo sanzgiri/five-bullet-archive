@@ -1,13 +1,173 @@
 {
   "schema_version": 1,
   "issue_date": "2020-09-18",
-  "subject": "5-Bullet Friday — September 18, 2020 ",
+  "subject": "5-Bullet Friday — September 18, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "The most important podcast episode I’ve ever released —",
+      "category": "podcast",
+      "title": "My Healing Journey After Childhood Abuse",
+      "creator": null,
+      "note": "For me, this is the most important podcast episode I’ve ever published. It describes the most life-shaping, certainly the most difficult, and certainly the most transformative journey of my 43 years on this planet. This is the first time I’ve shared it publicly.  \n  \nIf you only ever share one thing I’ve done, please make it this.  \n  \n_Listen to the episode on_ [_Apple Podcasts_](https://podcasts.apple.com/us/podcast/464-tim-ferriss-my-healing-journey-after-childhood-abuse/id863897795?i=1000491267481)_,_ [_Spotify_](https://open.spotify.com/episode/1M2SsLRhA1IQHEHG7CbNjC)_,_ [_Overcast_](https://overcast.fm/+Kebu8teN4)_,_ [_Stitcher_](https://www.stitcher.com/podcast/the-tim-ferriss-show/e/77719639)_,_ [_Castbox_](https://castbox.fm/episode/464%3A-Tim-Ferriss-%E2%80%94-My-Healing-Journey-After-Childhood-Abuse-id1059468-id307085641?country=us)_,_ [_Google Podcasts_](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuYXJ0MTkuY29tL3RpbS1mZXJyaXNzLXNob3c/episode/Z2lkOi8vYXJ0MTktZXBpc29kZS1sb2NhdG9yL1YwL3FlTFhDS2ZfX3g0aW01UmxzOHBXTkVTUFVwZGo2RnI0RFZ4b0pKTjRHZ28?sa=X&ved=0CAgQkfYCahcKEwioi8XNnevrAhUAAAAAHQAAAAAQAQ)_, or on your favorite podcast platform. All resources mentioned in this episode, and many more, are listed in the blog post at_ [_tim.blog/trauma_](https://tim.blog/2020/09/14/how-to-heal-trauma/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)_.  \n  \n_",
+      "original_url": "https://tim.blog/2020/09/14/how-to-heal-trauma/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2020/09/14/how-to-heal-trauma/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/464-tim-ferriss-my-healing-journey-after-childhood-abuse/id863897795?i=1000491267481"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/1M2SsLRhA1IQHEHG7CbNjC"
+        },
+        {
+          "type": "other",
+          "url": "https://overcast.fm/+Kebu8teN4"
+        },
+        {
+          "type": "other",
+          "url": "https://www.stitcher.com/podcast/the-tim-ferriss-show/e/77719639"
+        },
+        {
+          "type": "other",
+          "url": "https://castbox.fm/episode/464%3A-Tim-Ferriss-%E2%80%94-My-Healing-Journey-After-Childhood-Abuse-id1059468-id307085641?country=us"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuYXJ0MTkuY29tL3RpbS1mZXJyaXNzLXNob3c/episode/Z2lkOi8vYXJ0MTktZXBpc29kZS1sb2NhdG9yL1YwL3FlTFhDS2ZfX3g0aW01UmxzOHBXTkVTUFVwZGo2RnI0RFZ4b0pKTjRHZ28?sa=X&ved=0CAgQkfYCahcKEwioi8XNnevrAhUAAAAAHQAAAAAQAQ"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/09/14/how-to-heal-trauma/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Tu Rumba",
+      "creator": "iLe",
+      "note": "([YouTube](https://www.youtube.com/watch?v=RTzL-G2kIA8), [Spotify](https://open.spotify.com/track/4iY6Xv5g3SbauDZmCf2kr4)) by [iLe](https://ilevitable.com/) ([@cabralu](https://www.instagram.com/cabralu/)). Give this a chance. The vocals are pure caramel, and it takes 30–60 seconds to warm up. I highly suggest YouTube for both the video and the lyrics in the description. This is an excellent slow-mo song for studying Spanish, even if iLe/Ileana loves to eat her _s_’s. It’s part of her charm.",
+      "original_url": "https://www.youtube.com/watch?v=RTzL-G2kIA8",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=RTzL-G2kIA8"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=RTzL-G2kIA8"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/4iY6Xv5g3SbauDZmCf2kr4"
+        },
+        {
+          "type": "other",
+          "url": "https://ilevitable.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/cabralu/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Artist I’m following —",
+      "category": "other",
+      "title": "Angela Gram",
+      "creator": null,
+      "note": "(**[**@angelagramart**](https://www.instagram.com/angelagramart/)**).** To many long-term readers, my reasons for liking Angela’s work will be obvious. To new readers, no explanation will make any sense. Thanks to drumming animal [Dave Elitch](https://tim.blog/2018/11/26/dave-elitch/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@daveelitch](https://www.instagram.com/daveelitch/?hl=en)) for pointing me to her. And if the art blows your mind, just search her Instagram feed for a clip of her playing guitar.",
+      "original_url": "https://www.angelagramart.com/current-work-1/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.angelagramart.com/current-work-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/angelagramart/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/11/26/dave-elitch/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/daveelitch/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading —",
+      "category": "book",
+      "title": "Draft No. 4",
+      "creator": "John McPhee",
+      "note": ". This is one of the best books about non-fiction writing that I’ve ever read. Be forewarned that it skips the hand-wavy platitudes and gets straight to the nitty-gritty details, as all McPheesian stories do. From the official description: “_Draft No. 4_ is a master class on the writer’s craft. In a series of playful, expertly wrought essays, John McPhee shares insights he has gathered over his career and has refined while teaching at Princeton University, where he has nurtured some of the most esteemed writers of recent decades. McPhee offers definitive guidance in the decisions regarding arrangement, diction, and tone that shape nonfiction pieces, and he presents extracts from his work, subjecting them to wry scrutiny. The result is a vivid depiction of the writing process, from reporting to drafting to revising―and revising, and revising.”",
+      "original_url": "https://www.amazon.com/Draft-No-4-Writing-Process/dp/0374537976/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Draft-No-4-Writing-Process/dp/0374537976/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/John_McPhee"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Poem I’m pondering —",
+      "category": "other",
+      "title": "Rumi",
+      "creator": null,
+      "note": "And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all.  \n  \nMuch love to you and yours,  \n  \nTim\n\n[![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/3aNDGWvmZoNbuCFBTzEeac?w=800&fit=max)](https://tim.blog/2020/06/26/hugh-jackman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)  \n\nFORWARDED THIS MESSAGE? [SIGN UP](https://go.tim.blog/10x-output/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=template).\n\n![Tim Ferriss Photo](http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg)\n\nJoin millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff.\n\nDUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just [click here](https://unsubscribe.fourhourmail.com/k0udre388b6hzm2d2uo). To reply to Tim, please do so in the blog comments [here](https://tim.blog/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=template).\n\n3112 Windsor Rd., Box #UNS, Austin TX 78703, United States\n\n \n\n![](https://open.fourhourmail.com/k0udre388b6hzm2d2uo)",
+      "original_url": "https://en.wikipedia.org/wiki/Rumi",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Rumi"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/3aNDGWvmZoNbuCFBTzEeac?w=800&fit=max"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/10x-output/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=template"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/k0udre388b6hzm2d2uo"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=template"
+        }
+      ]
+    }
+  ]
 }

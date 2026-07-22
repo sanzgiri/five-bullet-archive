@@ -6,7 +6,163 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Song I’m listening to",
+      "category": "music",
+      "title": "The Fire",
+      "creator": "Celine Cairo",
+      "note": "([YouTube](https://www.youtube.com/watch?v=zu0t72se0N4), [Apple Music](https://music.apple.com/us/album/the-fire/1559502242?i=1559502516), [Spotify](https://open.spotify.com/album/5496LPkaRhxdTuVjPYw9Tp?flow_ctx=d6019368-fcaa-4645-97d0-62a29ac69a29%3A1698980249)) by [Celine Cairo](https://www.celinecairo.com/) ([@celinecairo](https://www.instagram.com/celinecairo/)).",
+      "original_url": "https://www.youtube.com/watch?v=zu0t72se0N4",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=zu0t72se0N4"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=zu0t72se0N4"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/album/the-fire/1559502242?i=1559502516"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/album/5496LPkaRhxdTuVjPYw9Tp?flow_ctx=d6019368-fcaa-4645-97d0-62a29ac69a29%3A1698980249"
+        },
+        {
+          "type": "other",
+          "url": "https://www.celinecairo.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/celinecairo/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Steve Young, girls flag football, and finding the next calling",
+      "creator": "Dan Pompei for The Athletic_",
+      "note": "for _The Athletic_. Try [this link](https://web.archive.org/web/20231017185000/https://theathletic.com/4905441/2023/10/03/steve-young-girls-flag-football/) if you are having any trouble accessing the above.",
+      "original_url": "https://theathletic.com/4905441/2023/10/03/steve-young-girls-flag-football/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://theathletic.com/4905441/2023/10/03/steve-young-girls-flag-football/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/danpompei"
+        },
+        {
+          "type": "other",
+          "url": "https://web.archive.org/web/20231017185000/https://theathletic.com/4905441/2023/10/03/steve-young-girls-flag-football/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Japanese expression I’m enjoying",
+      "category": "other",
+      "title": "反面教師",
+      "creator": null,
+      "note": "(**[_**hanmen kyoushi**_](https://en.wiktionary.org/wiki/%E5%8F%8D%E9%9D%A2%E6%95%99%E5%B8%AB)**)**. Some languages have elegant ways of capturing things that require a sentence in English. [_Saudade_](https://en.wikipedia.org/wiki/Saudade) in Portuguese is close to this. [_Komorebi_](https://www.morethantokyo.com/komorebi-japanese-word/) in Japanese certainly checks the box. Now I can add _hanmen kyoushi_ to my ever-growing list.  \n​  \n“反面教師 (はんめん きょうし, hanmen kyoushi, 反面教员 in Chinese) is a Chinese/Japanese idiom that means ‘an example of bad people/things that you should not follow/imitate.’” ([Source](https://takashionary.com/hanmen-kyoushi-meaning/))  \n​  \nThink of it as “opposite teacher.” Deep bow to Kristy for putting this on my radar.",
+      "original_url": "https://en.wiktionary.org/wiki/%E5%8F%8D%E9%9D%A2%E6%95%99%E5%B8%AB",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wiktionary.org/wiki/%E5%8F%8D%E9%9D%A2%E6%95%99%E5%B8%AB"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wiktionary.org/wiki/%E5%8F%8D%E9%9D%A2%E6%95%99%E5%B8%AB"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Saudade"
+        },
+        {
+          "type": "other",
+          "url": "https://www.morethantokyo.com/komorebi-japanese-word/"
+        },
+        {
+          "type": "other",
+          "url": "https://takashionary.com/hanmen-kyoushi-meaning/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Photographer I’m studying",
+      "category": "other",
+      "title": "Fan Ho",
+      "creator": null,
+      "note": "([@fanhophotography](https://www.instagram.com/fanhophotography/)). See some of his work here: [Fan Ho Photography](https://fanho-forgetmenot.com). From Wikipedia: “Fan Ho was a Chinese photographer, film director, and actor. From 1956, he won over 280 awards from international exhibitions and competitions worldwide for his photography.”",
+      "original_url": "https://en.wikipedia.org/wiki/Fan_Ho",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Fan_Ho"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/fanhophotography/"
+        },
+        {
+          "type": "other",
+          "url": "https://fanho-forgetmenot.com"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quotes I’m pondering",
+      "category": "quote",
+      "title": "“In truth, O judges, while I wish to be adorned with every virtue, yet there is nothing which I can esteem more highly than being and appearing grateful. For this one virtue is not only the greatest, but is also the parent of all the other virtues.” — Cicero (Click here to share on Twitter.) “Without courage we cannot practice any other virtue with consistency. We can’t be kind, true, merciful, generous, or honest.” — Maya Angelou (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with this Random Show episode recorded in rural Japan, this special super combo podcast episode featuring Jamie Foxx and Maria Popova, and my interview with fine-art photographer David Yarrow. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Cicero",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Cicero",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Cicero"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/8l06P"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Maya_Angelou"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/K65d5"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/02/26/the-random-show-drinking-urine-exploring-japan-and-figuring-out-life/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/12/15/super-combo-jamie-foxx-and-maria-popova-710/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/06/25/david-yarrow/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,135 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Great rules I plan to reread often",
+      "category": "other",
+      "title": "65 Notes to Myself",
+      "creator": "Seth Godin",
+      "note": ". Gems upon gems in this one.",
+      "original_url": "https://seths.blog/2025/07/65-thoughts/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://seths.blog/2025/07/65-thoughts/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=yhc1sM2NnQY"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "The Hyperstitions of Moloch",
+      "creator": null,
+      "note": "on [Latent.Space](https://www.latent.space/). If I were to update [_The 4-Hour Workweek_](https://www.amazon.com/gp/product/0307465357), I would most certainly include case studies that use the frameworks and approaches in this piece. Disclaimer: I have only read the text and have not yet listened to the accompanying podcast.  \n​  \nMore on Latent.Space: “A technical newsletter, podcast, and community by and for the rising class of AI Engineers, focusing on the business and technology of this new AI summer.”",
+      "original_url": "https://www.latent.space/p/hyperstitions-of-moloch",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.latent.space/p/hyperstitions-of-moloch"
+        },
+        {
+          "type": "other",
+          "url": "https://www.latent.space/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/gp/product/0307465357"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Another reminder to know your sources",
+      "category": "other",
+      "title": "Lead pigment in turmeric is the culprit in a global poisoning mystery",
+      "creator": "Gabrielle Emanuel",
+      "note": ". Hat tip to [perihelions](https://news.ycombinator.com/user?id=perihelions) on [Hacker News](https://news.ycombinator.com/).",
+      "original_url": "https://www.npr.org/sections/goats-and-soda/2024/09/23/nx-s1-5011028/detectives-mystery-lead-poisoning-new-york-bangladesh",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.npr.org/sections/goats-and-soda/2024/09/23/nx-s1-5011028/detectives-mystery-lead-poisoning-new-york-bangladesh"
+        },
+        {
+          "type": "other",
+          "url": "https://www.npr.org/people/470414236/gabrielle-emanuel"
+        },
+        {
+          "type": "other",
+          "url": "https://news.ycombinator.com/user?id=perihelions"
+        },
+        {
+          "type": "other",
+          "url": "https://news.ycombinator.com/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Culinary trick I’ll be testing",
+      "category": "other",
+      "title": "How to “Dry Age” a Steak in Two Hours",
+      "creator": null,
+      "note": "“Dry-aged steak is famously tender and flavorful, but often too expensive for home cooks to attempt. In this episode of _Techniquely_, [Lan Lam](https://www.instagram.com/lan_cooks) explains how dry-aging works and shows us how to achieve the flavor of dry-aging at home in as little as 2 hours with the use of shio koji, a fermented Japanese paste.” Chef David Chang of Momofuku fame also [swears by koji](https://www.tastingtable.com/1325953/david-chang-use-koji-cooking/).**​  \n​  \n​**Shio koji (塩麹) is a traditional Japanese seasoning made by fermenting a mixture of koji (rice inoculated with _Aspergillus oryzae_), salt, and water. It’s prized for its ability to tenderize meat, enhance umami, and balance saltiness with subtle sweetness—often referred to as a “natural MSG.”",
+      "original_url": "https://www.youtube.com/watch?v=UYV6-yfCalM",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=UYV6-yfCalM"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/lan_cooks"
+        },
+        {
+          "type": "other",
+          "url": "https://www.tastingtable.com/1325953/david-chang-use-koji-cooking/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“A problem never exists in isolation; it is surrounded by other problems in space and time. The more of the context of a problem that a scientist can comprehend, the greater are his chances of finding a truly adequate solution.” — Russell L. Ackoff, “The Development of Operations Research as a Science” (Click here to share on X.) Related and recommended: Five whys. * * * You can complement this edition of 5-Bullet Friday with my interview on tactics vs. strategy with Seth Godin. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Russell L. Ackoff, “The Development of Operations Research as a Science”",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Russell_L._Ackoff",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Russell_L._Ackoff"
+        },
+        {
+          "type": "other",
+          "url": "https://www.jstor.org/stable/167175"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/vS1yJ"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Five_whys"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/yhc1sM2NnQY?si=QACczkr2JSXC6tzs"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

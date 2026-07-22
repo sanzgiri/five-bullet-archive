@@ -6,7 +6,151 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Sum: Forty Tales from the Afterlives",
+      "creator": "Stanford neuroscientist David Eagleman",
+      "note": "fourhourmail.com/c/k0udre388b6h3grv2/7df7h8hmp7z8n/aHR0cHM6Ly90d2l0dGVyLmNvbS9kYXZpZGVhZ2xlbWFu))**.** Don’t let the title of this book fool you; it isn’t making a case for the afterlife. Instead, this short read (easy to finish in 1-2 days), is a collection of 40 thought exercises on the nature of existence, reality, perception, death, pain, boredom, and more. It’s remarkably elegant and fun. At the very least, it should make you appreciate your own life — warts and all — much more. From the book’s official description: “In one afterlife, you may find that God is the size of a microbe and unaware of your existence. In another version, you work as a background character in other people’s dreams. Or you may find that God is a married couple, or that the universe is running backward, or that you are forced to live out your afterlife with annoying versions of who you could have been.”",
+      "original_url": "https://el2.fourhourmail.com/c/k0udre388b6h3grv2/8xiqhohxpv93d/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TdW0tRm9ydHktQWZ0ZXJsaXZlcy1EYXZpZC1FYWdsZW1hbi9kcC8wMzA3Mzg5OTM2Lw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h3grv2/8xiqhohxpv93d/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TdW0tRm9ydHktQWZ0ZXJsaXZlcy1EYXZpZC1FYWdsZW1hbi9kcC8wMzA3Mzg5OTM2Lw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h3grv2/7df7h8hmp7z8n/aHR0cHM6Ly90d2l0dGVyLmNvbS9kYXZpZGVhZ2xlbWFu"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m drinking —",
+      "category": "other",
+      "title": "Picnik Coffee’s Extra Bold 6-Pack",
+      "creator": null,
+      "note": "I was first introduced to Picnik as [a restaurant in Austin, Texas](https://el2.fourhourmail.com/c/k0udre388b6h3grv2/x6cph6hld63zm/aHR0cHM6Ly9waWNuaWthdXN0aW4uY29tLw==). Nearly all of my friends had it on their list of “must-visit” spots as a Paleo favorite. The same team has since expanded into consumer packaged goods (CPG), and I’ve been using [their “Bold” (low-carb) coffee](https://el2.fourhourmail.com/c/k0udre388b6h3grv2/xksph6hld63z4/aHR0cHM6Ly9waWNuaWthdXN0aW4uY29tL3Byb2R1Y3RzL2V4dHJhLWJvbGQtYnV0dGVyLWNvZmZlZQ==) as a pre-workout supplement. Here’s the product description: “Keto-friendly and full of flavor, this drink is a blend of cold brew coffee, MCT oil, grass-fed butter, grass-fed whey protein, black cocoa powder, cacao butter and a dash of vanilla to kickstart your day.” Full disclosure: I ended up investing in Picnik’s CPG side, and they have some very cool products coming. This Austin town turns out to have some phenomenal CPG companies...",
+      "original_url": "https://el2.fourhourmail.com/c/k0udre388b6h3grv2/zvtghnh8rvw7m/aHR0cHM6Ly9waWNuaWthdXN0aW4uY29tL3Byb2R1Y3RzL2V4dHJhLWJvbGQtYnV0dGVyLWNvZmZlZQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h3grv2/zvtghnh8rvw7m/aHR0cHM6Ly9waWNuaWthdXN0aW4uY29tL3Byb2R1Y3RzL2V4dHJhLWJvbGQtYnV0dGVyLWNvZmZlZQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h3grv2/x6cph6hld63zm/aHR0cHM6Ly9waWNuaWthdXN0aW4uY29tLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h3grv2/xksph6hld63z4/aHR0cHM6Ly9waWNuaWthdXN0aW4uY29tL3Byb2R1Y3RzL2V4dHJhLWJvbGQtYnV0dGVyLWNvZmZlZQ=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Métropolitain",
+      "creator": "Emmanuel Santarromana",
+      "note": "fourhourmail.com/c/k0udre388b6h3grv2/q4b8h7h025n2g/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL2FsYnVtLzFWeGRWOGdHTlc5SkFkWjd5YWszYzA=)**).**",
+      "original_url": "https://el2.fourhourmail.com/c/k0udre388b6h3grv2/54avh7hzo870e/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1vTGtjNE5ERGpqRQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h3grv2/54avh7hzo870e/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1vTGtjNE5ERGpqRQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h3grv2/q4b8h7h025n2g/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL2FsYnVtLzFWeGRWOGdHTlc5SkFkWjd5YWszYzA="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "For when the darkness comes —",
+      "category": "other",
+      "title": "World Suicide Prevention Day",
+      "creator": null,
+      "note": ", and I’ve [previously written about my own struggles and coping strategies](https://el2.fourhourmail.com/c/k0udre388b6h3grv2/nouohvhk5pr5x/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzA1LzA2L2hvdy10by1jb21taXQtc3VpY2lkZS8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm). [This particular post](https://el2.fourhourmail.com/c/k0udre388b6h3grv2/42ivhehnqegqp/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzA1LzA2L2hvdy10by1jb21taXQtc3VpY2lkZS8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm) serves as a compendium of the tools, routines, and resources that I have found most helpful for fighting the demons, and \\*thousands\\* of readers have contributed in the comments. You are not alone.",
+      "original_url": "https://el2.fourhourmail.com/c/k0udre388b6h3grv2/9ehzhnhl3m93q/aHR0cHM6Ly9pYXNwLmluZm8vd3NwZDIwMTgv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h3grv2/9ehzhnhl3m93q/aHR0cHM6Ly9pYXNwLmluZm8vd3NwZDIwMTgv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h3grv2/nouohvhk5pr5x/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzA1LzA2L2hvdy10by1jb21taXQtc3VpY2lkZS8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h3grv2/42ivhehnqegqp/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzA1LzA2L2hvdy10by1jb21taXQtc3VpY2lkZS8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Gardening is not outcome-oriented. A successful harvest is not the end of a gardener's existence, but only a phase of it. As any gardener knows, the vitality of a garden does not end with a harvest. It simply takes another form. Gardens do not ‘die’ in the winter but quietly prepare for another season.” ― James P. Carse, Finite and Infinite Games And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim P.S. — Deal of the Week: Ascent Protein. Ever since I wrote The 4-Hour Body_, starting my day with ~30 grams of protein has been part of my routine. Of course, I don’t always have time or the patience to cook a meal, so I supplement. Unfortunately, most protein powders are filled with excess sugar, questionable artificial sweeteners, or low-grade protein. Ascent Protein is an exception — it contains zero artificial ingredients, artificial sweeteners, or added sugar. They also nailed the taste; they tested 282 versions before getting the chocolate (my favorite) just right. If you prefer, they also offer vanilla bean, cappuccino, and lemon sorbet flavors. Visit ascentprotein.com/Tim and use the code TFASCENT and you'll receive 20% off of your entire purchase. If you want a quick dose of protein to start your day or end a workout, this is a great option and my default. Use TFASCENT for your 20% discount. Enjoy! [](https://el2.fourhourmail.com/c/k0udre388b6h3grv2/p4ueh9hl50x59/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #508, Austin TX 78703, United States",
+      "creator": "Deal of the Week: Ascent Protein. Ever since I wrote The 4-Hour Body_, starting my day with ~30 grams of protein has been part of my routine. Of course, I don’t always have time or the patience to cook a meal, so I supplement. Unfortunately, most protein powders are filled with excess sugar, questionable artificial sweeteners, or low-grade protein. Ascent Protein is an exception — it contains zero artificial ingredients, artificial sweeteners, or added sugar. They also nailed the taste; they tested 282 versions before getting the chocolate",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/k0udre388b6h3grv2/rlf8hohevrxv7/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSmFtZXNfUC5fQ2Fyc2U=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h3grv2/rlf8hohevrxv7/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSmFtZXNfUC5fQ2Fyc2U="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h3grv2/83tqhohxpv9pp/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9GaW5pdGUtSW5maW5pdGUtR2FtZXMtSmFtZXMtQ2Fyc2UvZHAvMTQ3NjczMTcxMw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h3grv2/lrcehmhzv9rvz/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h3grv2/dxseh0hmwg5w7/aHR0cHM6Ly93d3cuYXNjZW50cHJvdGVpbi5jb20vdGlt"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h3grv2/ewaph7h2wg4wn/aHR0cHM6Ly93d3cuYXNjZW50cHJvdGVpbi5jb20vdGlt"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h3grv2/7ob7h8hmp7zp4/aHR0cHM6Ly93d3cuYXNjZW50cHJvdGVpbi5jb20vdGlt"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h3grv2/oohkhqh7lvol8/aHR0cHM6Ly93d3cuYXNjZW50cHJvdGVpbi5jb20vdGlt"
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h3grv2/6vieh8hd6go67/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/k0udre388b6h3grv2"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h3grv2/qkt8h7h025nvo/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,147 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to once again",
+      "category": "podcast",
+      "title": "The Hero’s Adventure",
+      "creator": null,
+      "note": "from [_The Power of Myth_ with Joseph Campbell and Bill Moyers](https://www.audible.com/pd/The-Power-of-Myth-Programs-1-6-Audiobook/B002V59WRE) ([Audible for audio](https://www.audible.com/pd/The-Power-of-Myth-Programs-1-6-Audiobook/B002V59WRE), [Amazon for video](https://www.amazon.com/The-Heros-Adventure/dp/B07BC2VHHJ/)). [The first episode](https://tim.blog/2020/08/27/the-power-of-myth-joseph-campbell/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) of this six-part series is simply incredible, and I found it oddly and profoundly calming. Here’s the description: “Forty years ago, renowned scholar Joseph Campbell sat down with veteran journalist Bill Moyers for a series of interviews that became one of the most enduringly popular programs ever on PBS. In dialogues that adroitly span millennia of history and far-flung geography, the two men discuss myths as metaphors for human experience and the path to transcendence.” You can listen to [the full series on Audible](https://www.audible.com/pd/The-Power-of-Myth-Programs-1-6-Audiobook/B002V59WRE) or [watch on Amazon](https://www.amazon.com/The-Heros-Adventure/dp/B07BC2VHHJ/). I highly recommend the entire series. You won’t be disappointed.",
+      "original_url": "https://tim.blog/2020/08/27/the-power-of-myth-joseph-campbell/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2020/08/27/the-power-of-myth-joseph-campbell/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.audible.com/pd/The-Power-of-Myth-Programs-1-6-Audiobook/B002V59WRE"
+        },
+        {
+          "type": "other",
+          "url": "https://www.audible.com/pd/The-Power-of-Myth-Programs-1-6-Audiobook/B002V59WRE"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/The-Heros-Adventure/dp/B07BC2VHHJ/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/08/27/the-power-of-myth-joseph-campbell/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.audible.com/pd/The-Power-of-Myth-Programs-1-6-Audiobook/B002V59WRE"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/The-Heros-Adventure/dp/B07BC2VHHJ/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Series I’m watching",
+      "category": "video",
+      "title": "Under the Banner of Heaven",
+      "creator": null,
+      "note": "Starring [Andrew Garfield](https://en.wikipedia.org/wiki/Andrew_Garfield), [Sam Worthington](https://en.wikipedia.org/wiki/Sam_Worthington), [Daisy Edgar-Jones](https://en.wikipedia.org/wiki/Daisy_Edgar-Jones) ([@daisyedgarjones](https://www.instagram.com/daisyedgarjones/)), FX’s _Under the Banner of Heaven_, the limited series inspired by [the nonfiction bestseller by Jon Krakauer](https://www.amazon.com/Under-Banner-Heaven-Story-Violent/dp/1400032806), follows the murder of Brenda Wright Lafferty and her baby daughter in a suburb in the Salt Lake Valley. As Detective Jeb Pyre investigates events that transpired, he uncovers buried truths about the violent consequences of unyielding faith. [The trailer](https://www.youtube.com/watch?v=IDRqWtwbiSM) gives you a good taste of the production value. I found everything about this series—writing, casting, directing, cinematography, interweaving of history, and more—to be incredibly good. Be forewarned that the material is dark.",
+      "original_url": "https://www.hulu.com/series/under-the-banner-of-heaven-9c4ae394-e9c4-4a6d-985e-314270602c6b",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.hulu.com/series/under-the-banner-of-heaven-9c4ae394-e9c4-4a6d-985e-314270602c6b"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Andrew_Garfield"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Sam_Worthington"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Daisy_Edgar-Jones"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/daisyedgarjones/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Under-Banner-Heaven-Story-Violent/dp/1400032806"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=IDRqWtwbiSM"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Blog post I’m reading",
+      "category": "article",
+      "title": "The Rise of the Shaman Bro (and his eventual demise)",
+      "creator": null,
+      "note": "](https://www.asleepthinking.com/blog/the-rise-and-future-fall-of-the-shaman-bro)**.”** This succinct post is laughably accurate. It covers a few important subtleties, including the very real and COVID-driven Promoter Bro >>> Shaman Bro phenomenon. The same ecosystem disruption can explain the proliferation of another archetype I’ll call “Yogauasca Chick.” Same-same but different. Equally dangerous. A few quick recommendations if you’re ever in the market for shamans/guides/sitters:\n\n**1)** If they don’t do a medical intake, including asking about current medications and family history (e.g., schizophrenia), avoid them.  \n​**2)** If they call themselves a “shaman,” they are not anything resembling a shaman. Avoid.  \n​**3)** Ask how they’ve handled adverse events or people truly freaking out: screaming, getting violent, etc. If they say they’ve never had adverse events, they are lying, delusional, and/or inexperienced. Anyone who has had 10+ years of experience will have stories of craziness and how they successfully or unsuccessfully handled it. Ditto for any really good ER doc or MD, which isn’t a coincidence.",
+      "original_url": "https://www.asleepthinking.com/blog/the-rise-and-future-fall-of-the-shaman-bro",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.asleepthinking.com/blog/the-rise-and-future-fall-of-the-shaman-bro"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "Minding matter",
+      "creator": "Adam Frank",
+      "note": "([@AdamFrank4](https://twitter.com/AdamFrank4)). Here is an excerpt:\n\n“_Like most physicists, I learned how to ignore the weirdness of quantum physics. ‘Shut up and calculate!’ (the dictum of the American physicist David Mermin) works fine if you are trying to get 100 percent on your Advanced Quantum Theory homework or building a laser. But behind quantum mechanics’ unequaled calculational precision lie profound, stubbornly persistent questions about what those quantum rules imply about the nature of reality – including our place in it._\n\n_Those questions are well-known in the physics community, but perhaps our habit of shutting up has been a little too successful. A century of agnosticism about the true nature of matter hasn’t found its way deeply enough into other fields, where materialism still appears to be the most sensible way of dealing with the world and, most of all, with the mind. Some neuroscientists think that they’re being precise and grounded by holding tightly to materialist credentials. Molecular biologists, geneticists, and many other types of researchers – as well as the nonscientist public – have been similarly drawn to materialism’s seeming finality. But this conviction is out of step with what we physicists know about the material world – or rather, what we don’t know.”_ (Read the full piece [here](https://aeon.co/essays/materialism-alone-cannot-explain-the-riddle-of-consciousness).)",
+      "original_url": "https://aeon.co/essays/materialism-alone-cannot-explain-the-riddle-of-consciousness",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://aeon.co/essays/materialism-alone-cannot-explain-the-riddle-of-consciousness"
+        },
+        {
+          "type": "other",
+          "url": "https://www.adamfrankscience.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/AdamFrank4"
+        },
+        {
+          "type": "other",
+          "url": "https://aeon.co/essays/materialism-alone-cannot-explain-the-riddle-of-consciousness"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Poem I’m pondering",
+      "category": "other",
+      "title": "Koken Myokai",
+      "creator": null,
+      "note": "​  \n​\n\n​  \nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
+      "original_url": "https://www.dailyzen.com/quotes/worn-out-sandals",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.dailyzen.com/quotes/worn-out-sandals"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

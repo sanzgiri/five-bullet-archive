@@ -6,7 +6,163 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Documentary I’m watching and studying",
+      "category": "video",
+      "title": "Spielberg",
+      "creator": null,
+      "note": "Description: “Legendary filmmaker Steven Spielberg steps out from behind the camera to open up about his life and career.” The documentary has 91% on Rotten Tomatoes, and you can [watch the trailer here](https://www.youtube.com/watch?v=qIwANkWLwDo). I’m combining this doc with reading [_Spielberg: The First Ten Years_](https://www.amazon.com/dp/1647225175/), as I’m most interested in the early decisions that helped Spielberg hit stratospheric success, not what he did after he was an icon. If you dig into these, pay special attention to how constraints and problems (e.g., the mechanical shark in _Jaws_ breaking, personal promises to George Lucas on _Raiders of the Lost Ark_) almost always made his films better.",
+      "original_url": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6e29315b-e1a6-4ffe-80dc-270494f83f49?tag=justus1ktp-20&token=ADE07EB7B9E7DB86DEEEF0D5D4FC5F0B5FB44D3F",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6e29315b-e1a6-4ffe-80dc-270494f83f49?tag=justus1ktp-20&token=ADE07EB7B9E7DB86DEEEF0D5D4FC5F0B5FB44D3F"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=qIwANkWLwDo"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/dp/1647225175/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Interview I’m very excited to share",
+      "category": "other",
+      "title": "My brand-new conversation with Brandon Sanderson",
+      "creator": null,
+      "note": "I had an absolute blast recording in person with Brandon at his HQ in Utah ([see photos here](https://www.instagram.com/p/DFtDeuJPEiI/?img_index=1)). We cover how to build a fiction empire, how he architected his record-breaking $40M+ Kickstarter campaign, unbreakable writing habits, the art of world-building, the science of magic systems, and much more. It is his most comprehensive interview ever. Listen now on [Apple Podcasts](https://podcasts.apple.com/us/podcast/794-brandon-sanderson-on-building-a-fiction-empire/id863897795?i=1000689414620), [Spotify](https://open.spotify.com/episode/0dJLtcP1H8l2hSFG0Ppe37?si=mCdlQO5jTya8qPeZNLD4pw), or wherever you get your audio morsels. Video coming soon to my [YouTube channel](http://youtube.com/timferriss). Subscribe there if you’d like to see us in living color.",
+      "original_url": "https://tim.blog/2025/02/05/brandon-sanderson/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2025/02/05/brandon-sanderson/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/DFtDeuJPEiI/?img_index=1"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/794-brandon-sanderson-on-building-a-fiction-empire/id863897795?i=1000689414620"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/0dJLtcP1H8l2hSFG0Ppe37?si=mCdlQO5jTya8qPeZNLD4pw"
+        },
+        {
+          "type": "other",
+          "url": "http://youtube.com/timferriss"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Series I’m watching",
+      "category": "video",
+      "title": "Landman",
+      "creator": null,
+      "note": "This features Billy Bob Thornton and weaves memorable and hilarious dialogue with the _Game of Thrones_ can’t-fail recipe: sex and violence. The show was co-created by [Taylor Sheridan](https://en.wikipedia.org/wiki/Taylor_Sheridan), who co-created [_Yellowstone_](https://en.wikipedia.org/wiki/Yellowstone_(American_TV_series)) and created its prequels [1883](https://en.wikipedia.org/wiki/1883_(TV_series)) and [1923](https://en.wikipedia.org/wiki/1923_(TV_series)). I was introduced to his writing through [_Sicario_](https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a6b886eb-47c1-90f9-7508-d37c218381bb?autoplay=0&ref_=atv_cf_strg_wb), for which he was nominated for the Writers Guild of America Award for Best Original Screenplay. Taylor has the ability to combine deep character development and brutal reflections of reality into edge-of-your-seat story arcs that keep you watching. Description: “In the heart of Texas, roughnecks and billionaires try to get rich quick in the oil industry. Tommy Norris, a struggling executive, tries to take his company to the top during the fuel boom.” Cartels, bikinis, and the inner workings of the oil and gas world—who could say no? Find the trailer [here](https://www.youtube.com/watch?v=7zxh49-bsIk).",
+      "original_url": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.109cc3bb-4df7-4798-b0a3-c005bf29883f?autoplay=0&ref_=atv_cf_strg_wb",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.109cc3bb-4df7-4798-b0a3-c005bf29883f?autoplay=0&ref_=atv_cf_strg_wb"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Taylor_Sheridan"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Yellowstone_(American_TV_series"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/1883_(TV_series"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/1923_(TV_series"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a6b886eb-47c1-90f9-7508-d37c218381bb?autoplay=0&ref_=atv_cf_strg_wb"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=7zxh49-bsIk"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Profile I’m reading",
+      "category": "article",
+      "title": "The Philosopher L. A. Paul Wants Us to Think About Our Selves",
+      "creator": "Alice Gregory in The New Yorker_",
+      "note": "in _The New Yorker_. ([Alternate link](https://web.archive.org/web/20241229034808/https://www.newyorker.com/magazine/2024/12/09/the-philosopher-l-a-paul-wants-us-to-think-about-our-selves).) Huge thanks to Denise Koller of Harvard Business School for introducing me to L.A. Paul’s work.  \n​  \nThe subheadline underscores something I’ve been thinking about recently: “To whom should we have allegiance—the version of ourself making choices, or the version of ourself who will be affected by them?”  \n​  \nFor instance, if certain transformative decisions change how we relate to ourselves and the world around us (having kids, getting a cochlear implant, trying LSD, etc.), should we think about how to make the decision from our current preferences or what we think our future preferences will be?  \n​  \nHere are a few excerpts that give you a feel for why L.A. Paul has grabbed my attention:  \n​  \n​_Paul’s work pushes back against a powerful trend in philosophy, which, as it’s practiced today, can at times look more like science than literature. For the past century, one of the field’s aims has been to eradicate vagueness and the inconsistencies that arise when we speak and write—to make language more closely resemble arithmetic. The approach, taken up in Vienna in the nineteen-twenties and thirties and eventually exported to America, augmented speculative, descriptive, and semireligious inquiries with formulas and sprawling mathematical proofs. This relentless, sometimes neurotic-seeming pursuit of clarity has had the ironic effect of rendering much of contemporary philosophy nearly indecipherable to outsiders.  \n​  \n...  \n​  \n\\[Her\\] book grew out of a working paper, ultimately titled “What You Can’t Expect When You’re Expecting,” that Paul had first presented at a talk two years earlier. In it, she argued that the conventional tools of decision-making do not work when choosing whether to have a child. The “natural approach”—reflecting on what it would be like, appealing to the testimony of other people—was, she argued, insufficient. And no analogous experience (babysitting a niece, say) could ever get you anything but a faulty approximation of the real one. The question of whether to have a child was, for Paul, a sort of riddle that illuminated the limits of rationality. She explored the question through the framework of normative decision theory, whose premise is that we ought to act to maximize expected value, whatever it might be—personal happiness, say, or annual company profits, or a population’s average life expectancy. (The idea’s most elegant encapsulation is Pascal’s wager, which makes the utilitarian case for believing in God: “If you gain, you gain all; if you lose, you lose nothing.”) But such logic, Paul argues, fails in the face of a transformative experience. Choosing to undergo such an experience, on the occasions when choice is even possible, requires us to violate who we take our current self to be. To whom should we have allegiance—the version of ourself making choices, or the version of ourself affected by those choices?  \n​  \n​_…  \n​  \n​_When I approached Paul about the possibility of a profile, it was in the spirit of self-help. I was thirty-one and obsessed with whether or not I should have a child. The question felt huge and opaque—like one that neither data nor anecdote could solve. I thought about it all the time, though “thinking” is probably too precise a verb. It was more like a constant buzz, scoring the background of daily life in a tone that registered somewhere between urgency and tedium. The bad parts were easy to picture: less sleep, less time, less money. The awesome parts—expelling a new person out of my own body, say—were, quite literally, inconceivable. The dilemma felt impossible, as if I were attempting to convert dollars into the currency of a country that didn’t yet exist._",
+      "original_url": "https://www.newyorker.com/magazine/2024/12/09/the-philosopher-l-a-paul-wants-us-to-think-about-our-selves",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.newyorker.com/magazine/2024/12/09/the-philosopher-l-a-paul-wants-us-to-think-about-our-selves"
+        },
+        {
+          "type": "other",
+          "url": "https://www.alice-gregory.com/articles"
+        },
+        {
+          "type": "other",
+          "url": "https://web.archive.org/web/20241229034808/https://www.newyorker.com/magazine/2024/12/09/the-philosopher-l-a-paul-wants-us-to-think-about-our-selves"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The Tibetan word for meditation is gom_, which, roughly translated, means ‘to become familiar with.’” — Joyful Wisdom by Yongey Mingyur Rinpoche (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my most recent podcast, featuring #1 New York Times bestselling author Brandon Sanderson; my conversation with Silo author Hugh Howey; and this guided meditation to tame restlessness with Zen Master Henry Shukman. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Joyful Wisdom by Yongey Mingyur Rinpoche",
+      "note": null,
+      "original_url": "https://www.amazon.com/Joyful-Wisdom-Embracing-Finding-Freedom/dp/0307407802/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Joyful-Wisdom-Embracing-Finding-Freedom/dp/0307407802/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Yongey_Mingyur_Rinpoche"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/aiczE"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/02/05/brandon-sanderson/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=j8WCRFct0qU"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/dOh0DqB04e0?si=D7UWb25d4qWu3Wg6"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

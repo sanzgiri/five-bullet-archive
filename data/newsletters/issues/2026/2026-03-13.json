@@ -7,7 +7,147 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Beauty Beats",
+      "creator": "Beats Antique",
+      "note": "([YouTube](https://www.youtube.com/watch?v=apu_2WRrSaI), [Spotify](https://open.spotify.com/album/5UPjxVI1xabSZjcRXEpl52?highlight=spotify%3Atrack%3A0Jk5J9HrDmCEKV7xYmaB6m), [Apple Music](https://music.apple.com/gb/song/beauty-beats/289115353)) by [Beats Antique](https://www.instagram.com/beatsantique/?hl=en).",
+      "original_url": "https://www.youtube.com/watch?v=apu_2WRrSaI",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=apu_2WRrSaI"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=apu_2WRrSaI"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/album/5UPjxVI1xabSZjcRXEpl52?highlight=spotify%3Atrack%3A0Jk5J9HrDmCEKV7xYmaB6m"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/gb/song/beauty-beats/289115353"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/beatsantique/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Series I’m rewatching",
+      "category": "video",
+      "title": "Undone",
+      "creator": null,
+      "note": "This amazing series bends time and reality enough to simulate a psychedelic experience. [Check out this short trailer](https://www.youtube.com/watch?v=f8kW2LI19K4), and the preceding sentence will make more sense. Here’s a short description: “[_Undone_](https://www.amazon.com/gp/product/B0875MWHHN/?tag=offsitoftimfe-20) is a half-hour, genre-bending, animated series that explores the elastic nature of reality through its central character Alma, a twenty-eight-year-old living in San Antonio, Texas. After getting into a car accident and nearly dying, Alma finds she has a new relationship to time. She develops this new ability in order to find out the truth about her father’s death.” _Undone_ was created by [Raphael Bob-Waksberg](https://en.wikipedia.org/wiki/Raphael_Bob-Waksberg) (_BoJack Horseman_) and [Kate Purdy](https://en.wikipedia.org/wiki/Kate_Purdy) (also _BoJack Horseman_) and stars [Rosa Salazar](https://en.wikipedia.org/wiki/Rosa_Salazar) (_Alita: Battle Angel_), among others. I’ve been recommending it to nearly all of my closest friends.",
+      "original_url": "https://www.amazon.com/gp/product/B0875MWHHN/?tag=offsitoftimfe-20",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/gp/product/B0875MWHHN/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=f8kW2LI19K4"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/gp/product/B0875MWHHN/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Raphael_Bob-Waksberg"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Kate_Purdy"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Rosa_Salazar"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m using in the kitchen",
+      "category": "other",
+      "title": "Momofuku Soy Sauce",
+      "creator": null,
+      "note": "This was introduced to me by a James Beard Award-winning chef, who explained how it’s totally different from anything you’d typically buy at a grocery store in the US. It’s a naturally brewed soy sauce, meaning it’s produced using the traditional microbial fermentation process rather than chemical hydrolysis. I bought this at Whole Foods.  \n​  \nMomofuku is the brainchild of legendary chef [David Chang](https://www.instagram.com/davidchang/), who _Esquire_ called one of the most influential people of the twenty-first century. His team’s soy sauce is built on 10 years of flavor research from the Momofuku Goods team, and it’s steeped with [_kombu_](https://en.wikipedia.org/wiki/Kombu) for 48 hours, which gives it a richer, rounder savory profile than anything you’ll find at the grocery store. It’s restaurant-grade and an easy way to elevate simple things like steamed vegetables or give an Asian twist to main dishes.",
+      "original_url": "https://shop.momofuku.com/products/soy-sauce?_pos=1&_psq=soy%20sauce&_ss=e&_v=1.0",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://shop.momofuku.com/products/soy-sauce?_pos=1&_psq=soy%20sauce&_ss=e&_v=1.0"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/davidchang/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Kombu"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "‘We have brothers, sons, lovers – but they can’t live here!’ The happy home shared by 26 women",
+      "creator": "Anita Chaudhuri",
+      "note": ". “That this is an idea whose time has come, particularly for older people, is indisputable. In 2021, 3.64 million people aged over 65 were living alone in the UK, 70% of whom were women. In 10 years’ time, over-65s will have risen from 19% to an estimated 22% of the population, according to the latest report by the Centre for Ageing Better.”",
+      "original_url": "https://www.theguardian.com/lifeandstyle/2023/aug/24/we-have-brothers-sons-lovers-but-they-cant-live-here-the-happy-home-shared-by-26-women",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.theguardian.com/lifeandstyle/2023/aug/24/we-have-brothers-sons-lovers-but-they-cant-live-here-the-happy-home-shared-by-26-women"
+        },
+        {
+          "type": "other",
+          "url": "https://www.theguardian.com/profile/anita-chaudhuri"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“If you expect to succeed as a writer, rudeness should be the second-to-least of your concerns. The least of all should be polite society and what it expects. If you intend to write as truthfully as you can, your days as a member of polite society are numbered, anyway.” ― Stephen King from On Writing: A Memoir of the Craft_ (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my brand-new podcast episode, in which fan-favorite guests Maria Popova, Morgan Housel, Cal Newport, Craig Mod, and Debbie Millman all share how they have simplified their lives. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": null,
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Stephen_King",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Stephen_King"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Writing-Memoir-Craft-Stephen-King-ebook/dp/B000FC0SIM/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/d2du5"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/03/10/how-to-simplify-your-life-2/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

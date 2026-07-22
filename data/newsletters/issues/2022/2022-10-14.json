@@ -6,7 +6,175 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m very excited about",
+      "category": "other",
+      "title": "My NFT project, “Project 555.”",
+      "creator": null,
+      "note": "“Project 555” is the codename for my upcoming NFT project. It’s going to be highly stylized and unlike anything I’ve ever done. I started buying BTC in 2012–2013, I began collecting NFTs in early 2021, I quietly launched [my first stand-alone NFT](http://tim.blog/nft) (also my first published fiction) in February 2022 with [PROOF/Kevin Rose](https://twitter.com/kevinrose), and this will be my first in-depth NFT project. It’s going to be very elaborate and unbelievably bizarre.  \n​  \n​**100% of primary sale proceeds will go to the** [**Saisei Foundation**](https://saiseifoundation.org/)**.** The Saisei Foundation is a registered 501(c)(3) nonprofit private foundation that funds cutting-edge scientific research and other initiatives related to psychedelic medicine, mental health therapeutics, life-extension technologies, ecosystem conservation, indigenous knowledge preservation, and more.  \n​  \nIf you’re a trader who expects free money by yelling on the Internet when you’re unhappy, please do not participate in this project. In fact, if you’re a dick online at all, please sit this one out. There are plenty of other NFT projects that will promise the moon, and you can harass them. I promise nothing other than (1) good art (IMHO), (2) perhaps some entertainment and a few laughs along the way, and (3) aiming to do some good with the Saisei Foundation. That’s it.  \n​  \n​[**Click here for more NFT details**](https://www.premint.xyz/tim/)**. This link is exclusively for** _**5-Bullet Friday**_ **subscribers.**",
+      "original_url": "https://www.premint.xyz/tim/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.premint.xyz/tim/"
+        },
+        {
+          "type": "other",
+          "url": "http://tim.blog/nft"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/kevinrose"
+        },
+        {
+          "type": "other",
+          "url": "https://saiseifoundation.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.premint.xyz/tim/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Isle of Dogs",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/gp/product/B08GSL7VGT/), [Apple TV](https://itunes.apple.com/us/movie/isle-of-dogs/id1363298490), [YouTube](https://www.youtube.com/watch?v=KeUx7tk1kdM), [Disney+](https://www.disneyplus.com/movies/isle-of-dogs/3Ypmb1WnRXCH)). The “critics consensus” [from Rotten Tomatoes](https://www.rottentomatoes.com/m/isle_of_dogs_2018), where the film has a 90% approval rating: “The beautifully stop-motion animated _Isle of Dogs_ finds [Wes Anderson](https://en.wikipedia.org/wiki/Wes_Anderson) at his detail-oriented best while telling one of the director’s most winsomely charming stories.” Watch the trailer [here](https://www.youtube.com/watch?v=dt__kig8PVU). Thanks to Cristina for the wonderful recommendation. A little bird told me this film is especially hilarious on edibles with 5–10mg of THC. I challenge you to watch the trailer and dispute this.",
+      "original_url": "https://www.amazon.com/gp/product/B08GSL7VGT/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/gp/product/B08GSL7VGT/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/gp/product/B08GSL7VGT/"
+        },
+        {
+          "type": "other",
+          "url": "https://itunes.apple.com/us/movie/isle-of-dogs/id1363298490"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=KeUx7tk1kdM"
+        },
+        {
+          "type": "other",
+          "url": "https://www.disneyplus.com/movies/isle-of-dogs/3Ypmb1WnRXCH"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rottentomatoes.com/m/isle_of_dogs_2018"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Wes_Anderson"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=dt__kig8PVU"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Haters",
+      "creator": "Paul Graham",
+      "note": "([@paulg](https://twitter.com/paulg)). Hat tip to Coinbase CEO [Brian Armstrong](https://tim.blog/2022/10/07/brian-armstrong/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@brian\\_armstrong](https://twitter.com/brian_armstrong)), who recommended this essay during [our conversation](https://tim.blog/2022/10/07/brian-armstrong/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) for the podcast. Pair this with another favorite essay of mine from Paul Graham: “[The Top Idea in Your Mind](http://www.paulgraham.com/top.html).”",
+      "original_url": "http://www.paulgraham.com/fh.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.paulgraham.com/fh.html"
+        },
+        {
+          "type": "other",
+          "url": "http://www.paulgraham.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/paulg"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/10/07/brian-armstrong/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/brian_armstrong"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/10/07/brian-armstrong/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "http://www.paulgraham.com/top.html"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Experiment I’m revisiting",
+      "category": "other",
+      "title": "How 30 Days of Kindness Made Me a Better Person",
+      "creator": null,
+      "note": "[Click here for an easy-to-print image of the 30 acts of kindness](https://www.success.com/wp-content/uploads/legacy/sites/default/files/65_30dayskindness_sm1702.jpg).",
+      "original_url": "https://www.success.com/how-30-days-of-kindness-made-me-a-better-person/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.success.com/how-30-days-of-kindness-made-me-a-better-person/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.success.com/wp-content/uploads/legacy/sites/default/files/65_30dayskindness_sm1702.jpg"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“To learn which questions are unanswerable, and not to answer them_: this skill is most needful in times of stress and darkness.” — Ursula K. Le Guin, The Left Hand of Darkness_ You can complement this edition of 5-Bullet Friday with my favorite and most impactful reads from 2019, 2020, and 2021. If you’d like to learn more about how I read, keep track of things, and review highlights, you might also enjoy this YouTube video. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Ursula K. Le Guin, The Left Hand of Darkness_ You can complement this edition of 5-Bullet Friday with my favorite and most impactful reads from 2019, 2020, and 2021. If you’d like to learn more about how I read, keep track of things, and review highlights, you might also enjoy this YouTube video. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Ursula_K._Le_Guin",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Ursula_K._Le_Guin"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/01/08/reading-recommendations/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/01/14/tim-ferriss-2020-reading-recommendations/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/01/07/tim-ferriss-reading-recommendations-2021/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=YQOrqAKKcUQ"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

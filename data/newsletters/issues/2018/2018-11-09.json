@@ -6,7 +6,120 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Fantastic book I just finished —",
+      "category": "book",
+      "title": "Travels with Charley in Search of America",
+      "creator": "John Steinbeck",
+      "note": "This was given to me by my dear mom, who knows I’ve fantasized for ages about a country-wide road trip with my pooch, [Molly](https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/q6f8h7hngpq4g/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wLzloYi1wdm44Vmov). The book was published in 1962, the same year Steinbeck won the Nobel Prize in Literature for his work. It’s beautiful and surprisingly hilarious at points. Here is a brief description: “With Charley, his French poodle, Steinbeck drives the interstates and the country roads, dines with truckers, encounters bears at Yellowstone and old friends in San Francisco. Along the way he reflects on the American character, racial hostility, the particular form of American loneliness he finds almost everywhere, and the unexpected kindness of strangers.”",
+      "original_url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/6xieh8hove0k3/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UcmF2ZWxzLUNoYXJsZXktU2VhcmNoLUFtZXJpY2EtU3RlaW5iZWNrL2RwLzAxNDAwNTMyMDQ=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/6xieh8hove0k3/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UcmF2ZWxzLUNoYXJsZXktU2VhcmNoLUFtZXJpY2EtU3RlaW5iZWNrL2RwLzAxNDAwNTMyMDQ="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/q6f8h7hngpq4g/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wLzloYi1wdm44Vmov"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Could a drug prevent depression and PTSD?",
+      "creator": null,
+      "note": "This talk by neuroscientist [Rebecca Brachman](https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/rmc8hohx9zn3e/aHR0cDovL3JlYmVjY2EuYnJhY2htYW4ub3JnLw==) is a compelling exploration of Calypsol/ketamine — also of great interest to me — for preventing, and not just treating, depression. This video is worth watching for her history of tuberculosis and medical discovery alone.",
+      "original_url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/9ntzhnh9krn6q/aHR0cHM6Ly93d3cudGVkLmNvbS90YWxrcy9yZWJlY2NhX2JyYWNobWFuX2NvdWxkX2FfZHJ1Z19wcmV2ZW50X2RlcHJlc3Npb25fYW5kX3B0c2Q_bGFuZ3VhZ2U9ZW4j",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/9ntzhnh9krn6q/aHR0cHM6Ly93d3cudGVkLmNvbS90YWxrcy9yZWJlY2NhX2JyYWNobWFuX2NvdWxkX2FfZHJ1Z19wcmV2ZW50X2RlcHJlc3Npb25fYW5kX3B0c2Q_bGFuZ3VhZ2U9ZW4j"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/rmc8hohx9zn3e/aHR0cDovL3JlYmVjY2EuYnJhY2htYW4ub3JnLw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Article I’m reading —",
+      "category": "article",
+      "title": "How 30 Days of Kindness Made Me a Better Person",
+      "creator": null,
+      "note": "I’ll likely replicate this 30-day challenge and focus on multiple daily efforts on 1-2 days per week, as the article seems to suggest.",
+      "original_url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/vws3hrhg2r8vn/aHR0cHM6Ly93d3cuc3VjY2Vzcy5jb20vaG93LTMwLWRheXMtb2Yta2luZG5lc3MtbWFkZS1tZS1hLWJldHRlci1wZXJzb24v",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/vws3hrhg2r8vn/aHR0cHM6Ly93d3cuc3VjY2Vzcy5jb20vaG93LTMwLWRheXMtb2Yta2luZG5lc3MtbWFkZS1tZS1hLWJldHRlci1wZXJzb24v"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Most popular on Instagram —",
+      "category": "other",
+      "title": "“A friend captured this car commercial moment near Rotorua as we toured New Zealand in a tiny Donald Duck rental car...”",
+      "creator": null,
+      "note": "Quote I’m pondering** —**“Happiness does not lead to gratitude. Gratitude leads to happiness.”  \n**— Benedictine monk David Steindl-Rast  \n(found in A.J. Jacobs’ book, [Thanks a Thousand!](https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/oqbkhqho3d56o/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UaGFua3MtVGhvdXNhbmQtR3JhdGl0dWRlLUpvdXJuZXktQm9va3MvZHAvMTUwMTExOTkyMw==))\n\nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just [send a tweet to @tferriss](https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/p7heh9hxko828/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==) and put #5BulletFriday at the end so I can find it.  \n\nHave a wonderful weekend, all!  \n\nTim\n\n**P.S. – Deal of the Week:** [**LinkedIn Jobs**](https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/66ueh8hove05x/aHR0cHM6Ly9idXNpbmVzcy5saW5rZWRpbi5jb20vdGFsZW50LXNvbHV0aW9ucy9jeC8xOC8wNy9qb2JzLXNpbmdsZS1jdGEtMi1yZG0_c3JjPXB1Yi1uZXdzbGV0dGVyJnRyaz10aW0mdmVoPXRpbQ==)**.** Hiring can be hard, but it doesn’t always need to be. LinkedIn Jobs makes finding the right hire as seamless as possible. Based on your search criteria and LinkedIn’s unmatched detail about users’ professional skills and histories, [**LinkedIn Jobs**](https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/k2imh6hmgv45z/aHR0cHM6Ly9idXNpbmVzcy5saW5rZWRpbi5jb20vdGFsZW50LXNvbHV0aW9ucy9jeC8xOC8wNy9qb2JzLXNpbmdsZS1jdGEtMi1yZG0_c3JjPXB1Yi1uZXdzbGV0dGVyJnRyaz10aW0mdmVoPXRpbQ==) recommends the most qualified candidates, candidates hard to hone in on anywhere else. 70% of the U.S. workforce is on LinkedIn, making LinkedIn Jobs the best way to get your opportunity in front of the best people. [**Visit LinkedIn.com/Tim to get $50 off your first job post.**](https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/5kfvh7h7p2ln3/aHR0cHM6Ly9idXNpbmVzcy5saW5rZWRpbi5jb20vdGFsZW50LXNvbHV0aW9ucy9jeC8xOC8wNy9qb2JzLXNpbmdsZS1jdGEtMi1yZG0_c3JjPXB1Yi1uZXdzbGV0dGVyJnRyaz10aW0mdmVoPXRpbQ==) Take a look — [LinkedIn.com/Tim](https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/2vt2hohdrwn8l/aHR0cHM6Ly9idXNpbmVzcy5saW5rZWRpbi5jb20vdGFsZW50LXNvbHV0aW9ucy9jeC8xOC8wNy9qb2JzLXNpbmdsZS1jdGEtMi1yZG0_c3JjPXB1Yi1uZXdzbGV0dGVyJnRyaz10aW0mdmVoPXRpbQ==). Terms and conditions apply.\n\n[![](https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg)](https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/nrcohvhrw0exp/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=)  \n\nFORWARDED THIS MESSAGE? [SIGN UP](https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/rps8hohx9zn3g/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ==).\n\n![Tim Ferriss Photo](http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg)\n\nJoin millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff.\n\nDUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just [click here](https://el2.fourhourmail.com/u/0vukl0mnnu9hkqmvl). To reply to Tim, please do so in the blog comments [here](https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/8zbqhoh9enk0m/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU=).\n\n3112 Windsor Rd., Box #UNS, Austin TX 78703, United States\n\n \n\n![](https://el2.fourhourmail.com/o/0vukl0mnnu9hkqmvl)",
+      "original_url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/d7aeh0h5znroe/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JwdTdsQm9BUVN6Lw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/d7aeh0h5znroe/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JwdTdsQm9BUVN6Lw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/oqbkhqho3d56o/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UaGFua3MtVGhvdXNhbmQtR3JhdGl0dWRlLUpvdXJuZXktQm9va3MvZHAvMTUwMTExOTkyMw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/p7heh9hxko828/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/66ueh8hove05x/aHR0cHM6Ly9idXNpbmVzcy5saW5rZWRpbi5jb20vdGFsZW50LXNvbHV0aW9ucy9jeC8xOC8wNy9qb2JzLXNpbmdsZS1jdGEtMi1yZG0_c3JjPXB1Yi1uZXdzbGV0dGVyJnRyaz10aW0mdmVoPXRpbQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/k2imh6hmgv45z/aHR0cHM6Ly9idXNpbmVzcy5saW5rZWRpbi5jb20vdGFsZW50LXNvbHV0aW9ucy9jeC8xOC8wNy9qb2JzLXNpbmdsZS1jdGEtMi1yZG0_c3JjPXB1Yi1uZXdzbGV0dGVyJnRyaz10aW0mdmVoPXRpbQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/5kfvh7h7p2ln3/aHR0cHM6Ly9idXNpbmVzcy5saW5rZWRpbi5jb20vdGFsZW50LXNvbHV0aW9ucy9jeC8xOC8wNy9qb2JzLXNpbmdsZS1jdGEtMi1yZG0_c3JjPXB1Yi1uZXdzbGV0dGVyJnRyaz10aW0mdmVoPXRpbQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/2vt2hohdrwn8l/aHR0cHM6Ly9idXNpbmVzcy5saW5rZWRpbi5jb20vdGFsZW50LXNvbHV0aW9ucy9jeC8xOC8wNy9qb2JzLXNpbmdsZS1jdGEtMi1yZG0_c3JjPXB1Yi1uZXdzbGV0dGVyJnRyaz10aW0mdmVoPXRpbQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/rps8hohx9zn3g/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/0vukl0mnnu9hkqmvl"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hkqmvl/8zbqhoh9enk0m/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

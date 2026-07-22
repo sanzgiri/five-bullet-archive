@@ -6,7 +6,270 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Tech trick that I’m loving",
+      "category": "other",
+      "title": "Forget Siri. Turn your iPhone’s ‘Action Button’ into a ChatGPT voice assistant instead",
+      "creator": null,
+      "note": "Hat tip to [Kevin Rose](https://www.kevinrose.com/), who first showed me this shortcut. I now use it daily myself. Note that only the iPhone 15 Pro and iPhone 15 Pro Max have an “action” button. Do you have a favorite way of using [Shortcuts](https://support.apple.com/en-us/guide/shortcuts/welcome/ios) or the action button? Please let me know on Twitter ([@tferriss](https://twitter.com/tferriss)) with #shortcuts!",
+      "original_url": "https://techcrunch.com/2023/11/22/forget-siri-turn-your-iphones-action-button-into-a-chatgpt-voice-assistant-instead/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://techcrunch.com/2023/11/22/forget-siri-turn-your-iphones-action-button-into-a-chatgpt-voice-assistant-instead/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.kevinrose.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://support.apple.com/en-us/guide/shortcuts/welcome/ios"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m drinking",
+      "category": "other",
+      "title": "Brodo Bone Broth",
+      "creator": null,
+      "note": "Brodo was founded by [Chef Marco Canora](https://tim.blog/2021/11/10/marco-canora/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content), who many will recognize from his extensive appearances in [_The 4-Hour Chef_](https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/0547884591) as one of my main teachers. Brodo has quickly become the most famous broth in NYC. The challenge for Marco has always been creating versions of his broths that (A) were shelf-stable, (B) met his high standards, and (C) didn’t require refrigeration… which he finally nailed. My favorite flavors so far are his Tom Yum and Tuscan Sun, which are included in their [sampler box](https://www.brodo.com/product/sampler-box/). Though I haven’t tried it yet, Marco offered that you can use a milk frother to buzz extra-virgin olive oil into Tuscan Sun and butter into Deeply Rooted to add calories and mouthfeel. For the Tom Yum, skip the added fat but squeeze in a dash of lime juice. For a little boost and nutritional insurance, I’ve really been enjoying one packet each morning. Confession: I do use the microwave instead of stove top.  \n​  \nMarco is the real deal, and he has the accolades to prove it: He won the James Beard Award (the equivalent of the Oscars in the cooking world) for Best Chef: New York City, and his first cookbook, [_Salt to Taste: The Keys to Confident, Delicious Cooking_](https://www.amazon.com/Salt-Taste-Confident-Delicious-Cooking/dp/1594867801/) was nominated for a James Beard Award. For my friends near Manhattan, I recommend visiting Marco’s restaurant, [Hearth](https://www.restauranthearth.com/).",
+      "original_url": "https://www.brodo.com/product/sampler-box/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.brodo.com/product/sampler-box/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/11/10/marco-canora/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/0547884591"
+        },
+        {
+          "type": "other",
+          "url": "https://www.brodo.com/product/sampler-box/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Salt-Taste-Confident-Delicious-Cooking/dp/1594867801/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.restauranthearth.com/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "You can’t hoard life",
+      "creator": "Oliver Burkeman, author of Four Thousand Weeks: Time Management for Mortals_",
+      "note": ", author of [_Four Thousand Weeks: Time Management for Mortals_](https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/B08XZY5ZF7/). Hat tip to [Chris Williamson](https://www.youtube.com/@ChrisWillx) for sending this to me.",
+      "original_url": "https://ckarchive.com/b/68ueh8hkxrx6lukq88gqmtz7vxkkk",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://ckarchive.com/b/68ueh8hkxrx6lukq88gqmtz7vxkkk"
+        },
+        {
+          "type": "other",
+          "url": "https://www.oliverburkeman.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/B08XZY5ZF7/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/@ChrisWillx"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Wildcat",
+      "creator": "Ratatat",
+      "note": "([YouTube](https://www.youtube.com/watch?v=8y8pDfdrEzU), [Spotify](https://open.spotify.com/track/0wP9okoDWmbeC2w9E8ZzPu), [Apple Music](https://music.apple.com/us/song/wildcat/354003886)) by [Ratatat](http://ratatatmusic.com/)**.**",
+      "original_url": "https://www.youtube.com/watch?v=8y8pDfdrEzU",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=8y8pDfdrEzU"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=8y8pDfdrEzU"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/0wP9okoDWmbeC2w9E8ZzPu"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/song/wildcat/354003886"
+        },
+        {
+          "type": "other",
+          "url": "http://ratatatmusic.com/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "What I’m excited about",
+      "category": "other",
+      "title": "Global fan meetups",
+      "creator": null,
+      "note": "!** To celebrate the podcast’s 10th anniversary, I am very excited to launch [fan-hosted meetups](https://app.getriver.io/tim) on Thursday, April 25th, around the world! ​Now the ball is in your court… Would you like to host fellow fans of the show in your city? Nothing crazy required; any bar or venue that can handle a decent group could work. If so, **apply to host** [**here**](https://app.getriver.io/tim)**.** Want to attend a meetup that someone else hosts? **You can RSVP in your area even before a host is decided, so** [**please express interest now**](https://app.getriver.io/tim)**!**",
+      "original_url": "https://app.getriver.io/tim",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://app.getriver.io/tim"
+        },
+        {
+          "type": "other",
+          "url": "https://app.getriver.io/tim"
+        },
+        {
+          "type": "other",
+          "url": "https://app.getriver.io/tim"
+        },
+        {
+          "type": "other",
+          "url": "https://app.getriver.io/tim"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Over the long term, the future is decided by optimists.” — The tagline of Kevin Kelly’s website (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with one of my favorite chapters from Oliver Burkeman’s book Four Thousand Weeks_, the latest episode from The Tim Ferriss Experiment_, and my most recent interview with Kevin Kelly on excellent advice for a living. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim ### Forwarded this message? Sign up here. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. Sign Up ### Listen to The Tim Ferriss Show Podcast The Tim Ferriss Show is one of the most popular podcasts in the world with more than 900 million downloads. It has been selected for \"Best of Apple Podcasts\" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts on many occasions. Podcasts Apple Podcasts Overcast Spotify Tim's Blog ### Read Tim's Books [](https://tim.blog/tim-ferriss-books/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test) Amazon Audible B & N Tim's Blog Follow Tim: [](https://twitter.com/tferriss) [](https://www.instagram.com/timferriss/) [](https://www.youtube.com/channel/UCznv7Vf9nBdJYvBagFdAHWw) [](https://www.facebook.com/TimFerriss) [](https://www.linkedin.com/in/timferriss/) DO NOT REPLY HERE: Due to volume, please do not reply to this email. Sadly we are unable to read 1000+ email replies daily. To reply to Tim, please do so in the blog comments here. No longer want these emails? Unsubscribe 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "The tagline of Kevin Kelly’s website",
+      "note": null,
+      "original_url": "https://kk.org/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://kk.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/GaU1S"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/12/15/the-liberation-of-cosmic-insignificance-therapy/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=L9TztcVghdw"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/?utm_source=convertkit&utm_medium=convertit&utm_campaign=footer"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/o8uvgq544hqhkd9v58fdspdg97rr"
+        }
+      ]
+    }
+  ]
 }

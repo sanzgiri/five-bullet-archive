@@ -7,7 +7,163 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Meet the 19-Year-Old From Kazakhstan Who Remixed ‘Roses’ Into a Hit (NYT)",
+      "creator": null,
+      "note": "](https://archive.is/vsr2J)**.** Sometimes it seems impossible to beat the odds. And sometimes the ruts seem too deeply dug. But when you come across someone like Imanbek Zeikenov, you gain a little hop in your step and a little optimism in your spirit. From the NYT: “Imanbek Zeikenov \\[[@realimanbek](https://twitter.com/realimanbek)\\] is 19 years old and lives with his parents in the small village of Aksu in Kazakhstan. He studied railway engineering at school, and until last December, held a day job at his local train station. But everything changed in the summer of 2019, when he discovered a song called ‘Roses’ by the Guyanese-American rapper and singer [Saint Jhn](https://www.instagram.com/saintjhn/?hl=en).”",
+      "original_url": "https://archive.is/vsr2J",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://archive.is/vsr2J"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/realimanbek"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/saintjhn/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to (related to the above) —",
+      "category": "podcast",
+      "title": "Roses (Imanbek Remix)",
+      "creator": null,
+      "note": "](https://www.youtube.com/watch?v=2zToEPpFEN8) by [SAINt JHN](https://www.instagram.com/saintjhn/?hl=en) ([YouTube](https://www.youtube.com/watch?v=2zToEPpFEN8), [Spotify](https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI), [Apple Music](https://music.apple.com/ca/album/1482621265?i=1482621326&uo=4&app=music&at=1010lNLq&lId=21476802&cId=ID&sr=1&src=Linkfire&itscg=30440&itsct=catchall_p1&ct=LFV_7de2daee6702ee8144fa3a2e87e716ec&ls=1)). Some fun facts: The song has seen [more than NINE BILLION plays](https://tokboard.com/songs/6738439639826287365) on TikTok, became [a wild hit on Snapchat](https://www.rollingstone.com/pro/news/snapchat-filter-propelled-song-up-charts-saint-jhn-990492/), and it [reached No. 1 on the United Kingdom’s Official Singles Chart](https://www.officialcharts.com/chart-news/saint-jhn-holds-on-to-number-1-for-a-second-week-with-roses__29225/). _Rolling Stone_ [crowned it](https://www.rollingstone.com/music/music-news/song-of-summer-roses-1055159/) as the song of the summer, and it has [scored a Grammy nomination](https://www.grammy.com/grammys/news/2021-grammys-complete-nominees-list). Not bad for an accidental collaboration between SAINt JHN and a 19-year-old who used to work in a local train station, eh?",
+      "original_url": "https://www.youtube.com/watch?v=2zToEPpFEN8",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=2zToEPpFEN8"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/saintjhn/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=2zToEPpFEN8"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/ca/album/1482621265?i=1482621326&uo=4&app=music&at=1010lNLq&lId=21476802&cId=ID&sr=1&src=Linkfire&itscg=30440&itsct=catchall_p1&ct=LFV_7de2daee6702ee8144fa3a2e87e716ec&ls=1"
+        },
+        {
+          "type": "other",
+          "url": "https://tokboard.com/songs/6738439639826287365"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rollingstone.com/pro/news/snapchat-filter-propelled-song-up-charts-saint-jhn-990492/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.officialcharts.com/chart-news/saint-jhn-holds-on-to-number-1-for-a-second-week-with-roses__29225/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rollingstone.com/music/music-news/song-of-summer-roses-1055159/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.grammy.com/grammys/news/2021-grammys-complete-nominees-list"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Short video I’m watching again —",
+      "category": "video",
+      "title": "Kurt Vonnegut on how to write a short story",
+      "creator": null,
+      "note": "There are some exceptional gems in this two-minute video. Most of the rules apply to good nonfiction writing, too, IMHO.",
+      "original_url": "https://www.youtube.com/watch?v=nmVcIhnvSx8",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=nmVcIhnvSx8"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Documentary I’m watching —",
+      "category": "video",
+      "title": "Guardians of the Amazon",
+      "creator": null,
+      "note": "“As the Amazon rainforest faces a crucial tipping point amidst the increase of illegal logging activities, [Dan Harris](https://tim.blog/2020/11/19/dan-harris/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) \\[[@danbharris](https://twitter.com/danbharris?lang=en)\\] and his team embed with the Guardians, a small indigenous group taking up arms to hunt down illegal loggers and fight for their land.” For a taste of the action, [see the trailer here](https://www.youtube.com/watch?v=JPu2kK4zBVs). This is a topic I care a lot about. For another way to help preserve the ecosystems of the Amazon, which includes both the lungs of the planet and indigenous communities, take a look at the [Amazon Conservation Team](https://www.amazonteam.org/). For my interview with the co-founder, [Mark Plotkin](https://tim.blog/2020/09/30/mark-plotkin/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), ethnobotanist and protégé of the legendary [Richard Schultes](https://en.wikipedia.org/wiki/Richard_Evans_Schultes), [please click here](https://tim.blog/2020/09/30/mark-plotkin/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf).",
+      "original_url": "https://www.youtube.com/watch?v=BdTAbgPQuNI",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=BdTAbgPQuNI"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/11/19/dan-harris/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/danbharris?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=JPu2kK4zBVs"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazonteam.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/09/30/mark-plotkin/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Richard_Evans_Schultes"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/09/30/mark-plotkin/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“I am distressed, almost discouraged, and fatigued to the point of feeling slightly ill. What I am doing is no good, and in spite of your confidence I am very much afraid that my efforts will all lead to nothing.” — Claude Monet In a letter to Gustave Geffroy, 1889 And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Claude Monet In a letter to Gustave Geffroy, 1889 And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Claude_Monet",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Claude_Monet"
+        },
+        {
+          "type": "other",
+          "url": "https://arthistoryproject.com/artists/claude-monet/the-despair-of-painting-nature-letters-to-gustave-geffroy/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

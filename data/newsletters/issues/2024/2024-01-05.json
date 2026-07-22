@@ -6,7 +6,246 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Podcast episode I’m very excited to publish",
+      "category": "podcast",
+      "title": "A Glimpse of the Future: Electroceuticals for 70%–90% Remission of Depression, Brain Stimulation for Sports Performance, and De-risking Ibogaine for TBI/PTSD",
+      "creator": null,
+      "note": "I believe this podcast episode is a sneak peek at what’s coming in the next five years. Pair it with Nolan’s latest groundbreaking study, which was published this morning in _Nature Medicine_: “[Magnesium–ibogaine therapy in veterans with traumatic brain injuries](https://www.nature.com/articles/s41591-023-02705-w).”",
+      "original_url": "https://tim.blog/2024/01/05/nolan-williams/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2024/01/05/nolan-williams/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nature.com/articles/s41591-023-02705-w"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Short Instagram post I’m reading multiple times",
+      "category": "article",
+      "title": "A message for the New Year",
+      "creator": null,
+      "note": "from [Brandon Stanton](https://tim.blog/2018/06/18/brandon-stanton-humans-of-new-york/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), creator of [Humans of New York](https://www.humansofnewyork.com/). This relates to something he and I have texted about often: attention. How should you think about protecting your own attention in 2024? If you don’t have attention, the time you have and the money you make don’t matter much. Attention is the mother resource.",
+      "original_url": "https://www.instagram.com/p/C1m0vOnLSD0/?hl=en",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/p/C1m0vOnLSD0/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/06/18/brandon-stanton-humans-of-new-york/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.humansofnewyork.com/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Documentary I’m watching",
+      "category": "video",
+      "title": "Conan O’Brien Can’t Stop",
+      "creator": null,
+      "note": "If you want to see the real Conan, the indefatigable master comic with a penchant for punching people, this is for you. It’s also a portrait of someone in transition. In this case, after Conan’s split with NBC, he was legally prohibited from entertaining on television for one year. So what do you do when your identity is taken from you? Or more broadly, how does someone at the top of their game reinvent themselves for a year? From the official description: “After a much-publicized departure from hosting NBC’s ‘Tonight Show,’ Conan O’Brien hit the road with a 32-city music-and-comedy show. _Conan O’Brien Can’t Stop_ is an intimate portrait of an artist trained in improvisation, captured at the most improvisational time of his career.” Watch the trailer [here](https://www.youtube.com/watch?v=dRdpC1jtZE0). Hat tip to [Chris Beresford-Hill](https://www.linkedin.com/in/chrisberesfordhill/) for the recommendation!",
+      "original_url": "https://www.amazon.com/Conan-OBrien-Cant-Rodman-Flender/dp/B005BW1MMM",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Conan-OBrien-Cant-Rodman-Flender/dp/B005BW1MMM"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=dRdpC1jtZE0"
+        },
+        {
+          "type": "other",
+          "url": "https://www.linkedin.com/in/chrisberesfordhill/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Launch I’m celebrating",
+      "category": "other",
+      "title": "The Tim Ferriss Experiment",
+      "creator": null,
+      "note": "TV show!** I’m thrilled to announce that I’ll be releasing all episodes of my TV show, _The Tim Ferriss Experiment,_ on YouTube—for free. It was a maze to secure the rights, but now it’s done._​  \n​  \n​_[**Click here for episode #1**](https://www.youtube.com/watch?v=FBjWEwkl_s0)**!** The show is like _MythBusters_ meets Jason Bourne. In every episode, I partner with the world’s best and most unorthodox teachers (e.g., Laird Hamilton, Marcelo Garcia, Stewart Copeland), who train me for a final gauntlet. Shocking breakthroughs, injuries, epiphanies, and disasters are all part of the journey. Along the way, I show you how to replicate results in an attempt to prove that “you don’t need to be superhuman to get superhuman results… you just need a better toolkit.” Make sure to **subscribe to** [**my YouTube channel**](http://youtube.com/timferriss) to get notified of all upcoming episodes, and I’ll be releasing one per week for the next 13 weeks or so. Enjoy!",
+      "original_url": "https://www.youtube.com/watch?v=FBjWEwkl_s0",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=FBjWEwkl_s0"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=FBjWEwkl_s0"
+        },
+        {
+          "type": "other",
+          "url": "http://youtube.com/timferriss"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The future is already here—it’s just not evenly distributed.” — William Gibson (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my interview with Humans of New York creator Brandon Stanton, my conversation with Dr. Adam Gazzaley on brain optimization, and my short letter to a friend who wants to get in shape and is looking for a rapid reboot. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "it’s just not evenly distributed.” — William Gibson",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/William_Gibson",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/William_Gibson"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Amos_Tversky"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/Y3DiO"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/06/18/brandon-stanton-humans-of-new-york/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/03/30/adam-gazzaley-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/01/19/2021-reboot-letter-to-a-friend-who-wants-to-get-in-shape/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "P.P.S.",
+      "category": "other",
+      "title": "The Tim Ferriss Show",
+      "creator": null,
+      "note": ", which will hit its 10th anniversary soon. [**Here are some of my favorite** _**TFS**_ **moments from 2023**](https://tim.blog/2024/01/03/the-tim-ferriss-show-clips/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)**.** I’m using them, and I believe you can use them, as launching points to become healthier, wealthier, and wiser in 2024. I’ve thrown in a few laughs, too, as those are perhaps most important of all.  \n​  \nThe clips cover a wide range of topics—the very tactical and practical (exercise routines, optimizing to-do lists, building habits, goal setting), life-transforming decisions and big-picture moves (rites of passage, personal reinvention), and much more.  \n​  \n2024 is going to be very big! Secret plans are already in the works…  \n​  \nIf you haven’t done so already, you can subscribe to the podcast on [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-tim-ferriss-show/id863897795), [Spotify](https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM), [YouTube](https://youtube.com/timferriss), or wherever you like your podcasts.\n\n### Forwarded this message? [Sign up here](https://go.tim.blog/5-bullet-friday-1/?utm_source=convertkit&utm_medium=convertit&utm_campaign=footer).\n\nJoin millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff.\n\n[Sign Up](https://go.tim.blog/5-bullet-friday-1/)\n\n![Tim Ferriss](https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png) \n\n### Listen to _The Tim Ferriss Show_ Podcast\n\n_The Tim Ferriss Show_ is one of the most popular podcasts in the world with more than 900 million downloads. It has been selected for \"Best of Apple Podcasts\" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts   \non many occasions.\n\n  [![Apple Podcasts](https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png)  Podcasts](https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2) \n\n  [![Apple Podcast](https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png)  Apple Podcasts](https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2) \n\n  [![Overcast](https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png)  Overcast](https://overcast.fm/itunes863897795/the-tim-ferriss-show)    [![Spotify](https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png)  Spotify](https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM)    [![Tim's Blog](https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png)  Tim's Blog](https://tim.blog/podcast?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test)\n\n### Read Tim's Books\n\n[![Read Tim's Books](https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png)](https://tim.blog/tim-ferriss-books/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test)\n\n  [![Amazon](https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png)  Amazon](https://www.amazon.com/Timothy-Ferriss/e/B001ILKBW2%3Fref=dbs_a_mng_rwt_scns_share)    [![Audible](https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png)  Audible](https://www.audible.com/ep/TimsBooks)   [![B & N](https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png) B & N](https://www.barnesandnoble.com/s/%22Timothy%20Ferriss%22?Ntk=P_key_Contributor_List)    [![Tim's Blog](https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png)  Tim's Blog](https://tim.blog/tim-ferriss-books/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test)\n\nFollow Tim:\n\n[![TW](https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png)](https://twitter.com/tferriss)\n\n[![IG](https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png)](https://www.instagram.com/timferriss/)\n\n[![YT](https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png)](https://www.youtube.com/channel/UCznv7Vf9nBdJYvBagFdAHWw)\n\n[![FB](https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png)](https://www.facebook.com/TimFerriss)\n\n[![IN](https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png)](https://www.linkedin.com/in/timferriss/)\n\n**DO NOT REPLY HERE**: Due to volume, please do not reply to this email. Sadly we are unable to read 1000+ email replies daily. To reply to Tim, please do so in the blog comments [here](https://tim.blog/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test).\n\nNo longer want these emails?  [Unsubscribe](https://unsubscribe.fourhourmail.com/gku0l36gga5hdreq00s4s5x9dv99)\n\n3​11​2 Win​dso​r R​d., Box #UNS, Austin TX 78703, United States\n\n​\n\n![](https://open.fourhourmail.com/gku0l36gga5hdreq00s4s5x9dv99)",
+      "original_url": "https://tim.blog/podcast/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/podcast/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/01/03/the-tim-ferriss-show-clips/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/the-tim-ferriss-show/id863897795"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM"
+        },
+        {
+          "type": "other",
+          "url": "https://youtube.com/timferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/?utm_source=convertkit&utm_medium=convertit&utm_campaign=footer"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/gku0l36gga5hdreq00s4s5x9dv99"
+        }
+      ]
+    }
+  ]
 }

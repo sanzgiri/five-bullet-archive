@@ -6,7 +6,151 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m learning more about",
+      "category": "other",
+      "title": "Donating Blood Changes Your Genes",
+      "creator": null,
+      "note": "From the lede paragraph: “Recent research from the Francis Crick Institute has revealed intriguing genetic adaptations in the blood stem cells of frequent blood donors, supporting the production of new, non-cancerous cells without increasing cancer risk, as reported in the journal _Blood_.” Back in [_The 4-Hour Body_](https://www.amazon.com/Hour-Body-Uncommon-Incredible-Superhuman/dp/030746363X/), I recommended regular blood donation for a few reasons mentioned in this short article. This is a [Perplexity](https://www.perplexity.ai/)\\-created synopsis curated by dailyed. Perplexity compiles and summarizes information from various online sources on a topic and creates a report that you can read, share, and even ask follow-up questions about.",
+      "original_url": "https://www.perplexity.ai/page/donating-blood-changes-your-ge-unkW2RH1TISC.LtmMwsBSQ",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.perplexity.ai/page/donating-blood-changes-your-ge-unkW2RH1TISC.LtmMwsBSQ"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Hour-Body-Uncommon-Incredible-Superhuman/dp/030746363X/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.perplexity.ai/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Tool I’m exploring",
+      "category": "other",
+      "title": "AwardTool",
+      "creator": null,
+      "note": "Hat tip to [Chris Hutchins](https://www.youtube.com/watch?v=8JOt7ExgEyM) of [_All the Hacks_](https://www.chrishutchins.com/follow/) for this recommendation. Description: “Discover the best award flight availability to maximize your points and miles.” Have random points scattered around various places that you don’t know how to use? This might help.",
+      "original_url": "https://www.awardtool.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.awardtool.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=8JOt7ExgEyM"
+        },
+        {
+          "type": "other",
+          "url": "https://www.chrishutchins.com/follow/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m excited to share",
+      "category": "other",
+      "title": "Harvard Business School Case Study: “Tim Ferriss: What Might This Look Like If It Were Easy?”",
+      "creator": null,
+      "note": "Harvard Business School (HBS) reached out last year to create a case study on my entrepreneurial journey, which tracks me from childhood to the current day. On a few levels, this is a full-circle dream come true, as one catalyst for starting my own companies was the [ELE 491 “High-Tech Entrepreneurship”](https://registrar.princeton.edu/course-offerings/course-details?courseid=002518&term=1114) class at Princeton taught by [Professor Ed Zschau](https://tim.blog/2019/08/01/ed-zschau/%20?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content). He used HBS case studies as the backbone of this class, and 20-plus years later, I _still_ have all of them gathered in a three-ring binder.  \n​  \nI owe special thanks to the two forces of nature behind this 2025 case study: [Denise Koller](https://www.linkedin.com/in/denise-koller/), a Research Associate at Harvard Business School, and [Professor Reza Satchu](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=121451), a highly accomplished serial entrepreneur, investor, philanthropist, and teacher. **The case study is roughly 40 pages, and** [**you can buy it for $11.95 here**](https://store.hbr.org/product/tim-ferriss-what-might-this-look-like-if-it-were-easy/825091)**.** I don’t earn a penny.  \n​  \nIt ended up including interviews with a bunch of my friends and mentors, and I had a lot of fun throughout the process. It culminated in participating in two classes at HBS in [Professor Satchu’s “Founder Mindset” course](https://www.linkedin.com/posts/reza-satchu_an-exciting-past-week-harvard-business-school-activity-7269383582966595585-jYD-?rcm=ACoAAAAAPIsBa2yhySEP_gcn6a21jMBYIr30UWM&utm_medium=member_desktop&utm_source=share). Below are a few excerpted paragraphs, and I elided a lot of text around the ellipses: **​  \n​**​  \n​_Tim Ferriss was sitting in his high-rise recording studio in Austin, Texas, watching cranes build a new skyline for an exploding city. He was also contemplating his own future. It was April 2024, and the entrepreneur was days away from the 10th anniversary of his wildly successful podcast, The Tim Ferriss Show. …  \n​  \nFerriss seemed to be at the top of his game \\[but\\]… He was questioning the sustainability of his business model and the industry as a whole: “When I started the podcast in 2014, it was a blue ocean. Now, flash forward ten years: everyone has a podcast. Even your grandma has a podcast. It has become a red ocean: saturated and competitive.” …  \n​  \nFerriss knew that the decisions he would make in the coming months would shape his own career and the impact he might be able to have. Industry insiders also suggested that whatever he would decide to do next might have ripple effects across the creator economy more broadly. Given the speed with which the ecosystem was changing, the window for pivoting successfully was narrowing, and he felt the growing tension. As he considered his next move, Ferriss remembered the Mark Twain quote that had guided him since his college days at Princeton: “Whenever you find yourself on the side of the majority, it’s time to pause and reflect.” …_",
+      "original_url": "https://store.hbr.org/product/tim-ferriss-what-might-this-look-like-if-it-were-easy/825091",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://store.hbr.org/product/tim-ferriss-what-might-this-look-like-if-it-were-easy/825091"
+        },
+        {
+          "type": "other",
+          "url": "https://registrar.princeton.edu/course-offerings/course-details?courseid=002518&term=1114"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/08/01/ed-zschau/%20?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.linkedin.com/in/denise-koller/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=121451"
+        },
+        {
+          "type": "other",
+          "url": "https://store.hbr.org/product/tim-ferriss-what-might-this-look-like-if-it-were-easy/825091"
+        },
+        {
+          "type": "other",
+          "url": "https://www.linkedin.com/posts/reza-satchu_an-exciting-past-week-harvard-business-school-activity-7269383582966595585-jYD-?rcm=ACoAAAAAPIsBa2yhySEP_gcn6a21jMBYIr30UWM&utm_medium=member_desktop&utm_source=share"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Questions I’m enjoying",
+      "category": "other",
+      "title": "Proust Questionnaire",
+      "creator": null,
+      "note": "Here is [the Wikipedia page](https://en.wikipedia.org/wiki/Proust_Questionnaire) for the full backstory. Want to see a fun set of answers to these questions? Check out Patti Smith’s responses [here](https://www.vanityfair.com/style/story/patti-smith-proust-questionnaire). Want more? [Grab the _Vanity Fair_ book](https://www.amazon.com/Vanity-Fairs-Proust-Questionnaire-Luminaries/dp/1605295957/).",
+      "original_url": "https://www.vanityfair.com/magazine/2000/01/01/proust-questionnaire",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.vanityfair.com/magazine/2000/01/01/proust-questionnaire"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Proust_Questionnaire"
+        },
+        {
+          "type": "other",
+          "url": "https://www.vanityfair.com/style/story/patti-smith-proust-questionnaire"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Vanity-Fairs-Proust-Questionnaire-Luminaries/dp/1605295957/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“We are what we pretend to be, so we must be careful about what we pretend to be.” ― Kurt Vonnegut, Mother Night_ (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my brand-new interview with Ev Williams, co-founder of Blogger, Twitter, Medium, and Mozi, recorded live in Austin, TX! And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": null,
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Kurt_Vonnegut",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Kurt_Vonnegut"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Mother_Night"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/B95Qz"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=VV1Y9GSFZNk"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -1,13 +1,129 @@
 {
   "schema_version": 1,
   "issue_date": "2020-01-10",
-  "subject": "5-Bullet Friday — January 10, 2020 ",
+  "subject": "5-Bullet Friday — January 10, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Having Kids",
+      "creator": "Paul Graham",
+      "note": "fourhourmail.com/c/lmun74z88amhlpvd9i0/pgfeh9h54z3n52/aHR0cHM6Ly90d2l0dGVyLmNvbS9wYXVsZw==)). Here is one of my favorite sections: “I remember perfectly well what life was like before. Well enough to miss some things a lot, like the ability to take off for some other country at a moment’s notice. That was so great. Why did I never do that? … See what I did there? The fact is, most of the freedom I had before kids, I never used. I paid for it in loneliness, but I never used it.”",
+      "original_url": "https://el2.fourhourmail.com/c/lmun74z88amhlpvd9i0/o2ikhqhlwrk2lk/aHR0cDovL3BhdWxncmFoYW0uY29tL2tpZHMuaHRtbA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhlpvd9i0/o2ikhqhlwrk2lk/aHR0cDovL3BhdWxncmFoYW0uY29tL2tpZHMuaHRtbA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhlpvd9i0/pgfeh9h54z3n52/aHR0cHM6Ly90d2l0dGVyLmNvbS9wYXVsZw=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "An animal I’m thrilled to have discovered —",
+      "category": "other",
+      "title": "The Japanese raccoon dog",
+      "creator": null,
+      "note": "I came across this while reading a book about gray wolves and other [canids](https://el2.fourhourmail.com/c/lmun74z88amhlpvd9i0/56cvh7hogmvroo/aHR0cHM6Ly93d3cubmF0aW9uYWxnZW9ncmFwaGljLmNvbS9hbmltYWxzL21hbW1hbHMvZ3JvdXAvY2FuaW5lcy1jYW5pZHMv) on New Year’s Eve. See, when I lived in Japan as an exchange student in high school, I learned that “raccoon” was _tanuki_ in Japanese. But, lo! That is not true. The raccoon we know in the US is better translated as _araiguma_ (洗熊), and the Super Mario-style _tanuki_ is, in fact, a separate species known as the Japanese raccoon DOG (?!?). On my fourth or fifth tequila tonic by this point on December 31st, I couldn’t believe my blurry little eyes. Referring to Wikipedia, it was confirmed: “also known as _tanuki_ (狸 or たぬき) in Japanese, is a subspecies of the Asian raccoon dog. … As the _tanuki_, the animal has been significant in Japanese folklore since ancient times. The legendary _tanuki_ is reputed to be mischievous and jolly, a master of disguise and shapeshifting, but somewhat gullible and absentminded.” It seems that the mythological _tanuki_ is much like the coyote of North American indigenous folklore. Hmmm…",
+      "original_url": "https://el2.fourhourmail.com/c/lmun74z88amhlpvd9i0/6gteh8h6l7km6w/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSmFwYW5lc2VfcmFjY29vbl9kb2c=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhlpvd9i0/6gteh8h6l7km6w/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSmFwYW5lc2VfcmFjY29vbl9kb2c="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhlpvd9i0/56cvh7hogmvroo/aHR0cHM6Ly93d3cubmF0aW9uYWxnZW9ncmFwaGljLmNvbS9hbmltYWxzL21hbW1hbHMvZ3JvdXAvY2FuaW5lcy1jYW5pZHMv"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching again —",
+      "category": "video",
+      "title": "Abstract: The Art of Design",
+      "creator": null,
+      "note": ", Tinker Hatfield (season 1, episode 2).** If you’ve ever wondered how the empire of Air Jordan came to be, Tinker Hatfield is a big part of the answer, and this is the story of his life and craft. Thanks to Tobi Lütke ([@tobi)](https://el2.fourhourmail.com/c/lmun74z88amhlpvd9i0/95azhnh3dpqo32/aHR0cHM6Ly90d2l0dGVyLmNvbS90b2Jp), CEO of [Shopify](https://el2.fourhourmail.com/c/lmun74z88amhlpvd9i0/nqbohvh5v38z5n/aHR0cHM6Ly93d3cuc2hvcGlmeS5jb20v), for the recommendation.",
+      "original_url": "https://el2.fourhourmail.com/c/lmun74z88amhlpvd9i0/q9s8h7h2dr7920/aHR0cHM6Ly93d3cubmV0ZmxpeC5jb20vdGl0bGUvODAwNTc4ODM=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhlpvd9i0/q9s8h7h2dr7920/aHR0cHM6Ly93d3cubmV0ZmxpeC5jb20vdGl0bGUvODAwNTc4ODM="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhlpvd9i0/95azhnh3dpqo32/aHR0cHM6Ly90d2l0dGVyLmNvbS90b2Jp"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhlpvd9i0/nqbohvh5v38z5n/aHR0cHM6Ly93d3cuc2hvcGlmeS5jb20v"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "NSFW test I found surprisingly useful —",
+      "category": "other",
+      "title": "BDSM Test: What kind of sexual deviant are you?",
+      "creator": null,
+      "note": "My girlfriend somehow found this (I know where you live, DP) and sent it to me. We had a hilarious and unexpectedly productive time comparing our results. Here’s the description: “The BDSM Test can tell you what parts of BDSM and kink you are into. It’s a fun and an educational experience for both inexperienced and experienced kinksters.” Note to anyone reading this in an office: the test is _not_ safe for work. And if you need me to tell you that after the heading, you are too hungover to make any important decisions. Take a nap and thank me later.",
+      "original_url": "https://el2.fourhourmail.com/c/lmun74z88amhlpvd9i0/wlh2hghvqw5evw/aHR0cHM6Ly9iZHNtdGVzdC5vcmcvc2VsZWN0LW1vZGU=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhlpvd9i0/wlh2hghvqw5evw/aHR0cHM6Ly9iZHNtdGVzdC5vcmcvc2VsZWN0LW1vZGU="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“What makes life worth living? No child asks itself that question. To children, life is self-evident. Life goes without saying: whether it is good or bad makes no difference. This is because children don’t see the world, don’t observe the world, don’t contemplate the world, but are so deeply immersed in the world that they don’t distinguish between it and their own selves. Not until … a distance appears between what they are and what the world is, does the question arise: what makes life worth living?” — Karl Ove Knausgård And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim [](https://el2.fourhourmail.com/c/lmun74z88amhlpvd9i0/mlf7h5h038gd0e/aHR0cHM6Ly90aW0uYmxvZy90aW0tZmVycmlzcy1ib29rcy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9zb3VyY2U9bWVkaXVtPTViZi10ZW1wbGF0ZS1oZWFkZXI=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Karl Ove Knausgård And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/lmun74z88amhlpvd9i0/0euwh9hw2do3w2/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvS2FybF9PdmVfS25hdXNnJUMzJUE1cmQ=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhlpvd9i0/0euwh9hw2do3w2/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvS2FybF9PdmVfS25hdXNnJUMzJUE1cmQ="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhlpvd9i0/v3i3hrh3opxz3e/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://files.convertkitcdn.com/assets/pictures/11125/2272828/content_Book_Header_FINAL.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhlpvd9i0/e8tph7hw70p8w5/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/lmun74z88amhlpvd9i0"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhlpvd9i0/37sphkh937oerw/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,187 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Profile I’m reading",
+      "category": "article",
+      "title": "Billionaire No More: Patagonia Founder Gives Away the Company",
+      "creator": "David Gelles",
+      "note": "(_New York Times_). I’ve loved Yvon ever since I first read [_Let My People Go Surfing: The Education of a Reluctant Businessman_](https://www.amazon.com/Let-People-Surfing-Education-Businessman-Including/dp/0143109677/) in 2005. Here are a few colorful bits from the NYT piece that make me love Yvon even more: “In some ways, the forfeiture of Patagonia is not terribly surprising coming from Mr. Chouinard. As a pioneering rock climber in California’s Yosemite Valley in the 1960s, Mr. Chouinard lived out of his car and ate damaged cans of cat food that he bought for five cents apiece. Even today, he wears raggedy old clothes, drives a beat up Subaru and splits his time between modest homes in Ventura and Jackson, Wyo. Mr. Chouinard does not own a computer or a cellphone.”",
+      "original_url": "https://www.nytimes.com/2022/09/14/climate/patagonia-climate-philanthropy-chouinard.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/2022/09/14/climate/patagonia-climate-philanthropy-chouinard.html"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/dgelles"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Let-People-Surfing-Education-Businessman-Including/dp/0143109677/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Blog posts I’m reading",
+      "category": "article",
+      "title": "The NFT Mint ‘Sweet Spot’: Data on Early Decisions",
+      "creator": "Daren Matsuoka",
+      "note": ". I’m a fan of Daren’s analysis in the NFT space. This is a great primer on some fundamental mint decisions, and the matrices are very thought-provoking. It tackles many good questions, points out some important negative correlations, and also raises a lot of good questions. This was published on 3/31/22 (the date is somewhat hidden in the URL and at the very bottom of the piece), and I hope Daren posts a further exploration of potential confounders (e.g., What’s the likelihood that 10x returns for projects with 0.5–1.0 ETH mint prices are partially or wholly a byproduct of many more projects launching in that range?) and updated market/landscape commentary. It seems really challenging to isolate variables in this space. What follows are a few wishlist questions, and I think the first one is the pink elephant in the room: How do project outcomes appear to be affected by the price/USD value of ETH at any given point in time? What new patterns can you decipher using the overall larger data set now available? How much do you think projects can bank on secondary royalties in the current conditions of a bear market, and what trends can you parse related to secondaries using a larger and more current data set? How might the piece be updated given some of the post-publication successes like [Moonbirds](https://www.moonbirds.xyz/), which set new records (plus had a 10x return on ETH for a period of months) with a 2.5 ETH mint price? If I could put in another blog post request, I would love to see something like “Testing NFT Dogma: Exceptions That Prove The Rule?,” wherein you can look at lots of questionable “rules” that get repeated often on NFT Twitter and elsewhere. For instance, “You absolutely must have a Discord” used to be gospel, but then [mfers](https://mfers.art/), [Goblintown](https://opensea.io/collection/goblintownwtf), and others showed (or did they?) that successful projects can do without them, although “successful” can be squirrely and needs to be narrowly defined. “You can’t set mint price above \\_\\_\\_ or you’ll squash secondary volume” is another that seems to have counterexamples. Sartoshi has a dogma starter list [towards the bottom of this page](https://mirror.xyz/sartoshi.eth/QukjtL1076-1SEoNJuqyc-x4Ut2v8_TocKkszo-S_nU), and despite the debate about his departure from NFT land, there are lessons to be learned. And even if the data support one of these consensus maxims, are there a handful of projects that have proven to be exceptions? Those could be worth studying, as could ultra-hyped projects whose teams “did the right things” but ended up failing, regardless. So many questions!\n\n**Related: “**[**Introducing OpenRarity**](https://mirror.xyz/openrarity.eth/-R8ZA5KCMgqtsueySlruAhB77YBX6fSnS_dT-8clZPQ)**.”** I suggest reading [this page](https://raritytools.medium.com/ranking-rarity-understanding-rarity-calculation-methods-86ceaeb9b98c) first to get [a simple, illustrated walk-through of the problem](https://raritytools.medium.com/ranking-rarity-understanding-rarity-calculation-methods-86ceaeb9b98c), then [the short FAQ here](https://www.openrarity.dev/), then the above link. It shows how something that seems simple at face value is anything but. Define thy terms, lest your decisions be defined by confusion and delusion.",
+      "original_url": "https://a16z.com/2022/03/31/nft-mint-data-early-decisions/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://a16z.com/2022/03/31/nft-mint-data-early-decisions/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/darenmatsuoka?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.moonbirds.xyz/"
+        },
+        {
+          "type": "other",
+          "url": "https://mfers.art/"
+        },
+        {
+          "type": "other",
+          "url": "https://opensea.io/collection/goblintownwtf"
+        },
+        {
+          "type": "other",
+          "url": "https://mirror.xyz/sartoshi.eth/QukjtL1076-1SEoNJuqyc-x4Ut2v8_TocKkszo-S_nU"
+        },
+        {
+          "type": "other",
+          "url": "https://mirror.xyz/openrarity.eth/-R8ZA5KCMgqtsueySlruAhB77YBX6fSnS_dT-8clZPQ"
+        },
+        {
+          "type": "other",
+          "url": "https://raritytools.medium.com/ranking-rarity-understanding-rarity-calculation-methods-86ceaeb9b98c"
+        },
+        {
+          "type": "other",
+          "url": "https://raritytools.medium.com/ranking-rarity-understanding-rarity-calculation-methods-86ceaeb9b98c"
+        },
+        {
+          "type": "other",
+          "url": "https://www.openrarity.dev/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching to temper and educate all this enthusiasm",
+      "category": "video",
+      "title": "Beanie Mania",
+      "creator": null,
+      "note": "on HBO Max_._ Thanks to [Adam Locklin](https://twitter.com/AdamLocklin/status/1570368823546548228) for the recommendation. Some people compare NFTs to [the Dutch tulip craze of the 1630s](https://en.wikipedia.org/wiki/Tulip_mania), but it’s a poor comparison for a lot of reasons. If you’re an NFT bear (get it?), a much, _much_ better analog might be Beanie Babies. From the description: “_Beanie Mania_ is a layered and riveting look at how a children’s toy spawned an unprecedented investment bubble and a frenzy of American greed. The documentary features illuminating interviews with passionate collectors, notable influencers, and company insiders.” At the very least, you gotta [watch the trailer on YouTube](https://www.youtube.com/watch?v=BlfI6uuv-48). **If you don’t have, or don’t want, HBO Max, “**[**How The Beanie Babies Frenzy Collapsed**](https://www.youtube.com/watch?v=OuD0h5I-NrQ)**,” an 11-minute YouTube video by** _**Business Insider**_**, is excellent and worth the watch. And if you don’t have 11 minutes because you have 107 priorities, here’s** [**a musical hairband summary in three minutes and 39 seconds**](https://www.youtube.com/watch?v=GqxaCG9PBOs)**.**",
+      "original_url": "https://www.hbomax.com/feature/urn:hbo:feature:GYbOeyAqsY4qlwgEAAAGH",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.hbomax.com/feature/urn:hbo:feature:GYbOeyAqsY4qlwgEAAAGH"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/AdamLocklin/status/1570368823546548228"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Tulip_mania"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=BlfI6uuv-48"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=OuD0h5I-NrQ"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=GqxaCG9PBOs"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Podcast episode I’m listening to",
+      "category": "podcast",
+      "title": "Ep. 207: “Getting Free with Karma Yoga”",
+      "creator": null,
+      "note": "([Apple Podcasts](https://podcasts.apple.com/us/podcast/ep-207-getting-free-with-karma-yoga-part-1/id518366323?i=1000577109555), [Spotify](https://open.spotify.com/episode/2b7xVInEINPWcN1C7KUdAD?si=yCrGopKNR3eDrF_oiub1Nw)) on the [_Ram Dass Here And Now_](https://beherenownetwork.com/category/ram-dass/) podcast. This was sent to me by a close friend, and it is exceptional. I was extremely skeptical given the title of the episode. Now that I’ve finished listening, it could just as easily be titled “Finding Freedom Through The Everyday.” The host intro is roughly four minutes long, if you want to skip to the meat. [Ram Dass](https://en.wikipedia.org/wiki/Ram_Dass) also takes a little while to warm up, but it all adds up to a wonderfully useful and sometimes laugh-out-loud funny recording. I will be listening to this one again.",
+      "original_url": "https://beherenownetwork.com/ram-dass-here-and-now-ep-207-getting-free-with-karma-yoga-part-1/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://beherenownetwork.com/ram-dass-here-and-now-ep-207-getting-free-with-karma-yoga-part-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/ep-207-getting-free-with-karma-yoga-part-1/id518366323?i=1000577109555"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/2b7xVInEINPWcN1C7KUdAD?si=yCrGopKNR3eDrF_oiub1Nw"
+        },
+        {
+          "type": "other",
+          "url": "https://beherenownetwork.com/category/ram-dass/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Ram_Dass"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“There’s no difference between a pessimist who says, ‘Oh, it’s hopeless, so don’t bother doing anything,’ and an optimist who says, ‘Don’t bother doing anything, it’s going to turn out fine anyway.’ Either way, nothing happens.” — Yvon Chouinard You can complement this edition of 5-Bullet Friday with my conversation with Chris Dixon and Naval Ravikant on the wonders of Web3 as well as with my interviews with refreshingly unconventional entrepreneurs, including Basecamp co-founder David Heinemeier Hansson, billionaire investor Ray Dalio, and Ricardo Semler, author of The Seven-Day Weekend_. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Yvon Chouinard You can complement this edition of 5-Bullet Friday with my conversation with Chris Dixon and Naval Ravikant on the wonders of Web3 as well as with my interviews with refreshingly unconventional entrepreneurs, including Basecamp co-founder David Heinemeier Hansson, billionaire investor Ray Dalio, and Ricardo Semler, author of The Seven-Day Weekend_. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Yvon_Chouinard",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Yvon_Chouinard"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/10/28/chris-dixon-naval-ravikant/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2016/10/27/david-heinemeier-hansson/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/09/13/ray-dalio/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/03/19/ricardo-semler/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/The_Seven-Day_Weekend"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,166 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "What You Want",
+      "creator": "Angèle, feat",
+      "note": ", feat. [Justice](https://www.instagram.com/etjusticepourtous/?hl=en) ([YouTube](https://www.youtube.com/watch?v=e5s8MdtnbMM), [Spotify](https://open.spotify.com/track/7J4dPn4Xg9Op0e8N2tjqkX?si=-lB2GKKmSjq7NIMSjmRXIQ), [Apple Music](https://music.apple.com/us/song/what-you-want/1874973639)). This brand-new track is a collaboration between Belgian singer-songwriter Angèle and Grammy-winning, French electronic music duo Justice. The one and only time I saw Justice perform, at the jaw-dropping Red Rocks Amphitheatre in Colorado, it was undisputedly the best concert experience of my life. For the track that started it all for me, check out “Genesis” ([Original](https://open.spotify.com/track/4wSmqFg31t6LsQWtzYAJob) first, then “[Genesis x Phantom (WWW)](https://open.spotify.com/track/7GTZa1773faSYybRdGDIjk)”).",
+      "original_url": "https://www.youtube.com/watch?v=e5s8MdtnbMM",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=e5s8MdtnbMM"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/angele_vl"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/etjusticepourtous/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=e5s8MdtnbMM"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/7J4dPn4Xg9Op0e8N2tjqkX?si=-lB2GKKmSjq7NIMSjmRXIQ"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/song/what-you-want/1874973639"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/4wSmqFg31t6LsQWtzYAJob"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/7GTZa1773faSYybRdGDIjk"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m enjoying",
+      "category": "other",
+      "title": "Lost Pines Light Roast Yaupon Tea — loose leaf, 2 oz.",
+      "creator": null,
+      "note": "Yaupon holly is one of only two caffeinated plants native to North America. Though technically not a true tea (it’s not _camellia sinensis_), it was widely consumed by Indigenous peoples long before European contact. It has been enjoying a revival, especially in Texas. Yaupon’s caffeine content is similar to green tea, and it also contains theobromine, which some of you may recognize from cacao / dark chocolate. Just as with yerba mate, this combination gives me a smoother, less anxious energy curve than coffee. It’s very neutral and not bitter at all. Despite its unfortunate Latin name, _Ilex vomitoria_, I’m enjoying experimenting with it.",
+      "original_url": "https://www.amazon.com/Lost-Pines-Yaupon-Tea-caffeinated/dp/B0753957BH/?tag=offsitoftimfe-20",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Lost-Pines-Yaupon-Tea-caffeinated/dp/B0753957BH/?tag=offsitoftimfe-20"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m sharing",
+      "category": "other",
+      "title": "America's biotech edge is slipping to China. Here's how we take it back.",
+      "creator": "Jacob Becraft, co-founder and CEO of Strand Therapeutics",
+      "note": ", co-founder and CEO of [Strand Therapeutics](https://www.strandtx.com/). [Click here](https://archive.is/gM4sF) if you are not able to read the article at the above link.  \n​  \nThis op-ed is a short and thoughtful piece that ties into the future of medicine, global competition, and supply chains in science. It covers a critical blind spot for the US, and it’s important to raise awareness. China is very, very good at 4D geopolitical chess.  \n​  \nIf you know someone who works in policy or national security, please do forward this to them.",
+      "original_url": "https://www.washingtonpost.com/opinions/2026/03/05/offshore-china-clinical-trials-biotechnology/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.washingtonpost.com/opinions/2026/03/05/offshore-china-clinical-trials-biotechnology/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.strandtx.com/about"
+        },
+        {
+          "type": "other",
+          "url": "https://www.strandtx.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.is/gM4sF"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Profile I’m reading",
+      "category": "article",
+      "title": "Tech legend Stewart Brand on Musk, Bezos and his extraordinary life: ‘We don’t need to passively accept our fate’",
+      "creator": "Steve Rose",
+      "note": "(_The Guardian_). In [my podcast conversation with Stewart](https://tim.blog/2017/11/21/stewart-brand/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit), there is a good reason I called him “the polymath of polymaths.” And [Kevin Kelly](https://www.youtube.com/watch?v=eZ3Y_rjKvIE), who I once called “the real-life most interesting man in the world,” insists that label belongs to Stewart.  \n​  \nHere are some excerpts from the above profile to help paint a picture:  \n​  \n​_\\[Stewart\\] has had a lifelong fascination with the future, and anything that could get us there faster, from space travel to psychedelic drugs to computing. In fact, he was arguably the bridge between the San Francisco counterculture of the 60s and present-day Silicon Valley: in his commencement speech at Stanford University in 2005, Steve Jobs eulogised the Whole Earth Catalog and Brand’s philosophy, and echoed its farewell mantra: “Stay hungry. Stay foolish.”  \n​  \nYou could say that Brand has also lived big and long. He is now 87 years old, in the final chapters of an eventful and adventurous life that has crossed paths with some of the most consequential events and figures of his era. He has been a writer, an editor, a publisher, a soldier, a photojournalist, an LSD evangelist, an events organiser, a future-planning consultant, even a government adviser…_​  \n​  \nOh, and [when I interviewed him](https://tim.blog/2017/11/21/stewart-brand/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit), he was 78 years old and still doing CrossFit twice a week.",
+      "original_url": "https://www.theguardian.com/technology/2026/feb/25/tech-legend-stewart-brand-on-musk-bezos-and-his-extraordinary-life-we-dont-need-to-passively-accept-our-fate",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.theguardian.com/technology/2026/feb/25/tech-legend-stewart-brand-on-musk-bezos-and-his-extraordinary-life-we-dont-need-to-passively-accept-our-fate"
+        },
+        {
+          "type": "other",
+          "url": "https://www.theguardian.com/profile/steverose"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/11/21/stewart-brand/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=eZ3Y_rjKvIE"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/11/21/stewart-brand/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "What I’m thinking a lot about",
+      "category": "other",
+      "title": "The Self-Help Trap: What 20+ Years of ‘Optimizing’ Has Taught Me",
+      "creator": null,
+      "note": null,
+      "original_url": "https://tim.blog/2026/03/04/the-self-help-trap/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2026/03/04/the-self-help-trap/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The luminous and shocking beauty of the everyday is something I try to remain alert to, if only as an antidote to the chronic cynicism and disenchantment that seems to surround everything, these days. It tells me that, despite how debased or corrupt we are told humanity is and how degraded the world has become, it just keeps on being beautiful.” — Nick Cave (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my brand-new interview with the New York Times bestselling author of Good to Great and Built to Last_, Jim Collins. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Nick Cave",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Nick_Cave",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Nick_Cave"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/2cw06"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/03/04/jim-collins-what-to-make-of-a-life/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

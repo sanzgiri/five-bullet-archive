@@ -6,7 +6,171 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m exploring for problem-solving",
+      "category": "other",
+      "title": "Six Thinking Hats",
+      "creator": null,
+      "note": "and [_**Lateral Thinking**_](https://www.amazon.com/Lateral-Thinking-Creativity-Step/dp/0060903252/) by [Edward de Bono](https://en.wikipedia.org/wiki/Edward_de_Bono). I read these long ago and am revisiting the concepts and practices. The Wikipedia pages for both give a good blended introduction: [Six Thinking Hats](https://en.wikipedia.org/wiki/Six_Thinking_Hats) and [Lateral thinking](https://en.wikipedia.org/wiki/Lateral_thinking). For personal work, these pair well with **“**[**The Drama Triangle**](https://youtu.be/dQbxd3kJ78g?si=AefiB0hAZ2L36pY9)**,”** as outlined by [Jim Dethmer](https://tim.blog/2020/05/18/jim-dethmer/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) and [Diana Chapman](https://tim.blog/2021/10/06/diana-chapman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) of the Conscious Leadership Group.",
+      "original_url": "https://www.amazon.com/Six-Thinking-Hats-Edward-Bono/dp/0316178314/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Six-Thinking-Hats-Edward-Bono/dp/0316178314/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Lateral-Thinking-Creativity-Step/dp/0060903252/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Edward_de_Bono"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Six_Thinking_Hats"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Lateral_thinking"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/dQbxd3kJ78g?si=AefiB0hAZ2L36pY9"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/05/18/jim-dethmer/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/10/06/diana-chapman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Audiobook I’m loving",
+      "category": "audiobook",
+      "title": "The Blade Itself",
+      "creator": "Joe Abercrombie",
+      "note": "([@LordGrimdark](https://twitter.com/LordGrimdark)). Huge thanks to the legendary [Tyler Jacobson](http://www.tylerjacobsonart.com/) ([@tylerjacobsonart](https://www.instagram.com/tylerjacobsonart/)) for first recommending this book to me. In a stroke of good fortune, I happened to choose the audiobook version, and the performance from [Steven Pacey](https://www.audible.com/search?searchNarrator=Steven+Pacey) has absolutely blown my mind. He’s one of the best narrators I’ve ever heard, and I’ve been listening to this trilogy (I’m now on [the second volume](https://www.audible.com/pd/Before-They-Are-Hanged-Audiobook/B014LL69TO)) whenever I have even five minutes free. Brushing teeth? Washing dishes? Drifting off to sleep? I’ll grab any chance I can to listen. Here’s part of the official description: “Murderous conspiracies rise to the surface, old scores are ready to be settled, and the line between hero and villain is sharp enough to draw blood. Unpredictable, compelling, wickedly funny, and packed with unforgettable characters, _The Blade Itself_ is noir fantasy with a real cutting edge.”",
+      "original_url": "https://www.amazon.com/The-Blade-Itself-Joe-Abercrombie-audiobook/dp/B014LLTNGK/ref=sr_1_1?crid=S39M0ZF2GMV&keywords=The+Blade+Itself&qid=1694108777&s=audible&sprefix=the+blade+itself%2Caudible%2C144&sr=1-1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/The-Blade-Itself-Joe-Abercrombie-audiobook/dp/B014LLTNGK/ref=sr_1_1?crid=S39M0ZF2GMV&keywords=The+Blade+Itself&qid=1694108777&s=audible&sprefix=the+blade+itself%2Caudible%2C144&sr=1-1"
+        },
+        {
+          "type": "other",
+          "url": "https://joeabercrombie.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/LordGrimdark"
+        },
+        {
+          "type": "other",
+          "url": "http://www.tylerjacobsonart.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/tylerjacobsonart/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.audible.com/search?searchNarrator=Steven+Pacey"
+        },
+        {
+          "type": "other",
+          "url": "https://www.audible.com/pd/Before-They-Are-Hanged-Audiobook/B014LL69TO"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m celebrating",
+      "category": "other",
+      "title": "MDMA Therapy Inches Closer to Approval",
+      "creator": null,
+      "note": "(_The New York Times_). [Rachel Nuwer](https://tim.blog/2023/05/30/mdma-autism-social-anxiety/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) writes: “MDMA-assisted therapy seems to be effective in reducing symptoms of post-traumatic stress disorder, according to a study published on Thursday. The research is the final trial conducted by MAPS Public Benefit Corporation, a company that is developing prescription psychedelics. It plans to submit the results to the Food and Drug Administration as part of an application for approval to market MDMA, the psychedelic drug, as a treatment for PTSD, when paired with talk therapy.”  \n​  \nAdditional reading in _Nature_: “[MDMA-assisted therapy for moderate to severe PTSD: a randomized, placebo-controlled phase 3 trial](https://www.nature.com/articles/s41591-023-02565-4).”",
+      "original_url": "https://www.nytimes.com/2023/09/14/health/mdma-ptsd-psychedelics.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/2023/09/14/health/mdma-ptsd-psychedelics.html"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/05/30/mdma-autism-social-anxiety/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nature.com/articles/s41591-023-02565-4"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m watching to prepare for the Dune: Part Two premiere",
+      "category": "video",
+      "title": "Timothée Chalamet replaced by Elmo in Dune",
+      "creator": null,
+      "note": null,
+      "original_url": "https://www.youtube.com/watch?v=EHK5fBm1YWk",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=EHK5fBm1YWk"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Always laugh when you can. It is cheap medicine.” — Attributed to Lord Byron (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with this guest post on MDMA for autism and social anxiety by award-winning journalist Rachel Nuwer; my interviews with the authors of The 15 Commitments of Conscious Leadership_, Jim Dethmer and Diana Chapman; and my recent conversation on how to be happy with bestselling author Arthur C. Brooks. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Attributed to Lord Byron",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Lord_Byron",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Lord_Byron"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/fJzae"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/05/30/mdma-autism-social-anxiety/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/05/30/mdma-autism-social-anxiety/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/05/18/jim-dethmer/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/10/06/diana-chapman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/09/11/arthur-c-brooks/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

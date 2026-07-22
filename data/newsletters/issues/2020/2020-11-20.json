@@ -7,7 +7,115 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m re-reading —",
+      "category": "article",
+      "title": "The Glorious, Almost-Disconnected Boredom of My Walk in Japan",
+      "creator": "Craig Mod",
+      "note": "([@craigmod](https://twitter.com/craigmod)). This remains one of my favorite pieces ever published by _WIRED_. I printed it out more than a year ago and reread it often, continuing to highlight new things. If you feel overwhelmed by the noise, or if you simply fantasize about being a stranger in a strange land, this is a wonderful transporter. Told through the lens of an ultra-marathon walk through Japan, Craig’s story contains a lot of gems, including paragraphs like these:  \n  \n_I have configured servers, written code, built web pages, helped design products used by millions of people. I am firmly in the camp that believes technology is generally bending the world in a positive direction. Yet, for me, Twitter foments neurosis, Facebook sadness, Google News a sense of foreboding. Instagram turns me covetous. All of them make me want to do it—whatever “it” may be—for the likes, the comments. I can’t help but feel that I am the worst version of myself, being performative on a very short, very depressing timeline. A timeline of seconds.  \n  \n_...  \n  \n_In the context of a walk like this, “boredom” is a goal, the antipode of mindless connectivity, constant stimulation, anger and dissatisfaction. I put “boredom” in quotes because the boredom I’m talking about fosters a heightened sense of presence. To be “bored” is to be free of distraction._",
+      "original_url": "https://www.wired.com/story/six-weeks-100s-miles-hours-glorious-boredom-japan/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.wired.com/story/six-weeks-100s-miles-hours-glorious-boredom-japan/"
+        },
+        {
+          "type": "other",
+          "url": "https://craigmod.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/craigmod"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Short video I’m watching —",
+      "category": "video",
+      "title": "Alive Inside: A Story of Music & Memory",
+      "creator": null,
+      "note": "This clip will amaze you. Watch the whole thing, as the post-music conversation towards the end is the most mind-blowing.",
+      "original_url": "https://youtu.be/8HLEr-zP3fc",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/8HLEr-zP3fc"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Documentary I’m watching —",
+      "category": "video",
+      "title": "Crip Camp: A Disability Revolution",
+      "creator": null,
+      "note": "This film was just what I needed after a rough day. Short description: “A groundbreaking summer camp galvanizes a group of teens with disabilities to help build a movement, forging a new path toward greater equality.” It has [100% on Rotten Tomatoes](https://www.rottentomatoes.com/m/crip_camp_a_disability_revolution) and [won the Sundance Film Festival’s Audience Award](https://en.wikipedia.org/wiki/Crip_Camp#Awards_and_nominations) earlier this year. You can [find the trailer here](https://www.youtube.com/watch?v=XRrIs22plz0).",
+      "original_url": "https://www.netflix.com/title/81001496",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.netflix.com/title/81001496"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rottentomatoes.com/m/crip_camp_a_disability_revolution"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Crip_Camp#Awards_and_nominations"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=XRrIs22plz0"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "News I’m celebrating —",
+      "category": "other",
+      "title": "Voters approve Colorado’s unprecedented wolf reintroduction measure",
+      "creator": "Bruce Finley for The Denver Post_",
+      "note": "for _The Denver Post_. “Gray wolves gained a hard-fought path to ‘paws on the ground’ in Colorado with the approval Thursday of a controversial reintroduction measure, the first time a state’s voters have forced their government to re-introduce an imperiled species.” [Collectively, listeners of the podcast donated $110,000+](https://www.instagram.com/p/B1uEBeRng-X/?utm_source=ig_embed) to wolf conservation to match my own $100K, and each of you should be very proud. It was an incredible showing, and it quite possibly made all the difference, as the ballot measure passed with roughly 50.91% of votes, or a winning vote margin of 56,000–57,000 votes. This is a major step forward towards reestablishing a major carnivore at a continental scale, which has ecological benefits far beyond wolves. As renowned biologist Dr. L. D. Mech has put it, “Re-establishing wolves in western Colorado could connect the entire North American wolf population from Minnesota, Wisconsin and Michigan through Canada and Alaska, down the Rocky Mountains into Mexico. It would be difficult to overestimate the biological and conservation value of this achievement.”",
+      "original_url": "https://www.denverpost.com/2020/11/05/colorado-proposition-114-election-results-gray-wolves-final-results/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.denverpost.com/2020/11/05/colorado-proposition-114-election-results-gray-wolves-final-results/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/finleybruce"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/B1uEBeRng-X/?utm_source=ig_embed"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“The largest part of what we call ‘personality’ is determined by how we’ve opted to defend ourselves against anxiety and sadness.”– Alain de Botton And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5bulletfriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": null,
+      "note": null,
+      "original_url": "https://tim.blog/2015/11/10/alain-de-botton/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2015/11/10/alain-de-botton/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

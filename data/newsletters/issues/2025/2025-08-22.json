@@ -6,7 +6,181 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Interview I’m revisiting",
+      "category": "other",
+      "title": "My Next Guest with David Letterman and Shah Rukh Khan",
+      "creator": null,
+      "note": "If you know who [Shah Rukh Khan](https://www.instagram.com/iamsrk) is, you’ll want to see this. If you _don’t_ know who Shah Rukh Khan is, you will _especially_ want to see this. The scale and charm of everything about SRK is truly mind-boggling. He’s a consummate pro.",
+      "original_url": "https://www.netflix.com/title/81121023",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.netflix.com/title/81121023"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/iamsrk"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Blog post I’m reading",
+      "category": "article",
+      "title": "Everything I Know about Self-Publishing",
+      "creator": "Kevin Kelly",
+      "note": ". Kevin is the founding editor of _WIRED_ magazine and a listener favorite on the podcast. His latest blog post on self-publishing covers practically everything: going the traditional route, on-demand, digital, distribution, crowd-funding, promotion, subscriptions, and more. Here’s the introduction:  \n​  \n​_In my professional life, I’ve had several bestselling books published by New York publishers, as well as many other titles that sold modestly. I have also self-published a bunch of books, including one bestseller on Amazon and two massive hit Kickstarter-funded books. I have had lots of foreign edition books released by other publishers around the world, including bestsellers in those countries. Every year I also publish a few private books to give away. I’ve contracted books to be printed in the US and overseas. I’ve sold big coffee-table masterpieces and tiny text booklets. Together with partners, I run some notable newsletters, a very popular website, and a podcast with 420 episodes. I accumulated followers on various platforms. I’m often asked for advice about how to go about publishing today, with all its options, so here is everything I have learned about publishing and self-publishing so far._",
+      "original_url": "https://kk.org/thetechnium/everything-i-know-about-self-publishing/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://kk.org/thetechnium/everything-i-know-about-self-publishing/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Short audiobook I’m loving",
+      "category": "audiobook",
+      "title": "Charlie and the Chocolate Factory",
+      "creator": "Roald Dahl, read by Douglas Hodge",
+      "note": ", read by [Douglas Hodge](https://www.audible.com/search?creativeId=0d6f6720-f41c-457e-a42b-8c8dceb62f2c&pageLoadId=JCiPndDNMBFnDVK6&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=5JKCZDTA1MTK2RTDEHPG&plink=aBkSnUOoyF18RNH5&ref=a_search_c3_lNarrator_1_1_1&ref_pageloadid=not_applicable&searchNarrator=Douglas%20Hodge). After finishing [_When Breath Becomes Air_](https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi-ebook/dp/B00XSSYR50?ref_=ast_author_mpb) by Paul Kalanithi, I needed a light palate cleanser. This is what I chose.  \n​  \nDid you know that, in addition to selling something like 300 million copies of his children’s books worldwide, Roald Dahl was an intelligence officer and ace fighter pilot? But back to the book, it only struck me in the mountains of Montana two weeks ago, as friends and I were trying to remember the brat girl’s name from _Charlie and the Chocolate Factory_ (Veruca Salt), that I was flying blind. I have watched a lot of films based on Roald’s books ([_Willy Wonka & the Chocolate Factory_](https://www.amazon.com/Willy-Wonka-Chocolate-Factory-Wilder/dp/B002YNGNG6/)_,_ [_The BFG_](https://www.amazon.com/BFG-Theatrical-Version-Mark-Rylance/dp/B01HQUVBUE/)_,_ [_James and the Giant Peach_](https://www.primevideo.com/dp/amzn1.dv.gti.2eb7db51-193c-6a68-6035-b612d0650419?autoplay=0&ref_=atv_cf_strg_wb), [_Fantastic Mr. Fox_](https://www.amazon.com/gp/video/detail/B00BUUL4SG/ref=atv_sr_fle_c_sr4e8ffb_1_1_1?pageTypeId=B00378VGGO&pageTypeIdSource=ASIN&qid=1755906318545&sr=1-1)_,_ etc.), but I haven’t actually read the books that started it all! So I started with Charlie, and the voice performance by Douglas Hodge made it a joy to listen to.",
+      "original_url": "https://www.audible.com/pd/Charlie-and-the-Chocolate-Factory-Audiobook/B00D8J5IMU",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.audible.com/pd/Charlie-and-the-Chocolate-Factory-Audiobook/B00D8J5IMU"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Roald_Dahl"
+        },
+        {
+          "type": "other",
+          "url": "https://www.audible.com/search?creativeId=0d6f6720-f41c-457e-a42b-8c8dceb62f2c&pageLoadId=JCiPndDNMBFnDVK6&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=5JKCZDTA1MTK2RTDEHPG&plink=aBkSnUOoyF18RNH5&ref=a_search_c3_lNarrator_1_1_1&ref_pageloadid=not_applicable&searchNarrator=Douglas%20Hodge"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi-ebook/dp/B00XSSYR50?ref_=ast_author_mpb"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Willy-Wonka-Chocolate-Factory-Wilder/dp/B002YNGNG6/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/BFG-Theatrical-Version-Mark-Rylance/dp/B01HQUVBUE/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.primevideo.com/dp/amzn1.dv.gti.2eb7db51-193c-6a68-6035-b612d0650419?autoplay=0&ref_=atv_cf_strg_wb"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/gp/video/detail/B00BUUL4SG/ref=atv_sr_fle_c_sr4e8ffb_1_1_1?pageTypeId=B00378VGGO&pageTypeIdSource=ASIN&qid=1755906318545&sr=1-1"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Science I’m tracking closely",
+      "category": "music",
+      "title": "Why Mitochondria Are More Like a Motherboard Than the Powerhouse of the Cell",
+      "creator": null,
+      "note": "(_Scientific American_). Alternate link: [https://archive.is/OiSlu](https://archive.is/OiSlu). From the article:  \n​  \n​_All well and good, you may think. What does all this mean for my health or how long I’m going to live?  \n​  \nThe short answer is that it may have everything to do with human health. Diabetes, neurodegenerative conditions, cancer and even mental health illnesses are all emerging as metabolic disorders involving malfunctioning mitochondria. And these findings are indicating new routes for intervention.  \n​  \n​_...  \n​  \n​_When cells are injured or stressed, they may leak mtDNA into the cell’s interior, the cytoplasm, or even into the blood. Along with Caroline Trumpff of Columbia, Anna Marsland and Brett Kaufman of the University of Pittsburgh, and other co-workers, I found that mental stress induced by having to speak in public for five minutes increased the amount of free-floating mtDNA in the blood. People in intensive care units who are grievously ill tend to have very high levels of mtDNA in their blood. Because mtDNA rings resemble bacterial DNA, immune cells see them as pathogens and mount an attack that can develop into inflammation. And inflammation, clinicians know well, is linked to the onset and progression of a host of chronic health conditions \\[including depression\\]._",
+      "original_url": "https://www.scientificamerican.com/article/why-mitochondria-are-more-like-a-motherboard-than-the-powerhouse-of-the-cell/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.scientificamerican.com/article/why-mitochondria-are-more-like-a-motherboard-than-the-powerhouse-of-the-cell/"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.is/OiSlu"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Device I’m using for anti-inflammation and tissue decongestion",
+      "category": "other",
+      "title": "Marc Pro | Recovery Tool for Sore Muscles & Pain Relief",
+      "creator": null,
+      "note": "Kelly Starrett ([@thereadystate](https://www.instagram.com/thereadystate/?hl=en)) of [The Ready State](https://thereadystate.com/) originally recommended the Marc Pro to me for decreasing swelling after a snowboarding accident years ago. Or maybe it was when he tricked me into a 280-mile mountain bike ride that he promised would be “like a beach cruiser in Santa Monica”? Either way, it works, and both he and a top MLB physio and performance coach recommended I use it for hours a day after my elbow surgery this week.",
+      "original_url": "https://marcpro.com/product/marc-pro/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://marcpro.com/product/marc-pro/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/thereadystate/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://thereadystate.com/"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Reviews I’m reading",
+      "category": "book",
+      "title": "COYOTE",
+      "creator": null,
+      "note": "game review on Amazon (and elsewhere). Thank you all SO much for the kind words, and I _still_ have a lot of down time! If you got the game on Amazon and played it—whether you loved or hated it—could you please take 60 seconds and leave a review [by clicking here](https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/#averageCustomerReviewsAnchor)? I’ll read all of them this weekend.",
+      "original_url": "https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/#averageCustomerReviewsAnchor",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/#averageCustomerReviewsAnchor"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/#averageCustomerReviewsAnchor"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "section": "Book highlight I’m pondering",
+      "category": "book",
+      "title": "Dennis McKenna",
+      "creator": null,
+      "note": "; more often than not, they are about experiencing the here and now in a very intense way.”  \n​**— [Dennis McKenna](https://tim.blog/2021/07/21/dennis-mckenna/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit), [_The Brotherhood of the Screaming Abyss_](https://www.amazon.com/Brotherhood-Screaming-Abyss-Terrence-McKenna/dp/1957869011/)  \n([Click here to share on X](https://ctt.ec/yI4M4))\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [my brand-new interview with Dr. Jeffrey Goldberg](https://www.youtube.com/watch?v=4VpA3Z2arlw) on cutting-edge science for eye health, red light therapy, and the future of eyesight restoration.  \n​  \nAnd, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
+      "original_url": "https://tim.blog/2021/07/21/dennis-mckenna/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2021/07/21/dennis-mckenna/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Brotherhood-Screaming-Abyss-Terrence-McKenna/dp/1957869011/"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/yI4M4"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=4VpA3Z2arlw"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

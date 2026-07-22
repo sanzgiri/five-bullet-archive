@@ -1,13 +1,196 @@
 {
   "schema_version": 1,
   "issue_date": "2020-04-24",
-  "subject": "5-Bullet Friday — April 24, 2020 ",
+  "subject": "5-Bullet Friday — April 24, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Coming of Age in a Mausoleum",
+      "creator": "George Dawes Green",
+      "note": ". This is one of many gems I found in [_The Moth Presents All These Wonders: True Stories about Facing the Unknown_](https://el2.fourhourmail.com/c/4zup485rraehg0plgun/26c2hohemmloz3/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Nb3RoLVByZXNlbnRzLUFsbC1UaGVzZS1Xb25kZXJzLWVib29rL2RwL0IwMUhMMUNFNUUvcmVmPXNyXzFfMT9kY2hpbGQ9MSZrZXl3b3Jkcz1hbGwrdGhlc2Urd29uZGVycyZxaWQ9MTU4NzI0MjY3OSZzcj04LTE=), which has a permanent spot on my coffee table. Hat tip to The Moth ([@TheMoth](https://el2.fourhourmail.com/c/4zup485rraehg0plgun/g0snh5hkqqgz56/aHR0cHM6Ly90d2l0dGVyLmNvbS9UaGVNb3Ro)), Neil Gaiman ([@neilhimself](https://el2.fourhourmail.com/c/4zup485rraehg0plgun/kgamh6h3xxz9q4/aHR0cHM6Ly90d2l0dGVyLmNvbS9uZWlsaGltc2VsZg==)), Catherine Burns ([@burnzieny](https://el2.fourhourmail.com/c/4zup485rraehg0plgun/2xb2hohemmlozl/aHR0cHM6Ly90d2l0dGVyLmNvbS9idXJuemllbnk=)), and all the amazing contributors.",
+      "original_url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/xvfph6hlqqk76n/aHR0cHM6Ly9wbGF5ZXIudGhlbW90aC5vcmcvIy8_YWN0aW9uVHlwZT1BRERfQU5EX1BMQVkmc3RvcnlJZD0yNzI=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/xvfph6hlqqk76n/aHR0cHM6Ly9wbGF5ZXIudGhlbW90aC5vcmcvIy8_YWN0aW9uVHlwZT1BRERfQU5EX1BMQVkmc3RvcnlJZD0yNzI="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/ketmh6h3xxz9ql/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvR2VvcmdlX0Rhd2VzX0dyZWVu"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/26c2hohemmloz3/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Nb3RoLVByZXNlbnRzLUFsbC1UaGVzZS1Xb25kZXJzLWVib29rL2RwL0IwMUhMMUNFNUUvcmVmPXNyXzFfMT9kY2hpbGQ9MSZrZXl3b3Jkcz1hbGwrdGhlc2Urd29uZGVycyZxaWQ9MTU4NzI0MjY3OSZzcj04LTE="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/g0snh5hkqqgz56/aHR0cHM6Ly90d2l0dGVyLmNvbS9UaGVNb3Ro"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/kgamh6h3xxz9q4/aHR0cHM6Ly90d2l0dGVyLmNvbS9uZWlsaGltc2VsZg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/2xb2hohemmlozl/aHR0cHM6Ly90d2l0dGVyLmNvbS9idXJuemllbnk="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m putting on nearly everything —",
+      "category": "other",
+      "title": "Yellowbird’s habanero sauce",
+      "creator": null,
+      "note": "This stuff is magical and crafted right in my backyard of Austin.",
+      "original_url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/g7hnh5hkqqgz5r/aHR0cHM6Ly93d3cueWVsbG93YmlyZGZvb2RzLmNvbS9jb2xsZWN0aW9ucy9oYWJhbmVyby9wcm9kdWN0cy9vcmdhbmljLWhhYmFuZXJvLWNvbmRpbWVudA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/g7hnh5hkqqgz5r/aHR0cHM6Ly93d3cueWVsbG93YmlyZGZvb2RzLmNvbS9jb2xsZWN0aW9ucy9oYWJhbmVyby9wcm9kdWN0cy9vcmdhbmljLWhhYmFuZXJvLWNvbmRpbWVudA=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Video I’m watching —",
+      "category": "video",
+      "title": "What Representing Men in Divorce Taught Me about Fatherhood (TEDxUniversityofNevada)",
+      "creator": null,
+      "note": "](https://el2.fourhourmail.com/c/4zup485rraehg0plgun/3zuphkhnppxdlm/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1SbFN3c0UyMm5YMA==)** by attorney [Marilyn York](https://el2.fourhourmail.com/c/4zup485rraehg0plgun/42ivhehnxxw2e8/aHR0cDovL3d3dy5tYXJpbHlueW9yay5uZXQv) ([@themarilynyork](https://el2.fourhourmail.com/c/4zup485rraehg0plgun/rlf8hohe66k5rr/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3RoZW1hcmlseW55b3JrLw==)), who owns a men’s rights, family law firm in Nevada, established in 2001. This opened my eyes quite a bit. If you find it heavy, [this video](https://el2.fourhourmail.com/c/4zup485rraehg0plgun/vet3hrhdwwmk7z/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL25lZnRhbGkuZXNwaW5vemFjdXRpL3ZpZGVvcy8yMDAzNzY0NzEzMDkwMTM2Lw==) and the next bullet correct for that...",
+      "original_url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/3zuphkhnppxdlm/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1SbFN3c0UyMm5YMA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/3zuphkhnppxdlm/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1SbFN3c0UyMm5YMA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/42ivhehnxxw2e8/aHR0cDovL3d3dy5tYXJpbHlueW9yay5uZXQv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/rlf8hohe66k5rr/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3RoZW1hcmlseW55b3JrLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/vet3hrhdwwmk7z/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL25lZnRhbGkuZXNwaW5vemFjdXRpL3ZpZGVvcy8yMDAzNzY0NzEzMDkwMTM2Lw=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Livestream event this Saturday that I’m looking forward to —",
+      "category": "other",
+      "title": "The (virtual) Universe in Verse 2020",
+      "creator": null,
+      "note": "Universe in Verse 2020**](https://el2.fourhourmail.com/c/4zup485rraehg0plgun/m8c7h5h7442np4/aHR0cHM6Ly92aW1lby5jb20vNDA5NTkxNTU3), hosted by Maria Popova ([@brainpicker](https://el2.fourhourmail.com/c/4zup485rraehg0plgun/e6sph7h2rrmngd/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9icmFpbnBpY2tlci8_aGw9ZW4=)). You can find more information about the event [here](https://el2.fourhourmail.com/c/4zup485rraehg0plgun/o5akhqh7qqx8ve/aHR0cHM6Ly93d3cuYnJhaW5waWNraW5ncy5vcmcvdGhlLXVuaXZlcnNlLWluLXZlcnNlLw==), and the start time is 4:30 PM ET/1:30 PM PT. I will make a little cameo.",
+      "original_url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/m8c7h5h7442np4/aHR0cHM6Ly92aW1lby5jb20vNDA5NTkxNTU3",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/m8c7h5h7442np4/aHR0cHM6Ly92aW1lby5jb20vNDA5NTkxNTU3"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/e6sph7h2rrmngd/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9icmFpbnBpY2tlci8_aGw9ZW4="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/o5akhqh7qqx8ve/aHR0cHM6Ly93d3cuYnJhaW5waWNraW5ncy5vcmcvdGhlLXVuaXZlcnNlLWluLXZlcnNlLw=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“You have comfort. You don’t have luxury. And don’t tell me that money plays a part. The luxury I advocate has nothing to do with money. It cannot be bought. It is the reward of those who have no fear of discomfort.” — Jean Cocteau, French poet, novelist, boxing manager, and filmmaker, whose collaborations were the inspiration for the term “surrealism” (This quote was found again after rereading this blog post.) And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim P.S. I’ll be releasing a handful of time-sensitive podcast episodes very soon, and it has opened up a few last-minute sponsorship opportunities. If you’re interested and can move fast, please fill out this sponsorship form.",
+      "creator": "Jean Cocteau, French poet, novelist, boxing manager, and filmmaker, whose collaborations were the inspiration for the term “surrealism”",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/p5beh9hlqqr70v/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSmVhbl9Db2N0ZWF1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/p5beh9hlqqr70v/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSmVhbl9Db2N0ZWF1"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/6dheh8hd99x28v/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzA1LzE1L2ZlYXItc2V0dGluZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/5luvh7hz6639dv/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/q7i8h7h0kke6m4/aHR0cHM6Ly9mb3Jtcy5nbGUvelFnYjJDaWlEWjdtanJKTjk="
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "P.P.S. Deal of the Week —",
+      "category": "other",
+      "title": "Assorted milk + honey goodies",
+      "creator": null,
+      "note": "I’ve been using milk + honey products for years now. In fact, a few months into using their stuff, I ended up investing. Every [milk + honey product](https://el2.fourhourmail.com/c/4zup485rraehg0plgun/3gtphkhnppxd5r/aHR0cHM6Ly9taWxrYW5kaG9uZXkuY29tL3BhZ2VzL3RpbQ==) is high quality and as elegantly simple as possible. Most recently, I’ve been using their [**hand purifier**](https://el2.fourhourmail.com/c/4zup485rraehg0plgun/wkc2hgh300mo23/aHR0cHM6Ly9taWxrYW5kaG9uZXkuY29tL3Byb2R1Y3RzL2hhbmQtcHVyaWZpZXItYmxlbmQtbm8wOC0x) (CDC and FDA compliant with 80% alcohol content) and non-toxic [**essential oil candles**](https://el2.fourhourmail.com/c/4zup485rraehg0plgun/0v8swh9hklln767/aHR0cHM6Ly9taWxrYW5kaG9uZXkuY29tL2NvbGxlY3Rpb25zL2NhbmRsZXM=). “Candles?! Has Tim been smoking the devil’s cabbage?” you might ask. Here’s the explanation: During lockdown, it’s been a sanity-saver to create daily rituals with my girlfriend. So… each night at dinner, we light a candle for the duration, and it marks the end of the work day and the beginning of decompression and wind-down. It’s my favorite transition of the day. **To see some of my favorite products and Mother’s Day (May 10th! Don’t forget!) bestsellers, visit** [**milkandhoney.com/tim**](https://el2.fourhourmail.com/c/4zup485rraehg0plgun/v88a3hrhdwwmk9n/aHR0cDovL21pbGthbmRob25leS5jb20vdGlt) **and use code TIM to get 10% off.** Offer is valid until 11:59 PM CT on Monday, April 27th.\n\n**P.P.P.S.** You guys rock! The total you raised for the [Frontline Responders Fund](https://el2.fourhourmail.com/c/4zup485rraehg0plgun/mv5b7h5h7442n68/aHR0cHM6Ly93d3cuZ29mdW5kbWUuY29tL2YvZnJvbnRsaW5lcmVzcG9uZGVyc2Z1bmQ=) is now north of $166,000, which triggered my matching grant of $100,000. My funds have been wired and donated. Each of you should be very proud, and I’m extremely grateful for the incredible showing of solidarity and generosity. This will make a real difference. 🙏\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/4hmAazD41LSexaKxaGkKwK?w=800&fit=max)\n\n  \n[![](https://files.convertkitcdn.com/assets/pictures/11125/2272828/content_Book_Header_FINAL.jpg)](https://el2.fourhourmail.com/c/4zup485rraehg0plgun/e5ghph7h2rrmn37/aHR0cHM6Ly90aW0uYmxvZy90aW0tZmVycmlzcy1ib29rcy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9zb3VyY2U9bWVkaXVtPTViZi10ZW1wbGF0ZS1oZWFkZXI=)  \n\nFORWARDED THIS MESSAGE? [SIGN UP](https://el2.fourhourmail.com/c/4zup485rraehg0plgun/o89ukhqh7qqx8mg/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ==).\n\n![Tim Ferriss Photo](http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg)\n\nJoin millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff.\n\nDUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just [click here](https://unsubscribe.fourhourmail.com/4zup485rraehg0plgun). To reply to Tim, please do so in the blog comments [here](https://el2.fourhourmail.com/c/4zup485rraehg0plgun/xmkfph6hlqqk76d/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU=).\n\n3112 Windsor Rd., Box #UNS, Austin TX 78703, United States\n\n \n\n![](https://el2.fourhourmail.com/o/4zup485rraehg0plgun)",
+      "original_url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/9xfzhnhl5542vx/aHR0cHM6Ly9taWxrYW5kaG9uZXkuY29tL3BhZ2VzL3RpbQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/9xfzhnhl5542vx/aHR0cHM6Ly9taWxrYW5kaG9uZXkuY29tL3BhZ2VzL3RpbQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/3gtphkhnppxd5r/aHR0cHM6Ly9taWxrYW5kaG9uZXkuY29tL3BhZ2VzL3RpbQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/wkc2hgh300mo23/aHR0cHM6Ly9taWxrYW5kaG9uZXkuY29tL3Byb2R1Y3RzL2hhbmQtcHVyaWZpZXItYmxlbmQtbm8wOC0x"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/0v8swh9hklln767/aHR0cHM6Ly9taWxrYW5kaG9uZXkuY29tL2NvbGxlY3Rpb25zL2NhbmRsZXM="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/v88a3hrhdwwmk9n/aHR0cDovL21pbGthbmRob25leS5jb20vdGlt"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/mv5b7h5h7442n68/aHR0cHM6Ly93d3cuZ29mdW5kbWUuY29tL2YvZnJvbnRsaW5lcmVzcG9uZGVyc2Z1bmQ="
+        },
+        {
+          "type": "other",
+          "url": "https://files.convertkitcdn.com/assets/pictures/11125/2272828/content_Book_Header_FINAL.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/o89ukhqh7qqx8mg/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/4zup485rraehg0plgun"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehg0plgun/xmkfph6hlqqk76d/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

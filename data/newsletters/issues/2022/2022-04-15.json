@@ -6,7 +6,122 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m using and loving",
+      "category": "other",
+      "title": "How to tie the Marathon Knot",
+      "creator": null,
+      "note": "Following a recent ski injury, I’ve had some neurological pain in my right foot. I notice it as shooting pain in the second toe when I go from sitting to standing. One of my doctors suggested this could be partially a result of an overtightened toe box at the front of my shoes, and he suggested trying this lacing technique. I immediately felt better. It’s not cured, but it’s substantially improved. Sometimes it’s the simple things, eh?",
+      "original_url": "https://www.youtube.com/watch?v=xAdh6rF4whs",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=xAdh6rF4whs"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m playing",
+      "category": "other",
+      "title": "Secret Hitler",
+      "creator": null,
+      "note": "From the description: “Secret Hitler is a dramatic game of political intrigue and betrayal set in 1930s Germany. Players are secretly divided into two teams—liberals and fascists. Known only to each other, the fascists coordinate to sow distrust and install their cold-blooded leader. The liberals must find and stop the Secret Hitler before it’s too late.” This is a really fun board game, but it requires a minimum of five players. Any great recommendations for games that can be played well with 3–4 players? [Please let me know @tferriss on Twitter](https://twitter.com/tferriss).",
+      "original_url": "https://www.amazon.com/Secret-Hitler/dp/B01JKD4HYC/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Secret-Hitler/dp/B01JKD4HYC/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "My first and possibly only foray into TikTok",
+      "category": "other",
+      "title": "No children were harmed in the making of this video…",
+      "creator": null,
+      "note": "I’ve never been on TimTok until now. I don’t expect to make it a habit, but this was fun to put together. Pro tip: being bald makes the BritBrit hair toss a lot harder on the neck. Secret Hitler may or may not have been introduced to me by someone in this video.",
+      "original_url": "https://www.tiktok.com/@thestarretts/video/7084979609682480430?_r=1&_t=8RNSUGC8sow&social_sharing=v1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.tiktok.com/@thestarretts/video/7084979609682480430?_r=1&_t=8RNSUGC8sow&social_sharing=v1"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m excited about",
+      "category": "other",
+      "title": "Moonbirds",
+      "creator": null,
+      "note": "[Kevin Rose](https://tim.blog/2022/04/13/the-random-show-with-kevin-rose/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@KevinRose](https://twitter.com/KevinRose)), my nutty brother from another mother, is at it again. He’s been cooking this up with an entire team for some time, and I imagine there are surprises in store. Moonbirds are “a collection of 10,000 utility-enabled PFPs \\[profile picture NFTs\\] that feature a richly diverse and unique pool of rarity-powered traits. What’s more, each Moonbird unlocks private club membership and additional benefits the longer you hold \\[or ‘nest’\\] them.” If you missed our newest Random Show episode this week, you can [find it here](https://tim.blog/2022/04/13/the-random-show-with-kevin-rose/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf).",
+      "original_url": "https://moonbirds.xyz/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://moonbirds.xyz/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/04/13/the-random-show-with-kevin-rose/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/KevinRose"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/04/13/the-random-show-with-kevin-rose/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "What I’m reading and sharing",
+      "category": "article",
+      "title": "Can the Clever Use of Old Legal Strategies Thwart Psychedelic Monopolies?",
+      "creator": null,
+      "note": null,
+      "original_url": "https://www.vice.com/en/article/wxd989/can-the-clever-use-of-old-legal-strategies-thwart-psychedelic-monopolies",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.vice.com/en/article/wxd989/can-the-clever-use-of-old-legal-strategies-thwart-psychedelic-monopolies"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“I slept and dreamt that life was joy. I awoke and saw that life was service. I acted and behold, service was joy.” — Attributed to Rabindranath Tagore (Thank you to Terry Crews for sharing this one.) And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Attributed to Rabindranath Tagore",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Rabindranath_Tagore",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Rabindranath_Tagore"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/12/20/terry-crews-how-to-have-do-and-be-all-you-want/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

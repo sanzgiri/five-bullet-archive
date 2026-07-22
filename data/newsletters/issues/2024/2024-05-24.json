@@ -6,7 +6,123 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "The Secret To Hosting A Party For The Ages",
+      "creator": null,
+      "note": "This short piece is hilarious and tactical in equal measure. It was originally published in _Vogue_ in 1930 by [Elsa Maxwell](https://en.wikipedia.org/wiki/Elsa_Maxwell), whom George Bernard Shaw described as “the eighth wonder of the world.” Hat tip to [Sriram Krishnan](https://sriramk.com/) for mentioning this in [his X thread](https://x.com/sriramk/status/1792172077035770339) about curating private WhatsApp groups. Miss Maxwell had a way with words:  \n​  \n​_I have often been moved to sudden inward unholy laughter when, upon entering salon or ballroom, I first catch sight of the harassed and anguished face of an unhappy hostess, so obviously suffering at being trapped by her own party in the doorway, and, as the hordes of that vast vacuity known as the “Visiting List” troop in, her last hope dies, and she knows all is lost._",
+      "original_url": "https://www.vogue.co.uk/article/elsa-maxwell-parties",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.vogue.co.uk/article/elsa-maxwell-parties"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Elsa_Maxwell"
+        },
+        {
+          "type": "other",
+          "url": "https://sriramk.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/sriramk/status/1792172077035770339"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "The Most Complete Puncher EVER - Naoya Inoue 井上尚弥",
+      "creator": null,
+      "note": "Inoue is one of my favorite boxers to watch. His accuracy is lethal, and his bodyweight-to-power ratio defies belief. Exhibit A: [his short right hand](https://www.youtube.com/watch?t=44s&v=TCkTatcGCn4).",
+      "original_url": "https://youtu.be/TCkTatcGCn4?si=1LKkw3Mjxd0TVEk7",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/TCkTatcGCn4?si=1LKkw3Mjxd0TVEk7"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?t=44s&v=TCkTatcGCn4"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Gut Microbiota in Anxiety and Depression: Unveiling the Relationships and Management Options",
+      "creator": null,
+      "note": "Something must be in the air, as several people have sent me this in the past few months. Thanks to each and every person. Here are a few snippets of many that stuck out to me:\n\n_Lactobacillus and Bifidobacterium species were found to be capable of reducing depression to a large extent. The points mentioned above suggest that gut microbiota has a role in developing anxiety and depression. Anxiety and depression are gut–brain axis disorders that can be treated with the help of the gut microbiota, which offers a unique approach to modifying neurotransmitter regulation in the brain._\n\n\\[. . .\\]\n\n_A greater incidence of depression is substantially linked to a lower protein consumption than recommended. A 10% increase in protein consumption was shown to reduce the incidence of depression considerably in South Korea and in the United States. Several biological explanations have linked the intake of protein and depression. These theories are supported by the fact that tryptophan, an amino acid, is a precursor of serotonin._",
+      "original_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10146621/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10146621/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Mozart: Piano Sonata No. 11 In A, K. 331 - III. Alla Turca",
+      "creator": null,
+      "note": "This piece will be familiar to many of you, but it takes on a special flair in this performance by concert violinist Daniel Hope and the Zurich Chamber Orchestra. Mozart composed it at the ripe old age of 27.",
+      "original_url": "https://www.youtube.com/watch?v=yC0ojeLIyf8",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=yC0ojeLIyf8"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Be regular and orderly in your life like a bourgeois, so that you may be violent and original in your work.” — Gustave Flaubert (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with the latest supercombo podcast episodes (Brené Brown and Edward O. Thorp; Greg McKeown and Diana Chapman), this clip on the 4-7-8 breathing technique from Dr. Andrew Weil, and my video on how to live with a sense of urgency. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Gustave Flaubert",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Gustave_Flaubert",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Gustave_Flaubert"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/m9R75"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/05/21/brene-brown-ed-thorp/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/05/24/greg-mckeown-and-diana-chapman/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/C66Pt0ju8Ea/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=XWwNocaIWxg"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

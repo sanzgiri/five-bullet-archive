@@ -6,7 +6,171 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "From Shock to Awe",
+      "creator": null,
+      "note": "(**[**Vimeo**](https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/egfph7heo7d8r5/aHR0cHM6Ly92aW1lby5jb20vb25kZW1hbmQvZnJvbXNob2NrdG9hd2U=)**,** [**iTunes**](https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/zvtghnh7xemqln/aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL3VzL21vdmllL2Zyb20tc2hvY2stdG8tYXdlL2lkMTQ3OTUyMDU4MA==)**,** [**Amazon**](https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/x6cph6hz0e45q2/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TaG9jay1Bd2UtTWlrZS1Db29sZXkvZHAvQjA3Wkc5Vjk4WS9yZWY9bXBfc19hXzFfNz9rZXl3b3Jkcz1Gcm9tK1Nob2NrK3RvK0F3ZSZxaWQ9MTU3MTk0MDIwNCZzPW1vdmllcy10diZzcj0xLTc=)**).** If you liked [Trip of Compassion](https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/kvsmh6hevnokxv/aHR0cHM6Ly92aW1lby5jb20vb25kZW1hbmQvdHJpcG9mY29tcGFzc2lvbg==), or if you have an interest in psychedelics, ayahuasca, veteran affairs, or healing, take a look at this documentary. I’ve watched it 3x already and highly recommend it. Here is the description: “An intimate and raw look at the transformational journey of two combat veterans suffering from severe trauma (PTSD) as they abandon pharmaceuticals to seek relief through the mind-expanding world of psychedelics.” Even if you don’t watch the film, [the two-minute trailer](https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/pdaeh9hdo4pnq8/aHR0cHM6Ly92aW1lby5jb20vb25kZW1hbmQvZnJvbXNob2NrdG9hd2U=) is worth checking out.",
+      "original_url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/drieh0hkne2lpr/aHR0cHM6Ly92aW1lby5jb20vb25kZW1hbmQvZnJvbXNob2NrdG9hd2U=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/drieh0hkne2lpr/aHR0cHM6Ly92aW1lby5jb20vb25kZW1hbmQvZnJvbXNob2NrdG9hd2U="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/egfph7heo7d8r5/aHR0cHM6Ly92aW1lby5jb20vb25kZW1hbmQvZnJvbXNob2NrdG9hd2U="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/zvtghnh7xemqln/aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL3VzL21vdmllL2Zyb20tc2hvY2stdG8tYXdlL2lkMTQ3OTUyMDU4MA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/x6cph6hz0e45q2/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TaG9jay1Bd2UtTWlrZS1Db29sZXkvZHAvQjA3Wkc5Vjk4WS9yZWY9bXBfc19hXzFfNz9rZXl3b3Jkcz1Gcm9tK1Nob2NrK3RvK0F3ZSZxaWQ9MTU3MTk0MDIwNCZzPW1vdmllcy10diZzcj0xLTc="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/kvsmh6hevnokxv/aHR0cHM6Ly92aW1lby5jb20vb25kZW1hbmQvdHJpcG9mY29tcGFzc2lvbg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/pdaeh9hdo4pnq8/aHR0cHM6Ly92aW1lby5jb20vb25kZW1hbmQvZnJvbXNob2NrdG9hd2U="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Brilliant Minds of Trash and Sewage",
+      "creator": null,
+      "note": "Many thanks to Matt Mullenweg ([@photomatt](https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/3mhphkhrg3kepe/aHR0cHM6Ly90d2l0dGVyLmNvbS9waG90b21hdHQv)) for the recommendation. Don’t know Matt? [Listen to this too](https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/4puvheh98m74xx/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzAyLzA5L21hdHQtbXVsbGVud2VnLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=).",
+      "original_url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/gobnh5hnwm04q8/aHR0cHM6Ly93d3cud255Y3N0dWRpb3Mub3JnL3BvZGNhc3RzL2hlcmVzdGhldGhpbmcvZXBpc29kZXMvd2FzdGUtZXBpc29kZQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/gobnh5hnwm04q8/aHR0cHM6Ly93d3cud255Y3N0dWRpb3Mub3JnL3BvZGNhc3RzL2hlcmVzdGhldGhpbmcvZXBpc29kZXMvd2FzdGUtZXBpc29kZQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/3mhphkhrg3kepe/aHR0cHM6Ly90d2l0dGVyLmNvbS9waG90b21hdHQv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/4puvheh98m74xx/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzAyLzA5L21hdHQtbXVsbGVud2VnLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "I Wrote This Book Because I Love You: Essays",
+      "creator": "Tim Kreider",
+      "note": "com](https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/8qfqhoh3no7mr8/aHR0cDovL3RpbWtyZWlkZXIuY29tLw==)). Many of you know that Tim’s [_We Learn Nothing_](https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/lztehmh47ld8xg/aHR0cDovL3d3dy5hdWRpYmxlLmNvbS9wZC9CaW9zLU1lbW9pcnMvV2UtTGVhcm4tTm90aGluZy1BdWRpb2Jvb2svQjAwU05UUVU5Sw==), his dazzling collection of humor and insight, is one of the few books in the [Tim Ferriss Book Club](https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/dnceh0hkne2l2z/aHR0cDovL3d3dy5hdWRpYmxlLmNvbS9tdC9UaW1zQm9va3M_YnBfdWE9eWVzJnNvdXJjZV9jb2RlPUFVREdCV1MwOTA4MTQ5QVVX). To get a taste, you can listen to one of my favorite chapters, “**Lazy: A Manifesto**,” [**in this short 20-minute episode of the podcast**](https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/7xs7h8h859xrxk/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzA0LzAzL2xhenktYS1tYW5pZmVzdG8vP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg==)**.** I’ve been eager to revisit Tim’s work, and I’m now digging into [his latest collection of essays](https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/m6a7h5h9z3ld4l/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Xcm90ZS1UaGlzLUJvb2stQmVjYXVzZS1Mb3ZlL2RwLzE0NzY3Mzg5OTgv). Tim’s fans include people like filmmaker Judd Apatow ([@JuddApatow](https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/xdbph6hz0e454z/aHR0cHM6Ly90d2l0dGVyLmNvbS9KdWRkQXBhdG93)), who gave him the blurb of all blurbs: “Tim Kreider’s writing is heartbreaking, brutal and hilarious—usually at the same time. He can do in a few pages what I need several hours of screen time and tens of millions to accomplish. And he does it better. Come to think of it, I’d rather not do a blurb. I am beginning to feel bad about myself.”",
+      "original_url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/r3i8hoh7zmog6o/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Xcm90ZS1UaGlzLUJvb2stQmVjYXVzZS1Mb3ZlL2RwLzE0NzY3Mzg5OTgv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/r3i8hoh7zmog6o/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Xcm90ZS1UaGlzLUJvb2stQmVjYXVzZS1Mb3ZlL2RwLzE0NzY3Mzg5OTgv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/8qfqhoh3no7mr8/aHR0cDovL3RpbWtyZWlkZXIuY29tLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/lztehmh47ld8xg/aHR0cDovL3d3dy5hdWRpYmxlLmNvbS9wZC9CaW9zLU1lbW9pcnMvV2UtTGVhcm4tTm90aGluZy1BdWRpb2Jvb2svQjAwU05UUVU5Sw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/dnceh0hkne2l2z/aHR0cDovL3d3dy5hdWRpYmxlLmNvbS9tdC9UaW1zQm9va3M_YnBfdWE9eWVzJnNvdXJjZV9jb2RlPUFVREdCV1MwOTA4MTQ5QVVX"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/7xs7h8h859xrxk/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzA0LzAzL2xhenktYS1tYW5pZmVzdG8vP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/m6a7h5h9z3ld4l/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Xcm90ZS1UaGlzLUJvb2stQmVjYXVzZS1Mb3ZlL2RwLzE0NzY3Mzg5OTgv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/xdbph6hz0e454z/aHR0cHM6Ly90d2l0dGVyLmNvbS9KdWRkQXBhdG93"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Popular on Instagram —",
+      "category": "other",
+      "title": "“Dinner with Malbec and ‘The Notebooks of Lazarus Long.’ Heinlein was such a smart (and smart-ass) rascal…”",
+      "creator": null,
+      "note": "rascal…”**](https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/kwhmh6hevnoko2/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0Iybll1cWludjA4Lw==) **(I bought it used, so only the highlighter marks are mine.)**",
+      "original_url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/kwhmh6hevnoko2/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0Iybll1cWludjA4Lw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/kwhmh6hevnoko2/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0Iybll1cWludjA4Lw=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“A genius is the one most like himself.”— Thelonius Monk And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim P.S. For those interested, you can watch a live stream tonight (8:30 p.m. ET/5:30 p.m. PT) of Michael Pollan in conversation with renowned ethnobotanist Mark Plotkin called “Improvisation, Creativity, Hallucinogens, and Healing.” Should be a fascinating conversation. [](https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/n42sohvhg0vlz4k/aHR0cHM6Ly90aW0uYmxvZy90aW0tZmVycmlzcy1ib29rcy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9zb3VyY2U9bWVkaXVtPTViZi10ZW1wbGF0ZS1oZWFkZXI=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Thelonius Monk And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim P.S. For those interested, you can watch a live stream tonight",
+      "note": null,
+      "original_url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/2lu2hohgw3qkqe/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvVGhlbG9uaW91c19Nb25r",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/2lu2hohgw3qkqe/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvVGhlbG9uaW91c19Nb25r"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/3viphkhrg3kek7/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/d6feh0hkne2l2g/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL0ltcHJvdkNvbmZlcmVuY2VOZXdPcmxlYW5zL3Bvc3RzLzE0MzE5Nzc1NzA4NDIyNA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/6nteh8hwel3m3q/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzA1LzA2L21pY2hhZWwtcG9sbGFuLWhvdy10by1jaGFuZ2UteW91ci1taW5kLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/glcnh5hnwm042n/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWFya19QbG90a2lu"
+        },
+        {
+          "type": "other",
+          "url": "https://files.convertkitcdn.com/assets/pictures/11125/2272828/content_Book_Header_FINAL.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/wvva2hgh46qledo/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/u/qdurox544u7hd04kwie"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/qdurox544u7hd04kwie/mvwh7h5h9z3ld4m/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

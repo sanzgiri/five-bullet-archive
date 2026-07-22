@@ -6,7 +6,135 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Purchase I’m enjoying —",
+      "category": "other",
+      "title": "Conquest Maps Push-Pin Map (I got the largest three-section version",
+      "creator": null,
+      "note": "). I’ve always wanted a large world map on my wall, and now I have one. Favorite places I’ve been get one colored pin, and places I’d love to visit get another. A few places I’d love to visit: Seoul, Korea; Lisbon, Portugal; Cartagena, Colombia; Venice, Italy; Latvia; and Estonia.",
+      "original_url": "https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/78i7h8/aHR0cHM6Ly93d3cuY29ucXVlc3RtYXBzLmNvbS9jb2xsZWN0aW9ucy9hbGwvcHJvZHVjdHMvd29ybGQtdHJhdmVsLW1hcC1waW4tYm9hcmQtdy1wdXNoLXBpbnMtbW9kZXJuLXNsYXRlP3ZhcmlhbnQ9MzE5NTMzMjczMTI=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/78i7h8/aHR0cHM6Ly93d3cuY29ucXVlc3RtYXBzLmNvbS9jb2xsZWN0aW9ucy9hbGwvcHJvZHVjdHMvd29ybGQtdHJhdmVsLW1hcC1waW4tYm9hcmQtdy1wdXNoLXBpbnMtbW9kZXJuLXNsYXRlP3ZhcmlhbnQ9MzE5NTMzMjczMTI="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "He Predicted The 2016 Fake News Crisis. Now He's Worried About An Information Apocalypse.",
+      "creator": null,
+      "note": "This piece should be required for anyone on the Internet. These technologies are going to affect everything. Things are sometimes murky and misleading on the web, and it’s going to get much more challenging. Here’s just a small taste from this article: “Already available tools for audio and video manipulation have begun to look like a potential fake news Manhattan Project. In the murky corners of the internet, people have begun using machine learning algorithms and open-source software to easily [create pornographic videos that realistically superimpose the faces of celebrities](https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/zvtghn/aHR0cHM6Ly9tb3RoZXJib2FyZC52aWNlLmNvbS9lbl91cy9hcnRpY2xlL2JqeWU4YS9yZWRkaXQtZmFrZS1wb3JuLWFwcC1kYWlzeS1yaWRsZXk=) — or anyone for that matter — on the adult actors’ bodies. At institutions like Stanford, technologists have built programs that that [combine and mix recorded video footage](https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/pnceh9/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1vaG1hakpUY3BOaw==) with real-time face tracking to manipulate video. Similarly, at the University of Washington computer scientists successfully built a program capable of “[turning audio clips into a realistic, lip-synced video](https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/xksph6/aHR0cDovL2dyYWlsLmNzLndhc2hpbmd0b24uZWR1L3Byb2plY3RzL0F1ZGlvVG9PYmFtYS8=) of the person speaking those words.” As proof of concept, both the teams manipulated broadcast video to make world leaders appear to say things they never actually said.”",
+      "original_url": "https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/opfkhq/aHR0cHM6Ly93d3cuYnV6emZlZWQuY29tL2NoYXJsaWV3YXJ6ZWwvdGhlLXRlcnJpZnlpbmctZnV0dXJlLW9mLWZha2UtbmV3cz91dG1fdGVybT0ueGk3UFBBWEFwJnV0bV9jYW1wYWlnbj1Db250ZW50JTIwQWR2aXNvciUyME5ld3NsZXR0ZXImdXRtX3NvdXJjZT1oc19lbWFpbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jb250ZW50PTYwNjg0Njg4Jl9oc2VuYz1wMkFOcXR6LV9CaGhBVUxHblR2d1J6bnZoQU0tOWd1a0dpdTNiU1EtWHZFNHM4V2x5VFRzOUtDbklRM0wxY1d5MVFFaGlDNjc4d0h1UHNvd19nclM0ajRNbWRTX0M2VldsSHFRJl9oc21pPTYwNjg0NjkwIy5mZ1lQUHlqeWQ=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/opfkhq/aHR0cHM6Ly93d3cuYnV6emZlZWQuY29tL2NoYXJsaWV3YXJ6ZWwvdGhlLXRlcnJpZnlpbmctZnV0dXJlLW9mLWZha2UtbmV3cz91dG1fdGVybT0ueGk3UFBBWEFwJnV0bV9jYW1wYWlnbj1Db250ZW50JTIwQWR2aXNvciUyME5ld3NsZXR0ZXImdXRtX3NvdXJjZT1oc19lbWFpbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jb250ZW50PTYwNjg0Njg4Jl9oc2VuYz1wMkFOcXR6LV9CaGhBVUxHblR2d1J6bnZoQU0tOWd1a0dpdTNiU1EtWHZFNHM4V2x5VFRzOUtDbklRM0wxY1d5MVFFaGlDNjc4d0h1UHNvd19nclM0ajRNbWRTX0M2VldsSHFRJl9oc21pPTYwNjg0NjkwIy5mZ1lQUHlqeWQ="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/zvtghn/aHR0cHM6Ly9tb3RoZXJib2FyZC52aWNlLmNvbS9lbl91cy9hcnRpY2xlL2JqeWU4YS9yZWRkaXQtZmFrZS1wb3JuLWFwcC1kYWlzeS1yaWRsZXk="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/pnceh9/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1vaG1hakpUY3BOaw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/xksph6/aHR0cDovL2dyYWlsLmNzLndhc2hpbmd0b24uZWR1L3Byb2plY3RzL0F1ZGlvVG9PYmFtYS8="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Who I’m following on Instagram —",
+      "category": "other",
+      "title": "@jimmy\\_chin",
+      "creator": null,
+      "note": "). Come for [incredible photography](https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/kmbmh6/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JPdEMxSUxCN1ZjLz90YWtlbi1ieT1qaW1teV9jaGlu) and stay for [crazy climbing videos](https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/52hvh7/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JiN1czalBIc1JSLz90YWtlbi1ieT1qaW1teV9jaGlu). (If you want more, you can listen to [his appearance on the podcast](https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/2ou2ho/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzEwLzIwL3RoZS1hdGhsZXRlLWFuZC1hcnRpc3Qtd2hvLWNoZWF0cy1kZWF0aC1qaW1teS1jaGluLw==).)",
+      "original_url": "https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/60aeh8/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9qaW1teV9jaGluLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/60aeh8/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9qaW1teV9jaGluLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/kmbmh6/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JPdEMxSUxCN1ZjLz90YWtlbi1ieT1qaW1teV9jaGlu"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/52hvh7/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JiN1czalBIc1JSLz90YWtlbi1ieT1qaW1teV9jaGlu"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/2ou2ho/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzEwLzIwL3RoZS1hdGhsZXRlLWFuZC1hcnRpc3Qtd2hvLWNoZWF0cy1kZWF0aC1qaW1teS1jaGluLw=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Brooklyn Nine-Nine",
+      "creator": null,
+      "note": ", starting with Season 1, Episode 1. Some weeks are hard, and some weeks are HARD. The past seven days have been the latter: severe sinus infection, no sleep, news of a dear friend’s late-stage cancer, and more. To decompress and destress at the end of each day, I’ve been watching one 22-minute episode of this show, which features an all-star cast and is wonderfully ridiculous. The show gets stronger and stronger with each episode. My interview with Terry Crews (“[Terry Crews — How to Have, Do, and Be All You Want](https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/gvfnh5/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzEyLzIwL3RlcnJ5LWNyZXdzLWhvdy10by1oYXZlLWRvLWFuZC1iZS1hbGwteW91LXdhbnQv)”) convinced me to start with the very first and work my way through.",
+      "original_url": "https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/q3i8h7/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Ccm9va2x5bi1OaW5lLU5pbmUtU2Vhc29uLTEvZHAvQjAwRVNCNkNWOC9yZWY9dG1tX2Fpdl9zd2F0Y2hfMT9fZW5jb2Rpbmc9VVRGOCZxaWQ9JnNyPQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/q3i8h7/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Ccm9va2x5bi1OaW5lLU5pbmUtU2Vhc29uLTEvZHAvQjAwRVNCNkNWOC9yZWY9dG1tX2Fpdl9zd2F0Y2hfMT9fZW5jb2Rpbmc9VVRGOCZxaWQ9JnNyPQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/gvfnh5/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzEyLzIwL3RlcnJ5LWNyZXdzLWhvdy10by1oYXZlLWRvLWFuZC1iZS1hbGwteW91LXdhbnQv"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“The days of thinking of time as a river—evenly flowing, always advancing—are over. Time perception, just like vision, is a construction of the brain and is shockingly easy to manipulate experimentally.” \\- David Eagleman Have a wonderful weekend, all! Tim P.S. -- If you’re looking for an OUTSTANDING book to read, here is one to order. I got an advanced copy, and my quote on Twitter says it all: “Not to sound like a mullet-wearing Long Island boy (which I’ve been), but Michael Pollan’s new book is going to make a HUGE fucking impact. Mark my words: tide shift.” [](https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/nesohv/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. Seneca and Marcus, 60 29th Street, San Francisco, California 94110, United States",
+      "creator": "evenly flowing, always advancing—are over. Time perception, just like vision, is a construction of the brain and is shockingly easy to manipulate experimentally.” \\- David Eagleman Have a wonderful weekend, all! Tim P.S. -- If you’re looking for an OUTSTANDING book to read, here is one to order. I got an advanced copy, and my quote on Twitter says it all: “Not to sound like a mullet-wearing Long Island boy",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/93tzhn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9DaGFuZ2UtWW91ci1NaW5kLUNvbnNjaW91c25lc3MtVHJhbnNjZW5kZW5jZS9kcC8xNTk0MjA0MjI1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/93tzhn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9DaGFuZ2UtWW91ci1NaW5kLUNvbnNjaW91c25lc3MtVHJhbnNjZW5kZW5jZS9kcC8xNTk0MjA0MjI1"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/3wcphk/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9DaGFuZ2UtWW91ci1NaW5kLUNvbnNjaW91c25lc3MtVHJhbnNjZW5kZW5jZS9kcC8xNTk0MjA0MjI1"
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/43avhe/aHR0cDovL2dvLmZvdXJob3Vyd29ya3dlZWsuY29tLzEweC1vdXRwdXQv"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "http://el2.fourhourmail.com/u/p9urq7wddu9hdx5vp"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hdx5vp/rxh8ho/aHR0cDovL2ZvdXJob3Vyd29ya3dlZWsuY29tL2Jsb2c="
+        }
+      ]
+    }
+  ]
 }

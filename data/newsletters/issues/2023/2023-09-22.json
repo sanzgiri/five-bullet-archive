@@ -6,7 +6,139 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m rereading",
+      "category": "article",
+      "title": "A Pickpocket’s Tale: The spectacular thefts of Apollo Robbins",
+      "creator": "Adam Green",
+      "note": "(_The New Yorker_). This was sent to me by [Jeffrey Zurofsky](https://www.instagram.com/jeffreyzurofsky/?hl=en) (“JZ” from [_The 4-Hour Chef_](https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/)). Here’s one paragraph to give you a taste:\n\n​_When Robbins hits his stride, it starts to seem as if the only possible explanation is an ability to start and stop time. At the Rio, a man’s cell phone disappeared from his jacket and was replaced by a piece of fried chicken; the cigarettes from a pack in one man’s breast pocket materialized loose in the side pocket of another; a woman’s engagement ring vanished and reappeared attached to a key ring in her husband’s pants; a man’s driver’s license disappeared from his wallet and turned up inside a sealed bag of M&M’s in his wife’s purse.  \n​_​  \nPair this with Apollo’s TED Talk **“**[**The art of misdirection**](https://www.ted.com/talks/apollo_robbins_the_art_of_misdirection)**,”** one of the 20 most-viewed TED Talks of all time, to see Apollo in action.",
+      "original_url": "https://www.newyorker.com/magazine/2013/01/07/a-pickpockets-tale",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.newyorker.com/magazine/2013/01/07/a-pickpockets-tale"
+        },
+        {
+          "type": "other",
+          "url": "https://www.newyorker.com/contributors/adam-green"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/jeffreyzurofsky/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.ted.com/talks/apollo_robbins_the_art_of_misdirection"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Documentary I’m watching",
+      "category": "video",
+      "title": "In Search of Greatness",
+      "creator": null,
+      "note": "This documentary thematically fits into a lot of the reading I’m currently doing. The official description: “Through the eyes of the greatest athletes of all time, _In Search of Greatness_ is a cinematic journey into the secrets of genius. From award-winning filmmaker [Gabe Polsky](https://twitter.com/gabepolsky), this groundbreaking feature documentary includes original interviews with Wayne Gretzky, Pelé, and Jerry Rice. It also features Muhammad Ali, Einstein, David Bowie, Serena Williams, and Michael Jordan, among others.” You can [watch the trailer here](https://www.youtube.com/watch?v=J-B9CVCcLrM). Gabe’s earlier [_Red Army_](https://www.amazon.com/Red-Army-Scotty-Bowman/dp/B00XWTXYJK) doc is also fantastic.",
+      "original_url": "https://www.amazon.com/Search-Greatness-Wayne-Gretzky/dp/B07P5X99P5",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Search-Greatness-Wayne-Gretzky/dp/B07P5X99P5"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/gabepolsky"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=J-B9CVCcLrM"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Red-Army-Scotty-Bowman/dp/B00XWTXYJK"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Exercises I’m doing",
+      "category": "other",
+      "title": "Legendary 86-Year-Old Physical Therapist Dr. Shirley Sahrmann Demonstrates Her Morning Exercises",
+      "creator": null,
+      "note": "Many of you asked for a video demonstration of Dr. Shirley Sahrmann’s morning exercises that she mentioned in our podcast. Her new [demonstration video](https://www.youtube.com/watch?v=soYpIWQGgWQ) is a great addition to [the longer episode](https://tim.blog/2023/08/04/dr-shirley-sahrmann/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), in which we discussed low-back pain, movement as medicine, and much, much more.",
+      "original_url": "https://www.youtube.com/watch?v=soYpIWQGgWQ",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=soYpIWQGgWQ"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=soYpIWQGgWQ"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/08/04/dr-shirley-sahrmann/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I finished writing",
+      "category": "other",
+      "title": "25 of My Favorite Books, Articles, Gadgets, Tech, and More (So Far in 2023)",
+      "creator": null,
+      "note": "](https://tim.blog/2023/09/20/tim-ferriss-favorite-books-articles-tools/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)**.”**",
+      "original_url": "https://tim.blog/2023/09/20/tim-ferriss-favorite-books-articles-tools/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2023/09/20/tim-ferriss-favorite-books-articles-tools/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“In order to change skins, evolve into new cycles, I feel one has to learn to discard. If one changes internally, one should not continue to live with the same objects. They reflect one’s mind and psyche of yesterday. I throw away what has no dynamic, living use.” — Anaïs Nin (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with blind magician Richard Turner showing me mind-blowing card tricks, Derek Sivers’s advice on how to reinvent yourself, and this week’s interview with Levels co-founder Sam Corcos on creating personal and business leverage with tools, systems, and processes. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Anaïs Nin",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Ana%C3%AFs_Nin",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Ana%C3%AFs_Nin"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/FcO1d"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=R8veYTNjXSk"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=vINjVzZRyFo"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/09/20/sam-corcos/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,151 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "The DIY Scientist, the Olympian, and the Mutated Gene",
+      "creator": "David Epstein",
+      "note": "([@DavidEpstein](https://twitter.com/DavidEpstein)). This is a fantastic read, especially for science nerds, about how a layperson can spot breakthrough ideas that the experts miss.",
+      "original_url": "https://www.propublica.org/article/muscular-dystrophy-patient-olympic-medalist-same-genetic-mutation",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.propublica.org/article/muscular-dystrophy-patient-olympic-medalist-same-genetic-mutation"
+        },
+        {
+          "type": "other",
+          "url": "https://davidepstein.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/DavidEpstein"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Documentary I’m watching",
+      "category": "video",
+      "title": "Carlos Ghosn: The Last Flight",
+      "creator": null,
+      "note": "([YouTube](https://www.youtube.com/watch?v=jdfaO98M_XM), [Apple TV](https://tv.apple.com/us/movie/carlos-ghosn-the-last-flight/umc.cmc.1jkf496fskdrm4zqg0borq8f1?action=play)). From the description: “Carlos Ghosn, charged with financial crimes, stunned the world by fleeing Japan. This documentary sheds light on this complex and multilayered story and divulges new details on his spectacular escape.” You can watch the trailer [here](https://www.youtube.com/watch?v=rKftGmjdZ7w). I wasn’t initially excited about this, as I assumed it was a straightforward case of fraud. It turns out to be more like a Russian nesting doll of companies vs. companies, countries vs. countries, and a hyper-aggressive businessman (Ghosn) vs. the odds. It doesn’t paint him as a supervillain or as a simply misunderstood hero, and therein lies the nuance. I thoroughly enjoyed the unexpected twists of this doc, and the production value is outstanding. Carlos could make an interesting podcast guest at some point…",
+      "original_url": "https://www.youtube.com/watch?v=jdfaO98M_XM",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=jdfaO98M_XM"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=jdfaO98M_XM"
+        },
+        {
+          "type": "other",
+          "url": "https://tv.apple.com/us/movie/carlos-ghosn-the-last-flight/umc.cmc.1jkf496fskdrm4zqg0borq8f1?action=play"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=rKftGmjdZ7w"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Podcast episode I’m listening to",
+      "category": "podcast",
+      "title": "The Elliotts",
+      "creator": null,
+      "note": "on [_Heavyweight_](https://open.spotify.com/show/5c26B28vZMN8PG0Nppmn5G), hosted by [Jonathan Goldstein](https://en.wikipedia.org/wiki/Jonathan_Goldstein_(author)) ([@J\\_Goldstein](https://mobile.twitter.com/j_goldstein)). The description: “In 1525, the Archbishop of Glasgow placed a curse on the Elliott family. Now, 500 years later, one very unlucky branch of the Elliotts wants it lifted.” I found this incredibly entertaining and thought-provoking. Placebo effect or not, you’ll have a lot of laughs along the way.",
+      "original_url": "https://open.spotify.com/episode/5812HBPa5ldHupyMR7Ww27",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://open.spotify.com/episode/5812HBPa5ldHupyMR7Ww27"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/show/5c26B28vZMN8PG0Nppmn5G"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Jonathan_Goldstein_(author"
+        },
+        {
+          "type": "other",
+          "url": "https://mobile.twitter.com/j_goldstein"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Song I’m enjoying",
+      "category": "music",
+      "title": "Indifférence",
+      "creator": "Les Doigts de L’Homme",
+      "note": "([Spotify](https://open.spotify.com/track/0R45MxIs2TvU9gBIPBOBJ2?si=ebf40be920684ce7&nd=1), [YouTube](https://www.youtube.com/watch?v=3K4sJP_FyU8)) by [Les Doigts de L’Homme](https://www.lamastrock.com/les-doigts-de-l-homme/) ([@lesdoigtsdelhom](https://twitter.com/lesdoigtsdelhom)).",
+      "original_url": "https://open.spotify.com/track/0R45MxIs2TvU9gBIPBOBJ2?si=ebf40be920684ce7&nd=1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://open.spotify.com/track/0R45MxIs2TvU9gBIPBOBJ2?si=ebf40be920684ce7&nd=1"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/0R45MxIs2TvU9gBIPBOBJ2?si=ebf40be920684ce7&nd=1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=3K4sJP_FyU8"
+        },
+        {
+          "type": "other",
+          "url": "https://www.lamastrock.com/les-doigts-de-l-homme/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/lesdoigtsdelhom"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I'm pondering",
+      "category": "quote",
+      "title": "“One ought, every day at least, to hear a little song, read a good poem, see a fine picture, and, if it were possible, to speak a few reasonable words.” — Johann Wolfgang von Goethe (Click here to share on Twitter) * * * You can complement this edition of 5-Bullet Friday with my interview with the polymath of polymaths Dr. Martine Rothblatt, CEO of United Therapeutics, a biotechnology company she started to save the life of one of her daughters. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Johann Wolfgang von Goethe",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ac/cYtfu"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/12/16/martine-rothblatt/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/12/16/martine-rothblatt/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.unither.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

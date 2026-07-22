@@ -6,7 +6,151 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "iPhone settings change I FINALLY made",
+      "category": "other",
+      "title": "How to take JPEG pictures on your iPhone instead of HEIC",
+      "creator": null,
+      "note": "Here are the instructions: Settings → Camera → Formats → Select “Most Compatible.” To switch back to HEIC, simply switch from “Most Compatible” to “High Efficiency.”",
+      "original_url": "https://www.imore.com/how-take-jpeg-pictures-ios-11-instead-heif",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.imore.com/how-take-jpeg-pictures-ios-11-instead-heif"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching for a good laugh",
+      "category": "video",
+      "title": "The Butterfield Diet Plan",
+      "creator": null,
+      "note": "via Pippa L., in response to [my clip on how to master cheat days](https://www.youtube.com/shorts/7T_TcO5EMRQ). Hoisin crispy owl!",
+      "original_url": "https://m.youtube.com/watch?v=1NjTWvl8x-U",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://m.youtube.com/watch?v=1NjTWvl8x-U"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/shorts/7T_TcO5EMRQ"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Désert",
+      "creator": "Dobet Gnahoré",
+      "note": "([Spotify](https://open.spotify.com/track/5KGgCNMcuPrkNIThcp4Qjc), [YouTube](https://www.youtube.com/watch?v=YctGj0MfpBk), [Apple Music](https://music.apple.com/us/song/d%C3%A9sert/1627123050)) by [Dobet Gnahoré](https://dobetgnahore.com/fr#home) ([@Dobet\\_Gnahore](https://twitter.com/Dobet_Gnahore)). Perfect for writing, winding down, or winding up.",
+      "original_url": "https://open.spotify.com/track/5KGgCNMcuPrkNIThcp4Qjc",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://open.spotify.com/track/5KGgCNMcuPrkNIThcp4Qjc"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/5KGgCNMcuPrkNIThcp4Qjc"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=YctGj0MfpBk"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/song/d%C3%A9sert/1627123050"
+        },
+        {
+          "type": "other",
+          "url": "https://dobetgnahore.com/fr#home"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/Dobet_Gnahore"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Book I’m loving",
+      "category": "book",
+      "title": "The Wayfinders: Why Ancient Wisdom Matters in the Modern World",
+      "creator": "Wade Davis)",
+      "note": "). Huge thanks to [Maryanna Saenko](https://twitter.com/futuresaenko) (🙌), [Steve Jurvetson](https://tim.blog/2018/05/31/steve-jurvetson/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@FutureJurvetson](https://twitter.com/FutureJurvetson)), and the team from [Future Ventures](https://future.ventures/) ([@FutureVenturesVC](https://www.facebook.com/FutureVenturesVC)) for this one. From the description: “In Polynesia we set sail with navigators whose ancestors settled the Pacific ten centuries before Christ. In the Amazon we meet the descendants of a true Lost Civilization, the people of the Anaconda. In the Andes we discover that the Earth really is alive, while in the far reaches of Australia we experience Dreamtime, the all-embracing philosophy of the first humans to walk out of Africa. We then travel to Nepal, where we encounter a wisdom hero, a Bodhisattva, who emerges from forty-five years of Buddhist retreat and solitude. And finally we settle in Borneo, where the last rainforest nomads struggle to survive.”",
+      "original_url": "https://www.amazon.com/Wayfinders-Ancient-Wisdom-Matters-Lecture/dp/0887847668/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Wayfinders-Ancient-Wisdom-Matters-Lecture/dp/0887847668/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Wade_Davis_(anthropologist"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/futuresaenko"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/05/31/steve-jurvetson/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/FutureJurvetson"
+        },
+        {
+          "type": "other",
+          "url": "https://future.ventures/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.facebook.com/FutureVenturesVC"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“My major hobby is teasing people who take themselves and the quality of their knowledge too seriously.” — Nassim Nicholas Taleb You can complement this edition of 5-Bullet Friday with my recent interview with Dr. Andrew Weil that touches on his friendship and collaboration with Wade Davis; my conversation with the author of Tales of a Shaman’s Apprentice_, Dr. Mark Plotkin; and Dr. Plotkin’s deep dive on how animals use medicinal plants. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Nassim Nicholas Taleb You can complement this edition of 5-Bullet Friday with my recent interview with Dr. Andrew Weil that touches on his friendship and collaboration with Wade Davis; my conversation with the author of Tales of a Shaman’s Apprentice_, Dr. Mark Plotkin; and Dr. Plotkin’s deep dive on how animals use medicinal plants. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/08/16/dr-andrew-weil-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/09/30/mark-plotkin/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Tales-Shamans-Apprentice-Ethnobotanist-Medicines/dp/014012991X/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/10/12/mark-plotkin-how-animals-discover-medicine-podcast/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

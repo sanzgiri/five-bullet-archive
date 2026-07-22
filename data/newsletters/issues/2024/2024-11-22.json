@@ -6,7 +6,256 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Comfy slip-ons I wear all winter long",
+      "category": "other",
+      "title": "Glerups",
+      "creator": null,
+      "note": "In the colder months, I wear Glerups indoors practically 100% of the time. I love them. You can see me sporting them [in this photo](https://www.instagram.com/p/C3lDKlNP_Pt/).",
+      "original_url": "https://www.glerups.com/collections/all",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.glerups.com/collections/all"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/C3lDKlNP_Pt/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Electric kettle I’m using for tea, coffee, and all good, warm things",
+      "category": "other",
+      "title": "Corvo EKG Electric Kettle from Fellow",
+      "creator": null,
+      "note": "I’ve tried a lot of electric kettles for tea and coffee over the decades, and this is my favorite. From the description: “The electric kettle that does it all, precision engineered to meet all your hot water needs. Exact temperature control, 1200 watts for a quick heat time, and a world of features for ultimate control.”",
+      "original_url": "https://fellowproducts.com/products/corvo-ekg",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://fellowproducts.com/products/corvo-ekg"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "One pan I use for nearly everything",
+      "category": "other",
+      "title": "Titanium Always Pan Pro",
+      "creator": null,
+      "note": "Many nonstick pans can release harmful “forever chemicals”—PFAS—into your food, your home, and, ultimately, your body. Teflon is a prime example; it is _the_ forever chemical that most companies are still using. Exposure to PFAS has been linked to major health issues like gut microbiome disruption, testosterone dysregulation, and more, which have been correlated to chronic disease in the long term. [This is why I use the Titanium Always Pan Pro from Our Place](https://fromourplace.com/tim). It’s the first nonstick pan with zero coating. This means zero “forever chemicals” and durability that will last a lifetime. There is no degradation over time like traditional nonstick pans. **Now through December 3rd, Our Place is having their biggest sale of the year, with up to 40% off sitewide. Plus, they are offering** _**5-Bullet Friday**_ **subscribers an additional 10% off their Titanium Always Pan Pro.** [**Go to FromOurPlace.com/Tim and use code SAVE10TIM**](https://fromourplace.com/tim) **to claim this special offer.**\\*",
+      "original_url": "https://fromourplace.com/tim",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://fromourplace.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "https://fromourplace.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "https://fromourplace.com/tim"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Headlamp for dark winter hikes",
+      "category": "other",
+      "title": "PEAX Backcountry Duo",
+      "creator": null,
+      "note": "Weighing in at just 4.8 ounces with battery and described by one customer as “hands down the best on the market,” PEAX touts this as “the brightest, most durable … headlamp ever designed.” Breakthrough lumen output, armored in a machined aluminum housing; 3600 mAh rechargeable battery with run times up to 69 hours; and 180-degree adjustability so you never have to worry about putting your headlamp on upside down. It also comes with a red-light mode. If it’s sold out, you can get notified when it’s back in stock [here](https://shop.gohunt.com/products/peax-equipment-backcountry-duo-headlamp).",
+      "original_url": "https://shop.gohunt.com/products/peax-equipment-backcountry-duo-headlamp",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://shop.gohunt.com/products/peax-equipment-backcountry-duo-headlamp"
+        },
+        {
+          "type": "other",
+          "url": "https://shop.gohunt.com/products/peax-equipment-backcountry-duo-headlamp"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Supplement bundle I co-created for mind and body",
+      "category": "other",
+      "title": "Momentous Performance Stack",
+      "creator": null,
+      "note": "During the holiday season, I’m prone to colds, and I also exercise a lot to keep the gray-day sadness away. For these reasons and more, I’m doubling down on the essentials that support my mental and physical fitness: whey protein isolate, creatine, and magnesium threonate. I take all three daily, and sourcing matters. Momentous sources only top-quality ingredients, like Creapure®, and every product is NSF and Informed Sport Certified, meeting the highest standard in third-party-tested supplements. I teamed up with Momentous to conveniently bundle my three essentials into what I call my [performance stack](https://www.livemomentous.com/discount/tim?redirect=%2Fproducts%2Ftims-performance-stack&utm_campaign=Tim%20Ferriss&utm_medium=partnerships&utm_source=sponcon). Each product was specifically chosen to support mental performance, physical performance, and quality sleep. **For a limited time, subscribers to** _**5-Bullet Friday**_ **get early access to their Black Friday sale, including 25% off sitewide, plus a free gift of 5 nights of their best-selling Sleep packs with orders of $75+.** [Click here](https://www.livemomentous.com/discount/tim?redirect=%2Fproducts%2Ftims-performance-stack&utm_campaign=Tim%20Ferriss&utm_medium=partnerships&utm_source=sponcon) through November 24th to take advantage of this exclusive holiday offer, or simply use code TIM at checkout.\\*",
+      "original_url": "https://www.livemomentous.com/discount/tim?redirect=%2Fproducts%2Ftims-performance-stack&utm_campaign=Tim%20Ferriss&utm_medium=partnerships&utm_source=sponcon",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.livemomentous.com/discount/tim?redirect=%2Fproducts%2Ftims-performance-stack&utm_campaign=Tim%20Ferriss&utm_medium=partnerships&utm_source=sponcon"
+        },
+        {
+          "type": "other",
+          "url": "https://www.livemomentous.com/discount/tim?redirect=%2Fproducts%2Ftims-performance-stack&utm_campaign=Tim%20Ferriss&utm_medium=partnerships&utm_source=sponcon"
+        },
+        {
+          "type": "other",
+          "url": "https://www.livemomentous.com/discount/tim?redirect=%2Fproducts%2Ftims-performance-stack&utm_campaign=Tim%20Ferriss&utm_medium=partnerships&utm_source=sponcon"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Tool that is still saving my lower back",
+      "category": "other",
+      "title": "PSO-RITE",
+      "creator": null,
+      "note": "If you have low-back pain, there’s a good chance your psoas muscle is involved. This was recommended by multiple people in [this Twitter thread](https://x.com/tferriss/status/1537476784207241217) on self-release, and I use it right before bed. If the mid-back is your issue, try out [the Nayoya acupressure mat](https://www.amazon.com/Nayoya-Back-Neck-Pain-Relief/dp/B0049Q0P9M/) or, if not in stock, [one of its imitators](https://www.amazon.com/Sivan-Health-Fitness%C2%AEAcupressure-Treatment-Reliever/dp/B00U6G063E/?th=1). The Nayoya mat was introduced to me by Cirque du Soleil phenom [Andrii Bondarenko](https://www.instagram.com/andrii_bondarenko/?hl=en). **For a bonus tool, consider the** [**Body Back Buddy**](https://www.amazon.com/Body-Back-Original-Trigger-Therapy/dp/B005F9F5H4)**, which I always have in my suitcase.**",
+      "original_url": "https://www.amazon.com/PSO-RITE-Psoas-Release-Personal-Massager/dp/B07DPCWV8Z/?th=1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/PSO-RITE-Psoas-Release-Personal-Massager/dp/B07DPCWV8Z/?th=1"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/tferriss/status/1537476784207241217"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Nayoya-Back-Neck-Pain-Relief/dp/B0049Q0P9M/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Sivan-Health-Fitness%C2%AEAcupressure-Treatment-Reliever/dp/B00U6G063E/?th=1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/andrii_bondarenko/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Body-Back-Original-Trigger-Therapy/dp/B005F9F5H4"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "section": "What I’ll be doing with family this holiday season",
+      "category": "other",
+      "title": "Wentworth Puzzles",
+      "creator": null,
+      "note": "Here is what Hugh Jackman said in [our conversation on the podcast](https://tim.blog/2020/06/26/hugh-jackman/) (and my team has been raving about the quality of their puzzles ever since): “I love the company Wentworth. There are a few other puzzle companies, but Wentworth—there’s some technology—when you put the piece in, it’s like squeezing a pimple. It’s the best.”",
+      "original_url": "https://www.wentworthpuzzles.com/puzzle-image-themes/landmarks-and-places",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.wentworthpuzzles.com/puzzle-image-themes/landmarks-and-places"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/06/26/hugh-jackman/"
+        }
+      ]
+    },
+    {
+      "position": 8,
+      "section": "Sleep technology I’m using",
+      "category": "other",
+      "title": "Eight Sleep Pod 4 Ultra",
+      "creator": null,
+      "note": "Several years ago, I started using the Pod Cover, and it has transformed my sleep. Eight Sleep recently launched their newest generation of the Pod: [​Pod 4 Ultra](https://www.eightsleep.com/tim/)​. Conquer this winter season with the best in sleep tech, and sleep at your perfect temperature. The Pod 4 Ultra also automatically tracks your sleep time, sleep stages, HRV, and heart rate. And with the all-new adjustable base that fits between your mattress and frame, you can adjust your mattress for the ultimate sleeping position. If it detects snoring, it will automatically elevate your head to a better position. Many of my listeners in colder climates enjoy warming up their bed after a freezing day. **Go to** [**EightSleep.com/Tim**](https://eightsleep.com/tim) **and save between $400 and $600 on the Pod 4 Ultra by Eight Sleep.** Eight Sleep currently ships within the USA, Canada, the UK, select countries in the EU, and Australia. This special offer is valid until December 14th.\\*",
+      "original_url": "https://www.eightsleep.com/tim/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.eightsleep.com/tim/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.eightsleep.com/tim/"
+        },
+        {
+          "type": "other",
+          "url": "https://eightsleep.com/tim"
+        }
+      ]
+    },
+    {
+      "position": 9,
+      "section": "Fiction book that’s perfect for the holidays",
+      "category": "book",
+      "title": "The Bear",
+      "creator": "Andrew Krivak",
+      "note": ". Thank you to CK and TS for recommending this parable. I ended up devouring it over 3–4 evenings. The prose is gorgeous—the author has been a National Book Award in Fiction finalist—and it’ll take around 20 pages for your brain to get accustomed to its unusual weaving. I’ve pared down the description on purpose, but here’s a taste: “In an Edenic future, a girl and her father live close to the land in the shadow of a lone mountain. … The father teaches the girl how to fish and hunt, the secrets of the seasons and the stars. He is preparing her for an adulthood in harmony with nature, for they are the last of humankind. But when the girl finds herself alone in an unknown landscape...” The less you know about the book in advance, the better the reading experience. Go in as blind as possible, and you’ll likely finish this book in less than a week.",
+      "original_url": "https://www.amazon.com/Bear-Andrew-Krivak/dp/1942658702",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Bear-Andrew-Krivak/dp/1942658702"
+        },
+        {
+          "type": "other",
+          "url": "https://www.andrewkrivak.com/"
+        }
+      ]
+    },
+    {
+      "position": 10,
+      "section": "What I’m using when hiking with Molly",
+      "category": "other",
+      "title": "Springer Dog Water Bottle",
+      "creator": null,
+      "note": "On hikes, my dear Molly pup gets parched. I bring water on hikes, but it’s always been at least 50% for naught. I pour it in my cupped hands and lose nearly all of it. Or if I use a collapsible bowl, she’ll drink a few sips and waste the rest. The Springer travel water bottle solves all of these problems. There are many other companies that make similar products, and I’m sure some are great, but this model was gifted to me and delivers. I have the Growler (44 oz) in Sky Blue.",
+      "original_url": "https://www.amazon.com/Springer-Patented-Leak-Proof-Portable-Traveling/dp/B09CHCFJ2R?th=1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Springer-Patented-Leak-Proof-Portable-Traveling/dp/B09CHCFJ2R?th=1"
+        }
+      ]
+    },
+    {
+      "position": 11,
+      "section": "Tea I’m enjoying daily",
+      "category": "other",
+      "title": "Pique",
+      "creator": null,
+      "note": "Pique’s [fermented pu’er teas](https://piquelife.com/timbfcm) have become an essential part of my morning routine. You know how matcha is the entire ground-up leaf? They do the same with other varieties of tea and focus on purity and ease-of-use. I drink both their black and green pu’er almost every morning, and I take packets with me when I travel. Their extraction technology maximally preserves antioxidants, so you reap the health benefits with zero prep, brewing, or waiting required. Pique’s teas are highly concentrated in polyphenol antioxidants compared to most teas, and their products are triple toxin screened and sourced from some of the world’s most biodiverse areas. [**Pique is offering their biggest deal ever—a 20% off sitewide discount on my favorite subscriptions (which saves you more per serving) with code TIM20**](https://piquelife.com/timbfcm)**—only available until November 29th, 11:59 p.m. PST.**\\*",
+      "original_url": "https://piquelife.com/timbfcm",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://piquelife.com/timbfcm"
+        },
+        {
+          "type": "other",
+          "url": "https://piquelife.com/timbfcm"
+        },
+        {
+          "type": "other",
+          "url": "https://piquelife.com/timbfcm"
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "section": "New microphones I am testing for in-person recordings",
+      "category": "other",
+      "title": "RØDE’s Wireless GO II",
+      "creator": null,
+      "note": "It’s not a proper holiday gift guide without some gadgetry. “The Wireless GO II is an ultra-compact and extremely versatile dual channel wireless microphone system ideal for filmmaking, interviewing, reporting, and social content creation.” This is a new test for avoiding the cabling and hassle of normal lavalier mics.\n\n* * *\n\nAnd there you go! 12 of my favorite things that make great holiday gifts. I love them all and hope you do too.  \n​",
+      "original_url": "https://rode.com/en-us/microphones/wireless/wirelessgoii?variant_sku=WIGOII",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://rode.com/en-us/microphones/wireless/wirelessgoii?variant_sku=WIGOII"
+        }
+      ]
+    }
+  ]
 }

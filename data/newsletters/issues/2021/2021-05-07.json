@@ -7,7 +7,166 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "IN-SHADOW - A Modern Odyssey - Animated Short Film",
+      "creator": null,
+      "note": "This is the most gripping short animation I’ve seen in years. I think anyone who spends time on a computer or phone needs to watch it. The intensity is followed by redemption, and the artwork and art direction are spectacular throughout. It is written, directed, and produced by Lubomir Arsov ([@lubomirarsov](https://www.instagram.com/lubomirarsov/?hl=en)). For more, here is [the official website](https://www.inshadow.net/). And thanks to Joe P. for the great recommendation.",
+      "original_url": "https://www.youtube.com/watch?v=j800SVeiS5I",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=j800SVeiS5I"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/lubomirarsov/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.inshadow.net/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Music for ginger intermission —",
+      "category": "music",
+      "title": "Mama Clo",
+      "creator": "Thornato and Benjamín Vanegas",
+      "note": "([YouTube](https://www.youtube.com/watch?v=tW2cTkdhm_I), [Spotify](https://open.spotify.com/track/6Keph1R8W5UIsjTWxUAZEG?si=cd22cf68368a44cd)) by [Thornato](https://www.instagram.com/thornato/) and [Benjamín Vanegas](https://benjaminvanegas.bandcamp.com/).",
+      "original_url": "https://www.youtube.com/watch?v=tW2cTkdhm_I",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=tW2cTkdhm_I"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=tW2cTkdhm_I"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/6Keph1R8W5UIsjTWxUAZEG?si=cd22cf68368a44cd"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/thornato/"
+        },
+        {
+          "type": "other",
+          "url": "https://benjaminvanegas.bandcamp.com/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading and celebrating —",
+      "category": "article",
+      "title": "MDMA Reaches Next Step Toward Approval for Treatment",
+      "creator": "Rachel Nuwer",
+      "note": "(_The New York Times_). This is a very big deal, and the results further reinforce [why I became involved](https://tim.blog/2020/06/16/maps-capstone-challenge-mdma-ptsd/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) with these Phase 3 trials, the first conducted on psychedelic-assisted therapy. Huge thanks to all of you who supported the campaign! Thus far, the data represent a home run. Here are just a few highlights, and bolding is mine:  \n  \n“Two months after treatment, 67 percent of participants in the MDMA group no longer qualified for a diagnosis of PTSD, compared with 32 percent in the placebo group.  \n  \nMDMA produced no serious adverse side effects. Some participants temporarily experienced mild symptoms like nausea and loss of appetite.  \n  \n‘This is about as excited as I can get about a clinical trial,’ said Gul Dolen, a neuroscientist at Johns Hopkins University School of Medicine, who was not involved in the research. ‘There is nothing like this in clinical trial results for a neuropsychiatric disease.’”  \n…  \n  \n“An estimated 7 percent of the U.S. population will experience PTSD at some point in their life, and as many as 13 percent of combat veterans have the condition. In 2018, the U.S. Department of Veterans Affairs spent $17 billion on disability payments for over one million veterans with PTSD.  \n  \nFor the approximately half to one-third of people who do not find relief through treatment, PTSD can become chronic, lasting years or even a lifetime.  \n  \nThe 90 participants who took part in the Phase 3 trial included combat veterans, first responders and victims of sexual assault, mass shootings, domestic violence or childhood trauma. **All had severe PTSD and had been diagnosed, on average, for more than 14 years.** Many had a history of alcohol and substance use disorder, and 90 percent had considered suicide. The trial included data collected by 80 therapists at 15 sites in the United States, Canada and Israel.”",
+      "original_url": "https://www.nytimes.com/2021/05/03/health/mdma-approval.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/2021/05/03/health/mdma-approval.html"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/RachelNuwer"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/06/16/maps-capstone-challenge-mdma-ptsd/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading —",
+      "category": "book",
+      "title": "Buffalo for the Broken Heart: Restoring Life to a Black Hills Ranch",
+      "creator": "Dan O’Brien)_",
+      "note": ")_._ From the description: “For twenty years Dan O’Brien struggled to make ends meet on his cattle ranch in South Dakota. But when a neighbor invited him to lend a hand at the annual buffalo roundup, O’Brien was inspired to convert his own ranch, the Broken Heart, to buffalo. Starting with thirteen calves, ‘short-necked, golden balls of wool,’ O’Brien embarked on a journey that returned buffalo to his land for the first time in more than a century and a half. _Buffalo for the Broken Heart_ is at once a tender account of the buffaloes’ first seasons on the ranch and an engaging lesson in wildlife ecology. Whether he’s describing the grazing pattern of the buffalo, the thrill of watching a falcon home in on its prey, or the comical spectacle of a buffalo bull wallowing in the mud, O’Brien combines a novelist’s eye for detail with a naturalist’s understanding to create an enriching, entertaining narrative.”",
+      "original_url": "https://www.amazon.com/Buffalo-Broken-Heart-Restoring-Black/dp/037576139X/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Buffalo-Broken-Heart-Restoring-Black/dp/037576139X/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Dan_O'Brien_(author"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Podcast I’m nail-biting through —",
+      "category": "podcast",
+      "title": "Engineering the Apocalypse",
+      "creator": null,
+      "note": "on the [_Making Sense_](https://samharris.org/podcast/) podcast by [Sam Harris, PhD](https://tim.blog/2020/05/15/sam-harris-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). ([@SamHarrisOrg](https://twitter.com/SamHarrisOrg)). Description: “In this nearly 4-hour special episode, [Rob Reid](https://twitter.com/Rob_Reid) delivers a 100-minute monologue (broken up into 4 segments, and interleaved with discussions with Sam) about the looming danger of a man-made pandemic, caused by an artificially-modified pathogen. The risk of this occurring is far higher and nearer-term than almost anyone realizes.” Rob and Sam also discuss concrete, affordable, and scientifically-fascinating steps that can be taken now to massively mitigate the risks. Almost all those steps are also 100% applicable to natural pandemics, so they can decrease the odds of a future COVID-like outbreak. As an indication of Sam’s own urgency, his Waking Up Foundation has donated ~$500,000 to two organizations in the pandemic-resistance space ([Center for Communicable Disease Dynamics at Harvard University](https://ccdd.hsph.harvard.edu/) and [The Coalition for Epidemic Preparedness Innovations](https://cepi.net/)). Sam discusses them in the first few minutes of [his prior episode](https://samharris.org/podcasts/247-constructing-minds/).",
+      "original_url": "https://samharris.org/podcasts/special-episode-engineering-apocalypse/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://samharris.org/podcasts/special-episode-engineering-apocalypse/"
+        },
+        {
+          "type": "other",
+          "url": "https://samharris.org/podcast/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/05/15/sam-harris-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/SamHarrisOrg"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/Rob_Reid"
+        },
+        {
+          "type": "other",
+          "url": "https://ccdd.hsph.harvard.edu/"
+        },
+        {
+          "type": "other",
+          "url": "https://cepi.net/"
+        },
+        {
+          "type": "other",
+          "url": "https://samharris.org/podcasts/247-constructing-minds/"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“And I urge you to please notice when you are happy, and exclaim or murmur or think at some point, ‘If this isn’t nice, I don’t know what is.’” — Kurt VonnegutSmile this weekend! And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Kurt VonnegutSmile this weekend! And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Kurt_Vonnegut",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Kurt_Vonnegut"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

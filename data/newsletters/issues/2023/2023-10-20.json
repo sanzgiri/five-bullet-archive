@@ -6,7 +6,123 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to while working",
+      "category": "podcast",
+      "title": "Best of Shingo Nakamura 02 (2-Hour Melodic Progressive House Mix)",
+      "creator": null,
+      "note": "](https://www.youtube.com/watch?v=XSBmtKpcoTg)**.** [Shingo](https://www.instagram.com/shingonakamura/?hl=en), where have you been my whole life?",
+      "original_url": "https://www.youtube.com/watch?v=XSBmtKpcoTg",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=XSBmtKpcoTg"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/shingonakamura/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Helsinki spa that made my pores sing like angels",
+      "category": "other",
+      "title": "Löyly",
+      "creator": null,
+      "note": "One of _Time_ magazine’s “World’s Greatest Places to Visit, 2018,” this is one of the most amazing sauna houses I’ve ever seen. My first visit to Finland had to include a good sweat. Try the smoke sauna followed by a dip in the Baltic Sea to cool off.",
+      "original_url": "https://www.loylyhelsinki.fi/en",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.loylyhelsinki.fi/en"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Science I’m tracking",
+      "category": "music",
+      "title": "Personalized transcranial alternating current stimulation improves sleep quality: Initial findings",
+      "creator": null,
+      "note": null,
+      "original_url": "https://www.frontiersin.org/articles/10.3389/fnhum.2022.1066453/full",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.frontiersin.org/articles/10.3389/fnhum.2022.1066453/full"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m excited to share",
+      "category": "other",
+      "title": "An AI trained on my blog and podcast",
+      "creator": null,
+      "note": "!** I’m sharing this AI tool with _5-Bullet Friday_ subscribers first. Want to ask about productivity advice, sleep tips, or anything else explored on the blog and podcast? [Just ask the AI here](https://tim.blog/ai?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). I’d love to hear your feedback, as it’s an early beta, so please share your thoughts on Twitter by tagging me ([@tferriss](http://twitter.com/tferriss)) and using #timai as a hashtag. Special thanks to [Matt Mullenweg](https://tim.blog/2022/03/09/matt-mullenweg-antarctica/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) and the entire team at [WordPress.com](https://wordpress.com/wp/tim-ferriss/?partner_domain=tim.blog&utm_source=Automattic&utm_medium=colophon&utm_campaign=Concierge%20Referral&utm_term=tim.blog) for building this!",
+      "original_url": "https://tim.blog/ai?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/ai?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/ai?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "http://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/03/09/matt-mullenweg-antarctica/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://wordpress.com/wp/tim-ferriss/?partner_domain=tim.blog&utm_source=Automattic&utm_medium=colophon&utm_campaign=Concierge%20Referral&utm_term=tim.blog"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering once again",
+      "category": "quote",
+      "title": "“Language can become a screen which stands between the thinker and reality. This is the reason why true creativity often starts where language ends.” — Arthur Koestler (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my interview with National Institute on Drug Abuse (NIDA) Director Dr. Nora Volkow, my conversation with former Google CEO Eric Schmidt, and this clip on Neil Gaiman’s #1 rule for writing. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Arthur Koestler",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Arthur_Koestler",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Arthur_Koestler"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/W429X"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/05/24/dr-nora-volkow/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/10/25/eric-schmidt-ai/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/3gGocFUOYqs?si=Hwmgp9Ts28Ol9agm"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

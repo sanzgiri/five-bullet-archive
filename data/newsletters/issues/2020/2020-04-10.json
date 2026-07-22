@@ -1,13 +1,213 @@
 {
   "schema_version": 1,
   "issue_date": "2020-04-10",
-  "subject": "5-Bullet Friday — April 10, 2020 ",
+  "subject": "5-Bullet Friday — April 10, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Song I’m enjoying —",
+      "category": "music",
+      "title": "Chancha Via Circuito - Jardines ft. Lido Pimienta",
+      "creator": null,
+      "note": "([@chanchaviacircuito](https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/89bqhohxdlpwnw/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2NoYW5jaGF2aWFjaXJjdWl0by8=)).",
+      "original_url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/r7a8hohed0vkzn/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1GTkllMFdOamJJNA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/r7a8hohed0vkzn/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1GTkllMFdOamJJNA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/89bqhohxdlpwnw/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2NoYW5jaGF2aWFjaXJjdWl0by8="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Podcast I’m listening to —",
+      "category": "podcast",
+      "title": "Stephen Wolfram on Guy Kawasaki’s Remarkable People podcast",
+      "creator": null,
+      "note": "I have met Stephen only once, but his breadth of knowledge blew my mind. I’ve been waiting for a podcast episode like this ever since. Here’s the official description from Guy Kawasaki ([@GuyKawasaki](https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/dqueh0hm60wdn6/aHR0cHM6Ly90d2l0dGVyLmNvbS9HdXlLYXdhc2FraQ==)): “Have you ever wondered what it’s like to get a PhD in Physics at 20 and win a MacArthur \\[‘Genius Grant’\\] Award at 21? You’ll get to find out with this episode’s interview of _Remarkable People_ with Stephen Wolfram. Saying he is a ‘physicist’ is like saying LeBron James is a ‘basketball player.’ If you’re a math geek, you’ve probably used a product he created called Mathematica. He’s also built a knowledge engine called Wolfram Alpha that you have used in Siri, Alexa, Bing, or DuckDuckGo.” Listen to the interview [on Apple Podcasts](https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/77i7h8hmlopd55/aHR0cHM6Ly9wb2RjYXN0cy5hcHBsZS5jb20vdXMvcG9kY2FzdC9zdGVwaGVuLXdvbGZyYW0tcGh5c2ljaXN0LXlvdW5nZXN0LW1hY2FydGh1ci1hd2FyZC9pZDE0ODMwODE4Mjc_aT0xMDAwNDU5OTQ5MTE4), [Spotify](https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/znfghnh863r5xv/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL2VwaXNvZGUvM2dNRmRxd0tyR2x6N1VCQVF5TXFQMA==), or wherever you get your podcasts. I’ve previously recommended [this post on personal productivity systems](https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/63teh8hdr76xem/aHR0cHM6Ly93cml0aW5ncy5zdGVwaGVud29sZnJhbS5jb20vMjAxOS8wMi9zZWVraW5nLXRoZS1wcm9kdWN0aXZlLWxpZmUtc29tZS1kZXRhaWxzLW9mLW15LXBlcnNvbmFsLWluZnJhc3RydWN0dXJlLw==) from Stephen, which is still worth checking out.",
+      "original_url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/l6hehmhz23vq7e/aHR0cHM6Ly9ndXlrYXdhc2FraS5jb20vc3RlcGhlbi13b2xmcmFtLXJlbWFya2FibGUtcGVvcGxlLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/l6hehmhz23vq7e/aHR0cHM6Ly9ndXlrYXdhc2FraS5jb20vc3RlcGhlbi13b2xmcmFtLXJlbWFya2FibGUtcGVvcGxlLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/dqueh0hm60wdn6/aHR0cHM6Ly90d2l0dGVyLmNvbS9HdXlLYXdhc2FraQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/77i7h8hmlopd55/aHR0cHM6Ly9wb2RjYXN0cy5hcHBsZS5jb20vdXMvcG9kY2FzdC9zdGVwaGVuLXdvbGZyYW0tcGh5c2ljaXN0LXlvdW5nZXN0LW1hY2FydGh1ci1hd2FyZC9pZDE0ODMwODE4Mjc_aT0xMDAwNDU5OTQ5MTE4"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/znfghnh863r5xv/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL2VwaXNvZGUvM2dNRmRxd0tyR2x6N1VCQVF5TXFQMA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/63teh8hdr76xem/aHR0cHM6Ly93cml0aW5ncy5zdGVwaGVud29sZnJhbS5jb20vMjAxOS8wMi9zZWVraW5nLXRoZS1wcm9kdWN0aXZlLWxpZmUtc29tZS1kZXRhaWxzLW9mLW15LXBlcnNvbmFsLWluZnJhc3RydWN0dXJlLw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m rereading —",
+      "category": "article",
+      "title": "The Risk of Discovery",
+      "creator": null,
+      "note": "**essay by Paul Graham (**[**@paulg**](https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/rps8hohed0vkrv/aHR0cHM6Ly90d2l0dGVyLmNvbS9wYXVsZw==)**),** which is only a few paragraphs long. It’s worth rereading a few times.\n\n**Something I’m watching closely and sharing widely** **—**[**Fast Grants**](https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/m6a7h5h75802p8/aHR0cHM6Ly9mYXN0Z3JhbnRzLm9yZy8=)**.** This launched just days ago, and it appears to offer the fastest science grants in modern history. From the website: **“If you are a scientist at an academic institution currently working on a COVID-19 related project and in need of funding, we invite you to apply for a Fast Grant. Fast Grants are $10k to $500k, and decisions are made in under 48 hours.” Please forward this to any scientists who might be interested.** The grants are currently supported by John Collison ([@collision](https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/okbkhqh79rlxvo/aHR0cHM6Ly90d2l0dGVyLmNvbS9jb2xsaXNpb24=)), Patrick Collison ([@patrickc](https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/kwhmh6h3wl2zqw/aHR0cHM6Ly90d2l0dGVyLmNvbS9wYXRyaWNrYy8=)), Paul Graham ([@paulg](https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/lguehmhz23vq9v/aHR0cHM6Ly90d2l0dGVyLmNvbS9wYXVsZw==)), Reid Hoffman ([@reidhoffman](https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/4vivhehnlrqwe7/aHR0cHM6Ly90d2l0dGVyLmNvbS9yZWlkaG9mZm1hbg==)), Fiona McKean ([@FionaMcK](https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/rdf8hohed0vkrp/aHR0cHM6Ly90d2l0dGVyLmNvbS9GaW9uYU1jSw==)) and Tobias Lütke ([@tobi](https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/8wtqhohxdlpwv4/aHR0cHM6Ly90d2l0dGVyLmNvbS90b2Jp)), Yuri ([@yurimilner](https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/l5cehmhz23vqm5/aHR0cHM6Ly90d2l0dGVyLmNvbS95dXJpbWlsbmVy)) and Julia Milner, and Chris and Crystal Sacca ([@sacca](https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/d0pseh0hm60wd94/aHR0cHM6Ly90d2l0dGVyLmNvbS9zYWNjYQ==) and [@crystale](https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/755a7h8hmlopd26/aHR0cHM6Ly90d2l0dGVyLmNvbS9jcnlzdGFsZQ==)). I’m thrilled to see a bunch of past podcast guests and friends on this list. Huge kudos to all of them. For those interested in my past interviews with the gang, here’s the list, in the order they appeared: “[Chris Sacca on Being Different and Making Billions](https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/zl4bghnh863r527/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzA1LzMwL2NocmlzLXNhY2NhLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=),” “[The Oracle of Silicon Valley, Reid Hoffman](https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/xmvhph6hl2wdkvd/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzA4LzMxL3RoZS1vcmFjbGUtb2Ytc2lsaWNvbi12YWxsZXktcmVpZC1ob2ZmbWFuLXBsdXMtbWljaGFlbC1tY2N1bGxvdWdoLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=),” “[Patrick Collison — CEO of Stripe](https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/k0eumh6h3wl2z03/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzEyLzIwL3BhdHJpY2stY29sbGlzb24vP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg==),” and “[Tobi Lütke — From Snowboard Shop to Billion-Dollar Company](https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/276i2hohe920lpo/aHR0cHM6Ly90aW0uYmxvZy8yMDE5LzAyLzA3L3RvYmktbHV0a2Utc2hvcGlmeS8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm).”",
+      "original_url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/gncnh5hk93ogwv/aHR0cDovL3d3dy5wYXVsZ3JhaGFtLmNvbS9kaXNjLmh0bWw=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/gncnh5hk93ogwv/aHR0cDovL3d3dy5wYXVsZ3JhaGFtLmNvbS9kaXNjLmh0bWw="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/rps8hohed0vkrv/aHR0cHM6Ly90d2l0dGVyLmNvbS9wYXVsZw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/m6a7h5h75802p8/aHR0cHM6Ly9mYXN0Z3JhbnRzLm9yZy8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/okbkhqh79rlxvo/aHR0cHM6Ly90d2l0dGVyLmNvbS9jb2xsaXNpb24="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/kwhmh6h3wl2zqw/aHR0cHM6Ly90d2l0dGVyLmNvbS9wYXRyaWNrYy8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/lguehmhz23vq9v/aHR0cHM6Ly90d2l0dGVyLmNvbS9wYXVsZw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/4vivhehnlrqwe7/aHR0cHM6Ly90d2l0dGVyLmNvbS9yZWlkaG9mZm1hbg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/rdf8hohed0vkrp/aHR0cHM6Ly90d2l0dGVyLmNvbS9GaW9uYU1jSw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/8wtqhohxdlpwv4/aHR0cHM6Ly90d2l0dGVyLmNvbS90b2Jp"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/l5cehmhz23vqm5/aHR0cHM6Ly90d2l0dGVyLmNvbS95dXJpbWlsbmVy"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/d0pseh0hm60wd94/aHR0cHM6Ly90d2l0dGVyLmNvbS9zYWNjYQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/755a7h8hmlopd26/aHR0cHM6Ly90d2l0dGVyLmNvbS9jcnlzdGFsZQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/zl4bghnh863r527/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzA1LzMwL2NocmlzLXNhY2NhLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/xmvhph6hl2wdkvd/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzA4LzMxL3RoZS1vcmFjbGUtb2Ytc2lsaWNvbi12YWxsZXktcmVpZC1ob2ZmbWFuLXBsdXMtbWljaGFlbC1tY2N1bGxvdWdoLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/k0eumh6h3wl2z03/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzEyLzIwL3BhdHJpY2stY29sbGlzb24vP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/276i2hohe920lpo/aHR0cHM6Ly90aW0uYmxvZy8yMDE5LzAyLzA3L3RvYmktbHV0a2Utc2hvcGlmeS8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’ve been eagerly preparing for you —",
+      "category": "other",
+      "title": "How to Change Your Mind",
+      "creator": null,
+      "note": "!!!** This is one of my favorite books of the past five years, and I give copies to all of my friends when they visit. I have shelves full of copies. AND NOW... Michael Pollan ([@michaelpollan](https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/38rtphkhnm79x57/aHR0cHM6Ly90d2l0dGVyLmNvbS9taWNoYWVscG9sbGFu)) has been kind enough to sign 138 of them—what I had on hand at my house—so that I can mail them out as surprise gifts! Thank you, Michael! To throw your hat in the ring, please fill out [this form](https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/r8wc8hohed0vklx/aHR0cHM6Ly9mb3Jtcy5nbGUvbXpVVTVOcWVGTkRVd3ZpNjk=) by 11:59 PM PT on Tuesday, and my team will select 138 folks at random as lucky winners. If you don’t win, I still strongly encourage you to listen to [my first interview with Michael](https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/8kdsqhohxdlpw6k/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzA1LzA2L21pY2hhZWwtcG9sbGFuLWhvdy10by1jaGFuZ2UteW91ci1taW5kLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=) and consider [getting a copy](https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/4zpavhehnlrqwd0/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9DaGFuZ2UtWW91ci1NaW5kLUNvbnNjaW91c25lc3MtVHJhbnNjZW5kZW5jZS9kcC8wNzM1MjI0MTUzLw==).",
+      "original_url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/gk0fnh5hk93og8e/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9DaGFuZ2UtWW91ci1NaW5kLUNvbnNjaW91c25lc3MtVHJhbnNjZW5kZW5jZS9kcC8wNzM1MjI0MTUzLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/gk0fnh5hk93og8e/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9DaGFuZ2UtWW91ci1NaW5kLUNvbnNjaW91c25lc3MtVHJhbnNjZW5kZW5jZS9kcC8wNzM1MjI0MTUzLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/38rtphkhnm79x57/aHR0cHM6Ly90d2l0dGVyLmNvbS9taWNoYWVscG9sbGFu"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/r8wc8hohed0vklx/aHR0cHM6Ly9mb3Jtcy5nbGUvbXpVVTVOcWVGTkRVd3ZpNjk="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/8kdsqhohxdlpw6k/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzA1LzA2L21pY2hhZWwtcG9sbGFuLWhvdy10by1jaGFuZ2UteW91ci1taW5kLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/4zpavhehnlrqwd0/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9DaGFuZ2UtWW91ci1NaW5kLUNvbnNjaW91c25lc3MtVHJhbnNjZW5kZW5jZS9kcC8wNzM1MjI0MTUzLw=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“After tragedies, one has to invent a new world, knit it or embroider, make it up. It’s not gonna be given to you because you deserve it; it doesn’t work that way. You have to imagine something that doesn’t exist and dig a cave into the future and demand space. It’s a territorial hope affair. At the time, that digging is utopian, but in the future, it will become your reality.”— Björk And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim P.S. If you missed it, I published a new blog post this week titled “A Dialogue with Yourself: Past, Present, and Future” [](https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/274i2hohe920lpq/aHR0cHM6Ly90aW0uYmxvZy90aW0tZmVycmlzcy1ib29rcy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9zb3VyY2U9bWVkaXVtPTViZi10ZW1wbGF0ZS1oZWFkZXI=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Björk And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim P.S. If you missed it, I published a new blog post this week titled “A Dialogue with Yourself: Past, Present, and Future”",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/757b7h8hmlopd25/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQmolQzMlQjZyaw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/757b7h8hmlopd25/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQmolQzMlQjZyaw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/zlnhghnh863r52v/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/683ueh8hdr76x8m/aHR0cHM6Ly90aW0uYmxvZy8yMDIwLzA0LzA4L2EtZGlhbG9ndWUtd2l0aC15b3Vyc2VsLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        },
+        {
+          "type": "other",
+          "url": "https://files.convertkitcdn.com/assets/pictures/11125/2272828/content_Book_Header_FINAL.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/gk5fnh5hk93og82/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/e5ux264rrb7h4l2q8bz"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/e5ux264rrb7h4l2q8bz/wv4c2hgh37wvm65/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

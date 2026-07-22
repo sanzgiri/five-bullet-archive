@@ -7,7 +7,127 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading (funny but not practical) —",
+      "category": "article",
+      "title": "Dear Bill and/or Melinda",
+      "creator": null,
+      "note": "(_The New Yorker_). This caught me off guard and made me laugh out loud. The funniest part—and least funny part—is how many emails I actually receive that are some version of this.",
+      "original_url": "https://www.newyorker.com/humor/daily-shouts/dear-bill-andor-melinda",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.newyorker.com/humor/daily-shouts/dear-bill-andor-melinda"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading (not funny but very practical) —",
+      "category": "article",
+      "title": "Introduction to Effective Altruism (EA)",
+      "creator": null,
+      "note": "](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/)**.** I wanted to reread the basics of EA, as it’s been a few years since [my podcast with Will MacAskill](https://tim.blog/2015/11/22/will-macaskill/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), one of the originators of the movement. This review came about because I was invited to join a psychedelics-focused Ask Me Anything (AMA) [on the Effective Altruism Forum](https://forum.effectivealtruism.org/posts/NdBj6tcRwLawN99pm/ama-tim-ferriss-michael-pollan-and-dr-matthew-w-johnson-on), alongside [Michael Pollan](https://tim.blog/2019/03/21/michael-pollan-sxsw/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@michaelpollan](https://twitter.com/michaelpollan)), bestselling author of [_How to Change Your Mind_](https://www.amazon.com/Change-Your-Mind-Consciousness-Transcendence/dp/0735224153/), and [Dr. Matthew W. Johnson](https://hopkinspsychedelic.org/johnson) ([@Drug\\_Researcher](https://twitter.com/Drug_Researcher)), professor of psychiatry at Johns Hopkins. Huge thanks to the community for all of the wonderful questions. I learned a lot and had a blast.",
+      "original_url": "https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/11/22/will-macaskill/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://forum.effectivealtruism.org/posts/NdBj6tcRwLawN99pm/ama-tim-ferriss-michael-pollan-and-dr-matthew-w-johnson-on"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/03/21/michael-pollan-sxsw/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/michaelpollan"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Change-Your-Mind-Consciousness-Transcendence/dp/0735224153/"
+        },
+        {
+          "type": "other",
+          "url": "https://hopkinspsychedelic.org/johnson"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/Drug_Researcher"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m cooking with —",
+      "category": "other",
+      "title": "Rao’s Sensitive Marinara",
+      "creator": null,
+      "note": "My girlfriend is currently following a [low-FODMAP diet](https://www.hopkinsmedicine.org/health/wellness-and-prevention/fodmap-diet-what-you-need-to-know), which led us to this product as our default tomato sauce. Last night, I incorporated it into a ground [Maui Nui venison](https://mauinuivenison.com/) stew (also excellent on top of spaghetti squash “pasta”), including a few dashes of ginger, cumin, paprika, and cinnamon. It turned out spectacularly. From the Rao description: “This sauce does not contain onions or garlic, while still keeping all the flavor of our slow-simmered Italian tomatoes.”",
+      "original_url": "https://www.raos.com/product/sensitive-marinara-sauce/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.raos.com/product/sensitive-marinara-sauce/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/fodmap-diet-what-you-need-to-know"
+        },
+        {
+          "type": "other",
+          "url": "https://mauinuivenison.com/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m occasionally stealing from my girlfriend —",
+      "category": "other",
+      "title": "Four Sigmatic’s Body Butter",
+      "creator": null,
+      "note": "She \\*loves\\* this stuff and puts it on her face before bed. I learned this when I had to ask her, “Why does your face smell like chocolate?” Short description: “This nourishing all-around body butter is made with real (super)food ingredients. It’s so pure you can eat it. Apply to your face before bed to reduce the appearance of fine lines and wrinkles. Then rub on your dry hands, lips, or knees to moisturize.”",
+      "original_url": "https://us.foursigmatic.com/products/superfood-body-butter",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://us.foursigmatic.com/products/superfood-body-butter"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“You talk when you cease to be at peace with your thoughts.” ― Kahlil Gibran, The Prophet )And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": null,
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Kahlil_Gibran",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Kahlil_Gibran"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/The_Prophet_(book"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

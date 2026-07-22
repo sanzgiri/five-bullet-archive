@@ -6,7 +6,175 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short article I’m revisiting",
+      "category": "article",
+      "title": "Subtract",
+      "creator": "Derek Sivers",
+      "note": "([@sivers](https://twitter.com/sivers)), programmer-musician-ringmaster-philosopher. For more of Derek’s wisdom, hilarity, and tactical advice, be sure to check out [this](https://tim.blog/2015/12/14/derek-sivers-on-developing-confidence-finding-happiness-and-saying-no-to-millions/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) and [this](https://tim.blog/2015/12/28/derek-sivers-reloaded-on-success-habits-and-billionaires-with-perfect-abs/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), both of which are all-time listener favorites. I’m considering rereading my highlights of [_Four Thousand Weeks_](https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/0374159122) to reinforce some of his lessons learned.",
+      "original_url": "https://sive.rs/subtract",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://sive.rs/subtract"
+        },
+        {
+          "type": "other",
+          "url": "https://sive.rs/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/sivers"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/12/14/derek-sivers-on-developing-confidence-finding-happiness-and-saying-no-to-millions/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/12/28/derek-sivers-reloaded-on-success-habits-and-billionaires-with-perfect-abs/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/0374159122"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "G.O.A.T.",
+      "creator": "Polyphia",
+      "note": "([YouTube](https://www.youtube.com/watch?v=9_gkpYORQLU), [Spotify](https://open.spotify.com/track/0YPuRrM2NwzdtuShUKkts6?si=2gPqqF6oRx6L5lKRNtKy6g&context=spotify%3Asearch%3Apolphia)) by [Polyphia](https://polyphia.com/) ([@polyphia](https://twitter.com/polyphia)). If you want to see another video of how such craziness comes together, [check this out](https://twitter.com/polyphia/status/1524043768466395136). I first heard Polyphia over the sound system at a climbing gym, and I literally jumped off the wall to figure out who was playing. Not everyone’s cup of tea, but I dig ’em for writing.",
+      "original_url": "https://www.youtube.com/watch?v=9_gkpYORQLU",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=9_gkpYORQLU"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=9_gkpYORQLU"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/0YPuRrM2NwzdtuShUKkts6?si=2gPqqF6oRx6L5lKRNtKy6g&context=spotify%3Asearch%3Apolphia"
+        },
+        {
+          "type": "other",
+          "url": "https://polyphia.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/polyphia"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/polyphia/status/1524043768466395136"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Study I’m reading",
+      "category": "article",
+      "title": "Exogenous Testosterone or Testosterone with Finasteride Increases Bone Mineral Density in Older Men with Low Serum Testosterone",
+      "creator": null,
+      "note": "I’m not a doctor and don’t play one on the Internet, but this was sent to me by a well-respected researcher who focuses a lot on [mTOR](https://en.wikipedia.org/wiki/MTOR) and other subjects. I take neither drug but found it worth the read. Here is an excerpt of the abstract:  \n​**​  \n​**“This finding suggests that dihydrotestosterone is not essential for the beneficial effects of T on BMD in men. In addition, the concomitant administration of F with T appears to attenuate the impact of T therapy on prostate size and PSA and might reduce the chance of benign prostatic hypertrophy or other prostate-related complications in older men on T therapy. These findings have important implications for the prevention and treatment of osteoporosis in older men with low T levels.”",
+      "original_url": "https://academic.oup.com/jcem/article/89/2/503/2840744",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://academic.oup.com/jcem/article/89/2/503/2840744"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/MTOR"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Documentary I’m watching",
+      "category": "video",
+      "title": "The Gatekeepers",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/Gatekeepers-Yuval-Diskin/dp/B00DHNB3X0/), [YouTube](https://www.youtube.com/watch?v=mIJ82edWqWg), [Apple TV](https://tv.apple.com/us/movie/the-gatekeepers/umc.cmc.1z9t0ip079olblpwrhi3kbi13?action=play)). Here is the official description: “Charged with overseeing Israel’s war on terror—both Palestinian and Jewish—the head of the [Shin Bet](https://en.wikipedia.org/wiki/Shin_Bet), Israel’s secret service, is present at the crossroad of every decision made. For the first time ever, six former heads of the agency agreed to share their insights and reflect publicly on their actions and decisions. _The Gatekeepers_ offers an exclusive account of the sum of their successes and failures. It validates the reasons that each man individually and the six as a group came to reconsider their hard-line positions and advocate a conciliatory approach toward their enemies based on a two-state solution.” The documentary was nominated for Best Documentary Feature at the 85th Academy Awards and has a [94% score on Rotten Tomatoes](https://www.rottentomatoes.com/m/the_gatekeepers_2012), and _The New York Times_ [described it](https://www.nytimes.com/2012/12/16/movies/a-o-scotts-25-best-films-of-2012.html?pagewanted=all) as “essential, eye-opening viewing if you think you understand the Middle East.” You can [find the trailer here](https://www.youtube.com/watch?v=HdMjr8cuEy8) and read [the reception section on Wikipedia](https://en.wikipedia.org/wiki/The_Gatekeepers_(film)#Reception) to see the broader scope of the response to the film in Israel and elsewhere.",
+      "original_url": "https://www.amazon.com/Gatekeepers-Yuval-Diskin/dp/B00DHNB3X0/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Gatekeepers-Yuval-Diskin/dp/B00DHNB3X0/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Gatekeepers-Yuval-Diskin/dp/B00DHNB3X0/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=mIJ82edWqWg"
+        },
+        {
+          "type": "other",
+          "url": "https://tv.apple.com/us/movie/the-gatekeepers/umc.cmc.1z9t0ip079olblpwrhi3kbi13?action=play"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Shin_Bet"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rottentomatoes.com/m/the_gatekeepers_2012"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nytimes.com/2012/12/16/movies/a-o-scotts-25-best-films-of-2012.html?pagewanted=all"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=HdMjr8cuEy8"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/The_Gatekeepers_(film"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The test of all beliefs is their practical effect in life. If it be true that optimism compels the world forward, and pessimism retards it, then it is dangerous to propagate a pessimistic philosophy.” — Helen Keller, Optimism_ And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Complement this edition of 5-Bullet Friday with my interview with Greg McKeown (“How to Master Essentialism”), which covers how to subtract the trivial many and find the essential; this deep-dive interview with the legendary Tom Morello of Rage Against The Machine fame; and these astounding card tricks performed by magician and “card mechanic” Richard Turner. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Helen Keller, Optimism_ And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Complement this edition of 5-Bullet Friday with my interview with Greg McKeown",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Helen_Keller",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Helen_Keller"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/01/09/greg-mckeown-essentialism/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=biILqEvP8pc"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=R8veYTNjXSk"
+        }
+      ]
+    }
+  ]
 }

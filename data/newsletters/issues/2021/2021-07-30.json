@@ -7,7 +7,120 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "New tech tool I am enjoying —",
+      "category": "other",
+      "title": "Logitech BRIO Ultra HD 4K Webcam",
+      "creator": null,
+      "note": "I’ve always used my built-in MacBook lens for podcasting, Zoom, and so on. I looked into getting a prosumer setup with a great Sony camera, but I wasn’t motivated enough to fuss with lots of setup on a laptop that is by definition going to move a lot. This BRIO webcam was the middle ground I found, and I love it. What’s most remarkable and surprising is that, although I bought it to improve the _other_ side’s experience, it makes _my own_ experience of video chats much pleasanter and much easier on the eyes. Here’s the official description: “Brio is a remarkable piece of technology that streams crystal-clear video with superb resolution, frame rate, color, and detail, including autofocus and 5x HD zoom. Brio delivers 4K Ultra HD video at 30 fps, HD 1080p at either 30 or 60 fps, and HD 720p at 30, 60, or an ultra-smooth 90 fps for outstanding clarity, smoothness, and detail.”  \n  \n**What I’m listening to and studying** **—  \n****“**[**Un Urlo**](https://www.youtube.com/watch?v=D8h_5cXInLw)**”** by [Articolo 31](https://en.wikipedia.org/wiki/Articolo_31) ([YouTube](https://www.youtube.com/watch?v=D8h_5cXInLw), [Spotify](https://open.spotify.com/track/5q2VLWdcivagFiJCXqltQS?autoplay=true); [link to lyrics](https://genius.com/Articolo-31-un-urlo-lyrics)). I often use music and comic books (e.g., [One Piece](https://www.youtube.com/watch?v=khMd1MLG8fo) has been translated into many languages) to resurrect languages. This is an example of the former. I studied Italian briefly 100 years ago, and this very old hip-hop track contains plenty of vocab and grammar to jump-start the brain engines. For much more detail on accelerated language learning, I suggest exploring the following articles, even with some cringeworthy and clickbaity headlines. The following three articles are complementary and not totally overlapping, despite similar wording:  \n“[12 Rules for Learning Foreign Languages in Record Time](https://tim.blog/2014/03/21/how-to-learn-a-foreign-language-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf),”  \n“[How to Learn Any Language in Record Time and Never Forget It](https://tim.blog/2014/07/16/how-to-learn-any-language-in-record-time-and-never-forget-it/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf),”  \n“[How to Learn Any Language in 3 Months](https://tim.blog/2009/01/20/learning-language/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf).”  \nPlus, other specialized posts in [my language learning category on the blog](https://tim.blog/category/language/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf).",
+      "original_url": "https://www.amazon.com/Logitech-BRIO-Conferencing-Recording-Streaming/dp/B01N5UOYC4/ref=sr_1_3_mod_primary_new?dchild=1&keywords=logitech+brio&qid=1626817870&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-3",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Logitech-BRIO-Conferencing-Recording-Streaming/dp/B01N5UOYC4/ref=sr_1_3_mod_primary_new?dchild=1&keywords=logitech+brio&qid=1626817870&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-3"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=D8h_5cXInLw"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Articolo_31"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=D8h_5cXInLw"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/5q2VLWdcivagFiJCXqltQS?autoplay=true"
+        },
+        {
+          "type": "other",
+          "url": "https://genius.com/Articolo-31-un-urlo-lyrics"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=khMd1MLG8fo"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/03/21/how-to-learn-a-foreign-language-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/07/16/how-to-learn-any-language-in-record-time-and-never-forget-it/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2009/01/20/learning-language/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/category/language/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Corrections to Misinformation Being Spread about MAPS and IPCI",
+      "creator": "David Bronner",
+      "note": ". I consider MAPS and IPCI to be two of the clear good guys in the psychedelic ecosystem. I know the founders and leadership well. There appears to be a smear campaign afoot, and the claims are ridiculous and unfounded. Nearly everything devolves into a zero-sum game if we let human nature run reflexively without pause. It takes extra effort—sometimes a lot of effort—to remain on guard against our lesser instincts.",
+      "original_url": "https://www.drbronner.com/all-one-blog/2021/07/corrections-to-misinformation-being-spread-about-maps-and-ipci/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.drbronner.com/all-one-blog/2021/07/corrections-to-misinformation-being-spread-about-maps-and-ipci/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.drbronner.com/media-center/executive-team/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching (short) —",
+      "category": "video",
+      "title": "We Will Find It",
+      "creator": null,
+      "note": "from [Zoï Tatopoulos](https://www.instagram.com/ztato/?hl=en). The art direction, dancing, and cinematography in this video are outstanding. It’s very intense, and I debated whether to include it in 5BF. In the end, its sheer originality (e.g., the first-person-perspective flip partway through) compelled me to run the risk that many of you will conclude with some version of “What in the holy f--- did I just watch?” For those of you who are extra frisky, it’s a good idea to watch this one sober.",
+      "original_url": "https://www.instagram.com/p/CQwLHvnDTa1/?hl=en",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/p/CQwLHvnDTa1/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/ztato/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“For the classics, philosophical insight was the product of a life of leisure; for me, a life of leisure is the product of philosophical insight.” — Nassim Nicholas Taleb And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Nassim Nicholas Taleb And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

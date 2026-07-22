@@ -6,7 +6,139 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Book I’m reading —",
+      "category": "book",
+      "title": "This Is How You Lose the Time War",
+      "creator": "Amal El-Mohtar",
+      "note": "([@tithenai](https://twitter.com/tithenai?lang=en)) and [Max Gladstone](https://www.maxgladstone.com/) ([@maxgladstone](https://twitter.com/maxgladstone)). This fast fiction read has won just about everything: the Nebula Award for Best Novella of 2019, the 2020 Hugo Award for Best Novella, and more. DO NOT look at the Amazon description, any reviews, or any overviews of the plot. Just buy it and dive in. The less you know beforehand, the better, and its 150–190 pages will fly by. Try the first 20–30 pages, and you’ll see what I mean.",
+      "original_url": "https://www.amazon.com/This-How-You-Lose-Time-ebook/dp/B07MNG496J/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/This-How-You-Lose-Time-ebook/dp/B07MNG496J/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr="
+        },
+        {
+          "type": "other",
+          "url": "https://amalelmohtar.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tithenai?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.maxgladstone.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/maxgladstone"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Gadget that I’m using and enjoying —",
+      "category": "other",
+      "title": "Arc Lighter - USB Rechargeable, Windproof, Flameless Plasma Lighter",
+      "creator": null,
+      "note": "I received this as a gift, and it doesn’t have any branding on it. So while I can’t be 100% sure, the linked Amazon lighter appears identical.",
+      "original_url": "https://www.amazon.com/dp/B0834RQNWG/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/dp/B0834RQNWG/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Me Miras Pero No Me Ves",
+      "creator": "María José Llergo",
+      "note": "([YouTube](https://www.youtube.com/watch?v=My6clOj_XXg), [Spotify](https://open.spotify.com/track/4KzfeYR1CV81zCIcgLxS81?autoplay=true)) by [María José Llergo](https://www.mariajosellergo.com/) ([@mjllergo](https://www.instagram.com/mjllergo/)). For more context: “[Spanish Singer María José Llergo on Flamenco’s Radical Roots](https://www.rollingstone.com/music/music-latin/maria-jose-llergo-sanacion-ep-flamenco-romani-roots-947539/).” (_Rolling Stone_)",
+      "original_url": "https://www.youtube.com/watch?v=My6clOj_XXg",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=My6clOj_XXg"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=My6clOj_XXg"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/4KzfeYR1CV81zCIcgLxS81?autoplay=true"
+        },
+        {
+          "type": "other",
+          "url": "https://www.mariajosellergo.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/mjllergo/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rollingstone.com/music/music-latin/maria-jose-llergo-sanacion-ep-flamenco-romani-roots-947539/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading (short) —",
+      "category": "article",
+      "title": "Remember to Remember: Take Away Lessons from My Interview with Tim Ferriss",
+      "creator": "Dennis McKenna",
+      "note": "([@dennismckenna4](https://twitter.com/dennismckenna4?lang=en)). I found this article to be a powerful reminder of powerful reminders. Even if you never hear [our conversation](https://tim.blog/2021/07/21/dennis-mckenna/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), this short read has tremendous value. **P.S.** I’m part of a related panel that has been submitted to SXSW. If you’d like to see it happen, [please upvote it here](https://panelpicker.sxsw.com/vote/114695). The video intro is somewhat odd, so if you watch it, you can skip ahead to the 40-second mark.",
+      "original_url": "https://mckenna.academy/viewfromthefarside?id=9",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://mckenna.academy/viewfromthefarside?id=9"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/07/21/dennis-mckenna/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/dennismckenna4?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/07/21/dennis-mckenna/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://panelpicker.sxsw.com/vote/114695"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“I think of a hero as someone who understands the degree of responsibility that comes with his freedom.”— Bob Dylan And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Bob Dylan And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Bob_Dylan",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Bob_Dylan"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

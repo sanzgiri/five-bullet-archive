@@ -6,7 +6,131 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Cappuccino Lovely: No. 2. Milk",
+      "creator": "Chin Cheng Lin",
+      "note": "([YouTube](https://www.youtube.com/watch?v=ajumGgUOuvk), [Spotify](https://open.spotify.com/track/0c0JQue8R16oT72mDIPmFk)) by [Chin Cheng Lin](http://www.chinchenglin.com/) ([@JimLin51438481](https://twitter.com/JimLin51438481)).",
+      "original_url": "https://www.youtube.com/watch?v=ajumGgUOuvk",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=ajumGgUOuvk"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=ajumGgUOuvk"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/0c0JQue8R16oT72mDIPmFk"
+        },
+        {
+          "type": "other",
+          "url": "http://www.chinchenglin.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/JimLin51438481"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "New FaceTime setting I’ve discovered —",
+      "category": "other",
+      "title": "Voice Isolation mode",
+      "creator": null,
+      "note": "Thank you to HV for introducing me to this. Description: “When you want your voice to be heard clearly in a FaceTime call and other sounds filtered out, you can turn on Voice Isolation mode. Voice Isolation mode prioritizes your voice in a FaceTime call and blocks out the ambient noise. During a FaceTime call, open Control Center, tap Mic Mode, then select Voice Isolation.” [Here’s how to try it out](https://support.apple.com/guide/iphone/change-the-audio-settings-iphb54d5dee2/ios).",
+      "original_url": "https://support.apple.com/guide/iphone/change-the-audio-settings-iphb54d5dee2/ios",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://support.apple.com/guide/iphone/change-the-audio-settings-iphb54d5dee2/ios"
+        },
+        {
+          "type": "other",
+          "url": "https://support.apple.com/guide/iphone/change-the-audio-settings-iphb54d5dee2/ios"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "The Ice",
+      "creator": "William L",
+      "note": "with photographs by [Shaun O'Boyle](https://placesjournal.org/author/shaun-oboyle/) ([@oboylephoto](https://twitter.com/oboylephoto)). Overview: “Governed by international treaty and dedicated to science, Antarctica is the driest, windiest, coldest, and highest continent on the planet. To photograph in such a place is tantamount to practicing art on another planet.”",
+      "original_url": "https://placesjournal.org/article/the-ice-photographing-in-antarctica/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://placesjournal.org/article/the-ice-photographing-in-antarctica/"
+        },
+        {
+          "type": "other",
+          "url": "https://placesjournal.org/author/william-l-fox/"
+        },
+        {
+          "type": "other",
+          "url": "https://placesjournal.org/author/shaun-oboyle/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/oboylephoto"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Grizzly Man",
+      "creator": null,
+      "note": "This doc by [Werner Herzog](https://www.wernerherzog.com/) has been recommended to me for more than a decade. It’s a journey through the twilight mixture of beauty and madness. Not for the faint of heart. Description: “A devastating yet enlightening look at the grizzly bear activists Timothy Treadwell and Amie Huguenard, who were killed in October of 2003 while living among the endangered beasts in Alaska.” At a minimum, [watch the trailer here](https://www.youtube.com/watch?v=uWA7GtDmNFU).",
+      "original_url": "https://www.amazon.com/Grizzly-Man-Werner-Herzog/dp/B007K8BBHQ/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Grizzly-Man-Werner-Herzog/dp/B007K8BBHQ/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.wernerherzog.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=uWA7GtDmNFU"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“If you want a golden rule that will fit everybody, this is it: Have nothing in your houses that you do not know to be useful or believe to be beautiful.”— William Morris (Related: my interview with Marie Kondo) And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "William Morris",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/William_Morris",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/William_Morris"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/04/16/marie-kondo/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

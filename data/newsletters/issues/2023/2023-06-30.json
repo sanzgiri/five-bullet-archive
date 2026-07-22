@@ -6,7 +6,163 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Song I’m listening to",
+      "category": "music",
+      "title": "still feel.",
+      "creator": "half•alive",
+      "note": "([Spotify](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5?si=MZnj8x_yT4-M8Nj5OOs_Kw), [YouTube](https://www.youtube.com/watch?v=KOOhPfMbuIQ)) by [half•alive](https://www.halfalive.co/) ([@halfaliveco](https://www.instagram.com/halfaliveco/)). This is one hell of a feel-good track, and if you need an extra booster shot of smiles, watch [their video](https://www.youtube.com/watch?v=KOOhPfMbuIQ). Special thanks to Queen BS for this gem!",
+      "original_url": "https://www.youtube.com/watch?v=KOOhPfMbuIQ",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=KOOhPfMbuIQ"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5?si=MZnj8x_yT4-M8Nj5OOs_Kw"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=KOOhPfMbuIQ"
+        },
+        {
+          "type": "other",
+          "url": "https://www.halfalive.co/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/halfaliveco/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=KOOhPfMbuIQ"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Podcast episode I’m listening to",
+      "category": "podcast",
+      "title": "Kings of Kings",
+      "creator": null,
+      "note": "([Apple Podcasts](https://podcasts.apple.com/us/podcast/kings-of-kings/id173001861?i=1000355848105), [Spotify](https://open.spotify.com/episode/6EDjj9pMFbm1gVuw3TSlWX?si=Md882NZyQQiw9kfAsdH78w), [Overcast](https://overcast.fm/+G0A2gXsHo)) on Dan Carlin’s [_Hardcore History_](https://www.dancarlin.com/hardcore-history-series/) podcast. I’m often asked what my favorite podcast is, and _Hardcore History_ is always the answer. Just be aware that these are long-form masterpieces and not quick-fix sound bites. That’s what makes them so special. If you’d like to learn more about the amazing [Dan Carlin](https://tim.blog/2014/07/29/the-tim-ferriss-show-episode-20-dan-carlin-hardcore-history-building-podcasts-creativity-and-more/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) and how he became arguably the most famous “I’m not a historian” storyteller of history, my vintage interview with him can be found [here](https://tim.blog/2014/07/29/the-tim-ferriss-show-episode-20-dan-carlin-hardcore-history-building-podcasts-creativity-and-more/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf).",
+      "original_url": "https://www.dancarlin.com/product/hardcore-history-56-kings-kings/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.dancarlin.com/product/hardcore-history-56-kings-kings/"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/kings-of-kings/id173001861?i=1000355848105"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/6EDjj9pMFbm1gVuw3TSlWX?si=Md882NZyQQiw9kfAsdH78w"
+        },
+        {
+          "type": "other",
+          "url": "https://overcast.fm/+G0A2gXsHo"
+        },
+        {
+          "type": "other",
+          "url": "https://www.dancarlin.com/hardcore-history-series/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/07/29/the-tim-ferriss-show-episode-20-dan-carlin-hardcore-history-building-podcasts-creativity-and-more/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/07/29/the-tim-ferriss-show-episode-20-dan-carlin-hardcore-history-building-podcasts-creativity-and-more/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "Global sperm counts are falling. This scientist believes she knows why",
+      "creator": "Sarah Neville for the Financial Times",
+      "note": "for the _Financial Times._ From the article: “The mystery is this. Since the late 1930s, sperm counts around the world appear to have dropped significantly. While the decline was initially observed in Western countries, there is evidence of the same phenomenon in the developing world, and it seems to be accelerating. Swan, a Berkeley-trained statistician-turned-epidemiologist, believes she knows why.” If you have issues reading with the above link, [try this](https://archive.is/N6mvb).",
+      "original_url": "https://www.ft.com/content/f14ab282-1dd3-46bf-be02-a59aff3a90ed",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.ft.com/content/f14ab282-1dd3-46bf-be02-a59aff3a90ed"
+        },
+        {
+          "type": "other",
+          "url": "https://www.ft.com/sarah-neville"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.is/N6mvb"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Book I’m reading",
+      "category": "book",
+      "title": "Steal Like an Artist: 10 Things Nobody Told You About Being Creative",
+      "creator": "Austin Kleon",
+      "note": "([@austinkleon](https://twitter.com/austinkleon)). This fast read is for anyone who’d like to be more creative. From the description: “An inspiring guide to creativity in the digital age, _Steal Like an Artist_ presents ten transformative principles that will help readers discover their artistic side and build a more creative life.”",
+      "original_url": "https://www.amazon.com/Steal-Artist-Anniversary-Afterword-Author/dp/1523516321/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Steal-Artist-Anniversary-Afterword-Author/dp/1523516321/"
+        },
+        {
+          "type": "other",
+          "url": "https://austinkleon.com/about/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/austinkleon"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“I had broken myself of the habit of thinking in short song cycles and began reading longer and longer poems to see if I could remember anything I read about in the beginning. I trained my mind to do this, had cast off gloomy habits and learned to settle myself down. … I began cramming my brain with all kinds of deep poems. It seemed like I’d been pulling an empty wagon for a long time and now I was beginning to fill it up and would have to pull harder. I felt like I was coming out of the back pasture. I was changing in other ways, too. Things that used to affect me, didn’t affect me anymore. I wasn’t too concerned about people, their motives. I didn’t feel the need to examine every stranger that approached.” — Bob Dylan (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with this clip on unlocking your creativity with AI, this excerpt from my interview with Dr. Andrew Huberman on optimizing fertility, and my interview with Bob Dylan. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Bob Dylan",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Bob_Dylan",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Bob_Dylan"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/4aeC9"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=GKaE-ZkaKvc"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=tE3aQYQoMz0"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,119 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Article that I’m reading —",
+      "category": "article",
+      "title": "The chords of the universe: It’s no surprise that mathematics has influenced music. But did you know that the influence goes both ways?",
+      "creator": null,
+      "note": "via Sam McRoberts ([@sams\\_antics](https://el2.fourhourmail.com/c/v8ur85neeurh3p322/opfkhq/aHR0cHM6Ly90d2l0dGVyLmNvbS9zYW1zX2FudGljcw==)). Thanks, Sam!",
+      "original_url": "https://el2.fourhourmail.com/c/v8ur85neeurh3p322/78i7h8/aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy9yaW5naW5nLXRoZS1jaG9yZHMtb2YtdGhlLXVuaXZlcnNlLWhvdy1tdXNpYy1pbmZsdWVuY2VkLXNjaWVuY2U=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurh3p322/78i7h8/aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy9yaW5naW5nLXRoZS1jaG9yZHMtb2YtdGhlLXVuaXZlcnNlLWhvdy1tdXNpYy1pbmZsdWVuY2VkLXNjaWVuY2U="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurh3p322/opfkhq/aHR0cHM6Ly90d2l0dGVyLmNvbS9zYW1zX2FudGljcw=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’ve been using and impressed by —",
+      "category": "other",
+      "title": "UCO stormproof matches",
+      "creator": null,
+      "note": "Whether rain or sleet or snow or slush, these just work. Great and cheap firemaking option. Butane all-weather lighters certainly do the job, but these matches have a nice elegance to them.",
+      "original_url": "https://el2.fourhourmail.com/c/v8ur85neeurh3p322/zvtghn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9VQ08tU3Rvcm1wcm9vZi1XYXRlcnByb29mLU1hdGNoZXMtU3RyaWtlcnMvZHAvQjAwNzczVlZITy8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurh3p322/zvtghn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9VQ08tU3Rvcm1wcm9vZi1XYXRlcnByb29mLU1hdGNoZXMtU3RyaWtlcnMvZHAvQjAwNzczVlZITy8="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Person I’m learning more about —",
+      "category": "other",
+      "title": "Ptolemy",
+      "creator": null,
+      "note": "(c. AD 100 – c. 170) was a Greco-Roman mathematician, astronomer, geographer, astrologer, and poet of a single epigram in the Greek Anthology.",
+      "original_url": "https://el2.fourhourmail.com/c/v8ur85neeurh3p322/pnceh9/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUHRvbGVteQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurh3p322/pnceh9/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUHRvbGVteQ=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "New tech tool I’m enjoying —",
+      "category": "other",
+      "title": "the Brave browser",
+      "creator": null,
+      "note": ", which, simply put, is a browser with “your interests at heart.” The main person behind it is [Brendan Eich](https://el2.fourhourmail.com/c/v8ur85neeurh3p322/60aeh8/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQnJlbmRhbl9FaWNo) ([@BrendanEich](https://el2.fourhourmail.com/c/v8ur85neeurh3p322/kmbmh6/aHR0cHM6Ly90d2l0dGVyLmNvbS9CcmVuZGFuRWljaA==)), the creator of the JavaScript programming language. Here is the official short pitch as to why you should consider switching to Brave: “Browse faster by blocking ads and trackers that violate your privacy and cost you time and money.” Also from the website: “The ‘private’ or ‘incognito’ browsing mode that others offer is not truly private. Those tabs mostly stop other people that use your device from seeing where you’ve been. Brave’s private tab stops trackers and will soon feature ‘Tor in the tab,’ providing even deeper privacy.” Brendan, if you see this, what’s the ETA on “Tor in the tab”?",
+      "original_url": "https://el2.fourhourmail.com/c/v8ur85neeurh3p322/xksph6/aHR0cHM6Ly9icmF2ZS5jb20v",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurh3p322/xksph6/aHR0cHM6Ly9icmF2ZS5jb20v"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurh3p322/60aeh8/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQnJlbmRhbl9FaWNo"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurh3p322/kmbmh6/aHR0cHM6Ly90d2l0dGVyLmNvbS9CcmVuZGFuRWljaA=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Every act of perception, is to some degree an act of creation, and every act of memory is to some degree an act of imagination.” — Oliver Sacks [](https://el2.fourhourmail.com/c/v8ur85neeurh3p322/2ou2ho/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSm9obm55X0Nhc2g=) And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim [](https://el2.fourhourmail.com/c/v8ur85neeurh3p322/gvfnh5/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #508, Austin TX 78703, United States",
+      "creator": "Oliver Sacks",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/v8ur85neeurh3p322/52hvh7/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvT2xpdmVyX1NhY2tz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurh3p322/52hvh7/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvT2xpdmVyX1NhY2tz"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurh3p322/q3i8h7/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurh3p322/93tzhn/aHR0cDovL2dvLmZvdXJob3Vyd29ya3dlZWsuY29tLzEweC1vdXRwdXQv"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/v8ur85neeurh3p322"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurh3p322/nesohv/aHR0cDovL2ZvdXJob3Vyd29ya3dlZWsuY29tL2Jsb2c="
+        }
+      ]
+    }
+  ]
 }

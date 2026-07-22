@@ -7,7 +7,155 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching over and over again",
+      "category": "video",
+      "title": "WING - Dopamine (Official Video) (BEATBOX)",
+      "creator": null,
+      "note": "(BEATBOX)**](https://www.youtube.com/watch?v=qlrpeYdm9Ec)**.”** This blew my mind. Long ago, I tracked the evolution of beatboxing alongside the extra-rapid evolution of breakdancing (e.g., [Rahzel at Red Bull BC One](https://www.youtube.com/watch?v=LBdXpsP85xM)).  \n​  \nRecently, someone sent me WING, and my head nearly exploded. It is a rapid-fire celebration of “WTF?!?” I clearly missed a quantum leap. [Watch two minutes](https://www.youtube.com/watch?v=qlrpeYdm9Ec) of this, and you’ll see what I mean.  \n​  \nBe sure to check out [WING’s channel](https://www.youtube.com/channel/UCN8JqVWsdgVx3svFEMWI85Q), which has other seemingly impossible videos.",
+      "original_url": "https://www.youtube.com/watch?v=qlrpeYdm9Ec",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=qlrpeYdm9Ec"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=LBdXpsP85xM"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=qlrpeYdm9Ec"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/channel/UCN8JqVWsdgVx3svFEMWI85Q"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Speaking of quantum, what I’m studying",
+      "category": "other",
+      "title": "Harvest now, decrypt later (HNDL)",
+      "creator": null,
+      "note": "](https://en.wikipedia.org/wiki/Harvest_now,_decrypt_later)**.”** This was new to me, and I assumed it might be new to some of you. HNDL explains why you might want to think about quantum-computer defense well before quantum hacking is fully operational. It applies to non-quantum technology as well. **​  \n​  \n​**If you prefer a video version, [watch this](https://www.youtube.com/watch?v=-UrdExQW0cs) from one of my favorite YouTube channels, [Veritasium](https://www.veritasium.com/about).",
+      "original_url": "https://en.wikipedia.org/wiki/Harvest_now,_decrypt_later",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Harvest_now,_decrypt_later"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=-UrdExQW0cs"
+        },
+        {
+          "type": "other",
+          "url": "https://www.veritasium.com/about"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Documentary I’m watching",
+      "category": "video",
+      "title": "The Gene: An Intimate History",
+      "creator": null,
+      "note": "_The Gene_ is a collaboration of all-stars, including executive producer [Ken Burns](https://tim.blog/2019/09/12/ken-burns/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit), award-winning senior producer and co-writer [Barak Goodman](https://www.pbs.org/kenburns/the-gene/meet-the-filmmakers) (_Cancer: The Emperor of All Maladies_), and [Dr. Siddhartha Mukherjee](https://en.wikipedia.org/wiki/Siddhartha_Mukherjee), an executive producer and the Pulitzer Prize-winning author of the book on which the documentary is based.\n\nIn roughly four hours, it covers the history of genetics, moving from the earliest theories of Aristotle and Gregor Mendel’s pea plant experiments to the discovery of the double helix in 1953 and the modern era of CRISPR and gene editing.\n\nThe doc features on-screen interviews with the titans of the field, including James Watson (co-discoverer of DNA’s structure), Francis Collins (former director of the National Human Genome Research Institute), Jennifer Doudna (Nobel Laureate and CRISPR pioneer), and Nancy Wexler (co-discoverer of the Huntington’s disease gene), among many others. Check out the trailer [here](https://www.youtube.com/watch?v=s2v2bCS64Q4).",
+      "original_url": "https://www.pbslearningmedia.org/resource/the-gene-full-film/the-gene-intimate-history/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.pbslearningmedia.org/resource/the-gene-full-film/the-gene-intimate-history/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/09/12/ken-burns/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://www.pbs.org/kenburns/the-gene/meet-the-filmmakers"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Siddhartha_Mukherjee"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=s2v2bCS64Q4"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading and watching",
+      "category": "article",
+      "title": "James Cameron On AI in Hollywood",
+      "creator": "Trung Phan",
+      "note": ". There is a lot hiding in this piece, including some of the strategies that allowed Cameron to make [_The Terminator_](https://www.primevideo.com/detail?gti=amzn1.dv.gti.66b60399-3e99-f61d-d148-ac0752317559&linkCode=xm2&tag=offsitoftimfe-20) for ~$6.5M, thoughts on AI-first studios, and yet another clever move by the inimitable [James Dyson](https://tim.blog/2021/09/02/james-dyson/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit).\n\nIn the end links for the above, I also found a great interview from the always on-point Patrick O’Shaughnessy of _Invest Like the Best_: “[Ari Emanuel’s ‘Anti-AI’ Bet on Live Entertainment](https://www.youtube.com/watch?v=xDuqUlZZ8Vk).”",
+      "original_url": "https://www.readtrung.com/p/james-cameron-on-ai-in-hollywood?hashed_user=456c6ebe6e33c7a201fd306e513dd2c6&utm_campaign=11%2F29&utm_medium=email&utm_source=Sailthru&utm_term=Trung",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.readtrung.com/p/james-cameron-on-ai-in-hollywood?hashed_user=456c6ebe6e33c7a201fd306e513dd2c6&utm_campaign=11%2F29&utm_medium=email&utm_source=Sailthru&utm_term=Trung"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/TrungTPhan?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.primevideo.com/detail?gti=amzn1.dv.gti.66b60399-3e99-f61d-d148-ac0752317559&linkCode=xm2&tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/09/02/james-dyson/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=xDuqUlZZ8Vk"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The key is to keep asking yourself the same question, again and again and again: this is your life—what do you want to pay attention to?” — Catherine Price Found in Susan Cain’s Quiet Journal (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with a brand-new episode of The Random Show with my close friend Kevin Rose, in which we cover everything from AI to bioelectric medicine to modern dating, and much, much more. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "what do you want to pay attention to?” — Catherine Price Found in Susan Cain’s Quiet Journal",
+      "note": null,
+      "original_url": "https://www.amazon.com/stores/Catherine-Price/author/B003HUOP5G?tag=offsitoftimfe-20",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/stores/Catherine-Price/author/B003HUOP5G?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/03/30/susan-cain-bittersweet/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Quiet-Journal-Discover-Strengths-Unleash/dp/059313592X/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/1xu6E"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/12/03/the-random-show-with-kevin-rose-2/%20?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

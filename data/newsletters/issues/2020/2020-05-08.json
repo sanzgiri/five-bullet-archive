@@ -1,13 +1,145 @@
 {
   "schema_version": 1,
   "issue_date": "2020-05-08",
-  "subject": "5-Bullet Friday — May 8, 2020 ",
+  "subject": "5-Bullet Friday — May 8, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "68 Bits of Unsolicited Advice",
+      "creator": "Kevin Kelly",
+      "note": "([@kevin2kelly](https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/qmt8h7h64mn86q/aHR0cHM6Ly90d2l0dGVyLmNvbS9rZXZpbjJrZWxseQ==)). Kevin is arguably [the real-life most interesting man in the world](https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/qnc8h7h64mn86n/aHR0cHM6Ly90aW0uYmxvZy8yMDE0LzA4LzI5L2tldmluLWtlbGx5Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=), so I jumped on this piece as soon as it came out.",
+      "original_url": "https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/6xieh8h258op2n/aHR0cHM6Ly9ray5vcmcvdGhldGVjaG5pdW0vNjgtYml0cy1vZi11bnNvbGljaXRlZC1hZHZpY2Uv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/6xieh8h258op2n/aHR0cHM6Ly9ray5vcmcvdGhldGVjaG5pdW0vNjgtYml0cy1vZi11bnNvbGljaXRlZC1hZHZpY2Uv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/5gfvh7h9nd7597/aHR0cHM6Ly90aW0uYmxvZy8yMDE0LzA4LzI5L2tldmluLWtlbGx5Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/qmt8h7h64mn86q/aHR0cHM6Ly90d2l0dGVyLmNvbS9rZXZpbjJrZWxseQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/qnc8h7h64mn86n/aHR0cHM6Ly90aW0uYmxvZy8yMDE0LzA4LzI5L2tldmluLWtlbGx5Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Exercises I’m revisiting and loving once again —",
+      "category": "other",
+      "title": "Christopher Sommer",
+      "creator": null,
+      "note": "has given me many tools, and [**here are a few exercises**](https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/w5a2hghok2gro7/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JfOEpEOXFucHhQLw==) **that give a lot of bang for the buck.** Pics are from [_Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers_](https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/0mbwh9h796zm7r/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Ub29scy1UaXRhbnMtQmlsbGlvbmFpcmVzLVdvcmxkLUNsYXNzLVBlcmZvcm1lcnMvZHAvMTMyODY4Mzc4OC8=)_._ Try the “pike pulses” for a good laugh.",
+      "original_url": "https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/n5sohvhox9rnom/aHR0cHM6Ly90aW0uYmxvZy8yMDE2LzA1LzA5L3RoZS1zZWNyZXRzLW9mLWd5bW5hc3RpYy1zdHJlbmd0aC10cmFpbmluZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/n5sohvhox9rnom/aHR0cHM6Ly90aW0uYmxvZy8yMDE2LzA1LzA5L3RoZS1zZWNyZXRzLW9mLWd5bW5hc3RpYy1zdHJlbmd0aC10cmFpbmluZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/w5a2hghok2gro7/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JfOEpEOXFucHhQLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/0mbwh9h796zm7r/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Ub29scy1UaXRhbnMtQmlsbGlvbmFpcmVzLVdvcmxkLUNsYXNzLVBlcmZvcm1lcnMvZHAvMTMyODY4Mzc4OC8="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "News I’m excited to share —",
+      "category": "other",
+      "title": "seeking roughly 20 patients for the first-ever Alzheimer’s study using psilocybin as an intervention",
+      "creator": null,
+      "note": "Both sides of my family have suffered from Alzheimer’s disease (AD), and this study is one of the reasons I [committed more than $2MM](https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/m7u7h5hnq6eon6/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAxOS8wOS8wNi9oZWFsdGgvZmVycmlzcy1wc3ljaGVkZWxpYy1kcnVncy1kZXByZXNzaW9uLmh0bWw=) to the [Johns Hopkins Center for Psychedelic and Consciousness Research](https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/eziph7hnl34kn8/aHR0cHM6Ly9ob3BraW5zcHN5Y2hlZGVsaWMub3JnLw==). Dr. Albert Garcia-Romeu and team will be investigating psilocybin’s effects on AD-related depression, as well as memory and cognitive function. I’m bullish.\n\nFor the study, people in the mid-Atlantic area near Baltimore/DC are ideal, but people willing to travel will also be considered if they meet inclusion criteria. To learn more about the study and application process, please visit this website: [](https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/dvfeh0h7o95q7g/aHR0cHM6Ly9ob3BraW5zcHN5Y2hlZGVsaWMub3JnL2FsemhlaW1lcnM=)[https://hopkinspsychedelic.org/alzheimers](https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/e8tph7hnl34kng/aHR0cHM6Ly9ob3BraW5zcHN5Y2hlZGVsaWMub3JnL2FsemhlaW1lcnM=).",
+      "original_url": "https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/vkh3hrhkv9gnk7/aHR0cHM6Ly9ob3BraW5zcHN5Y2hlZGVsaWMub3JnL2FsemhlaW1lcnM=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/vkh3hrhkv9gnk7/aHR0cHM6Ly9ob3BraW5zcHN5Y2hlZGVsaWMub3JnL2FsemhlaW1lcnM="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/m7u7h5hnq6eon6/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAxOS8wOS8wNi9oZWFsdGgvZmVycmlzcy1wc3ljaGVkZWxpYy1kcnVncy1kZXByZXNzaW9uLmh0bWw="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/eziph7hnl34kn8/aHR0cHM6Ly9ob3BraW5zcHN5Y2hlZGVsaWMub3JnLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/e8tph7hnl34kng/aHR0cHM6Ly9ob3BraW5zcHN5Y2hlZGVsaWMub3JnL2FsemhlaW1lcnM="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Instagram account I’m following —",
+      "category": "other",
+      "title": "David Choe",
+      "creator": null,
+      "note": "This is endlessly entertaining and nearly always NSFW. If you find it causes you to blush and utter, “Oh, my...,” just recite good ol’ Mae West: “Those who are easily shocked should be shocked more often.”",
+      "original_url": "https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/kncmh6h950m897/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9kYXZpZGNob2Uv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/kncmh6h950m897/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9kYXZpZGNob2Uv"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Be a good animal, true to your instincts.” — D.H. Lawrence And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim [](https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/34bphkhd25zqq2/aHR0cHM6Ly90aW0uYmxvZy90aW0tZmVycmlzcy1ib29rcy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9zb3VyY2U9bWVkaXVtPTViZi10ZW1wbGF0ZS1oZWFkZXI=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "D.H. Lawrence And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/2es2hoho8pd77r/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRC5fSC5fTGF3cmVuY2U=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/2es2hoho8pd77r/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRC5fSC5fTGF3cmVuY2U="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/geanh5hzl8peed/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://files.convertkitcdn.com/assets/pictures/11125/2272828/content_Book_Header_FINAL.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/44hvheh2pdg009/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/n4u05gdnnavhre630ug"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhre630ug/mri7h5hnq6eon8/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

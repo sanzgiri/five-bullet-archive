@@ -3,10 +3,153 @@
   "issue_date": "2024-10-11",
   "subject": "5-Bullet Friday — Bob Dylan on Freedom, Stories from Strangers, Psilocybin and Dementia, Coppola’s $100 Million Bet, and More",
   "sources": [
-    "hotmail"
+    "hotmail",
+    "5bulletarchive"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Project I’m loving",
+      "category": "other",
+      "title": "The Strangers Project",
+      "creator": null,
+      "note": "Read [just a few one-page stories](https://www.instagram.com/strangersproj/) and you’ll see why I find this fascinating. Here are the basics from the website: “Do you ever see a stranger and wonder… ‘What’s it like being you?’ I’ve been asking that question for the past fourteen years and have received more than 85,000 hand-written, true, and anonymous answers.” Thank you to [Soman Chainani](https://tim.blog/2024/02/06/soman-chainani/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) for the recommendation.",
+      "original_url": "http://strangersproject.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://strangersproject.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/strangersproj/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/02/06/soman-chainani/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Science I’m tracking",
+      "category": "music",
+      "title": "Psilocybin for dementia prevention? The potential role of psilocybin to alter mechanisms associated with major depression and neurodegenerative diseases",
+      "creator": null,
+      "note": null,
+      "original_url": "https://www.sciencedirect.com/science/article/pii/S0163725824000615",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0163725824000615"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Article I’m enjoying",
+      "category": "article",
+      "title": "Francis Ford Coppola Bet More Than $100 Million on His Legacy. Now What?",
+      "creator": null,
+      "note": "(WSJ). From the article: “The director talks about his passion project, _Megalopolis_, including reports of problems on set and how he paid for the film.” Writer [Trung Phan](https://x.com/TrungTPhan) shared the below article summary [on Twitter](https://x.com/TrungTPhan/status/1839712186794377506) of how Coppola financed _Megalopolis_:\n\n_In 2021, Coppola merged his winery with Napa-based Delicato Family Wines_\n\n_Merged business valued at $650m_\n\n_Secured a $200m line of credit from a bank using his remaining stake in winery (he sold a piece as part of merger)_\n\n_He filmed in Georgia and bought a Days Inn hotel for $4m to house the cast and crew (such a baller move)_\n\n_After generous Georgia film subsidies, the film production budget totalled $107m_\n\n_He is spending another $17m on distribution and marketing costs (and balance of funds on various other expenses)_\n\nFor more on Coppola, check out Trung’s “[Francis Ford Coppola: The Entrepreneur](https://www.readtrung.com/p/francis-ford-coppola-the-entrepreneur).” I will also be listening to my friend and past podcast guest Ryan Holiday’s [interview with Coppola](https://www.youtube.com/watch?v=G3tWx2Jqc5Q), which was the director’s first-ever podcast appearance.",
+      "original_url": "https://www.wsj.com/arts-culture/film/francis-ford-coppola-megalopolis-movie-799e70c4",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.wsj.com/arts-culture/film/francis-ford-coppola-megalopolis-movie-799e70c4"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/TrungTPhan"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/TrungTPhan/status/1839712186794377506"
+        },
+        {
+          "type": "other",
+          "url": "https://www.readtrung.com/p/francis-ford-coppola-the-entrepreneur"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=G3tWx2Jqc5Q"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Expression I learned and enjoy",
+      "category": "other",
+      "title": "Jeder ist seines Glückes Schmied",
+      "creator": null,
+      "note": "“Jeder ist seines Glückes Schmied.”** This German expression means “Everyone is the smith of their own luck.”",
+      "original_url": null,
+      "links": []
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“I think of a hero as someone who understands the degree of responsibility that comes with his freedom.” — Bob Dylan (Click here to share on Twitter.)",
+      "creator": "Bob Dylan",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Bob_Dylan",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Bob_Dylan"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/4gjcN"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "An extra bullet for those interested — What I’m supporting",
+      "category": "other",
+      "title": "Massachusetts will vote on creating legal, regulated, therapeutic access to psychedelic medicines in a few short weeks",
+      "creator": null,
+      "note": "I’m supporting this financially and hope Massachusetts residents will do the same by voting (or more). But what is it? [Question 4](https://maformentalhealth.org/) is a citizen-initiated ballot that creates a regulated framework for supervised use of certain psychedelics at licensed psychedelic therapy centers. It does _not_ legalize retail sales or storefronts.  \n​  \nArmy veteran CJ LoConte supports “Yes on 4,” and you can [watch him tell his personal story here](https://www.youtube.com/watch?v=XVh0B7zHfaY). One of the campaign’s videos features the story of [Emily Oneschuk](https://www.youtube.com/watch?v=oXibzL0ral8), the first female Navy SEAL candidate. You can learn more about “Yes on 4” and watch short video examples of healing [here](https://maformentalhealth.org/).\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [my interview](https://tim.blog/2018/06/18/brandon-stanton-humans-of-new-york/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) with Humans of New York creator Brandon Stanton, [my conversation](https://tim.blog/2024/02/06/soman-chainani/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) with bestselling author and filmmaker Soman Chainani, and [this list of resources](https://tim.blog/2021/03/31/psychedelics-101/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) for learning and understanding more about the therapeutic properties of psychedelic compounds.",
+      "original_url": "https://maformentalhealth.org/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://maformentalhealth.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://maformentalhealth.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=XVh0B7zHfaY"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=oXibzL0ral8"
+        },
+        {
+          "type": "other",
+          "url": "https://maformentalhealth.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/06/18/brandon-stanton-humans-of-new-york/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/02/06/soman-chainani/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/03/31/psychedelics-101/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        }
+      ]
+    }
+  ]
 }

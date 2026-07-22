@@ -7,7 +7,178 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Book I’m reading",
+      "category": "book",
+      "title": "Deep Future: Creating Technology That Matters",
+      "creator": "Pablos Holman",
+      "note": "**.** This book really encouraged me to think a lot bigger. I recently described Pablos as “[one of the scariest hackers I’ve ever met](https://www.youtube.com/watch?v=eCp6ixlzyh0),” and I’ve enjoyed getting to know him and his work, both permitted and unpermitted. Pablos worked on spaceships at Blue Origin and helped build labs to invent a wide variety of breakthroughs, including a brain surgery tool, a machine to suppress hurricanes, 3D food printers, and a laser that can shoot down mosquitos, part of an impact invention effort to eradicate malaria with Bill Gates. In his spare time, he likes demonstrating how easy it is to steal credit cards, open locks, and engage in other mischief.",
+      "original_url": "https://www.amazon.com/Deep-Future-Creating-Technology-Matters/dp/B0F23CLXZP",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Deep-Future-Creating-Technology-Matters/dp/B0F23CLXZP"
+        },
+        {
+          "type": "other",
+          "url": "https://pablosspeaks.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=eCp6ixlzyh0"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Podcast I’m enjoying, in spite of myself",
+      "category": "podcast",
+      "title": "Our Thing",
+      "creator": null,
+      "note": "with [Sammy “The Bull” Gravano](https://en.wikipedia.org/wiki/Sammy_Gravano) ([Apple Podcasts](https://podcasts.apple.com/us/podcast/our-thing-with-sammy-the-bull/id1544812283), [Spotify](https://open.spotify.com/show/4GgmXTOhbNe1xBYkWTBKVz), [YouTube](https://www.youtube.com/playlist?list=PL_KMANOhjj-rOqGtj_DoNQ3JYgZzIRQVH)). This was recommended to me by [Oz “The Mentalist” Perlman](https://www.ozpearlman.com/book), who’s also kinda scary in his own way. [Check out this NFL clip as an example](https://www.instagram.com/p/CzmZRqCu6gn/?hl=en) or [Joe Rogan calling him a “witch” after a live demo](https://www.instagram.com/p/DMGHpHJg7ea/?hl=en). I was resistant to listening to _Our Thing_ at first, as I don’t like glamorizing criminals, but I decided to give it a shot, since episodes are short and I grew up watching [John Gotti](https://en.wikipedia.org/wiki/John_Gotti) in the news. Like a lot of people, I also have a fascination with the mafia from _The Godfather_, _The Sopranos_, _Goodfellas_, and others. From the description: “Salvatore ‘Sammy the Bull’ Gravano is an American gangster who became the underboss of the Gambino crime family \\[once led by John Gotti\\]. This is his story.” The insider stories are wild, Sammy is a gifted storyteller, and whether I like it or not, it’s addictive. I’m now on Season 1 episode 9. I suggest starting at the very beginning.",
+      "original_url": "https://podcasts.apple.com/us/podcast/our-thing-with-sammy-the-bull/id1544812283",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://podcasts.apple.com/us/podcast/our-thing-with-sammy-the-bull/id1544812283"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Sammy_Gravano"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/our-thing-with-sammy-the-bull/id1544812283"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/show/4GgmXTOhbNe1xBYkWTBKVz"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/playlist?list=PL_KMANOhjj-rOqGtj_DoNQ3JYgZzIRQVH"
+        },
+        {
+          "type": "other",
+          "url": "https://www.ozpearlman.com/book"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/CzmZRqCu6gn/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/DMGHpHJg7ea/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/John_Gotti"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Study I’m tracking",
+      "category": "music",
+      "title": "Some people struggle after psychedelics. A new study wants to help.",
+      "creator": null,
+      "note": "If you have experienced difficulties after taking a psychedelic, you may be eligible to participate in a study sponsored by Emory University. [**Click here to learn more**](https://www.psychedelicchallenges.org/)**.** Adverse events and challenges are underreported, and it’s incredibly important to study them. They’re not as rare as you might think, and given the power of the tools, we need to find better and better ways to mitigate risk and treat people when they are destabilized. This isn’t for “bad trips,” per se; it’s about the after-effects. As explained on the website:  \n​  \n“‘Bad trips’ are important to study, but our focus is more specific. We are interested in people who have had distress or impairment, or have sought help from a family member, friend, or professional, after taking a psychedelic. What we are focused on here is the impact: difficulties in the days, weeks, or months after the psychedelic experience is over.”",
+      "original_url": "https://maps.org/news/bulletin/post-psychedelic-challenges-study/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://maps.org/news/bulletin/post-psychedelic-challenges-study/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.psychedelicchallenges.org/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Puzzle I’d love your help with! Signed books in the mix…",
+      "category": "book",
+      "title": "If you haven’t bought a copy of COYOTE, why haven’t you",
+      "creator": null,
+      "note": "?** Answers can be totally anonymous! Knowing this would really help me a ton, as [the reviews are fantastic](https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/ref=sr_1_5?crid=2Z41985ITFLYY&dib=eyJ2IjoiMSJ9.vUHW0nkEDYw3ajjbBTMfwEedCPlVY2iwxegFRxjCiESZWCetq1hIiZbaQdmA6wJcqNlnTqDmmdFLq-W1KcYPUjHwuMtHrL59ZCW8l5unV0tovJYaXRc7Mn8KCHHY7JbyZwz4Z607CUnhoRgon_rbsuJ49dT5HdCgZx3MkQvYCbX-75Z2G7Ohw59HXnu_62jYoHxcdZ0gnBsImmkAa7wa1TP9Rl7b1T5iSGx2Mx4IO1T_FhyXahxneH5D7GDOnxWkSSOzC6p_NW3EHD0kiVuQc6j7VU6jMhi3k_Vp0lbu9mA.LBLECOGNnVjzA8hkXs8zsx9lhGazwHWlWblc4HzonvU&dib_tag=se&keywords=coyote%20exploding%20kittens&qid=1753101145&sprefix=coyote%20exploding%2Caps%2C103&sr=8-5#averageCustomerReviewsAnchor), and the buzz is phenomenal (300M+ social views of game play), but compared to my books, only a small fraction of you have bought the game. I would love to know why, as that could help shape everything we do for the critical holiday season, which is the make-it-or-break-it period for games and toys.  \n​  \nCould you please take literally one minute to let me know [on this Google Form](https://forms.gle/EFcc9C4PuGH8MMKS7)? I’ll choose 10 respondents at random and gladly mail out 10 signed copies of _The 4-Hour Workweek_ as a token of gratitude. Thank you for taking a moment to help, if you can. There’s room to make changes now, but that window is narrowing, and your input is really important.",
+      "original_url": "https://forms.gle/EFcc9C4PuGH8MMKS7",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://forms.gle/EFcc9C4PuGH8MMKS7"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/ref=sr_1_5?crid=2Z41985ITFLYY&dib=eyJ2IjoiMSJ9.vUHW0nkEDYw3ajjbBTMfwEedCPlVY2iwxegFRxjCiESZWCetq1hIiZbaQdmA6wJcqNlnTqDmmdFLq-W1KcYPUjHwuMtHrL59ZCW8l5unV0tovJYaXRc7Mn8KCHHY7JbyZwz4Z607CUnhoRgon_rbsuJ49dT5HdCgZx3MkQvYCbX-75Z2G7Ohw59HXnu_62jYoHxcdZ0gnBsImmkAa7wa1TP9Rl7b1T5iSGx2Mx4IO1T_FhyXahxneH5D7GDOnxWkSSOzC6p_NW3EHD0kiVuQc6j7VU6jMhi3k_Vp0lbu9mA.LBLECOGNnVjzA8hkXs8zsx9lhGazwHWlWblc4HzonvU&dib_tag=se&keywords=coyote%20exploding%20kittens&qid=1753101145&sprefix=coyote%20exploding%2Caps%2C103&sr=8-5#averageCustomerReviewsAnchor"
+        },
+        {
+          "type": "other",
+          "url": "https://forms.gle/EFcc9C4PuGH8MMKS7"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Most letters from a parent contain a parent’s own lost dreams disguised as good advice. My good advice to you is to pay somebody to teach you to speak some foreign language, to meet with you two or three times a week and talk. Also: get somebody to teach you to play a musical instrument. What makes this advice especially hollow and pious is that I am not dead yet. If it were any good, I could easily take it myself.” — Kurt Vonnegut Letter to his daughter, Nanette, 20th September 1972 via Letters of Note (Click here to share on X.)",
+      "creator": "Kurt Vonnegut Letter to his daughter, Nanette, 20th September 1972 via Letters of Note",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Kurt_Vonnegut",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Kurt_Vonnegut"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/lettersofnote/"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/zm9ev"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“I never sat on the bench and said, ‘Well, I learned a lot today.’” — Deion “Coach Prime” Sanders, American football coach and former pro football and baseball player (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my brand-new interview with David Senra, host of the Founders and David Senra podcasts. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Deion “Coach Prime” Sanders, American football coach and former pro football and baseball player",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Deion_Sanders",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Deion_Sanders"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/F8kib"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=mesjY6l2T8c"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/@founderspodcast1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.davidsenra.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

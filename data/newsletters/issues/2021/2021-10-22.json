@@ -6,7 +6,143 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Tech gadget that I’m using daily —",
+      "category": "other",
+      "title": "Anker Nano II 65W",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/Charger-Anker-Adapter-Foldable-Compact/dp/B08T5QN2TR/ref=sr_1_3?dchild=1&keywords=nano+ii+65w&qid=1634845499&sr=8-3), [official website](https://us.anker.com/products/a2663111)). This is a game changer. Tired of carrying around that gigantic brick of a MacBook charger? Check out the photos at either of the above links. Huge thanks to our friendly neighborhood Spider-Man, [Kevin Rose](https://tim.blog/2021/08/18/random-show-kevin-rose-nft-crypto/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@KevinRose](https://twitter.com/kevinrose))! Description: “Anker Nano II has the power you need to fast charge your phone, tablet, and USB-C notebook from a single tiny charger. Charge a 2020 MacBook Air in less than 2 hours, a MacBook Pro 13ʺ at full speed, an iPhone 12 up to 3× faster than with an original 5W charger.…”",
+      "original_url": "https://www.amazon.com/Charger-Anker-Adapter-Foldable-Compact/dp/B08T5QN2TR/ref=sr_1_3?dchild=1&keywords=nano+ii+65w&qid=1634845499&sr=8-3",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Charger-Anker-Adapter-Foldable-Compact/dp/B08T5QN2TR/ref=sr_1_3?dchild=1&keywords=nano+ii+65w&qid=1634845499&sr=8-3"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Charger-Anker-Adapter-Foldable-Compact/dp/B08T5QN2TR/ref=sr_1_3?dchild=1&keywords=nano+ii+65w&qid=1634845499&sr=8-3"
+        },
+        {
+          "type": "other",
+          "url": "https://us.anker.com/products/a2663111"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/08/18/random-show-kevin-rose-nft-crypto/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/kevinrose"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Warren Buffett: ‘Really Successful People Say No To Almost Everything’",
+      "creator": "Michael Simmons",
+      "note": ". Huge kiss and playful ass slap to my girlfriend (sorry, Kevin; you got yours in Marfa) for this great recommendation. I’ve read a lot about Buffett, so I was astonished that I hadn’t heard the Michael Flint story, which is an uber-gem of a lesson.",
+      "original_url": "https://medium.com/accelerated-intelligence/warren-buffett-really-successful-people-say-no-to-almost-everything-ab78832ffebc",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://medium.com/accelerated-intelligence/warren-buffett-really-successful-people-say-no-to-almost-everything-ab78832ffebc"
+        },
+        {
+          "type": "other",
+          "url": "https://michaeldsimmons.medium.com/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Art book I’m enjoying —",
+      "category": "book",
+      "title": "Heaven",
+      "creator": null,
+      "note": "Description: “_Masaaki Hatsumi: Dojo Giga | Heaven_ is an art book featuring paintings \\[and calligraphy\\] by the Bujinkan Dojo’s Head Instructor, [Masaaki Hatsumi](https://en.wikipedia.org/wiki/Masaaki_Hatsumi). Each of these artworks is like a koan—meditating on them helps us see from Sensei’s perspective.” I found the art and philosophies within—as well as wonderful Japanese wordplay—to grab my attention more than the martial arts. You can find buying options [at the bottom of this linked page](https://dojoartbooks.com/heaven/). It’s truly a beautiful book. そろそろ 日本 に いかなきゃ...",
+      "original_url": "https://dojoartbooks.com/heaven/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://dojoartbooks.com/heaven/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Masaaki_Hatsumi"
+        },
+        {
+          "type": "other",
+          "url": "https://dojoartbooks.com/heaven/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Podcast I’m listening to —",
+      "category": "podcast",
+      "title": "Episode 3: ‘My husband is going broke, but he won’t let me help’",
+      "creator": null,
+      "note": "([Apple Podcasts](https://podcasts.apple.com/us/podcast/my-husband-is-going-broke-but-he-wont-let-me-help/id1577864998?i=1000531179672), [Spotify](https://open.spotify.com/episode/4KC9ceesQPNfuezZJUoyHO?si=agivcuZ9RtCSAImCI2osNg&dl_branch=1), [Overcast](https://overcast.fm/+xthI3BUgg)) on the [_I Will Teach You To Be Rich_ podcast](https://www.iwillteachyoutoberich.com/podcast/) from [Ramit Sethi](https://tim.blog/2021/07/26/ramit-sethi-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@ramit](https://twitter.com/ramit)). Damn fine podcast, this one. My girlfriend and I have listened to nearly every episode of Ramit’s new show. If it doesn’t teach you anything, it will, at the very least, make you feel better about your own (often weird) relationships to money.",
+      "original_url": "https://www.iwillteachyoutoberich.com/podcast/003-chantha-calvin/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.iwillteachyoutoberich.com/podcast/003-chantha-calvin/"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/my-husband-is-going-broke-but-he-wont-let-me-help/id1577864998?i=1000531179672"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/4KC9ceesQPNfuezZJUoyHO?si=agivcuZ9RtCSAImCI2osNg&dl_branch=1"
+        },
+        {
+          "type": "other",
+          "url": "https://overcast.fm/+xthI3BUgg"
+        },
+        {
+          "type": "other",
+          "url": "https://www.iwillteachyoutoberich.com/podcast/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/07/26/ramit-sethi-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/ramit"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Knowing how to look is a way of inventing.”— Salvador Dalí (For more than 100 Dalí quotes, see this.) And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Salvador Dalí",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikiquote.org/wiki/Salvador_Dal%C3%AD"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

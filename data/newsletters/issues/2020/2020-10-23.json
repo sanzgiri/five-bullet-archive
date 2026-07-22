@@ -7,7 +7,139 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Why Private Eyes Are Everywhere Now",
+      "creator": "Patrick Radden Keefe",
+      "note": "([@praddenkeefe](https://twitter.com/praddenkeefe)) for the _New Yorker_.",
+      "original_url": "https://www.newyorker.com/magazine/2020/10/05/why-private-eyes-are-everywhere-now",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.newyorker.com/magazine/2020/10/05/why-private-eyes-are-everywhere-now"
+        },
+        {
+          "type": "other",
+          "url": "https://www.newyorker.com/contributors/patrick-radden-keefe"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/praddenkeefe"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Documentary I’m revisiting —",
+      "category": "video",
+      "title": "Sour Grapes",
+      "creator": null,
+      "note": "(on** [**Amazon**](https://www.amazon.com/Sour-Grapes-Rudy-Kurniawan/dp/B06XWKJN5F/ref=tmm_aiv_swatch_0?_encoding=UTF8&qid=&sr=)**,** [**Netflix**](https://www.netflix.com/title/80029708)**, and** [**iTunes**](https://itunes.apple.com/movie/sour-grapes/id1204095705?ign-mpt=uo%3D5)**).** This film scores ~95% on Rotten Tomatoes, and both the story and its cinematic telling are simply fantastic. Here’s the description: “Controversy erupts when an unassuming young man floods the American wine market with fake vintages valued in the millions, bamboozling the wine world elite, in this humorous and suspenseful tale of an ingenious con on the eve of the 2008 stock market crash.” This is a hilarious and nearly unbelievable case study in factors that make humans vulnerable to deceit, hubris, and more.",
+      "original_url": "https://www.amazon.com/Sour-Grapes-Rudy-Kurniawan/dp/B06XWKJN5F/ref=tmm_aiv_swatch_0?_encoding=UTF8&qid=&sr=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Sour-Grapes-Rudy-Kurniawan/dp/B06XWKJN5F/ref=tmm_aiv_swatch_0?_encoding=UTF8&qid=&sr="
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Sour-Grapes-Rudy-Kurniawan/dp/B06XWKJN5F/ref=tmm_aiv_swatch_0?_encoding=UTF8&qid=&sr="
+        },
+        {
+          "type": "other",
+          "url": "https://www.netflix.com/title/80029708"
+        },
+        {
+          "type": "other",
+          "url": "https://itunes.apple.com/movie/sour-grapes/id1204095705?ign-mpt=uo%3D5"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Podcast I’m listening to —",
+      "category": "podcast",
+      "title": "John Arnold: The most prolific philanthropist you may not have heard of",
+      "creator": null,
+      "note": "on [_The Peter Attia Drive_](https://peterattiamd.com/podcast/) podcast. Even if you have no interest in philanthropy, this podcast is an incredible profile of the mind and mental frameworks of one of the most successful traders of the last 50 years. The first half of the interview focuses on his meteoric rise, key decisions, and key insights. Here’s the official description: “John Arnold ([@JohnArnoldFndtn](https://twitter.com/JohnArnoldFndtn)) is widely regarded as the greatest natural gas trader of all time, but in his late 30s, he walked away from it all and turned full-time philanthropist. He and his wife have committed to strategically giving away most of their vast fortune in their lifetime and are already doing so at a staggering pace of nearly a half billion dollars a year. In this episode, John explains his quest to address the most challenging social programs plaguing the country, including criminal justice, health-care policy, and K–12 education. John also shares self-identified attributes that contributed to his success in natural gas trading and how those same traits have translated to his philanthropic aspirations.” Observant readers might recognize John’s name from his profile in [_Tribe of Mentors_](https://www.amazon.com/Tribe-Mentors-Short-Advice-World/dp/1328994961/).",
+      "original_url": "https://peterattiamd.com/johnarnold/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://peterattiamd.com/johnarnold/"
+        },
+        {
+          "type": "other",
+          "url": "https://peterattiamd.com/podcast/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/JohnArnoldFndtn"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Tribe-Mentors-Short-Advice-World/dp/1328994961/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Music I’m listening to —",
+      "category": "music",
+      "title": "Coreto",
+      "creator": "Céu",
+      "note": "([YouTube](https://www.youtube.com/watch?v=NErZGmLdnF4), [Spotify](https://open.spotify.com/track/4vh9XdS6a314hnHEcphAp9)) by [Céu](https://www.ceumusic.com/) ([@ceumusic](https://twitter.com/ceumusic)).",
+      "original_url": "https://www.youtube.com/watch?v=NErZGmLdnF4",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=NErZGmLdnF4"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=NErZGmLdnF4"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/4vh9XdS6a314hnHEcphAp9"
+        },
+        {
+          "type": "other",
+          "url": "https://www.ceumusic.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/ceumusic"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“A country is considered the more civilised the more the wisdom and efficiency of its laws hinder a weak man from becoming too weak and a powerful one too powerful.” ― Primo Levi in If This Is a Man And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": null,
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Primo_Levi",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Primo_Levi"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/This-Man-Truce-Primo-Levi/dp/0349100136/"
+        },
+        {
+          "type": "other",
+          "url": "http://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

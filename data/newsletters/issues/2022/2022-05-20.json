@@ -6,7 +6,151 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Videos I’m enjoying",
+      "category": "video",
+      "title": "Devon Larratt vs. “The Mountain” from Game of Thrones (225 lbs vs. 419 lbs)",
+      "creator": null,
+      "note": "](https://youtu.be/IkkL-bAH8H4)​  \n​[**Devon Larratt Best Moments**](https://youtu.be/hAeinX5Pm7Y)**  \n​**[**#265: Devon Larratt: Arm Wrestling**](https://youtu.be/nvBEXXnNaNQ) on the [Lex Fridman](https://lexfridman.com/) ([@lexfridman](https://twitter.com/lexfridman)) podcast.",
+      "original_url": "https://youtu.be/IkkL-bAH8H4",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/IkkL-bAH8H4"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/hAeinX5Pm7Y"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/nvBEXXnNaNQ"
+        },
+        {
+          "type": "other",
+          "url": "https://lexfridman.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/lexfridman"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Essay I’m reading and rereading",
+      "category": "article",
+      "title": "The Top Idea in Your Mind",
+      "creator": "Paul Graham",
+      "note": "([@paulg](https://twitter.com/paulg)). This is arguably the most important short reading I’ve done in a while.",
+      "original_url": "http://www.paulgraham.com/top.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.paulgraham.com/top.html"
+        },
+        {
+          "type": "other",
+          "url": "http://www.paulgraham.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/paulg"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Book review I’m reading",
+      "category": "book",
+      "title": "Book Review: Raise A Genius!",
+      "creator": "Scott Alexander",
+      "note": "([@slatestarcodex](https://twitter.com/slatestarcodex?lang=en)) of [Slate Star Codex](https://slatestarcodex.com/) fame, now writing at [Astral Codex Ten](https://astralcodexten.substack.com/). Hat tip to R.R. of [Most Recommended Books](https://mostrecommendedbooks.com/). Here’s the opening paragraph: “A few months ago, I learned about Laszlo Polgar, the man who trained all three of his daughters to be chess grandmasters. He claimed he could make any child a genius just by teaching them using his special methods. I was pretty upset because, although he had a book called _Raise A Genius_, it was hard to find and only available in Hungarian and Esperanto.”",
+      "original_url": "https://slatestarcodex.com/2017/07/31/book-review-raise-a-genius/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://slatestarcodex.com/2017/07/31/book-review-raise-a-genius/"
+        },
+        {
+          "type": "other",
+          "url": "https://astralcodexten.substack.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/slatestarcodex?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://slatestarcodex.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://astralcodexten.substack.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://mostrecommendedbooks.com/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Documentary I’m watching",
+      "category": "video",
+      "title": "The Great Dance",
+      "creator": "Craig Foster) and Damon Foster",
+      "note": ") and [Damon Foster](https://www.imdb.com/name/nm0287749/?ref_=tt_ov_dr). This was recommended to me by an excellent tracker. The best video I could find that’s viewable from the US was on Facebook. Be forewarned that it’s very grainy and very bizarre. This is the only footage of successful [persistence hunting](https://en.wikipedia.org/wiki/Persistence_hunting) that I’ve ever seen, and filmmaker Craig Foster is also the diver featured in [_My Octopus Teacher_](https://www.netflix.com/title/81045007). Here is the official description: “A story of three [San](https://en.wikipedia.org/wiki/San_people) hunters at their most extreme limits of endurance, culminating in ‘the Chasing Hunt’—a ritual that has never before been revealed to the world outside of the Kalahari. Discover the extraordinary spiritual relationship between the hunter and the hunted. Marvel at the incredible wealth of knowledge of the San people about the world around them.” Few of you will watch all of this, but since this newsletter promises weird things, here’s your serving for the week.",
+      "original_url": "https://www.facebook.com/barefootted/videos/the-great-dance/1746233412082542/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.facebook.com/barefootted/videos/the-great-dance/1746233412082542/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Craig_Foster_(filmmaker"
+        },
+        {
+          "type": "other",
+          "url": "https://www.imdb.com/name/nm0287749/?ref_=tt_ov_dr"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Persistence_hunting"
+        },
+        {
+          "type": "other",
+          "url": "https://www.netflix.com/title/81045007"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/San_people"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“You give but little when you give of your possessions. It is when you give of yourself that you truly give.” — Kahlil Gibran And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Kahlil Gibran And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Kahlil_Gibran",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Kahlil_Gibran"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

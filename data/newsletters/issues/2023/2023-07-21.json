@@ -6,7 +6,171 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m rereading",
+      "category": "article",
+      "title": "100 Tips for a Better Life",
+      "creator": "Conor Barnes",
+      "note": "([@Ideopunk](https://twitter.com/ideopunk)). This is a surprisingly good list, despite the generic headline. Thanks to [Ryan Holiday](https://tim.blog/2020/04/09/ryan-holiday-stoicism/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@RyanHoliday](https://www.instagram.com/ryanholiday/)) for the recommendation.",
+      "original_url": "https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life"
+        },
+        {
+          "type": "other",
+          "url": "https://ideopunk.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/ideopunk"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/04/09/ryan-holiday-stoicism/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/ryanholiday/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "The Big Sick",
+      "creator": null,
+      "note": "([trailer](https://www.youtube.com/watch?v=jcD0Daqc3Yw), [Amazon](https://www.amazon.com/Big-Sick-Kumail-Nanjiani/dp/B089XYBLJV/)). If you’re looking for a very funny and smart movie, this is just what the doctor ordered (pun intended). It currently has 98% on Rotten Tomatoes’ Tomatometer. Here’s the description: “_The Big Sick_ is based on the real-life courtship between Pakistan-born comedian [Kumail Nanjiani](https://en.wikipedia.org/wiki/Kumail_Nanjiani) \\[[@kumailn](https://twitter.com/kumailn)\\] and [Emily Gordon](https://en.wikipedia.org/wiki/Emily_V._Gordon) \\[[@emilyvgordon](https://twitter.com/emilyvgordon)\\], who fall in love but struggle as their cultures clash. When Emily contracts a mysterious illness, Kumail finds himself forced to face her feisty parents, his family’s expectations, and his true feelings.” I found this movie while looking for the best comedy screenplays online, which took me to [this page](https://www.scriptreaderpro.com/best-comedy-scripts/).",
+      "original_url": "https://www.amazon.com/Big-Sick-Kumail-Nanjiani/dp/B089XYBLJV/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Big-Sick-Kumail-Nanjiani/dp/B089XYBLJV/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=jcD0Daqc3Yw"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Big-Sick-Kumail-Nanjiani/dp/B089XYBLJV/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Kumail_Nanjiani"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/kumailn"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Emily_V._Gordon"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/emilyvgordon"
+        },
+        {
+          "type": "other",
+          "url": "https://www.scriptreaderpro.com/best-comedy-scripts/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "AI tool I’m paying attention to",
+      "category": "other",
+      "title": "Introducing Wonder Studio",
+      "creator": null,
+      "note": "This tech could have a huge impact on leveling the moviemaking playing field. Advisors and investors include [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) and [Founders Fund](https://foundersfund.com/), and the company was co-founded by [Nikola Todorovic](https://twitter.com/nikolatod3) and [Tye Sheridan](https://en.wikipedia.org/wiki/Tye_Sheridan). From [the demo on YouTube](https://www.youtube.com/watch?v=nEHCBPGo-5M): “An AI tool that automatically animates, lights, and composes CG characters into a live-action scene. No complicated 3D software, no expensive production hardware—all you need is a camera.” Here is [a two-minute video taste of the tech](https://www.youtube.com/watch?v=nEHCBPGo-5M).",
+      "original_url": "https://www.youtube.com/watch?v=nEHCBPGo-5M",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=nEHCBPGo-5M"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Steven_Spielberg"
+        },
+        {
+          "type": "other",
+          "url": "https://foundersfund.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/nikolatod3"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Tye_Sheridan"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=nEHCBPGo-5M"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=nEHCBPGo-5M"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "List I’m studying",
+      "category": "other",
+      "title": "The 50 Best Places to Travel in 2023",
+      "creator": null,
+      "note": "I am planning my next adventures, both in the U.S. and abroad, and this list had some unexpected gems.",
+      "original_url": "https://www.travelandleisure.com/best-places-to-go-2023-6827750",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.travelandleisure.com/best-places-to-go-2023-6827750"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The longer I live, the more deeply I learn that love—whether we call it friendship or family or romance—is the work of mirroring and magnifying each other’s light. Gentle work. Steadfast work. Life-saving work in those moments when life and shame and sorrow occlude our own light from our view, but there is still a clear-eyed loving person to beam it back. In our best moments, we are that person for another.” — Maria Popova (via Pineapple Cat) (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my interview with Kevin Kelly on excellent advice for living, my conversation with Maria Popova on writing and life, and this clip on some of my favorite travel destinations. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "whether we call it friendship or family or romance—is the work of mirroring and magnifying each other’s light. Gentle work. Steadfast work. Life-saving work in those moments when life and shame and sorrow occlude our own light from our view, but there is still a clear-eyed loving person to beam it back. In our best moments, we are that person for another.” — Maria Popova",
+      "note": null,
+      "original_url": "https://tim.blog/2014/10/21/brain-pickings/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2014/10/21/brain-pickings/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/F3h81"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/10/21/brain-pickings/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/Cu1z5iPPGbA/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

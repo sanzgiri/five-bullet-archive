@@ -6,7 +6,131 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Ain’t No Rest for the Wicked",
+      "creator": "Cage The Elephant",
+      "note": "([YouTube](https://youtu.be/e2Z0sON2UPc?si=ok-a_bmPcbF6gGbc), [Spotify](https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7?autoplay=true)) by [Cage The Elephant](https://www.cagetheelephant.com/) ([@CageTheElephant](https://x.com/CageTheElephant)).",
+      "original_url": "https://youtu.be/e2Z0sON2UPc?si=ok-a_bmPcbF6gGbc",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/e2Z0sON2UPc?si=ok-a_bmPcbF6gGbc"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/e2Z0sON2UPc?si=ok-a_bmPcbF6gGbc"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7?autoplay=true"
+        },
+        {
+          "type": "other",
+          "url": "https://www.cagetheelephant.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/CageTheElephant"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m excited to announce",
+      "category": "other",
+      "title": "My First Book In 7 Years (And Some Big Experiments)",
+      "creator": null,
+      "note": "](https://tim.blog/2025/01/13/the-no-book/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content).**”** Phew! I’ve been waiting a long time to announce this one. This blog post also includes two sample chapters. What would you most want to learn or see in this book? Please let me know by leaving a comment on [the blog post](https://tim.blog/2025/01/13/the-no-book/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content), as I’ll be reading them all.",
+      "original_url": "https://tim.blog/2025/01/13/the-no-book/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2025/01/13/the-no-book/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/01/13/the-no-book/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Entrepreneurial story I’m enjoying",
+      "category": "other",
+      "title": "A look back on the funniest thing I ever did.... AKA “How To Make $100K From A Dick Joke.”",
+      "creator": null,
+      "note": "A family member texted this to me with “Makes me think of _The 4-Hour Workweek_.”",
+      "original_url": "https://imgur.com/gallery/look-back-on-funniest-thing-i-ever-did-aka-how-to-make-100k-from-joke-KZ4u3c4",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://imgur.com/gallery/look-back-on-funniest-thing-i-ever-did-aka-how-to-make-100k-from-joke-KZ4u3c4"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m soaking in",
+      "category": "other",
+      "title": "How to like everything more",
+      "creator": "Sasha Chapin",
+      "note": ". For more from Sasha, see his “[50 things I know](https://sashachapin.substack.com/p/50-things-i-know).”",
+      "original_url": "https://sashachapin.substack.com/p/how-to-like-everything-more",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://sashachapin.substack.com/p/how-to-like-everything-more"
+        },
+        {
+          "type": "other",
+          "url": "https://www.sashachapin.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://sashachapin.substack.com/p/50-things-i-know"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Be soft in your practice. Think of the method as a fine silvery stream, not a raging waterfall. Follow the stream, have faith in its course. It will go its own way, meandering here, trickling there. It will find the grooves, the cracks, the crevices. Just follow it. Never let it out of your sight. It will take you.” — Sheng-yen (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my brand-new conversation on the podcast with Naval Ravikant and Aaron Stupple, some of Neil Strauss’s favorite books, and this guided meditation from Zen Master Henry Shukman. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Sheng-yen",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Sheng-yen",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Sheng-yen"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/afhSP"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/5YOhdYK36r746KmNcJ6l6x"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/07/31/neil-strauss-book-recommendations/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=2klv4O3kG9I"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

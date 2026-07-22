@@ -6,7 +6,135 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m celebrating —",
+      "category": "other",
+      "title": "This week is the launch of my collaboration with author Michael Pollan: The Ferriss – UC Berkeley Psychedelic Journalism Fellowship",
+      "creator": null,
+      "note": "This has been in the works for a long time! If you want to bend the arc of history, longform and investigative journalism is one of the best contemporary tools that we have. The Cambrian explosion of psychedelic medicine brings with it both incredible promise and incredible complexity. Dedicated journalists are needed to help separate fact from fiction, hold people accountable, and much more. [Michael Pollan](https://tim.blog/2021/06/28/michael-pollan-this-is-your-mind-on-plants/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@michaelpollan](https://twitter.com/michaelpollan)) is the perfect person to spearhead this ambitious fellowship, and I am very grateful to be involved. Mark your calendars, as the [application form to apply](https://journalism.berkeley.edu/bcspfellows/) will go live on December 1st. I have very high hopes for this, including the hope that this fellowship serves as a proof of concept for similar initiatives at other institutions.",
+      "original_url": "https://journalism.berkeley.edu/tim-ferriss-gift/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://journalism.berkeley.edu/tim-ferriss-gift/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/06/28/michael-pollan-this-is-your-mind-on-plants/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/michaelpollan"
+        },
+        {
+          "type": "other",
+          "url": "https://journalism.berkeley.edu/bcspfellows/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m rereading —",
+      "category": "article",
+      "title": "I Think You’re Fat",
+      "creator": null,
+      "note": "(_Esquire_, 2007). This is a classic, and it never gets old. Be prepared to laugh. To make it twice as nice, check out [my podcast interview with A.J.](https://tim.blog/2016/12/26/a-j-jacobs-self-experimenter-extraordinaire/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), in which we discuss his many extraordinary and hilarious experiments.",
+      "original_url": "https://www.esquire.com/news-politics/a26792/honesty0707/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.esquire.com/news-politics/a26792/honesty0707/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2016/12/26/a-j-jacobs-self-experimenter-extraordinaire/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2016/12/26/a-j-jacobs-self-experimenter-extraordinaire/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Pro Travel Hacks for Every Aspect of Your Next Trip",
+      "creator": null,
+      "note": "([Apple Podcasts](https://podcasts.apple.com/us/podcast/pro-travel-hacks-for-every-aspect-of-your-next-trip/id1560751222?i=1000520875095), [Spotify](https://open.spotify.com/episode/1VXTPtH8RrUQT990LJ3Be8?si=HgvOR5cCQPuKLki3DbkAIg&dl_branch=1)) on the [_All The Hacks_](https://www.allthehacks.com/) podcast, hosted by [Chris Hutchins](https://chrishutchins.com/) ([@hutchins](https://twitter.com/hutchins)). This covers just about every aspect of travel. Even though I don’t spend time optimizing points, which is part of the discussion, the suggestions for immersive in-country experiences alone made this a fantastic listen. I consider myself an experienced traveler, and I still picked up a lot of new tricks and resources. Here’s the official description: “Travel pro Leigh Rowan ([@leighrowan](https://twitter.com/leighrowan)) joins Chris to discuss the travel hacks you need for your next trip, including getting the best prices on flights and hotels, having authentic local experiences, and not getting ripped off changing money.”",
+      "original_url": "https://www.allthehacks.com/travel-hacks-leigh-rowan/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.allthehacks.com/travel-hacks-leigh-rowan/"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/pro-travel-hacks-for-every-aspect-of-your-next-trip/id1560751222?i=1000520875095"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/1VXTPtH8RrUQT990LJ3Be8?si=HgvOR5cCQPuKLki3DbkAIg&dl_branch=1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.allthehacks.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://chrishutchins.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/hutchins"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/leighrowan"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Article I’m reading —",
+      "category": "article",
+      "title": "Pharmaceutical companies should pay for raiding nature’s medicine cabinet",
+      "creator": null,
+      "note": "01686-X/fulltext?dgcid=raven_jbs_etoc_email)**”** (_The Lancet_). Nature is the source and inspiration for many blockbuster medicines, but the ecosystems that provide the original molecules have received very little support in return. Imagine if someone were to take a public domain novel, add 5% new pages in the form of 10 illustrations and an appendix (i.e., make a small tweak to the molecule), copyright it, and earn millions of dollars. If the family of the original author were living in destitution, might it be viewed as a moral obligation for the new author to send at least a small portion of that income to the family of origin? I think so. This doesn’t make me anti-capitalist, as I believe capitalism is the best economic system we currently have ([I invest in and support a lot of companies](http://angel.co/tim)), but it does reflect a belief that greed constrained only by the law and uninformed by ethics is the path to moral bankruptcy. There are many companies that I believe could do a lot of good—and increase shareholder loyalty—with a more explicit commitment to reciprocity. I think such a move can increase both stock prices and positive impact.",
+      "original_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21"
+        },
+        {
+          "type": "other",
+          "url": "http://angel.co/tim"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer the negative elements in your life, don’t sit at home and think about it. Go out and get busy!” — Dale Carnegie And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Dale Carnegie And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Dale_Carnegie",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Dale_Carnegie"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

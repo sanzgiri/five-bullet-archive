@@ -6,7 +6,211 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "63 principles",
+      "creator": "Nabeel S",
+      "note": ". Nabeel is currently a stealth startup founder but was previously at Palantir. He has been a visiting scholar in AI at the Mercatus Center as well as an Emergent Ventures awardee.",
+      "original_url": "https://nabeelqu.co/principles",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://nabeelqu.co/principles"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/nabeelqu"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Für Elise - Batiste",
+      "creator": "Jon Batiste",
+      "note": ". This is the music video for “Für Elise - Batiste” from Jon Batiste’s album [_Beethoven Blues_](https://open.spotify.com/album/3eXr4s3rCLxNJpxqaIDyqJ), which is out now.",
+      "original_url": "https://www.youtube.com/watch?v=-5YRhvH6Uys",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=-5YRhvH6Uys"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/10/30/jon-batiste/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/album/3eXr4s3rCLxNJpxqaIDyqJ"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Science I’m following",
+      "category": "research",
+      "title": "This scientist treated her own cancer with viruses she grew in the lab",
+      "creator": null,
+      "note": "From the article: “Beata Halassy discovered in 2020, aged 49, that she had breast cancer at the site of a previous mastectomy. It was the second recurrence there since her left breast had been removed, and she couldn’t face another bout of chemotherapy. Halassy, a virologist at the University of Zagreb, studied the literature and decided to take matters into her own hands with an unproven treatment. A case report published in _Vaccines_ in August outlines how Halassy self-administered a treatment called oncolytic virotherapy (OVT) to help treat her own stage 3 cancer. She has now been cancer-free for four years.”",
+      "original_url": "https://www.nature.com/articles/d41586-024-03647-0",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nature.com/articles/d41586-024-03647-0"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m watching (short)",
+      "category": "video",
+      "title": "Jensen Huang got his best career advice from a gardener in Japan",
+      "creator": null,
+      "note": null,
+      "original_url": "https://x.com/arjunkhemani/status/1856687281513316637",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://x.com/arjunkhemani/status/1856687281513316637"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“When it comes to filmmaking, money isn’t important. The intensity of your wishes and faith alone are the deciding factors.” — Werner Herzog (_Grizzly Man and more) to Errol Morris (_Fog of War and more) (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my interview with five-time Grammy Award-winning musician Jon Batiste; this Random Show episode, recorded in Japan with Kevin Rose; and my latest podcast episode, with returning guest and listener favorite Derek Sivers. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim ### Forwarded this message? Sign up here. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. Sign Up ### Listen to The Tim Ferriss Show Podcast The Tim Ferriss Show is one of the most popular podcasts in the world with more than one billion downloads. It has been selected for \"Best of Apple Podcasts\" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts on many occasions. Podcasts Apple Podcasts Overcast Spotify Tim's Blog ### Read Tim's Books [](https://tim.blog/tim-ferriss-books/?utm_campaign=design-test&utm_medium=convertit&utm_source=convertkit) Amazon Audible B & N Tim's Blog Follow Tim: [](https://twitter.com/tferriss) [](https://www.instagram.com/timferriss/) [](https://www.youtube.com/channel/UCznv7Vf9nBdJYvBagFdAHWw) [](https://www.facebook.com/TimFerriss) [](https://www.linkedin.com/in/timferriss/) DO NOT REPLY HERE: Due to volume, please do not reply to this email. Sadly we are unable to read 1000+ email replies daily. To reply to Tim, please do so in the blog comments here. No longer want these emails? Unsubscribe 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Werner Herzog",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Werner_Herzog",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Werner_Herzog"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Grizzly-Man-Werner-Herzog/dp/B007K8BBHQ/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Errol_Morris"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Fog-War-Robert-McNamara/dp/B00ANTX3HA/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Frida_Kahlo"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/EZ74v"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/10/30/jon-batiste/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/02/26/the-random-show-drinking-urine-exploring-japan-and-figuring-out-life/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/11/14/derek-sivers-2/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_campaign=design-test&utm_medium=convertit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/lmun74z88amh0gv9rmsqs8lwm000bg"
+        }
+      ]
+    }
+  ]
 }

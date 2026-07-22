@@ -6,7 +6,186 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Derek Sivers wisdom I’m enjoying",
+      "category": "other",
+      "title": "Well-rounded doesn’t cut",
+      "creator": "Derek Sivers",
+      "note": ". Pair with “[1,000 True Fans](https://kk.org/thetechnium/1000-true-fans/)” by [Kevin Kelly](https://www.youtube.com/watch?v=eZ3Y_rjKvIE) for a potent combo. These two philosophies will become even more valuable in the coming AI deluge of machine-created content. To surf above the tsunami, I suggest one human-scale win at a time. Think big first, and you’ll likely get lost, defeated by AIs instructed to do the same. Think small, and you’ll have a better chance of enduring… and snowballing into something big.",
+      "original_url": "https://sive.rs/rounded",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://sive.rs/rounded"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=0BaDQCjqUHU"
+        },
+        {
+          "type": "other",
+          "url": "https://kk.org/thetechnium/1000-true-fans/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=eZ3Y_rjKvIE"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Grasp",
+      "creator": "Sevendust",
+      "note": "([YouTube](https://youtu.be/ihtb0iPLgeA?si=sEjRBTf5CBO2NLh1), [Spotify](https://open.spotify.com/track/2FlFvWw7Qj3RPFmJgApUGo), [Apple Music](https://music.apple.com/us/song/grasp/311283996)) by [Sevendust](https://sevendust.com/?srsltid=AfmBOooGvXRZmiA253GpvXavfagqbsko4Mc0rcEHHgxe7O2jvAE06j5n). This one has everything: dulcet tones, belting, funky riffs, and a few drops of the hammer. This oldie underscores a lot of what I love about Sevendust. If you have a chance to see them live, take it.",
+      "original_url": "https://youtu.be/ihtb0iPLgeA?si=sEjRBTf5CBO2NLh1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/ihtb0iPLgeA?si=sEjRBTf5CBO2NLh1"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/ihtb0iPLgeA?si=sEjRBTf5CBO2NLh1"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/2FlFvWw7Qj3RPFmJgApUGo"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/song/grasp/311283996"
+        },
+        {
+          "type": "other",
+          "url": "https://sevendust.com/?srsltid=AfmBOooGvXRZmiA253GpvXavfagqbsko4Mc0rcEHHgxe7O2jvAE06j5n"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m excited to share",
+      "category": "other",
+      "title": "My appearance on To Dine For with Kate Sullivan_.",
+      "creator": null,
+      "note": "My first appearance on PBS! I grew up on PBS, and certain series, like [_Joseph Campbell and_ _The Power of Myth_](https://tim.blog/2020/08/27/the-power-of-myth-joseph-campbell/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) ([video](https://www.amazon.com/Joseph-Campbell-Power-Myth-Moyers/dp/B07BC61WHS/), [audio](https://tim.blog/2020/08/27/the-power-of-myth-joseph-campbell/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content)), left an indelible mark. In _To Dine For with Kate Sullivan_, four-time Emmy Award-winning journalist [Kate Sullivan](https://www.instagram.com/todinefortv/?hl=en) accompanies guests to their favorite restaurants and explores their lives and thinking. Kate kindly invited me last summer to join her in New York City. I picked [Hearth](https://www.restauranthearth.com/), which was founded by [Chef Marco Canora](https://tim.blog/2021/11/10/marco-canora/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content), whom many will recognize from his extensive appearances in [_The 4-Hour Chef_](https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/) as one of my main teachers. I had a blast. Thank you again for having me, Kate and team!",
+      "original_url": "https://www.tpt.org/to-dine-for-with-kate-sullivan/video/tim-ferriss-RYfq9R/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.tpt.org/to-dine-for-with-kate-sullivan/video/tim-ferriss-RYfq9R/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/08/27/the-power-of-myth-joseph-campbell/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Joseph-Campbell-Power-Myth-Moyers/dp/B07BC61WHS/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/08/27/the-power-of-myth-joseph-campbell/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/todinefortv/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.restauranthearth.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/11/10/marco-canora/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "WTF? Marc Maron ends his podcast after 16 years",
+      "creator": "Steve Bennett",
+      "note": ". This is a wonderfully warm closing of the curtain. Endings can be as beautiful as beginnings, and I think Marc’s words are worth savoring. His podcast was one of the handful in 2012–13 that inspired me to start my own.",
+      "original_url": "https://www.chortle.co.uk/news/2025/06/02/58204/wtf%3F_marc_maron_ends_his_podcast_afetr_16_years",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.chortle.co.uk/news/2025/06/02/58204/wtf%3F_marc_maron_ends_his_podcast_afetr_16_years"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Chortle"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Interview I really enjoyed",
+      "category": "other",
+      "title": "Chatri Sityodtong, CEO of ONE Championship — From Dirt Poor to Top-10 Sports-Media Franchise, The $100M Breakfast, Dominating Social Media (30B+ Views/Year), Key Strategic Decisions, and The Moneyball of Fight Matchmaking",
+      "creator": null,
+      "note": ", Key Strategic Decisions, and The Moneyball of Fight Matchmaking**](https://www.youtube.com/watch?v=xrHOlE7fLrM)**.”** ONE has become one of my favorite sports-watching experiences. To watch [tonight’s fight live at 9 p.m. ET](https://www.amazon.com/gp/video/detail/B0DWT7WQ9V), if you’re in the US or Canada, just tune in to Amazon Prime. Live elsewhere? Just select your country [here](https://www.onefc.com/how-to-watch/us/onefightnight32/) to see other viewing options. ONE’s [YouTube channel](https://www.youtube.com/@ONEChampionship/featured) also features fantastic highlights from past fights.",
+      "original_url": "https://www.youtube.com/watch?v=xrHOlE7fLrM",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=xrHOlE7fLrM"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/gp/video/detail/B0DWT7WQ9V"
+        },
+        {
+          "type": "other",
+          "url": "https://www.onefc.com/how-to-watch/us/onefightnight32/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/@ONEChampionship/featured"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Book passage I’ve highlighted",
+      "category": "book",
+      "title": "Let Your Life Speak",
+      "creator": "Parker J",
+      "note": "* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [my interview with Kevin Kelly](https://www.youtube.com/watch?v=eZ3Y_rjKvIE), author of [_Excellent Advice for Living_](https://www.amazon.com/Excellent-Advice-Living-Wisdom-Earlier/dp/0593654528) and co-founder of _WIRED_ magazine.  \n​  \nAnd, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
+      "original_url": "https://www.amazon.com/Let-Your-Life-Speak-Listening/dp/1394235100/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Let-Your-Life-Speak-Listening/dp/1394235100/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Parker_Palmer"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=eZ3Y_rjKvIE"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Excellent-Advice-Living-Wisdom-Earlier/dp/0593654528"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

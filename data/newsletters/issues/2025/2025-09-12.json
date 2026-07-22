@@ -7,7 +7,141 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Person I’m following on Instagram",
+      "category": "other",
+      "title": "Jordan Gold",
+      "creator": null,
+      "note": "Jordan has blown my mind in person with his sleight of hand, and it happened again a few days ago in LA. He’s a rare combo: a world-class performer and a world-class teacher. His close-up stuff is bananas.",
+      "original_url": "https://www.instagram.com/p/DNexkxTNx9E/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/p/DNexkxTNx9E/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Gadget that’s impressing me",
+      "category": "other",
+      "title": "Elgato Wave:3",
+      "creator": null,
+      "note": "Based on reviews, I picked up this microphone for a last-minute virtual recording on the road. It’s easy to pack and looks great on camera. Most impressive to me, it seems to cancel bounce and echo far better than my pro studio gear. Go figure. So their tech black magic can work wonders, but there’s one bug to look out for: when you first plug in the mic, it will often auto-select to speaker or headset mode, and you need to press the big button on the front to ensure you’re actually recording on microphone.",
+      "original_url": "https://www.amazon.com/Elgato-Wave-Microphone-Podcasting-Capacitive/dp/B088HHWC47",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Elgato-Wave-Microphone-Podcasting-Capacitive/dp/B088HHWC47"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Unusual paper I’m revisiting",
+      "category": "other",
+      "title": "Impact of Long-Term Fasting on Skeletal Muscle: Structure, Energy Metabolism and Function Using 31P/1H MRS and MRI",
+      "creator": null,
+      "note": "From the conclusions section: “Long-term fasting \\[250 kcal/day\\] did not alter muscle metabolism or performance, nor induced structural or inflammatory changes. The decrease in muscle volume is minor when accounting for glycogen and water depletion during fasting. Fat is relocated to the intracellular compartment of myocytes. Both anaerobic and aerobic metabolic pathways remain unchanged after 12 days of fasting in both sexes and older subjects. This suggests that human muscles, like those in animals, have evolved to withstand seasonal food shortages and endure long fasting periods.”",
+      "original_url": "https://onlinelibrary.wiley.com/doi/10.1002/jcsm.13773",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1002/jcsm.13773"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Amazingly practical cartoon I’m revisiting",
+      "category": "other",
+      "title": "Learn to Read Korean in 15 Minutes",
+      "creator": null,
+      "note": "For those who might want to sing along to [_KPop Demon Hunters_](https://www.netflix.com/title/81498621) and actually read the Korean, it’s surprisingly easy. In fact, learning to read all Korean (_Hangul_ or 한글) takes only an hour or so! “15 minutes” might be a slight exaggeration, but it’s pretty close. You’ll be reading Korean without having any idea of what you’re saying, but, hey… that’s good enough to slay at karaoke or sing-along _Golden_. Baby steps! It’s a beautiful language.",
+      "original_url": "https://www.ryanestrada.com/learntoreadkoreanin15minutes/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.ryanestrada.com/learntoreadkoreanin15minutes/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.netflix.com/title/81498621"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "The next step once you’ve enjoyed the above bullet",
+      "category": "other",
+      "title": "Korean Lyrics Explained: “Golden” by Huntrix",
+      "creator": null,
+      "note": "Now you’re off to the races! If we all give it a shot, we could probably double the number of Korean speakers in the world with all the 4–10-year-olds obsessed with _KPop Demon Hunters_ in the US alone.",
+      "original_url": "https://www.youtube.com/shorts/0vBttuy1rZ8",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/shorts/0vBttuy1rZ8"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Music for easing into the weekend",
+      "category": "music",
+      "title": "Eco",
+      "creator": "Axel Thesleff",
+      "note": "([YouTube](https://youtu.be/JOoKoY0tIw0?si=Kotr2ihPMlQh0z3O), [Spotify](https://open.spotify.com/track/2Ene2KtroHMwyI4oxwEbl9?autoplay=true&v=T)) by Axel Thesleff ([@axelthesleff](https://www.axelthesleff.com/)). For those who like instrumentals and behind-the-scenes video, [here’s a cool clip](https://youtu.be/elW7np-MMj4?si=OQRKIzrBBibLTmyJ) of the beginning of this track.",
+      "original_url": "https://youtu.be/JOoKoY0tIw0?si=Kotr2ihPMlQh0z3O",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/JOoKoY0tIw0?si=Kotr2ihPMlQh0z3O"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/JOoKoY0tIw0?si=Kotr2ihPMlQh0z3O"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/2Ene2KtroHMwyI4oxwEbl9?autoplay=true&v=T"
+        },
+        {
+          "type": "other",
+          "url": "https://www.axelthesleff.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/elW7np-MMj4?si=OQRKIzrBBibLTmyJ"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "section": "Book highlight I’m pondering",
+      "category": "book",
+      "title": "The Art of Possibility",
+      "creator": "Rosamund Stone Zander and Benjamin Zander * * * You can complement this edition of 5-Bullet Friday w",
+      "note": "* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [my conversation with Steve Jang](https://tim.blog/2023/11/30/steve-jang-live-from-south-korea/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit) on all things South Korea, recorded in Seoul.  \n​  \nAnd, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
+      "original_url": "https://www.amazon.com/Art-Possibility-Transforming-Professional-Personal/dp/0142001104/ref=sr_1_1?crid=1JIF4H1A1T38L&dib=eyJ2IjoiMSJ9.BYWIr-PCfJ_IkzJjjs8iwjFR7U7dpLvM4Gac8M1yW8moSmw8bWL9-0b910zzRTKtxPizXqgkIeofs8wC4VwE_ky-oJFolR3Gkiu4LYWnKEtYeV0gpPVhQnMBhPRT1D7IRIxq88_lTXZEwJAU8u5RPebm5NQvv-oAO5mn0mL4vOkoU4JQQea1x4Ns1RHm3yo2xwhh7eDjA4Y7J55v2fiVZ5OJxZXoCDFl0cgWKGbJaVg.h8kzUXbltfJm_SA7w9c_R3RTO1vwpyQD0dLQKaVZJdU&dib_tag=se&keywords=The%20Art%20of%20Possibility&qid=1757719773&sprefix=%2Caps%2C127&sr=8-1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Art-Possibility-Transforming-Professional-Personal/dp/0142001104/ref=sr_1_1?crid=1JIF4H1A1T38L&dib=eyJ2IjoiMSJ9.BYWIr-PCfJ_IkzJjjs8iwjFR7U7dpLvM4Gac8M1yW8moSmw8bWL9-0b910zzRTKtxPizXqgkIeofs8wC4VwE_ky-oJFolR3Gkiu4LYWnKEtYeV0gpPVhQnMBhPRT1D7IRIxq88_lTXZEwJAU8u5RPebm5NQvv-oAO5mn0mL4vOkoU4JQQea1x4Ns1RHm3yo2xwhh7eDjA4Y7J55v2fiVZ5OJxZXoCDFl0cgWKGbJaVg.h8kzUXbltfJm_SA7w9c_R3RTO1vwpyQD0dLQKaVZJdU&dib_tag=se&keywords=The%20Art%20of%20Possibility&qid=1757719773&sprefix=%2Caps%2C127&sr=8-1"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/11/30/steve-jang-live-from-south-korea/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

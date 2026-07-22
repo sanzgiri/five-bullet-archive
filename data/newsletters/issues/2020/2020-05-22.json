@@ -1,13 +1,126 @@
 {
   "schema_version": 1,
   "issue_date": "2020-05-22",
-  "subject": "5-Bullet Friday — May 22, 2020 ",
+  "subject": "5-Bullet Friday — May 22, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Mary Karr, The Art of Memoir No. 1",
+      "creator": null,
+      "note": "in the _Paris Review_. This is a simply stunning interview of [Mary Karr](https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/nvfohvho3x8x5r/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWFyeV9LYXJy) ([@marykarrlit](https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/wwt2hghowk5kv8/aHR0cHM6Ly90d2l0dGVyLmNvbS9tYXJ5a2FycmxpdA==)) from 2009. I’ve read it multiple times, highlighted nearly every page, and saved my scans to [Evernote](https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/06cwh9h7d9o9wn/aHR0cDovL2V2ZXJub3RlLmNvbQ==). That’s how much goodness I think it contains. It’s also laugh-out-loud funny.",
+      "original_url": "https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/grinh5hz3ldlom/aHR0cHM6Ly93d3cudGhlcGFyaXNyZXZpZXcub3JnL2ludGVydmlld3MvNTk5Mi90aGUtYXJ0LW9mLW1lbW9pci1uby0xLW1hcnkta2Fycg==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/grinh5hz3ldlom/aHR0cHM6Ly93d3cudGhlcGFyaXNyZXZpZXcub3JnL2ludGVydmlld3MvNTk5Mi90aGUtYXJ0LW9mLW1lbW9pci1uby0xLW1hcnkta2Fycg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/nvfohvho3x8x5r/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWFyeV9LYXJy"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/wwt2hghowk5kv8/aHR0cHM6Ly90d2l0dGVyLmNvbS9tYXJ5a2FycmxpdA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/06cwh9h7d9o9wn/aHR0cDovL2V2ZXJub3RlLmNvbQ=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m rewatching and sharing —",
+      "category": "video",
+      "title": "How MDMA is being used to treat PTSD",
+      "creator": null,
+      "note": "from** **_The Economist_****.** [This seven-minute video](https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/l0aehmhk3n0nve/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj04SzVzSnVUYlF2WQ==) is beautifully done, and I highly recommend a quick watch. Here’s a portion of the description, edited for length: “The FDA has labeled MDMA a breakthrough treatment…. In a recent study, more than 60% of patients no longer met the clinical criteria for PTSD after MDMA treatment. For Jonathan, a suicidal veteran, conventional treatments hadn’t worked. He saw this trial as his last hope, and for him, the treatment was a revelation.”",
+      "original_url": "https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/vws3hrhkpvxv3l/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj04SzVzSnVUYlF2WQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/vws3hrhkpvxv3l/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj04SzVzSnVUYlF2WQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/l0aehmhk3n0nve/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj04SzVzSnVUYlF2WQ=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’ve been preparing for you all —",
+      "category": "other",
+      "title": "The Obstacle is the Way",
+      "creator": null,
+      "note": "!** I loved _The_ _Obstacle is the Way_ so much that I actually produced [the audiobook version](https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/oehkhqh8r6k6lv/aHR0cHM6Ly93d3cuYXVkaWJsZS5jb20vcGQvVGhlLU9ic3RhY2xlLUlzLXRoZS1XYXktQXVkaW9ib29rL0IwMEsyNTJFVDg=). This book has helped me turn problems upside down, manage fear, and even uncover unique opportunities. It’s a collection of stories and principles about Stoicism, which I consider one of the best “operating systems” for thriving in high-stress environments.  \n  \nThe book is worth reading multiple times, and it’s become popular at the highest ranks of the NFL, military, and beyond. Huge thanks to Ryan ([@RyanHoliday](https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/ppueh9h7z2325w/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9SeWFuSG9saWRheS8=)) for signing 100 copies so that I can mail them out as surprise gifts.  \n  \nTo throw your hat in the ring, please [fill out this form](https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/6eieh8h275k56m/aHR0cHM6Ly9mb3Jtcy5nbGUvV2F2MWJxYlN1QTF3S21nYjg=) before 11:59 PM PT on Tuesday, May 26th, and my team will select 100 folks at random as lucky winners and make an announcement no later than 5 PM PT that Friday. If you don’t win, I still strongly encourage you to listen to [my most recent podcast conversation with Ryan](https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/5kfvh7h9mnvno6/aHR0cHM6Ly90aW0uYmxvZy8yMDIwLzA0LzA5L3J5YW4taG9saWRheS1zdG9pY2lzbS8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm) and [consider getting a copy](https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/xotph6h7wprpd0/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UaGUtT2JzdGFjbGUtSXMtV2F5LVJ5YW4tSG9saWRheS1hdWRpb2Jvb2svZHAvQjAwSzVKVU5TVS9yZWY9c3JfMV8xP2RjaGlsZD0xJmtleXdvcmRzPXRoZStvYnN0YWNsZStpcyt0aGUrd2F5JnFpZD0xNTkwMDc5ODYwJnNyPTgtMQ==).  \n  \n**Board game I’m enjoying** **—  \n**[**Splendor**](https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/9wczhnh2p6q638/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Bc21vZGVlLVNQTDAxLVNwbGVuZG9yL2RwL0IwMElaRVVGSUEvcmVmPXNyXzFfMT9kY2hpbGQ9MSZrZXl3b3Jkcz1zcGxlbmRvciZxaWQ9MTU5MDExMzQ0OSZzPXRveXMtYW5kLWdhbWVzJnNyPTEtMQ==)**.** This was recommended to me by my brother, and he put it in the “easy” category. It’s simple to learn, and a game can be finished in 30–45 minutes. If you’re looking for something more involved, check out [Terraforming Mars](https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/nesohvho3x8x5d/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9ncC9wcm9kdWN0L0IwMUdTWUE0SzIvcmVmPXBweF95b19kdF9iX3NlYXJjaF9hc2luX3RpdGxlP2llPVVURjgmcHNjPTE=).",
+      "original_url": "https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/eebph7hn0lplwo/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UaGUtT2JzdGFjbGUtSXMtV2F5LVJ5YW4tSG9saWRheS1hdWRpb2Jvb2svZHAvQjAwSzVKVU5TVS9yZWY9c3JfMV8xP2RjaGlsZD0xJmtleXdvcmRzPXRoZStvYnN0YWNsZStpcyt0aGUrd2F5JnFpZD0xNTkwMDc5ODYwJnNyPTgtMQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/eebph7hn0lplwo/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UaGUtT2JzdGFjbGUtSXMtV2F5LVJ5YW4tSG9saWRheS1hdWRpb2Jvb2svZHAvQjAwSzVKVU5TVS9yZWY9c3JfMV8xP2RjaGlsZD0xJmtleXdvcmRzPXRoZStvYnN0YWNsZStpcyt0aGUrd2F5JnFpZD0xNTkwMDc5ODYwJnNyPTgtMQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/oehkhqh8r6k6lv/aHR0cHM6Ly93d3cuYXVkaWJsZS5jb20vcGQvVGhlLU9ic3RhY2xlLUlzLXRoZS1XYXktQXVkaW9ib29rL0IwMEsyNTJFVDg="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/ppueh9h7z2325w/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9SeWFuSG9saWRheS8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/6eieh8h275k56m/aHR0cHM6Ly9mb3Jtcy5nbGUvV2F2MWJxYlN1QTF3S21nYjg="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/5kfvh7h9mnvno6/aHR0cHM6Ly90aW0uYmxvZy8yMDIwLzA0LzA5L3J5YW4taG9saWRheS1zdG9pY2lzbS8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/xotph6h7wprpd0/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UaGUtT2JzdGFjbGUtSXMtV2F5LVJ5YW4tSG9saWRheS1hdWRpb2Jvb2svZHAvQjAwSzVKVU5TVS9yZWY9c3JfMV8xP2RjaGlsZD0xJmtleXdvcmRzPXRoZStvYnN0YWNsZStpcyt0aGUrd2F5JnFpZD0xNTkwMDc5ODYwJnNyPTgtMQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/9wczhnh2p6q638/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Bc21vZGVlLVNQTDAxLVNwbGVuZG9yL2RwL0IwMElaRVVGSUEvcmVmPXNyXzFfMT9kY2hpbGQ9MSZrZXl3b3Jkcz1zcGxlbmRvciZxaWQ9MTU5MDExMzQ0OSZzPXRveXMtYW5kLWdhbWVzJnNyPTEtMQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/nesohvho3x8x5d/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9ncC9wcm9kdWN0L0IwMUdTWUE0SzIvcmVmPXBweF95b19kdF9iX3NlYXJjaF9hc2luX3RpdGxlP2llPVVURjgmcHNjPTE="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“I realized that I could lose myself in a character. I could live in a character. It was a choice. And when I finished with that, I took a month to remember who I was. ‘What do I believe? What are my politics? What do I like and dislike?’ It took me a while, and I was depressed going back into my concerns and my politics. But there was a shift that had already happened. And the shift was, ‘Wait a second. If I can put Jim Carrey aside for four months, who is Jim Carrey? Who the hell is that?’ ... I know now he does not really exist. He’s ideas. ... Jim Carrey was an idea my parents gave me. Irish-Scottish-French was an idea I was given. Canadian was an idea that I was given. I had a hockey team and a religion and all of these things that cobble together into this kind of Frankenstein monster, this representation. It’s like an avatar. These are all the things I am. You are not an actor, or a lawyer. No one is a lawyer. There are lawyers, law is practiced, but no one is a lawyer. There is no one, in fact, there.” — Jim Carrey (@JimCarrey) And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim",
+      "creator": "Jim Carrey",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/wea2hghowk5k39/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSmltX0NhcnJleQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/wea2hghowk5k39/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSmltX0NhcnJleQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/09bwh9h7d9o9ko/aHR0cHM6Ly90d2l0dGVyLmNvbS9KaW1DYXJyZXk="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghgpw4zu8/v2h3hrhkpvxvdv/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,154 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Retro turbo boost for your weekend",
+      "category": "other",
+      "title": "David Hasselhoff - True Survivor (from Kung Fury)",
+      "creator": null,
+      "note": "](https://www.youtube.com/watch?v=ZTidn2dBYbY)**”**",
+      "original_url": "https://www.youtube.com/watch?v=ZTidn2dBYbY",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=ZTidn2dBYbY"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Novel I’m reading",
+      "category": "book",
+      "title": "The Ministry of Time",
+      "creator": "Kaliane Bradley",
+      "note": ". Three or four friends over the past year have recommended this to me. I’m glad I finally took the bait. Time travel + humor + sex + very clever writing. From the description: “A time travel romance, a spy thriller, a workplace comedy, and an ingenious exploration of the nature of power and the potential for love to change it all. Welcome to _The Ministry of Time_, the exhilarating debut novel by Kaliane Bradley.” The cover design by [Alison Forner](https://www.instagram.com/aforner1/) is also brilliant; what she did with the font alone is awesome. Hard to pull off. If you want more time travel, or if you want to start with a shorter ride, I highly recommend [_This Is How You Lose the Time War_](https://www.amazon.com/This-How-You-Lose-Time/dp/1534430997/) by Amal El-Mohtar and Max Gladstone.",
+      "original_url": "https://www.amazon.com/Ministry-Time-Novel-Kaliane-Bradley-ebook/dp/B0CL5FT5C3?ref_=ast_author_dp",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Ministry-Time-Novel-Kaliane-Bradley-ebook/dp/B0CL5FT5C3?ref_=ast_author_dp"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Kaliane_Bradley"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/aforner1/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/This-How-You-Lose-Time/dp/1534430997/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m using to relax my low back and hips",
+      "category": "other",
+      "title": "Daiwa Felicity Swing Machine",
+      "creator": null,
+      "note": "Ignore the ridiculous chi vitalizing claims. This was recommended to me by a top soft-tissue therapist who works with household names. 10–15 minutes before bed does wonders for my lower back and sleep.",
+      "original_url": "https://www.amazon.com/Daiwa-Felicity-Vitalizer-Machine-Original/dp/B0D8977T3G/?th=1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Daiwa-Felicity-Vitalizer-Machine-Original/dp/B0D8977T3G/?th=1"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "The Penguin",
+      "creator": null,
+      "note": "([Amazon](https://www.primevideo.com/detail/The-Penguin/0K6XV0TUZEEAD63A683OX149MG), [Apple TV](https://tv.apple.com/us/show/the-penguin/umc.cmc.19x702tdhe5kelq9tz0fcpqg9), [Hulu](https://www.hulu.com/series/the-penguin-2b442ca7-a7dd-44a5-880b-4afa7acb56f7)). The less you know about this series, the better one of the surprises will be. If you absolutely _must_ watch a trailer, [this is a good option](https://youtu.be/wcIOpkDoOx4?si=ojAbco-yngXgxkog), but I strongly encourage going in blind. This was recommended to me by several friends, and I had a thought I often have: “Another goddamn comic book thing? Thanks but no thanks.” And that’s coming from someone who collected comic books as a kid and who still has all of his boxes of polybagged comics. But… I was wrong. This one is incredibly well cast and well written. I loved it. Just buckle up for a lot of dark humor and dark plot twists. The series has 95% on Rotten Tomatoes for good reasons plus multiple accolades, including three Golden Globe Award nominations and a win.",
+      "original_url": "https://www.primevideo.com/detail/The-Penguin/0K6XV0TUZEEAD63A683OX149MG",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.primevideo.com/detail/The-Penguin/0K6XV0TUZEEAD63A683OX149MG"
+        },
+        {
+          "type": "other",
+          "url": "https://www.primevideo.com/detail/The-Penguin/0K6XV0TUZEEAD63A683OX149MG"
+        },
+        {
+          "type": "other",
+          "url": "https://tv.apple.com/us/show/the-penguin/umc.cmc.19x702tdhe5kelq9tz0fcpqg9"
+        },
+        {
+          "type": "other",
+          "url": "https://www.hulu.com/series/the-penguin-2b442ca7-a7dd-44a5-880b-4afa7acb56f7"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/wcIOpkDoOx4?si=ojAbco-yngXgxkog"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Podcast guest I’m excited to have back",
+      "category": "podcast",
+      "title": "Chris Sacca",
+      "creator": null,
+      "note": "Chris is one of the close friends who mentored me in the startup investing game. His [2015 appearance on the podcast](https://tim.blog/2015/05/30/chris-sacca/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) is an all-time listener favorite, so we were overdue for a podcast reunion. We cover AI, favorite books, beneficial youth mischief, and of course, the durable magic of mullet wigs. [Click here to watch or listen to our conversation](https://tim.blog/2025/01/23/chris-sacca-2/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content).",
+      "original_url": "https://tim.blog/2025/01/23/chris-sacca-2/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2025/01/23/chris-sacca-2/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/05/30/chris-sacca/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/01/23/chris-sacca-2/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“When I was starting out, I used to sit down and write a couple times a week. And then, one day, I was watching these construction workers go back to work. I was watching them kind of trudgin’ down the street... It was like a revelation to me, and I realized, ‘These guys don’t want to go back to work after lunch, but they’re goin’_... ’cause that’s their job!’ And I thought, ‘If they can exhibit that level of dedication for that job, I should be able to do the same.’ Just trudge your ass in!” — Jerry Seinfeld in Comedian_) * * * You can complement this edition of 5-Bullet Friday with my new podcast episode, featuring Zen Master Henry Shukman; my conversation with legendary comedian Jerry Seinfeld; and this deep dive into my lower back issues with renowned physical therapist Dr. Shirley A. Sahrmann. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Jerry Seinfeld in Comedian_) * * * You can complement this edition of 5-Bullet Friday with my new podcast episode, featuring Zen Master Henry Shukman; my conversation with legendary comedian Jerry Seinfeld; and this deep dive into my lower back issues with renowned physical therapist Dr. Shirley A. Sahrmann. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://tim.blog/2020/12/08/jerry-seinfeld/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2020/12/08/jerry-seinfeld/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Comedian_(film"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=oHvJ10D3MUk"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/12/08/jerry-seinfeld/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/KPhd-Qua72E?si=aixM_sJ1u7L2YbUS"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

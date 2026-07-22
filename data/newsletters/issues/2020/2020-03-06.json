@@ -1,12 +1,214 @@
 {
   "schema_version": 1,
   "issue_date": "2020-03-06",
-  "subject": "5-Bullet Friday — March 6, 2020 ",
+  "subject": "5-Bullet Friday — March 6, 2020",
   "sources": [
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’ve been reading daily —",
+      "category": "article",
+      "title": "The once-daily scientific and global recap of COVID-19/SARS-CoV-2 by Johns Hopkins Center for Health Security",
+      "creator": null,
+      "note": "This is a short newsletter of concise bullet points, and it’s the only COVID-19 newsletter that I’m subscribed to. It’s not the end-all and be-all, but it’s more reliable than 99.9% of the noise being circulated. This helps keep you out of primary social feeds, which will overwhelm and confuse. That said...  \n\n* * *",
+      "original_url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/v0i3hrhdvgmwo5/aHR0cDovL3d3dy5jZW50ZXJmb3JoZWFsdGhzZWN1cml0eS5vcmcvbmV3c3Jvb20vbmV3c2xldHRlcnMvZS1uZXdzbGV0dGVyLXNpZ24tdXAuaHRtbA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/v0i3hrhdvgmwo5/aHR0cDovL3d3dy5jZW50ZXJmb3JoZWFsdGhzZWN1cml0eS5vcmcvbmV3c3Jvb20vbmV3c2xldHRlcnMvZS1uZXdzbGV0dGVyLXNpZ24tdXAuaHRtbA=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I created for my friends and family —",
+      "category": "other",
+      "title": "A small, curated Twitter list called “COVID-19,”",
+      "creator": null,
+      "note": "which currently consists of just seven people I follow on this topic who tend to report and curate well. Nearly all of them are MDs with infectious disease expertise or investors and computer scientists who can think well in terms of exponential growth, compounding, etc. Most folks—even very smart folks—are simply not good at these things, which are critical to properly assessing such a virus. Warning: there are a few extremes in the list, but I’ve found most of their thinking to be helpful. It won’t take you long to pick them out.  \n\n* * *",
+      "original_url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/mwf7h5h7qe24mk/aHR0cHM6Ly90d2l0dGVyLmNvbS9pL2xpc3RzLzEyMzQ1ODc3Mjg5NTc4ODY0NjU=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/mwf7h5h7qe24mk/aHR0cHM6Ly90d2l0dGVyLmNvbS9pL2xpc3RzLzEyMzQ1ODc3Mjg5NTc4ODY0NjU="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "A short article that is definitely worth reading —",
+      "category": "article",
+      "title": "How Public Health Policies Saved Citizens in St. Louis During the 1918 Flu Pandemic",
+      "creator": null,
+      "note": "I strongly suggest reading the entire piece. And huge thanks to David Stewart ([@davidstewartNY](https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/o0ckhqh76oxqg6/aHR0cHM6Ly90d2l0dGVyLmNvbS9kYXZpZHN0ZXdhcnROWS9zdGF0dXMvMTIzNDkzMTM4MzU5Mzc3MTAwOA==)) for highlighting it.  \n  \nThe 1918 flu pandemic has some striking similarities to COVID-19, including the following: “The disease was exceptionally severe. Case-fatality rates were >2.5%, compared to <0.1% in other influenza pandemics.” ([CDC source](https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/pmseh9hl2xrqgd/aHR0cHM6Ly93d3duYy5jZGMuZ292L2VpZC9hcnRpY2xlLzEyLzEvMDUtMDk3OV9hcnRpY2xl)). Though it’s impossible to know the global denominator, the WHO recently revised fatality rates for COVID-19 to 3.4%. The most complete information we have is from cruise ships and some locations in China, where milder cases are still tracked with door-to-door temperature gauging of citizens. A case-fatality rate similar to the 1918 flu is well within the realm of possibility.\n\nBut how easily does COVID-19 spread compared to the 1918 flu? Short answer: it appears to spread more easily. From [_The Lancet_](https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/60aeh8hd5ox9n6/aHR0cHM6Ly93d3cudGhlbGFuY2V0LmNvbS9qb3VybmFscy9sYW5jZXQvYXJ0aWNsZS9QSUlTMDE0MC02NzM2KDIwKTMwNTIxLTMvZnVsbHRleHQ=) this week:  \n  \n_The attack rate of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) calculated by mathematical models, from estimates of the basic reproduction number, R0, of 2–3, suggests that 50–60% of the population should eventually be infected because the population seems to be entirely naive to the new virus._\n\nSimply put, an [R0](https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/59bvh7hzn736kz/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQmFzaWNfcmVwcm9kdWN0aW9uX251bWJlcg==) (pronounced “R-nought”) of 2–3 means each case patient with SARS-CoV-2/COVID-19 could infect more than two other people. The 1918 flu is estimated to have had an R0 of 1.80 (interquartile range: 1.47 to 2.27).\n\n* * *",
+      "original_url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/extph7h2l4mrqp/aHR0cHM6Ly93d3cuYmlvbWVyaWV1eGNvbm5lY3Rpb24uY29tLzIwMTgvMTAvMjUvaG93LXB1YmxpYy1oZWFsdGgtcG9saWNpZXMtc2F2ZWQtY2l0aXplbnMtaW4tc3QtbG91aXMtZHVyaW5nLXRoZS0xOTE4LWZsdS1wYW5kZW1pYy8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/extph7h2l4mrqp/aHR0cHM6Ly93d3cuYmlvbWVyaWV1eGNvbm5lY3Rpb24uY29tLzIwMTgvMTAvMjUvaG93LXB1YmxpYy1oZWFsdGgtcG9saWNpZXMtc2F2ZWQtY2l0aXplbnMtaW4tc3QtbG91aXMtZHVyaW5nLXRoZS0xOTE4LWZsdS1wYW5kZW1pYy8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/o0ckhqh76oxqg6/aHR0cHM6Ly90d2l0dGVyLmNvbS9kYXZpZHN0ZXdhcnROWS9zdGF0dXMvMTIzNDkzMTM4MzU5Mzc3MTAwOA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/pmseh9hl2xrqgd/aHR0cHM6Ly93d3duYy5jZGMuZ292L2VpZC9hcnRpY2xlLzEyLzEvMDUtMDk3OV9hcnRpY2xl"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/60aeh8hd5ox9n6/aHR0cHM6Ly93d3cudGhlbGFuY2V0LmNvbS9qb3VybmFscy9sYW5jZXQvYXJ0aWNsZS9QSUlTMDE0MC02NzM2KDIwKTMwNTIxLTMvZnVsbHRleHQ="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/59bvh7hzn736kz/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQmFzaWNfcmVwcm9kdWN0aW9uX251bWJlcg=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Question I’ve wanted to ask you all —",
+      "category": "other",
+      "title": "@tferriss",
+      "creator": null,
+      "note": "and #COVIDQUESTION to help me find your answers. **Most importantly:** **Please cite your sources****, and links are ideal.**\n\nFrom an email I sent to a few experts earlier today:  \n  \n**_How likely would you rate it that some “recovered” patients of COVID-19 could nonetheless suffer permanent organ damage?_** _Is there any evidence—or evidence from similar diseases—to suggest this is possible?_\n\n_Take, for instance,_ [_this piece published yesterday_](https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/9guzhnhl6945zg/aHR0cHM6Ly93d3cubmV3cy5jb20uYXUvbGlmZXN0eWxlL2hlYWx0aC9oZWFsdGgtcHJvYmxlbXMvY2hpbmVzZS1kb2N0b3JzLXNheS1jb3JvbmF2aXJ1cy1saWtlLWEtY29tYmluYXRpb24tb2Ytc2Fycy1hbmQtYWlkcy1jYW4tY2F1c2UtaXJyZXZlcnNpYmxlLWx1bmctZGFtYWdlL25ld3Mtc3RvcnkvZjU4ZjE5YzVlZWFlOTliODQ1YzU0ZTJkMmI5MzA1Y2Ejc2hhcmUtYW5kLWNvbW1lbnQ=) _or_ [_this piece in NatGeo_](https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/n8iohvhkxr2763/aHR0cHM6Ly93d3cubmF0aW9uYWxnZW9ncmFwaGljLmNvbS9zY2llbmNlLzIwMjAvMDIvaGVyZS1pcy13aGF0LWNvcm9uYXZpcnVzLWRvZXMtdG8tdGhlLWJvZHkv)_. I realize neither is_ The Lancet_, but lines like the following grab the attention:_\n\n_“During the third phase, lung damage continues to build—which can result in respiratory failure. Even if death doesn’t occur, some patients survive with permanent lung damage. According to the WHO, SARS punched holes in the lungs, giving them ‘a honeycomb-like appearance’—and these lesions are present in those afflicted by novel coronavirus.…”_\n\n_I’ve heard several doctors discussing (as in the first link above) possible lung damage (e.g., pulmonary fibrosis) and cardiac scarring._\n\n_What are your thoughts?_\n\n_If indeed possible, this would substantially change the risk profile of the disease. Most of my friends in their 30s and 40s are effectively saying, “Ah, my wife and kids and I will be fine. Look at the mortality rates for our age groups,” but I'm not sure this is a complete assessment of risk._  \n\nThis all leads to my next point...\n\n* * *",
+      "original_url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/qoh8h7h04neko6/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/qoh8h7h04neko6/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/9guzhnhl6945zg/aHR0cHM6Ly93d3cubmV3cy5jb20uYXUvbGlmZXN0eWxlL2hlYWx0aC9oZWFsdGgtcHJvYmxlbXMvY2hpbmVzZS1kb2N0b3JzLXNheS1jb3JvbmF2aXJ1cy1saWtlLWEtY29tYmluYXRpb24tb2Ytc2Fycy1hbmQtYWlkcy1jYW4tY2F1c2UtaXJyZXZlcnNpYmxlLWx1bmctZGFtYWdlL25ld3Mtc3RvcnkvZjU4ZjE5YzVlZWFlOTliODQ1YzU0ZTJkMmI5MzA1Y2Ejc2hhcmUtYW5kLWNvbW1lbnQ="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/n8iohvhkxr2763/aHR0cHM6Ly93d3cubmF0aW9uYWxnZW9ncmFwaGljLmNvbS9zY2llbmNlLzIwMjAvMDIvaGVyZS1pcy13aGF0LWNvcm9uYXZpcnVzLWRvZXMtdG8tdGhlLWJvZHkv"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "What is heavily on my mind —",
+      "category": "other",
+      "title": "a rather long thread on Twitter about why I’m cancelling my attendance at the enormous South by Southwest Festival (SXSW)",
+      "creator": null,
+      "note": "](https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/w9f2hgh3kgm0xq/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcy9zdGF0dXMvMTIzNDg2MDEyNjc1NjAxMjAzOQ==).\n\nHere’s how it starts: “After much thought, I’ve cancelled my attendance at SXSW. I love SXSW, but I don’t believe the novel coronavirus can be contained, and I view an int’l event of 100K+ people as a huge risk to attendees and the entire city, given limited ICU beds, etc. I implore [@MayorAdler](https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/00twh9hk9znlgg/aHR0cHM6Ly90d2l0dGVyLmNvbS9tYXlvcmFkbGVy) to consider \\[the downside risks\\].”  \n  \nHere is part three of that thread:\n\n“Based on data and primary sources, I believe SARS-CoV-2/COVID-19 will make it to Austin. The real question is: will systems be ready to handle it? If we can delay spread in ATX and [build testing/treatment capacity](https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/3wcphkhn2zxp4z/aHR0cHM6Ly90d2l0dGVyLmNvbS9BbWVzaEFBL3N0YXR1cy8xMjM1OTQ1MzEwMDA4MDY2MDUw), we have a good shot. 100K+ visitors \\[from 100+ countries\\] increases the odds we will not.”\n\nSee my full Twitter thread on this [here](https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/86sqhohx29wrqo/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcy9zdGF0dXMvMTIzNDg2MDEyNjc1NjAxMjAzOQ==). In the last 10 days, many large events like TED (1,200+ attendees), the Game Developers Conference (29,000+ attendees last year), and the Geneva International Motor Show (attracts more than 500,000 visitors annually) have cancelled or postponed. Perhaps the most important to note is [HIMSS](https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/rga8hohe3xk6wk/aHR0cHM6Ly93d3cuaGltc3Mub3JnLw==) (Healthcare Information and Management Systems Society, Inc.), which cancelled its Global Health Conference and Exhibition for the first time in 58 years with this statement (excerpt):\n\n_Based on evaluation of evolving circumstances and coordination with an external advisory panel of medical professionals to support evidence-based decision making, it is clear that it would be an unacceptable risk to bring so many thousands of people together in Orlando next week._\n\n_The advisory panel recognized that industry understanding of the potential reach of the virus has changed significantly in the last 24 hours, which has made it impossible to accurately assess risk._  \n\nMy Twitter thread was featured in [an article in _Quartz_](https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/8zbqhohx29wrqz/aHR0cHM6Ly9xei5jb20vMTgxMjQzMS9zeHN3LXRvLWdvLWFoZWFkLWRlc3BpdGUtY29yb25hdmlydXMtY2FuY2VsbGF0aW9ucy8=), which has the following line:\n\n_\\[SXSW\\] seems to be the only large-scale event that hasn’t shuttered due to Covid-19. And SXSW is notably among the largest of large-scale events: last year, the festival drew more than 417,000 attendees, from a total of 106 countries._\n\nFor Austin—and ultimately all the cities to which 400,000+ attendees return—SXSW would be orders of magnitude worse than [the parade and events that crippled Philadelphia](https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/ldhehmhznrqx62/aHR0cHM6Ly90d2l0dGVyLmNvbS9iYWxhamlzL3N0YXR1cy8xMjM1NDYyMjIxMTIxMTcxNDU2) during the flu pandemic of 1918.\n\nIf you’re an Austinite, here’s a [link to a petition citizens are signing to ask that SXSW be cancelled](https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/dzueh0hmo5dp8n/aHR0cHM6Ly93d3cuY2hhbmdlLm9yZy9wL2NkYy1wZXRpdGlvbi10by1oYXZlLXN4c3ctY2FuY2VsbGVkLWFtaWQtY29yb25hLXZpcnVzLW91dGJyZWFrP3NvdXJjZV9sb2NhdGlvbj10b3BpY19wYWdl). Please consider adding your name and applying pressure to Austin leadership as you can.\n\n* * *",
+      "original_url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/w9f2hgh3kgm0xq/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcy9zdGF0dXMvMTIzNDg2MDEyNjc1NjAxMjAzOQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/w9f2hgh3kgm0xq/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcy9zdGF0dXMvMTIzNDg2MDEyNjc1NjAxMjAzOQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/00twh9hk9znlgg/aHR0cHM6Ly90d2l0dGVyLmNvbS9tYXlvcmFkbGVy"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/3wcphkhn2zxp4z/aHR0cHM6Ly90d2l0dGVyLmNvbS9BbWVzaEFBL3N0YXR1cy8xMjM1OTQ1MzEwMDA4MDY2MDUw"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/86sqhohx29wrqo/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcy9zdGF0dXMvMTIzNDg2MDEyNjc1NjAxMjAzOQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/rga8hohe3xk6wk/aHR0cHM6Ly93d3cuaGltc3Mub3JnLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/8zbqhohx29wrqz/aHR0cHM6Ly9xei5jb20vMTgxMjQzMS9zeHN3LXRvLWdvLWFoZWFkLWRlc3BpdGUtY29yb25hdmlydXMtY2FuY2VsbGF0aW9ucy8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/ldhehmhznrqx62/aHR0cHM6Ly90d2l0dGVyLmNvbS9iYWxhamlzL3N0YXR1cy8xMjM1NDYyMjIxMTIxMTcxNDU2"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/dzueh0hmo5dp8n/aHR0cHM6Ly93d3cuY2hhbmdlLm9yZy9wL2NkYy1wZXRpdGlvbi10by1oYXZlLXN4c3ctY2FuY2VsbGVkLWFtaWQtY29yb25hLXZpcnVzLW91dGJyZWFrP3NvdXJjZV9sb2NhdGlvbj10b3BpY19wYWdl"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "A few other resources I find useful —",
+      "category": "other",
+      "title": "Excellent overview from the University of Oxford",
+      "creator": null,
+      "note": "\\-** [**Tracking dashboard from Johns Hopkins**](https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/zkfghnh8kw5lp2/aHR0cHM6Ly9naXNhbmRkYXRhLm1hcHMuYXJjZ2lzLmNvbS9hcHBzL29wc2Rhc2hib2FyZC9pbmRleC5odG1sIy9iZGE3NTk0NzQwZmQ0MDI5OTQyMzQ2N2I0OGU5ZWNmNg==) **(and** [**one more**](https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/xntph6hlp3kq95/aHR0cHM6Ly93d3cud29ybGRvbWV0ZXJzLmluZm8vY29yb25hdmlydXMv)**)  \n****\\-** [**Perhaps the best long-form journalism I’ve found**](https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/k6cmh6h35mzx6x/aHR0cHM6Ly93d3cud3NqLmNvbS9hcnRpY2xlcy9pZi13ZS1mYWlsLXdoYXQtaGFwcGVucy10by15b3UtYWxsLW9uZS1kb2N0b3JzLWxpZmUtb24tdGhlLWNvcm9uYXZpcnVzLWZyb250LWxpbmVzLTExNTgzMzQ0NDE1P3Rlc2xhPXk=)**.** If you only have time for one long-form piece, read this one. (If you can’t figure out the paywall, which I have no patience for right now, [consider this](https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/275s2hohe8dlm4q/aHR0cDovL2FyY2hpdmUudG9kYXkv)).\n\n* * *",
+      "original_url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/7vi7h8hm6zdnw7/aHR0cHM6Ly9vdXJ3b3JsZGluZGF0YS5vcmcvY29yb25hdmlydXM=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/7vi7h8hm6zdnw7/aHR0cHM6Ly9vdXJ3b3JsZGluZGF0YS5vcmcvY29yb25hdmlydXM="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/zkfghnh8kw5lp2/aHR0cHM6Ly9naXNhbmRkYXRhLm1hcHMuYXJjZ2lzLmNvbS9hcHBzL29wc2Rhc2hib2FyZC9pbmRleC5odG1sIy9iZGE3NTk0NzQwZmQ0MDI5OTQyMzQ2N2I0OGU5ZWNmNg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/xntph6hlp3kq95/aHR0cHM6Ly93d3cud29ybGRvbWV0ZXJzLmluZm8vY29yb25hdmlydXMv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/k6cmh6h35mzx6x/aHR0cHM6Ly93d3cud3NqLmNvbS9hcnRpY2xlcy9pZi13ZS1mYWlsLXdoYXQtaGFwcGVucy10by15b3UtYWxsLW9uZS1kb2N0b3JzLWxpZmUtb24tdGhlLWNvcm9uYXZpcnVzLWZyb250LWxpbmVzLTExNTgzMzQ0NDE1P3Rlc2xhPXk="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/275s2hohe8dlm4q/aHR0cDovL2FyY2hpdmUudG9kYXkv"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "section": "Quote I’m pondering carefully —",
+      "category": "quote",
+      "title": "“Not taking risks one doesn't understand is often the best form of risk management.” ― Raghuram G. Rajan * * * And, as always, please give me feedback on Twitter. What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! [](https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/4zkhvhehnpgwxgz/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWlnbm9uX01jTGF1Z2hsaW4=) Tim P.S. Phew! For something on the funnier (but still useful) side, check this out… P.P.S. For those who don’t read Frank Herbert, here is the Bene Gesserit “Litany Against Fear” from Dune_: “I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past, I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.” FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/gkkanh5hklpgq62/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUmFnaHVyYW1fUmFqYW4=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/gkkanh5hklpgq62/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUmFnaHVyYW1fUmFqYW4="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/zl4bghnh8kw5lpd/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/r8nu8hohe3xk6x2/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0I5WnVxdkdIOXFILw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/8k4iqhohx29wr92/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRHVuZV8obm92ZWwp"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/lm9fehmhznrqxr4/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/v8ur85neeurhelk9vh8"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/v8ur85neeurhelk9vh8/e5ecph7h2l4mr7d/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

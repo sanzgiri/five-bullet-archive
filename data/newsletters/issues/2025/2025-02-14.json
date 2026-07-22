@@ -3,10 +3,134 @@
   "issue_date": "2025-02-14",
   "subject": "5-Bullet Friday — Feel-Good Movies, Fixing Elbow Problems, Reinvention over Stagnation, Fast Thinkers, and More",
   "sources": [
-    "hotmail"
+    "hotmail",
+    "5bulletarchive"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "New movie on my must-watch list",
+      "category": "video",
+      "title": "The Peanut Butter Falcon",
+      "creator": null,
+      "note": "If you want a hilarious feel-good movie, look no further. I’d never heard of this film, but a great physical therapist and entrepreneur recommended it, and I’m already planning on watching it again. The viewer ratings are incredible ([96% on Rotten Tomatoes](https://www.rottentomatoes.com/m/the_peanut_butter_falcon)), and, c’mon, how can you not bite after this description? >>> “After running away from a residential nursing home to pursue his dream of becoming a pro wrestler, a man who has Down syndrome befriends an outlaw who becomes his coach and ally.” The fantastic cast includes [Shia LaBeouf](https://en.wikipedia.org/wiki/Shia_LaBeouf), [Dakota Johnson](https://en.wikipedia.org/wiki/Dakota_Johnson), and [Zack Gottsagen](https://en.wikipedia.org/wiki/Zack_Gottsagen). Check out the trailer [here](https://youtu.be/UNl9RqjLCwc?si=lcpmFXm7eckFvmw_).",
+      "original_url": "https://www.amazon.com/Peanut-Butter-Falcon-Zack-Gottsagen/dp/B0B8TQZ8RD/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Peanut-Butter-Falcon-Zack-Gottsagen/dp/B0B8TQZ8RD/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rottentomatoes.com/m/the_peanut_butter_falcon"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Shia_LaBeouf"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Dakota_Johnson"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Zack_Gottsagen"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/UNl9RqjLCwc?si=lcpmFXm7eckFvmw_"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Speech I’m reading",
+      "category": "article",
+      "title": "Personal Renewal",
+      "creator": "John Gardner, delivered to McKinsey & Company on November 10, 1990",
+      "note": ", delivered to McKinsey & Company on November 10, 1990. One of my favorite paragraphs is this one early on:\n\n_Not long ago, I read a splendid article on barnacles. I don’t want to give the wrong impression of the focus of my reading interests. Sometimes days go by without my reading about barnacles, much less remembering what I read. But this article had an unforgettable opening paragraph. “The barnacle,” the author explained “is confronted with an existential decision about where it’s going to live. Once it decides … it spends the rest of its life with its head cemented to a rock.” End of quote. For a good many of us, it comes to that._",
+      "original_url": "https://www.pbs.org/johngardner/sections/writings_speech_1.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.pbs.org/johngardner/sections/writings_speech_1.html"
+        },
+        {
+          "type": "other",
+          "url": "https://www.pbs.org/johngardner/sections/writings.html"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Podcast episode I’m listening to",
+      "category": "podcast",
+      "title": "Michael O’Leary, CEO of Ryanair",
+      "creator": null,
+      "note": "([Apple Podcasts](https://podcasts.apple.com/us/podcast/michael-oleary-ceo-of-ryanair/id1614211565?i=1000587206737), [Spotify](https://open.spotify.com/episode/5hh7CAtWdT8476Bc5oi0vx)) on the _In Good Company_ podcast with [Nicolai Tangen](https://en.wikipedia.org/wiki/Nicolai_Tangen). Nicolai is the inimitable CEO of Norges Bank Investment Management (NBIM), and he has interviewed guests ranging from Jensen Huang to Magnus Carlsen. I’ve been fascinated by O’Leary since I read [_Ryanair: How a Small Irish Airline Conquered Europe_](https://www.amazon.com/Ryanair-Story-Controversial-Low-Cost-Airline/dp/1845132939/ref=sr_1_1?crid=3VMQHKJF9POA7&dib=eyJ2IjoiMSJ9.X0hnU0oFjEYUhQrovkbSdloOXntifXIbFvkrahp-OmT6EKUy2wyfHfgD0_htXGp--olnZ_QxqOv8rU5FwNOsfUUmvTXYz-K2ffOOycFDpF9PS9C0FlemSPgXG4SzFbOgeZvD_upStoPHwjUaF4ot8z3YM2MQmZu8GeORGY_a5dzxFrbGXALoJVCncKNuFY5_qhjwfr-to9-YxpLSUbqcfot4x8Fgbrvx6beAbjuFea0.CeMpqmOitj_fr7tbB24I2DJXEG5aWx_X4F_F5BC4Fzc&dib_tag=se&keywords=ryanair&qid=1739564022&s=books&sprefix=ryanair%2Cstripbooks%2C154&sr=1-1) in 2007. The story of Ryanair is truly bonkers, and while O’Leary is controversial, he is brilliant, uncommonly strategic, and unbelievably fast on his feet. Listen to 10–15 minutes of this and you’ll see what I mean.",
+      "original_url": "https://podcasts.apple.com/us/podcast/michael-oleary-ceo-of-ryanair/id1614211565?i=1000587206737",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://podcasts.apple.com/us/podcast/michael-oleary-ceo-of-ryanair/id1614211565?i=1000587206737"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/michael-oleary-ceo-of-ryanair/id1614211565?i=1000587206737"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/5hh7CAtWdT8476Bc5oi0vx"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Nicolai_Tangen"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Ryanair-Story-Controversial-Low-Cost-Airline/dp/1845132939/ref=sr_1_1?crid=3VMQHKJF9POA7&dib=eyJ2IjoiMSJ9.X0hnU0oFjEYUhQrovkbSdloOXntifXIbFvkrahp-OmT6EKUy2wyfHfgD0_htXGp--olnZ_QxqOv8rU5FwNOsfUUmvTXYz-K2ffOOycFDpF9PS9C0FlemSPgXG4SzFbOgeZvD_upStoPHwjUaF4ot8z3YM2MQmZu8GeORGY_a5dzxFrbGXALoJVCncKNuFY5_qhjwfr-to9-YxpLSUbqcfot4x8Fgbrvx6beAbjuFea0.CeMpqmOitj_fr7tbB24I2DJXEG5aWx_X4F_F5BC4Fzc&dib_tag=se&keywords=ryanair&qid=1739564022&s=books&sprefix=ryanair%2Cstripbooks%2C154&sr=1-1"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Recommendations I’m studying",
+      "category": "other",
+      "title": "Rock climbing friends!",
+      "creator": null,
+      "note": "“**[**Rock climbing friends! What have you found to best fix severe tennis elbow? I tried various AI tools \\[prompts\\] but didn’t get the detail I was hoping for. Thanks in advance for any advice!**](https://x.com/tferriss/status/1889440513780232216)**”** Thanks to everyone who responded! 🙏 I am digging through the 400+ replies and quickly found a few tips that have already helped.",
+      "original_url": null,
+      "links": []
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“How can you come to possess this kind of love? You cannot, because it is already there within you. All you have to do is remove the blocks you place to sensitivity and it would surface.” — The Way to Love by Anthony De Mello) (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with this week’s podcast episode: “The 4-Hour Workweek Revisited — The End of Time Management.”",
+      "creator": "The Way to Love by Anthony De Mello)",
+      "note": null,
+      "original_url": "https://www.amazon.com/Way-Love-Meditations-Anthony-Classics/dp/038524939X/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Way-Love-Meditations-Anthony-Classics/dp/038524939X/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Anthony_de_Mello_(Jesuit_priest"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/8bZaq"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/02/14/the-end-of-time-management/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        }
+      ]
+    }
+  ]
 }

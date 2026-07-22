@@ -6,7 +6,135 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading",
+      "category": "book",
+      "title": "The Well of Being: A Children’s Book for Adults",
+      "creator": "Jean-Pierre Weill",
+      "note": ". This was introduced to me by one of the most thoughtful, present, and playful couples I know. They have also infused the raising of their daughters with a similar ethos. From the book description: “_The Well of Being_, from Jean-Pierre Weill, is an illustrated inquiry into the art of happiness and what it means to be radically alive in our daily moments. Images and a graceful philosophic text invite us to awaken from our constructed stories that we may return to this world and live in the present. The book opens with a perennial account of life’s ultimate purpose and concludes with a unique retelling of the puzzle we call ‘growing up.’ Through art, philosophy, and poetry, we are offered a refreshing and empowering way to rethink ourselves.”",
+      "original_url": "https://www.amazon.com/Well-Being-Childrens-Book-Adults/dp/1250092701/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Well-Being-Childrens-Book-Adults/dp/1250092701/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Jean-Pierre_Weill"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Short video I’m watching",
+      "category": "video",
+      "title": "Stephen Fry on living the artistic life",
+      "creator": null,
+      "note": "The link will take you to 1:24:33. This particular segment caused me to think deeply. I’m not sure I totally agree with the premise, but that’s part of the magic that makes it good to chew on.",
+      "original_url": "https://youtu.be/YQD5z0xmoJU?t=5073",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/YQD5z0xmoJU?t=5073"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Soldier of Love",
+      "creator": "Sade",
+      "note": "([YouTube](https://www.youtube.com/watch?v=IR5_rTCi-Bo), [Spotify](https://open.spotify.com/track/0bgsj8kz5zWbQ6njk2Oqoz), [Apple Music](https://music.apple.com/us/album/soldier-of-love/349971711?i=349971713)) by [Sade](https://www.sade.com/) ([@sade](https://www.instagram.com/sade/)).",
+      "original_url": "https://www.youtube.com/watch?v=IR5_rTCi-Bo",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=IR5_rTCi-Bo"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=IR5_rTCi-Bo"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/0bgsj8kz5zWbQ6njk2Oqoz"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/album/soldier-of-love/349971711?i=349971713"
+        },
+        {
+          "type": "other",
+          "url": "https://www.sade.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/sade/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Who Runs the Best U.S. Schools? It May Be the Defense Department.",
+      "creator": "Sarah Mervosh",
+      "note": "(_New York Times_). [Alternate link if trouble with the above](https://web.archive.org/web/20231011025303/https://www.nytimes.com/2023/10/10/us/schools-pandemic-defense-department.html).  \n​  \nFrom the article, and bolding is mine:  \n​  \n​_While the achievement of U.S. students overall has stagnated over the last decade, the military’s schools have made gains on the national test since 2013. And even as the country’s lowest-performing students—in the bottom 25th percentile—have slipped further behind, the Defense Department’s lowest-performing students have improved in fourth-grade math and eighth-grade reading._ _**“If the Department of Defense schools were a state, we would all be traveling there to figure out what’s going on,”**_ _said Martin West, an education professor at Harvard who serves on the national exam’s governing board._",
+      "original_url": "https://www.nytimes.com/2023/10/10/us/schools-pandemic-defense-department.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/2023/10/10/us/schools-pandemic-defense-department.html"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/smervosh"
+        },
+        {
+          "type": "other",
+          "url": "https://web.archive.org/web/20231011025303/https://www.nytimes.com/2023/10/10/us/schools-pandemic-defense-department.html"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The role of the artist is exactly the same as the role of the lover. If I love you, I have to make you conscious of the things you don’t see.” ― James Baldwin (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with this guided meditation from Jack Kornfield, my conversation with author Arthur C. Brooks on how to be happy, and the most recent supercombo podcast episode, featuring coaches Tony Robbins and Jerry Colonna. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": null,
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/James_Baldwin",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/James_Baldwin"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/N612x"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?t=172s&v=-qiEHDvHgXw"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=LFKY1scJepM"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/05/31/tony-robbins-and-jerry-colonna-742/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,139 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "This short and mesmerizing video",
+      "creator": null,
+      "note": ", thanks to [Matt Mullenweg](https://tim.blog/2022/03/09/matt-mullenweg-antarctica/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@photomatt](https://twitter.com/photomatt/?hl=en)). Be sure to watch through the finale.",
+      "original_url": "https://www.instagram.com/p/CcdXnTVFnLB/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/p/CcdXnTVFnLB/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/03/09/matt-mullenweg-antarctica/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/photomatt/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "The Best Treatment for Insomnia Usually Isn’t a Pill",
+      "creator": "Cyril Manning",
+      "note": "ucsf.edu/jennifer.felder) ([@jenniferfelder](https://twitter.com/jenniferfelder)), [Aric Prather, PhD](https://profiles.ucsf.edu/aric.prather) ([@aricprather](https://twitter.com/aricprather)), and [Andrew Krystal, MD](https://profiles.ucsf.edu/andrew.krystal). This article covers the interplay of insomnia and depression, CBT-I, as well as two associated apps. Both apps, though seemingly clinically effective, appear quite cumbersome to access. Have you found a nondrug sleep aid that has helped cure your insomnia? If so, please let me know [@tferriss on Twitter](https://twitter.com/tferriss) with #sleep!",
+      "original_url": "https://magazine.ucsf.edu/best-treatment-insomnia-usually-isnt-pill",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://magazine.ucsf.edu/best-treatment-insomnia-usually-isnt-pill"
+        },
+        {
+          "type": "other",
+          "url": "https://profiles.ucsf.edu/jennifer.felder"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/jenniferfelder"
+        },
+        {
+          "type": "other",
+          "url": "https://profiles.ucsf.edu/aric.prather"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/aricprather"
+        },
+        {
+          "type": "other",
+          "url": "https://profiles.ucsf.edu/andrew.krystal"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m using with my dog",
+      "category": "other",
+      "title": "Slow-Feed Stainless Steel Bowl",
+      "creator": null,
+      "note": "My dear Molly pup [has a lot of superpowers](https://www.youtube.com/watch?v=I7fflsbVEFg), but eating slowly is not one of them. Every two weeks or so, she’ll manically Hoover her food and puke it onto the floor a few minutes later. Not my favorite. This new bowl has totally fixed the problem. No one likes the scarf and barf! For some recent Molly photos that don’t involve barfing, [click here](https://www.instagram.com/p/CdLle06O_c9/) and [here](https://www.instagram.com/p/Cdd9QgUuARQ/).",
+      "original_url": "https://www.amazon.com/dp/B015G2DU80?ref=ppx_yo2ov_dt_b_product_details&th=1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/dp/B015G2DU80?ref=ppx_yo2ov_dt_b_product_details&th=1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=I7fflsbVEFg"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/CdLle06O_c9/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/Cdd9QgUuARQ/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Twitter features I’m learning more about",
+      "category": "other",
+      "title": "The most powerful feature that Twitter has: Advanced search",
+      "creator": null,
+      "note": "Twitter co-founder Jack Dorsey ([@jack](https://twitter.com/jack/status/1512780764936560644?cxt=HHwWiICz0eaFvf4pAAAA)) [commented on this thread](https://twitter.com/jack/status/1512780764936560644?cxt=HHwWiICz0eaFvf4pAAAA) and said, “twitter search is my favorite feature (and undervalued).” Thanks to JZ for sending this to me.",
+      "original_url": "https://twitter.com/tessardavis/status/1512402324102291467?s=21&t=oP_DmPeJZa3fJyVWi4qhng",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://twitter.com/tessardavis/status/1512402324102291467?s=21&t=oP_DmPeJZa3fJyVWi4qhng"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/jack/status/1512780764936560644?cxt=HHwWiICz0eaFvf4pAAAA"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/jack/status/1512780764936560644?cxt=HHwWiICz0eaFvf4pAAAA"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“It seems to me that the real problem is the mind itself, and not the problem which the mind has created and tries to solve. If the mind is petty, small, narrow, limited, however great and complex the problem may be, the mind approaches that problem in terms of its own pettiness.” — Jiddu Krishnamurti And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Jiddu Krishnamurti And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Jiddu_Krishnamurti",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Jiddu_Krishnamurti"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,111 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short video I’m watching",
+      "category": "video",
+      "title": "Coyote and Badger Caught Playing on Camera",
+      "creator": null,
+      "note": "The end of this short clip is particularly excellent.",
+      "original_url": "https://openspacetrust.org/blog/coyote-and-badger/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://openspacetrust.org/blog/coyote-and-badger/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "New hope for Alzheimer’s: lithium supplement reverses memory loss in mice",
+      "creator": null,
+      "note": "(**_**Nature**_**) “**[**Research on reversing Alzheimer’s reveals lithium as potential key**](https://www.washingtonpost.com/science/2025/08/06/lithium-reverses-alzheimers-mice/)**” (**_**The Washington Post**_**)**. Alternate link: [https://archive.is/vEewc](https://archive.is/vEewc). From the subheadline: “Years of investigation by scientists at Harvard has revealed that lithium is deeply involved in Alzheimer’s disease, a finding that could lead to new treatments.”",
+      "original_url": "https://www.nature.com/articles/d41586-025-02471-4",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nature.com/articles/d41586-025-02471-4"
+        },
+        {
+          "type": "other",
+          "url": "https://www.washingtonpost.com/science/2025/08/06/lithium-reverses-alzheimers-mice/"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.is/vEewc"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Mental model I’m thinking a lot about",
+      "category": "other",
+      "title": "Farnam Street",
+      "creator": null,
+      "note": "). More can be found in [the Wikipedia entry](https://en.wikipedia.org/wiki/Hanlon's_razor).",
+      "original_url": "https://fs.blog/mental-models/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://fs.blog/mental-models/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Hanlon's_razor"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Book I’m reading",
+      "category": "book",
+      "title": "When Breath Becomes Air",
+      "creator": "Paul Kalanithi",
+      "note": ". This extraordinary book was recommended to me by various friends for years. I had it on my Audible app but never got around to listening, putting it off out of a perceived heaviness. I’m so glad and grateful that one close friend pushed me to finally absorb this beautiful book. _When Breath Becomes Air_ was a #1 _New York Times_ bestseller and a Pulitzer Prize finalist. From the description: “At the age of thirty-six, on the verge of completing a decade’s worth of training as a neurosurgeon, Paul Kalanithi was diagnosed with stage IV lung cancer. … Paul died in March 2015, while working on this book, yet his words live on as a guide and a gift to us all.”",
+      "original_url": "https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Paul_Kalanithi"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Book highlight I’m pondering",
+      "category": "book",
+      "title": "Anthony de Mello",
+      "creator": null,
+      "note": ")([Click here to share on X](https://ctt.ec/vQg71).)\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with the most recent episode of the [Random Show](https://tim.blog/2025/08/12/random-show-vibe-coding/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit) with my good friend Kevin Rose.  \n​  \nAnd, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
+      "original_url": "https://en.wikipedia.org/wiki/Anthony_de_Mello_(Jesuit_priest",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Anthony_de_Mello_(Jesuit_priest"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/vQg71"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/08/12/random-show-vibe-coding/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

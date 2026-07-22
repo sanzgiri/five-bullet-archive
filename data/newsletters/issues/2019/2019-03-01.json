@@ -6,7 +6,123 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "How To Be Successful",
+      "creator": "Sam Altman",
+      "note": "convertkit-mail2.com/c/5qu8lqg33u7h9qqx8/6kfeh8hkpg9zeg/aHR0cHM6Ly90d2l0dGVyLmNvbS9zYW1h)), the president of [Y Combinator](https://el2.convertkit-mail2.com/c/5qu8lqg33u7h9qqx8/55tvh7hv586q2d/aHR0cHM6Ly93d3cueWNvbWJpbmF0b3IuY29tLw==) and co-chairman of [OpenAI](https://el2.convertkit-mail2.com/c/5qu8lqg33u7h9qqx8/qnc8h7h785kzp9/aHR0cDovL29wZW5haS5jb20v). Here is one of the many paragraphs I highlighted in Evernote: “Most highly successful people have been really right about the future at least once at a time when people thought they were wrong. If not, they would have faced much more competition.”",
+      "original_url": "https://el2.convertkit-mail2.com/c/5qu8lqg33u7h9qqx8/pvieh9h390qmoo/aHR0cDovL2Jsb2cuc2FtYWx0bWFuLmNvbS9ob3ctdG8tYmUtc3VjY2Vzc2Z1bA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail2.com/c/5qu8lqg33u7h9qqx8/pvieh9h390qmoo/aHR0cDovL2Jsb2cuc2FtYWx0bWFuLmNvbS9ob3ctdG8tYmUtc3VjY2Vzc2Z1bA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/5qu8lqg33u7h9qqx8/6kfeh8hkpg9zeg/aHR0cHM6Ly90d2l0dGVyLmNvbS9zYW1h"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/5qu8lqg33u7h9qqx8/55tvh7hv586q2d/aHR0cHM6Ly93d3cueWNvbWJpbmF0b3IuY29tLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/5qu8lqg33u7h9qqx8/qnc8h7h785kzp9/aHR0cDovL29wZW5haS5jb20v"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Compasses Mejor Conjunto Festival San Martin de los Llanos 2013",
+      "creator": null,
+      "note": "This was sent to me by a professional musician with the following text: _“I’ve been meaning to send this to you forever, man. Check this out, these dudes are RIPPING! I have no idea how this guy is doing that with maracas?! … I showed a few touring drummer friends of mine the other night and they were like ‘what the fuck is going on?! How is he doing that?!’”_ If you only have 30 seconds, check out 2:00-2:30 in the video for a sample of the craziness. If you have a few minutes (and you do), listen to the entire thing in the background. My friend ended our exchange with this text: “_I love that no one claps when they finish that gnarly 7 min song, too. Just another day in Colombia! Hahaha…._”",
+      "original_url": "https://el2.convertkit-mail2.com/c/5qu8lqg33u7h9qqx8/96szhnhqgm50r5/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1RRk5zOUlTVHdDSSZmZWF0dXJlPXlvdXR1LmJl",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail2.com/c/5qu8lqg33u7h9qqx8/96szhnhqgm50r5/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1RRk5zOUlTVHdDSSZmZWF0dXJlPXlvdXR1LmJl"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Product I’m still using and loving —",
+      "category": "other",
+      "title": "Anchor PurityWrap",
+      "creator": null,
+      "note": "“Anchor Packaging PurityWrap 12\" x 2000' foodservice film is premium grade film with excellent cling and puncture properties. The cutter box includes hand holes for easy transport as well as an improved cutting edge.”",
+      "original_url": "https://el2.convertkit-mail2.com/c/5qu8lqg33u7h9qqx8/ngaohvh8np7m0l/aHR0cHM6Ly93d3cubXlib2VsdGVyLmNvbS9hbmNob3ItZm9vZC13cmFwLWZpbG0tcHcxMjIuaHRtbA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail2.com/c/5qu8lqg33u7h9qqx8/ngaohvh8np7m0l/aHR0cHM6Ly93d3cubXlib2VsdGVyLmNvbS9hbmNob3ItZm9vZC13cmFwLWZpbG0tcHcxMjIuaHRtbA=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "In case you missed it —",
+      "category": "other",
+      "title": "My podcast interview with Jim Collins",
+      "creator": null,
+      "note": "If you liked my interviews with [Seth Godin](https://el2.convertkit-mail2.com/c/5qu8lqg33u7h9qqx8/0nhwh9hom5lvr8/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzExLzAxL3NldGgtZ29kaW4tdGhpcy1pcy1tYXJrZXRpbmcvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg==), you'll also like this one...",
+      "original_url": "https://el2.convertkit-mail2.com/c/5qu8lqg33u7h9qqx8/wob2hgh5rp0n6d/aHR0cHM6Ly90aW0uYmxvZy8yMDE5LzAyLzE4L2ppbS1jb2xsaW5zLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail2.com/c/5qu8lqg33u7h9qqx8/wob2hgh5rp0n6d/aHR0cHM6Ly90aW0uYmxvZy8yMDE5LzAyLzE4L2ppbS1jb2xsaW5zLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/5qu8lqg33u7h9qqx8/0nhwh9hom5lvr8/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzExLzAxL3NldGgtZ29kaW4tdGhpcy1pcy1tYXJrZXRpbmcvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“The first principle is that you must not fool yourself – and you are the easiest person to fool.” — Richard Feynman And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim [](https://el2.convertkit-mail2.com/c/5qu8lqg33u7h9qqx8/evfph7hpkgr6gl/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWF5YV9BbmdlbG91) [](https://el2.convertkit-mail2.com/c/5qu8lqg33u7h9qqx8/o6tkhqhk4vqpvn/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Richard Feynman And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim",
+      "note": null,
+      "original_url": "https://el2.convertkit-mail2.com/c/5qu8lqg33u7h9qqx8/vgu3hrhxn7wl72/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUmljaGFyZF9GZXlubWFu",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail2.com/c/5qu8lqg33u7h9qqx8/vgu3hrhxn7wl72/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUmljaGFyZF9GZXlubWFu"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/5qu8lqg33u7h9qqx8/m3i7h5hgop4vpg/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/5qu8lqg33u7h9qqx8/prceh9h390qm05/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/u/5qu8lqg33u7h9qqx8"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/5qu8lqg33u7h9qqx8/wea2hgh5rp0n6n/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

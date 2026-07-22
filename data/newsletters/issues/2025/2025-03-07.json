@@ -6,7 +6,115 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Fitness tool I’m testing",
+      "category": "other",
+      "title": "American-Made Wrist Bar | ATG Equipment",
+      "creator": null,
+      "note": "I’m using this to build wrist strength and also rehab my tennis elbow. [Here’s a quick demonstration](https://youtu.be/PzEXjWeo35Y?si=eL8wyK6liG11q_Ds&t=235) of how to use the bar with small weight plates, and I’m mostly doing slow eccentrics followed by yielding isometrics as described by [Dr. Keith Baar](https://www.youtube.com/watch?v=BnFzjcPTSsc). Plates and clamps must be purchased separately, and I’m using micro-plates (search “Olympic fractional plates”) of ¼, ½, ¾, and 1 pound to progressively load between larger hops. Hat tip to [The Knees Over Toes Guy](https://www.youtube.com/c/thekneesovertoesguy), who is also the founder of ATG.",
+      "original_url": "https://atgequipment.com/collections/equipment/products/american-made-wrist-bar",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://atgequipment.com/collections/equipment/products/american-made-wrist-bar"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/PzEXjWeo35Y?si=eL8wyK6liG11q_Ds&t=235"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=BnFzjcPTSsc"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/c/thekneesovertoesguy"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "Who broke the sperm bank?",
+      "creator": "Mark Ellwood",
+      "note": "(_Financial Times_). From the article: “American sperm has become one of the country’s priciest resources. By weight, super-premium semen ($4,000 or more for a gram) now costs more than Beluga caviar (up to $3 a gram for roe), which represents a tenfold rise in price over the past decade.”",
+      "original_url": "https://www.ft.com/content/350c3ebe-5afe-41c0-a90a-adc70e3ab771?utm_campaign=feed&utm_medium=referral&utm_source=later-linkinbio",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.ft.com/content/350c3ebe-5afe-41c0-a90a-adc70e3ab771?utm_campaign=feed&utm_medium=referral&utm_source=later-linkinbio"
+        },
+        {
+          "type": "other",
+          "url": "https://www.ft.com/stream/b9f86a69-a874-4977-9a28-7cf22eadb4ce"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Science I’m watching closely",
+      "category": "video",
+      "title": "Efficacy of Adjunctive D-Cycloserine to Intermittent Theta-Burst Stimulation for Major Depressive Disorder",
+      "creator": null,
+      "note": "From the Key Points: “In this double-blind, placebo-controlled, randomized clinical trial that included 50 participants, those receiving intermittent theta-burst stimulation with adjunctive D-cycloserine (100 mg) had significantly greater improvements in depressive symptoms compared with stimulation with a placebo.”",
+      "original_url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2796973",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2796973"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m excited to share",
+      "category": "other",
+      "title": "STEP 3: FINDING BIG ROCKS – THE PAST YEAR REVIEW",
+      "creator": null,
+      "note": "I published [a brand-new chapter](https://tim.blog/2025/03/07/step-3-finding-big-rocks-the-past-year-review/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) from my upcoming book, The No Book. It’s still a work in progress, but it’s getting there. Please leave your thoughts, suggestions, results, etc. in the blog comments!",
+      "original_url": "https://tim.blog/2025/03/07/step-3-finding-big-rocks-the-past-year-review/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2025/03/07/step-3-finding-big-rocks-the-past-year-review/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/03/07/step-3-finding-big-rocks-the-past-year-review/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Advice I’m pondering",
+      "category": "other",
+      "title": "Seth Godin",
+      "creator": null,
+      "note": "([Click here to share on Twitter](https://ctt.ec/bnc9_).)\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with my latest podcast episode: \"[Terry Real – Breaking the Rules of Traditional Couples Therapy for Superior Results, A Few Frameworks That Work](https://tim.blog/2025/03/06/terry-real-relationship-coach/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content).”  \n​  \nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
+      "original_url": "https://tim.blog/2025/01/30/seth-godin-strategy/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2025/01/30/seth-godin-strategy/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/bnc9_"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/03/06/terry-real-relationship-coach/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

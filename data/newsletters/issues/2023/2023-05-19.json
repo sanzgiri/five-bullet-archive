@@ -6,7 +6,151 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Judo throw by Israpil Sagaipov at the Continental Judo League in Moscow",
+      "creator": null,
+      "note": "via Rob Amante. It’s not every day that you see a Terminator with b-boy flair. I’m into it.",
+      "original_url": "https://www.instagram.com/p/Cq0NDgFPcfE/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/p/Cq0NDgFPcfE/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Experiment that I’m very excited to launch",
+      "category": "other",
+      "title": "FTZ Coffee Blend",
+      "creator": "Four-Arrows Press",
+      "note": ". This is the first coffee I’ve ever produced myself! I now drink it every morning.  \n​  \nI enlisted the help of world-class experts and tested dozens of variations over many months. After dialing in the sourcing, roasting, and more, this is the combo that finally made me say, “This is the one!” **This first run of coffee is limited to 555 bags, and 100% of my proceeds go to the nonprofit** [**Amazon Conservation Team**](https://www.amazonteam.org/)**. Check out** [**our strange website**](https://cockpunchcoffee.com/)**.  \n​**​  \nIf a few terms are confusing (Varlata? Dalomai?), the answers can be found in [my fantasy fiction podcast series](https://podcast.cockpunch.com/).  \n​  \nVery special thanks to [Bellwether Coffee](https://bellwethercoffee.com/) and their all-electric roaster, considered the most sustainable in the world. Its patented closed-loop technology removes 87% of the carbon emissions from coffee roasting, creating the lowest carbon coffee available today. Bellwether roasts the blend for [**COCKPUNCH™ Coffee**](https://cockpunchcoffee.com/) with artisan-quality coffee in small batches, enabling it to be served at peak freshness and flavor.",
+      "original_url": "https://cockpunchcoffee.com/products/coffee",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://cockpunchcoffee.com/products/coffee"
+        },
+        {
+          "type": "other",
+          "url": "https://cockpunchcoffee.com/pages/about"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazonteam.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://cockpunchcoffee.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://podcast.cockpunch.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://bellwethercoffee.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://cockpunchcoffee.com/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Cheat day goodies I’m savoring",
+      "category": "other",
+      "title": "Annas Ginger Thins",
+      "creator": null,
+      "note": "Be forewarned that you may eat an entire box in one sitting. Description: “Annas Ginger is the classic Swedish ginger thin that has spread happiness for generations. It’s the perfect choice for parties and traditional festivities or as an enjoyable treat anytime.” Goes very well with… _ahem_… coffee and a splash of cream.",
+      "original_url": "https://www.amazon.com/Annas-Thins-Ginger-Pepparkakor-non-GMO/dp/B01N6S5FK6/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Annas-Thins-Ginger-Pepparkakor-non-GMO/dp/B01N6S5FK6/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Graphic novels I’m loving",
+      "category": "other",
+      "title": "Something Is Killing the Children",
+      "creator": null,
+      "note": ", created by writer [James Tynion IV](https://en.wikipedia.org/wiki/James_Tynion_IV) and artist [Werther Dell’Edera](https://www.instagram.com/wertherscut/?hl=en). Colorist [Miquel Muerto](https://pollomuerto.com/) and letterer [AndWorld Design](http://www.andworlddesign.com/) also make the pages sing. _Something Is Killing the Children_ was recommended to me by the incredibly talented [Daniel Henriques](https://www.instagram.com/danielhenriques/?hl=en) (Thank you, Daniel!), whose work is definitely [worth checking out](https://www.instagram.com/danielhenriques/?hl=en). I highly suggest getting at least the first three volumes of this series, which only take a few hours to finish. That’s enough to build momentum, to enjoy key pieces of the story arc, and to leave you wanting more. This entire book is very elegant, IMHO. Some comics try to do too much, and all the miscellanea and subplots detract from the experience. [_Something Is Killing the Children_](https://www.boom-studios.com/series/something-killing-children/) is smooth, easy, and compelling.",
+      "original_url": "https://www.boom-studios.com/series/something-killing-children/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.boom-studios.com/series/something-killing-children/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/James_Tynion_IV"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/wertherscut/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://pollomuerto.com/"
+        },
+        {
+          "type": "other",
+          "url": "http://www.andworlddesign.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/danielhenriques/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/danielhenriques/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.boom-studios.com/series/something-killing-children/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Dogs are our link to paradise. They don’t know evil or jealousy or discontent. To sit with a dog on a hillside on a glorious afternoon is to be back in Eden, where doing nothing was not boring—it was peace.” — Milan Kundera (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my brand-new interview with beloved podcast guest Seth Godin, which covers the pursuit of meaning and hope, overcoming rejection, lessons from Zig Ziglar, choosing your attitude in life, and much more. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "it was peace.” — Milan Kundera",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Milan_Kundera",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Milan_Kundera"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/N9YCz"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/05/17/seth-godin-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/05/17/seth-godin-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

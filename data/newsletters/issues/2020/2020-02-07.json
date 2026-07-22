@@ -1,13 +1,137 @@
 {
   "schema_version": 1,
   "issue_date": "2020-02-07",
-  "subject": "5-Bullet Friday — February 7, 2020 ",
+  "subject": "5-Bullet Friday — February 7, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Digital nomad: this is the reality of living the ‘dream’ Instagram lifestyle",
+      "creator": "Elly Earls",
+      "note": "([@ellyjearls](https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/55tvh7hodvq4p7/aHR0cHM6Ly90d2l0dGVyLmNvbS9lbGx5amVhcmxz)). This piece highlights some of the risks of working remotely, as well as the incredible importance of community. Pair it with “[Remote Workers Are Not All Digital Nomads](https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/qnc8h7h2m7zlgq/aHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy90aGV5ZWMvMjAyMC8wMS8yOS9yZW1vdGUtd29ya2Vycy1hcmUtbm90LWFsbC1kaWdpdGFsLW5vbWFkcy8jMWNiNTE4MGU3ZDgz)” by Weiting Liu ([@weitingliu](https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/xksph6hdvro48k/aHR0cHM6Ly90d2l0dGVyLmNvbS93ZWl0aW5nbGl1)).",
+      "original_url": "https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/pvieh9h5w3mpk4/aHR0cHM6Ly93d3cuc3R5bGlzdC5jby51ay9sb25nLXJlYWRzL2RpZ2l0YWwtbm9tYWQtam9icy13b3JrLWNhcmVlcnMtaG93LXRvLWJlLWZyZWVsYW5jZS10cmF2ZWwvMzQ5MDE0",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/pvieh9h5w3mpk4/aHR0cHM6Ly93d3cuc3R5bGlzdC5jby51ay9sb25nLXJlYWRzL2RpZ2l0YWwtbm9tYWQtam9icy13b3JrLWNhcmVlcnMtaG93LXRvLWJlLWZyZWVsYW5jZS10cmF2ZWwvMzQ5MDE0"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/6kfeh8h68kz3vn/aHR0cHM6Ly9lbGx5ZWFybHMuY29tLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/55tvh7hodvq4p7/aHR0cHM6Ly90d2l0dGVyLmNvbS9lbGx5amVhcmxz"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/qnc8h7h2m7zlgq/aHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy90aGV5ZWMvMjAyMC8wMS8yOS9yZW1vdGUtd29ya2Vycy1hcmUtbm90LWFsbC1kaWdpdGFsLW5vbWFkcy8jMWNiNTE4MGU3ZDgz"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/xksph6hdvro48k/aHR0cHM6Ly90d2l0dGVyLmNvbS93ZWl0aW5nbGl1"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "174 LBS: #3 Michael Kemerer (Iowa) vs. #1 Mark Hall (Penn State) | 2020 B1G Wrestling",
+      "creator": null,
+      "note": "vs. #1 Mark Hall (Penn State) | 2020 B1G Wrestling**](https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/kgamh6h20drogr/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1qUlZub2ZjMm1xWSZmZWF0dXJlPXlvdXR1LmJl)**.** This is an absolutely beautiful wrestling match, full of technical mastery and physical savagery. Even though I never reached a high level in collegiate wrestling, nothing I’ve done since can compare in terms of pure exhaustion. This was a great reminder of how nonstop the action can be.",
+      "original_url": "https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/kgamh6h20drogr/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1qUlZub2ZjMm1xWSZmZWF0dXJlPXlvdXR1LmJl",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/kgamh6h20drogr/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1qUlZub2ZjMm1xWSZmZWF0dXJlPXlvdXR1LmJl"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Thought exercises I’m revisiting —",
+      "category": "other",
+      "title": "Sum: Forty Tales from the Afterlives",
+      "creator": "Stanford neuroscientist David Eagleman",
+      "note": "fourhourmail.com/c/mvu8n09oou5hmnqggsq/g7hnh5ho8dr07w/aHR0cHM6Ly90d2l0dGVyLmNvbS9kYXZpZGVhZ2xlbWFu)). Don’t let the title of this book fool you; it isn’t making a case for the afterlife. Instead, this short read (easy to finish in 1–2 days) is a collection of 40 thought exercises on the nature of existence, reality, perception, death, pain, boredom, and more. It’s remarkably elegant and fun. At the very least, it should make you appreciate your own life—warts and all—much more. From the book’s official description: “In one afterlife, you may find that God is the size of a microbe and unaware of your existence. In another version, you work as a background character in other people’s dreams. Or you may find that God is a married couple, or that the universe is running backward, or that you are forced to live out your afterlife with annoying versions of who you could have been.”",
+      "original_url": "https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/2xb2hoh0pv6qr9/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TdW0tRm9ydHktQWZ0ZXJsaXZlcy1EYXZpZC1FYWdsZW1hbi9kcC8wMzA3Mzg5OTM2Lw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/2xb2hoh0pv6qr9/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TdW0tRm9ydHktQWZ0ZXJsaXZlcy1EYXZpZC1FYWdsZW1hbi9kcC8wMzA3Mzg5OTM2Lw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/g7hnh5ho8dr07w/aHR0cHM6Ly90d2l0dGVyLmNvbS9kYXZpZGVhZ2xlbWFu"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "How to make lemonade out of lemons —",
+      "category": "other",
+      "title": "Don’t Talk PSA | Angry Voicemail (Uncensored)",
+      "creator": null,
+      "note": "](https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/nouohvh598mlw9/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0xTDNlZUMybEpacw==)**.** This might not be a productive use of time, but it’s hilarious enough to highlight. Alamo Drafthouse theaters ([@alamodrafthouse](https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/wdi2hghv25nl9e/aHR0cHM6Ly90d2l0dGVyLmNvbS9hbGFtb2RyYWZ0aG91c2U=)) are probably my favorites in the country. The food, booze, and experience are fantastic. This is partly due to a simple rule: Do not fucking talk or use your phone, or we’ll kick your ass out. The above video is a consequence of that rule. It’s worth watching the whole thing.",
+      "original_url": "https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/nouohvh598mlw9/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0xTDNlZUMybEpacw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/nouohvh598mlw9/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0xTDNlZUMybEpacw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/wdi2hghv25nl9e/aHR0cHM6Ly90d2l0dGVyLmNvbS9hbGFtb2RyYWZ0aG91c2U="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering once again —",
+      "category": "quote",
+      "title": "“Don’t postpone joy until you have learned all of your lessons. Joy is your lesson.” — Alan Cohen And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim [](https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/m8c7h5h06gvlkx/aHR0cHM6Ly90aW0uYmxvZy90aW0tZmVycmlzcy1ib29rcy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9zb3VyY2U9bWVkaXVtPTViZi10ZW1wbGF0ZS1oZWFkZXI=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Alan Cohen And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/0ofwh9hw6ovp0l/aHR0cHM6Ly93d3cuYWxhbmNvaGVuLmNvbS9hYm91dC8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/0ofwh9hw6ovp0l/aHR0cHM6Ly93d3cuYWxhbmNvaGVuLmNvbS9hYm91dC8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/vet3hrh39xlq2q/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://files.convertkitcdn.com/assets/pictures/11125/2272828/content_Book_Header_FINAL.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/e6sph7hw3p6d9x/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/mvu8n09oou5hmnqggsq"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/mvu8n09oou5hmnqggsq/rqb8hohvl24o9q/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

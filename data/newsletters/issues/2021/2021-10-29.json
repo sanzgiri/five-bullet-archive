@@ -6,7 +6,147 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Revisiting The 4-Hour Workweek_: How Tim Ferriss’s 2007 manifesto anticipated our current moment of professional upheaval",
+      "creator": "Cal Newport",
+      "note": "(_The New Yorker_). This [Instagram post](https://www.instagram.com/p/CVjBb-KgLJ2/?utm_source=ig_web_copy_link) from _The New Yorker_ does a good job of teasing it: “In 2007, Tim Ferriss published a book called [_The 4-Hour Workweek_](https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357/ref=sr_1_1?dchild=1&keywords=the+4-hour+workweek&qid=1635532742&qsid=132-7848523-6560001&sr=8-1&sres=0307465357%2C0091923727%2CB000PKG4DM%2CB087NLDGGT%2CB07GFT333H%2CB087LBK148%2CB004C71SLM%2C1074807308%2CB07HXGLHMB%2C8498673771%2CB082VKY29Q%2C030746363X%2CB08MS6V6DM%2C1974159248%2C1138058386%2CB097818DX5&srpt=ABIS_BOOK). In it he argued that the busyness of the pre-recession 2000s—when everyone was acquiring mortgages to be repackaged into debt instruments, or typing furiously into suddenly ubiquitous BlackBerrys—was nonsense. If you concentrated on the efforts that actually mattered, Ferriss suggested, your professional contributions could be compressed into a handful of efficiently planned weekly hours. The rest was just for show. Ferriss’s book ‘delivered a prophecy that many were not yet receptive to,’ [Cal Newport](https://www.calnewport.com/) writes. ‘The pandemic has changed this reality.’”",
+      "original_url": "https://www.newyorker.com/culture/office-space/revisiting-the-4-hour-workweek",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.newyorker.com/culture/office-space/revisiting-the-4-hour-workweek"
+        },
+        {
+          "type": "other",
+          "url": "https://www.calnewport.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/CVjBb-KgLJ2/?utm_source=ig_web_copy_link"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357/ref=sr_1_1?dchild=1&keywords=the+4-hour+workweek&qid=1635532742&qsid=132-7848523-6560001&sr=8-1&sres=0307465357%2C0091923727%2CB000PKG4DM%2CB087NLDGGT%2CB07GFT333H%2CB087LBK148%2CB004C71SLM%2C1074807308%2CB07HXGLHMB%2C8498673771%2CB082VKY29Q%2C030746363X%2CB08MS6V6DM%2C1974159248%2C1138058386%2CB097818DX5&srpt=ABIS_BOOK"
+        },
+        {
+          "type": "other",
+          "url": "https://www.calnewport.com/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Person I’m studying —",
+      "category": "other",
+      "title": "Muhammad ibn Musa al-Khwarizmi",
+      "creator": null,
+      "note": "I wanted to further study this amazing genius after [my recent conversation with polymath Noah Feldman](https://tim.blog/2021/10/21/noah-feldman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). Easter egg: anyone notice the [Roam Research](https://roamresearch.com/) logo in the statue?",
+      "original_url": "https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/10/21/noah-feldman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://roamresearch.com/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Short animated film I’m watching —",
+      "category": "video",
+      "title": "Destino",
+      "creator": null,
+      "note": "From [Wikipedia](https://en.wikipedia.org/wiki/Destino) (bolding is mine): “_Destino_ is an animated short film released in 2003 by Walt Disney Feature Animation. _Destino_ is unique in that its production originally began in 1945, 58 years before its eventual completion in 2003. The project was originally **a collaboration between Walt Disney and Spanish surrealist painter Salvador Dalí**, and features music written by Mexican songwriter Armando Domínguez and performed by Mexican singer Dora Luz. It was included in the Animation Show of Shows in 2003.” This is precisely as bizarre as you’d hope it to be.",
+      "original_url": "https://m.youtube.com/watch?v=y_TlaxmOKqs&feature=youtu.be",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://m.youtube.com/watch?v=y_TlaxmOKqs&feature=youtu.be"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Destino"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Newsletter I’m subscribing to —",
+      "category": "other",
+      "title": "The Microdose",
+      "creator": null,
+      "note": "from [Michael Pollan](https://tim.blog/2021/06/28/michael-pollan-this-is-your-mind-on-plants/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) and the UC Berkeley Center for the Science of Psychedelics. Description: “Every Friday, [The Microdose](https://themicrodose.substack.com/p/welcome-to-the-microdose) will bring you a handful of brief takes on developments in the field of psychedelics, covering everything from scientific research and policy to business and culture. On Mondays, a second installment will offer a Q & A with a newsmaker in the field—it might be a person you’ve heard of or someone you need to know about. Our goal is to keep you up-to-date and informed, whether you’re in the field or simply curious. The newsletter is free to everyone.” The head writer is [Jane C. Hu](https://www.janehu.net/) ([@jane\\_c\\_hu](https://twitter.com/jane_c_hu)), and [Michael Pollan](https://tim.blog/2021/06/28/michael-pollan-this-is-your-mind-on-plants/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) will also be making contributions. As a reminder, applications for the [The Ferriss – UC Berkeley Psychedelic Journalism Fellowship](https://journalism.berkeley.edu/bcspfellows/) open on December 1st, so please mark it in your calendar if you’re an interested journalist.",
+      "original_url": "https://themicrodose.substack.com/p/welcome-to-the-microdose",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://themicrodose.substack.com/p/welcome-to-the-microdose"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/06/28/michael-pollan-this-is-your-mind-on-plants/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://themicrodose.substack.com/p/welcome-to-the-microdose"
+        },
+        {
+          "type": "other",
+          "url": "https://www.janehu.net/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/jane_c_hu"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/06/28/michael-pollan-this-is-your-mind-on-plants/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://journalism.berkeley.edu/bcspfellows/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Poem I’m pondering —",
+      "category": "other",
+      "title": "Lost",
+      "creator": "David Wagoner",
+      "note": "(Huge thanks to [Jerry Colonna](https://tim.blog/2019/06/11/jerry-colonna/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) for sharing this with me.)  \n  \nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n  \nHave a wonderful weekend, all.  \n  \nMuch love to you and yours,  \n  \nTim",
+      "original_url": "https://blog.bestamericanpoetry.com/the_best_american_poetry/2009/09/lost-by-david-wagoner.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://blog.bestamericanpoetry.com/the_best_american_poetry/2009/09/lost-by-david-wagoner.html"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/David_Wagoner"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/06/11/jerry-colonna/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

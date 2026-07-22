@@ -6,7 +6,135 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short article I’m reading",
+      "category": "article",
+      "title": "Wall Street groups hire traders to wade into prediction markets",
+      "creator": null,
+      "note": "(_FT_; [Alternate link](https://archive.is/ohWeM)). I’ve long been interested in prediction markets and the secondary and tertiary effects they’ll have on seemingly unrelated fields and bets.",
+      "original_url": "https://www.ft.com/content/4e1ae184-f7e0-4a9b-9d0b-299b37bbd738",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.ft.com/content/4e1ae184-f7e0-4a9b-9d0b-299b37bbd738"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.is/ohWeM"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m rewatching",
+      "category": "video",
+      "title": "The Secret Life of Walter Mitty",
+      "creator": null,
+      "note": "([Amazon Prime Video](https://www.amazon.com/Secret-Life-Walter-Mitty/dp/B00JP5ONY0/?tag=offsitoftimfe-20), [YouTube](https://www.youtube.com/watch?v=5I6T_WztBXg), [Apple TV](https://tv.apple.com/us/movie/the-secret-life-of-walter-mitty/umc.cmc.pw6qkwfo6ppbm0q2zkp07a3f?action=play)). I always find this movie inspiring, and January is a great time to watch it. From the description: “A moment comes when you stop dreaming, start living, and discover your destiny. For daydreamer Walter Mitty, that time is now. When his job, along with that of his coworker ([Kristen Wiig](https://en.wikipedia.org/wiki/Kristen_Wiig)) are threatened, Walter takes action and embarks on an incredible journey. [Ben Stiller](https://en.wikipedia.org/wiki/Ben_Stiller) directs and co-stars in this inspiring story about an ordinary man who leaps into the extraordinary adventure that is life.” [Watch the trailer here](https://www.youtube.com/watch?v=5I6T_WztBXg).",
+      "original_url": "https://www.amazon.com/Secret-Life-Walter-Mitty/dp/B00JP5ONY0/?tag=offsitoftimfe-20",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Secret-Life-Walter-Mitty/dp/B00JP5ONY0/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Secret-Life-Walter-Mitty/dp/B00JP5ONY0/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=5I6T_WztBXg"
+        },
+        {
+          "type": "other",
+          "url": "https://tv.apple.com/us/movie/the-secret-life-of-walter-mitty/umc.cmc.pw6qkwfo6ppbm0q2zkp07a3f?action=play"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Kristen_Wiig"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Ben_Stiller"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=5I6T_WztBXg"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Person I’m once again studying",
+      "category": "other",
+      "title": "Michel Thomas",
+      "creator": null,
+      "note": "I recommended Michel’s language learning CDs way back in 2007 in [this blog post](https://tim.blog/2007/12/16/10-random-gifts-that-please-almost-everyone/), and I wrote, “Michel Thomas is one of the few language teachers I recommend, and he walks the talk.” If you want the basics of Spanish or French in less than a week, his programs really deliver. Get his personal recording, if you can, but some of his courses taught by others using his method (e.g., [Korean](https://www.audible.com/series/Foundation-Korean-Michel-Thomas-Method-Audiobooks/B0BN4JZ5DB?creativeId=292d6343-f11b-4bbe-a8a5-d4b7272abf61&ipRedirectOverride=true&overrideBaseCountry=true&pageLoadId=5oEjZNgapw4pzgPM&pf_rd_p=8431280a-a7ba-4839-9f08-cb75c29d7f6a&pf_rd_r=Z891QQQB960GT4JKWDFP&plink=YTchwYlNSpMGisXR&ref_pageloadid=not_applicable)) are also excellent.  \n​  \nFrom Wikipedia:**​  \n​  \n​**_Michel Thomas (born Moniek Kroskof, February 3, 1914–January 8, 2005) was a polyglot linguist and decorated war veteran. He survived imprisonment in several Nazi concentration camps after serving in the Maquis of the French Resistance and worked with the U.S. Army Counter Intelligence Corps during World War II. After the war, Thomas immigrated to the United States, where he developed a language-teaching system known as the_ “_Michel Thomas method._” _In 2004, he was awarded the Silver Star by the United States Army._",
+      "original_url": "https://en.wikipedia.org/wiki/Michel_Thomas",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Michel_Thomas"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2007/12/16/10-random-gifts-that-please-almost-everyone/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.audible.com/series/Foundation-Korean-Michel-Thomas-Method-Audiobooks/B0BN4JZ5DB?creativeId=292d6343-f11b-4bbe-a8a5-d4b7272abf61&ipRedirectOverride=true&overrideBaseCountry=true&pageLoadId=5oEjZNgapw4pzgPM&pf_rd_p=8431280a-a7ba-4839-9f08-cb75c29d7f6a&pf_rd_r=Z891QQQB960GT4JKWDFP&plink=YTchwYlNSpMGisXR&ref_pageloadid=not_applicable"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Related content I've been bingeing",
+      "category": "other",
+      "title": "The Language Master_, a film about Michel Thomas",
+      "creator": null,
+      "note": "This is a great place to start to get a taste of what his method looks like in a live classroom. It also demonstrates how stubborn and difficult he could be! For propagating his own method, he was sometimes his own worst enemy.  \n​  \n​**Book:** [**_The Test Of Courage: Michel Thomas_**](https://www.amazon.com/Test-Courage-Biography-Nazi-Hunter-Christopher-ebook/dp/B0071MB022/?tag=offsitoftimfe-20)**, a biography of the Holocaust survivor and Nazi hunter** by Christopher Robbins. I found this book to be gratifying, and Robbins did a beautiful job with research and fact-checking around details of WWII and the Holocaust I had never seen before. How do we not learn this stuff in school? The citations and footnotes reflect a _tremendous_ amount of work by the author, and he makes a lot of Michel’s life a compelling page-turner that reads like a thriller.  \n​  \nAlas, it also seems clear that Michel himself was prone to exaggeration and possibly occasional fabrication. Some of his theatrical twists and anecdotes simply don’t add up, which is a shame, as his 100% verifiable experiences alone are ridiculously sufficient for an incredible story! Sadly, some people can’t help themselves. It didn’t prevent me from highlighting a lot of the research notes on Kindle, and his language method’s results literally speak for themselves. Check out the above documentary first.",
+      "original_url": "https://www.youtube.com/watch?feature=youtu.be&v=mr_NUWhYASg",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?feature=youtu.be&v=mr_NUWhYASg"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Test-Courage-Biography-Nazi-Hunter-Christopher-ebook/dp/B0071MB022/?tag=offsitoftimfe-20"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The universe is not only stranger than we suppose, but stranger than we can suppose.” — J. B. S. Haldane, British geneticist/biometrician/physiologist who is considered a founding figure in modern evolutionary biology. (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my brand-new conversation with Steve Young, the NFL Hall of Fame 49er quarterback who transitioned from winning Super Bowls to managing billions. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "J. B. S. Haldane, British geneticist/biometrician/physiologist who is considered a founding figure in modern evolutionary biology.",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/J._B._S._Haldane",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/J._B._S._Haldane"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/fb3UF"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/01/14/steve-young/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -1,13 +1,125 @@
 {
   "schema_version": 1,
   "issue_date": "2020-09-04",
-  "subject": "5-Bullet Friday — September 4, 2020 ",
+  "subject": "5-Bullet Friday — September 4, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Atul Gawande on the Armchair Expert podcast with Dax Shepard",
+      "creator": null,
+      "note": "This is an excellent dance. On one side, Atul Gawande, MD, ([@Atul\\_Gawande](https://el2.fourhourmail.com/c/4zup485rraehwnornap/08hwh9h78r4993fl/aHR0cHM6Ly90d2l0dGVyLmNvbS9BdHVsX0dhd2FuZGU=)) is one of my favorite thinkers and authors. [_The Checklist Manifesto: How to Get Things Right_](https://el2.fourhourmail.com/c/4zup485rraehwnornap/8ghqhoh54n822rtk/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9DaGVja2xpc3QtTWFuaWZlc3RvLUhvdy1UaGluZ3MtUmlnaHQvZHAvMDMxMjQzMDAwMC8=), written by Atul, sits face out on my bookshelf as a constant reminder. On the other side, Dax ([@daxshepard](https://el2.fourhourmail.com/c/4zup485rraehwnornap/vqh3hrhk5r6vvqcg/aHR0cHM6Ly90d2l0dGVyLmNvbS9kYXhzaGVwYXJk)) is one of the best interviewers in the game, and this episode is a great showcase of his skill level. He’s able to intelligently tackle the serious without sounding too serious but also without swinging too far into comedy for comedy’s sake. That is a _very_ hard needle to thread well.",
+      "original_url": "https://el2.fourhourmail.com/c/4zup485rraehwnornap/reh8hoh58zp33li2/aHR0cHM6Ly9hcm1jaGFpcmV4cGVydHBvZC5jb20vcG9kcy9hdHVsLWdhd2FuZGU=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehwnornap/reh8hoh58zp33li2/aHR0cHM6Ly9hcm1jaGFpcmV4cGVydHBvZC5jb20vcG9kcy9hdHVsLWdhd2FuZGU="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehwnornap/08hwh9h78r4993fl/aHR0cHM6Ly90d2l0dGVyLmNvbS9BdHVsX0dhd2FuZGU="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehwnornap/8ghqhoh54n822rtk/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9DaGVja2xpc3QtTWFuaWZlc3RvLUhvdy1UaGluZ3MtUmlnaHQvZHAvMDMxMjQzMDAwMC8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehwnornap/vqh3hrhk5r6vvqcg/aHR0cHM6Ly90d2l0dGVyLmNvbS9kYXhzaGVwYXJk"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m using daily —",
+      "category": "other",
+      "title": "Big Berkey water filter",
+      "creator": null,
+      "note": "This was recommended to me by a former Navy SEAL in March, and I’ve bought several units since. These were his selling points, roughly paraphrased: _If you can find a swamp or dirty pond, you now have drinkable water. If you have a pool, you now have no reason to stockpile bottles of water_. Sold! Here is the partial description from their website: “The black berkey elements that come standard in this system purify both treated water and untreated raw water from such sources as remote lakes, streams, stagnant ponds and water supplies in foreign countries, where regulations may be substandard at best. This Berkey water filter is our most popular system and is perfect for everyday home kitchen use, outdoor activities, and a must in hostile environments where electricity, water pressure, or treated water may not be available. This system removes pathogenic bacteria, viruses, cysts, and parasites entirely and extracts harmful chemicals such as herbicides, pesticides, VOCs, organic solvents, radon 222 and trihalomethanes.” If it’s sold out [on their website](https://el2.fourhourmail.com/c/4zup485rraehwnornap/l2hehmhkg7pnnps6/aHR0cHM6Ly93d3cuYmlnYmVya2V5d2F0ZXJmaWx0ZXJzLmNvbS9iaWctYmVya2V5LXdhdGVyLWZpbHRlci5odG1s), which happens often these days, you can also [try Amazon](https://el2.fourhourmail.com/c/4zup485rraehwnornap/m2h7h5hnrzxqqrfm/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9CZXJrZXktR3Jhdml0eS1GZWQtRmlsdGVyLVB1cmlmaWNhdGlvbi1FbGVtZW50cy9kcC9CMDBDWVczRVZPLw==).",
+      "original_url": "https://el2.fourhourmail.com/c/4zup485rraehwnornap/l2hehmhkg7pnnps6/aHR0cHM6Ly93d3cuYmlnYmVya2V5d2F0ZXJmaWx0ZXJzLmNvbS9iaWctYmVya2V5LXdhdGVyLWZpbHRlci5odG1s",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehwnornap/l2hehmhkg7pnnps6/aHR0cHM6Ly93d3cuYmlnYmVya2V5d2F0ZXJmaWx0ZXJzLmNvbS9iaWctYmVya2V5LXdhdGVyLWZpbHRlci5odG1s"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehwnornap/l2hehmhkg7pnnps6/aHR0cHM6Ly93d3cuYmlnYmVya2V5d2F0ZXJmaWx0ZXJzLmNvbS9iaWctYmVya2V5LXdhdGVyLWZpbHRlci5odG1s"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehwnornap/m2h7h5hnrzxqqrfm/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9CZXJrZXktR3Jhdml0eS1GZWQtRmlsdGVyLVB1cmlmaWNhdGlvbi1FbGVtZW50cy9kcC9CMDBDWVczRVZPLw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Feature of Gmail that I’m finding incredibly useful —",
+      "category": "other",
+      "title": "Google Contacts",
+      "creator": null,
+      "note": "([contacts.google.com](https://el2.fourhourmail.com/c/4zup485rraehwnornap/dpheh0h73nxokzbm/aHR0cHM6Ly9jb250YWN0cy5nb29nbGUuY29tLw==)). Just type contacts.google.com into your browser URL bar, and you’ll see something I’d never accessed until this week. Why this week? Because I’m retiring a bunch of email addresses, and I wanted to know whom I’ve emailed most often from the inboxes that are headed to the garbage bin. This feature—hidden in plain sight—makes it super simple, and you can export your list of VIPs. One important note: “Frequently contacted” appears to include people who email _you_ as well, so it requires some minor cleanup to remove newsletters and so on.",
+      "original_url": "https://el2.fourhourmail.com/c/4zup485rraehwnornap/dpheh0h73nxokzbm/aHR0cHM6Ly9jb250YWN0cy5nb29nbGUuY29tLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehwnornap/dpheh0h73nxokzbm/aHR0cHM6Ly9jb250YWN0cy5nb29nbGUuY29tLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehwnornap/dpheh0h73nxokzbm/aHR0cHM6Ly9jb250YWN0cy5nb29nbGUuY29tLw=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Documentary I’m watching —",
+      "category": "video",
+      "title": "The Work",
+      "creator": null,
+      "note": "This documentary tore my heart apart but simultaneously gave me tremendous hope. It strikes me as particularly important for men (or those who want to better understand men) to watch, but the intensity isn’t for everyone. It’s exhausting to watch. **Check out** [**this short trailer**](https://el2.fourhourmail.com/c/4zup485rraehwnornap/owhkhqh8zde6nntv/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1oOE9WWEcyR2hwUQ==)**, and you’ll see what I mean.** As [one reviewer](https://el2.fourhourmail.com/c/4zup485rraehwnornap/z2hghnhdgxzk7rap/aHR0cHM6Ly93d3cuaGVhZHN0dWZmLm9yZy9lbnRlcnRhaW5tZW50L2ZpbG0vZmlsbS1yZXZpZXctdGhlLXdvcmstZG9jdW1lbnRhcnktcHJpc29uLw==) put it, “_The Work_ is a ‘prison film’ but not as you know it, and yet it is perhaps the most emotionally draining the genre has ever seen…. Set in Folsom prison, a group of men from the outside participate in a group therapy session with convicts, many of them violent offenders. In the space of four days, prisoners and free men alike engage in a weekend of deeply intimate conversations in which they reveal their darkest fears, dangerously repressed memories, and their most complex feelings. The resulting drama is a fascinating exercise in emotional exorcism.” So you’re not caught scratching your head at my recommendation, note that the first 20–30 minutes seem somewhat slow. It picks up at around the 30–35-minute mark.",
+      "original_url": "https://el2.fourhourmail.com/c/4zup485rraehwnornap/e0hph7hnxozlepc8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Xb3JrLUphbWVzLU1jTGVhcnkvZHAvQjA3N0dHV0g4UC8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehwnornap/e0hph7hnxozlepc8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Xb3JrLUphbWVzLU1jTGVhcnkvZHAvQjA3N0dHV0g4UC8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehwnornap/owhkhqh8zde6nntv/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1oOE9WWEcyR2hwUQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehwnornap/z2hghnhdgxzk7rap/aHR0cHM6Ly93d3cuaGVhZHN0dWZmLm9yZy9lbnRlcnRhaW5tZW50L2ZpbG0vZmlsbS1yZXZpZXctdGhlLXdvcmstZG9jdW1lbnRhcnktcHJpc29uLw=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“The greatest thing in the world is to know how to belong to oneself.” ― Michel de Montaigne And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/4zup485rraehwnornap/p8heh9h7voe2dltq/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWljaGVsX2RlX01vbnRhaWduZQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehwnornap/p8heh9h7voe2dltq/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWljaGVsX2RlX01vbnRhaWduZQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehwnornap/x0hph6h7g0mpz7c5/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    }
+  ]
 }

@@ -7,7 +7,183 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Princess Mononoke",
+      "creator": null,
+      "note": "(Amazon: [English](https://www.amazon.com/Princess-Mononoke-English-Language-Crudup/dp/B081F8K9ZX/ref=tmm_aiv_swatch_0?_encoding=UTF8&qid=1617306661&sr=8-1), [Japanese](https://www.amazon.com/Princess-Mononoke-Japanese-Language-Matsuda/dp/B081RC3212/ref=sr_1_3?dchild=1&keywords=princess+mononoke+japanese&qid=1617157045&sr=8-3); [iTunes](https://itunes.apple.com/us/movie/princess-mononoke/id1485476692?cmp=rt_where_to_watch)). This animated film, from the legendary [Hayao Miyazaki](https://en.wikipedia.org/wiki/Hayao_Miyazaki) and his [Studio Ghibli](https://en.wikipedia.org/wiki/Studio_Ghibli), has thousands of five-star reviews on Amazon and elsewhere. I was in Tokyo for its opening weekend in 1997, and I recall being astonished by the neverending lines of theatergoers bending around city blocks, eagerly awaiting the first showings. It dramatically outearned _The Lost World: Jurassic Park_ at the box office, which opened the same weekend. Even if you don’t watch the entire film, [the original Japanese trailer](https://www.youtube.com/watch?v=rPs1C4277wE) is worth watching. Of course, I prefer the Japanese version with English subtitles, but the English dubbed version has excellent voice actors. If you enjoy _Princess Mononoke_, you might as well pair it with [_Spirited Away_](https://www.amazon.com/Spirited-English-Language-Daveigh-Chase/dp/B081GFFJLN/)—likely my favorite movie of all time—and for more on the process of storytelling genius Hayao Miyazaki, I highly recommend his accompanying [_The Art of Spirited Away_](https://www.amazon.com/Art-Spirited-Away-Hayao-Miyazaki/dp/1569317771) book_.  \n  \n_",
+      "original_url": "https://www.amazon.com/Princess-Mononoke-English-Language-Crudup/dp/B081F8K9ZX/ref=tmm_aiv_swatch_0?_encoding=UTF8&qid=1617306661&sr=8-1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Princess-Mononoke-English-Language-Crudup/dp/B081F8K9ZX/ref=tmm_aiv_swatch_0?_encoding=UTF8&qid=1617306661&sr=8-1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Princess-Mononoke-English-Language-Crudup/dp/B081F8K9ZX/ref=tmm_aiv_swatch_0?_encoding=UTF8&qid=1617306661&sr=8-1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Princess-Mononoke-Japanese-Language-Matsuda/dp/B081RC3212/ref=sr_1_3?dchild=1&keywords=princess+mononoke+japanese&qid=1617157045&sr=8-3"
+        },
+        {
+          "type": "other",
+          "url": "https://itunes.apple.com/us/movie/princess-mononoke/id1485476692?cmp=rt_where_to_watch"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Hayao_Miyazaki"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Studio_Ghibli"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=rPs1C4277wE"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Spirited-English-Language-Daveigh-Chase/dp/B081GFFJLN/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Art-Spirited-Away-Hayao-Miyazaki/dp/1569317771"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m celebrating —",
+      "category": "other",
+      "title": "UCSF establishes the Neuroscape Psychedelics Division with $6.4M in funding",
+      "creator": null,
+      "note": "This is huge news for the burgeoning field of psychedelic medicine. Dr. Robin Carhart-Harris ([@RCarhartHarris](https://twitter.com/RCarhartHarris)), a renowned psychedelic researcher best known for his work at the [Centre for Psychedelic Research at Imperial College London](https://www.imperial.ac.uk/psychedelic-research-centre/), is joining Neuroscape as the director of the Psychedelics Division, and he’ll be working alongside the founder of [Neuroscape](https://neuroscape.ucsf.edu/psychedelics), Dr. Adam Gazzaley ([@adamgazz](https://twitter.com/adamgazz)). Prior Neuroscape (previously known as Gazzaley Lab) research has been featured on the cover of _Nature_ ([cover image and synopsis](https://www.al.com/breaking/2013/09/game_changer_research_shows_vi.html), [research description](https://www.nature.com/news/gaming-improves-multitasking-skills-1.13674)), and this dream team is perfectly poised to address fundamental questions about psychedelic therapies largely untouched by research to date. To learn more, please hear [my brand-new podcast with Adam](https://tim.blog/2021/03/30/adam-gazzaley-2/?utm-source=convertkit&utm_medium=convertkit&utm_campaign=5bf), which was released this week. If you’d like to support their ambitious plans, as I am, you can donate cash or securities by visiting [this page](https://neuroscape.ucsf.edu/get-involved/donate/), and you can donate cryptocurrencies by emailing [neuroscape@ucsf.edu](mailto:neuroscape@ucsf.edu).",
+      "original_url": "https://www.eurekalert.org/pub_releases/2021-03/ss-nr032921.php",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.eurekalert.org/pub_releases/2021-03/ss-nr032921.php"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/RCarhartHarris"
+        },
+        {
+          "type": "other",
+          "url": "https://www.imperial.ac.uk/psychedelic-research-centre/"
+        },
+        {
+          "type": "other",
+          "url": "https://neuroscape.ucsf.edu/psychedelics"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/adamgazz"
+        },
+        {
+          "type": "other",
+          "url": "https://www.al.com/breaking/2013/09/game_changer_research_shows_vi.html"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nature.com/news/gaming-improves-multitasking-skills-1.13674"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/03/30/adam-gazzaley-2/?utm-source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://neuroscape.ucsf.edu/get-involved/donate/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Lost in Thought",
+      "creator": "David Kortava for Harper’s Magazine_",
+      "note": "for _Harper’s Magazine_. I would have dismissed this article were it not for my personal experience with retraumatization and breakdown at a silent retreat in 2017. I recount this experience at roughly [12:11](https://overcast.fm/+Kebu8teN4/12:10) of [my podcast episode on healing from childhood abuse](https://tim.blog/2020/09/14/how-to-heal-trauma/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). This is a very well-researched piece on the largely ignored risks of meditation and, more specifically, the enhanced risks of longer retreats for some populations. I still regularly meditate, but I do find there to be a point of diminishing returns, as well as a point (i.e., extended retreats) where the risk-benefit ratio can change dramatically.",
+      "original_url": "https://harpers.org/archive/2021/04/lost-in-thought-psychological-risks-of-meditation/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://harpers.org/archive/2021/04/lost-in-thought-psychological-risks-of-meditation/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/DavidKortava"
+        },
+        {
+          "type": "other",
+          "url": "https://overcast.fm/+Kebu8teN4/12:10"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/09/14/how-to-heal-trauma/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "The $69 Million JPEG",
+      "creator": null,
+      "note": "on _Planet Money_ ([Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-%2469-million-jpeg/id290783428?i=1000512778687), [Spotify](https://open.spotify.com/episode/7GiTmf0koicq1e58E8ycHo?si=5cea7657343a4df8), [Overcast](https://overcast.fm/+YsPTyDiAk)). More exploration of NFTs and related Wild West tech territories. If you think things are already cuckoo bananas, just wait until this new frontier really gets warmed up. I think we’re still in the first inning.",
+      "original_url": "https://www.npr.org/2021/03/12/976513031/the-69-million-jpeg",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.npr.org/2021/03/12/976513031/the-69-million-jpeg"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/gb/podcast/the-%2469-million-jpeg/id290783428?i=1000512778687"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/7GiTmf0koicq1e58E8ycHo?si=5cea7657343a4df8"
+        },
+        {
+          "type": "other",
+          "url": "https://overcast.fm/+YsPTyDiAk"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Writing isn’t so bad really when you get through the worry. Forget about the worry, just press on. Don’t be embarrassed about the bad bits. Don’t strain at them. … Writing can be good. You attack it, don’t let it attack you. You can get pleasure out of it. You can certainly do very well for yourself with it!”— Douglas Adams, author of The Hitchhiker’s Guide to the Galaxy_, in a recently discovered note to himself And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Douglas Adams, author of The Hitchhiker’s Guide to the Galaxy_, in a recently discovered note to himself And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Douglas_Adams",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Douglas_Adams"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy"
+        },
+        {
+          "type": "other",
+          "url": "https://www.theguardian.com/books/2021/mar/22/douglas-adams-note-to-self-reveals-author-found-writing-torture"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

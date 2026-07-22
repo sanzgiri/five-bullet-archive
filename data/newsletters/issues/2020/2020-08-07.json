@@ -1,13 +1,134 @@
 {
   "schema_version": 1,
   "issue_date": "2020-08-07",
-  "subject": "5-Bullet Friday — August 7, 2020 ",
+  "subject": "5-Bullet Friday — August 7, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "John McPhee on Writing and the Relationship Between Artistic Originality and Self-Doubt",
+      "creator": "Maria Popova",
+      "note": "([@brainpicker](https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/p8heh9h7eqdo7w/aHR0cHM6Ly90d2l0dGVyLmNvbS9icmFpbnBpY2tlcg==))**.** Here is one of my favorite quotes in the piece: “as Auden observed in one of his singular strokes of wry perspicacity, ‘**some writers confuse authenticity, which they ought always to aim at, with originality, which they should never bother about.**’”",
+      "original_url": "https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/owhkhqh8eqnd8d/aHR0cHM6Ly93d3cuYnJhaW5waWNraW5ncy5vcmcvMjAyMC8wNy8yOS9qb2huLW1jcGhlZS1kcmFmdC1uby00LXdyaXRpbmctc2VsZi1kb3VidC8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/owhkhqh8eqnd8d/aHR0cHM6Ly93d3cuYnJhaW5waWNraW5ncy5vcmcvMjAyMC8wNy8yOS9qb2huLW1jcGhlZS1kcmFmdC1uby00LXdyaXRpbmctc2VsZi1kb3VidC8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/z2hghnhdzl7xdv/aHR0cHM6Ly90aW0uYmxvZy8yMDE0LzEwLzIxL2JyYWluLXBpY2tpbmdzLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/p8heh9h7eqdo7w/aHR0cHM6Ly90d2l0dGVyLmNvbS9icmFpbnBpY2tlcg=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m wearing on hikes for tick protection —",
+      "category": "other",
+      "title": "ElimiTick Insect Repellent Ultra Lite Pant / TLP",
+      "creator": null,
+      "note": "I’ve contracted Lyme disease twice. Lyme seems to be a tax for many people who grow up on Long Island, and I have no desire for a third experience. These ElimiTick pants were gifted to me by a dear friend, and… they really seem to work. I wore them on a recent hike (forgoing tick-repellent spray) and came back with no ticks whatsoever. The person with me later found more than a dozen ticks on their clothing and skin. I’ll roll the dice with intermittent permethrin—or whatever they use—instead of rolling the dice with ticks and then downing 200mg of doxycycline as the morning-after pill. Also, for the many people who’ve asked me about recovery from Lyme: (1) I’m not an expert and no MD, but (2) antibiotics plus [a strict ketogenic diet](https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/25h2hohoxmgwo5/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9LZXRvLUNhbmNlci1LZXRvZ2VuaWMtTWV0YWJvbGljLU51dHJpdGlvbmFsLWVib29rLWRwLUIwNzZLRFk4RlIvZHAvQjA3NktEWThGUi9yZWY9bXRfa2luZGxlP19lbmNvZGluZz1VVEY4Jm1lPSZxaWQ9) (but neither alone) seemed to be the key for me, and I’ve since seen that replicated by a few friends. Could be placebo, of course, but we do what we can…",
+      "original_url": "https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/58hvh7h9w6029w/aHR0cHM6Ly9nYW1laGlkZS5jb20vcHJvZHVjdC9lbGltaXRpY2staW5zZWN0LXJlcGVsbGVudC11bHRyYS1saXRlLXR1cmtleS1odW50aW5nLXBhbnQv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/58hvh7h9w6029w/aHR0cHM6Ly9nYW1laGlkZS5jb20vcHJvZHVjdC9lbGltaXRpY2staW5zZWN0LXJlcGVsbGVudC11bHRyYS1saXRlLXR1cmtleS1odW50aW5nLXBhbnQv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/25h2hohoxmgwo5/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9LZXRvLUNhbmNlci1LZXRvZ2VuaWMtTWV0YWJvbGljLU51dHJpdGlvbmFsLWVib29rLWRwLUIwNzZLRFk4RlIvZHAvQjA3NktEWThGUi9yZWY9bXRfa2luZGxlP19lbmNvZGluZz1VVEY4Jm1lPSZxaWQ9"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Fun—and somewhat risky—water toy I’m tossing around —",
+      "category": "other",
+      "title": "Waboba Pro water bouncing ball",
+      "creator": null,
+      "note": "Be careful and start slow! This travels like a skipping stone in ocean whitewash or the pool, and it bounces _much_ farther than you’d expect. Ensure no one is behind you or your partner, and remember the boxing maxim: keep your hands up. It’s not a soft impact if you take a shot in the face. For this week, no Lyme and no face shots.**What I’m listening to –****“**[**Peace Pipe**](https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/g3hnh5hz2qnwed/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1TZXdOaUFyV3JMUQ==)**”** (feat. Jean Shepherd) ([YouTube](https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/g3hnh5hz2qnwed/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1TZXdOaUFyV3JMUQ==), [Spotify](https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/3ohphkhd8prgqr/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3RyYWNrLzVhZ2V4MkpwQ1pscnZnMW5tUnNXYlY=), [Apple Music](https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/wnh2hghod046ro/aHR0cHM6Ly9tdXNpYy5hcHBsZS5jb20vYXJ0aXN0L25pY2tvZGVtdXMtZmVhdC1qZWFuLXNoZXBoZXJkL2lkMjA2NjQyNjMy)) by Nickodemus ([@NickodemusNYC](https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/reh8hoh5p67zqq/aHR0cHM6Ly90d2l0dGVyLmNvbS9OaWNrb2RlbXVzTllD)).",
+      "original_url": "https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/qvh8h7h63kvp8g/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9XYWJvYmEtUHJvLVdhdGVyLUJvdW5jaW5nLUJhbGwvZHAvQjAwNDQ3ODRJMA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/qvh8h7h63kvp8g/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9XYWJvYmEtUHJvLVdhdGVyLUJvdW5jaW5nLUJhbGwvZHAvQjAwNDQ3ODRJMA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/g3hnh5hz2qnwed/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1TZXdOaUFyV3JMUQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/g3hnh5hz2qnwed/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1TZXdOaUFyV3JMUQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/3ohphkhd8prgqr/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3RyYWNrLzVhZ2V4MkpwQ1pscnZnMW5tUnNXYlY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/wnh2hghod046ro/aHR0cHM6Ly9tdXNpYy5hcHBsZS5jb20vYXJ0aXN0L25pY2tvZGVtdXMtZmVhdC1qZWFuLXNoZXBoZXJkL2lkMjA2NjQyNjMy"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/reh8hoh5p67zqq/aHR0cHM6Ly90d2l0dGVyLmNvbS9OaWNrb2RlbXVzTllD"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Book excerpt I’m rereading —",
+      "category": "book",
+      "title": "Joe Green",
+      "creator": null,
+      "note": "and** [**Graham Boyd**](https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/08hwh9h74lxrmd/aHR0cHM6Ly9wc2ZjLmNvL2JvYXJkLW9mLWRpcmVjdG9ycw==)**, co-founders of** [**the Psychedelic Science Funders Collaborative**](https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/vqh3hrhk6w4rne/aHR0cHM6Ly9wc2ZjLmNvLw==) **(PSFC). This was a parting thought in one of their quarterly update emails related to nationwide scientific and regulatory updates:**Over 50 years after [Aldous Huxley](https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/l2hehmhkpx47or/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQWxkb3VzX0h1eGxleQ==) published [_Island_](https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/m2h7h5hnx49zow/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Jc2xhbmQtQWxkb3VzLUh1eGxleS1hdWRpb2Jvb2svZHAvQjAxTDBLUFlIQy8=), science has finally begun to catch up to his understanding of the benefits of combining psychedelics with meditation or other spiritual practices: A 2018 Johns Hopkins study found that the combination of guided psilocybin sessions and a long-term meditation program resulted in significant improvements in emotional, physical, and spiritual well-being compared to meditation alone.  \n  \nHere is a thought-provoking dialogue from [_Island_](https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/m2h7h5hnx49zow/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Jc2xhbmQtQWxkb3VzLUh1eGxleS1hdWRpb2Jvb2svZHAvQjAxTDBLUFlIQy8=) about the fictional psychedelic “[_moksha_](https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/e0hph7hnzreok6/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTW9rc2hh)\\-medicine” on this relationship between psychedelics and meditation:  \n  \n“The _moksha_\\-medicine takes you to the same place as you get to in meditation.”  \n  \n“So why bother to meditate?”  \n  \n“You might as well ask, Why bother to eat your dinner?”  \n  \n“But, according to you, the _moksha_\\-medicine _is_ dinner.”“It’s a banquet,” she said emphatically. “And that’s precisely why there has to be meditation. You can’t have banquets every day. They’re too rich and they last too long. Besides, banquets are provided by a caterer; _you_ don’t have any part in the preparation of them. For your everyday diet you have to do your own cooking. The _moksha_\\-medicine comes as an occasional treat.”  \n  \n“In theological terms, the _moksha_\\-medicine prepares one for the reception of gratuitous graces—pre-mystical visions or the full-blown mystical experiences. Meditation is one of the ways in which one co-operates with those gratuitous graces.”  \n  \n“How?”  \n  \n“By cultivating the state of mind that makes it possible for the dazzling ecstatic insights to become permanent and habitual illuminations. By getting to know oneself to the point where one won’t be compelled by one’s unconscious to do all the ugly, absurd, self-stultifying things that one so often finds oneself doing.”  \n  \n**_###_  \n  \n**That’s it for this week, folks!  \n  \nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/owhkhqh8eqnd4d/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==) and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all.  \n  \nMuch love to you and yours,  \n  \nTim",
+      "original_url": "https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/08hwh9h74lxrmd/aHR0cHM6Ly9wc2ZjLmNvL2JvYXJkLW9mLWRpcmVjdG9ycw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/08hwh9h74lxrmd/aHR0cHM6Ly9wc2ZjLmNvL2JvYXJkLW9mLWRpcmVjdG9ycw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/08hwh9h74lxrmd/aHR0cHM6Ly9wc2ZjLmNvL2JvYXJkLW9mLWRpcmVjdG9ycw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/vqh3hrhk6w4rne/aHR0cHM6Ly9wc2ZjLmNvLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/l2hehmhkpx47or/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQWxkb3VzX0h1eGxleQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/m2h7h5hnx49zow/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Jc2xhbmQtQWxkb3VzLUh1eGxleS1hdWRpb2Jvb2svZHAvQjAxTDBLUFlIQy8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/m2h7h5hnx49zow/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Jc2xhbmQtQWxkb3VzLUh1eGxleS1hdWRpb2Jvb2svZHAvQjAxTDBLUFlIQy8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/e0hph7hnzreok6/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTW9rc2hh"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/d0u95nv33i0hrl23ltr/owhkhqh8eqnd4d/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    }
+  ]
 }

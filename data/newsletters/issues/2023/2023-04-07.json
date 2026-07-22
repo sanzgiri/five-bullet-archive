@@ -6,7 +6,151 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Michael Jackson on Fire Diorama",
+      "creator": null,
+      "note": "This is the best thing I’ve seen on the Internet in a looong time. Keep watching. It just gets weirder. Huge thanks to Oli for sending this to me. I have no idea how he tracked this down on a YouTube channel with five videos, but what a gift! First, you see an amazing craftsman, and then…",
+      "original_url": "https://www.youtube.com/watch?v=QHi479xN_po",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=QHi479xN_po"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Short essay I’m reading",
+      "category": "article",
+      "title": "not disappointing myself",
+      "creator": "Ava",
+      "note": "([@noampomsky](https://twitter.com/noampomsky)). This quick read begins with a quote from [Glennon Doyle](https://en.wikipedia.org/wiki/Glennon_Doyle) ([@GlennonDoyle](https://twitter.com/glennondoyle)) that caught my attention:\n\n_ME: Listen. Every time you’re given a choice between disappointing someone else and disappointing yourself, your duty is to disappoint that someone else. Your job, throughout your entire life, is to disappoint as many people as it takes to avoid disappointing yourself._",
+      "original_url": "https://ava.substack.com/p/not-disappointing-myself",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://ava.substack.com/p/not-disappointing-myself"
+        },
+        {
+          "type": "other",
+          "url": "https://ava.substack.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/noampomsky"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Glennon_Doyle"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/glennondoyle"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "A Psychedelics Pioneer Takes the Ultimate Trip",
+      "creator": "David Marchese in The New York Times Magazine_",
+      "note": "in _The New York Times Magazine_. This is a beautiful piece about coming to terms with—and finding peace with—dying. If you have ever feared death, or the possible anxiety leading up to it, I highly recommend you read this interview. Dr. Roland Griffiths is navigating his “final glide path” in incredible ways. If you have any trouble reading via the above link, [try this one](https://archive.is/yjX4x).  \n​  \nIn the piece, you’ll see the following: “Griffiths, who since being diagnosed \\[with likely terminal cancer\\] has established an endowment at Johns Hopkins to study psychedelics and their potential for increasing human flourishing.” [Here is the webpage for the endowment](https://griffithsfund.org/), and I encourage people who’d like to support novel psychedelic research to [take a look](https://griffithsfund.org/). You’ll find me on the website.  \n​  \nMy recent podcast interview with Roland, which expands on a few points in the NYTM piece, can be found [here](https://tim.blog/2022/12/08/roland-griffiths/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf).",
+      "original_url": "https://www.nytimes.com/interactive/2023/04/03/magazine/roland-griffiths-interview.html?smid=nytcore-ios-share&referringSource=articleShare",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/interactive/2023/04/03/magazine/roland-griffiths-interview.html?smid=nytcore-ios-share&referringSource=articleShare"
+        },
+        {
+          "type": "other",
+          "url": "https://david-marchese.com/Work"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.is/yjX4x"
+        },
+        {
+          "type": "other",
+          "url": "https://griffithsfund.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://griffithsfund.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/12/08/roland-griffiths/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Writing and life advice I’m enjoying",
+      "category": "other",
+      "title": "Day at Night: Ray Bradbury",
+      "creator": null,
+      "note": "Description: “Host James Day speaks with Ray Bradbury about his career, the importance of fantasizing, his aspirations as a young child, his dislike of college for a writer, his idea of thinking compared to really living, and his love of the library.” To hear writing advice from this segment that I’ve been pondering all week, [click here](https://www.youtube.com/watch?v=tTXckvj7KL4&t=685s).",
+      "original_url": "https://www.youtube.com/watch?v=tTXckvj7KL4",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=tTXckvj7KL4"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=tTXckvj7KL4&t=685s"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“People usually consider walking on water or in thin air a miracle. But I think the real miracle is not to walk either on water or in thin air, but to walk on earth. Every day we are engaged in a miracle which we don’t even recognize: a blue sky, white clouds, green leaves, the black, curious eyes of a child—our own two eyes. All is a miracle.” — Thích Nhất Hạnh, The Miracle of Mindfulness: An Introduction to the Practice of Meditation _(Click here to share on Twitter.) _(Thanks to Kelly J. for sharing this.) * * * You can complement this edition of 5-Bullet Friday with my recent podcast interview with Dr. Roland Griffiths, this moment from my interview with coach Jim Dethmer, my clip on how to meditate, and a short video on the promises and perils of intuition. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "our own two eyes. All is a miracle.” — Thích Nhất Hạnh, The Miracle of Mindfulness: An Introduction to the Practice of Meditation _",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Miracle-Mindfulness-Introduction-Practice-Meditation/dp/0807012394/"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/c462b"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/12/08/roland-griffiths/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/gHkr495FY5o?t=2305"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/BfLuQ2arP48"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=haRYTcTEhiE"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

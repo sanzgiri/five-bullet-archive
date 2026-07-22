@@ -6,7 +6,135 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "D’un crépuscule, l’autre",
+      "creator": "Abderraouf Ouertani via Sr",
+      "note": "([YouTube](https://youtu.be/uMJfqpDxqxM?si=h7_ynXPpL_yVIOTl), [Spotify](https://open.spotify.com/track/4XOYQUsG8n48Q7HoTKahOX?si=MvJ3JGebRtW6Wn0yuuFeYA), [Apple Music](https://music.apple.com/us/song/dun-cr%C3%A9puscule-lautre/1614601288)) by [Abderraouf Ouertani](https://www.facebook.com/abderraouf.ouertani) via Sr. Mugwort. Excellent for evening and Friday wind-downs.",
+      "original_url": "https://youtu.be/uMJfqpDxqxM?si=h7_ynXPpL_yVIOTl",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/uMJfqpDxqxM?si=h7_ynXPpL_yVIOTl"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/uMJfqpDxqxM?si=h7_ynXPpL_yVIOTl"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/4XOYQUsG8n48Q7HoTKahOX?si=MvJ3JGebRtW6Wn0yuuFeYA"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/song/dun-cr%C3%A9puscule-lautre/1614601288"
+        },
+        {
+          "type": "other",
+          "url": "https://www.facebook.com/abderraouf.ouertani"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Would you do it if you could? Advanced DNA testing for embryos is here — and it’s fraught.",
+      "creator": null,
+      "note": "[Click here](https://archive.ph/61uLA) if you have any issues accessing the link. From the article:  \n​  \n​_“This has somewhat flown under the societal radar, but it’s happening,” says Todd Lencz, a professor of psychiatry and molecular medicine in the Zucker School of Medicine at Hofstra/Northwell and a leading researcher on the new genetic testing of embryos. “It’s not a question of if it will happen, or what the technology will be in three years. People are doing this now.”_",
+      "original_url": "https://www.bostonglobe.com/2023/12/07/opinion/ivf-embryo-dna-screening-orchid-genomic-prediction/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.bostonglobe.com/2023/12/07/opinion/ivf-embryo-dna-screening-orchid-genomic-prediction/"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.ph/61uLA"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Wholesome video I enjoyed a lot more than expected",
+      "category": "video",
+      "title": "Becorns Episode 3: Orioles vs Catbirds",
+      "creator": null,
+      "note": "This is both creatively inspiring and deeply calming. From the description: “A peek at my creative process as I create a Becorn and photograph it with an oriole... and inevitably, with catbirds too.” Thanks to Whitmire for sending me this family-friendly goodness, which makes a great palate cleanser after any craziness on the web.",
+      "original_url": "https://www.youtube.com/watch?v=BwXWg3VipQE",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=BwXWg3VipQE"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Healthy and fast protein that I’m enjoying",
+      "category": "other",
+      "title": "Classic Norwegian Roasted Salmon from Changing Seas",
+      "creator": null,
+      "note": "These days, I’m doing endurance training in the morning for 3–4 hours, and I like quick turnaround meals. For protein, I’m alternating between these ready-to-eat salmon filets and [three sticks of Maui Nui wild-harvested venison](https://mauinuivenison.com/collections/best-sellers/products/sugar-free-pepper-stick-24-pack?variant=43384782160099).",
+      "original_url": "https://www.wholefoodsmarket.com/product/changing-seas-norwegian-classic-roasted-salmon-b074vbldjj",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.wholefoodsmarket.com/product/changing-seas-norwegian-classic-roasted-salmon-b074vbldjj"
+        },
+        {
+          "type": "other",
+          "url": "https://mauinuivenison.com/collections/best-sellers/products/sugar-free-pepper-stick-24-pack?variant=43384782160099"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Health lies in action, and so it graces youth. To be busy is the secret of grace, and half the secret of content. Let us ask the gods not for possessions, but for things to do; happiness is in making things rather than in consuming them.” — Will Durant (Hat tip to Matt Mullenweg who introduced me to this quote in our most recent podcast conversation.) (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with this clip on gene editing from my conversation with Walter Isaacson, this segment on human cloning from a special “Heresies” edition of The Tim Ferriss Show_, and my interview with Bird by Bird author Anne Lamott. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Will Durant",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Will_Durant",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Will_Durant"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/12/29/matt-mullenweg-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Amos_Tversky"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/kvs0b"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/dE8YjD5I2Q4?si=SHBgO0bLpMKM7V15&t=954"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=eVMvXXTMQxo"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/07/09/anne-lamott/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

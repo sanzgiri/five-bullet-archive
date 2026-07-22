@@ -7,7 +7,151 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Graceland",
+      "creator": "Paul Simon",
+      "note": ". My most-listened-to album of 2025. It’s been on many “top 100 best albums ever” lists over the decades. It’s my default wake-up-and-smile music in the morning when making coffee, etc.  \n​  \n+  \n​  \n​**“**[**The Story of ‘Graceland,’ as Told by Paul Simon**](https://youtu.be/ZHaGhF_vhjk?si=DFrea6EhFOWn0Nwj)**”** ([YouTube](https://youtu.be/ZHaGhF_vhjk?si=DFrea6EhFOWn0Nwj), [Spotify](https://open.spotify.com/track/6qxXWHksQRKpRAjxzuS0Vs?si=ChW2QM0ZSP2BzrwWkrNaEg), [Apple Music](https://music.apple.com/us/song/the-story-of-graceland-as-told-by-paul-simon/581741639)) by [Paul Simon](https://www.instagram.com/paulsimonofficial/), from the [_Graceland_ (25th Anniversary Deluxe Edition)](https://www.amazon.com/Graceland-Paul-Simon/dp/B0002EQ7E2/?tag=offsitoftimfe-20) album. I know music is nuanced, but I’m a muggle non-musician. This layer-by-layer explanation shows just how much talent and iteration goes into making a Paul Simon track.",
+      "original_url": "https://open.spotify.com/album/4WoQ94qzwQj28n3nlSOVLB",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://open.spotify.com/album/4WoQ94qzwQj28n3nlSOVLB"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Paul_Simon"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/ZHaGhF_vhjk?si=DFrea6EhFOWn0Nwj"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/ZHaGhF_vhjk?si=DFrea6EhFOWn0Nwj"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/6qxXWHksQRKpRAjxzuS0Vs?si=ChW2QM0ZSP2BzrwWkrNaEg"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/song/the-story-of-graceland-as-told-by-paul-simon/581741639"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/paulsimonofficial/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Graceland-Paul-Simon/dp/B0002EQ7E2/?tag=offsitoftimfe-20"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Documentary I’m watching",
+      "category": "video",
+      "title": "Nothing Lasts Forever",
+      "creator": null,
+      "note": "([Paramount+](https://www.paramountplus.com/movies/video/9jgijEgXLUDr5SLpSE9flcb5QMz87EJZ/), [Amazon Prime Video](https://www.amazon.com/Nothing-Lasts-Forever-Dusan-Simic/dp/B0CN9PX5J5/?tag=offsitoftimfe-20)). Hat tip to [Deepa](https://x.com/deeparocks/status/1997751015609913819) for this recommendation. The description: “Hidden from public view, a war is raging inside the diamond industry. When filmmaker [Jason Kohn](https://www.imdb.com/name/nm1161623/) infiltrates this highly secretive world, he uncovers a vast, far-reaching crime that threatens the value of every diamond ever mined. At stake is nothing less than the universal symbol of love and commitment—the engagement ring. Featuring some of the most colorful and powerful industry insiders, _Nothing Lasts Forever_ launches us deep inside a criminal investigation and forces us to reconsider the creation of value itself.” Watch the trailer [here](https://www.youtube.com/watch?v=nHIGGdxZe64).",
+      "original_url": "https://www.paramountplus.com/movies/video/9jgijEgXLUDr5SLpSE9flcb5QMz87EJZ/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.paramountplus.com/movies/video/9jgijEgXLUDr5SLpSE9flcb5QMz87EJZ/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.paramountplus.com/movies/video/9jgijEgXLUDr5SLpSE9flcb5QMz87EJZ/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Nothing-Lasts-Forever-Dusan-Simic/dp/B0CN9PX5J5/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/deeparocks/status/1997751015609913819"
+        },
+        {
+          "type": "other",
+          "url": "https://www.imdb.com/name/nm1161623/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=nHIGGdxZe64"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Graphic novel I’m reading",
+      "category": "book",
+      "title": "Tongues_, Volume 1",
+      "creator": "Anders Nilsen",
+      "note": ". This blew my mind. If you like the idea of something like [_Syriana_](https://www.rottentomatoes.com/m/syriana) + Greek mythology + beautiful bizarreness, this is for you. It’s hard for me to conceive of how Anders even made this. The art will transport you to another dimension, or perhaps into an altered state. The blurbs and coverage all sound something like this: “Mind-bendingly good. It’s up there with _Maus, Fun Home, Persepolis, Jimmy Corrigan_.” — Mark Haddon, author of _The Curious Incident of the Dog in the Night-Time_.\n\n​  \nThe 4.3 stars on Amazon makes no sense for anyone who explores graphic novels. Should be 4.8 minimum, IMHO. That said, it might resonate more if you’ve done copious amounts of drugs, so there is that!",
+      "original_url": "https://www.amazon.com/Tongues-1-Anders-Nilsen/dp/1524747203?tag=offsitoftimfe-20",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Tongues-1-Anders-Nilsen/dp/1524747203?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://www.andersbrekhusnilsen.com/about"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rottentomatoes.com/m/syriana"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Research I’m following",
+      "category": "research",
+      "title": "How Hungry Fat Cells Could Someday Starve Cancer to Death",
+      "creator": null,
+      "note": "(_UCSF News_). Here’s the punchline: “Scientists transformed energy-storing white fat cells into calorie-burning ‘beige’ fat. Once implanted, they outcompeted tumors for resources, beating back five different types of cancer in lab experiments.”",
+      "original_url": "https://www.ucsf.edu/news/2025/01/429411/how-hungry-fat-cells-could-someday-starve-cancer-death",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.ucsf.edu/news/2025/01/429411/how-hungry-fat-cells-could-someday-starve-cancer-death"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“We delight in the beauty of the butterfly but rarely admit the changes it has gone through to achieve that beauty.” — Maya Angelou (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my brand-new conversation with Bill Gurley on investing in the AI era, what he learned from spending 10 days in China, and life lessons from Bob Dylan, Jerry Seinfeld, MrBeast, and more. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Maya Angelou",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Maya_Angelou",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Maya_Angelou"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/Fr4bj"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/12/17/bill-gurley-running-down-a-dream/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

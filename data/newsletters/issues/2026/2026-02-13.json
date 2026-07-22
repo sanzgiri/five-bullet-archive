@@ -7,7 +7,226 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "telepatía",
+      "creator": "Kali Uchis For amping up: “Genesis”",
+      "note": "([Spotify](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B?dlsi=00c1a03fd820423f&nd=1&si=BQQgpJILTmmJQKSpBciKQA), [YouTube](https://www.youtube.com/watch?v=bn_p95HbHoQ)) by [Kali Uchis**​  \n​**](https://www.instagram.com/kaliuchis)**For amping up:  \n“**[**Genesis**](https://open.spotify.com/track/4wSmqFg31t6LsQWtzYAJob)**”** ([Spotify](https://open.spotify.com/track/4wSmqFg31t6LsQWtzYAJob), [YouTube](https://www.youtube.com/watch?v=VKzWLUQizz8)) by [Justice](https://www.instagram.com/etjusticepourtous/?hl=en)​",
+      "original_url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B?dlsi=00c1a03fd820423f&nd=1&si=BQQgpJILTmmJQKSpBciKQA",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B?dlsi=00c1a03fd820423f&nd=1&si=BQQgpJILTmmJQKSpBciKQA"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B?dlsi=00c1a03fd820423f&nd=1&si=BQQgpJILTmmJQKSpBciKQA"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=bn_p95HbHoQ"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/kaliuchis"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/4wSmqFg31t6LsQWtzYAJob"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/4wSmqFg31t6LsQWtzYAJob"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=VKzWLUQizz8"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/etjusticepourtous/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Wine I’m enjoying",
+      "category": "other",
+      "title": "Domaine Tempier’s Bandol Rosé",
+      "creator": null,
+      "note": "Despite all the anti-alcohol zeitgeist, I still enjoy sipping a glass of wine while cooking on the weekend. This rosé is bone-dry, savory, and nothing like sweet, grocery-store pink wine. Domaine Tempier is a family estate in Bandol on France’s Provence coast. In the early twentieth century, Lucien Peyraud and his wife Lulu built the domaine’s reputation by betting on [Mourvèdre](https://en.wikipedia.org/wiki/Mourv%C3%A8dre), a harder to grow grape. Fun fact for the foodies: Lulu [became a mentor](https://priorworld.com/editorial/alice-waters-lulu-peyraud-prior-wine) to legendary chef [Alice Waters](https://en.wikipedia.org/wiki/Alice_Waters) of Chez Panisse fame.",
+      "original_url": "https://www.wine-searcher.com/find/dom+tempier+rose+bandol+provence+france/1/usa-ny-y",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.wine-searcher.com/find/dom+tempier+rose+bandol+provence+france/1/usa-ny-y"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Mourv%C3%A8dre"
+        },
+        {
+          "type": "other",
+          "url": "https://priorworld.com/editorial/alice-waters-lulu-peyraud-prior-wine"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Alice_Waters"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Documentary I’m rewatching",
+      "category": "video",
+      "title": "Crip Camp: A Disability Revolution",
+      "creator": null,
+      "note": "This film was just what I needed after a rough day. Short description: “A groundbreaking summer camp galvanizes a group of teens with disabilities to help build a movement, forging a new path toward greater equality.” It has [100% on Rotten Tomatoes](https://www.rottentomatoes.com/m/crip_camp) and [won the Sundance Film Festival’s Audience Award](https://en.wikipedia.org/wiki/Crip_Camp#Awards_and_nominations) in 2020. You can [find the trailer here](youtube.com/watch?feature=youtu.be&si=A7J785Vw2eRvc93y&v=XRrIs22plz0).",
+      "original_url": "https://www.netflix.com/title/81001496",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.netflix.com/title/81001496"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rottentomatoes.com/m/crip_camp"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Crip_Camp#Awards_and_nominations"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Rabbit hole I’m exploring",
+      "category": "other",
+      "title": "savant syndrome",
+      "creator": null,
+      "note": ", whereby they exhibit savant skills after central nervous system (CNS) injury or disease, as distinguished from a person born with Autism Spectrum Disorder or other developmental disability.  \n​  \nHere is a partial list of documented cases—some controversial—from the Wikipedia entry on the broader [savant syndrome](https://en.wikipedia.org/wiki/Savant_syndrome):\n\n**•** [Alonzo Clemons](https://en.wikipedia.org/wiki/Alonzo_Clemons), American acquired savant sculptor  \n​**•** [Tony Cicoria](https://en.wikipedia.org/wiki/Tony_Cicoria), American acquired savant pianist and medical doctor  \n​**•** [Derek Amato](https://en.wikipedia.org/wiki/Derek_Amato), American acquired savant composer and pianist  \n​**•** [Patrick Fagerberg](https://en.wikipedia.org/wiki/Patrick_Fagerberg), American acquired savant artist, inventor, and former lawyer  \n​**•** [Orlando Serrell](https://en.wikipedia.org/wiki/Orlando_Serrell), American acquired savant  \n​**•** [Tommy McHugh](https://en.wikipedia.org/wiki/Tommy_McHugh), British acquired savant artist and poet",
+      "original_url": "https://en.wikipedia.org/wiki/Savant_syndrome",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Savant_syndrome"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Savant_syndrome"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Alonzo_Clemons"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Tony_Cicoria"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Derek_Amato"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Patrick_Fagerberg"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Orlando_Serrell"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Tommy_McHugh"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "What I’m excited to share",
+      "category": "other",
+      "title": "Coyote is the card game",
+      "creator": null,
+      "note": "that I co-created with Exploding Kittens. It won the _Pop Insider_ “Best Geeky Game” of 2025 and also “Best Stocking Filler” in the MadeForMums Toy Awards 2025 (UK). The game is available at [Amazon](https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/?tag=offsitoftimfe-20), [Target](https://www.target.com/p/exploding-kittens-coyote-card-game/-/A-94284795#lnk=sametab), [Walmart](https://www.walmart.com/ip/Coyote-Scramble/14312603259), [Exploding Kittens](https://www.explodingkittens.com/products/coyote), and more, but I wanted to make it available for free to those who can’t afford it, or who can’t buy it in their countries.  \n​  \nHere’s how to print out the deck:  \n​  \n​**1.** [Click here to download](https://drive.google.com/file/d/1eF-uwVnPwansbj9PucwZA7df7XlyTgbS/view?usp=sharing) the print-to-play PDF file and [click here to download](https://drive.google.com/file/d/1k5sRzW3__DvHfGBtonfCajRr4pT4AxNk/view?usp=sharing) the instructions.\n\n**2.** You will need a total of 67 standard-sized playing cards (2.5\" x 3.5\"). [Here is one option for getting it done](https://www.amazon.com/Apostrophe-Games-Blank-Playing-Finish/dp/B01H4CZQ14/?tag=offsitoftimfe-20), unless you already have enough cards at home that you are no longer playing with. You can also print on regular or stock paper and cut out the cards.\n\n**3.** Purchase [this Avery label template](https://www.avery.com/products/name-badges/25395) (#25395, 2-1/3\" x 3-3/8\", 80 name badges, 8 per sheet).\n\n**4.** Put the Avery templates in your printer.\n\n**5.** Print [the cards PDF file](https://drive.google.com/file/d/1eF-uwVnPwansbj9PucwZA7df7XlyTgbS/view?usp=sharing). We suggest doing a test run with one page.\n\n**6.** Once printed, put each label on each playing card.\n\n**7\\.** Print [the instructions PDF](https://drive.google.com/file/d/1k5sRzW3__DvHfGBtonfCajRr4pT4AxNk/view?usp=sharing).  \n​  \nEnjoy!",
+      "original_url": "https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/?tag=offsitoftimfe-20",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://www.target.com/p/exploding-kittens-coyote-card-game/-/A-94284795#lnk=sametab"
+        },
+        {
+          "type": "other",
+          "url": "https://www.walmart.com/ip/Coyote-Scramble/14312603259"
+        },
+        {
+          "type": "other",
+          "url": "https://www.explodingkittens.com/products/coyote"
+        },
+        {
+          "type": "other",
+          "url": "https://drive.google.com/file/d/1eF-uwVnPwansbj9PucwZA7df7XlyTgbS/view?usp=sharing"
+        },
+        {
+          "type": "other",
+          "url": "https://drive.google.com/file/d/1k5sRzW3__DvHfGBtonfCajRr4pT4AxNk/view?usp=sharing"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Apostrophe-Games-Blank-Playing-Finish/dp/B01H4CZQ14/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://www.avery.com/products/name-badges/25395"
+        },
+        {
+          "type": "other",
+          "url": "https://drive.google.com/file/d/1eF-uwVnPwansbj9PucwZA7df7XlyTgbS/view?usp=sharing"
+        },
+        {
+          "type": "other",
+          "url": "https://drive.google.com/file/d/1k5sRzW3__DvHfGBtonfCajRr4pT4AxNk/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Spirituality is not just about finding quiet in a noisy world. It is about finding the sacred in the mundane.” — Tara Mohr (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my brand-new podcast episode with Jordan Jonas, winner of Alone_’s Season 6, on the art of survival, lessons from nomadic tribes, hardship as the path to peace, how to handle rogue wolverines, and much, much more. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Tara Mohr",
+      "note": null,
+      "original_url": "https://www.taramohr.com/about-tara/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.taramohr.com/about-tara/"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/UpN88"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/02/11/jordan-jonas/%20?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

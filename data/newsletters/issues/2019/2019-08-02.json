@@ -6,7 +6,99 @@
     "gmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": false,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to for writing —",
+      "category": "podcast",
+      "title": "\"Hit The Decks\" by Cirrus",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/4zuqg6k6w4tehr9k75ud/qgi8h7h4p8m0rz/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3RyYWNrLzJPbUg5R00zdFM3V1NtaWIwUVRBR2s=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/4zuqg6k6w4tehr9k75ud/qgi8h7h4p8m0rz/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3RyYWNrLzJPbUg5R00zdFM3V1NtaWIwUVRBR2s="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "(Dangerous) water toy I’m playing with —",
+      "category": "other",
+      "title": "Waboba Pro water bouncing ball",
+      "creator": null,
+      "note": "Be careful and start slow! This travels like a skipping stone in ocean whitewash or the pool, and it bounces much farther than you’d expect. Ensure no one is behind you or your partner, and remember the boxing maxim: keep your hands up.",
+      "original_url": "https://el2.fourhourmail.com/c/4zuqg6k6w4tehr9k75ud/97fzhnh6rgvlpw/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9XYWJvYmEtUHJvLVdhdGVyLUJvdW5jaW5nLUJhbGwvZHAvQjAwNDQ3ODRJMA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/4zuqg6k6w4tehr9k75ud/97fzhnh6rgvlpw/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9XYWJvYmEtUHJvLVdhdGVyLUJvdW5jaW5nLUJhbGwvZHAvQjAwNDQ3ODRJMA=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "My new, improvised work spaces —",
+      "category": "other",
+      "title": "office",
+      "creator": null,
+      "note": "and “[podcast studio](https://el2.fourhourmail.com/c/4zuqg6k6w4tehr9k75ud/w6c2hghk6r23wp/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0IwZ2tuUXVIN0t4Lw==)” were popular on social this week, and it took me a while to get them dialed in. For those asking in the comments, you can find my podcast gear [on this page](https://el2.fourhourmail.com/c/4zuqg6k6w4tehr9k75ud/0kswh9h9rm6kd6/aHR0cHM6Ly90aW0uYmxvZy9wb2RjYXN0LWdlYXIvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg==).",
+      "original_url": "https://el2.fourhourmail.com/c/4zuqg6k6w4tehr9k75ud/nmtohvhx0n9k30/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0IwZU1sSGFIMkxkLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/4zuqg6k6w4tehr9k75ud/nmtohvhx0n9k30/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0IwZU1sSGFIMkxkLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zuqg6k6w4tehr9k75ud/w6c2hghk6r23wp/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0IwZ2tuUXVIN0t4Lw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zuqg6k6w4tehr9k75ud/0kswh9h9rm6kd6/aHR0cHM6Ly90aW0uYmxvZy9wb2RjYXN0LWdlYXIvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Deathwatch for the Amazon: Brazil has the power to save Earth’s greatest forest—or destroy it",
+      "creator": null,
+      "note": "(The Economist). This just came out yesterday, August 1st, and it is excellent. I'll share another piece I'm reading on the same topic in the NYT, as the NYT doesn't automatically require an account signup to read the full article. Pro tip: if you've hit your limit for free NYT articles, try switching your browser.\n\n[Under Brazil’s Far-Right Leader, Amazon Protections Slashed and Forests Fall](https://el2.fourhourmail.com/c/4zuqg6k6w4tehr9k75ud/edhph7hlok320d/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAxOS8wNy8yOC93b3JsZC9hbWVyaWNhcy9icmF6aWwtZGVmb3Jlc3RhdGlvbi1hbWF6b24tYm9sc29uYXJvLmh0bWw=) (The New York Times). This is very important. How it is resolved, or not, will almost certainly affect the entire planet. Below are three excerpts to give you a flavor:\n\nDuring a recent visit, Germany’s minister of economic cooperation and development, Gerd Müller, called protecting the Amazon a global imperative, especially given the rain forest’s vital role in absorbing and storing carbon dioxide, essential to the effort to slow global warming. And when trees are cut, burned or bulldozed, carbon dioxide goes directly back into the atmosphere.\n...\n“We’re facing the risk of runaway deforestation in the Amazon,” eight former environment ministers in Brazil wrote in a joint letter in May, arguing that Brazil needed to strengthen its environmental protection measures, not weaken them.\n...\n“Without tropical rain forests, there’s no solving the climate” issue, Mr. Müller said during an event in São Paulo.\n\nWhat actions or counter-measures do you think might help mitigate this deforestation, whether by individuals (Brazilian, American, or otherwise) or the US administration? Please [let me know on Twitter](https://el2.fourhourmail.com/c/4zuqg6k6w4tehr9k75ud/ozukhqh6d4m7re/aHR0cDovL3R3aXR0ZXIuY29tL3RmZXJyaXNz), using #planetarythreat, which will allow me to find your answers.",
+      "original_url": "https://el2.fourhourmail.com/c/4zuqg6k6w4tehr9k75ud/vma3hrhvrn9dpz/aHR0cHM6Ly93d3cuZWNvbm9taXN0LmNvbS9sZWFkZXJzLzIwMTkvMDgvMDEvZGVhdGh3YXRjaC1mb3ItdGhlLWFtYXpvbg==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/4zuqg6k6w4tehr9k75ud/vma3hrhvrn9dpz/aHR0cHM6Ly93d3cuZWNvbm9taXN0LmNvbS9sZWFkZXJzLzIwMTkvMDgvMDEvZGVhdGh3YXRjaC1mb3ItdGhlLWFtYXpvbg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zuqg6k6w4tehr9k75ud/edhph7hlok320d/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAxOS8wNy8yOC93b3JsZC9hbWVyaWNhcy9icmF6aWwtZGVmb3Jlc3RhdGlvbi1hbWF6b24tYm9sc29uYXJvLmh0bWw="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zuqg6k6w4tehr9k75ud/ozukhqh6d4m7re/aHR0cDovL3R3aXR0ZXIuY29tL3RmZXJyaXNz"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Destroying rainforest for economic gain is like burning a Renaissance painting to cook a meal.” ― E. O. Wilson",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/4zuqg6k6w4tehr9k75ud/p3ieh9h2o9wlzv/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRS5fTy5fV2lsc29u",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/4zuqg6k6w4tehr9k75ud/p3ieh9h2o9wlzv/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRS5fTy5fV2lsc29u"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,127 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m using —",
+      "category": "other",
+      "title": "Downloading Google Maps areas for offline usage",
+      "creator": null,
+      "note": "For offline city exploration, whether wandering without a data plan or simply taking a break from online addiction, this is a simple approach that works. Be forewarned that it will only give you _driving_ directions, so you’ll need to guesstimate the best walking routes. [Here’s how to test it out](https://support.google.com/maps/answer/6291838?hl=en&co=GENIE.Platform%3DiOS).",
+      "original_url": "https://support.google.com/maps/answer/6291838?hl=en&co=GENIE.Platform%3DiOS",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://support.google.com/maps/answer/6291838?hl=en&co=GENIE.Platform%3DiOS"
+        },
+        {
+          "type": "other",
+          "url": "https://support.google.com/maps/answer/6291838?hl=en&co=GENIE.Platform%3DiOS"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "book",
+      "title": "The Last of the Mohicans: A Narrative of 1757",
+      "creator": "James Fenimore Cooper",
+      "note": ". I absolutely LOVED this book, which I just finished yesterday. First published in 1826, the story and characters still come vibrantly to life in these pages. The poetic and over-the-top language of Cooper evokes beauty, horror, and hilarity in equal measure. This is an old book and certainly not politically correct by today’s standards, but it contains moving tales of love and loyalty that transcend race, gender, and creed. It’s one hell of a novel.  \n  \nFrom the back cover (and edited to remove some spoilers): “A massacre at a colonial garrison, the kidnapping of two pioneer sisters by Iroquois tribesmen, the treachery of a renegade brave, and the ambush of innocent settlers create an unforgettable, spine-tingling picture of American frontier life in this classic 18th-century adventure—the most popular of James Fenimore Cooper’s _Leatherstocking Tales_.\n\nFirst published in 1826, the story—set in the forests of upper New York State during the French and Indian War—movingly portrays the relationship between Hawkeye, a gallant, courageous woodsman, and his loyal Mohican friends, Chingachgook and Uncas. ...\n\nImaginative and innovative, _The Last of the Mohicans_ quickly became the most widely read work of the day, solidifying the popularity of America’s first successful novelist in the United States and Europe.”\n\nNote that the Kindle version I read contains a few dialogues in French without English translations, but this hiccup has little effect on the story. You can slog through it like a _Yengeese_ (you’ll learn all about that term) and still be rewarded with a page-turner of an adventure.",
+      "original_url": "https://www.amazon.com/gp/product/B0083ZXXIA/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/gp/product/B0083ZXXIA/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/James_Fenimore_Cooper"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Song I’m listening to —",
+      "category": "music",
+      "title": "Puente",
+      "creator": "Chancha Vía Circuito",
+      "note": "([YouTube](https://www.youtube.com/watch?v=RuA4vuBp344), [Spotify](https://open.spotify.com/track/1AolHkT2QxjfORIgO74vmi)) by [Chancha Vía Circuito](https://en.wikipedia.org/wiki/Chancha_V%C3%ADa_Circuito) ([@chancha\\_via\\_circuito](https://www.instagram.com/chancha_via_circuito/?hl=en)) [From Wikipedia](https://en.wikipedia.org/wiki/Chancha_V%C3%ADa_Circuito): “Pedro Canale, better known as his stage name Chancha Vía Circuito, is a producer, DJ/remixer, and composer from Greater Buenos Aires, Argentina. Fusion of electronic music and cumbia is a key factor of Chancha Vía Circuito’s music. He explores the minimal side of digital cumbia with inspiration from Afro-dance, murgas, minimal dub, IDM, and downtempo.”",
+      "original_url": "https://www.youtube.com/watch?v=RuA4vuBp344",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=RuA4vuBp344"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=RuA4vuBp344"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/1AolHkT2QxjfORIgO74vmi"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Chancha_V%C3%ADa_Circuito"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/chancha_via_circuito/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Chancha_V%C3%ADa_Circuito"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m studying —",
+      "category": "other",
+      "title": "The Bauhaus Curriculum",
+      "creator": null,
+      "note": "[**Click here**](https://www.getty.edu/research/exhibitions_events/exhibitions/bauhaus/new_artist/history/principles_curriculum/) **for an English version of the diagram**, plus an overview of Bauhaus principles and curriculum. I discovered this via [Neri Oxman of MIT](https://oxman.com/#about-neri-oxman), and you can hear her discussions of the Bauhaus wheel, as well as her newer adaptation, [here on YouTube](https://www.youtube.com/watch?v=_reMQz4lDFo&t=382s).",
+      "original_url": "https://www.bauhaus.de/en/das_bauhaus/45_unterricht/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.bauhaus.de/en/das_bauhaus/45_unterricht/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.getty.edu/research/exhibitions_events/exhibitions/bauhaus/new_artist/history/principles_curriculum/"
+        },
+        {
+          "type": "other",
+          "url": "https://oxman.com/#about-neri-oxman"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=_reMQz4lDFo&t=382s"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“A writer—and, I believe, generally all persons—must think that whatever happens to him or her is a resource. All things have been given to us for a purpose, and an artist must feel this more intensely. All that happens to us, including our humiliations, our misfortunes, our embarrassments, all is given to us as raw material, as clay, so that we may shape our art.”— Jorge Luis Borges And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "and, I believe, generally all persons—must think that whatever happens to him or her is a resource. All things have been given to us for a purpose, and an artist must feel this more intensely. All that happens to us, including our humiliations, our misfortunes, our embarrassments, all is given to us as raw material, as clay, so that we may shape our art.”— Jorge Luis Borges And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Jorge_Luis_Borges",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Jorge_Luis_Borges"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -7,7 +7,191 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Article I’m reading (longer option; shorter option at fourth bullet) —",
+      "category": "article",
+      "title": "Michelin restaurants and fabulous wines: Inside the secret team dinners that have built the Spurs' dynasty",
+      "creator": null,
+      "note": "(**[**@espn**](https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/opfkhqhke3rv9w/aHR0cHM6Ly90d2l0dGVyLmNvbS9lc3Bu)**).** This piece is FANTASTIC. It is wonderfully written and full of takeaways, if you read carefully. Hat tip to [@bakerlink](https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/pxteh9h3ekz06g/aHR0cHM6Ly90d2l0dGVyLmNvbS9iYWtlcmxpbms=) for the recommendation. Here’s a short teaser from the beginning:  \n\n> “As much as \\[Coach\\] Popovich knows about hoops, he really knows food and wine. ‘I don't know that he doesn't know more about wine than he does about basketball,’ former Spurs assistant coach P.J. Carlesimo says. Popovich scouts restaurants and wine lists as obsessively as he might any opponent. Before games, in his office, he can be found watching the Food Network. Sommeliers and restaurateurs claim to owe their careers to the man.… As absurd as it seems, one of the greatest basketball coaches in history might be more revered in the culinary world.”\n\nRead the whole thing, as the ending is killer.\n\nCoach Popovich has been on my mind as a possible podcast guest for years. This piece just reinforces the interest, but I know how much he dislikes most media. Perhaps some day…",
+      "original_url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/e9iph7hpz90gv0/aHR0cDovL3d3dy5lc3BuLmNvbS9uYmEvc3RvcnkvXy9pZC8yNjUyNDYwMC9zZWNyZXQtdGVhbS1kaW5uZXJzLWJ1aWx0LXNwdXJzLWR5bmFzdHk=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/e9iph7hpz90gv0/aHR0cDovL3d3dy5lc3BuLmNvbS9uYmEvc3RvcnkvXy9pZC8yNjUyNDYwMC9zZWNyZXQtdGVhbS1kaW5uZXJzLWJ1aWx0LXNwdXJzLWR5bmFzdHk="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/opfkhqhke3rv9w/aHR0cHM6Ly90d2l0dGVyLmNvbS9lc3Bu"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/pxteh9h3ekz06g/aHR0cHM6Ly90d2l0dGVyLmNvbS9iYWtlcmxpbms="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Documentary I’m watching again —",
+      "category": "video",
+      "title": "Kumare",
+      "creator": null,
+      "note": "This is one of my favorite documentaries of the last five years. The tagline says it all: “The True Story of a False Prophet.” It blends reality and illusion into an amazing narrative, providing many practical philosophies along the way. Here’s the official description: “A provocative social experiment-turned-documentary, KUMARE follows American filmmaker Vikram Gandhi as he transforms himself into a wise Indian guru, hoping to prove the absurdity of blind faith.”",
+      "original_url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/6mceh8hk4v7gro/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9LdW1hcmUtVmlrcmFtLUdhbmRoaS9kcC9CMDBBTUJIMTFJL3JlZj10bW1fYWl2X3N3YXRjaF8xP19lbmNvZGluZz1VVEY4JnFpZD0mc3I9",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/6mceh8hk4v7gro/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9LdW1hcmUtVmlrcmFtLUdhbmRoaS9kcC9CMDBBTUJIMTFJL3JlZj10bW1fYWl2X3N3YXRjaF8xP19lbmNvZGluZz1VVEY4JnFpZD0mc3I9"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“If we can forgive what's been done to us... If we can forgive what we've done to others... If we can leave our stories behind. Our being victims and villains. Only then can we maybe rescue the world.” — Chuck Palahniuk",
+      "creator": "Chuck Palahniuk",
+      "note": null,
+      "original_url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/5osvh7hvwpm8xl/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQ2h1Y2tfUGFsYWhuaXVr",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/5osvh7hvwpm8xl/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQ2h1Y2tfUGFsYWhuaXVr"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Another article I’m reading (short) —",
+      "category": "article",
+      "title": "Psychiatry’s Incurable Hubris: The biology of mental illness is still a mystery, but practitioners don’t want to admit it.",
+      "creator": "Gary Greenberg",
+      "note": "(**[**@TheAtlantic**](https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/99bzhnhq8kpmw0/aHR0cHM6Ly90d2l0dGVyLmNvbS9UaGVBdGxhbnRpYw==)**)** by [Gary Greenberg](https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/ndhohvh84w3pqq/aHR0cHM6Ly93d3cuZ2FyeWdyZWVuYmVyZ29ubGluZS5jb20v). This quick read came highly recommended, and it didn’t disappoint. The article describes important blindspots and “inconvenient truths” in psychiatry, which often apply to broader medicine. That said, I do find the headline overly sweeping, as I know all-star psychiatrists who are both extremely effective and well aware of the limitations of their tools. Let us not forget: ALL tools have limitations. It’s a matter of knowing what they are so you don’t fool — or hurt — yourself or others.",
+      "original_url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/qea8h7h73gr5we/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL21hZ2F6aW5lL2FyY2hpdmUvMjAxOS8wNC9taW5kLWZpeGVycy1hbm5lLWhhcnJpbmd0b24vNTgzMjI4Lw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/qea8h7h73gr5we/aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL21hZ2F6aW5lL2FyY2hpdmUvMjAxOS8wNC9taW5kLWZpeGVycy1hbm5lLWhhcnJpbmd0b24vNTgzMjI4Lw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/99bzhnhq8kpmw0/aHR0cHM6Ly90d2l0dGVyLmNvbS9UaGVBdGxhbnRpYw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/ndhohvh84w3pqq/aHR0cHM6Ly93d3cuZ2FyeWdyZWVuYmVyZ29ubGluZS5jb20v"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "A few things I’m very excited to be involved with —",
+      "category": "other",
+      "title": "Imperial College London just launched the world’s first Centre for Psychedelics Research",
+      "creator": null,
+      "note": "This is a very big deal. Never before has such a center (centre = British spelling) existed in the world, and I am [one of the five founding funders](https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/0xiwh9ho40d5e5/aHR0cHM6Ly93d3cuYnVzaW5lc3NpbnNpZGVyLmNvbS90aW0tZmVycmlzcy1maXJzdC1wc3ljaGVkZWxpYy1yZXNlYXJjaC1jZW50ZXItbGF1bmNoZXMtaW1wZXJpYWwtbG9uZG9uLTIwMTktNA==) backing it. Psychedelic medicine is experiencing a renaissance of scientific interest, and this first-ever center has the potential to be the tip of the spear. These compounds may help treat so-called “intractable” conditions affecting tens of millions of people, and they may help us better understand the nature of consciousness itself. [Here’s the 2.5-minute promo video](https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/vlf3hrhx62p709/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1qVGJoY25rR0t0UQ==), which gives you a taste of things (and studies) to come.  \n  \n**If you’re involved with media/journalism and would like to learn more about the center to feature it, please reach out directly to** [**Dr. Robin Carhart-Harris**](https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/mpt7h5hgxk8p5d/aHR0cHM6Ly93d3cuaW1wZXJpYWwuYWMudWsvcGVvcGxlL3IuY2FyaGFydC1oYXJyaXM=)**.** This is very significant news, a big win for Imperial, and a watershed moment for the field as a whole.\n\nRelated: Their team is [recruiting participants](https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/e4cph7hpz90gvr/aHR0cHM6Ly93d3cuaW1wZXJpYWwuYWMudWsvZGVwYXJ0bWVudC1vZi1tZWRpY2luZS9yZXNlYXJjaC9icmFpbi1zY2llbmNlcy9wc3ljaGlhdHJ5L3BzeWNoZWRlbGljcy8=) for a study evaluating psilocybin for major depression. It is exclusively limited to UK residents, and other criteria apply. [Click here and scroll down the page](https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/7xs7h8hkevo7ln/aHR0cHM6Ly93d3cuaW1wZXJpYWwuYWMudWsvZGVwYXJ0bWVudC1vZi1tZWRpY2luZS9yZXNlYXJjaC9icmFpbi1zY2llbmNlcy9wc3ljaGlhdHJ5L3BzeWNoZWRlbGljcy8=) to find more details.\n\n**\\*\\*\\***[**Marc Gunther**](https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/p2aeh9h3ekz06e/aHR0cHM6Ly90d2l0dGVyLmNvbS9tYXJjZ3VudGhlcg==) **just authored the first-ever article on psychedelic science in the** **_Chronicle of Philanthropy_** **(**[**@philanthropy**](https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/67beh8hk4v7grq/aHR0cHM6Ly90d2l0dGVyLmNvbS9QaGlsYW50aHJvcHk=)**)**, the magazine of record for foundation directors and other philanthropic decision makers. It details some of the opportunities and philanthropists in the space, including unexpected players like the Rockefeller family, conservative activist Rebekah Mercer, and the foundation of Nick Pritzker, a venture capitalist and the former president of the Hyatt hotel chain. I appear a few times and make statements like these: “This is my number-one priority. I have seen lives saved by these compounds, not once, not twice, but dozens of times…. Scientific studies \\[like these\\] can really bend the arc of history.\" Here is the full article: **\"****[A Psychedelic Renaissance: Hallucinogens hold great promise in treating PTSD, depression, and addiction. But government won’t pay for the research. That’s where philanthropists come in](https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/5whvh7hvwpm82p/aHR0cHM6Ly9iaXQubHkvMlVSZnJMag==)****.\"**\n\n**\\*\\*\\*I just returned home from the Milken Institute 2019 Global Conference, where I moderated a panel in front of a standing-room-only crowd:** [**Psychedelics: Mind-Enhancing Methods to Well-Being**](https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/qwu8h7h73gr5p7/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj04UklWUURaSDRRNCZmZWF0dXJlPXlvdXR1LmJl)**.** **The entire video can be found** [**here**](https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/gginh5hd2735wd/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj04UklWUURaSDRRNCZmZWF0dXJlPXlvdXR1LmJl)**.** If interested in my personal goals and thinking about the space, [check out the first two minutes](https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/9xfzhnhq8kpmrq/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj04UklWUURaSDRRNCZmZWF0dXJlPXlvdXR1LmJl). The panelists then provide a great overview of the science, investing opportunities, anecdotal personal benefits, legal challenges, and much more. I think it’s one of the more comprehensive panels ever done on the subject. Here are the participants:\n\n-   [**Matthew Johnson**](https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/w3t2hgh5d9wp6v/aHR0cHM6Ly93d3cuaG9wa2luc21lZGljaW5lLm9yZy9wcm9maWxlcy9yZXN1bHRzL2RpcmVjdG9yeS9wcm9maWxlLzA4MDAwMjAvbWF0dGhldy1qb2huc29u), Associate Professor, Department of Psychiatry and Behavioral Sciences, Johns Hopkins University School of Medicine  \n      \n    \n-   [**Robin Carhart-Harris**](https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/53cvh7hvwpm8xr/aHR0cHM6Ly93d3cuaW1wZXJpYWwuYWMudWsvcGVvcGxlL3IuY2FyaGFydC1oYXJyaXM=), Head of Psychedelic Research, Centre for Psychedelic Research, Department of Brain Sciences, Imperial College London  \n      \n    \n-   [**Ayelet Waldman**](https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/lm2sehmh0p5397o/aHR0cDovL3d3dy5heWVsZXR3YWxkbWFuLmNvbS8=), Author, \"[A Really Good Day: How Microdosing Made a Mega Difference in My Mood, My Marriage, and My Life](https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/d00aeh0h4xz0gn0/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9SZWFsbHktR29vZC1EYXktTWljcm9kb3NpbmctRGlmZmVyZW5jZS9kcC8wNDUxNDk0MDkx)”  \n      \n    \n-   [**Christian Angermayer**](https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/758b7h8hkevo759/aHR0cHM6Ly90d2l0dGVyLmNvbS9jX2FuZ2VybWF5ZXI=), Founder, Apeiron Investment Group\n\n[![](https://convertkit.s3.amazonaws.com/assets/pictures/11125/2112945/content_Screenshot_2019-05-02_14.24.15.png)](https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/0vphwh9ho40d5ro/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj04UklWUURaSDRRNCZmZWF0dXJlPXlvdXR1LmJl)  \n\nPhew! Big week!\n\nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just [send a tweet to @tferriss](https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/xm4uph6hrm8w603/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==) and put #5BulletFriday at the end so I can find it.  \n\nHave a wonderful weekend, all!  \n\nTim  \n\n[](https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/k05imh6hdpglqv4/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Vc2UtUG9ldHJ5LUNyaXRpY2lzbS1SZWxhdGlvbi1MZWN0dXJlcy9kcC8wNjc0OTMxNTA1)\n\n[![](https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg)](https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/27df2hohvxr2zwl/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=)  \n\nFORWARDED THIS MESSAGE? [SIGN UP](https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/gkptnh5hd2735wr/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ==).\n\n![Tim Ferriss Photo](http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg)\n\nJoin millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff.\n\nDUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just [click here](https://el2.convertkit-mail2.com/u/v8ur85neeurhndw0k). To reply to Tim, please do so in the blog comments [here](https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/xmlsph6hrm8w627/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU=).\n\n3112 Windsor Rd., Box #UNS, Austin TX 78703, United States\n\n \n\n![](https://el2.convertkit-mail2.com/o/v8ur85neeurhndw0k)",
+      "original_url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/wgu2hgh5d9wp76/aHR0cHM6Ly93d3cuaW1wZXJpYWwuYWMudWsvbmV3cy8xOTA5OTQvaW1wZXJpYWwtbGF1bmNoZXMtd29ybGRzLWZpcnN0LWNlbnRyZS1wc3ljaGVkZWxpY3Mv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/wgu2hgh5d9wp76/aHR0cHM6Ly93d3cuaW1wZXJpYWwuYWMudWsvbmV3cy8xOTA5OTQvaW1wZXJpYWwtbGF1bmNoZXMtd29ybGRzLWZpcnN0LWNlbnRyZS1wc3ljaGVkZWxpY3Mv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/0xiwh9ho40d5e5/aHR0cHM6Ly93d3cuYnVzaW5lc3NpbnNpZGVyLmNvbS90aW0tZmVycmlzcy1maXJzdC1wc3ljaGVkZWxpYy1yZXNlYXJjaC1jZW50ZXItbGF1bmNoZXMtaW1wZXJpYWwtbG9uZG9uLTIwMTktNA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/vlf3hrhx62p709/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1qVGJoY25rR0t0UQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/mpt7h5hgxk8p5d/aHR0cHM6Ly93d3cuaW1wZXJpYWwuYWMudWsvcGVvcGxlL3IuY2FyaGFydC1oYXJyaXM="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/e4cph7hpz90gvr/aHR0cHM6Ly93d3cuaW1wZXJpYWwuYWMudWsvZGVwYXJ0bWVudC1vZi1tZWRpY2luZS9yZXNlYXJjaC9icmFpbi1zY2llbmNlcy9wc3ljaGlhdHJ5L3BzeWNoZWRlbGljcy8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/7xs7h8hkevo7ln/aHR0cHM6Ly93d3cuaW1wZXJpYWwuYWMudWsvZGVwYXJ0bWVudC1vZi1tZWRpY2luZS9yZXNlYXJjaC9icmFpbi1zY2llbmNlcy9wc3ljaGlhdHJ5L3BzeWNoZWRlbGljcy8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/p2aeh9h3ekz06e/aHR0cHM6Ly90d2l0dGVyLmNvbS9tYXJjZ3VudGhlcg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/67beh8hk4v7grq/aHR0cHM6Ly90d2l0dGVyLmNvbS9QaGlsYW50aHJvcHk="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/5whvh7hvwpm82p/aHR0cHM6Ly9iaXQubHkvMlVSZnJMag=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/qwu8h7h73gr5p7/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj04UklWUURaSDRRNCZmZWF0dXJlPXlvdXR1LmJl"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/gginh5hd2735wd/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj04UklWUURaSDRRNCZmZWF0dXJlPXlvdXR1LmJl"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/9xfzhnhq8kpmrq/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj04UklWUURaSDRRNCZmZWF0dXJlPXlvdXR1LmJl"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/w3t2hgh5d9wp6v/aHR0cHM6Ly93d3cuaG9wa2luc21lZGljaW5lLm9yZy9wcm9maWxlcy9yZXN1bHRzL2RpcmVjdG9yeS9wcm9maWxlLzA4MDAwMjAvbWF0dGhldy1qb2huc29u"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/53cvh7hvwpm8xr/aHR0cHM6Ly93d3cuaW1wZXJpYWwuYWMudWsvcGVvcGxlL3IuY2FyaGFydC1oYXJyaXM="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/lm2sehmh0p5397o/aHR0cDovL3d3dy5heWVsZXR3YWxkbWFuLmNvbS8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/d00aeh0h4xz0gn0/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9SZWFsbHktR29vZC1EYXktTWljcm9kb3NpbmctRGlmZmVyZW5jZS9kcC8wNDUxNDk0MDkx"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/758b7h8hkevo759/aHR0cHM6Ly90d2l0dGVyLmNvbS9jX2FuZ2VybWF5ZXI="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/2112945/content_Screenshot_2019-05-02_14.24.15.png"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/xm4uph6hrm8w603/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/gkptnh5hd2735wr/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/u/v8ur85neeurhndw0k"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/v8ur85neeurhndw0k/xmlsph6hrm8w627/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

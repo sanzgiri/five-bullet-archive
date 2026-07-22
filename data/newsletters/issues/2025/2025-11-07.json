@@ -7,7 +7,159 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short instructional video I’m watching",
+      "category": "video",
+      "title": "Standard Omelet vs. Classic French Omelet",
+      "creator": "Jacques Pépin",
+      "note": ". The living legend. Jacques’ bio is unreal, and his eloquent and no-BS approach to teaching was an inspiration when I was working on [_The 4-Hour Chef_](https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/). This recent video of Jacques shows him in fine form at almost 90 years of age!",
+      "original_url": "https://www.youtube.com/watch?v=viUNdDENnDU",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=viUNdDENnDU"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Jacques_P%C3%A9pin"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Podcast discovery that I’m loving",
+      "category": "podcast",
+      "title": "Etta",
+      "creator": null,
+      "note": "([Apple Podcasts](https://podcasts.apple.com/us/podcast/59-etta/id1150800298?i=1000727082674), [Spotify](https://open.spotify.com/episode/1hfEixSfYUtkFWdXmDr1x2?si=epSts4bVRpmu52BoHJ06MA)) on [_Heavyweight_](https://www.pushkin.fm/podcasts/heavyweight) by [Jonathan Goldstein](https://www.pushkin.fm/hosts/jonathan-goldstein) and team. Huge thanks to LK for the recommendation! This is one of the best podcasts that I’ve found this year. I’ve been blown away by the writing, which is clever, hilarious, and deep in equal measure. The below might sound boring, but I promise you that it’s anything but. Give it 10 minutes, and you’ll see what I mean.  \n​  \nEpisode description: “Gregor’s parents are pushing 90. Gregor wants to move them out of their big Victorian home. But they refuse. So, he’s come up with a bold plan.”  \n​  \nFrom [Wikipedia](https://en.wikipedia.org/wiki/Heavyweight_(podcast)):  \n​  \n​_Over the years,_ Heavyweight _has appeared on numerous critics’ lists as one of the best podcasts in the industry. The show was named the Number One podcast of 2016 by_ The Atlantic_, one of the best podcasts of 2019 by_ The Economist_, and one of the best podcasts of 2023 by_ The Week _and_ The New York Times_._",
+      "original_url": "https://www.pushkin.fm/podcasts/heavyweight/59-etta",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.pushkin.fm/podcasts/heavyweight/59-etta"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/59-etta/id1150800298?i=1000727082674"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/1hfEixSfYUtkFWdXmDr1x2?si=epSts4bVRpmu52BoHJ06MA"
+        },
+        {
+          "type": "other",
+          "url": "https://www.pushkin.fm/podcasts/heavyweight"
+        },
+        {
+          "type": "other",
+          "url": "https://www.pushkin.fm/hosts/jonathan-goldstein"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Heavyweight_(podcast"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Mr. McMahon",
+      "creator": null,
+      "note": "I’ve long been fascinated by the business and art of professional wrestling. Pair this bullet with [the _Business Wars_ episode](https://wondery.com/shows/business-wars/episode/5296-encore-wwf-vs-wcw-down-for-the-count/) on Vince McMahon vs. Ted Turner and my podcast with [Paul “Triple H” Levesque](https://tim.blog/2015/04/20/triple-h/%20?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit). All that aside, nothing prepared me for the Wild West entrepreneurship, brutality, and storytelling of this Netflix docuseries. Even if you don’t have time for the series, check out the trailer [here](https://www.youtube.com/watch?v=fwKm7WM_P8E).  \n​  \nHere’s the official description: “_Mr. McMahon_ chronicles the rise and fall of Vince McMahon, controversial businessman and co-founder of WWE. From his transformation of the WWE from a small, regional business into a global entertainment powerhouse to the explosive sexual misconduct allegations that led to his eventual resignation, this six-episode series offers a deep dive into McMahon’s life and his enduring franchise. Culled from over 200 hours of interviews with McMahon himself (prior to his resignation), his family members, business associates and some of the most iconic names in wrestling history, as well as the journalists who uncovered McMahon’s allegations — filmmaker [Chris Smith](https://en.wikipedia.org/wiki/Chris_Smith_(filmmaker)) ([_Tiger King_](https://www.netflix.com/title/81115994)) and executive producer [Bill Simmons](https://en.wikipedia.org/wiki/Bill_Simmons) ([_30 for 30_](https://en.wikipedia.org/wiki/30_for_30)) present an unflinching, no-holds-barred look at one of the most enigmatic figures in sports entertainment.”",
+      "original_url": "https://www.netflix.com/watch/81179222?trackId=155573560",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.netflix.com/watch/81179222?trackId=155573560"
+        },
+        {
+          "type": "other",
+          "url": "https://wondery.com/shows/business-wars/episode/5296-encore-wwf-vs-wcw-down-for-the-count/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/04/20/triple-h/%20?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=fwKm7WM_P8E"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Chris_Smith_(filmmaker"
+        },
+        {
+          "type": "other",
+          "url": "https://www.netflix.com/title/81115994"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Bill_Simmons"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/30_for_30"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "What advice do I give to my students?",
+      "creator": "Dr",
+      "note": ". This is a really profound piece, and I’ll be rereading it. It offers actionable advice for creating a meaningful life, harnessing creativity, generating ideas, and more.  \n​  \nThe initial focus on science and academia might throw some readers off, so I’ll suggest my personal favorite sections: “What _not_ to do” and “Some specific personal techniques.”",
+      "original_url": "https://thoughtforms.life/what-advice-do-i-give-to-my-students/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://thoughtforms.life/what-advice-do-i-give-to-my-students/"
+        },
+        {
+          "type": "other",
+          "url": "https://thoughtforms.life/about/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“When we are crushed like grapes, we cannot think of the wine we will become.” — Rev. Henri J. M. Nouwen (Related: see a clever inversion of the quote here.) (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my recent interview with the bestselling coauthor of 200+ books that have sold 600M+ copies, including Chicken Soup for the Soul_, Jack Canfield. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Rev. Henri J. M. Nouwen",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Henri_Nouwen",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Henri_Nouwen"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/DPHDDpKDhNh/"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/3eA2f"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/10/29/jack-canfield/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

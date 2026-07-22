@@ -6,7 +6,166 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "El son reggae",
+      "creator": "Les Nubians",
+      "note": "([YouTube](https://www.youtube.com/watch?v=OMShxq3tSrY), [Spotify](https://open.spotify.com/track/7dgQ4X73bWNVAGFfafhga9)) by [Les Nubians](https://en.wikipedia.org/wiki/Les_Nubians) ([@lesnubians](https://www.instagram.com/lesnubians/)).",
+      "original_url": "https://www.youtube.com/watch?v=OMShxq3tSrY",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=OMShxq3tSrY"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=OMShxq3tSrY"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/7dgQ4X73bWNVAGFfafhga9"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Les_Nubians"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/lesnubians/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "FBI Extracts Suspect’s Deleted Signal Messages Saved in iPhone Notification Database",
+      "creator": null,
+      "note": "([Alternate link](https://archive.is/bSQhD)). This is good to be aware of if you’re using encrypted communications for privacy.",
+      "original_url": "https://www.404media.co/fbi-extracts-suspects-deleted-signal-messages-saved-in-iphone-notification-database-2/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.404media.co/fbi-extracts-suspects-deleted-signal-messages-saved-in-iphone-notification-database-2/"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.is/bSQhD"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Headset I’m using and taking on travel",
+      "category": "other",
+      "title": "SHOKZ OpenMeet UC",
+      "creator": null,
+      "note": "I’ve been experimenting a lot with headsets that do _not_ go in the ears. While noise-cancelling AirPods and the like are still best for loud environments, I’ve had a few ear infections and a lot of discomfort over the years. These SHOKZ were recommended by polymath [Elan Lee](https://www.youtube.com/watch?v=uzggnC5Jwts), who uses them mostly on his laptop and desktop. I tend to use them when walking and listening to podcasts, or when using [Wispr Flow](https://wisprflow.ai/) to braindump long drafts into a text file, which I then drop into an LLM for fine tuning (e.g., “Edit this into an email of <300 words, using the principles from [_The 15 Commitments of Conscious Leadership_](https://www.amazon.com/15-Commitments-Conscious-Leadership-Sustainable/dp/0990976904/?tag=offsitoftimfe-20)”).",
+      "original_url": "https://pro.shokz.com/products/openmeet-uc",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://pro.shokz.com/products/openmeet-uc"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=uzggnC5Jwts"
+        },
+        {
+          "type": "other",
+          "url": "https://wisprflow.ai/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/15-Commitments-Conscious-Leadership-Sustainable/dp/0990976904/?tag=offsitoftimfe-20"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m watching again to prep for deeper work",
+      "category": "video",
+      "title": "Philip Roth: Unmasked",
+      "creator": null,
+      "note": "I greatly enjoyed this deep dive into the life, craft, and humor of Philip Roth. My quest to learn more about Philip was sparked by [Joyce Carol Oates](https://tim.blog/2021/02/10/joyce-carol-oates/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit), one of the most decorated and prodigious American writers of the last century, who spoke about him during [our podcast together](https://tim.blog/2021/02/10/joyce-carol-oates/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit). Here’s the official description of this interview-rich documentary: “American Masters explores the life and career of Pulitzer Prize- and National Book Award-winning novelist [Philip Roth](https://en.wikipedia.org/wiki/Philip_Roth), often referred to as the greatest living American writer. Reclusive and diffident, Roth grants very few interviews, but for the first time, allowed a journalist to spend 10 days interviewing him on camera.”",
+      "original_url": "https://www.amazon.com/Philip-Roth-Unmasked/dp/B00C3WD3XO/?tag=offsitoftimfe-20",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Philip-Roth-Unmasked/dp/B00C3WD3XO/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/02/10/joyce-carol-oates/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/02/10/joyce-carol-oates/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Philip_Roth"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Ridiculous request \\*not\\ related to deeper work",
+      "category": "other",
+      "title": "My X followership is around 1.95M, and my OCD drives me nuts every time I see it",
+      "creator": null,
+      "note": "If you’ve ever thought, “Oh, Tim probably shares cool and positive stuff on X,” would you mind [following me here](https://twitter.com/tferriss)? Thank you. I can use [accelerated TMS](https://www.youtube.com/watch?v=UO7IgQ_x-Qg) to get the OCD monkey off my back, but it still sits on my shoulder and whispers in my ear.",
+      "original_url": "https://twitter.com/tferriss",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=UO7IgQ_x-Qg"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Good and evil both increase at compound interest. That is why the little decisions you and I make every day are of such infinite importance. The smallest good act today is the capture of a strategic point from which, a few months later, you may be able to go on to victories you never dreamed of.” — C. S. Lewis, Mere Christianity (Click to share on X.) * * * You can complement this edition of 5-Bullet Friday with my brand-new interview with daredevil and YouTube superstar Michelle Khare. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "C. S. Lewis, Mere Christianity",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/C._S._Lewis",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/C._S._Lewis"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Mere-Christianity-C-S-Lewis/dp/0060652926/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/w7Q_0"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/04/07/michelle-khare-challenge-accepted/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,124 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading (longer but fascinating) —",
+      "category": "article",
+      "title": "14 Patterns of Biophilic Design",
+      "creator": null,
+      "note": "From the abstract: “Biophilic design can reduce stress, enhance creativity and clarity of thought, improve our well-being and expedite healing; as the world population continues to urbanize, these qualities are ever more important. Theorists, research scientists, and design practitioners have been working for decades to define aspects of nature that most impact our satisfaction with the built environment. ‘14 Patterns of Biophilic Design’ articulates the relationships between nature, human biology and the design of the built environment so that we may experience the human benefits of biophilia in our design applications.”  \n**Music tracks that I’m working to** **—**  \nPart one: **“**[**Getula**](https://www.youtube.com/watch?v=F39XU3WhmE8)**”** ([YouTube](https://www.youtube.com/watch?v=F39XU3WhmE8), [Spotify](https://open.spotify.com/album/5XttR9hovHAbIPg5Su5Nh8?highlight=spotify:track:3UVj0QFwXzsvVnZFh8ABNJ)) by [Be Svendsen](https://www.besvendsen.com/) ([@be\\_svendsen](https://www.instagram.com/be_svendsen/?hl=en)). This is an unrushed ten minutes of caramel-smooth flow, and you can loop for extended work sessions. Part two: **“**[**Tarlabasi**](https://www.youtube.com/watch?v=LEsB_pwCmpQ)**”** (Be Svendsen Remix) ([YouTube](https://www.youtube.com/watch?v=LEsB_pwCmpQ), [Spotify](https://open.spotify.com/track/3i3wfvCeWE0sXNejkNqMvM)) by [Oceanvs Orientalis](https://oceanvsorientalis.com/) ([@oceanvsorientalis](https://www.instagram.com/oceanvsorientalis/)). Ditto the above, but nine minutes long and a different flavor of aural delight.",
+      "original_url": "https://www.terrapinbrightgreen.com/reports/14-patterns/#content",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.terrapinbrightgreen.com/reports/14-patterns/#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=F39XU3WhmE8"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=F39XU3WhmE8"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/album/5XttR9hovHAbIPg5Su5Nh8?highlight=spotify:track:3UVj0QFwXzsvVnZFh8ABNJ"
+        },
+        {
+          "type": "other",
+          "url": "https://www.besvendsen.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/be_svendsen/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=LEsB_pwCmpQ"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=LEsB_pwCmpQ"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/3i3wfvCeWE0sXNejkNqMvM"
+        },
+        {
+          "type": "other",
+          "url": "https://oceanvsorientalis.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/oceanvsorientalis/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Word I’ve learned —",
+      "category": "other",
+      "title": "Kaupapa",
+      "creator": null,
+      "note": "(****Māori, or** **_te reo_****).** “Kaupapa means principles and ideas which act as a base or foundation for action. A kaupapa is a set of values, principles and plans which people have agreed on as a foundation for their actions.”",
+      "original_url": "https://teara.govt.nz/en/papatuanuku-the-land/page-8",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://teara.govt.nz/en/papatuanuku-the-land/page-8"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m doing this week, and what I recommend for millions of you —",
+      "category": "other",
+      "title": "here",
+      "creator": null,
+      "note": "for U.S. President.** I’m using VoteAmerica.com as a resource because they explain the steps simply without endorsing either candidate. **The first step is requesting a mail-in ballot** [**here**](https://www.voteamerica.com/vote-by-mail/)**. In some states, this step must be completed within the next few days. If you’re in Kentucky or Rhode Island, that deadline has already passed.**  \nWe all know 2020 has been a bizarre year, and this election is going to hinge on mail-in ballots. Even though Election Day is technically November 3rd, it’s important to mail in early so that the tallying of your vote can help us determine the true winner ASAP. This election process will be a mess, but mailing in your vote early can help minimize the likelihood of a hyperextended mess of disputes and chaos. No matter which candidate you prefer, voting early—whether by mail or in person—is in your favor. The more completely and early we can count votes, the less disaster there will be.  \n  \n**Interested in early in-person voting?** [Here’s a link](https://www.voteamerica.com/where-to-vote/) to find a close location.  \n  \n**If you choose a mail-in ballot instead, I recommend returning it by mail no later than Tuesday, October 27**—a full week prior to Election Day. **Just remember: the first step is requesting the mail-in ballot** [**here**](https://www.voteamerica.com/vote-by-mail/) **today.**  \nVoteAmerica.com is a 501(c)(3) registered nonprofit organization that does not support or oppose any political candidate or party.",
+      "original_url": "https://www.voteamerica.com/vote-by-mail/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.voteamerica.com/vote-by-mail/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.voteamerica.com/where-to-vote/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.voteamerica.com/vote-by-mail/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quotes I’m pondering —",
+      "category": "quote",
+      "title": "“Courage is not simply one of the virtues, but the form of every virtue at the testing point, which means at the point of highest reality.”— C.S. Lewis “Courage is the most important of all the virtues, because without courage you can’t practice any other virtue consistently. You can practice any virtue erratically, but nothing consistently without courage.” — Maya Angelou And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "C.S. Lewis “Courage is the most important of all the virtues, because without courage you can’t practice any other virtue consistently. You can practice any virtue erratically, but nothing consistently without courage.” — Maya Angelou And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/C._S._Lewis",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/C._S._Lewis"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Maya_Angelou"
+        },
+        {
+          "type": "other",
+          "url": "http://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

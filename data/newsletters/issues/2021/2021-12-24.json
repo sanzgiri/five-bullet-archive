@@ -6,7 +6,159 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Comedians in Cars Getting Coffee",
+      "creator": null,
+      "note": ", directed and hosted by [Jerry Seinfeld](https://tim.blog/2020/12/08/jerry-seinfeld/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@JerrySeinfeld](https://twitter.com/jerryseinfeld))_._ This saved me [when I had COVID](https://www.youtube.com/watch?v=QGeEduRTPWg) and isolated for ten days. At 17–20 minutes apiece, I would watch one episode first thing in the morning with my own coffee, I would watch more episodes whenever I needed to lie down, and I would watch another one or two before bed. There are 80+ episodes, so you can snack on them for a nice long while. Favorite episodes so far include [Bob Einstein](https://www.netflix.com/watch/80181888?trackId=14277283) (both of his eps), [Larry David](https://www.netflix.com/watch/80181883?trackId=14277283), [Julia Louis-Dreyfus](https://www.netflix.com/watch/80181575?trackId=14277283), [Ricky Gervais](https://www.netflix.com/watch/80181884?trackId=14277283), [George Wallace](https://www.netflix.com/watch/80181982?trackId=14277283), and [Robert Klein](https://www.netflix.com/watch/80181983?trackId=14277283). For more [Jerry Seinfeld](https://tim.blog/2020/12/08/jerry-seinfeld/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), check out [my interview with him here](https://tim.blog/2020/12/08/jerry-seinfeld/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf).",
+      "original_url": "https://www.netflix.com/title/80171362",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.netflix.com/title/80171362"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/12/08/jerry-seinfeld/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/jerryseinfeld"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=QGeEduRTPWg"
+        },
+        {
+          "type": "other",
+          "url": "https://www.netflix.com/watch/80181888?trackId=14277283"
+        },
+        {
+          "type": "other",
+          "url": "https://www.netflix.com/watch/80181883?trackId=14277283"
+        },
+        {
+          "type": "other",
+          "url": "https://www.netflix.com/watch/80181575?trackId=14277283"
+        },
+        {
+          "type": "other",
+          "url": "https://www.netflix.com/watch/80181884?trackId=14277283"
+        },
+        {
+          "type": "other",
+          "url": "https://www.netflix.com/watch/80181982?trackId=14277283"
+        },
+        {
+          "type": "other",
+          "url": "https://www.netflix.com/watch/80181983?trackId=14277283"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/12/08/jerry-seinfeld/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/12/08/jerry-seinfeld/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Japanese concept I’m thinking about —",
+      "category": "other",
+      "title": "Mono no aware",
+      "creator": null,
+      "note": "Thanks to WV for introducing me to this! From [the Wikipedia entry](https://en.wikipedia.org/wiki/Mono_no_aware): “_Mono no aware_ (物の哀れ, もののあわれ), literally ‘the pathos of things,’ and also translated as ‘an empathy toward things,’ or ‘a sensitivity to ephemera,’ is a Japanese term for the awareness of impermanence (無常, mujō), or transience of things, and both a transient gentle sadness (or wistfulness) at their passing as well as a longer, deeper gentle sadness about this state being the reality of life.”",
+      "original_url": "https://en.wikipedia.org/wiki/Mono_no_aware",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Mono_no_aware"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Mono_no_aware"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Poem I’m rereading —",
+      "category": "article",
+      "title": "Wild Geese",
+      "creator": "Mary Oliver",
+      "note": ". Take a few minutes and read this again. It’s worth the reminder. And if that’s too highbrow for ya, I’m also reading [Pornhub Insights’ “2021 Year in Review,”](https://www.pornhub.com/insights/yir-2021) which shares analytics like unusual search density in each US state. Louisiana is my favorite.",
+      "original_url": "http://www.phys.unm.edu/~tw/fas/yits/archive/oliver_wildgeese.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.phys.unm.edu/~tw/fas/yits/archive/oliver_wildgeese.html"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Mary_Oliver"
+        },
+        {
+          "type": "other",
+          "url": "https://www.pornhub.com/insights/yir-2021"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Fun test I’m sharing with friends —",
+      "category": "other",
+      "title": "Food Choice Test",
+      "creator": null,
+      "note": "This is somewhat ridiculous, but that’s part of what makes it fun. Description: “Food has always been tied to class. Silvia Bellezza and Jonah Berger at the University of Pennsylvania now believe they have a way to identify a person’s social class based on how they feel about certain foods. The results are not always what you would expect. What do your food choices say about your social class? For each of the following dishes, indicate your feelings toward it below.” How did I do? I ended up at 85.71% lower middle class. Fuck, yeah, ’merica! I win!",
+      "original_url": "https://www.idrlabs.com/food-choice/test.php",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.idrlabs.com/food-choice/test.php"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quotes I’m pondering —",
+      "category": "quote",
+      "title": "“A tribe without enemies is, almost by definition, not a tribe. As a consequence, tribal dispute and warfare is part of what defines humanity.” ...“Things have changed a lot since. The biggest enemy we have to fight against right now is our tribal past. What served us so well for thousands of years is now an obsolete concept. It’s no more about the survival of this tribe or that one, but about Homo sapiens as a species. … For the first time in our collective history, we must think of ourselves as a single tribe on a single planet. ... We are a single tribe, the tribe of humans. And, as such, not a tribe at all.”— Marcelo Gleiser in “The Trouble with Tribalism” (Found via David Fideler (@DavidFidelerPhD), author of Breakfast with Seneca: A Stoic Guide to the Art of Living_.) And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Marcelo Gleiser in “The Trouble with Tribalism”",
+      "note": null,
+      "original_url": "https://twitter.com/MGleiser",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://twitter.com/MGleiser"
+        },
+        {
+          "type": "other",
+          "url": "https://orbitermag.com/the-trouble-with-tribalism/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.davidfideler.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/davidfidelerphd"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Breakfast-Seneca-Stoic-Guide-Living/dp/039353166X/ref=sr_1_1?keywords=Breakfast+with+Seneca%3A+A+Stoic+Guide+to+the+Art+of+Living&qid=1637591923&sr=8-1"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

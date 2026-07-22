@@ -6,7 +6,194 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "Parkinson’s Research Studies Show the Healing Power of Music",
+      "creator": "Greg Rienzi for Johns Hopkins Magazine_",
+      "note": "for _Johns Hopkins Magazine_. Pair the article with these YouTube clips: “[Alive Inside: A Story of Music and Memory Featurette](https://www.youtube.com/watch?v=8HLEr-zP3fc)” and “[The Healing Power of Music: The Johns Hopkins Center for Music and Medicine](https://www.youtube.com/watch?v=kL_N0usexlw).” (For a counterpoint, you can read this from _The Atlantic_: “[The Dangers of Overestimating Music Therapy](https://www.theatlantic.com/health/archive/2014/07/the-dangers-of-overestimating-music-therapy/374402/).”)",
+      "original_url": "https://hub.jhu.edu/magazine/2022/winter/parkinsons-research-music/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://hub.jhu.edu/magazine/2022/winter/parkinsons-research-music/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/gregrienzi"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=8HLEr-zP3fc"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=kL_N0usexlw"
+        },
+        {
+          "type": "other",
+          "url": "https://www.theatlantic.com/health/archive/2014/07/the-dangers-of-overestimating-music-therapy/374402/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Movie I’m watching",
+      "category": "video",
+      "title": "Tolkien",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/gp/product/B08Z7WC5B4/), [YouTube](https://www.youtube.com/watch?v=ZfF-m282K6c), [Apple TV](https://tv.apple.com/us/movie/tolkien/umc.cmc.3v1304w2kupemq3ucizho2ptf), [DIRECTV](https://www.directv.com/movies/Tolkien-SnFtbnNmYmdwbVlnRnhMNWNYVjFOdz09)). I’m shocked that I didn’t find this scripted gem sooner. It’s worth the watch. Description: “_Tolkien_ explores the formative years of the orphaned author as he finds friendship, love, and artistic inspiration among a group of fellow outcasts at school.” You can [watch the cinematic trailer here](https://www.youtube.com/watch?v=jq2MFEGJ_Sw).",
+      "original_url": "https://www.amazon.com/gp/product/B08Z7WC5B4/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/gp/product/B08Z7WC5B4/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/gp/product/B08Z7WC5B4/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=ZfF-m282K6c"
+        },
+        {
+          "type": "other",
+          "url": "https://tv.apple.com/us/movie/tolkien/umc.cmc.3v1304w2kupemq3ucizho2ptf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.directv.com/movies/Tolkien-SnFtbnNmYmdwbVlnRnhMNWNYVjFOdz09"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=jq2MFEGJ_Sw"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "YouTube summary I’m sharing with friends",
+      "category": "other",
+      "title": "A Massive Upgrade To ChatGPT! (This is Crazy)",
+      "creator": null,
+      "note": "](https://www.youtube.com/watch?v=ZSfwgKDcGKY)**.”** This short summary of new ChatGPT features really underscores how explosively the scope of AI tools is expanding. It looks like ChatGPT could quickly become [WeChat](https://en.wikipedia.org/wiki/WeChat) on steroids for the English-speaking world. Thanks to NP for sharing this.",
+      "original_url": "https://www.youtube.com/watch?v=ZSfwgKDcGKY",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=ZSfwgKDcGKY"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/WeChat"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Song I’m enjoying",
+      "category": "music",
+      "title": "To Know You Is to Love You",
+      "creator": "Greyboy",
+      "note": "([@dj\\_greyboy](https://www.instagram.com/dj_greyboy/)) featuring [Bart Davenport](https://open.spotify.com/artist/4IvnZ6XfHh6cOx8DIk1SOS) ([@BARTDAVENPORT](https://twitter.com/bartdavenport?lang=en)).",
+      "original_url": "https://www.youtube.com/watch?v=WMJLcRNPUnI",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=WMJLcRNPUnI"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/artist/greyboy/3824765"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/dj_greyboy/"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/artist/4IvnZ6XfHh6cOx8DIk1SOS"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/bartdavenport?lang=en"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Wikipedia page I’m digging into",
+      "category": "other",
+      "title": "Many-worlds interpretation",
+      "creator": null,
+      "note": "From Wikipedia: “The many-worlds interpretation (MWI) is an interpretation of quantum mechanics that asserts that the universal wavefunction is objectively real and that there is no wavefunction collapse. This implies that all possible outcomes of quantum measurements are physically realized in some ‘world’ or universe.” Pair this reading with my [podcast interview with renowned physicist David Deutsch](https://tim.blog/2023/03/23/david-deutsch-naval-ravikant/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf).",
+      "original_url": "https://en.wikipedia.org/wiki/Many-worlds_interpretation",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Many-worlds_interpretation"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/03/23/david-deutsch-naval-ravikant/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quotes I’m pondering",
+      "category": "quote",
+      "title": "“One of the symptoms of an approaching nervous breakdown is the belief that one’s work is terribly important.” ― Bertrand Russell, The Conquest of Happiness _(Click here to share on Twitter) “Of all forms of caution, caution in love is perhaps the most fatal to true happiness.” ― Bertrand Russell, The Conquest of Happiness _(Click here to share on Twitter) * * * You can complement this edition of 5-Bullet Friday with my interviews with cognitive scientist Donald Hoffman, astrophysicist Janna Levin, and polymath Stephen Wolfram. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": null,
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Bertrand_Russell",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Bertrand_Russell"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Conquest-Happiness-Bertrand-Russell/dp/087140673X/"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/58f1g"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Bertrand_Russell"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Conquest-Happiness-Bertrand-Russell/dp/087140673X/"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/fFej9"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/04/13/donald-hoffman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/07/08/janna-levin/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/11/24/stephen-wolfram/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

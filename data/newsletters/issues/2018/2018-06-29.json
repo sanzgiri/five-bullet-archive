@@ -6,7 +6,107 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Longread I’m revisiting —",
+      "category": "other",
+      "title": "The Network Man: Reid Hoffman’s Big Idea",
+      "creator": null,
+      "note": "(The New Yorker). I’m fond of the expression “your network is your net worth.” Few people represent this as well as Reid Hoffman ([@reidhoffman](https://www.linkedin.com/in/reidhoffman)), the co-founder of LinkedIn. Check out this article to learn how Hoffman became an “ubernode” — one of the world’s most well-networked people. If you’d like to hear my podcast with Reid on his habits, strategic thinking, journaling, and more, [here it is](https://tim.blog/2015/08/31/the-oracle-of-silicon-valley-reid-hoffman-plus-michael-mccullough/).",
+      "original_url": "https://www.newyorker.com/magazine/2015/10/12/the-network-man",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.newyorker.com/magazine/2015/10/12/the-network-man"
+        },
+        {
+          "type": "other",
+          "url": "https://www.linkedin.com/in/reidhoffman"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/08/31/the-oracle-of-silicon-valley-reid-hoffman-plus-michael-mccullough/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Person I’m learning more about —",
+      "category": "other",
+      "title": "Linus Pauling",
+      "creator": null,
+      "note": "(February 28, 1901 – August 19, 1994) was an American chemist, biochemist, peace activist, author, educator, and husband of American human rights activist Ava Helen Pauling. He published more than 1,200 papers and books, of which about 850 dealt with scientific topics. New Scientist called him one of the 20 greatest scientists of all time, and as of 2000, he was rated the 16th most important scientist in history.",
+      "original_url": "https://en.wikipedia.org/wiki/Linus_Pauling",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Linus_Pauling"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Music I'm jamming to —",
+      "category": "music",
+      "title": "“Save Me” by Damageplan",
+      "creator": null,
+      "note": "Most of you will hate this, but I listen to this track before every keynote presentation I give. On a related note, if you’re interested in how I brainstorm, structure, and prep all of my public speaking, [here is the framework](https://tim.blog/2010/04/11/public-speaking-how-i-prepare-every-time/).",
+      "original_url": "https://www.youtube.com/watch?v=NXlP1ds2l5c",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=NXlP1ds2l5c"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2010/04/11/public-speaking-how-i-prepare-every-time/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Device that’s saving my back and neck —",
+      "category": "other",
+      "title": "The Body Back Buddy",
+      "creator": null,
+      "note": ", recommended by Dustin Moskovitz ([@moskov](https://twitter.com/moskov)), co-founder of Facebook, in [Tribe of Mentors](https://tribeofmentors.com/). I woke up one day this week barely able to turn my head to the right, causes unknown. 10 minutes with this gadget did the trick and released everything. Here’s what Dustin had to say in the book, in response to the “best purchase for <$100?” question: “[The Back Buddy](https://www.amazon.com/Body-Back-Original-Trigger-Therapy/dp/B005F9F5H4) by the Body Back Company is my favorite purchase from the past five years, bar none. Most basically, it allows you to administer self-massage anywhere on your back with the full leverage of two hands, but I’ve also really gotten to know and appreciate all the little knobs and other features over the years. I’ve even learned how to manipulate parts of my skeletal structure (i.e., self-chiropracty) and incorporate it into my yoga practice.”",
+      "original_url": "https://www.amazon.com/Body-Back-Original-Trigger-Therapy/dp/B005F9F5H4",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Body-Back-Original-Trigger-Therapy/dp/B005F9F5H4"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/moskov"
+        },
+        {
+          "type": "other",
+          "url": "https://tribeofmentors.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Body-Back-Original-Trigger-Therapy/dp/B005F9F5H4"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth.” — Oscar Wilde",
+      "creator": "Oscar Wilde",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Oscar_Wilde",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Oscar_Wilde"
+        }
+      ]
+    }
+  ]
 }

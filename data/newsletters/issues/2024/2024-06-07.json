@@ -6,7 +6,162 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Articles I’m reading",
+      "category": "article",
+      "title": "Air Traffic Control for Drones",
+      "creator": "Rich Shea",
+      "note": ". **​  \n“**[**A 500-year-old device invented by Leonardo da Vinci may hold the key to quieter drones**](https://hub.jhu.edu/magazine/2024/spring/da-vinci-aerial-screw-drones/)**.”** by [Lisa Ercolano](https://muckrack.com/lisa-ercolano/articles).",
+      "original_url": "https://hub.jhu.edu/magazine/2023/winter/air-traffic-control-for-drones/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://hub.jhu.edu/magazine/2023/winter/air-traffic-control-for-drones/"
+        },
+        {
+          "type": "other",
+          "url": "https://muckrack.com/rich-shea/articles"
+        },
+        {
+          "type": "other",
+          "url": "https://hub.jhu.edu/magazine/2024/spring/da-vinci-aerial-screw-drones/"
+        },
+        {
+          "type": "other",
+          "url": "https://muckrack.com/lisa-ercolano/articles"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to during workouts",
+      "category": "podcast",
+      "title": "Black Out The Sun",
+      "creator": "Sevendust",
+      "note": "([YouTube](https://youtu.be/xHkamJJzNBE?si=51HOxY5_pFB-WeJJ), [Spotify](https://open.spotify.com/track/5phsN1qTbBz0ZCYtcQ4ndW), [Apple Music](https://music.apple.com/us/album/black-out-the-sun/1675489346?i=1675489352)) by [Sevendust](https://sevendust.com/) ([@Sevendust](https://twitter.com/Sevendust)).",
+      "original_url": "https://youtu.be/xHkamJJzNBE?si=51HOxY5_pFB-WeJJ",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/xHkamJJzNBE?si=51HOxY5_pFB-WeJJ"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/xHkamJJzNBE?si=51HOxY5_pFB-WeJJ"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/5phsN1qTbBz0ZCYtcQ4ndW"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/album/black-out-the-sun/1675489346?i=1675489352"
+        },
+        {
+          "type": "other",
+          "url": "https://sevendust.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/Sevendust"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Book I’m reading",
+      "category": "book",
+      "title": "Unreasonable Hospitality: The Remarkable Power of Giving People More Than They Expect",
+      "creator": "Will Guidara",
+      "note": "instagram.com/wguidara/?hl=en)). This was recommended to me by a past podcast guest and dear friend. His text read: “I don’t exactly know why, but I cannot stop thinking about this book.” Two of my favorite stories from the book are related to the “95/5 rule” and “dreamweavers,” but there’s a lot more to nibble on and learn from. Here’s the official book description:  \n​  \n​_Will Guidara was twenty-six when he took the helm of Eleven Madison Park, a struggling two-star brasserie that had never quite lived up to its majestic room. Eleven years later, EMP was named the best restaurant in the world._\n\n_How did Guidara pull off this unprecedented transformation? Radical reinvention, a true partnership between the kitchen and the dining room—and memorable, over-the-top, bespoke hospitality. Guidara’s team surprised a family who had never seen snow with a magical sledding trip to Central Park after their dinner; they filled a private dining room with sand, complete with mai-tais and beach chairs, to console a couple with a cancelled vacation. And his hospitality extended beyond those dining at the restaurant to his own team, who learned to deliver praise and criticism with intention; why the answer to some of the most pernicious business dilemmas is to give more—not less; and the magic that can happen when a busser starts thinking like an owner._\n\n_Today, every business can choose to be a hospitality business—and we can all transform ordinary transactions into extraordinary experiences. Featuring sparkling stories of his journey through restaurants, with the industry’s most famous players like Daniel Boulud and Danny Meyer, Guidara urges us all to find the magic in what we do—for ourselves, the people we work with, and the people we serve._",
+      "original_url": "https://www.amazon.com/Unreasonable-Hospitality-Remarkable-Giving-People/dp/0593418573",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Unreasonable-Hospitality-Remarkable-Giving-People/dp/0593418573"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/wguidara/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’d love your take on",
+      "category": "other",
+      "title": "Tim Ferriss Evening Routine Improved Deep Sleep by 30% and HRV by 10% After 7 Days!",
+      "creator": null,
+      "note": "This randomly popped up for me and caught my attention. I strongly agree with the comment highlighting dinner at least 3–4 hours before bed. What have you all found to most reliably increase HRV and/or deep sleep? [Please let me know at @tferriss on Twitter](https://twitter.com/tferriss).",
+      "original_url": "https://www.reddit.com/r/timferriss/comments/dxlnat/tim_ferriss_evening_routine_improved_deep_sleep/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.reddit.com/r/timferriss/comments/dxlnat/tim_ferriss_evening_routine_improved_deep_sleep/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Poetry in motion that I’ve watched at least 20x",
+      "category": "other",
+      "title": "The Russian tie snap",
+      "creator": null,
+      "note": null,
+      "original_url": "https://www.instagram.com/reel/C58uMSXOiA0/?igsh=Z2hlNGZkbzhzeXE2",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/reel/C58uMSXOiA0/?igsh=Z2hlNGZkbzhzeXE2"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Most people live, whether physically, intellectually or morally, in a very restricted circle of their potential being. They make use of a very small portion of their possible consciousness, and of their soul’s resources in general, much like a man who, out of his whole bodily organism, should get into a habit of using and moving only his little finger. Great emergencies and crises show us how much greater our vital resources are than we had supposed.” — William James (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with the latest supercombo episode, featuring Jocko Willink and Sebastian Junger; my interview with futurist Jane McGonigal; and this short video of my evening routine, featured in the Reddit post above. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "William James",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/William_James",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/William_James"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/James_Baldwin"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/E97ar"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/06/06/jocko-willink-and-sebastian-junger/?utm_campaign=5bf&utm_medium=5bf&utm_source=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/03/16/jane-mcgonigal-imaginable/?utm_campaign=5bf&utm_medium=5bf&utm_source=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/eLYqhezACpc?si=YATURjsTZ34NjYp0"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

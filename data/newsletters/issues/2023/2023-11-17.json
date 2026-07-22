@@ -6,7 +6,384 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Outstanding game that I’m playing with friends and family",
+      "category": "other",
+      "title": "Taco Cat Goat Cheese Pizza",
+      "creator": null,
+      "note": "You can learn how to play in less than a minute. The game is fast, fun, addictive, hilarious, and suitable for all ages. It scrambles brains to the delight of all. It’s also a simple deck of cards that travels easily. Hat tip to game Jedi [Elan Lee](https://tim.blog/2023/02/03/elan-lee/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@elanlee](https://twitter.com/elanlee?lang=en)) for introducing me to this gem!",
+      "original_url": "https://www.amazon.com/Taco-Cat-Goat-Cheese-Pizza/dp/B077Z1R28P/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Taco-Cat-Goat-Cheese-Pizza/dp/B077Z1R28P/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/02/03/elan-lee/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/elanlee?lang=en"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Book I’m rereading and gifting",
+      "category": "book",
+      "title": "The Art of Possibility: Transforming Professional and Personal Life",
+      "creator": "Rosamund Stone Zander and Benjamin Zander",
+      "note": "and [Benjamin Zander](https://www.benjaminzander.org/). I have read this book many times. It’s a wonderful and short reboot for possibility, excellent for all students of life and those who want to overcome self-imposed limitations. Here’s a snippet from the description: “Presenting twelve breakthrough practices for bringing creativity into all human endeavors, _The Art of Possibility_ combines Benjamin Zander’s experience as conductor of the Boston Philharmonic and his talent as a teacher and communicator with psychotherapist Rosamund Stone Zander’s genius for designing innovative paradigms for personal and professional fulfillment.”",
+      "original_url": "https://www.amazon.com/Art-Possibility-Transforming-Professional-Personal/dp/0142001104",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Art-Possibility-Transforming-Professional-Personal/dp/0142001104"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rosamundzander.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.benjaminzander.org/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Sleep technology I’m using nightly",
+      "category": "other",
+      "title": "Pod 3 Cover by Eight Sleep",
+      "creator": null,
+      "note": "Temperature is one of the main causes of poor sleep, and heat is my nemesis. I’ve suffered for decades, tossing and turning, throwing blankets off, pulling them back on, and repeating ad nauseam. The Pod 3 Cover has been a game changer for the quality of my sleep and the quality of my life. It pairs dynamic cooling and heating with biometric tracking to offer the most advanced (and user-friendly) solution on the market. I’ve been using Eight Sleep for more than three years. **Just in time for the holidays, add the** [**Pod 3 Cover**](https://www.eightsleep.com/tim/) **to your current mattress and start sleeping as cool as 55°F or as hot as 110°F.** It also splits your bed in half, so your partner can choose a totally different temp. No more fighting over the A/C! The Pod technology adjusts the temperature of each side of the bed based on your sleep stages, biometrics, and bedroom temperature, reacting intelligently to create the optimal sleeping environment. [**For a limited time, Eight Sleep is offering subscribers of** _**5-Bullet Friday**_ **$350 off(!) of the Pod 3 Cover**](https://www.eightsleep.com/tim/)**.** [Click here](https://www.eightsleep.com/tim/) to get the exclusive holiday savings until November 30th.\\*",
+      "original_url": "https://www.eightsleep.com/tim/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.eightsleep.com/tim/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.eightsleep.com/tim/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.eightsleep.com/tim/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.eightsleep.com/tim/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Eye mask I swear by",
+      "category": "other",
+      "title": "WAOAW Sleep Mask",
+      "creator": null,
+      "note": "This is my favorite sleep mask, and I’ve tried a lot. The WAOAW is a contoured mask that removes all pressure from the eyes, and it’s been added to my list of “things I didn’t know I needed.” The design also blocks much more light than conventional masks.",
+      "original_url": "https://www.amazon.com/dp/B09712FSLY?psc=1&ref=ppx_yo2ov_dt_b_product_details",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/dp/B09712FSLY?psc=1&ref=ppx_yo2ov_dt_b_product_details"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Two tools that save my low back",
+      "category": "other",
+      "title": "PSO-RITE",
+      "creator": null,
+      "note": "If you have low-back pain, there’s a good chance your psoas muscle is involved. This was recommended by multiple people in [this Twitter thread](https://twitter.com/tferriss/status/1537476784207241217) on self-release, and I use it right before bed.  \n​**​  \n​**[**Fisher Traction’s Low Back Device**](https://www.fishertraction.com/products/back-unit)**.** This was first recommended to me by a martial-arts teacher who, in his mid-60s, can still outperform most 20-somethings. It’s a simple, portable way to use traction at home or on the road. I do 3–4 reps of five minutes with 60 seconds in between, and it makes a world of difference. One fine-tuning point: rather than pull on the “release strap” for the 60-second rest, I simply take the belt off of my hips and lie on the floor.",
+      "original_url": "https://www.amazon.com/PSO-RITE-Psoas-Release-Personal-Massager/dp/B07DPCWV8Z/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/PSO-RITE-Psoas-Release-Personal-Massager/dp/B07DPCWV8Z/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss/status/1537476784207241217"
+        },
+        {
+          "type": "other",
+          "url": "https://www.fishertraction.com/products/back-unit"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Electrolytes I depend on",
+      "category": "other",
+      "title": "LMNT",
+      "creator": null,
+      "note": "I’ve enjoyed [LMNT](http://drinklmnt.com/Tim) for years now. I typically use 1–2 packs per day to add electrolytes, which helps me maintain both focus and energy levels. I add electrolytes for many reasons: because I over-hydrate compulsively while stuck at a laptop (which dilutes electrolytes and leads me to feel tired); because I’m typically on a low-carb diet; and because I’ve lost electrolytes through exercise, dry winter climates, sauna, etc. It’s convenient hydration insurance that tastes great. Each serving of [LMNT](http://drinklmnt.com/Tim) delivers a meaningful dose of electrolytes without the garbage—no sugar, no artificial ingredients, no coloring, no junk. My favorite flavor is Citrus Salt, which, as a side note, you can use to make a kick-ass, no-sugar margarita. For the colder months, I’ve also been enjoying their chocolate flavors to mix into my favorite hot beverages. [**Find your favorite flavor with a free LMNT Sample Pack, included with any purchase**](http://drinklmnt.com/Tim)**.** And if you don’t love your purchase for any reason, my friends at LMNT offer a no-questions-asked refund policy. This special offer is available at [DrinkLMNT.com/Tim](http://drinklmnt.com/Tim).\\*",
+      "original_url": "http://drinklmnt.com/Tim",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://drinklmnt.com/Tim"
+        },
+        {
+          "type": "other",
+          "url": "http://drinklmnt.com/Tim"
+        },
+        {
+          "type": "other",
+          "url": "http://drinklmnt.com/Tim"
+        },
+        {
+          "type": "other",
+          "url": "http://drinklmnt.com/Tim"
+        },
+        {
+          "type": "other",
+          "url": "http://drinklmnt.com/Tim"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "section": "What I’ll be wearing while skiing and snowboarding this winter",
+      "category": "other",
+      "title": "ORTOVOX Merino Thermovent Hoody",
+      "creator": null,
+      "note": "I wore this for the end of last season, and it is the best combination of warmth and breathability I’ve ever found. From the description: “The HOODY is made of 99% fine merino wool. Thanks to the mesh structure in the torso and arm areas, this super-lightweight base layer wicks moisture away perfectly and provides ventilation. And the air pockets in the special structure make it particularly warm. Merino wool is naturally temperature- and moisture-regulating. A small pack size and ideal weight-to-warmth ratio will delight all tourers who value comfort and low weight.”",
+      "original_url": "https://www.ortovox.com/us-en/shop/men/p494717-base-layer-long-merino-thermovent-hoody-m?size=s",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.ortovox.com/us-en/shop/men/p494717-base-layer-long-merino-thermovent-hoody-m?size=s"
+        }
+      ]
+    },
+    {
+      "position": 8,
+      "section": "A delicious little indulgence for cheat day or any day",
+      "category": "other",
+      "title": "Big Island Coffee Sea Salt Espresso Bites",
+      "creator": null,
+      "note": "Thanks to [Jake Muise](https://tim.blog/2023/06/21/jake-muise/) for bringing these goodies to Austin! Here’s a delicious one-liner from the website: “A little salty, a little sweet, and decadently wild, this espresso bite is made with 100% Maui coffee and sprinkled with mineral-rich sea salt from Molokai.” Outside of cheat day, a single square right before podcast recording also gives me just the right cognitive boost without any jitters.",
+      "original_url": "https://bigislandcoffeeroasters.com/collections/espresso-bites-edible-coffee/products/salted-espresso-bites?variant=31783809155168",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://bigislandcoffeeroasters.com/collections/espresso-bites-edible-coffee/products/salted-espresso-bites?variant=31783809155168"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/06/21/jake-muise/"
+        }
+      ]
+    },
+    {
+      "position": 9,
+      "section": "Coffee gadgets I and my friends adore",
+      "category": "other",
+      "title": "AeroPress Original",
+      "creator": null,
+      "note": "(Cost: <$40). This is an incredible and affordable beauty. As I wrote in [_The 4-Hour Chef_](https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/) in 2012: “This is now, bar none, my favorite brewing method. Remember the Aerobie, the amazing UFO-like disc that you could throw farther than a football field, 20 times farther than a standard Frisbee? Alan Adler, a mechanical engineer and Stanford University lecturer, created it. After conquering the 1980s toy market, he began to obsess over coffee. The result was the AeroPress, which debuted in 2006. Quickly adopted by the specialty coffee community, it offers a simple way to prepare a small amount of excellent coffee, and it’s great for travel. Armed with an AeroPress and a tiny manual hand grinder like the [Hario MSS-1B Mini Mill](https://www.amazon.com/Hario-Mini-Mill-Coffee-Grinder/dp/B001804CLY/) \\[or the more recently recommended [Comandante](https://www.comandantegrinder.com/)\\], you can even make world-class coffee on an airplane meal tray! No mess and no fuss.” If you want to use a beefier and automated burr grinder at home, I now use the [Baratza Encore](https://www.amazon.com/gp/product/B084HNY3BG/).  \n​**​  \n​**[**Jura ENA 4**](https://shopjura.com/jura-at-home/ena-4-metro-black.html) (Cost: $999). Going up quite a few notches in fancy, the Jura ENA 4 was gifted to me by my friend Brad L. He is a die-hard coffee nerd and swore it was the best cup of coffee you could have without a professional barista. Just feed it whole beans, and it handles the rest. This attractive machine also imbues the coffee with a creamy texture that is hard to describe. There are multiple models to choose from with different features.",
+      "original_url": "https://aeropress.com/products/aeropress-coffee-maker",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://aeropress.com/products/aeropress-coffee-maker"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Hario-Mini-Mill-Coffee-Grinder/dp/B001804CLY/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.comandantegrinder.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/gp/product/B084HNY3BG/"
+        },
+        {
+          "type": "other",
+          "url": "https://shopjura.com/jura-at-home/ena-4-metro-black.html"
+        }
+      ]
+    },
+    {
+      "position": 10,
+      "section": "Health supplements I’m loving for sleep and performance",
+      "category": "other",
+      "title": "Momentous",
+      "creator": null,
+      "note": "Momentous offers high-quality supplements and products across a broad spectrum of categories, and I’ve been testing their products for months. I’ve recently focused on their [Magnesium Threonate](https://www.livemomentous.com/pages/tim-ferriss?utm_source=Sponsored_Newsletter&utm_medium=Email&utm_campaign=Tim_Ferriss_5BF#section-tims-favorite-products), [Apigenin](https://www.livemomentous.com/pages/tim-ferriss?utm_source=Sponsored_Newsletter&utm_medium=Email&utm_campaign=Tim_Ferriss_5BF#section-tims-favorite-products), and [L-Theanine](https://www.livemomentous.com/pages/tim-ferriss?utm_source=Sponsored_Newsletter&utm_medium=Email&utm_campaign=Tim_Ferriss_5BF#section-tims-favorite-products), which I use before bed. In combination, they have really helped me improve the onset, quality, and duration of my sleep. Momentous [Sleep](https://www.livemomentous.com/pages/tim-ferriss?utm_source=Sponsored_Newsletter&utm_medium=Email&utm_campaign=Tim_Ferriss_5BF#section-tims-favorite-products) conveniently delivers all three in one single blend to help prime your body for sleep and help you build a powerful nighttime routine. I’ve also been using [Momentous Creatine](https://www.livemomentous.com/pages/tim-ferriss?utm_source=Sponsored_Newsletter&utm_medium=Email&utm_campaign=Tim_Ferriss_5BF#section-tims-favorite-products), and while it certainly helps physical performance, including poundage or wattage in sports, I use it primarily for mental performance (short-term memory, general podcasting, etc.). Their products are third-party tested (Informed Sport and/or NSF-certified), so you can trust that what is on the label is in the bottle… and nothing else. **Until November 28th, Momentous is offering subscribers of 5-Bullet Friday** [**exclusive early access to a 25% discount**](https://www.livemomentous.com/tim?utm_source=sponcon&utm_medium=partnerships&utm_campaign=Tim_Ferris_Gift+Guide) **on all products, including my personal favorites, Sleep and Creatine.** [Click here](https://www.livemomentous.com/tim?utm_source=sponcon&utm_medium=partnerships&utm_campaign=Tim_Ferris_Gift+Guide) to access these holiday savings. Momentous also ships internationally.\\*",
+      "original_url": "https://www.livemomentous.com/tim?utm_source=sponcon&utm_medium=partnerships&utm_campaign=Tim_Ferris_Gift+Guide",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.livemomentous.com/tim?utm_source=sponcon&utm_medium=partnerships&utm_campaign=Tim_Ferris_Gift+Guide"
+        },
+        {
+          "type": "other",
+          "url": "https://www.livemomentous.com/pages/tim-ferriss?utm_source=Sponsored_Newsletter&utm_medium=Email&utm_campaign=Tim_Ferriss_5BF#section-tims-favorite-products"
+        },
+        {
+          "type": "other",
+          "url": "https://www.livemomentous.com/pages/tim-ferriss?utm_source=Sponsored_Newsletter&utm_medium=Email&utm_campaign=Tim_Ferriss_5BF#section-tims-favorite-products"
+        },
+        {
+          "type": "other",
+          "url": "https://www.livemomentous.com/pages/tim-ferriss?utm_source=Sponsored_Newsletter&utm_medium=Email&utm_campaign=Tim_Ferriss_5BF#section-tims-favorite-products"
+        },
+        {
+          "type": "other",
+          "url": "https://www.livemomentous.com/pages/tim-ferriss?utm_source=Sponsored_Newsletter&utm_medium=Email&utm_campaign=Tim_Ferriss_5BF#section-tims-favorite-products"
+        },
+        {
+          "type": "other",
+          "url": "https://www.livemomentous.com/pages/tim-ferriss?utm_source=Sponsored_Newsletter&utm_medium=Email&utm_campaign=Tim_Ferriss_5BF#section-tims-favorite-products"
+        },
+        {
+          "type": "other",
+          "url": "https://www.livemomentous.com/tim?utm_source=sponcon&utm_medium=partnerships&utm_campaign=Tim_Ferris_Gift+Guide"
+        },
+        {
+          "type": "other",
+          "url": "https://www.livemomentous.com/tim?utm_source=sponcon&utm_medium=partnerships&utm_campaign=Tim_Ferris_Gift+Guide"
+        }
+      ]
+    },
+    {
+      "position": 11,
+      "section": "Delicious meat I’m devouring this holiday season (and every season)",
+      "category": "other",
+      "title": "Maui Nui Venison",
+      "creator": null,
+      "note": "This is the most delicious, nutrient-dense, and environmentally conscious red meat you can bring to your table. Many of my close friends have made this their go-to clean meat, and it’s helped me get into the best shape I’ve been in in years. [Maui Nui](https://mauinuivenison.com/pages/tim?utm_medium=email&utm_source=holiday_bullet&utm_campaign=Tim&utm_term=TIM&utm_content=tim_landing) is on a mission to restore balance to Hawai‘i’s ecosystems. The only operation of its kind, Maui Nui’s 100% wild-harvest process helps manage Maui’s invasive Axis deer populations while producing stress-free, incredibly tender and delicious protein, delivered right to your door. Enjoy clean-tasting venison (no gaminess at all) with the highest density of protein per calorie in a variety of cuts, jerky sticks, and bone broth. I love this company and their products so much that I ended up investing in them, as did Dr. Peter Attia. For a quick 30 grams of protein within 30 minutes of waking up, I eat three of [their pepper jerky sticks](https://mauinuivenison.com/pages/tim?utm_medium=email&utm_source=holiday_bullet&utm_campaign=Tim&utm_term=TIM&utm_content=tim_landing) nearly every morning. **Supplies are limited, which is why I’m excited to offer 5-Bullet Friday subscribers** **20% off site-wide, including your first purchase of their remaining subscription boxes. Visit** [**MauiNuiVenison.com/Tim**](https://mauinuivenison.com/pages/tim?utm_medium=email&utm_source=holiday_bullet&utm_campaign=Tim&utm_term=TIM&utm_content=tim_landing) **to take advantage of this limited-time offer and get 20% off.**\\*",
+      "original_url": "https://mauinuivenison.com/pages/tim?utm_medium=email&utm_source=holiday_bullet&utm_campaign=Tim&utm_term=TIM&utm_content=tim_landing",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://mauinuivenison.com/pages/tim?utm_medium=email&utm_source=holiday_bullet&utm_campaign=Tim&utm_term=TIM&utm_content=tim_landing"
+        },
+        {
+          "type": "other",
+          "url": "https://mauinuivenison.com/pages/tim?utm_medium=email&utm_source=holiday_bullet&utm_campaign=Tim&utm_term=TIM&utm_content=tim_landing"
+        },
+        {
+          "type": "other",
+          "url": "https://mauinuivenison.com/pages/tim?utm_medium=email&utm_source=holiday_bullet&utm_campaign=Tim&utm_term=TIM&utm_content=tim_landing"
+        },
+        {
+          "type": "other",
+          "url": "https://mauinuivenison.com/pages/tim?utm_medium=email&utm_source=holiday_bullet&utm_campaign=Tim&utm_term=TIM&utm_content=tim_landing"
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "section": "A device that most moms (or parents) will love",
+      "category": "other",
+      "title": "Skylight Digital Picture Frame",
+      "creator": null,
+      "note": "I gave this to my mom roughly a year ago, and it’s gotten more use than perhaps any other gift. The gist is simple: a nice digital display that rotates through photos. It runs 24/7 in my parents’ house, and it’s now loaded with family and childhood pics taken over decades. This one definitely exceeded all expectations.\n\n* * *\n\nAnd there you go! Twelve of my favorite things that make great holiday gifts. I love them all and hope you do too.  \n​  \nHave a wonderful weekend and wonderful holiday season, everyone!  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​\n\n### Forwarded this message? [Sign up here](https://go.tim.blog/5-bullet-friday-1/?utm_source=convertkit&utm_medium=convertit&utm_campaign=footer).\n\nJoin millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff.\n\n[Sign Up](https://go.tim.blog/5-bullet-friday-1/)\n\n![Tim Ferriss](https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png) \n\n### Listen to _The Tim Ferriss Show_ Podcast\n\n_The Tim Ferriss Show_ is one of the most popular podcasts in the world with more than 900 million downloads. It has been selected for \"Best of Apple Podcasts\" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts   \non many occasions.\n\n  [![Apple Podcasts](https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png)  Podcasts](https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2) \n\n  [![Apple Podcast](https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png)  Apple Podcasts](https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2) \n\n  [![Overcast](https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png)  Overcast](https://overcast.fm/itunes863897795/the-tim-ferriss-show)    [![Spotify](https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png)  Spotify](https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM)    [![Tim's Blog](https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png)  Tim's Blog](https://tim.blog/podcast?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test)\n\n### Read Tim's Books\n\n[![Read Tim's Books](https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png)](https://tim.blog/tim-ferriss-books/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test)\n\n  [![Amazon](https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png)  Amazon](https://www.amazon.com/Timothy-Ferriss/e/B001ILKBW2%3Fref=dbs_a_mng_rwt_scns_share)    [![Audible](https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png)  Audible](https://www.audible.com/ep/TimsBooks)   [![B & N](https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png) B & N](https://www.barnesandnoble.com/s/%22Timothy%20Ferriss%22?Ntk=P_key_Contributor_List)    [![Tim's Blog](https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png)  Tim's Blog](https://tim.blog/tim-ferriss-books/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test)\n\nFollow Tim:\n\n[![TW](https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png)](https://twitter.com/tferriss)\n\n[![IG](https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png)](https://www.instagram.com/timferriss/)\n\n[![YT](https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png)](https://www.youtube.com/channel/UCznv7Vf9nBdJYvBagFdAHWw)\n\n[![FB](https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png)](https://www.facebook.com/TimFerriss)\n\n[![IN](https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png)](https://www.linkedin.com/in/timferriss/)\n\n**DO NOT REPLY HERE**: Due to volume, please do not reply to this email. Sadly we are unable to read 1000+ email replies daily. To reply to Tim, please do so in the blog comments [here](https://tim.blog/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test).\n\nNo longer want these emails?  [Unsubscribe](https://unsubscribe.fourhourmail.com/68u8wxgppu8hkxkep5s6sz7z4nkk)\n\n3​11​2 Win​dso​r R​d., Box #UNS, Austin TX 78703, United States\n\n​\n\n![](https://open.fourhourmail.com/68u8wxgppu8hkxkep5s6sz7z4nkk)",
+      "original_url": "https://www.amazon.com/Skylight-Frame-Digital-Anywhere-Effortless/dp/B0BHX94SSQ?th=1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Skylight-Frame-Digital-Anywhere-Effortless/dp/B0BHX94SSQ?th=1"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/?utm_source=convertkit&utm_medium=convertit&utm_campaign=footer"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/68u8wxgppu8hkxkep5s6sz7z4nkk"
+        }
+      ]
+    }
+  ]
 }

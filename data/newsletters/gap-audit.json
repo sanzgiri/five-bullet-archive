@@ -1,11 +1,34 @@
 {
-  "checked_at": "2026-07-21",
+  "checked_at": "2026-07-22",
   "timezone": "America/Los_Angeles",
   "methods": [
     "Hotmail sender-filtered searches covering each candidate Friday through the following Monday",
     "Public web searches for exact newsletter name and date",
+    "Gmail sender-filtered searches and full-message retrieval for candidate dates",
     "Milled public email archive searches",
     "Reddit searches"
+  ],
+  "confirmed_published_without_full_issue": [
+    {
+      "date": "2016-07-15",
+      "evidence": "The published Tribe of Mentors contents identify a Quotes I’m Pondering sequence covering June 24 through July 15, 2016.",
+      "source_url": "https://studylib.net/doc/28220074/tim-ferriss-tribe-of-mentors-audiobook"
+    },
+    {
+      "date": "2016-07-22",
+      "evidence": "The published Tribe of Mentors contents identify a Quotes I’m Pondering sequence beginning July 22, 2016.",
+      "source_url": "https://studylib.net/doc/28220074/tim-ferriss-tribe-of-mentors-audiobook"
+    },
+    {
+      "date": "2019-03-15",
+      "evidence": "Tim’s official documentary roundup attributes Trip of Compassion to the March 15, 2019 newsletter.",
+      "source_url": "https://tim.blog/2022/04/13/tim-ferriss-favorite-documentaries/"
+    },
+    {
+      "date": "2019-10-18",
+      "evidence": "Tim’s official 2019 reading roundup explicitly labels a What I’m reading entry October 18, 2019.",
+      "source_url": "https://tim.blog/2020/01/08/reading-recommendations/"
+    }
   ],
   "filled": [
     {
@@ -19,24 +42,32 @@
       "source": "milled",
       "subject": "5-Bullet Friday — July 22, 2022",
       "source_url": "https://milled.com/tim-ferriss-show-useful-lessons-from-workaholics-anonymous/5-bullet-friday-july-22-2022-Mp1bGE8o4vCPKAwQ"
+    },
+    {
+      "date": "2019-11-29",
+      "source": "gmail",
+      "subject": "5-Bullet Friday"
+    },
+    {
+      "date": "2020-01-03",
+      "source": "gmail",
+      "subject": "5-Bullet Friday"
+    },
+    {
+      "date": "2021-03-19",
+      "source": "gmail",
+      "subject": "5-Bullet Friday"
     }
   ],
   "unresolved_candidate_dates": [
-    "2016-07-15",
-    "2016-07-22",
     "2018-01-19",
     "2018-09-21",
-    "2019-03-15",
     "2019-03-29",
-    "2019-10-18",
-    "2019-11-29",
     "2019-12-20",
-    "2020-01-03",
-    "2021-03-19",
     "2021-10-01",
     "2021-12-31",
     "2022-02-11",
     "2022-03-25"
   ],
-  "interpretation": "Unresolved dates are publication candidates, not confirmed missing issues. Hotmail contained no qualifying newsletter in those windows, and the public searches performed did not establish that an issue was published."
+  "interpretation": "Four dates are confirmed publication dates but still lack a full source issue. The remaining eight dates are publication candidates, not confirmed missing issues: neither connected mailbox contained a qualifying newsletter in those windows, and date-specific public searches did not establish that an issue was published. Gmail supplied full issues for three previously missing dates."
 }

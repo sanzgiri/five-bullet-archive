@@ -6,7 +6,76 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Longread I’m re-reading —",
+      "category": "article",
+      "title": "The DIY Scientist, the Olympian, and the Mutated Gene",
+      "creator": null,
+      "note": "This is a fantastic read (especially for science nerds) about how a lay person can spot breakthrough ideas the scientific “experts” miss.",
+      "original_url": "https://www.propublica.org/article/muscular-dystrophy-patient-olympic-medalist-same-genetic-mutation",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.propublica.org/article/muscular-dystrophy-patient-olympic-medalist-same-genetic-mutation"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Person I’m learning more about —",
+      "category": "other",
+      "title": "Muḥammad ibn Mūsā al-Khwārizmī",
+      "creator": null,
+      "note": "(c. 780 – c. 850), formerly Latinized as Algoritmi, was a Persian scholar who produced works in mathematics, astronomy, and geography under the patronage of the Caliph Al-Ma'mun of the Abbasid Caliphate. Around 820 AD he was appointed as the astronomer and head of the library of the House of Wisdom in Baghdad.",
+      "original_url": "https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Music I’m listening to —",
+      "category": "music",
+      "title": "Sel",
+      "creator": "Smadj",
+      "note": "**\n\n**In case you missed it —  \n[My podcast episode with Michael Pollan on the new science of psychedelics](https://tim.blog/2018/05/06/michael-pollan-how-to-change-your-mind/).** This might be the most important podcast episode I’ve put out in the last two years. It will surprise you, perhaps shock you, and definitely make you think differently.",
+      "original_url": "https://www.youtube.com/watch?v=bPhxqFWcat8",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=bPhxqFWcat8"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/05/06/michael-pollan-how-to-change-your-mind/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“I should be suspicious of what I want.” — Rumi [](https://en.wikipedia.org/wiki/John_Muir) [](https://en.wikipedia.org/wiki/John_Muir)And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.",
+      "creator": "Rumi",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Rumi",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Rumi"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

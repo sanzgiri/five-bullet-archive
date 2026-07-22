@@ -6,7 +6,115 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Twitter thread I’m enjoying",
+      "category": "other",
+      "title": "No one knows how to actually learn a foreign language. I have been aggressively studying Spanish over the next month before I fly to Spain. Wanted to share a breakdown of what I’ve been doing, and how it differs from school...",
+      "creator": "Jack Raines",
+      "note": ". For those who would like to explore language learning further, [these posts](https://tim.blog/new-start-here/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#language-learning) will give you new tools and tricks for faster acquisition.",
+      "original_url": "https://twitter.com/Jack_Raines/status/1519041642665332737?s=20&t=7ZInl8b4Y1pJ67Nwtxc03A",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://twitter.com/Jack_Raines/status/1519041642665332737?s=20&t=7ZInl8b4Y1pJ67Nwtxc03A"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/Jack_Raines"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/new-start-here/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#language-learning"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m prepping to cook",
+      "category": "other",
+      "title": "Hot Rock Steak and Chimichurri Sauce",
+      "creator": "Remi Warren",
+      "note": ".",
+      "original_url": "https://www.youtube.com/watch?v=fEhM2CkeTS8",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=fEhM2CkeTS8"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/c/RemiWarren/about"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "My Friend",
+      "creator": "Groove Armada",
+      "note": "([YouTube](https://www.youtube.com/watch?v=zQc3opYjALk), [Spotify](https://open.spotify.com/track/1CUalyCHoiuVMjJQr2ps5U?autoplay=true)) by [Groove Armada](https://www.groovearmada.com/) ([@GrooveArmada](https://twitter.com/GrooveArmada)).",
+      "original_url": "https://www.youtube.com/watch?v=zQc3opYjALk",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=zQc3opYjALk"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=zQc3opYjALk"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/1CUalyCHoiuVMjJQr2ps5U?autoplay=true"
+        },
+        {
+          "type": "other",
+          "url": "https://www.groovearmada.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/GrooveArmada"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Series I’m watching",
+      "category": "video",
+      "title": "Old Enough!",
+      "creator": null,
+      "note": "This is a Scooby Snack for all the Japanophiles out there. These 10–15-minute episodes are perfect as emergency pick-me-ups. Here’s the description: “Children go on errands all by themselves for the very first time as a camera crew follows along in this beloved, long-running reality show from Japan.” Hat tip to JZ for this gem. いつもお世話になっております, JZ-kun!",
+      "original_url": "https://www.netflix.com/title/81506279",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.netflix.com/title/81506279"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The mind should be kept independent of any thoughts that arise within it. If the mind depends upon anything, it has no sure haven.” — The Diamond Sutra_ And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "The Diamond Sutra_ And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Diamond_Sutra",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Diamond_Sutra"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

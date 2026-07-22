@@ -7,7 +7,139 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Art I’m loving —",
+      "category": "other",
+      "title": "Víctor Hugo Yáñez Piña and his sculptures of people chiseling away at their own bodies",
+      "creator": null,
+      "note": "([@escultor\\_vhyp](https://www.instagram.com/escultor_vhyp/)). Hat tip to Mike N., who sent me [this article](https://mymodernmet.com/victor-hugo-yanez-pina-sculptures/) about Victor. Second, [**this amazing Lion Turtle piece**](https://www.gallerynucleus.com/detail/18722/#) **by** [**Lauren Henderson**](https://ko-fi.com/truffke) ([@truffke](http://instagram.com/truffke/)).",
+      "original_url": "https://escultores.com.mx/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://escultores.com.mx/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/escultor_vhyp/"
+        },
+        {
+          "type": "other",
+          "url": "https://mymodernmet.com/victor-hugo-yanez-pina-sculptures/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.gallerynucleus.com/detail/18722/#"
+        },
+        {
+          "type": "other",
+          "url": "https://ko-fi.com/truffke"
+        },
+        {
+          "type": "other",
+          "url": "http://instagram.com/truffke/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "New word I’ve learned —",
+      "category": "other",
+      "title": "Bathos",
+      "creator": null,
+      "note": ":** “an effect of anticlimax created by an unintentional lapse in mood from the sublime to the trivial or ridiculous.”",
+      "original_url": "https://www.wordgenius.com/words/bathos",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.wordgenius.com/words/bathos"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "ayahuasca",
+      "creator": "Luis Eduardo Luna \\[Complete Film\\]]",
+      "note": "youtube.com/watch?v=2NJBnCKSjmM)**.** If you’ve ever been interested in how [ayahuasca](https://en.wikipedia.org/wiki/Ayahuasca) is brewed in much of the Amazon, this captures the process. 99.9% of the remaining footage will be nonsensical to 99.9% of you, and therein lies the charm.",
+      "original_url": "https://en.wikipedia.org/wiki/Ayahuasca",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Ayahuasca"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Falling to Pieces",
+      "creator": "Faith No More",
+      "note": "([YouTube](https://www.youtube.com/watch?v=32bdevGClD4), [Spotify](https://open.spotify.com/track/20nb0Wl1yqoEERbUSILuG1)) by [Faith No More](http://www.fnm.com/) ([@faithnomore](https://twitter.com/faithnomore)), one of my favorite bands of all time. [Mr. Bungle](https://mrbungle.com/) ([@mrbungle](https://twitter.com/mrbungle)) also gets a gold star.",
+      "original_url": "https://www.youtube.com/watch?v=32bdevGClD4",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=32bdevGClD4"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=32bdevGClD4"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/20nb0Wl1yqoEERbUSILuG1"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fnm.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/faithnomore"
+        },
+        {
+          "type": "other",
+          "url": "https://mrbungle.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/mrbungle"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“If you expect to succeed as a writer, rudeness should be the second-to-least of your concerns. The least of all should be polite society and what it expects. If you intend to write as truthfully as you can, your days as a member of polite society are numbered, anyway.” ― Stephen King (@StephenKing) From On Writing: A Memoir of the Craft And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": null,
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Stephen_King",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Stephen_King"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/stephenking?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Writing-Memoir-Craft-Stephen-King-ebook/dp/B000FC0SIM/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

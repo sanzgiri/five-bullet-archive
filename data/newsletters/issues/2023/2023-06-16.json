@@ -6,7 +6,262 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "YouTube channels I’m enjoying",
+      "category": "other",
+      "title": "Michelle Khare — Challenge Accepted",
+      "creator": null,
+      "note": "It’s great to see someone finally make this premise work! Michelle puts the work in, and it makes a big difference. The production value is excellent. Here are two recent eps to give you a taste: [I Tried Butler Academy](https://www.youtube.com/watch?v=nb6ZCS5dTSo) and [I Trained Like An Olympic Boxer](https://www.youtube.com/watch?v=LZanXTAeqGc).  \n​  \n​[**Sinix Design**](https://www.youtube.com/channel/UCUQTqWAaSzhAKRanOpes1nA)**.** Sinix has been saving my sanity, and keeping me focused, for the last few weeks of art practice. The video I’ve rewatched the most is [How to Learn Digital Painting (Beginners)](https://www.youtube.com/watch?v=iwRa5qTnr8o). It’s not about lines, Ferriss! Shapes! Shapes! Shapes!",
+      "original_url": "https://www.youtube.com/@MichelleKhare/videos",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/@MichelleKhare/videos"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=nb6ZCS5dTSo"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=LZanXTAeqGc"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/channel/UCUQTqWAaSzhAKRanOpes1nA"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=iwRa5qTnr8o"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "The Mandibles: A Family, 2029–2047",
+      "creator": "Lionel Shriver",
+      "note": "(best known for [_We Need to Talk About Kevin_](https://en.wikipedia.org/wiki/We_Need_to_Talk_About_Kevin)) and narrated by [George Newbern](https://en.wikipedia.org/wiki/George_Newbern). From the description: “With dry wit and psychological acuity, this near-future novel explores the aftershocks of an economically devastating US sovereign debt default on four generations of a once-prosperous American family. Down-to-earth and perfectly realistic in scale, this is not an over-the-top _Blade Runner_ tale. It is not science fiction.” Before committing too hard to a near-term dystopian future, however, it’s a good idea to read the predictions in [_Market Wizards: Interviews with Top Traders_](https://www.amazon.com/gp/product/0135560934?ref_=dbs_m_mng_rwt_calw_thcv_0&storeType=ebooks)_,_ first published in 1989. The end has been nigh for the US for a long time, but it’s still ticking 30+ years later, albeit with some serious bugs. Special thanks to J. for both recommendations.",
+      "original_url": "https://www.amazon.com/The-Mandibles-Lionel-Shriver-audiobook/dp/B01EGDJOA8/ref=tmm_aud_swatch_0",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/The-Mandibles-Lionel-Shriver-audiobook/dp/B01EGDJOA8/ref=tmm_aud_swatch_0"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Lionel_Shriver"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/We_Need_to_Talk_About_Kevin"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/George_Newbern"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/gp/product/0135560934?ref_=dbs_m_mng_rwt_calw_thcv_0&storeType=ebooks"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m rereading",
+      "category": "book",
+      "title": "Drawing on the Right Side of the Brain",
+      "creator": "Betty Edwards",
+      "note": ". This isn’t just for “artists.” This book is for anyone who’d like to be more creative and see the world with fresh eyes. Try the upside-down drawing exercise once, and it might just blow your mind. As Betty puts it in the Introduction: **“Many of my readers have intuitively understood that this book is not only about learning to draw, and it is certainly not about Art with a capital A. The true subject is** _**perception**_**. Yes, the lessons have helped many people attain the basic ability to draw, and that is a main purpose of the book. But the larger underlying purpose was always to … teach readers how to** _**see**_ **in new ways, with hopes that they would discover how to transfer perceptual skills to thinking and problem solving.”**​  \n​  \n​[Ed Catmull](https://tim.blog/2014/08/12/ed-catmull/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), co-founder of Pixar, said practically the same thing in [our hour-long conversation](https://tim.blog/2014/08/12/ed-catmull/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) together. Learning how to make basic ‘art’ isn’t frivolous—it teaches you, first and foremost, how to \\*see\\* the life around you much more clearly. Learning even primitive drawing, which you can do in a few afternoons, will fundamentally change how you see the world. As Betty writes: **“My students’ most frequent comment after learning to draw is ‘Life seems much richer now that I am seeing more.’”** ​  \n​  \nI’m skeptical of the neuroscience conclusions in the book, but the metaphors and exercises are rock solid.",
+      "original_url": "https://www.amazon.com/Drawing-Right-Side-Brain-Definitive/dp/1585429201/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Drawing-Right-Side-Brain-Definitive/dp/1585429201/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Betty_Edwards"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/08/12/ed-catmull/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/08/12/ed-catmull/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Animated adventure I’m watching to decompress",
+      "category": "video",
+      "title": "Wolfwalkers",
+      "creator": null,
+      "note": "I originally watched this with a friend’s family, several young kids included, and we all loved it. Short description: “A young apprentice hunter and her father journey to Ireland to help wipe out the last wolf pack. But everything changes when she befriends a free-spirited girl from a mysterious tribe rumored to transform into wolves by night.” **It has a** [**98% audience score**](https://www.rottentomatoes.com/m/wolfwalkers) **on Rotten Tomatoes, and you can** [**find the trailer here**](https://www.youtube.com/watch?v=d_Z_tybgPgg)**.**",
+      "original_url": "https://tv.apple.com/us/movie/wolfwalkers/umc.cmc.amuoq00hqelfi98j0gvg641x",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tv.apple.com/us/movie/wolfwalkers/umc.cmc.amuoq00hqelfi98j0gvg641x"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rottentomatoes.com/m/wolfwalkers"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=d_Z_tybgPgg"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The purpose of art is not the release of a momentary ejection of adrenalin but is, rather, the gradual, lifelong construction of a state of wonder and serenity.” — Glenn Gould (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with this video that takes you behind the scenes of my Procreate drawing process, this clip with Kevin Kelly on the power of optimism, and my conversation with artist Dustin Yellin. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Glenn Gould",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Glenn_Gould",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Glenn_Gould"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/45CJ7"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=Krn2qDVaiTw"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=5H9U3NSWIYU"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/09/24/dustin-yellin/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "P.P.S.",
+      "category": "other",
+      "title": "Dax Shepard’s Armchair Expert",
+      "creator": null,
+      "note": "podcast ([click here to see photos](https://armchairexpertpod.com/pods/tim-ferriss)) and [_The Colin and Samir Show_](https://www.youtube.com/watch?v=ROymrQKsxSM) ([filmed in 4K at their Los Angeles studio](https://www.youtube.com/watch?v=ROymrQKsxSM)). I don’t switch seats often, but I had a blast with both.\n\n### Forwarded this message? [Sign up here](https://go.tim.blog/5-bullet-friday-1/?utm_source=convertkit&utm_medium=convertit&utm_campaign=footer).\n\nJoin millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff.\n\n[Sign Up](https://go.tim.blog/5-bullet-friday-1/)\n\n![Tim Ferriss](https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png) \n\n### Listen to _The Tim Ferriss Show_ Podcast\n\n_The Tim Ferriss Show_ is one of the most popular podcasts in the world with more than 900 million downloads. It has been selected for \"Best of Apple Podcasts\" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts   \non many occasions.\n\n  [![Apple Podcasts](https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png)  Podcasts](https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2) \n\n  [![Apple Podcast](https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png)  Apple Podcasts](https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2) \n\n  [![Overcast](https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png)  Overcast](https://overcast.fm/itunes863897795/the-tim-ferriss-show)    [![Spotify](https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png)  Spotify](https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM)    [![Tim's Blog](https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png)  Tim's Blog](https://tim.blog/podcast?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test)\n\n### Read Tim's Books\n\n[![Read Tim's Books](https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png)](https://tim.blog/tim-ferriss-books/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test)\n\n  [![Amazon](https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png)  Amazon](https://www.amazon.com/Timothy-Ferriss/e/B001ILKBW2%3Fref=dbs_a_mng_rwt_scns_share)    [![Audible](https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png)  Audible](https://www.audible.com/ep/TimsBooks)   [![B & N](https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png) B & N](https://www.barnesandnoble.com/s/%22Timothy%20Ferriss%22?Ntk=P_key_Contributor_List)    [![Tim's Blog](https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png)  Tim's Blog](https://tim.blog/tim-ferriss-books/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test)\n\nFollow Tim:\n\n[![TW](https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png)](https://twitter.com/tferriss)\n\n[![IG](https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png)](https://www.instagram.com/timferriss/)\n\n[![YT](https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png)](https://www.youtube.com/channel/UCznv7Vf9nBdJYvBagFdAHWw)\n\n[![FB](https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png)](https://www.facebook.com/TimFerriss)\n\n[![IN](https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png)](https://www.linkedin.com/in/timferriss/)\n\n**DO NOT REPLY HERE**: Due to volume, please do not reply to this email. Sadly we are unable to read 1000+ email replies daily. To reply to Tim, please do so in the blog comments [here](https://tim.blog/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test).\n\nNo longer want these emails?  [Unsubscribe](https://unsubscribe.fourhourmail.com/68u8wxgppu8hkld775h6)\n\n3​11​2 Win​dso​r R​d., Box #UNS, Austin TX 78703, United States\n\n​\n\n![](https://open.fourhourmail.com/68u8wxgppu8hkld775h6)",
+      "original_url": "https://armchairexpertpod.com/pods/tim-ferriss",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://armchairexpertpod.com/pods/tim-ferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://armchairexpertpod.com/pods/tim-ferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=ROymrQKsxSM"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=ROymrQKsxSM"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/?utm_source=convertkit&utm_medium=convertit&utm_campaign=footer"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/68u8wxgppu8hkld775h6"
+        }
+      ]
+    }
+  ]
 }

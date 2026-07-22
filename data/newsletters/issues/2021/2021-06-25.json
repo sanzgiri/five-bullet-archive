@@ -7,7 +7,155 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Tech tool I’m using —",
+      "category": "other",
+      "title": "‎Amphetamine on the Mac App Store",
+      "creator": null,
+      "note": "I love my newest MacBook, but I sometimes run into a problem: no matter how I fuss with settings (System Preferences), my display will inexplicably sleep and stop things like [Dropbox](https://www.dropbox.com/) from syncing. It’s a real hassle, especially when uploading large audio files. My brother ran into a similar problem when running programs that take hours to execute, and he found an app called Caffeine that fixed the problem. To my dismay, Caffeine had been discontinued by the developer, but I found a similar app to fill the void: Amphetamine! Hilarious. The app has also worked like a charm. Here’s the description: “Welcome to Amphetamine, the most awesome keep-awake app ever created for macOS. Amphetamine can keep your Mac, and optionally its display(s), awake through a super simple on/off switch, or automatically through easy-to-configure Triggers. Amphetamine is extremely powerful and includes advanced features for those who need them, yet remains intuitive and easy-to-use for those who don’t need all of the bells and whistles.”",
+      "original_url": "https://apps.apple.com/us/app/amphetamine/id937984704?mt=12",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://apps.apple.com/us/app/amphetamine/id937984704?mt=12"
+        },
+        {
+          "type": "other",
+          "url": "https://www.dropbox.com/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Podcast I’m listening to —",
+      "category": "podcast",
+      "title": "Finding Grace with Paul Williams",
+      "creator": null,
+      "note": "on the** [**_How to Human_** **podcast**](https://podcasts.apple.com/us/podcast/finding-grace-with-paul-williams/id1310883492?i=1000397983077)**_._** This is one of the best podcast episodes I’ve heard in the last year. There are 5–10 slower minutes near the middle, but it’s nearly all highlights otherwise. Description: “Paul Williams is an American composer, singer, songwriter and actor responsible for some of the great songs of the 20th century. He has written songs that were sung by David Bowie, Barbra Streisand, Three Dog Night, The Carpenters, and even Kermit the Frog. He most recently won the Grammy for album of the year in collaboration with Daft Punk. But we’re not here to talk about any of that. We’re here to talk about Paul’s biggest accomplishment: finding grace. Paul got all the fame, money, and acclaim anyone could ever hope for, and none of those things filled the emptiness and loneliness inside. This is a conversation about finding our way home and feeling comfortable in our own skin.” If you like this episode, you may also enjoy my conversation with BJ Miller, MD (“[The Man Who Studied 1,000 Deaths to Learn How to Live](https://tim.blog/2016/04/14/bj-miller/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)”).",
+      "original_url": "http://hellohumans.co/blog/finding-grace-paul-williams",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://hellohumans.co/blog/finding-grace-paul-williams"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/finding-grace-with-paul-williams/id1310883492?i=1000397983077"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2016/04/14/bj-miller/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Psychedelics Weren’t As Common in Ancient Cultures As We Think",
+      "creator": "Manvir Singh",
+      "note": "([@mnvrsngh](https://twitter.com/mnvrsngh?lang=en)) for _VICE_. This is a great piece, and it taught me a lot. I don’t agree with every sentence or every sentiment, but if you only read things you totally agree with, you’re reading the wrong stuff. This article points out a number of seductive narratives, historical fallacies, and other fictions that spread easily throughout the psychedelic ecosystem. As iconic physicist and Nobel Prize winner Richard Feynman famously said, “The first principle is that you must not fool yourself, and you are the easiest person to fool.” Many of the compounds that psychedelic practitioners _want_ to have millenia-old indigenous roots simply do not; 5-MeO-DMT from the Sonoran Desert toad (often referred to as “bufo” or “toad”) is one such example. As chemist and filmmaker [Hamilton Morris](https://tim.blog/2021/04/27/hamilton-morris-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) texted me via SMS: “There is absolutely no evidence of B. alvarius smoking before the publication of [Ken Nelson’s pamphlet](https://www.psychedelictoadofthesonorandesert.com/) \\[in 1983\\], the evidence for any form of indigenous use of B. alvarius is highly speculative, and I find none of it convincing.... The smoking of B. alvarius venom among Seri people appears to be a modern practice that is almost universally attributed to outside influences.” For more thoughts on toad-derived 5-MeO-DMT, [please read this](https://tim.blog/2021/02/21/urgent-plea-users-of-psychedelics-ethical-plants-compounds/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). That all said, there appears to be good evidence, including some confirmation with carbon dating, suggesting human consumption of select hallucinogens and other psychoactive plants from 1,000+ years ago. For those who’d like to dig deeper, I encourage reading the above _VICE_ piece, as well as these three sources as a counterpoint:  \n“[Chemical evidence for the use of multiple psychotropic plants in a 1,000-year-old ritual bundle from South America](https://www.pnas.org/content/116/23/11207)”  \n“[Radiocarbon Dating of Atacama (Chile) Snuff Trays: An Update on Stylistic and Chronological Correlations](https://www.researchgate.net/publication/272498809_Radiocarbon_Dating_of_Atacama_Chile_Snuff_Trays_An_Update_on_Stylistic_and_Chronological_Correlations)”  \n“[The oldest archeological data evidencing the relationship of _Homo sapiens_ with psychoactive plants: A worldwide overview](https://akjournals.com/view/journals/2054/3/2/article-p63.xml)” (Despite a few typos, this last publication does a nice job of explaining different types of direct and indirect evidence.)",
+      "original_url": "https://www.vice.com/en/article/4adngq/psychedelic-drug-use-in-ancient-indigenous-cultures",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.vice.com/en/article/4adngq/psychedelic-drug-use-in-ancient-indigenous-cultures"
+        },
+        {
+          "type": "other",
+          "url": "https://www.manvir.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/mnvrsngh?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/04/27/hamilton-morris-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.psychedelictoadofthesonorandesert.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/02/21/urgent-plea-users-of-psychedelics-ethical-plants-compounds/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.pnas.org/content/116/23/11207"
+        },
+        {
+          "type": "other",
+          "url": "https://www.researchgate.net/publication/272498809_Radiocarbon_Dating_of_Atacama_Chile_Snuff_Trays_An_Update_on_Stylistic_and_Chronological_Correlations"
+        },
+        {
+          "type": "other",
+          "url": "https://akjournals.com/view/journals/2054/3/2/article-p63.xml"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Unfold",
+      "creator": "Alina Baraz",
+      "note": "([YouTube](https://www.youtube.com/watch?v=ZGlhIIuifSw), [Spotify](https://open.spotify.com/track/09PoaJt4ZlYBUL8yHNTjbk?si=ba3bb1d4dafb4c36)) by [Alina Baraz](https://en.wikipedia.org/wiki/Alina_Baraz) ([@alinabaraz)](https://twitter.com/alinabaraz?lang=en) and [Galimatias](https://en.wikipedia.org/wiki/Galimatias) ([@Galimatias](https://twitter.com/galimatias)).",
+      "original_url": "https://www.youtube.com/watch?v=ZGlhIIuifSw",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=ZGlhIIuifSw"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=ZGlhIIuifSw"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/09PoaJt4ZlYBUL8yHNTjbk?si=ba3bb1d4dafb4c36"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Alina_Baraz"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/alinabaraz?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Galimatias"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/galimatias"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“A man who has a vision is not able to use the power of it until after he has performed the vision on earth for the people to see.” — Black Elk And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Black Elk And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Black_Elk",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Black_Elk"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

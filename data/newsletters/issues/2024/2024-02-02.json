@@ -6,7 +6,151 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "New blog post I’m very excited about",
+      "category": "article",
+      "title": "No Biological Free Lunches",
+      "creator": null,
+      "note": "It’s alarming how many folks now treat “T” or “TRT” (testosterone replacement therapy) as something akin to taking a multivitamin, when they never would have considered taking androgenic-anabolic steroids (AAS) a few years earlier. Like Patagonian toothfish has become Chilean sea bass on fashionable menus worldwide, it’s quite the rebrand story, but that doesn’t change the underlying biology, which is nuanced. [**I explore this, performance-enhancing drugs in general, and much more in my brand-new blog post here**](https://tim.blog/2024/02/02/no-biological-free-lunches/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content)**.** Included are some personal experiences with anabolics, which I don’t regret, and I highlight the importance of framing trade-offs and risks correctly, including seven guidelines I regularly use. There are recommended resources as well.\n\n**Please — If you’d like me to write blog posts,** [**leave a comment on this blog post**](https://tim.blog/2024/02/02/no-biological-free-lunches/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content)**. Writing is a lot harder than podcasting, so I need to know that you want more if I’m going to justify the significant time investment.**",
+      "original_url": "https://tim.blog/2024/02/02/no-biological-free-lunches/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2024/02/02/no-biological-free-lunches/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/02/02/no-biological-free-lunches/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/02/02/no-biological-free-lunches/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Song I’m looping as we slide into the weekend",
+      "category": "music",
+      "title": "Vivrant Thing",
+      "creator": "Q-Tip",
+      "note": "([Apple Music](https://music.apple.com/us/album/vivrant-thing/1244760008?i=1244760919), [Spotify](https://open.spotify.com/track/4YCBBxP0AeWPpEwidahrha), [YouTube](https://www.youtube.com/watch?v=hYTjBhplTGY)) by [Q-Tip](https://www.instagram.com/qtiptheabstract/).",
+      "original_url": "https://www.youtube.com/watch?v=hYTjBhplTGY",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=hYTjBhplTGY"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/album/vivrant-thing/1244760008?i=1244760919"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/4YCBBxP0AeWPpEwidahrha"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=hYTjBhplTGY"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/qtiptheabstract/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Profile I’m reading",
+      "category": "article",
+      "title": "Overlooked No More: Beatrix Potter, Author of ‘The Tale of Peter Rabbit’",
+      "creator": null,
+      "note": "via JZ, Dr. Jeffrey Zurofsky from [_The 4-Hour Chef_](https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/). From the article:  \n​  \n​_With “_[_The Tale of Peter Rabbit_](https://en.wikipedia.org/wiki/The_Tale_of_Peter_Rabbit)_,” Beatrix Potter created what would become one of the world’s best-known children’s book characters.  \n​  \nThe book, about a cheeky rabbit who steals vegetables from the garden of one Mr. McGregor and loses his coat and shoes in a narrow escape, became a literary juggernaut that has sold more than 45 million copies. It also spawned a merchandising empire and has left an indelible imprint on children’s book publishing.  \n​  \nBut Potter’s manuscript was initially dismissed by publishers..._",
+      "original_url": "https://www.nytimes.com/2024/01/19/obituaries/beatrix-potter-overlooked.html?smid=nytcore-ios-share&referringSource=articleShare",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/2024/01/19/obituaries/beatrix-potter-overlooked.html?smid=nytcore-ios-share&referringSource=articleShare"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/The_Tale_of_Peter_Rabbit"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Podcast episode I’m listening to",
+      "category": "podcast",
+      "title": "Psychedelics with Joe Green",
+      "creator": null,
+      "note": "([Apple Podcasts](https://podcasts.apple.com/us/podcast/on-with-kara-swisher/id1643307527?i=1000642076349), [Spotify](https://open.spotify.com/episode/6t9W2X3JDVHQM7Mq3A7qNk?si=i_chTVhJRPKOEos3Sg--aw)) on the [_On with Kara Swisher_](https://podcasts.apple.com/us/podcast/on-with-kara-swisher/id1643307527) podcast. I skip most podcasts about psychedelics, but Joe and Kara both did an outstanding job in this conversation, with hard questions and answers that cover specifics. You’ll learn many stats and facts I’d never heard assembled in one place. This is a great “where we are and where we are going” overview of the ecosystem, especially as related to Oregon, MDMA-assisted psychotherapy as the tip of the spear, and reclassification as only one piece of the fascinating puzzle. For those interested in exploring the [Psychedelic Science Funders Collaborative](https://psfc.co/) further, take a look [here](https://psfc.co/).",
+      "original_url": "https://podcasts.apple.com/us/podcast/on-with-kara-swisher/id1643307527?i=1000642076349",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://podcasts.apple.com/us/podcast/on-with-kara-swisher/id1643307527?i=1000642076349"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/on-with-kara-swisher/id1643307527?i=1000642076349"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/6t9W2X3JDVHQM7Mq3A7qNk?si=i_chTVhJRPKOEos3Sg--aw"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/on-with-kara-swisher/id1643307527"
+        },
+        {
+          "type": "other",
+          "url": "https://psfc.co/"
+        },
+        {
+          "type": "other",
+          "url": "https://psfc.co/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Most people end up being conformists; they adapt to prison life. A few become reformers; they fight for better lighting, better ventilation. Hardly anyone becomes a rebel, a revolutionary who breaks down the prison walls. You can only be a revolutionary when you see the prison walls in the first place.” — Anthony de Mello_ _(Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with the latest The Tim Ferriss Experiment episode on the art of parkour; my most recent interview with Dr. Peter Attia on the science and art of longevity; and my conversation with coach Jerry Colonna on how to reboot yourself and feel unrushed in the new year. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Anthony de Mello_ _",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Anthony_de_Mello",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Anthony_de_Mello"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/intent/tweet?text=%E2%80%9CMost%20people%20end%20up%20being%20conformists%3B%20they%20adapt%20to%20prison%20life.%20...%20Hardly%20anyone%20becomes%20a%20rebel%2C%20a%20revolutionary%20who%20breaks%20down%20the%20prison%20walls.%E2%80%9D%0D%0A%E2%80%94%20Anthony%20de%20Mello%0D%0A%0D%0Avia%20the%205-Bullet%20Friday%20newsletter%20%28tim.blog%2Ffbf%29%20from%20%40tferriss&original_referer=https://clicktotweet.com&related=clicktotweet"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/qSSlZCDQta4"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/03/14/peter-attia-outlive/#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=gbud8IPXwNs"
+        }
+      ]
+    }
+  ]
 }

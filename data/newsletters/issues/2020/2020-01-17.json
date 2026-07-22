@@ -1,13 +1,209 @@
 {
   "schema_version": 1,
   "issue_date": "2020-01-17",
-  "subject": "5-Bullet Friday — January 17, 2020 ",
+  "subject": "5-Bullet Friday — January 17, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Documentary I’m watching —",
+      "category": "video",
+      "title": "Mike Wallace Is Here",
+      "creator": null,
+      "note": "This doc found me at exactly the right time. I’m in the midst of studying many different types of interviewers (Terry Gross vs. Larry King vs. Joe Rogan vs. Charlie Rose vs. James Lipton, etc.) to improve my own game in 2020. Mike is an archetype of the Southern Tiger Claw kung-fu style of interviewing, kicks to the balls included. He can be brutal. And while I wouldn’t duplicate all aspects of his approach, I think there is much to learn. Some of the clips in this doc are tense beyond words. The footage of Mike with Ayatollah Khomeini, as but one example, will make your stomach do flips. Here’s the official description: “For over half a century, 60 Minutes’ fearsome newsman Mike Wallace went head-to-head with the world’s most influential figures. Relying exclusively on archival footage, the film interrogates the interrogator, tracking Mike’s storied career and troubled personal life while unpacking how broadcast journalism evolved to today’s precarious tipping point.” You can [find the trailer here](https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/zefghnhrwp937l/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1kRFNxMmZGOWZsaw==). Highly recommended.",
+      "original_url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/xwiph6hd398wz0/aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL21vdmllL21pa2Utd2FsbGFjZS1pcy1oZXJlL2lkMTQ3MzU0MTcwMg==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/xwiph6hd398wz0/aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL21vdmllL21pa2Utd2FsbGFjZS1pcy1oZXJlL2lkMTQ3MzU0MTcwMg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/zefghnhrwp937l/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1kRFNxMmZGOWZsaw=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Experiment I’m super excited about —",
+      "category": "other",
+      "title": "Twitter",
+      "creator": null,
+      "note": "or [Facebook](https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/vvc3hrh3ge2p3g/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1RpbUZlcnJpc3MvcG9zdHMvMTAxNTg2MDQ2MzAyNzIyNDE=) (simply “yes” or “no”) to let me know what you think? I have some decisions to make on this very soon. ([Click here](https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/w8s2hghvgx9wvo/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcy9zdGF0dXMvMTIxNzIxMDAyNTM2MzU0MjAxOA==) to vote on Twitter and/or [click here](https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/mga7h5h0emk80e/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1RpbUZlcnJpc3MvcG9zdHMvMTAxNTg2MDQ2MzAyNzIyNDE=) to vote on Facebook.)",
+      "original_url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/nmtohvh5r6w35o/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcy9zdGF0dXMvMTIxNzIxMDAyNTM2MzU0MjAxOA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/nmtohvh5r6w35o/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcy9zdGF0dXMvMTIxNzIxMDAyNTM2MzU0MjAxOA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/vvc3hrh3ge2p3g/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1RpbUZlcnJpc3MvcG9zdHMvMTAxNTg2MDQ2MzAyNzIyNDE="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/w8s2hghvgx9wvo/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcy9zdGF0dXMvMTIxNzIxMDAyNTM2MzU0MjAxOA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/mga7h5h0emk80e/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1RpbUZlcnJpc3MvcG9zdHMvMTAxNTg2MDQ2MzAyNzIyNDE="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Article I’m reading —",
+      "category": "article",
+      "title": "The Tragedy of the Commons",
+      "creator": "Garrett Hardin, Science_, December 13, 1968, 1243–1248",
+      "note": "Thanks to Shane Parrish ([@ShaneAParrish](https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/3mhphkh9z467n6/aHR0cHM6Ly90d2l0dGVyLmNvbS9TaGFuZUFQYXJyaXNo)) of [Farnam Street](https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/wgu2hghvgx9w3k/aHR0cHM6Ly9mcy5ibG9nLw==) for pointing me to this. This is an incredibly thought-provoking read. Even if you think you understand the concept of the “tragedy of the commons,” this original piece that introduced the phrase offers a lot of food for thought.",
+      "original_url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/2xb2hoh0d4r20q/aHR0cHM6Ly9zY2llbmNlLnNjaWVuY2VtYWcub3JnL2NvbnRlbnQvc2NpLzE2Mi8zODU5LzEyNDMuZnVsbC5wZGY=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/2xb2hoh0d4r20q/aHR0cHM6Ly9zY2llbmNlLnNjaWVuY2VtYWcub3JnL2NvbnRlbnQvc2NpLzE2Mi8zODU5LzEyNDMuZnVsbC5wZGY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/3mhphkh9z467n6/aHR0cHM6Ly90d2l0dGVyLmNvbS9TaGFuZUFQYXJyaXNo"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/wgu2hghvgx9w3k/aHR0cHM6Ly9mcy5ibG9nLw=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "To Know You Is to Love You",
+      "creator": "Greyboy",
+      "note": "([@DJGreyBoy](https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/o6tkhqhlog3r7w/aHR0cHM6Ly90d2l0dGVyLmNvbS9ESkdSRVlCT1k=)) featuring [Bart Davenport](https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/6wceh8h6onv7d0/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL2FydGlzdC80SXZuWjZYZkhoNmNPeDhESWsxU09T) ([@bartdavenport](https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/5zsvh7ho7kpmz3/aHR0cHM6Ly90d2l0dGVyLmNvbS9iYXJ0ZGF2ZW5wb3J0P2xhbmc9ZW4=)).",
+      "original_url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/v3i3hrh3ge2pdd/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1XTUpMY1JOUFVuSQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/v3i3hrh3ge2pdd/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1XTUpMY1JOUFVuSQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/dvfeh0hw58z0mq/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL2FydGlzdC80dk1LQWI2ZE9jTnQxYjVvY01kQkNtL2Fib3V0"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/o6tkhqhlog3r7w/aHR0cHM6Ly90d2l0dGVyLmNvbS9ESkdSRVlCT1k="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/6wceh8h6onv7d0/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL2FydGlzdC80SXZuWjZYZkhoNmNPeDhESWsxU09T"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/5zsvh7ho7kpmz3/aHR0cHM6Ly90d2l0dGVyLmNvbS9iYXJ0ZGF2ZW5wb3J0P2xhbmc9ZW4="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“I remember my grandfather telling me how each of us must live with a full measure of loneliness that is inescapable, and we must not destroy ourselves with our passion to escape the aloneness.” — Jim Harrison And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim P.S. Deal of the Week: Athletic Greens. I’m often asked: “If you could use only one supplement, what would it be?” My answer is usually Athletic Greens, which I consider my all-in-one nutritional insurance. I recommended it in The 4-Hour Body and did not get paid to do so. I often take it in the mornings and travel with it to minimize the likelihood of getting sick. Though I always focus on whole foods first, AG covers my bases if I can’t get everything I need through meals. And… through the end of the month, Athletic Greens has an exclusive offer on Amazon for “5-Bullet Friday” subscribers: save 20% on Athletic Greens Ultimate Daily Pouch or Athletic Greens Ultimate Daily Travel Packs. Purchase by clicking here for the pouch or here for the travel packs and entering coupon code TFAMZ2020. \\[NOTE: You will enter the coupon code when you reach the payment screen on Amazon. Look for the “Add a gift card or promotion code or voucher” field, enter TFAMZ2020, and the discount will be applied.\\] P.P.S. Next Wednesday, January 22nd >>> Austin, Texas, will come together for the third annual Hi, How Are You Day, both to celebrate the life and legacy of artist Daniel Johnston and to recognize the importance of mental health awareness. Hosted at ACL Live at the Moody Theater (@acllive), this concert will feature Cage the Elephant, White Denim, Tunde Adebimpe from TV on the Radio, Dan Luke and the Raid, Jason Falkner, and Katie Schecter. Proceeds fund mental health education and awareness programs across the country. You can buy tickets on the official website, and the concert will be livestreamed at 7:30 PM CT. Learn more about the Hi, How Are You Project, so named for a mural made famous by Kurt Cobain, at [](https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/mv0f7h5h0emk8nw/aHR0cHM6Ly9oaWhvd2FyZXlvdS5vcmcv)www.hihowareyou.org. And if you find yourself in a dark place, dear reader, please read my very personal blog post titled “Some Practical Thoughts on Suicide.” [](https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/n4dsohvh5r6w3n8/aHR0cHM6Ly90aW0uYmxvZy90aW0tZmVycmlzcy1ib29rcy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9zb3VyY2U9bWVkaXVtPTViZi10ZW1wbGF0ZS1oZWFkZXI=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Jim Harrison And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim P.S. Deal of the Week: Athletic Greens. I’m often asked: “If you could use only one supplement, what would it be?” My answer is usually Athletic Greens, which I consider my all-in-one nutritional insurance. I recommended it in The 4-Hour Body and did not get paid to do so. I often take it in the mornings and travel with it to minimize the likelihood of getting sick. Though I always focus on whole foods first, AG covers my bases if I can’t get everything I need through meals. And… through the end of the month, Athletic Greens has an exclusive offer on Amazon for “5-Bullet Friday” subscribers: save 20% on Athletic Greens Ultimate Daily Pouch or Athletic Greens Ultimate Daily Travel Packs. Purchase by clicking here for the pouch or here for the travel packs and entering coupon code TFAMZ2020. \\",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/geanh5hop673k9/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSmltX0hhcnJpc29u",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/geanh5hop673k9/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSmltX0hhcnJpc29u"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/34bphkh9z467ng/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/rxh8hohvxw90eg/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9kcC9CMDBUSEVQU1BXP3JlZj1teWlfdGl0bGVfZHA="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/0luwh9hwzg0dk3/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9kcC9CMDBUSEVQU1BXP3JlZj1teWlfdGl0bGVfZHA="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/8viqhohp9qelxm/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9kcC9CMDBUSEVQU1BXP3JlZj1teWlfdGl0bGVfZHA="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/vzf3hrh3ge2pdz/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9kcC9CMDBUSEVQU1BXP3JlZj1teWlfdGl0bGVfZHA="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/6nteh8h6onv726/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9kcC9CMDgxQjQ5MUZNP3JlZj1teWlfdGl0bGVfZHA="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/mqc7h5h0emk87d/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9kcC9CMDBUSEVQU1BXP3JlZj1teWlfdGl0bGVfZHA="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/5q8svh7ho7kpm9o/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9kcC9CMDgxQjQ5MUZNP3JlZj1teWlfdGl0bGVfZHA="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/r88a8hohvxw905n/aHR0cHM6Ly9oaWhvd2FyZXlvdS5vcmcv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/v80b3hrh3ge2pkl/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRGFuaWVsX0pvaG5zdG9u"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/d09heh0hw58z07n/aHR0cHM6Ly90d2l0dGVyLmNvbS9hY2xsaXZl"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/v84u3hrh3ge2pk8/aHR0cHM6Ly9oaWhvd2FyZXlvdS5vcmcv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/xm6iph6hd398w7q/aHR0cDovL3N0aW5ncmF5LmNvbS9oaGF5"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/27wt2hoh0d4r2ox/aHR0cDovL3d3dy5oaWhvd2FyZXlvdS5vcmc="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/929czhnh39zkpgk/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzA1LzA2L2hvdy10by1jb21taXQtc3VpY2lkZS8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm"
+        },
+        {
+          "type": "other",
+          "url": "https://files.convertkitcdn.com/assets/pictures/11125/2272828/content_Book_Header_FINAL.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/wvga2hghvgx9wrk/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/wvunxemrraghx95nxu8"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghx95nxu8/qdlh8h7h2nogr7n/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

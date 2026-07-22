@@ -6,7 +6,112 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Ecstasy as a Remedy for PTSD? You Probably Have Some Questions",
+      "creator": null,
+      "note": "(New York Times)",
+      "original_url": "https://el2.fourhourmail.com/c/qdurox544u7h24lkx/78i7h8/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAxOC8wNS8wMS91cy9lY3N0YXN5LW1vbGx5LXB0c2QtbWRtYS5odG1s",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7h24lkx/78i7h8/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAxOC8wNS8wMS91cy9lY3N0YXN5LW1vbGx5LXB0c2QtbWRtYS5odG1s"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Mental model I’m thinking a lot about —",
+      "category": "other",
+      "title": "Farnam Street",
+      "creator": null,
+      "note": "). More can be found in [the Wikipedia entry](https://el2.fourhourmail.com/c/qdurox544u7h24lkx/zvtghn/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSGFubG9uJ3NfcmF6b3I=).\n\n**What I’m experimenting with —  \n[MyPurMist handheld steam inhaler](https://el2.fourhourmail.com/c/qdurox544u7h24lkx/pnceh9/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9NeVB1ck1pc3QtSGFuZGhlbGQtUGVyc29uYWwtSW5oYWxlci1WYXBvcml6ZXIvZHAvQjA3NjVQUzVGMS8=).** I recently began taking vocal lessons, and my teacher recommended using a steam inhaler for sinus congestion and throat soreness. It’s become a twice-daily habit at 20-30 deep breaths per session, usually just before breakfast and bedtime. I feel remarkably different afterward. Is it from the steam, deep breathing (part of the reason smokers have a hard time quitting), both, or neither? I’m not sure, but it does help me train (sing) more consistently and sleep more soundly. MyPurMist was the first unit I purchased and may not be the best, as the sensor for water levels seems off. Also worth noting: the inhaler only began to help with sinus congestion when I set the steam heat setting to high.",
+      "original_url": "https://el2.fourhourmail.com/c/qdurox544u7h24lkx/opfkhq/aHR0cHM6Ly93d3cuZnMuYmxvZy9tZW50YWwtbW9kZWxzLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7h24lkx/opfkhq/aHR0cHM6Ly93d3cuZnMuYmxvZy9tZW50YWwtbW9kZWxzLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7h24lkx/zvtghn/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSGFubG9uJ3NfcmF6b3I="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7h24lkx/pnceh9/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9NeVB1ck1pc3QtSGFuZGhlbGQtUGVyc29uYWwtSW5oYWxlci1WYXBvcml6ZXIvZHAvQjA3NjVQUzVGMS8="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Person I’m following on Twitter —",
+      "category": "other",
+      "title": "@tylercowen",
+      "creator": null,
+      "note": "), bio on Twitter**: “Professor of Economics, George Mason University, [marginalrevolution.com](https://el2.fourhourmail.com/c/qdurox544u7h24lkx/60aeh8/aHR0cDovL3d3dy5tYXJnaW5hbHJldm9sdXRpb24uY29t), [Bloomberg](https://el2.fourhourmail.com/c/qdurox544u7h24lkx/kmbmh6/aHR0cHM6Ly93d3cuYmxvb21iZXJnLmNvbS92aWV3L2NvbnRyaWJ1dG9ycy9BUzZuMnQzZF9pQS90eWxlci1jb3dlbg==).” He is also the host of the “[Conversations with Tyler](https://el2.fourhourmail.com/c/qdurox544u7h24lkx/52hvh7/aHR0cHM6Ly9tZWRpdW0uY29tL2NvbnZlcnNhdGlvbnMtd2l0aC10eWxlcg==)” podcast and [an accomplished author](https://el2.fourhourmail.com/c/qdurox544u7h24lkx/2ou2ho/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UeWxlci1Db3dlbi9lL0IwMDFJWE1SUzY=).",
+      "original_url": "https://el2.fourhourmail.com/c/qdurox544u7h24lkx/xksph6/aHR0cHM6Ly90d2l0dGVyLmNvbS90eWxlcmNvd2Vu",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7h24lkx/xksph6/aHR0cHM6Ly90d2l0dGVyLmNvbS90eWxlcmNvd2Vu"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7h24lkx/60aeh8/aHR0cDovL3d3dy5tYXJnaW5hbHJldm9sdXRpb24uY29t"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7h24lkx/kmbmh6/aHR0cHM6Ly93d3cuYmxvb21iZXJnLmNvbS92aWV3L2NvbnRyaWJ1dG9ycy9BUzZuMnQzZF9pQS90eWxlci1jb3dlbg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7h24lkx/52hvh7/aHR0cHM6Ly9tZWRpdW0uY29tL2NvbnZlcnNhdGlvbnMtd2l0aC10eWxlcg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7h24lkx/2ou2ho/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UeWxlci1Db3dlbi9lL0IwMDFJWE1SUzY="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Don't postpone joy until you have learned all of your lessons. Joy is your lesson.” — Alan Cohen And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim [](https://el2.fourhourmail.com/c/qdurox544u7h24lkx/gvfnh5/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. Seneca and Marcus, 60 29th Street, San Francisco, California 94110, United States",
+      "creator": "Alan Cohen And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/qdurox544u7h24lkx/q3i8h7/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7h24lkx/q3i8h7/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7h24lkx/93tzhn/aHR0cDovL2dvLmZvdXJob3Vyd29ya3dlZWsuY29tLzEweC1vdXRwdXQv"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/qdurox544u7h24lkx"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7h24lkx/nesohv/aHR0cDovL2ZvdXJob3Vyd29ya3dlZWsuY29tL2Jsb2c="
+        }
+      ]
+    }
+  ]
 }

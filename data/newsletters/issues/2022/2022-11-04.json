@@ -6,7 +6,195 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "The Days of Duveen: A legendary art dealer and his clients.",
+      "creator": null,
+      "note": ". This _New Yorker_ profile is a masterpiece. Not only is the subject matter fascinating, arguably the greatest art dealer of the last few centuries, but the writing is also spectacular. And if you think some of the language is dated, you’re right. It was originally published in 1951. Huge thanks to the inimitable [Cozomo de’ Medici](https://twitter.com/CozomoMedici) for sending this to me. For further reading on Duveen, [_Duveen: The Story of the Most Spectacular Art Dealer of All Time_](https://www.abebooks.com/Duveen-Story-Spectacular-Art-Dealer-Time/31337398137/bd?cm_mmc=ggl-_-US_Shopp_Trade_20to50-_-product_id=COM9781892145178USED-_-keyword=&gclid=CjwKCAjw5P2aBhAlEiwAAdY7dKpGGuYXRm9uAF3D1SCcROknnqNyCNH29MX8fFD-9Cml6cM3qQWBUxoCufwQAvD_BwE) ([Amazon](https://www.amazon.com/Duveen-Story-Most-Spectacular-Dealer/dp/1892145170/), [AbeBooks](https://www.abebooks.com/Duveen-Story-Spectacular-Art-Dealer-Time/31337398137/bd?cm_mmc=ggl-_-US_Shopp_Trade_20to50-_-product_id=COM9781892145178USED-_-keyword=&gclid=CjwKCAjw5P2aBhAlEiwAAdY7dKpGGuYXRm9uAF3D1SCcROknnqNyCNH29MX8fFD-9Cml6cM3qQWBUxoCufwQAvD_BwE)) has been recommended to me by both Cozomo and [Seth Godin](https://tim.blog/2020/10/26/seth-godin-the-practice/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf).",
+      "original_url": "https://www.newyorker.com/magazine/1951/09/29/the-days-of-duveen",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.newyorker.com/magazine/1951/09/29/the-days-of-duveen"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/S._N._Behrman"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/CozomoMedici"
+        },
+        {
+          "type": "other",
+          "url": "https://www.abebooks.com/Duveen-Story-Spectacular-Art-Dealer-Time/31337398137/bd?cm_mmc=ggl-_-US_Shopp_Trade_20to50-_-product_id=COM9781892145178USED-_-keyword=&gclid=CjwKCAjw5P2aBhAlEiwAAdY7dKpGGuYXRm9uAF3D1SCcROknnqNyCNH29MX8fFD-9Cml6cM3qQWBUxoCufwQAvD_BwE"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Duveen-Story-Most-Spectacular-Dealer/dp/1892145170/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.abebooks.com/Duveen-Story-Spectacular-Art-Dealer-Time/31337398137/bd?cm_mmc=ggl-_-US_Shopp_Trade_20to50-_-product_id=COM9781892145178USED-_-keyword=&gclid=CjwKCAjw5P2aBhAlEiwAAdY7dKpGGuYXRm9uAF3D1SCcROknnqNyCNH29MX8fFD-9Cml6cM3qQWBUxoCufwQAvD_BwE"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/10/26/seth-godin-the-practice/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Podcast episode I’m listening to",
+      "category": "podcast",
+      "title": "Watch Your Mouth",
+      "creator": null,
+      "note": "([Apple Podcasts](https://podcasts.apple.com/us/podcast/watch-your-mouth/id1028908750?i=1000581462249), [Spotify](https://open.spotify.com/episode/2gCqOT0FejphwMfBj2T4fi?si=97zYEennQg2_7MLaZS2Mhw), [Overcast](https://overcast.fm/+1WhMrrcmA)) from [_Hidden Brain_](https://podcasts.apple.com/us/podcast/hidden-brain/id1028908750). This podcast episode really captures why I study multiple languages. Here’s the official description: “If you’re bilingual or multilingual, you may have noticed that different languages make you stretch in different ways. This week, we revisit a favorite 2018 conversation with cognitive scientist [Lera Boroditsky](https://en.wikipedia.org/wiki/Lera_Boroditsky). She studies how the structure of the languages we speak can change the way we see the world. Then, a 2017 conversation with linguist and author [John McWhorter](https://en.wikipedia.org/wiki/John_McWhorter), who shares how languages evolve and why we’re sometimes resistant to those changes.” Two quick notes: I don’t totally agree with the Japanese example of “mendokusai” (pretty easily translated idiomatically as “\\[what a\\] pain in the ass”) or the Hebrew/gender conclusions, which could be explained in other ways, but there is a lot of great food for thought.",
+      "original_url": "https://podcasts.apple.com/us/podcast/watch-your-mouth/id1028908750?i=1000581462249",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://podcasts.apple.com/us/podcast/watch-your-mouth/id1028908750?i=1000581462249"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/watch-your-mouth/id1028908750?i=1000581462249"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/2gCqOT0FejphwMfBj2T4fi?si=97zYEennQg2_7MLaZS2Mhw"
+        },
+        {
+          "type": "other",
+          "url": "https://overcast.fm/+1WhMrrcmA"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/hidden-brain/id1028908750"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Lera_Boroditsky"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/John_McWhorter"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Short video I’m watching",
+      "category": "video",
+      "title": "Japanese Supermarkets / 日本のスーパー",
+      "creator": "Dōgen",
+      "note": "([@Dōgen](https://twitter.com/Dogen)). Having recently returned from Japan, this made me laugh. Why is the lighting in Japan SO bad?! What’s going on with all the battling music?! Thanks to Father [Craig Mod](https://craigmod.com/) ([@craigmod](https://twitter.com/craigmod)) for turning me on to Dōgen, whose Japanese is truly spectacular.",
+      "original_url": "https://www.youtube.com/watch?v=NH0Ik8jAi-8",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=NH0Ik8jAi-8"
+        },
+        {
+          "type": "other",
+          "url": "https://www.patreon.com/dogen"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/Dogen"
+        },
+        {
+          "type": "other",
+          "url": "https://craigmod.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/craigmod"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Videos I’m having fun with",
+      "category": "video",
+      "title": "YouTube Shorts",
+      "creator": null,
+      "note": ",** [**Instagram Reels**](https://www.instagram.com/timferriss/reels/)**, and** [**TikTok**](https://www.tiktok.com/@timferriss)**.** Check out [this hilarious Boyd Varty story](https://www.tiktok.com/@timferriss/video/7155526172569373958) and [this Bill Burr clip on bombing](https://www.tiktok.com/@timferriss/video/7156966116542270726), as well as [my evening routine](https://www.tiktok.com/@timferriss/video/7159554047802871046) and some [advice on speed reading](https://www.tiktok.com/@timferriss/video/7156594593100844293). Which other videos should I cut into shorts? Or what subject matter would you like covered? Let me know on Twitter at [@tferriss](https://twitter.com/tferriss) and add #TimTok at the end so I can easily find it.",
+      "original_url": "https://www.youtube.com/c/timferriss/shorts",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/c/timferriss/shorts"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/timferriss/reels/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.tiktok.com/@timferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://www.tiktok.com/@timferriss/video/7155526172569373958"
+        },
+        {
+          "type": "other",
+          "url": "https://www.tiktok.com/@timferriss/video/7156966116542270726"
+        },
+        {
+          "type": "other",
+          "url": "https://www.tiktok.com/@timferriss/video/7159554047802871046"
+        },
+        {
+          "type": "other",
+          "url": "https://www.tiktok.com/@timferriss/video/7156594593100844293"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The worst thing a son of a bitch can do is turn you into a son of a bitch.” — Frank Oppenheimer You can complement this edition of 5-Bullet Friday with my short clip on writing samurai/bushido/karate in Japanese; my interview with Marie Kondo, author of The Life-Changing Magic of Tidying Up_; and this episode of “The Random Show” with Kevin Rose, which was recorded late at night in rural Japan. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Frank Oppenheimer You can complement this edition of 5-Bullet Friday with my short clip on writing samurai/bushido/karate in Japanese; my interview with Marie Kondo, author of The Life-Changing Magic of Tidying Up_; and this episode of “The Random Show” with Kevin Rose, which was recorded late at night in rural Japan. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Frank_Oppenheimer",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Frank_Oppenheimer"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=_kRvyo9hRB4"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/04/16/marie-kondo/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/02/26/the-random-show-drinking-urine-exploring-japan-and-figuring-out-life/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/02/26/the-random-show-drinking-urine-exploring-japan-and-figuring-out-life/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

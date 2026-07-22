@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "issue_date": "2021-03-19",
+  "subject": "5-Bullet Friday — March 19, 2021",
+  "sources": [
+    "gmail"
+  ],
+  "status": "email",
+  "extraction_status": "extracted",
+  "special_edition": false,
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Device I’m using for elbow pain, tendinitis, etc. —",
+      "category": "other",
+      "title": "Armaid",
+      "creator": null,
+      "note": "([company website, which includes how-to videos](https://armaid.com/); [Amazon](https://www.amazon.com/Armaid-Complete-Massage-Rollers-Myofascial/dp/B073QX8R7D/)). This was put on my radar by competitive rock climbers. I’ve had forearm and elbow issues for years, including one elbow surgery. The nagging tightness and pain can take a lot of exercise off the menu, but Armaid appears to be working surprisingly well to resolve issues. TBD, but so far, so good.",
+      "original_url": "https://armaid.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://armaid.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://armaid.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Armaid-Complete-Massage-Rollers-Myofascial/dp/B073QX8R7D/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Book I’m reading —",
+      "category": "book",
+      "title": "The Overstory",
+      "creator": "Richard Powers",
+      "note": ". This unusual novel has been recommended to me multiple times. I made two attempts but put it down each time because the first pages made little sense to me. Finally, it was Hugh Jackman who, [during our conversation on the podcast](https://tim.blog/2020/06/26/hugh-jackman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), gave me the best advice on how to approach this book: “Stick with it. It works on you in the way nature does. It’s patient, and it’s in no rush. It’s slow and it’s steady and it’s true.” Now, I’m in the middle and enjoying it tremendously. Here is a shortened description: “The Overstory, winner of the 2019 Pulitzer Prize in Fiction, is a sweeping, impassioned work of activism and resistance that is also a stunning evocation of―and paean to―the natural world. From the roots to the crown and back to the seeds, Richard Powers’s twelfth novel unfolds in concentric rings of interlocking fables that range from antebellum New York to the late twentieth-century Timber Wars of the Pacific Northwest and beyond.”",
+      "original_url": "https://www.amazon.com/Overstory-Novel-Richard-Powers/dp/039335668X/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Overstory-Novel-Richard-Powers/dp/039335668X/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Richard_Powers"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/06/26/hugh-jackman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Articles I’m reading (short) —",
+      "category": "article",
+      "title": "Oregon is Blazing a Psychedelic Trail",
+      "creator": null,
+      "note": "or “[Can Magic Mushrooms Heal Us?](https://www.nytimes.com/2021/03/18/opinion/oregon-psychedelic-therapy.html)” (The New York Times) by [Ezra Klein](https://tim.blog/2016/12/13/ezra-klein/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@ezraklein](https://twitter.com/ezraklein)). Both links go to the same article, as it has had two headlines. The subheadline is “A very promising mental health experiment is taking shape in Oregon,” and the entire piece is excellent. Five-minute read.\n\n“[Sounding the Alarm on Compass’s Interference with Oregon’s Psilocybin Therapy Program](https://www.drbronner.com/all-one-blog/2021/03/sounding-the-alarm-on-compasss-interference-in-oregons-psilocybin-therapy-program/)” by [David Bronner](https://www.drbronner.com/all-one-blog/author/dbronner/). This combines well with the above to provide a fuller picture of what is at stake and what is possible.",
+      "original_url": "https://www.nytimes.com/2021/03/18/opinion/oregon-psychedelic-therapy.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/2021/03/18/opinion/oregon-psychedelic-therapy.html"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nytimes.com/2021/03/18/opinion/oregon-psychedelic-therapy.html"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2016/12/13/ezra-klein/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/ezraklein"
+        },
+        {
+          "type": "other",
+          "url": "https://www.drbronner.com/all-one-blog/2021/03/sounding-the-alarm-on-compasss-interference-in-oregons-psilocybin-therapy-program/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.drbronner.com/all-one-blog/author/dbronner/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Out Here",
+      "creator": "Thornato",
+      "note": "([YouTube](https://www.youtube.com/watch?v=6mgS6063YIg), [Spotify](https://open.spotify.com/track/0tI64kX5PgjjgmwiChqAkz?si=0236c50b66a04eef)) by [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) ([@thornatomusic](https://twitter.com/thornatomusic)).",
+      "original_url": "https://www.youtube.com/watch?v=6mgS6063YIg",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=6mgS6063YIg"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=6mgS6063YIg"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/0tI64kX5PgjjgmwiChqAkz?si=0236c50b66a04eef"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/thornatomusic"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Success is dangerous. One begins to copy oneself and to copy oneself is more dangerous than to copy others.” — Pablo Picasso",
+      "creator": "Pablo Picasso",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Pablo_Picasso",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Pablo_Picasso"
+        }
+      ]
+    }
+  ]
+}

@@ -6,7 +6,123 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Book I’m re-reading —",
+      "category": "book",
+      "title": "Radical Acceptance",
+      "creator": "Tara Brach",
+      "note": "This is an incredible tool for taming anger, self-flagellation, and other reactive behaviors and patterns that handicap us. Especially if you’re a perfectionist, read the first 10% of this book, even if (especially if?) you claim to have no time. Trust me.",
+      "original_url": "https://el2.fourhourmail.com/c/5qu8lqg33u7ho2r09/78i7h8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9SYWRpY2FsLUFjY2VwdGFuY2UtRW1icmFjaW5nLUhlYXJ0LUJ1ZGRoYS9kcC8wNTUzMzgwOTkw",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7ho2r09/78i7h8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9SYWRpY2FsLUFjY2VwdGFuY2UtRW1icmFjaW5nLUhlYXJ0LUJ1ZGRoYS9kcC8wNTUzMzgwOTkw"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Supplement I’m using —",
+      "category": "other",
+      "title": "capsules",
+      "creator": null,
+      "note": ", [liquid dropper](https://el2.fourhourmail.com/c/5qu8lqg33u7ho2r09/zvtghn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9aQU5FLUhFTExBUy1Fc3NlbnRpYWwtT3JlZ2Fuby1DYXJ2YWNyb2wvZHAvQjAxN1lUMUZRMi9yZWY9c3JfMV83X3NfaXQ_cz1ocGMmaWU9VVRGOCZxaWQ9MTUyNTk5MjAyMSZzcj0xLTcma2V5d29yZHM9b2lsK29mK29yZWdhbm8rbGlxdWlk))**. I was introduced to oregano oil by a world record holder in powerlifting years ago. In my n-of-1 experience, it appears to help shorten cold-like symptoms. I’m not aware of any published studies that support this application, and it could be simple regression to the mean, but [there are some interesting papers on carvacrol](https://el2.fourhourmail.com/c/5qu8lqg33u7ho2r09/pnceh9/aHR0cHM6Ly93d3cubmNiaS5ubG0ubmloLmdvdi9wdWJtZWQvMjUwNTg4Nzg=). Here is one thing beyond debate: you should NOT get the oil in your eyes — watch your hands — or take 2-3x the recommended number of drops. The burn is like salt on a wound.",
+      "original_url": "https://el2.fourhourmail.com/c/5qu8lqg33u7ho2r09/opfkhq/aHR0cHM6Ly93d3cuZ2FpYWhlcmJzLmNvbS9wcm9kdWN0cy9kZXRhaWwvNTMvT2lsLW9mLU9yZWdhbm8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7ho2r09/opfkhq/aHR0cHM6Ly93d3cuZ2FpYWhlcmJzLmNvbS9wcm9kdWN0cy9kZXRhaWwvNTMvT2lsLW9mLU9yZWdhbm8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7ho2r09/zvtghn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9aQU5FLUhFTExBUy1Fc3NlbnRpYWwtT3JlZ2Fuby1DYXJ2YWNyb2wvZHAvQjAxN1lUMUZRMi9yZWY9c3JfMV83X3NfaXQ_cz1ocGMmaWU9VVRGOCZxaWQ9MTUyNTk5MjAyMSZzcj0xLTcma2V5d29yZHM9b2lsK29mK29yZWdhbm8rbGlxdWlk"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7ho2r09/pnceh9/aHR0cHM6Ly93d3cubmNiaS5ubG0ubmloLmdvdi9wdWJtZWQvMjUwNTg4Nzg="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Person I’m following on Twitter —",
+      "category": "other",
+      "title": "@DanTGilbert",
+      "creator": null,
+      "note": ").** Professor of Psychology at Harvard, author of [Stumbling on Happiness](https://el2.fourhourmail.com/c/5qu8lqg33u7ho2r09/60aeh8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TdHVtYmxpbmctSGFwcGluZXNzLURhbmllbC1HaWxiZXJ0L2RwLzE0MDAwNzc0Mjc=) and host of PBS series [This Emotional Life](https://el2.fourhourmail.com/c/5qu8lqg33u7ho2r09/kmbmh6/aHR0cDovL3d3dy5wYnMub3JnL3Nob3cvdGhpcy1lbW90aW9uYWwtbGlmZS8=).",
+      "original_url": "https://el2.fourhourmail.com/c/5qu8lqg33u7ho2r09/xksph6/aHR0cHM6Ly90d2l0dGVyLmNvbS9EYW5UR2lsYmVydA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7ho2r09/xksph6/aHR0cHM6Ly90d2l0dGVyLmNvbS9EYW5UR2lsYmVydA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7ho2r09/60aeh8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TdHVtYmxpbmctSGFwcGluZXNzLURhbmllbC1HaWxiZXJ0L2RwLzE0MDAwNzc0Mjc="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7ho2r09/kmbmh6/aHR0cDovL3d3dy5wYnMub3JnL3Nob3cvdGhpcy1lbW90aW9uYWwtbGlmZS8="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Most popular on social this week —",
+      "category": "other",
+      "title": "I’ve been telling my mom to spend more time barefoot on the grass... so she got me these",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/5qu8lqg33u7ho2r09/52hvh7/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JsNERDb3FucDg1Lw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7ho2r09/52hvh7/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JsNERDb3FucDg1Lw=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“I never can feel certain of any truth but from a clear perception of its beauty.” — John Keats [](https://el2.fourhourmail.com/c/5qu8lqg33u7ho2r09/q3i8h7/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUmFscGhfV2FsZG9fRW1lcnNvbg==) [](https://el2.fourhourmail.com/c/5qu8lqg33u7ho2r09/gvfnh5/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUmFscGhfV2FsZG9fRW1lcnNvbg==)And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim [](https://el2.fourhourmail.com/c/5qu8lqg33u7ho2r09/3wcphk/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #508, Austin TX 78703, United States",
+      "creator": "John Keats",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/5qu8lqg33u7ho2r09/2ou2ho/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSm9obl9LZWF0cw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7ho2r09/2ou2ho/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSm9obl9LZWF0cw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7ho2r09/93tzhn/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7ho2r09/nesohv/aHR0cDovL2dvLmZvdXJob3Vyd29ya3dlZWsuY29tLzEweC1vdXRwdXQv"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/5qu8lqg33u7ho2r09"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7ho2r09/w4b2hg/aHR0cDovL2ZvdXJob3Vyd29ya3dlZWsuY29tL2Jsb2c="
+        }
+      ]
+    }
+  ]
 }

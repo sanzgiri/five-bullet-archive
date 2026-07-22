@@ -6,7 +6,131 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Fast and easy game that I’m loving",
+      "category": "other",
+      "title": "Taco Cat Goat Cheese Pizza",
+      "creator": null,
+      "note": "You can learn how to play in less than a minute. The game is fast, fun, addictive, hilarious, and suitable for all ages. It scrambles brains to the delight of all. Hat tip to game Jedi [Elan Lee](https://tim.blog/2023/02/03/elan-lee/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@elanlee](https://twitter.com/elanlee?lang=en)) for introducing me to this gem!",
+      "original_url": "https://www.amazon.com/Taco-Cat-Goat-Cheese-Pizza/dp/B077Z1R28P/ref=sr_1_2",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Taco-Cat-Goat-Cheese-Pizza/dp/B077Z1R28P/ref=sr_1_2"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/02/03/elan-lee/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/elanlee?lang=en"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Product I’m testing",
+      "category": "other",
+      "title": "Paperlike iPad Screen Protector",
+      "creator": null,
+      "note": "This makes using a stylus (e.g., Apple Pencil) on your iPad more like writing on paper. It provides more control and helps to prevent oversliding. I’m using Paperlike principally [for learning to draw in Procreate](https://www.instagram.com/p/CsZQnT0PPO-/), based on advice on YouTube from the incredible [Sinix](https://www.youtube.com/@sinixdesign). Please note that you should watch [this how-to video](https://www.youtube.com/watch?v=ym8ugDwfERs) to install Paperlike correctly, and be SURE to use the credit card instead of your fingers.",
+      "original_url": "https://paperlike.com/products/paperlike-for-ipad",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://paperlike.com/products/paperlike-for-ipad"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/CsZQnT0PPO-/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/@sinixdesign"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=ym8ugDwfERs"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "There’s a uniquely Korean word for rage and regret. So why had I never heard of it?",
+      "creator": null,
+      "note": "Thanks to [Bobby Hundreds](https://tim.blog/2023/05/11/bobby-hundreds/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@bobbyhundreds](https://twitter.com/bobbyhundreds)) for introducing me to the concept of _han_, and thanks to Robert F. for the article. Bobby, thank you for being so 눈치 있다!",
+      "original_url": "https://www.cbc.ca/radio/docproject/there-s-a-uniquely-korean-word-for-rage-and-regret-so-why-had-i-never-heard-of-it-1.5118989",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.cbc.ca/radio/docproject/there-s-a-uniquely-korean-word-for-rage-and-regret-so-why-had-i-never-heard-of-it-1.5118989"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/05/11/bobby-hundreds/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/bobbyhundreds"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "The drawing advice that changed my life",
+      "creator": null,
+      "note": "This video has great advice for anyone looking to expand their creativity. It also has pithy and powerful principles (alliteration!) for anyone looking to procrastinate less.",
+      "original_url": "https://www.youtube.com/watch?v=M6NsEDwHHiE&list=LL&index=5",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=M6NsEDwHHiE&list=LL&index=5"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“I’m trying to find these rare moments where you feel completely illuminated. Facts never illuminate you. The phone directory of Manhattan doesn’t illuminate you, although it has factually correct entries, millions of them. But these rare moments of illumination that you find when you read a great poem, you instantly know. You instantly feel this spark of illumination. You are almost stepping outside of yourself, and you see something sublime.” — Werner Herzog (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with this list of my favorite documentaries, my conversation with master filmmaker Ken Burns, and my interview with renowned designer and podcast host Debbie Millman. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Werner Herzog",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Werner_Herzog",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Werner_Herzog"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/Y7LMi"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/04/13/tim-ferriss-favorite-documentaries/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/09/12/ken-burns/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/01/12/how-to-design-a-life-debbie-millman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -7,7 +7,123 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Amazon, Walmart.....Chinese potting soil.....and the 34th Amendment....",
+      "creator": "Deep Throat",
+      "note": ". This one is long but well worth the time.",
+      "original_url": "https://deep-throat-ipo.blogspot.com/2018/05/amazon-walmartchinese-potting-soiland.html?fbclid=IwAR1RGAPlvO19244Q9B1wCdLPROC-lCIEw0_OeSaFF7h0TF2-JCg63z2-Beg",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://deep-throat-ipo.blogspot.com/2018/05/amazon-walmartchinese-potting-soiland.html?fbclid=IwAR1RGAPlvO19244Q9B1wCdLPROC-lCIEw0_OeSaFF7h0TF2-JCg63z2-Beg"
+        },
+        {
+          "type": "other",
+          "url": "https://www.blogger.com/profile/02712515268051858186"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "The Me You Can’t See",
+      "creator": null,
+      "note": "Description: “_The Me You Can’t See_ is a new docuseries co-created by [Oprah Winfrey](http://oprah.com) \\[[@Oprah](https://twitter.com/Oprah)\\] and [Prince Harry](https://en.wikipedia.org/wiki/Prince_Harry,_Duke_of_Sussex) that explores mental health and emotional well-being with stories from people around the world. With storytelling at its core, this timely series gives a voice to stories that aim to seek truth, understanding and compassion. It’s about people, our experiences, and why we feel the way that we do.” [Even if you don’t watch this series, the trailer alone is powerful and worth watching](https://www.youtube.com/watch?v=dWevopoBmAE&authuser=0).",
+      "original_url": "https://tv.apple.com/us/show/the-me-you-cant-see/umc.cmc.4amwght1qtt8ioilwr0mgnf6d",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tv.apple.com/us/show/the-me-you-cant-see/umc.cmc.4amwght1qtt8ioilwr0mgnf6d"
+        },
+        {
+          "type": "other",
+          "url": "http://oprah.com"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/Oprah"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Prince_Harry,_Duke_of_Sussex"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=dWevopoBmAE&authuser=0"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m once again using for back soreness (usually after training) —",
+      "category": "other",
+      "title": "Nayoya needle pad (acupressure mat)",
+      "creator": null,
+      "note": "](https://www.amazon.com/Nayoya-Back-Neck-Pain-Relief/dp/B0049Q0P9M/ref=sr_1_3?dchild=1&keywords=Nayoya+needle+pad+%28acupressure+mat%29&qid=1595011916&sr=8-3)**.** Roughly seven years ago, I injured my shoulder and lat in handstand training. This needle pad was recommended to me by Cirque du Soleil performer and freak of nature [Andrii Bondarenko](https://www.instagram.com/andrii_bondarenko/?hl=en) ([here’s one example of his astonishing skill and strength](https://www.instagram.com/p/CBta6ebj-zh/)) as one means to speed recovery. In Ukraine, he used this type of mat daily after strenuous acrobatics practice, particularly for back pain. I’ve found 6–10 minutes per session, 1–2 times per day, to have a near-miraculous effect on mid-back issues (and thoracic mobility, oddly). It could be placebo, of course, but after years of use, I’ve found it consistently helpful. Important caveat: start slow, my eager little friends. The “thorns” are sharp. There are also many different brands available (e.g., “Bed of Nails”), as this has become a commodity product.",
+      "original_url": "https://www.amazon.com/Nayoya-Back-Neck-Pain-Relief/dp/B0049Q0P9M/ref=sr_1_3?dchild=1&keywords=Nayoya+needle+pad+%28acupressure+mat%29&qid=1595011916&sr=8-3",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Nayoya-Back-Neck-Pain-Relief/dp/B0049Q0P9M/ref=sr_1_3?dchild=1&keywords=Nayoya+needle+pad+%28acupressure+mat%29&qid=1595011916&sr=8-3"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/andrii_bondarenko/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/CBta6ebj-zh/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Favorite WTF of the week —",
+      "category": "other",
+      "title": "Doma India de Caballos en Argentina",
+      "creator": null,
+      "note": "Horse yoga? Why not? For more history and context, here is [a fun slideshow](https://www.cnn.com/2014/10/09/worldsport/gallery/horse-yoga-doma-india/index.html). Thanks to [Jason Nemer](https://tim.blog/2016/08/24/jason-nemer/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) for the link.",
+      "original_url": "https://www.youtube.com/watch?v=SI-DEhuKSo4",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=SI-DEhuKSo4"
+        },
+        {
+          "type": "other",
+          "url": "https://www.cnn.com/2014/10/09/worldsport/gallery/horse-yoga-doma-india/index.html"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2016/08/24/jason-nemer/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Believe those who seek the truth, doubt those who find it….”— André Gide And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "André Gide And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Andr%C3%A9_Gide",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Andr%C3%A9_Gide"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,143 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Daily trick I’m using",
+      "category": "other",
+      "title": "The best way to stop headphone tangles",
+      "creator": null,
+      "note": "I’ve gone back to cabled headphones for most things. After losing at least $750 worth of AirPods and having lots of dropped calls and battery-life issues, I’m going retro. The biggest hassle is always the rat’s nest of tangles, and this video provides a short and sweet solution.",
+      "original_url": "https://www.youtube.com/watch?v=9D_oV14dGmM",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=9D_oV14dGmM"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "o3 Beats a Master-Level Geoguessr Player",
+      "creator": null,
+      "note": "[GeoGuessr](https://en.wikipedia.org/wiki/GeoGuessr) is an online geography game that drops players into random Google Street View scenes and asks them to guess where they are. It became super popular during COVID, and there are ranking systems for human players, who must learn about writing systems, local fauna, and much more… and/or use technology to augment their abilities. If you want to see a spooky-good demo of what good players can do, [check out this 34-second video](https://www.youtube.com/watch?v=2l9kcdxPQ60).  \n​  \nLast month, OpenAI’s o3 model outscored a Master I–ranked human, correctly naming all five countries and twice landing within just a few hundred meters. You can [read the full post here](https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master) and see the model’s reasoning.",
+      "original_url": "https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/GeoGuessr"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=2l9kcdxPQ60"
+        },
+        {
+          "type": "other",
+          "url": "https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Song of the Cedars",
+      "creator": null,
+      "note": "Past podcast guest [Giuliana Furci](https://tim.blog/2021/07/29/giuliana-furci/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) shared this song with me. Beyond being a lovely and calming listen, as [_The Guardian_](https://www.theguardian.com/world/2024/oct/25/legal-bid-for-ecuador-forest-to-be-recognised-as-song-co-creator) explains, there is more to the story:  \n​  \n​_A forest in Ecuador could be recognised as the co-creator of a song under a groundbreaking legal proposal. A petition is to be submitted to Ecuador’s copyright office to recognise the Los Cedros cloud forest as the co-creator of the composition Song of the Cedars. The action by the More Than Human Life (Moth) project is the first legal attempt to recognise an ecosystem’s moral authorship of a work of art. The song contains melodies of echo-locating bats, howler monkeys, rustling leaves and even a subterranean recording of the soil taken from the spot where a new species of fungus was collected and described._  \n​  \nI highly recommend the listen. Headphones are ideal.",
+      "original_url": "https://www.youtube.com/watch?ab_channel=CosmoSheldrake&v=HH_timp2S3E",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?ab_channel=CosmoSheldrake&v=HH_timp2S3E"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/07/29/giuliana-furci/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.theguardian.com/world/2024/oct/25/legal-bid-for-ecuador-forest-to-be-recognised-as-song-co-creator"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Documentary I just started watching but need to share",
+      "category": "video",
+      "title": "32 Sounds",
+      "creator": null,
+      "note": "([YouTube](https://youtu.be/3t1HMGVMDXY?si=c5x-A6hjqJ-n-VHU), [Apple TV](https://tv.apple.com/us/movie/32-sounds/umc.cmc.1o2h3jsmhb9p4ox42tt5owq0u)). From Oscar-nominated filmmaker [Sam Green](https://samgreen.to/), _32 Sounds_ scores 96% on Rotten Tomatoes. Here’s part of the description: “_32 Sounds_ is an immersive feature documentary and profound sensory experience from Academy Award-nominated filmmaker Sam Green, featuring original music by [JD Samson](https://www.jdsamson.info/). The film explores the elemental phenomenon of sound by weaving together 32 specific sound explorations into a cinematic meditation on the power of sound to bend time, cross borders, and profoundly shape our perception of the world around us.” At the very least, check out the trailer [here](https://www.imdb.com/video/vi4265919257/).",
+      "original_url": "https://youtu.be/3t1HMGVMDXY?si=c5x-A6hjqJ-n-VHU",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/3t1HMGVMDXY?si=c5x-A6hjqJ-n-VHU"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/3t1HMGVMDXY?si=c5x-A6hjqJ-n-VHU"
+        },
+        {
+          "type": "other",
+          "url": "https://tv.apple.com/us/movie/32-sounds/umc.cmc.1o2h3jsmhb9p4ox42tt5owq0u"
+        },
+        {
+          "type": "other",
+          "url": "https://samgreen.to/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.jdsamson.info/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.imdb.com/video/vi4265919257/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“How could you go about creating a happy, loving, peaceful world? By learning a simple, beautiful, but painful art called the art of looking. This is how you do it: Every time you find yourself irritated or angry with someone, the one to look at is not that person but yourself. The question to ask is not, ‘What’s wrong with this person?’ but ‘What does this irritation tell me about myself?’” — The Way to Love by Anthony De Mello) * * * You can complement this edition of 5-Bullet Friday with my brand-new podcast episode, featuring tools from The 4-Hour Workweek that still work, my interview with mycologist Giuliana Furci, and this list of some of my favorite documentaries. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "The Way to Love by Anthony De Mello) * * * You can complement this edition of 5-Bullet Friday with my brand-new podcast episode, featuring tools from The 4-Hour Workweek that still work, my interview with mycologist Giuliana Furci, and this list of some of my favorite documentaries. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://www.amazon.com/Way-Love-Meditations-Anthony-Classics/dp/038524939X/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Way-Love-Meditations-Anthony-Classics/dp/038524939X/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Anthony_de_Mello_(Jesuit_priest"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/05/01/the-4-hour-workweek-tools/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/07/29/giuliana-furci/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/04/13/tim-ferriss-favorite-documentaries/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

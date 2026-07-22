@@ -7,7 +7,163 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Coreto",
+      "creator": "Céu",
+      "note": "([YouTube](https://www.youtube.com/watch?v=NErZGmLdnF4), [Spotify](https://open.spotify.com/track/4vh9XdS6a314hnHEcphAp9), [Apple Music](https://music.apple.com/us/album/coreto-single/1500696187)) by [Céu](https://www.ceumusic.com/en/) ([@ceu](https://www.instagram.com/ceu/)).",
+      "original_url": "https://www.youtube.com/watch?v=NErZGmLdnF4",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=NErZGmLdnF4"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=NErZGmLdnF4"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/4vh9XdS6a314hnHEcphAp9"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/album/coreto-single/1500696187"
+        },
+        {
+          "type": "other",
+          "url": "https://www.ceumusic.com/en/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/ceu/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Short video I’m watching",
+      "category": "video",
+      "title": "Asking 73-year-old how he got ripped",
+      "creator": null,
+      "note": "73 years old! One of the best comments: “I aspire to be the oldest guy in the gym, not the youngest in the nursing home. He is an inspiration.”  \n​  \nPair it with “[Shredded at 72: The Simple Routine Behind His Insane Strength](https://www.youtube.com/watch?v=hPoNH4DUd4k).”",
+      "original_url": "https://www.youtube.com/watch?v=jNK9kMy29H8",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=jNK9kMy29H8"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=hPoNH4DUd4k"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Podcast series I’m revisiting",
+      "category": "video",
+      "title": "The Power Broker #01: Robert Caro",
+      "creator": "99% Invisible_, hosted by Roman Mars and Elliott Kalan",
+      "note": ", hosted by [Roman Mars](https://en.wikipedia.org/wiki/Roman_Mars) and [Elliott Kalan](https://en.wikipedia.org/wiki/Elliott_Kalan). This is spectacular. I must confess with great shame that I have never finished [_The Power Broker_](https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245/?tag=offsitoftimfe-20), the legendary Pulitzer Prize winner by Robert Caro. Dozens of my most brilliant friends have recommended it, and I’ve tried valiantly, but I somehow fall short. The book chronicles the life of Robert Moses, a city planner who became the most powerful man in New York, shaping the city’s politics and infrastructure.  \n​  \nThis podcast allowed me to salvage my self-respect and dive back into what I knew to be an incredible story worth exploring. It also reignited my desire to finish the book.  \n​  \nWhen I first listened, they were capped out at three episodes, but now they have 12, including more audio with Caro himself! That means I’m super excited to listen again from the start.  \n​  \nListen on [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-power-broker-1-robert-caro/id394775318?i=1000642195418), [Spotify](https://open.spotify.com/episode/6nRsxCu5n0Z8xBF63OGI1n?dlsi=32f19a9dd73d4e8a&nd=1&si=F_JYXAfQQi-mJDzOR511AA), or wherever you get your podcasts. You can find the full list of episodes [here](https://99percentinvisible.org/?paged=1&post_type%5B%5D=episode&s=%22the%20power%20broker%22). To sample Robert Caro’s incredible writing, read the “If you do everything” paragraph [here](https://www.dwarkesh.com/p/lyndon-johnson).  \n​  \nFor a cinematic impression of Robert Moses, you can find a creative variant of him in Edward Norton’s brilliant adaptation of [_Motherless Brooklyn_](https://en.wikipedia.org/wiki/Motherless_Brooklyn_(novel)) as Moses Randolph. [The trailer is here](https://www.youtube.com/watch?feature=youtu.be&si=2WPKmF06iKI_ZFhX&v=Fru8IkuDp_k)—and the entire film—is well worth watching.",
+      "original_url": "https://99percentinvisible.org/episode/power-broker-01-robert-caro/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://99percentinvisible.org/episode/power-broker-01-robert-caro/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Roman_Mars"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Elliott_Kalan"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/the-power-broker-1-robert-caro/id394775318?i=1000642195418"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/6nRsxCu5n0Z8xBF63OGI1n?dlsi=32f19a9dd73d4e8a&nd=1&si=F_JYXAfQQi-mJDzOR511AA"
+        },
+        {
+          "type": "other",
+          "url": "https://99percentinvisible.org/?paged=1&post_type%5B%5D=episode&s=%22the%20power%20broker%22"
+        },
+        {
+          "type": "other",
+          "url": "https://www.dwarkesh.com/p/lyndon-johnson"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Motherless_Brooklyn_(novel"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?feature=youtu.be&si=2WPKmF06iKI_ZFhX&v=Fru8IkuDp_k"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Type of arbitration I’m learning about",
+      "category": "other",
+      "title": "Baseball arbitration",
+      "creator": null,
+      "note": "Pretty cool idea.  \n​  \nA summary I found helpful:  \n​  \n​_“Baseball arbitration” is named for its origin in Major League Baseball (MLB), where it was introduced in 1974 to resolve salary disputes for eligible players. It is called this because it specifically applies to the “final offer” format, where a panel must choose between the team’s salary offer and the player’s request.  \n​  \nKey details about baseball arbitration:  \n​  \n​_**•** _**Origin:**_ _Introduced in 1974 in the MLB to prevent holdouts.  \n​_**​  \n•** _**Final Offer Mechanism:**_ _Unlike traditional arbitration, the panel cannot “_[_split the baby_](https://en.wikipedia.org/wiki/Judgement_of_Solomon)_” or create a compromise number; they must choose one of the two submitted figures.  \n​_**​  \n•** _**Process:**_ _Both sides submit a proposed salary, and a three-person panel selects the more reasonable offer.  \n​_**​  \n•** _**Goal:**_ _The structure incentivizes both parties to submit reasonable numbers to avoid appearing unreasonable, often leading to a settlement before the hearing.  \n​  \nDue to this distinct “winner-takes-all” approach, it is often referred to in legal and ADR (Alternative Dispute Resolution) circles as “final offer arbitration” or “baseball arbitration.”_​  \n​  \nAlso, from [this page](https://www.mdrs.com/baseball-arbitration-isnt-just-for-baseball/#:~:text=To%20solve%20the%20problem%20of,it%20deems%20a%20reasonable%20figure.):  \n​  \n​_To my mind, the most significant advantage of baseball arbitration derives from its unique feature. Since the arbitrator is directed to choose the more reasonable of two figures, it forces each side to be reasonable, at least by their own reckoning. Unlike conventional arbitration, where arbitrators may be tempted to “split the baby,” thus driving the parties to extreme positions, baseball arbitration does just the opposite.  \n​  \n...  \n​  \nOn the basis of my (limited) experience, I have long believed that baseball arbitration has much to recommend it as a cost-efficient way to effect final resolution._",
+      "original_url": "https://www.mdrs.com/baseball-arbitration-isnt-just-for-baseball/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.mdrs.com/baseball-arbitration-isnt-just-for-baseball/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Judgement_of_Solomon"
+        },
+        {
+          "type": "other",
+          "url": "https://www.mdrs.com/baseball-arbitration-isnt-just-for-baseball/#:~:text=To%20solve%20the%20problem%20of,it%20deems%20a%20reasonable%20figure."
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Passage I’m pondering",
+      "category": "other",
+      "title": "Aldous Huxley",
+      "creator": null,
+      "note": ", _Island_, 1962  \n([Click here to share on X](https://ctt.ec/UeehM).)\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [my brand-new interview](https://tim.blog/2026/02/18/tish-rabe/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit) with legendary children’s book author Tish Rabe.  \n​  \nAnd, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
+      "original_url": "https://en.wikipedia.org/wiki/Aldous_Huxley",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Aldous_Huxley"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/UeehM"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/02/18/tish-rabe/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

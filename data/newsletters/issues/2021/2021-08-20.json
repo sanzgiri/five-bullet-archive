@@ -6,7 +6,195 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short book I’m reading —",
+      "category": "book",
+      "title": "The Other Face: Experiencing the Mask",
+      "creator": null,
+      "note": ", edited by [Wendy Drolma](https://www.wendydrolma.com/) ([@wendydrolma](https://www.instagram.com/wendydrolma/)) and [Brent Robison](http://brentrobison.blogspot.com/) ([@brentrobison](https://twitter.com/brentrobison?lang=en)). The short excerpt from [_The Strange Case of Dr. Jekyll & Mr. Hyde_](https://www.amazon.com/dp/B087NMBX12/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) alone makes the read worth it.Description: “Assembled by a mask maker and a fiction writer, this eclectic mix of prose, poetry, and art explores the meanings and metaphors of the Mask. From historical overview to educated debate to fanciful imaginings, these writings traverse psychology, culture, and spirit to give us enlightening glimpses into a fundamental human condition.”",
+      "original_url": "https://www.amazon.com/Other-Face-Experiencing-Mask/dp/0971890838",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Other-Face-Experiencing-Mask/dp/0971890838"
+        },
+        {
+          "type": "other",
+          "url": "https://www.wendydrolma.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/wendydrolma/"
+        },
+        {
+          "type": "other",
+          "url": "http://brentrobison.blogspot.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/brentrobison?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/dp/B087NMBX12/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Podcasts I’m listening to —",
+      "category": "podcast",
+      "title": "Hans Zimmer Scores",
+      "creator": null,
+      "note": "on [_Here’s the Thing_ with Alec Baldwin](https://alecbaldwin.com/podcast/) ([@AlecBaldwin](https://twitter.com/AlecBaldwin))_._ ([Apple Podcasts](https://podcasts.apple.com/us/podcast/hans-zimmer-scores/id472939437?i=1000519981196), [Spotify](https://open.spotify.com/episode/7CfLrwDZzumOINfLytbAQA), [Overcast](https://overcast.fm/+mo3DfduHg/)).[**Quentin Tarantino**](https://podcasts.apple.com/gb/podcast/quentin-tarantino-07-28-21/id814550071?i=1000530253765) on [_The Moment_ with Brian Koppelman](https://shows.cadence13.com/podcast/themomentwithbriankoppelman) ([@BrianKoppelman](https://twitter.com/briankoppelman)). ([Apple Podcasts](https://podcasts.apple.com/gb/podcast/quentin-tarantino-07-28-21/id814550071?i=1000530253765), [Spotify](https://open.spotify.com/episode/0JjqEYY0P2muK5OtUjifEB), [Overcast](https://overcast.fm/+HS-U9XyNc)). This contains a ton of gold. Just be forewarned that the first 15 minutes are a lot of inside baseball. Feel free to skip ahead, and I found Quentin’s discussion of school years, plus the last 45 minutes, to be particularly strong. For more Brian, check out [_The Moment_](https://shows.cadence13.com/podcast/themomentwithbriankoppelman), and you can learn all about his personal backstory, early professional wins, and creative process in [my first podcast with him](https://tim.blog/2014/06/04/brian-koppelman-screenwriter/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). That was episode #10 of the podcast! Early days. It was also before Brian co-created the hit show [_Billions_](https://www.sho.com/billions).",
+      "original_url": "https://podcasts.apple.com/us/podcast/hans-zimmer-scores/id472939437?i=1000519981196",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://podcasts.apple.com/us/podcast/hans-zimmer-scores/id472939437?i=1000519981196"
+        },
+        {
+          "type": "other",
+          "url": "https://alecbaldwin.com/podcast/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/AlecBaldwin"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/hans-zimmer-scores/id472939437?i=1000519981196"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/7CfLrwDZzumOINfLytbAQA"
+        },
+        {
+          "type": "other",
+          "url": "https://overcast.fm/+mo3DfduHg/"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/gb/podcast/quentin-tarantino-07-28-21/id814550071?i=1000530253765"
+        },
+        {
+          "type": "other",
+          "url": "https://shows.cadence13.com/podcast/themomentwithbriankoppelman"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/briankoppelman"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/gb/podcast/quentin-tarantino-07-28-21/id814550071?i=1000530253765"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/0JjqEYY0P2muK5OtUjifEB"
+        },
+        {
+          "type": "other",
+          "url": "https://overcast.fm/+HS-U9XyNc"
+        },
+        {
+          "type": "other",
+          "url": "https://shows.cadence13.com/podcast/themomentwithbriankoppelman"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/06/04/brian-koppelman-screenwriter/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.sho.com/billions"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Documentary I’m watching —",
+      "category": "video",
+      "title": "Bird by Bird with Annie",
+      "creator": null,
+      "note": "I’ve loved [Anne Lamott](https://tim.blog/2021/07/09/anne-lamott/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@AnneLamott](https://twitter.com/AnneLamott)) and her work for more than a decade, and ever since I [had her on the podcast](https://tim.blog/2021/07/09/anne-lamott/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), I’ve gone even deeper into the Annieverse. This documentary had just the right blend of humor, humanity, and insight to help me with some difficult emotions this week. Description: “Perhaps best known for her widely celebrated book on writing, [_Bird by Bird_](https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016/ref=sr_1_1?dchild=1&keywords=bird+by+bird&qid=1629178899&sr=8-1), Anne Lamott is one of the rare artists who can teach us not only how to write, but how to live. From Academy Award-winning filmmaker Freida Lee Mock (_Maya Lin: A Strong Clear Vision_), _BIRD BY BIRD WITH ANNIE_ offers an intimate portrait of the writer and her craft, interweaving the story of Lamott’s life—in itself a deeply moving tale of addiction and redemption, grief and joy, intellect and faith—with a year’s worth of interviews, public lectures, and readings, and footage of the writer at work, focusing particularly on Lamott’s candid, humorous, and disarmingly straightforward advice on the struggles and joys of writing. In the end, the author’s genuine reassurance and guidance concerning the actual process of writing—which has little resemblance to its glorified image—becomes a stirring call to action that celebrates the potential of each individual, the silencing of our inner critics, and the courage to create something honest, meaningful, and real. Poignant and inspirational, _BIRD BY BIRD WITH ANNIE_ takes us deep into Anne Lamott’s intoxicatingly brave world, one in which writing is a means of finding out who we are, how we live, and why we’re here.” You can [find the trailer here](https://www.youtube.com/watch?v=Dl2XJkwvMrc).",
+      "original_url": "https://www.amazon.com/gp/product/B003PN2OV2/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/gp/product/B003PN2OV2/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/07/09/anne-lamott/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/AnneLamott"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/07/09/anne-lamott/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016/ref=sr_1_1?dchild=1&keywords=bird+by+bird&qid=1629178899&sr=8-1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=Dl2XJkwvMrc"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "TED Talk I’m watching —",
+      "category": "video",
+      "title": "Dreams from endangered cultures",
+      "creator": "Wade Davis)",
+      "note": ") ([@wadedavisofficial](https://www.instagram.com/wadedavisofficial/)). Description: “With stunning photos and stories, National Geographic Explorer Wade Davis celebrates the extraordinary diversity of the world’s indigenous cultures, which are disappearing from the planet at an alarming rate.” **Related discovery:** While on the TED website, I realized that [my most recent TED talk just crossed 10M views](https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals). Huge thanks to everyone who has watched it! For some, the tools described might help in combating anxiety related to the current doomsday news cycle.",
+      "original_url": "https://www.ted.com/talks/wade_davis_dreams_from_endangered_cultures?language=en",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.ted.com/talks/wade_davis_dreams_from_endangered_cultures?language=en"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Wade_Davis_(anthropologist"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/wadedavisofficial/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Man cannot do without beauty, and this is what our era pretends to want to disregard.”— Albert Camus And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Albert Camus And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Albert_Camus",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Albert_Camus"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

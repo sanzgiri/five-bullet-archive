@@ -7,7 +7,7 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "partial",
+  "extraction_status": "extracted",
   "special_edition": true,
   "bullets": [
     {
@@ -15,8 +15,8 @@
       "section": "What I’m watching",
       "category": "video",
       "title": "The Death of Stalin",
-      "creator": "Emmy Award-winning for [Veep] and Oscar-nominated for [In the Loop] writer/direct",
-      "note": "(94% on Rotten Tomatoes) This was brutally hilarious. The star performances from Steve Buscemi and others alone make it worth a watch, but the film is also broadly historically accurate. From the description: “The internal political landscape of 1950s Soviet Russia takes on darkly comic form in a film by Emmy Award-winning for [Veep] and Oscar-nominated for [In the Loop] writer/director Armando Iannucci.”\n\nCheck out the trailer here for a few laughs.",
+      "creator": null,
+      "note": "(94% on Rotten Tomatoes)** This was brutally hilarious. The star performances from Steve Buscemi and others alone make it worth a watch, but the film is also broadly historically accurate. From the description: “The internal political landscape of 1950s Soviet Russia takes on darkly comic form in a film by Emmy Award-winning \\[for [_Veep_](https://www.rottentomatoes.com/tv/veep)\\] and Oscar-nominated \\[for [_In the Loop_](https://www.rottentomatoes.com/m/in_the_loop)\\] writer/director [Armando Iannucci](https://en.wikipedia.org/wiki/Armando_Iannucci).”  \n​  \nCheck out the trailer [here](https://www.youtube.com/watch?v=E9eAshaPvYw) for a few laughs.",
       "original_url": "https://www.amazon.com/Death-Stalin-Armando-Iannucci/dp/B0DT1N77SR/?tag=offsitoftimfe-20",
       "links": [
         {
@@ -44,7 +44,7 @@
     {
       "position": 2,
       "section": "What I’m reading",
-      "category": "book",
+      "category": "article",
       "title": "I Solved My Mystery Fatigue with AI",
       "creator": null,
       "note": null,
@@ -91,8 +91,8 @@
       "section": "Book I’m rereading",
       "category": "book",
       "title": "Buffalo for the Broken Heart: Restoring Life to a Black Hills Ranch",
-      "creator": "Dan O’Brien",
-      "note": "by Dan O’Brien . From the description: “For twenty years, Dan O’Brien struggled to make ends meet on his cattle ranch in South Dakota. But when a neighbor invited him to lend a hand at the annual buffalo roundup, O’Brien was inspired to convert his own ranch, the Broken Heart, to buffalo. Starting with thirteen calves, ‘short-necked, golden balls of wool,’ O’Brien embarked on a journey that returned buffalo to his land for the first time in more than a century and a half. Buffalo for the Broken Heart is at once a tender account of the buffaloes’ first seasons on the ranch and an engaging lesson in wildlife ecology. … O’Brien combines a novelist’s eye for detail with a naturalist’s understanding to create an enriching, entertaining narrative.”",
+      "creator": "Dan O’Brien)_",
+      "note": ")_._ From the description: “For twenty years, Dan O’Brien struggled to make ends meet on his cattle ranch in South Dakota. But when a neighbor invited him to lend a hand at the annual buffalo roundup, O’Brien was inspired to convert his own ranch, the Broken Heart, to buffalo. Starting with thirteen calves, ‘short-necked, golden balls of wool,’ O’Brien embarked on a journey that returned buffalo to his land for the first time in more than a century and a half. _Buffalo for the Broken Heart_ is at once a tender account of the buffaloes’ first seasons on the ranch and an engaging lesson in wildlife ecology. … O’Brien combines a novelist’s eye for detail with a naturalist’s understanding to create an enriching, entertaining narrative.”",
       "original_url": "https://www.amazon.com/Buffalo-Broken-Heart-Restoring-Black/dp/037576139X/?tag=offsitoftimfe-20",
       "links": [
         {
@@ -101,7 +101,7 @@
         },
         {
           "type": "other",
-          "url": "https://en.wikipedia.org/wiki/Dan_O'Brien_(author)"
+          "url": "https://en.wikipedia.org/wiki/Dan_O'Brien_(author"
         }
       ]
     },
@@ -109,8 +109,8 @@
       "position": 6,
       "section": "Quotes I’m pondering",
       "category": "quote",
-      "title": "“Everyone discusses my art and pretends to understand, as if it were necessary to understand, when it is simply necessary to love.” — Claude Monet (Click here to share on X.)\n\n“I think I’m greedy, but I’m not greedy for money—I think that can be a burden—I’m greedy for an exciting life.” — David Hockney (Click here to share on X.)",
-      "creator": null,
+      "title": "“Everyone discusses my art and pretends to understand, as if it were necessary to understand, when it is simply necessary to love.” — Claude Monet (Click here to share on X.) “I think I’m greedy, but I’m not greedy for money—I think that can be a burden—I’m greedy for an exciting life.” — David Hockney (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my brand-new interview with New York Times bestselling author Sebastian Mallaby about his biography of Demis Hassabis—co-founder and CEO of Google DeepMind—and the race to superintelligence. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Claude Monet",
       "note": null,
       "original_url": "https://en.wikipedia.org/wiki/Claude_Monet",
       "links": [
@@ -129,6 +129,14 @@
         {
           "type": "other",
           "url": "https://ctt.ec/4eqY5"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/06/17/sebastian-mallaby/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
         }
       ]
     }

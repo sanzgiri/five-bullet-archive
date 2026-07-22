@@ -7,7 +7,115 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Valentin Delluc: Speedriding in From Avoriaz with Love",
+      "creator": null,
+      "note": "This is one of the most terrifying and impressive things I’ve seen in years. Truly jaw-dropping, and the cinematography is gorgeous. Do yourself a favor, and instead of another cup of coffee, watch this three-minute video. Description: “This new project from speedriding pioneer [Valentin Delluc](https://www.redbull.com/ca-en/athlete/valentin-delluc) \\[[@valentindelluc](https://www.instagram.com/valentindelluc/?hl=en)\\] sees him flying into a deserted snow resort on his skis.”",
+      "original_url": "https://www.redbull.com/us-en/videos/from-avoriaz-with-love-speedriding-valentin-delluc",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.redbull.com/us-en/videos/from-avoriaz-with-love-speedriding-valentin-delluc"
+        },
+        {
+          "type": "other",
+          "url": "https://www.redbull.com/ca-en/athlete/valentin-delluc"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/valentindelluc/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m drinking —",
+      "category": "other",
+      "title": "Ruby Hibiscus Water",
+      "creator": null,
+      "note": "Ruby unsweetened hibiscus water. 0g of sugar and 0 calories. Sometimes you just want a different flavor around, ya know? Thanks to Noah for the recommendation.",
+      "original_url": "https://ruby.fun/collections/all",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://ruby.fun/collections/all"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading —",
+      "category": "book",
+      "title": "The Boy, the Mole, the Fox and the Horse",
+      "creator": "Charlie Mackesy",
+      "note": "instagram.com/charliemackesy/)). This short and beautiful book was gifted to me by my mom. “This book is for everyone, whether you are eighty or eight,” as the Introduction puts it. It looks like a children’s book, and you can read it in 30 minutes, but it’s replete with wisdom for adults. To give you an idea of how popular this book has become, it has [62,862 ratings on Amazon](https://www.amazon.com/Boy-Mole-Fox-Horse/dp/0062976583/ref=sr_1_2?crid=LQ1C3131FHMV&dchild=1&keywords=the+boy+the+mole+the+fox+and+the+horse&qid=1616514842&sprefix=the+boy%2Caps%2C210&sr=8-2) and an average of 5 stars.",
+      "original_url": "https://www.amazon.com/Boy-Mole-Fox-Horse/dp/0062976583/ref=sr_1_2?crid=LQ1C3131FHMV&dchild=1&keywords=the+boy+the+mole+the+fox+and+the+horse&qid=1616514842&sprefix=the+boy%2Caps%2C210&sr=8-2",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Boy-Mole-Fox-Horse/dp/0062976583/ref=sr_1_2?crid=LQ1C3131FHMV&dchild=1&keywords=the+boy+the+mole+the+fox+and+the+horse&qid=1616514842&sprefix=the+boy%2Caps%2C210&sr=8-2"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/charliemackesy/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Boy-Mole-Fox-Horse/dp/0062976583/ref=sr_1_2?crid=LQ1C3131FHMV&dchild=1&keywords=the+boy+the+mole+the+fox+and+the+horse&qid=1616514842&sprefix=the+boy%2Caps%2C210&sr=8-2"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m daydreaming about as I wait my turn with vaccines —",
+      "category": "other",
+      "title": "The 50 Best Places to Travel in 2021",
+      "creator": null,
+      "note": "**",
+      "original_url": "https://www.travelandleisure.com/trip-ideas/best-places-to-travel-in-2021",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.travelandleisure.com/trip-ideas/best-places-to-travel-in-2021"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m enjoying —",
+      "category": "quote",
+      "title": "“Good tests kill flawed theories; we remain alive to guess again.”— Karl Popper, one of the most influential philosophers of science of the twentieth century (via Conor White-Sullivan, co-founder of Roam Research) And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Karl Popper, one of the most influential philosophers of science of the twentieth century",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Karl_Popper",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Karl_Popper"
+        },
+        {
+          "type": "other",
+          "url": "https://iep.utm.edu/pop-sci/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/conaw?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://roamresearch.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

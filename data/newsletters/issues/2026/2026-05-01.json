@@ -7,7 +7,135 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Canopée",
+      "creator": "Polo & Pan",
+      "note": "([YouTube](https://www.youtube.com/watch?v=f5IruTV-LGQ), [Spotify](https://open.spotify.com/track/7EYENG2nOnb0DqXPHq4NF0?si=49c1c35bda804814&nd=1&dlsi=19f1cbfa8e3242af)) by [Polo & Pan](https://poloandpan.komi.io/#/) ([@poloandpan](https://www.instagram.com/poloandpan/?hl=en)).",
+      "original_url": "https://www.youtube.com/watch?v=f5IruTV-LGQ",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=f5IruTV-LGQ"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=f5IruTV-LGQ"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/7EYENG2nOnb0DqXPHq4NF0?si=49c1c35bda804814&nd=1&dlsi=19f1cbfa8e3242af"
+        },
+        {
+          "type": "other",
+          "url": "https://poloandpan.komi.io/#/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/poloandpan/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Valentin Delluc: Speedriding in",
+      "creator": null,
+      "note": "​[**_From Avoriaz with Love_**](https://www.redbull.com/us-en/videos/from-avoriaz-with-love-speedriding-valentin-delluc)**.** This is one of the most terrifying and impressive things I’ve seen in years. Truly jaw-dropping, and the cinematography is gorgeous. Do yourself a favor, and instead of another cup of coffee, watch this three-minute video. Description: “This new project from speedriding pioneer [Valentin Delluc](https://www.instagram.com/valentindelluc/?hl=en) sees him flying into a deserted snow resort on his skis.”",
+      "original_url": "https://www.redbull.com/us-en/videos/from-avoriaz-with-love-speedriding-valentin-delluc",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.redbull.com/us-en/videos/from-avoriaz-with-love-speedriding-valentin-delluc"
+        },
+        {
+          "type": "other",
+          "url": "https://www.redbull.com/us-en/videos/from-avoriaz-with-love-speedriding-valentin-delluc"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/valentindelluc/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Short article I’m reading",
+      "category": "article",
+      "title": "The Four Buddhist Mantras for Turning Fear into Love",
+      "creator": "Maria Popova",
+      "note": ". Thanks to JZ for the recommendation.",
+      "original_url": "https://www.themarginalian.org/2020/12/01/thich-nhat-hanh-fear-love/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.themarginalian.org/2020/12/01/thich-nhat-hanh-fear-love/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/10/21/brain-pickings/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Book I’m rereading",
+      "category": "book",
+      "title": "The Art of Memoir",
+      "creator": "Mary Karr",
+      "note": "I’ve long been fascinated by [Mary Karr](https://twitter.com/marykarrlit), and I originally picked up her book on the craft of memoir writing after a recommendation by [Michael Pollan](https://tim.blog/2019/03/21/michael-pollan-sxsw/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit). It applies to much of life, and I’d consider it a philosophical guide in many respects, replete with the dead serious and spit-up-your-coffee funny. If you work with the written word in any capacity, I highly recommend this read. For more Mary, check out [our conversation on the podcast](https://tim.blog/2020/11/11/mary-karr/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit).",
+      "original_url": "https://www.amazon.com/Art-Memoir-Mary-Karr/dp/0062223070/?tag=offsitoftimfe-20",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Art-Memoir-Mary-Karr/dp/0062223070/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/marykarrlit"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/03/21/michael-pollan-sxsw/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/11/11/mary-karr/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“I don't follow trends. I outlast them.” — Arnold Schwarzenegger (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my brand-new interview with Elad Gil, the consigliere to empire builders. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Arnold Schwarzenegger",
+      "note": null,
+      "original_url": "https://www.facebook.com/watch/?v=744975948232561&vanity=arnold",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.facebook.com/watch/?v=744975948232561&vanity=arnold"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/Mxpn2"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/04/29/elad-gil/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

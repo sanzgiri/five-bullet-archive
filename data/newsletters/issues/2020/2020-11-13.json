@@ -7,7 +7,127 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Politician Cyrus Habib Leaves Office to Join the Jesuits",
+      "creator": null,
+      "note": "(_The New York Times_ — [@nytimes](https://twitter.com/nytimes)). Have you ever fantasized about walking off and leaving it all behind? This is the amazing story of one man, on track for ever-growing prestige and power, who did just that. Kudos to [Frank Bruni](https://en.wikipedia.org/wiki/Frank_Bruni) ([@FrankBruni](https://twitter.com/FrankBruni)) for a great piece. For more on Cyrus, here is [his Wikipedia page](https://en.wikipedia.org/wiki/Cyrus_Habib).",
+      "original_url": "https://www.nytimes.com/2020/04/11/opinion/sunday/cyrus-habib-jesuit.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/2020/04/11/opinion/sunday/cyrus-habib-jesuit.html"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/nytimes"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Frank_Bruni"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/FrankBruni"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Cyrus_Habib"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Podcast I’m listening to once again —",
+      "category": "podcast",
+      "title": "Brilliant Minds of Trash and Sewage",
+      "creator": null,
+      "note": "Alec Baldwin ([@ABFalecbaldwin](https://twitter.com/ABFalecbaldwin)) — yes, that Alec Baldwin — is absolutely one of the best interviewers in the podcast game. Polymath [Matt Mullenweg](https://tim.blog/2015/02/09/matt-mullenweg/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) recommended this short episode of [_Here’s the Thing_](https://www.wnycstudios.org/podcasts/heresthething) to me, and it doesn’t disappoint. Here’s a teaser: “New York City generates 1.3 billion gallons of wastewater every day. 16 million pounds of trash. Eight million pounds of recyclables. Think of the awesome engineering and effort behind making all of that ‘go away’ without our thinking about it.” Listen to this one for ten minutes. It will help you to see and appreciate the unseen that we so easily take for granted.",
+      "original_url": "https://www.wnycstudios.org/podcasts/heresthething/episodes/waste-episode",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.wnycstudios.org/podcasts/heresthething/episodes/waste-episode"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/ABFalecbaldwin"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/02/09/matt-mullenweg/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.wnycstudios.org/podcasts/heresthething"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "TED talk I’m watching —",
+      "category": "video",
+      "title": "How we can face the future without fear, together",
+      "creator": "Rabbi Lord Jonathan Sacks",
+      "note": ". Rabbi Sacks was an incredible man, and he sadly passed away last Saturday. I’m sure he’s already helping those in need on the other side. To feel his brilliance and warmth of spirit, you might also enjoy [this conversation between Rabbi Sacks and David Brooks](https://www.youtube.com/watch?v=zfplRTXO5HA) or [my long-form podcast with him](https://tim.blog/2020/08/26/rabbi-lord-jonathan-sacks-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), recorded just a few months ago. May he rest in peace, and my sincerest condolences to his family and loved ones.",
+      "original_url": "https://www.ted.com/talks/rabbi_lord_jonathan_sacks_how_we_can_face_the_future_without_fear_together",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.ted.com/talks/rabbi_lord_jonathan_sacks_how_we_can_face_the_future_without_fear_together"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/08/26/rabbi-lord-jonathan-sacks-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=zfplRTXO5HA"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/08/26/rabbi-lord-jonathan-sacks-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "News that I’m celebrating —",
+      "category": "other",
+      "title": "This week, the iconic Navy SEAL Foundation (NSF) pledged one of the organization’s largest single grants in its 20-year history to support a major post-traumatic stress disorder (PTSD) study focused on MDMA-assisted psychotherapy",
+      "creator": null,
+      "note": "pledged one of the organization’s largest single grants in its 20-year history to support a major post-traumatic stress disorder (PTSD) study focused on MDMA-assisted psychotherapy**](https://www.prweb.com/releases/navy_seal_foundation_contributes_50_000_to_support_major_ptsd_study/prweb17537307.htm)**.** This is a very big deal. I might expand more another time, but for now I’ll simply extend sincere gratitude to the Navy SEAL Foundation. Thank you for leading from the front. This is a large domino that could tip over many others.",
+      "original_url": "https://www.prweb.com/releases/navy_seal_foundation_contributes_50_000_to_support_major_ptsd_study/prweb17537307.htm",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.prweb.com/releases/navy_seal_foundation_contributes_50_000_to_support_major_ptsd_study/prweb17537307.htm"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Nothing is a greater impediment to being on good terms with others than being ill at ease with yourself.” — Honoré de Balzac And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5bulletfriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Honoré de Balzac And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5bulletfriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

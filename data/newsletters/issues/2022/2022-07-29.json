@@ -6,7 +6,202 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "The Bronc-busting, Cow-punching, Death-defying Legend of Boots O’Neal",
+      "creator": "Christian Wallace for Texas Monthly",
+      "note": "for _Texas Monthly._ This is a thought-provoking portrait of someone who lives to do his work and who can’t imagine doing otherwise. Here’s the opening paragraph: “The sun is not yet up when Boots O’Neal starts his workday. As the 89-year-old cowboy readies his mount in the predawn quiet, he stuffs his hands into well-worn leather gloves. His dark chaps are decorated with fringe, a slight sheen on the right hip where his nylon rope has polished the leather over the years. He pulls down his silverbelly hat and grunts his way onto the saddle, planting his tall-topped boots in the stirrups. The horse he’s riding today is a dark sorrel named Cool. Together they wait, as the cowboy saying goes, just ‘cryin’ for daylight.’”",
+      "original_url": "https://www.texasmonthly.com/being-texan/legend-of-boots-oneal/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.texasmonthly.com/being-texan/legend-of-boots-oneal/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.texasmonthly.com/author/christian-wallace/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Still Not Dead",
+      "creator": "Willie Nelson",
+      "note": "([YouTube](https://www.youtube.com/watch?v=J34esa_aJxc), [Spotify](https://open.spotify.com/track/30dIbe1zV4orwzUtria9Np)) by [Willie Nelson](https://willienelson.com/) ([@WillieNelson](https://twitter.com/willienelson)). I saw Willie Nelson play live at [Austin City Limits (ACL)](https://www.aclfestival.com/) in 2019. At 89 years young, the same age as Boots O’Neal, Willie can still bring down the house.",
+      "original_url": "https://www.youtube.com/watch?v=J34esa_aJxc",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=J34esa_aJxc"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=J34esa_aJxc"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/30dIbe1zV4orwzUtria9Np"
+        },
+        {
+          "type": "other",
+          "url": "https://willienelson.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/willienelson"
+        },
+        {
+          "type": "other",
+          "url": "https://www.aclfestival.com/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m studying",
+      "category": "other",
+      "title": "South Korea’s archery invincibility explained",
+      "creator": null,
+      "note": "I have recently become _deeply_ interested in South Korean archers. Why? Here’s how _The New York Times_ [put it](https://www.nytimes.com/2021/07/20/sports/olympics/korea-archery-tokyo-olympics.html): “For South Korean archers, winning Olympic gold medals feels almost like a given—they have claimed 23 of the 34 golds awarded in the sport since 1984. … The South Korean archery team has won gold medals at every Summer Olympics since 1984. The women’s team has been particularly dominant, winning gold eight straight times since the team event made its debut in 1988 in Seoul. In 2016, the men’s and women’s teams swept the gold medals in the team and individual events at the Olympics in Rio de Janeiro.” Watch the above video for more on their training systems.  \n​  \nSouth Korean coaches also combine the latest high-tech gadgetry with low-tech mental toughness training (psyche breaking and filtering?), some of which is described in this article: **“**[**South Korean archers banned for pulling out of training**](https://www.cbc.ca/sports/south-korean-archers-banned-for-pulling-out-of-training-1.262663)**.”** Here’s the opening lede, which gives you the gist: “South Korea’s world-class archers were ordered to clean up city sewage, stay up all night, stare at dead bodies in a crematory and climb a mountain with a rubber dinghy on their backs.”  \n​  \nSome fascinating bits from _The New York Times_ article:  \n​  \n“_The team is famous in the archery world for the depth and detail of its preparations. National coaches employ wind machines and pump artificial noise (crowd sounds, camera shutters) through speakers to simulate adverse environmental conditions athletes might encounter in competition.  \n​  \nBefore the Rio Games in 2016, the archers trained at a live baseball game, an unorthodox way to expose them to a pressure cooker atmosphere. This spring, practice sessions at the national training center in Jincheon have taken place in an arena modeled after the one they’ll see in Tokyo. Staff members installed video screens, audience stands and banners where they are likely to be positioned at the Olympics. Simulated loudspeaker announcements in English and Japanese further set the mood.  \n​  \n‘Our goal is zero-defect training,’ said Jang Young-sool, the vice president of the Korea Archery Association.”_",
+      "original_url": "https://www.youtube.com/watch?v=3bOhPVGt-wU",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=3bOhPVGt-wU"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nytimes.com/2021/07/20/sports/olympics/korea-archery-tokyo-olympics.html"
+        },
+        {
+          "type": "other",
+          "url": "https://www.cbc.ca/sports/south-korean-archers-banned-for-pulling-out-of-training-1.262663"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Test I’ve been doing every week or so",
+      "category": "other",
+      "title": "Dominant eye test: How to find your dominant eye",
+      "creator": null,
+      "note": "I’m right-handed but left-eye dominant, which is sometimes referred to as “cross dominance.” This can make a mess of things, which is part of why I explored eye dominance for sports with experts in [_The 4-Hour Chef: The Simple Path to Cooking Like a Pro, Learning Anything, and Living the Good Life_](https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/) (a book title I regret, as the book is mostly focused on meta-learning/accelerated learning). From 2009–2010, I was consistently missing basketball shots by a few inches until I made adjustments for cross dominance with [Rick Torbett](https://www.youtube.com/betterbasketball). And this can apply to a multitude of things, including photography, marksmanship, and… archery. But, you might rightly ask, if I already know I’m left-eye dominant, why on earth would I perform this test over and over again?  \n​  \nWell, a few months ago, I created two identical recurve bow setups, one for left-handed use and one for right-handed use. I’ve been alternating both in every workout, keeping both eyes open throughout, to try to determine if I should switch to a left-handed stance to match my left-eye dominance (which some excellent archers have suggested) or keep my default right-handed stance (which other excellent archers have recommended). Which is more accurate? Once getting over the basic awkwardness of shooting left-handed, it really seems to depend on the day or week. After one day of far better right-handed shooting, I repeated the eye-dominance test during a rest break, and it repeatedly indicated… right-eye dominance! I was flabbergasted and did a bunch of Googling to see if I was making a mistake or fooling myself, but it does seem that eye dominance can switch, at least anecdotally on archery forums. Presently, I seem to be left-eye dominant at least 80% of the time, but it’s not 100%. I assumed switching was impossible, but it just goes to show you how many “impossibles” are nothing of the sort. I find it all very exciting.",
+      "original_url": "https://www.allaboutvision.com/resources/dominant-eye-test.htm",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.allaboutvision.com/resources/dominant-eye-test.htm"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/betterbasketball"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Anniversary I’m thinking about",
+      "category": "other",
+      "title": "my first ride with my best friend, Molly",
+      "creator": null,
+      "note": "To celebrate, I updated my header photo [on the blog](https://tim.blog/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). My girlfriend said it looks like an engagement photo shoot. If you’ve never done a deep dive on the blog (more than 1,000 posts since 2006!), you can [click here](https://tim.blog/new-start-here/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) for some of the most popular of all time, categorized by theme. Or if you want to skip the multiple steps, here they are:\n\n-   ​[Practical Philosophy](https://tim.blog/new-start-here/#practical-philosophy)​\n-   ​[Fitness & Health](https://tim.blog/new-start-here/#fitness-and-health)​\n-   ​[Productivity](https://tim.blog/new-start-here/#productivity)​\n-   ​[Business & Entrepreneurship](https://tim.blog/new-start-here/#business-entrepreneurship)​\n-   ​[Language Learning](https://tim.blog/new-start-here/#language-learning)​\n-   ​[Book Recommendations](https://tim.blog/new-start-here/#book-recommendations)​\n-   ​[General Learning](https://tim.blog/new-start-here/#general-learning)​\n-   ​[Travel](https://tim.blog/new-start-here/#travel)​\n-   ​[Popular Videos from My YouTube Channel](https://tim.blog/new-start-here/#popular-videos)​\n-   ​[Popular Presentations & Interviews on YouTube](https://tim.blog/new-start-here/#popular-presentations)​",
+      "original_url": "https://www.instagram.com/p/5xM_51n8UD/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/p/5xM_51n8UD/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/new-start-here/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/new-start-here/#practical-philosophy"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/new-start-here/#fitness-and-health"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/new-start-here/#productivity"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/new-start-here/#business-entrepreneurship"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/new-start-here/#language-learning"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/new-start-here/#book-recommendations"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/new-start-here/#general-learning"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/new-start-here/#travel"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/new-start-here/#popular-videos"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/new-start-here/#popular-presentations"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“I never even thought about whether or not they understand what I’m doing. … The emotional reaction is all that matters. As long as there’s some feeling of communication, it isn’t necessary that it be understood.” — John Coltrane You can complement this edition of 5-Bullet Friday with more photos from the engagement photo shoot with Molly pup, this video on teaching Molly fun tricks, and my podcast interview with master dog trainer Susan Garrett. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "John Coltrane You can complement this edition of 5-Bullet Friday with more photos from the engagement photo shoot with Molly pup, this video on teaching Molly fun tricks, and my podcast interview with master dog trainer Susan Garrett. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/John_Coltrane",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/John_Coltrane"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/Cdd9QgUuARQ/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=I7fflsbVEFg"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2016/11/14/susan-garrett/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

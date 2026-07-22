@@ -7,7 +7,151 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Philip Roth: Unmasked",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/Philip-Roth-Unmasked/dp/B00C3WD3XO), [iTunes](https://itunes.apple.com/us/movie/philip-roth-unmasked/id627289121), [PBS](https://www.pbs.org/wnet/americanmasters/philip-roth-documentary/6056/)). I greatly enjoyed this deep dive into the life, craft, and humor of Philip Roth. My quest to learn more about Philip was sparked by [Joyce Carol Oates](https://tim.blog/2021/02/10/joyce-carol-oates/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), one of the most decorated and prodigious American writers of the last century, who spoke about him during [our podcast together](https://tim.blog/2021/02/10/joyce-carol-oates/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). Here’s the official description of this interview-rich documentary: “American Masters explores the life and career of Pulitzer Prize- and National Book Award-winning novelist [Philip Roth](https://en.wikipedia.org/wiki/Philip_Roth), often referred to as the greatest living American writer. Reclusive and diffident, Roth grants very few interviews, but for the first time, allowed a journalist to spend 10 days interviewing him on camera.”",
+      "original_url": "https://www.amazon.com/Philip-Roth-Unmasked/dp/B00C3WD3XO",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Philip-Roth-Unmasked/dp/B00C3WD3XO"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Philip-Roth-Unmasked/dp/B00C3WD3XO"
+        },
+        {
+          "type": "other",
+          "url": "https://itunes.apple.com/us/movie/philip-roth-unmasked/id627289121"
+        },
+        {
+          "type": "other",
+          "url": "https://www.pbs.org/wnet/americanmasters/philip-roth-documentary/6056/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/02/10/joyce-carol-oates/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/02/10/joyce-carol-oates/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Philip_Roth"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading (short) —",
+      "category": "article",
+      "title": "Ketamine for Depression: What the Treatment Reveals About the Brain",
+      "creator": "Lauren Tanabe",
+      "note": "([@lauren\\_tanabe](https://twitter.com/lauren_tanabe)). This is one of the best pieces on ketamine therapy that I have read. It covered some familiar ground for me, but it also surfaced several possibilities and combinations that I’d never considered. One such combination is ketamine plus rapamycin, an immunosuppressive drug widely used for organ transplants, which also happens to have profound life-extension implications in many species:  \n  \n“He \\[Chadi Abdallah, MD\\] and his colleagues recently published a study that found that giving rapamycin, an anti-inflammatory drug, to people prior to intravenous ketamine, prolonged the antidepressant effects; at two weeks, remission rates were higher in the pre-treatment group. Rapamycin may have protected new connections by reducing inflammation, but it does other things too that could potentially explain the findings. For example, it can increase autophagy, ‘the process through which cells remove toxic materials and dead elements in tissues,’ says Abdallah. In other words, it helps to clear the neurons of any junk, which may also help to preserve new synapses.”",
+      "original_url": "https://elemental.medium.com/ketamine-is-revealing-a-new-understanding-of-depression-and-the-brain-3fcd61e346b1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://elemental.medium.com/ketamine-is-revealing-a-new-understanding-of-depression-and-the-brain-3fcd61e346b1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.ltanabe.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/lauren_tanabe"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading (long) —",
+      "category": "book",
+      "title": "About This Life: Journeys on the Threshold of Memory",
+      "creator": "Barry Lopez",
+      "note": ". I have fallen in love with Barry Lopez’s writing. If you’re new to his work, I would suggest reading [_Of Wolves and Men_](https://www.amazon.com/Wolves-Men-Barry-Holstun-Lopez/dp/0684163225/) or [_Arctic Dreams_](https://www.amazon.com/Arctic-Dreams-Barry-Lopez/dp/0375727485/ref=sr_1_2?dchild=1&qid=1612828684&refinements=p_27%3ABarry+Lopez&s=books&sr=1-2&text=Barry+Lopez) first, as they are nonfiction at its best. [_About This Life_](https://www.amazon.com/About-This-Life-Journeys-Threshold/dp/0679754474/ref=sr_1_1?crid=LIASFEXR6TE0&dchild=1&keywords=about+this+life+by+barry+lopez&qid=1612826815&sprefix=about+this+life%2Caps%2C179&sr=8-1) is a mostly autobiographical collection of essays. In descending order, my favorites thus far are: “Learning to See,” “Orchids on the Volcanoes,” and “Apologia.”",
+      "original_url": "https://www.amazon.com/About-This-Life-Journeys-Threshold/dp/0679754474/ref=sr_1_1?crid=LIASFEXR6TE0&dchild=1&keywords=about+this+life+by+barry+lopez&qid=1612826815&sprefix=about+this+life%2Caps%2C179&sr=8-1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/About-This-Life-Journeys-Threshold/dp/0679754474/ref=sr_1_1?crid=LIASFEXR6TE0&dchild=1&keywords=about+this+life+by+barry+lopez&qid=1612826815&sprefix=about+this+life%2Caps%2C179&sr=8-1"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Barry_Lopez"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Wolves-Men-Barry-Holstun-Lopez/dp/0684163225/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Arctic-Dreams-Barry-Lopez/dp/0375727485/ref=sr_1_2?dchild=1&qid=1612828684&refinements=p_27%3ABarry+Lopez&s=books&sr=1-2&text=Barry+Lopez"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/About-This-Life-Journeys-Threshold/dp/0679754474/ref=sr_1_1?crid=LIASFEXR6TE0&dchild=1&keywords=about+this+life+by+barry+lopez&qid=1612826815&sprefix=about+this+life%2Caps%2C179&sr=8-1"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Soldier of Love",
+      "creator": "Sade",
+      "note": "([YouTube](https://www.youtube.com/watch?v=IR5_rTCi-Bo), [Spotify](https://open.spotify.com/track/0bgsj8kz5zWbQ6njk2Oqoz)) by [Sade](https://www.sade.com/) ([@sade](https://www.instagram.com/sade/)).",
+      "original_url": "https://www.youtube.com/watch?v=IR5_rTCi-Bo",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=IR5_rTCi-Bo"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=IR5_rTCi-Bo"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/0bgsj8kz5zWbQ6njk2Oqoz"
+        },
+        {
+          "type": "other",
+          "url": "https://www.sade.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/sade/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Poem I’m pondering… which is more inspiring than the title implies —",
+      "category": "other",
+      "title": "Mary Oliver",
+      "creator": null,
+      "note": "And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all.  \n  \nMuch love to you and yours,  \n  \nTim",
+      "original_url": "https://en.wikipedia.org/wiki/Mary_Oliver",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Mary_Oliver"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

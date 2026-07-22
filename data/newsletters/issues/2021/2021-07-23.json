@@ -7,7 +7,223 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading and sharing —",
+      "category": "article",
+      "title": "In The Light Of Dying Stars",
+      "creator": "David Alder",
+      "note": "If you have any interest in psychedelics or the psychedelic ecosystem, I consider this story to be required reading. It’s an impressive combination of prose and illustration.",
+      "original_url": "https://hereandnowstudios.com/in-the-light-of-dying-stars-1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://hereandnowstudios.com/in-the-light-of-dying-stars-1"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Stanley Tucci: Searching for Italy",
+      "creator": null,
+      "note": "([Apple TV](https://tv.apple.com/us/show/stanley-tucci-searching-for-italy/umc.cmc.2yiricezxngkbyfosdt8fzq0), [YouTube TV](https://tv.youtube.com/browse/stanley-tucci--searching-for-italy-UC9VQurSZt5Ffo8ZjkhDRlYg), [CNNgo](https://go.cnn.com/vod)). This show is simply beautiful. Description: “_Stanley Tucci: Searching for Italy_ is a six-part CNN Original Series that follows Academy Award nominee Stanley Tucci \\[[@stanleytucci](https://www.instagram.com/stanleytucci/)\\] as he travels across Italy to discover the secrets and delights of the country’s regional cuisines. Follow along as Tucci explores how Italian cooking offers a glimpse into the country’s rich history and culture.” The series received two Primetime Emmy Award nominations, and it was renewed for a second season. Kudos to the executive producers ([Adam Hawkins](https://twitter.com/adamhawkinstv?lang=en), [Eve Kay](https://www.evekay.tv/), [Stanley Tucci](https://www.instagram.com/stanleytucci/) for [RAW](https://www.raw.co.uk/stanley-tucci-searching-for-italy); [Amy Entelis](https://www.cnn.com/profiles/amy-entelis-profile) and [Lyle Gamm](https://www.imdb.com/name/nm0303962/) for CNN Original Series) and the different directors ([Satiyesh Manoharajah](https://www.imdb.com/name/nm1774665/), [Neil Ferguson](https://www.imdb.com/name/nm1990454/), [Chiara Messineo](https://chiaramessineo.com/), [Archie Powell](http://archiepowellfilms.online/), and [Chloë Avery](https://www.imdb.com/name/nm2349882/)). Watch a short preview [here](https://www.instagram.com/p/CLP1-brgQ5l/).",
+      "original_url": "https://www.goodhousekeeping.com/life/entertainment/a35620801/how-to-watch-stream-stanley-tucci-searching-for-italy/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.goodhousekeeping.com/life/entertainment/a35620801/how-to-watch-stream-stanley-tucci-searching-for-italy/"
+        },
+        {
+          "type": "other",
+          "url": "https://tv.apple.com/us/show/stanley-tucci-searching-for-italy/umc.cmc.2yiricezxngkbyfosdt8fzq0"
+        },
+        {
+          "type": "other",
+          "url": "https://tv.youtube.com/browse/stanley-tucci--searching-for-italy-UC9VQurSZt5Ffo8ZjkhDRlYg"
+        },
+        {
+          "type": "other",
+          "url": "https://go.cnn.com/vod"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/stanleytucci/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/adamhawkinstv?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.evekay.tv/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/stanleytucci/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.raw.co.uk/stanley-tucci-searching-for-italy"
+        },
+        {
+          "type": "other",
+          "url": "https://www.cnn.com/profiles/amy-entelis-profile"
+        },
+        {
+          "type": "other",
+          "url": "https://www.imdb.com/name/nm0303962/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.imdb.com/name/nm1774665/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.imdb.com/name/nm1990454/"
+        },
+        {
+          "type": "other",
+          "url": "https://chiaramessineo.com/"
+        },
+        {
+          "type": "other",
+          "url": "http://archiepowellfilms.online/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.imdb.com/name/nm2349882/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/CLP1-brgQ5l/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Short story I’m listening to —",
+      "category": "podcast",
+      "title": "Coming of Age in a Mausoleum",
+      "creator": "George Dawes Green",
+      "note": ". This is one of many gems I found in [_The Moth Presents — All These Wonders: True Stories about Facing the Unknown_](https://www.amazon.com/Moth-Presents-All-These-Wonders-ebook/dp/B01HL1CE5E/ref=sr_1_1?dchild=1&keywords=all+these+wonders&qid=1587242679&sr=8-1), which has a permanent spot on my coffee table. Hat tip to The Moth ([@TheMoth](https://twitter.com/TheMoth)), Neil Gaiman ([@neilhimself](https://twitter.com/neilhimself)), Catherine Burns ([@burnzieny](https://twitter.com/burnzieny)), and all the amazing contributors involved.",
+      "original_url": "https://player.themoth.org/#/?actionType=ADD_AND_PLAY&storyId=272",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://player.themoth.org/#/?actionType=ADD_AND_PLAY&storyId=272"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/George_Dawes_Green"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Moth-Presents-All-These-Wonders-ebook/dp/B01HL1CE5E/ref=sr_1_1?dchild=1&keywords=all+these+wonders&qid=1587242679&sr=8-1"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/TheMoth"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/neilhimself"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/burnzieny"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Music I’m listening to —",
+      "category": "music",
+      "title": "Sketches of the Mediterranean",
+      "creator": "Jon Hassell with Paolo Fresu",
+      "note": "with [Paolo Fresu](https://en.wikipedia.org/wiki/Paolo_Fresu).",
+      "original_url": "https://www.youtube.com/watch?v=Swg3tKTftPc",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=Swg3tKTftPc"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Jon_Hassell"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Paolo_Fresu"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Poem I’m pondering —",
+      "category": "other",
+      "title": "Rumi",
+      "creator": null,
+      "note": "\\[This is a portion of a longer poem, as found in the first bullet, “[In The Light Of Dying Stars](https://hereandnowstudios.com/in-the-light-of-dying-stars-1).”\\]  \nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n  \nHave a wonderful weekend, all.  \n  \nMuch love to you and yours,  \n  \nTim  \n  \n**P.S. Deal of the Week — Get your free** [**LMNT Sample Pack—the healthy alternative to sugary electrolyte drinks**](http://drinklmnt.com/Tim)**.** I’ve stocked up on boxes and boxes of [LMNT](http://drinklmnt.com/Tim) (including their new flavor, Watermelon Salt, which is absolutely delicious and perfect for summer), and I usually use 1–2 packs per day to add electrolytes. Especially if you’re on a low-carb diet, ketogenic diet, or using intermittent fasting, electrolytes are key for relieving headaches, muscle cramps, and fatigue. I add electrolytes for many reasons: because I over-hydrate compulsively while stuck at home (which dilutes electrolytes and leads me to feel tired), because I’m on a low-carb diet, because I’ve lost electrolytes through exercise, etc. It’s simply cheap insurance that tastes great.Developed by Robb Wolf and his coaches, each serving delivers a meaningful dose of electrolytes without the garbage—no sugar, no artificial ingredients, no coloring, no junk. [LMNT](http://drinklmnt.com/Tim) is used by three Navy SEAL teams, as prescribed by their master chief, and 10+ NFL and NBA teams, and it is the Official Hydration Partner of Team USA Weightlifting. My favorite flavor is Citrus Salt, which, as a side note, you can use to make a kick-ass, no-sugar margarita. Watermelon is a close second, so I alternate the two.[**For a limited time, you can claim your free LMNT Sample Pack to try their most popular flavors**](http://drinklmnt.com/Tim)—you only cover the cost of shipping ($5 for US customers). This special offer is available here >> [DrinkLMNT.com/Tim](http://drinklmnt.com/Tim).\n\n[![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/hAHoQ5faPwYaTb1HKvQEBZ?w=800&fit=max)](https://tim.blog/2020/12/08/jerry-seinfeld/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf-footer-jerry)\n\nFORWARDED THIS MESSAGE? [SIGN UP](https://go.tim.blog/10x-output/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=template).\n\n![Tim Ferriss Photo](http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg)\n\nJoin millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff.\n\nDUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just [click here](https://unsubscribe.fourhourmail.com/qdurox544u7hm306oie). To reply to Tim, please do so in the blog comments [here](https://tim.blog/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=template).\n\n3112 Windsor Rd., Box #UNS, Austin TX 78703, United States\n\n \n\n![](https://open.fourhourmail.com/qdurox544u7hm306oie)",
+      "original_url": "https://en.wikipedia.org/wiki/Rumi",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Rumi"
+        },
+        {
+          "type": "other",
+          "url": "https://hereandnowstudios.com/in-the-light-of-dying-stars-1"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "http://drinklmnt.com/Tim"
+        },
+        {
+          "type": "other",
+          "url": "http://drinklmnt.com/Tim"
+        },
+        {
+          "type": "other",
+          "url": "http://drinklmnt.com/Tim"
+        },
+        {
+          "type": "other",
+          "url": "http://drinklmnt.com/Tim"
+        },
+        {
+          "type": "other",
+          "url": "http://drinklmnt.com/Tim"
+        },
+        {
+          "type": "other",
+          "url": "https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/hAHoQ5faPwYaTb1HKvQEBZ?w=800&fit=max"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/10x-output/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=template"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/qdurox544u7hm306oie"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=template"
+        }
+      ]
+    }
+  ]
 }

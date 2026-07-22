@@ -6,7 +6,163 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "How My Father and I Drew a New Life",
+      "creator": "Brian Frazer for The New York Times_",
+      "note": "for _The New York Times_. This is a truly remarkable essay with lessons for all readers. Short and easy.",
+      "original_url": "https://www.nytimes.com/2023/06/16/style/how-my-father-and-i-drew-a-new-life.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/2023/06/16/style/how-my-father-and-i-drew-a-new-life.html"
+        },
+        {
+          "type": "other",
+          "url": "http://www.frazersedge.com/about"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Documentary I’m watching",
+      "category": "video",
+      "title": "The Pez Outlaw",
+      "creator": null,
+      "note": "This hilarious adventure is like a surreal blend of [_King of Kong_](https://www.amazon.com/King-Kong-Quarters-Billy-Mitchell/dp/B0012HDAAM), [_Man on Wire_](https://www.amazon.com/Man-Wire-James-Marsh/dp/B001NEI96O), and [_Best in Show_](https://www.amazon.com/Best-Show-Jennifer-Coolidge/dp/B008Q0C5I6/). From the description: “In the 1990s, Pez dispensers were worth more, gram for gram, than cocaine or even gold. Steve Glew, from rural Michigan, spent 10 years smuggling Pez dispensers into the USA from Eastern Europe, making millions of dollars. It was all magical until... it wasn’t. His arch-nemesis, the Pezident, decided to destroy him.”",
+      "original_url": "https://www.amazon.com/Pez-Outlaw-Steve-Glew/dp/B0B6GS774L/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Pez-Outlaw-Steve-Glew/dp/B0B6GS774L/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/King-Kong-Quarters-Billy-Mitchell/dp/B0012HDAAM"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Man-Wire-James-Marsh/dp/B001NEI96O"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Best-Show-Jennifer-Coolidge/dp/B008Q0C5I6/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Podcast episode I’m listening to",
+      "category": "podcast",
+      "title": "Hugh Howey: Winning at the Self-Publishing Game",
+      "creator": null,
+      "note": "on [_The Knowledge Project_](https://fs.blog/knowledge-project-podcast/hugh-howey/) podcast by [Shane Parrish](https://fs.blog/about/) of _Farnam Street_ fame. I really enjoyed this episode, especially the last 20–25 minutes, which get into publishing deals, contracts, and specific deal points. From the description: “In this fascinating discussion, [Hugh](https://twitter.com/hughhowey) and I talk about the ancient art of wayfinding, why traveling is such a powerful way to connect to other people, and how it has impacted his worldview. Hugh then gives a masterclass in writing and publishing your own book. We talk about his writing routine, dealing with insecurities, the pros and cons of big publishing houses, and much more. If you’ve ever considered writing a book, this is not an episode you want to miss.”",
+      "original_url": "https://fs.blog/knowledge-project-podcast/hugh-howey/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://fs.blog/knowledge-project-podcast/hugh-howey/"
+        },
+        {
+          "type": "other",
+          "url": "https://fs.blog/knowledge-project-podcast/hugh-howey/"
+        },
+        {
+          "type": "other",
+          "url": "https://fs.blog/about/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/hughhowey"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Tech workaround that I’ll use again",
+      "category": "other",
+      "title": "Airalo",
+      "creator": null,
+      "note": "What to do for cellular data when traveling overseas? For a while, my answer was the app [GigSky](https://www.gigsky.com/), but on a recent trip abroad, I had all sorts of problems, so I posted a plea for help on social media. Special thanks to [Noah Kagan](https://tim.blog/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@noahkagan](https://twitter.com/noahkagan)) and everyone else who responded to my query in [this Twitter thread](https://twitter.com/tferriss/status/1666495493097021494). Airalo was extremely easy to use and did the trick. To avoid expensive roaming bills when traveling abroad and using data, you can install the Airalo app ([iOS](https://apps.apple.com/app/airalo-esim-store/id1475911720), [Android](https://play.google.com/store/apps/details?id=com.mobillium.airalo&pli=1)) and buy a local eSIM. In minutes, you will have data at an affordable price. The app might be easiest, but I personally did something slightly different: I visited [their website](https://www.airalo.com/) on my laptop and then took a pic of the QR code with my phone. Here’s the official description: “Airalo is the world’s first eSIM store that solves the pain of high roaming bills by giving you access to 200+ eSIMs (digital SIM cards) globally at affordable prices.”",
+      "original_url": "https://www.airalo.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.airalo.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.gigsky.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/noahkagan"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss/status/1666495493097021494"
+        },
+        {
+          "type": "other",
+          "url": "https://apps.apple.com/app/airalo-esim-store/id1475911720"
+        },
+        {
+          "type": "other",
+          "url": "https://play.google.com/store/apps/details?id=com.mobillium.airalo&pli=1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.airalo.com/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“I have learned that what I have not drawn I have never really seen, and that when I start drawing an ordinary thing, I realize how extraordinary it is, sheer miracle.” — Frederick Franck, The Zen of Seeing_ (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with this list of my favorite documentaries, this short video on writing advice to improve your thinking, and this clip of four things I can’t travel without. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Frederick Franck, The Zen of Seeing_",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Frederick_Franck",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Frederick_Franck"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Zen-Seeing-Drawing-Meditation/dp/0394719689/"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/qb87p"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/04/13/tim-ferriss-favorite-documentaries/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=65U5byDZ55M"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/reel/CoNcL6OAoxO/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

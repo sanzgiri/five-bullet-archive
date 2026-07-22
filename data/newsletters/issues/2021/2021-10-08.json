@@ -6,7 +6,174 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Texas Is the Future of America",
+      "creator": "Steven Pedigo",
+      "note": "([@iamstevenpedigo](https://twitter.com/iamstevenpedigo)) for _The New York Times_. This article probably isn’t what you think it is. Based on demographic changes and more, I think it helps you to peek around corners into the near future.",
+      "original_url": "https://www.nytimes.com/2021/10/05/opinion/texas-census-united-states.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/2021/10/05/opinion/texas-census-united-states.html"
+        },
+        {
+          "type": "other",
+          "url": "https://iamstevenpedigo.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/iamstevenpedigo"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "34 Mistakes on the Way to 34 Years Old",
+      "creator": "Ryan Holiday",
+      "note": "([@RyanHoliday](https://twitter.com/ryanholiday)). For more life advice recapped on birthdays, see Elder Jedi [Kevin Kelly](https://tim.blog/2014/08/29/kevin-kelly/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)’s “[99 Additional Bits of Unsolicited Advice](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/)” and “[68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/).”",
+      "original_url": "https://ryanholiday.net/34-mistakes-on-the-way-to-34-years-old/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://ryanholiday.net/34-mistakes-on-the-way-to-34-years-old/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/04/09/ryan-holiday-stoicism/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/ryanholiday"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/08/29/kevin-kelly/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/"
+        },
+        {
+          "type": "other",
+          "url": "https://kk.org/thetechnium/68-bits-of-unsolicited-advice/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching (short) —",
+      "category": "video",
+      "title": "Let Things Rot",
+      "creator": null,
+      "note": "from the [Fungi Foundation](https://ffungi.org/). This is gorgeously shot, and it’s worth a five-minute break for the visuals alone. From the description: “The Fungi Foundation is proud to present ‘Let Things Rot,’ a new documentary short directed by [Mateo Barrenengoa](https://www.mateobarrenengoa.cl/) in collaboration with mycologist and foundation founder [Giuliana Furci](https://tim.blog/2021/07/29/giuliana-furci/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) \\[[@giulifungi](https://www.instagram.com/giulifungi/?hl=en)\\]. Filmed in Chile’s Araucanía Region, the short delves into fungi’s crucial role as a decomposer, inviting the viewer to reconsider rotting through a new, poetic perspective.”",
+      "original_url": "https://youtu.be/PI_-eUOgqFI",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/PI_-eUOgqFI"
+        },
+        {
+          "type": "other",
+          "url": "https://ffungi.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.mateobarrenengoa.cl/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/07/29/giuliana-furci/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/giulifungi/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m watching (long) —",
+      "category": "video",
+      "title": "Language Lessons",
+      "creator": null,
+      "note": "This is the first movie I’ve seen in theaters since COVID. It is (e)spectacular! The format is genius, the characters are gorgeously imperfect, and the emotions are exactly what I needed. Highest recommendation. Kudos to [Natalie Morales](https://en.wikipedia.org/wiki/Natalie_Morales_(actress)) ([@nataliemorales](https://twitter.com/nataliemorales)), [Mark Duplass](https://en.wikipedia.org/wiki/Mark_Duplass) ([@MarkDuplass](https://twitter.com/markduplass)), and the entire team. Pro tip: Don’t watch the trailer or read descriptions, as they contain too many possible spoilers. Enjoy the laughs and catharsis.",
+      "original_url": "https://www.rottentomatoes.com/m/language_lessons",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.rottentomatoes.com/m/language_lessons"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Natalie_Morales_(actress"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/nataliemorales"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Mark_Duplass"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/markduplass"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Podcast episode I’m listening to —",
+      "category": "podcast",
+      "title": "How We Got Our Grid and How We Get a Better One",
+      "creator": null,
+      "note": "[Click here to skip directly to the start of the episode at 5:52](https://open.spotify.com/episode/1rzbM5eYENDdqAb4yQM3Yk?si=KQpQelyXQ-2_ewogb-gXbA&context=spotify%3Aepisode%3A1rzbM5eYENDdqAb4yQM3Yk&t=352&dl_branch=1). Description: “Wind and solar are now some of the cheapest ways to make electricity. So what’s standing in the way of using more of these renewable energies? One of the biggest barriers is something all around us that we rarely notice—our electricity grid. Not just the wires and technology that make up the grid but also the people and institutions that run it. In this episode, we talk with anthropologist [Gretchen Bakke](https://bakkeconsolidated.org/), author of [_The Grid: The Fraying Wires Between Americans and Our Energy Future_](https://www.amazon.com/Grid-Fraying-Between-Americans-Energy/dp/1632865688/), about how we got our grid and how we get a better one.”",
+      "original_url": "https://open.spotify.com/episode/1rzbM5eYENDdqAb4yQM3Yk?si=4yfWIaavSQSF3q27fpg4QQ&dl_branch=1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://open.spotify.com/episode/1rzbM5eYENDdqAb4yQM3Yk?si=4yfWIaavSQSF3q27fpg4QQ&dl_branch=1"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/1rzbM5eYENDdqAb4yQM3Yk?si=KQpQelyXQ-2_ewogb-gXbA&context=spotify%3Aepisode%3A1rzbM5eYENDdqAb4yQM3Yk&t=352&dl_branch=1"
+        },
+        {
+          "type": "other",
+          "url": "https://bakkeconsolidated.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Grid-Fraying-Between-Americans-Energy/dp/1632865688/"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Pardon him, Theodotus: he is a barbarian, and thinks that the customs of his tribe and island are the laws of nature.” — George Bernard ShawAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "George Bernard ShawAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/George_Bernard_Shaw",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/George_Bernard_Shaw"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

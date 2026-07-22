@@ -7,7 +7,163 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Mini-documentary I’m very excited to share",
+      "category": "video",
+      "title": "Prisoner No More",
+      "creator": null,
+      "note": "This documentary tells the story of the most incredible transformation I’ve ever seen. It follows Tae Jin Park, a young man diagnosed with cerebral palsy and autism, who dismantled every limitation medical science predicted for him. Through athletic and mental training under Olympic strength coach [Jerzy Gregorek](https://tim.blog/2026/05/14/jerzy-gregorek-cerebral-palsy/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), Tae Jin’s story redefines what is possible. To watch or listen to my brand-new interview with Jerzy, in which we go deeper in how he trained Tae Jin with his methodology of micro-progressions, [click here](https://tim.blog/2026/05/14/jerzy-gregorek-cerebral-palsy/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). Special thanks to director [Jeff Wolfe](https://wolfeprideproductions.com/) for allowing me to share the documentary on my YouTube channel for free, as this case study needs to be seen to be believed.  \n​  \nOnce you’ve seen the mini-doc, if you’d like to help bring Jerzy’s method to more people with cerebral palsy in a scientific study, [please fill out this form](http://forms.gle/fiqQu7E875orVn3j7). If you’d like to help Jeff turn this mini-doc into a series about people who beat the odds, please [see the description under the video](https://www.youtube.com/watch?v=FcQ3ELLLgqc).",
+      "original_url": "https://www.youtube.com/watch?v=FcQ3ELLLgqc",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=FcQ3ELLLgqc"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/05/14/jerzy-gregorek-cerebral-palsy/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/05/14/jerzy-gregorek-cerebral-palsy/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://wolfeprideproductions.com/"
+        },
+        {
+          "type": "other",
+          "url": "http://forms.gle/fiqQu7E875orVn3j7"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=FcQ3ELLLgqc"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Profile I’m reading",
+      "category": "article",
+      "title": "The Greatest Investor You’ve Never Heard Of: An Optometrist Who Beat The Odds To Become A Billionaire",
+      "creator": null,
+      "note": "(_Forbes_, [Alternate link](https://archive.is/ETYTT)). This is a wild read. There are some very smart lessons in here for those who read carefully. One benefit of the 2019 publication date is that you can now look up how his older investments (e.g., Heico) and newer bets at the time of its writing (e.g., GE) turned out. It’s practically the stuff of fantasy.",
+      "original_url": "https://www.forbes.com/sites/maddieberg/2019/02/19/the-greatest-investor-youve-never-heard-of-an-optometrist-who-beat-the-odds-to-become-a-billionaire/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.forbes.com/sites/maddieberg/2019/02/19/the-greatest-investor-youve-never-heard-of-an-optometrist-who-beat-the-odds-to-become-a-billionaire/"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.is/ETYTT"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Dead to Me",
+      "creator": "TINAMINA",
+      "note": "([YouTube](https://music.youtube.com/watch?v=sqlGsIRGiSQ&si=z8NeIRx2AjGklEre), [Spotify](https://open.spotify.com/track/5dx95jHmEMSvbq4EyG2Pee), [Apple Music](https://music.apple.com/gb/song/dead-to-me/1657137665)) by [TINAMINA](https://www.instagram.com/akatinamina/). Anglo-Korean R&B. Found this through a niche video on storyboarding in the development of _K-Pop Demon Hunters_.  \n​  \n​**“**[**Pisces (Live Session)**](https://www.youtube.com/watch?v=SQNtGoM3FVU)**”** by [JINJER](https://www.instagram.com/jinjer_official/). Ukrainian shapeshifting? Be sure to listen to the first two minutes for the surprise transformation. It’s no joke, and she sounds the same in live performances. As commenter @davidacus956 put it, “I heard this on Spotify and was like ‘I like the distinction between the two vocalists’ and then I watched this.”",
+      "original_url": "https://music.youtube.com/watch?v=sqlGsIRGiSQ&si=z8NeIRx2AjGklEre",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://music.youtube.com/watch?v=sqlGsIRGiSQ&si=z8NeIRx2AjGklEre"
+        },
+        {
+          "type": "other",
+          "url": "https://music.youtube.com/watch?v=sqlGsIRGiSQ&si=z8NeIRx2AjGklEre"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/5dx95jHmEMSvbq4EyG2Pee"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/gb/song/dead-to-me/1657137665"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/akatinamina/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=SQNtGoM3FVU"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/jinjer_official/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Blog post I’m reading",
+      "category": "article",
+      "title": "Getting closer to Her: From Moshi to Thinking Machines Interaction Model",
+      "creator": null,
+      "note": "How do we actually get to the Scarlett Johansson companion in the movie [_Her_](https://www.amazon.com/Her-Joaquin-Phoenix/dp/B00KATY250/?tag=offsitoftimfe-20)?  \n​  \nFrom the above piece: “Real-time voice assistants \\[have been\\] small and dumb because anything bigger could not respond inside a human’s patience window. Frontier reasoning models \\[have been\\] astonishing in benchmark tables, but their real-time voice versions \\[feel lacking\\].”  \n​  \nSo what to do? Sure, you can try and cascade models together, but then you’re “adding latency, each handoff losing context, each silence between turns reminding you that you were talking to a machine.”  \n​  \nDiving back into the blog post:  \n​  \n​_The_ [_interaction-model / background-model_](https://x.com/thinkymachines/status/2053938892152435174?s=20) _split is the first credible answer to that triangle. By assigning the two halves of intelligence to different hardware on different latency budgets, the architecture sidesteps the trade-off rather than negotiating with it. The half that has to be present is allowed to be small, fast, multimodal, and continuously attentive — five times a second, no exceptions. The half that has to be smart is free to be enormous, slow, deliberative, and tool-using, because it is never on the critical path of the 200ms cadence. Neither side is asked to compromise on what it is good at. The user experiences both, fused.  \n​  \nWhat does that unlock concretely? Consider the experiences that have been technically promised for a decade and have never quite worked:  \n​  \n​_…  \n​  \n​_A cooking companion that watches your hands through your phone camera, calls out that the onions are about to burn, and pulls up a substitute when you realise you’re out of cumin — without any of those interactions feeling like separate apps. The visual perception is handled in the 200ms loop. The recipe knowledge, the substitution reasoning, the meal-planning context lives in the background.  \n​  \n...  \n​  \nA workplace assistant that is actually in the meeting with you, not transcribing it for later. It can interject with the relevant figure when someone mis-cites a number, surface the Slack thread that supersedes a decision being re-debated, and do all of that without the awkward “OK assistant, are you there?” preamble that makes today’s tools feel like talking to a Roomba.  \n​  \n…  \n​  \nThe pattern is the same in every case: the experience becomes natural when being there and being smart stop competing for the same compute budget.  \n​  \n…  \n​  \nThis is what people mean when they say voice is the next interface. It was never really about voice. It was about whether intelligence could show up in the room without making you wait for it._ [_The split architecture_](https://x.com/thinkymachines/status/2053938892152435174?s=20) _is the first proof that it can.  \n​  \n​_Be sure to peruse the entire piece.  \n​  \nNot to sound like [Yogi Berra](https://en.wikipedia.org/wiki/Yogi_Berra#%22Yogi-isms%22), but the future is coming a lot sooner than expected.",
+      "original_url": "https://polymath707.substack.com/p/getting-closer-to-her-from-moshi",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://polymath707.substack.com/p/getting-closer-to-her-from-moshi"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Her-Joaquin-Phoenix/dp/B00KATY250/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/thinkymachines/status/2053938892152435174?s=20"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/thinkymachines/status/2053938892152435174?s=20"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Yogi_Berra#%22Yogi-isms%22"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The first objective was to give as many students as possible an early sense of achievement within the first half hour. Using one of his many heuristic techniques—described as ‘mental hooks’—\\[Michel Thomas\\] demonstrated to the class that they already possessed a French vocabulary of as many as three thousand words or more. And that these were not ‘baby’ words, but complex adult words, so they did not have to begin learning as children. He pointed out that most English words ending in -tion, -able, -ence and -ism were the same in French (condition, capable, experience, realism). And that many English words ending in ‘y’ had an ‘e’ in French: fraternity, paternity, liberty and so on.” — The Test of Courage by Christopher Robbins * * * You can complement this edition of 5-Bullet Friday with my very first interview with Jerzy, which also features investor Naval Ravikant, who originally introduced me to Jerzy. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "described as ‘mental hooks’—\\",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Michel_Thomas",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Michel_Thomas"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Test-Courage-Biography-Nazi-Hunter-Christopher-ebook/dp/B0071MB022/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/stores/Christopher-Robbins/author/B0034OYMBW/?tag=offsitoftimfe-20&ccs_id=645ee105-20b3-42c5-8d32-fd449ab86dca"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/03/16/jerzy-gregorek/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

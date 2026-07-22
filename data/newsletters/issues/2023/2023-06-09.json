@@ -6,7 +6,207 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Podcast episode I’m listening to",
+      "category": "podcast",
+      "title": "Making: Jordan Peele",
+      "creator": null,
+      "note": "([Apple Podcasts](https://podcasts.apple.com/us/podcast/making-jordan-peele/id1171160683?i=1000613493060), [Spotify](https://open.spotify.com/episode/2dl6tpa3dDYBzbL51SOXl3?si=A-u1WuH4QRaK2czSoh_rag), [Overcast](https://overcast.fm/+pElY1VGug)) on the [_Making_](https://www.wbez.org/shows/making/71b8de57-b2be-4e03-8481-683258de3ec1) podcast. How are polymaths made? Who was Jordan Peele before [_Key & Peele_](https://en.wikipedia.org/wiki/Key_%26_Peele)? This podcast is a hilarious ride that touches on both. Here’s the episode’s description: “[Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) ([@JordanPeele](https://twitter.com/jordanpeele)) is responsible for modern classics in the horror genre, including the films [_Us_](https://www.amazon.com/Us-Lupita-Nyongo/dp/B07PH23CW4), [_Nope_](https://www.amazon.com/Nope-Daniel-Kaluuya/dp/B0B8V3YZ85), and the Oscar-winning [_Get Out_](https://www.amazon.com/Get-Out-Daniel-Kaluuya/dp/B06Y1FYX25). Before all that, he was a self-described nerd. He majored in puppetry in college before dropping out with his friend [Rebecca Drysdale](https://en.wikipedia.org/wiki/Rebecca_Drysdale) to pursue a career in comedy. Hear from Drysdale, Peele’s early collaborator [Brendan Hunt](https://en.wikipedia.org/wiki/Brendan_Hunt) ([@brendanhunting](https://twitter.com/brendanhunting)) \\[perhaps best known as the assistant coach in _Ted Lasso_\\], and cultural critic [Aisha Harris](https://en.wikipedia.org/wiki/Aisha_Harris) ([@craftingmystyle](https://twitter.com/craftingmystyle)) about Jordan Peele’s rise to comedic and horror genius.”",
+      "original_url": "https://www.wbez.org/stories/making-jordan-peele/186cf9a2-6141-42bd-87cc-28dbef5b6ad6",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.wbez.org/stories/making-jordan-peele/186cf9a2-6141-42bd-87cc-28dbef5b6ad6"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/making-jordan-peele/id1171160683?i=1000613493060"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/2dl6tpa3dDYBzbL51SOXl3?si=A-u1WuH4QRaK2czSoh_rag"
+        },
+        {
+          "type": "other",
+          "url": "https://overcast.fm/+pElY1VGug"
+        },
+        {
+          "type": "other",
+          "url": "https://www.wbez.org/shows/making/71b8de57-b2be-4e03-8481-683258de3ec1"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Key_%26_Peele"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Jordan_Peele"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/jordanpeele"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Us-Lupita-Nyongo/dp/B07PH23CW4"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Nope-Daniel-Kaluuya/dp/B0B8V3YZ85"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Get-Out-Daniel-Kaluuya/dp/B06Y1FYX25"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Rebecca_Drysdale"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Brendan_Hunt"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/brendanhunting"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Aisha_Harris"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/craftingmystyle"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Word of the week",
+      "category": "other",
+      "title": "κάλλος",
+      "creator": null,
+      "note": "(_kállos_, “beauty”) + [πυγή](https://en.wiktionary.org/wiki/%CF%80%CF%85%CE%B3%CE%AE#Ancient_Greek) (_pugḗ_, “buttocks”). To easily remember it, think of this word: calligraphy, “the art of beautiful writing, elegant penmanship,” 1610s, from Latinized form of Greek _kaligraphia_, from _kállos_ “beauty” + _graphein_ “to write.”",
+      "original_url": "https://en.wiktionary.org/wiki/%CE%BA%CE%AC%CE%BB%CE%BB%CE%BF%CF%82#Ancient_Greek",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wiktionary.org/wiki/%CE%BA%CE%AC%CE%BB%CE%BB%CE%BF%CF%82#Ancient_Greek"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wiktionary.org/wiki/%CF%80%CF%85%CE%B3%CE%AE#Ancient_Greek"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Cyberpunk: Edgerunners",
+      "creator": null,
+      "note": ",** created by [Rafał Jaki](https://www.linkedin.com/in/rjaki/) ([@GwentBro](https://twitter.com/GwentBro)) and [Mike Pondsmith](https://en.wikipedia.org/wiki/Mike_Pondsmith), [_Cyberpunk_](https://en.wikipedia.org/wiki/Cyberpunk_(role-playing_game)) universe creator. Thanks to Dr. Snapping Turtle for recommending this one. And to cover my ass upfront, a warning: this series is \\*very\\* intense. To be clear, _Cyberpunk: Edgerunners_ isn’t all blood and guts. There’s some great character development and lots of well-designed plot twists, but… you gotta be able to handle extreme violence. What qualifies as extreme? [Here’s the NSFW trailer](https://www.youtube.com/watch?v=JtqIas3bYhg), and you can judge for yourself. With my renewed interest in making art, it’s been fun to review Japanese while also studying the particular way a lot of anime uses super-detailed backgrounds, extremely high-contrast lighting effects, and so on.",
+      "original_url": "https://www.netflix.com/title/81054853",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.netflix.com/title/81054853"
+        },
+        {
+          "type": "other",
+          "url": "https://www.linkedin.com/in/rjaki/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/GwentBro"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Mike_Pondsmith"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Cyberpunk_(role-playing_game"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=JtqIas3bYhg"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Bora Passear",
+      "creator": "Curumin",
+      "note": "([YouTube](https://www.youtube.com/watch?v=J6aTiQDDjZE), [Apple Music](https://music.apple.com/us/album/passear/1594701597?i=1594701602), [Spotify](https://open.spotify.com/track/6WqEmMNyQ9e3HRKzhV3Hr2)) by [Curumin](https://en.wikipedia.org/wiki/Curumin) ([@curumineosaipins](https://www.instagram.com/curumineosaipins/)).",
+      "original_url": "https://www.youtube.com/watch?v=J6aTiQDDjZE",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=J6aTiQDDjZE"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=J6aTiQDDjZE"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/album/passear/1594701597?i=1594701602"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/6WqEmMNyQ9e3HRKzhV3Hr2"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Curumin"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/curumineosaipins/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Don’t worry about people stealing your ideas. If your ideas are any good, you’ll have to ram them down people’s throats.” — Howard Aiken (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my conversation with polymath and “most interesting man in the world” Kevin Kelly, this Random Show episode recorded in Japan with my good friend Kevin Rose, and my interview with comedy legend Jerry Seinfeld. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Howard Aiken",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Howard_H._Aiken",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Howard_H._Aiken"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/cbkfa"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/02/26/the-random-show-drinking-urine-exploring-japan-and-figuring-out-life/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/12/08/jerry-seinfeld/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

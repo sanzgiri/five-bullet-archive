@@ -6,7 +6,163 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Is Selling Shares in Yourself the Way of the Future?",
+      "creator": "Nathan Heller for The New Yorker_",
+      "note": "for _The New Yorker_.",
+      "original_url": "https://www.newyorker.com/magazine/2022/08/01/is-selling-shares-in-yourself-the-way-of-the-future",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.newyorker.com/magazine/2022/08/01/is-selling-shares-in-yourself-the-way-of-the-future"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/nathanheller"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Playing God",
+      "creator": "Polyphia",
+      "note": "([YouTube](https://www.youtube.com/watch?v=Z5NoQg8LdDk), [Spotify](https://open.spotify.com/track/3nBGFgfRQ8ujSmu5cGlZIU?autoplay=true)) by [Polyphia](https://www.polyphia.com/) ([@polyphia](https://twitter.com/polyphia)). Exceptional talents. I am listening to this track on repeat for working, walking, wizardry, and whatever else.",
+      "original_url": "https://www.youtube.com/watch?v=Z5NoQg8LdDk",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=Z5NoQg8LdDk"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=Z5NoQg8LdDk"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/3nBGFgfRQ8ujSmu5cGlZIU?autoplay=true"
+        },
+        {
+          "type": "other",
+          "url": "https://www.polyphia.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/polyphia"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Study I’m excited to share",
+      "category": "other",
+      "title": "Psychedelic drug helped people with alcohol use disorder reduce drinking, study shows",
+      "creator": null,
+      "note": "From the article: “More than 80% of those who were given the psychedelic treatment had drastically reduced their drinking eight months after the study started, compared to just over 50% in the antihistamine (active placebo) control group, according to results published Wednesday in [_JAMA Psychiatry_](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/10.1001/jamapsychiatry.2022.2096?guestAccessKey=e1328a7a-6e79-43f8-ad04-143fd8134839&utm_source=For_The_Media&utm_medium=referral&utm_campaign=ftm_links&utm_content=tfl&utm_term=082422).” Here’s a snippet of the experience of Jon Kostas, one of the study’s participants: “When he began the psilocybin trial at age 25, he was consuming almost 23 drinks in a single bender.” Flash forward to today, and Jon “has stayed sober since the trial and founded a nonprofit organization for psychedelic mental health research.” Huge kudos to [Dr. Michael Bogenschutz](https://centerforpsychedelicmedicine.org/michael-bogenschutz/), [Dr. Stephen Ross](https://centerforpsychedelicmedicine.org/stephen-ross-md/), and the entire team at the [NYU Langone Health Center for Psychedelic Medicine](https://centerforpsychedelicmedicine.org/).",
+      "original_url": "https://www.nbcnews.com/health/mental-health/psilocybin-mushroom-help-people-alcohol-use-disorder-rcna44180",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nbcnews.com/health/mental-health/psilocybin-mushroom-help-people-alcohol-use-disorder-rcna44180"
+        },
+        {
+          "type": "other",
+          "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/10.1001/jamapsychiatry.2022.2096?guestAccessKey=e1328a7a-6e79-43f8-ad04-143fd8134839&utm_source=For_The_Media&utm_medium=referral&utm_campaign=ftm_links&utm_content=tfl&utm_term=082422"
+        },
+        {
+          "type": "other",
+          "url": "https://centerforpsychedelicmedicine.org/michael-bogenschutz/"
+        },
+        {
+          "type": "other",
+          "url": "https://centerforpsychedelicmedicine.org/stephen-ross-md/"
+        },
+        {
+          "type": "other",
+          "url": "https://centerforpsychedelicmedicine.org/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Blog posts I’m revisiting for a personal reboot",
+      "category": "article",
+      "title": "Real Mind Control: The 21-Day No-Complaint Experiment",
+      "creator": null,
+      "note": "“**[**What My Morning Journal Looks Like**](https://tim.blog/2015/01/15/morning-pages/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)**”  \n“**[**The Painless Path to Endurance**](https://tim.blog/2011/12/06/the-painless-path-to-endurance-plus-breville-winner-and-more/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)**”  \n“**[**How to Lose 100 Pounds on The Slow-Carb Diet – Real Pics and Stories**](https://tim.blog/2012/07/12/how-to-lose-100-pounds/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)**.”** Pair it with this [one-pager PDF](https://tim.blog/wp-content/uploads/2019/07/tim_ferriss_the-4-hour-chef_one_pager_slow_carb_diet.pdf) from [_The 4-Hour Chef_](https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/)_._",
+      "original_url": "https://tim.blog/2007/09/18/real-mind-control-the-21-day-no-complaint-experiment/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2007/09/18/real-mind-control-the-21-day-no-complaint-experiment/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/01/15/morning-pages/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2011/12/06/the-painless-path-to-endurance-plus-breville-winner-and-more/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2012/07/12/how-to-lose-100-pounds/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/wp-content/uploads/2019/07/tim_ferriss_the-4-hour-chef_one_pager_slow_carb_diet.pdf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The most difficult thing is the decision to act. The rest is merely tenacity. The fears are paper tigers. You can do anything you decide to do. You can act to change and control your life; and the procedure, the process, is its own reward.” — Amelia Earhart You can complement this edition of 5-Bullet Friday with my longform interviews with addiction expert Dr. Gabor Maté, author and athlete Rich Roll, famed chef Andrew Zimmern, actor Terry Crews, and entrepreneur Jason Portnoy, all of which include and explore different facets of addiction. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Amelia Earhart You can complement this edition of 5-Bullet Friday with my longform interviews with addiction expert Dr. Gabor Maté, author and athlete Rich Roll, famed chef Andrew Zimmern, actor Terry Crews, and entrepreneur Jason Portnoy, all of which include and explore different facets of addiction. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Amelia_Earhart",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Amelia_Earhart"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/02/20/gabor-mate/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/01/04/rich-roll/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/10/28/andrew-zimmern-on-simple-cooking-tricks-developing-tv-and-addiction/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/04/19/terry-crews-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/06/15/jason-portnoy/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

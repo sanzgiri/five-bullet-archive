@@ -6,7 +6,163 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "La Descarriá",
+      "creator": "Corina Lawrence featuring Miss Bolivia",
+      "note": "([YouTube](https://youtu.be/ATVaPK5bz9A?si=jh9RtuEGJ3w4q8oF), [Spotify](https://open.spotify.com/track/1iNpP6yYax94B4eADEW3Qx?si=QfLK5KYfSRyhL1IKTu2MSQ&nd=1)) by [Corina Lawrence](https://www.instagram.com/corinalawrence_/) featuring [Miss Bolivia](https://www.instagram.com/missboliviamusica/) ([Uji](https://www.instagram.com/uji_music/) remix).",
+      "original_url": "https://youtu.be/ATVaPK5bz9A?si=jh9RtuEGJ3w4q8oF",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/ATVaPK5bz9A?si=jh9RtuEGJ3w4q8oF"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/ATVaPK5bz9A?si=jh9RtuEGJ3w4q8oF"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/1iNpP6yYax94B4eADEW3Qx?si=QfLK5KYfSRyhL1IKTu2MSQ&nd=1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/corinalawrence_/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/missboliviamusica/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/uji_music/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Exercises I’m doing every morning",
+      "category": "other",
+      "title": "Enhancing low back health through stabilization exercise",
+      "creator": "Stuart M",
+      "note": "([alternative link](https://tim.blog/wp-content/uploads/2023/08/fitnessleadersguide.pdf)) by [Stuart M. McGill, C.M.](https://uwaterloo.ca/kinesiology-health-sciences/people-profiles/stuart-mcgill), professor of spine biomechanics at the University of Waterloo. Professor McGill is also the author of [_Low Back Disorders: Evidence-Based Prevention and Rehabilitation_](https://www.amazon.com/Low-Back-Disorders-Evidence-Based-Rehabilitation/dp/1450472915/), which I plan on reading. Example videos of the exercises mentioned in the document: [Cat-Camel](https://youtu.be/bcbuhePZZj0?t=119), [Curl-Up](https://www.youtube.com/watch?v=0l245Z9rVmY), [Side Bridge (Beginners)](https://www.youtube.com/watch?v=LHT6pYI5ExU), [Side Bridge (Advanced)](https://youtu.be/O7-V1O4bIpA?si=hjb1AXcRYR1E9kcd), and [Bird Dog](https://youtu.be/2_e4I-brfqs?si=zjB_4zP_n86leJpz&t=294).",
+      "original_url": "https://www.ahs.uwaterloo.ca/~mcgill/fitnessleadersguide.pdf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.ahs.uwaterloo.ca/~mcgill/fitnessleadersguide.pdf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/wp-content/uploads/2023/08/fitnessleadersguide.pdf"
+        },
+        {
+          "type": "other",
+          "url": "https://uwaterloo.ca/kinesiology-health-sciences/people-profiles/stuart-mcgill"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Low-Back-Disorders-Evidence-Based-Rehabilitation/dp/1450472915/"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/bcbuhePZZj0?t=119"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=0l245Z9rVmY"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=LHT6pYI5ExU"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/O7-V1O4bIpA?si=hjb1AXcRYR1E9kcd"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/2_e4I-brfqs?si=zjB_4zP_n86leJpz&t=294"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Essay I’m rereading",
+      "category": "article",
+      "title": "How to Do Great Work",
+      "creator": "Paul Graham",
+      "note": "([@paulg](https://twitter.com/paulg)). One of the many great reminders in this essay: “Competition can be an effective motivator, but don’t let it choose the problem for you; don’t let yourself get drawn into chasing something just because others are. In fact, don’t let competitors make you do anything much more specific than work harder. Curiosity is the best guide. Your curiosity never lies, and it knows more than you do about what’s worth paying attention to.”",
+      "original_url": "http://paulgraham.com/greatwork.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://paulgraham.com/greatwork.html"
+        },
+        {
+          "type": "other",
+          "url": "http://paulgraham.com/index.html"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/paulg"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "The Barkley Marathons: The Race That Eats Its Young",
+      "creator": null,
+      "note": "I enjoy oddities, especially oddities that have a strange but compelling logic to them. So it is with the Barkley Marathons. Here is the film description, and it’s not fake: “A famous prison escape sparks the idea for a cult-like race that has seen only 10 finishers in its first 25 years. This award-winning, oddly inspiring, and wildly funny documentary reveals the sports world’s most guarded secret.”",
+      "original_url": "https://www.amazon.com/Barkley-Marathons-Race-That-Young/dp/B017Y43P3S/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Barkley-Marathons-Race-That-Young/dp/B017Y43P3S/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Anxiety is the dizziness of freedom.” — Søren Kierkegaard (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my interview with legendary PT Dr. Shirley Sahrmann, my conversation with Good to Great author Jim Collins, and a brand-new Random Show with Kevin Rose. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Søren Kierkegaard",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/93_ao"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/08/04/dr-shirley-sahrmann/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/11/30/jim-collins-returns/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/09/01/the-random-show-drinking-edition/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

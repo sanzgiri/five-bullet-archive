@@ -6,7 +6,175 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Eau Rouge, Pt. 1",
+      "creator": "Gelka",
+      "note": "([YouTube](https://www.youtube.com/watch?v=PthfEZ7day4), [Spotify](https://open.spotify.com/track/7dOkzYYMAXDDjhibQYw8v5)) by [Gelka](https://open.spotify.com/artist/6xIXch03AK6grENT8RlmeF) ([@gelka](https://twitter.com/gelka?lang=en)).",
+      "original_url": "https://www.youtube.com/watch?v=PthfEZ7day4",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=PthfEZ7day4"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=PthfEZ7day4"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/7dOkzYYMAXDDjhibQYw8v5"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/artist/6xIXch03AK6grENT8RlmeF"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/gelka?lang=en"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Audiobook I’m listening to",
+      "category": "audiobook",
+      "title": "Entangled Life",
+      "creator": "Merlin Sheldrake",
+      "note": "([@MerlinSheldrake](https://twitter.com/merlinsheldrake)). This is a beautifully written and deliciously thought-provoking book. The portions on [lichen](https://en.wikipedia.org/wiki/Lichen) alone made my head spin. From the description: “In _Entangled Life_, the brilliant young biologist Merlin Sheldrake shows us the world from a fungal point of view, providing an exhilarating change of perspective. Sheldrake’s vivid exploration takes us from yeast to psychedelics to the fungi that range for miles underground and are the largest organisms on the planet to those that link plants together in complex networks known as the ‘Wood Wide Web’ to those that infiltrate and manipulate insect bodies with devastating precision.” Low bow to R.G. for getting this book on my radar.",
+      "original_url": "https://www.amazon.com/Entangled-Life-Worlds-Change-Futures/dp/B082TS4S2L/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Entangled-Life-Worlds-Change-Futures/dp/B082TS4S2L/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.merlinsheldrake.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/merlinsheldrake"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Lichen"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "TV series I’m watching",
+      "category": "video",
+      "title": "1883",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/1883-Season-1/dp/B0B8JTS8QW), [Apple TV](https://tv.apple.com/us/show/1883/umc.cmc.gxgct57pgpxpqf5mre94zzhs), [YouTube](https://www.youtube.com/show/SC5sgbl3w0f6fkGvy6-ELe4w?season=1&sbp=CgEx), [Google Play](https://play.google.com/store/tv/show?id=2LfnZj-WViE.P&cdid=tvseason-iM93KU_dCwI.P&gdid=tvepisode-8c1ZwRxgk2g.P), [Paramount Plus](https://www.paramountplus.com/shows/1883/)). From Wikipedia: “The series is a prequel to [Taylor Sheridan](https://en.wikipedia.org/wiki/Taylor_Sheridan)’s series [_Yellowstone_](https://en.wikipedia.org/wiki/Yellowstone_(American_TV_series)) and follows the story of how the Duttons came to own the land that would become the Yellowstone Ranch.” Taylor Sheridan is one of my favorite writers and directors out there. The series stars Academy Award nominee [Sam Elliott](https://en.wikipedia.org/wiki/Sam_Elliott), [Tim McGraw](https://www.timmcgraw.com/) (who was also kind enough to answer questions for [_Tribe of Mentors_](https://www.amazon.com/Tribe-Mentors-Short-Advice-World/dp/1328994961/)), [Faith Hill](https://www.faithhill.com/), and others. **Watch the trailer** [**here**](https://www.youtube.com/watch?v=dbyxdYKhC7U)**.** I am loving this series, and many thanks to Brother Brad for getting the trailer in front of me!",
+      "original_url": "https://www.amazon.com/1883-Season-1/dp/B0B8JTS8QW",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/1883-Season-1/dp/B0B8JTS8QW"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/1883-Season-1/dp/B0B8JTS8QW"
+        },
+        {
+          "type": "other",
+          "url": "https://tv.apple.com/us/show/1883/umc.cmc.gxgct57pgpxpqf5mre94zzhs"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/show/SC5sgbl3w0f6fkGvy6-ELe4w?season=1&sbp=CgEx"
+        },
+        {
+          "type": "other",
+          "url": "https://play.google.com/store/tv/show?id=2LfnZj-WViE.P&cdid=tvseason-iM93KU_dCwI.P&gdid=tvepisode-8c1ZwRxgk2g.P"
+        },
+        {
+          "type": "other",
+          "url": "https://www.paramountplus.com/shows/1883/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Taylor_Sheridan"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Yellowstone_(American_TV_series"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Sam_Elliott"
+        },
+        {
+          "type": "other",
+          "url": "https://www.timmcgraw.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Tribe-Mentors-Short-Advice-World/dp/1328994961/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.faithhill.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=dbyxdYKhC7U"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Short video I’m sharing for awkward laughs and pre-Halloween horror",
+      "category": "video",
+      "title": "2022 year in the markets review",
+      "creator": null,
+      "note": null,
+      "original_url": "https://twitter.com/DadInvest/status/1572582613872939008",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://twitter.com/DadInvest/status/1572582613872939008"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering once again",
+      "category": "quote",
+      "title": "“Those who are easily shocked should be shocked more often.” — Mae West You can complement this edition of 5-Bullet Friday with my interview with mycologist Paul Stamets, my conversation with Giuliana Furci on the wonders of mycology, and my discussion with Dr. Mark Plotkin on all things ethnobotany. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Mae West You can complement this edition of 5-Bullet Friday with my interview with mycologist Paul Stamets, my conversation with Giuliana Furci on the wonders of mycology, and my discussion with Dr. Mark Plotkin on all things ethnobotany. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Mae_West",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Mae_West"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/10/11/paul-stamets/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/07/29/giuliana-furci/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/09/30/mark-plotkin/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

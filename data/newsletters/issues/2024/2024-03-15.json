@@ -6,7 +6,174 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short clip I’m watching",
+      "category": "video",
+      "title": "Alfred Hitchcock defines happiness",
+      "creator": null,
+      "note": "This is an excerpt from [a 1964 interview with Alfred Hitchcock](https://youtu.be/kt5Xj-zhDt0?t=1397), part of the CBC television series “[Telescope](https://www.imdb.com/title/tt0251424/),” with host-director Fletcher Markle.",
+      "original_url": "https://www.instagram.com/p/C25JD2aRAg7/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/p/C25JD2aRAg7/"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/kt5Xj-zhDt0?t=1397"
+        },
+        {
+          "type": "other",
+          "url": "https://www.imdb.com/title/tt0251424/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Book I’m finishing",
+      "category": "book",
+      "title": "The Power Law: Venture Capital and the Making of the New Future",
+      "creator": "Sebastian Mallaby",
+      "note": ". This book was mentioned quite a few times by podcast guests before I picked it up as an audiobook, in part because I learned so much from Sebastian’s earlier book, [_More Money Than God_](https://www.amazon.com/More-Money-Than-God-audiobook/dp/B004AUQPF0/). I expected to know most of the venture history, but there were a ton of behind-the-scenes stories and details that I hadn’t heard before. It was also fun to get more background on at least a dozen game-changers who have been on the podcast ([Bill Gurley](https://tim.blog/2023/01/25/bill-gurley/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content), [Patrick Collison](https://tim.blog/2018/12/20/patrick-collison/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content), [Roelof Botha](https://tim.blog/2022/08/31/roelof-botha/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content), etc.). Even if you don’t have time for the entire book, I strongly recommend everyone listen to the concluding chapter portions on how countries can foster innovation and the geopolitical implications of tech investing, which are vast. The next few years will see a lot of this come to the forefront.",
+      "original_url": "https://www.amazon.com/Power-Law-Venture-Capital-Making/dp/B094PSKDZV/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Power-Law-Venture-Capital-Making/dp/B094PSKDZV/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/scmallaby"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/More-Money-Than-God-audiobook/dp/B004AUQPF0/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/01/25/bill-gurley/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/12/20/patrick-collison/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/08/31/roelof-botha/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching and listening to",
+      "category": "video",
+      "title": "Pisces (Live Session)",
+      "creator": null,
+      "note": "](https://www.youtube.com/watch?v=SQNtGoM3FVU)**”** by [JINJER](https://www.jinjer-merch-america.com/about.html) ([@jinjerofficial](https://twitter.com/jinjerofficial)). A lot of you have been asking me for Ukrainian music and gorgeous, talented humans with extreme range (or was that a fever dream?). Well, JINJER might be just what you need. Be sure to listen to the first two minutes for the surprise transformation. It’s no joke. As commenter @davidacus956 put it, “I heard this on Spotify and was like ‘I like the distinction between the two vocalists’ and then I watched this.” And if that whets your appetite, [here’s a bonus](https://www.youtube.com/watch?v=Q5rg_63Shqg) with a festive costume change. Huge thanks to S. for the recommendation!",
+      "original_url": "https://www.youtube.com/watch?v=SQNtGoM3FVU",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=SQNtGoM3FVU"
+        },
+        {
+          "type": "other",
+          "url": "https://www.jinjer-merch-america.com/about.html"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/jinjerofficial"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=Q5rg_63Shqg"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Gadget I’m loving",
+      "category": "other",
+      "title": "Pitbull Head and Face Shaver",
+      "creator": null,
+      "note": "(**[**official website**](https://skullshaver.com/collections/mens-shavers?tw_source=google&tw_adid=&utm_source=google&utm_medium=paid&utm_campaign=21070065322&utm_content=&utm_term=&gadid=&gad_source=1&gclid=CjwKCAjw48-vBhBbEiwAzqrZVB0sv-QUou6KSokNVLfmIBvUESd8tPJPJ1iMdkNHnfgZ-QVwxKGqmhoCIWoQAvD_BwE)**,** [**Amazon**](https://www.amazon.com/Skull-Shaver-Pitbull-Gold-Adapter/dp/B08GQFV54Z?ref_=ast_sto_dp&th=1&psc=1)**).** A few weeks ago, I met a fellow baldy while skiing. My pate was growing out and beginning to look a little bedraggled, and I complimented him on his clean shave. To that, I added my usual comment: “I just can’t use a blade on my head. Cut it once and it bled everywhere. Too much hassle.” He responded with “Oh, I don’t use a blade” and sent me the Pitbull Head and Face Shaver as a gift. I’ve only used it for a few weeks, but it’s been absolutely fantastic. I suggest using it at least every other day or every few days, since it can’t chomp well on longer hair. I have the platinum model, but it seems like people equally love the less expensive gold version. Bonus: a single charge seems to last a few weeks of usage. Thanks, Craig!",
+      "original_url": "https://skullshaver.com/collections/mens-shavers?tw_source=google&tw_adid=&utm_source=google&utm_medium=paid&utm_campaign=21070065322&utm_content=&utm_term=&gadid=&gad_source=1&gclid=CjwKCAjw48-vBhBbEiwAzqrZVB0sv-QUou6KSokNVLfmIBvUESd8tPJPJ1iMdkNHnfgZ-QVwxKGqmhoCIWoQAvD_BwE",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://skullshaver.com/collections/mens-shavers?tw_source=google&tw_adid=&utm_source=google&utm_medium=paid&utm_campaign=21070065322&utm_content=&utm_term=&gadid=&gad_source=1&gclid=CjwKCAjw48-vBhBbEiwAzqrZVB0sv-QUou6KSokNVLfmIBvUESd8tPJPJ1iMdkNHnfgZ-QVwxKGqmhoCIWoQAvD_BwE"
+        },
+        {
+          "type": "other",
+          "url": "https://skullshaver.com/collections/mens-shavers?tw_source=google&tw_adid=&utm_source=google&utm_medium=paid&utm_campaign=21070065322&utm_content=&utm_term=&gadid=&gad_source=1&gclid=CjwKCAjw48-vBhBbEiwAzqrZVB0sv-QUou6KSokNVLfmIBvUESd8tPJPJ1iMdkNHnfgZ-QVwxKGqmhoCIWoQAvD_BwE"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Skull-Shaver-Pitbull-Gold-Adapter/dp/B08GQFV54Z?ref_=ast_sto_dp&th=1&psc=1"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "What I’m excited to share with you",
+      "category": "other",
+      "title": "Behind the Scenes: Who Is The Real Audience of The Tim Ferriss Show?",
+      "creator": null,
+      "note": "Nearly 8,000 of you filled out my recent audience survey. I promised I would share the results, and [here they are](https://tim.blog/2024/03/06/tim-ferriss-show-audience-survey/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content).",
+      "original_url": "https://tim.blog/2024/03/06/tim-ferriss-show-audience-survey/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2024/03/06/tim-ferriss-show-audience-survey/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/03/06/tim-ferriss-show-audience-survey/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“I believe that if, at the end of it all, according to our abilities, we have done something to make others a little happier, and something to make ourselves a little happier, that is about the best we can do. To make others less happy is a crime. To make ourselves unhappy is where all crime starts. We must try to contribute joy to the world. That is true no matter what our problems, our health, our circumstances. We must try.” — Roger Ebert, “Go gentle into that good night.” (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my brand-new interview with bestselling author and mega-creative Hugh Howey, the latest episode (“How to Surf”) from The Tim Ferriss Experiment, and my conversation with author Arthur C. Brooks on how to be happy. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Roger Ebert, “Go gentle into that good night.”",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Roger_Ebert",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Roger_Ebert"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rogerebert.com/rogers-journal/go-gentle-into-that-good-night"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/RQ0Na"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/03/13/hugh-howey/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/1_c_FCTX0gk"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/09/11/arthur-c-brooks/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

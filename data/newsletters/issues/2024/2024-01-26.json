@@ -6,7 +6,251 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short video I’m watching",
+      "category": "video",
+      "title": "Mary Oliver reciting her poem “Wild Geese.”",
+      "creator": null,
+      "note": "Pause and spend a few minutes with this poem. It’s worth the reminder. The full text is available [here](http://www.phys.unm.edu/~tw/fas/yits/archive/oliver_wildgeese.html), and I read it often.",
+      "original_url": "https://www.instagram.com/reel/C1_-s2BvsFw/?igsh=ZGhxYmRxbTduOG5y",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/reel/C1_-s2BvsFw/?igsh=ZGhxYmRxbTduOG5y"
+        },
+        {
+          "type": "other",
+          "url": "http://www.phys.unm.edu/~tw/fas/yits/archive/oliver_wildgeese.html"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Essay I’m reading",
+      "category": "article",
+      "title": "The Acceleration of Addictiveness",
+      "creator": "Paul Graham",
+      "note": "([@paulg](https://twitter.com/paulg?lang=en)). This was strongly recommended to me by [Matt Mullenweg](http://ma.tt), who was recently [on the podcast](https://tim.blog/2023/12/29/matt-mullenweg-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content). To give you a taste, here are two excerpts that I highlighted for myself:  \n​  \n​_One sense of “normal” is statistically normal: what everyone else does. The other is the sense we mean when we talk about the normal operating range of a piece of machinery: what works best.  \n​  \nThese two senses are already quite far apart. Already someone trying to live well would seem eccentrically abstemious in most of the US. That phenomenon is only going to become more pronounced. You can probably take it as a rule of thumb from now on that if people don’t think you’re weird, you’re living badly.  \n​  \n​_\\[...\\]  \n​_​  \nPeople commonly use the word “procrastination” to describe what they do on the Internet. It seems to me too mild to describe what’s happening as merely not-doing-work. We don’t call it procrastination when someone gets drunk instead of working.  \n​  \n​_Note that the second snippet is from one of his footnotes, which I always read.",
+      "original_url": "https://www.paulgraham.com/addiction.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.paulgraham.com/addiction.html"
+        },
+        {
+          "type": "other",
+          "url": "https://www.paulgraham.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/paulg?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "http://ma.tt"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/12/29/matt-mullenweg-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Articles I’m reading",
+      "category": "article",
+      "title": "I Feel Love: MDMA for Autism and Social Anxiety",
+      "creator": "Rachel Nuwer",
+      "note": ". **​  \n​  \n“**[**Why You Should Seek More Awe in the New Year**](https://tim.blog/2024/01/24/awe/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content)**”** by [Ashley Stimpson](https://www.ashleystimpson.com/). Every time I’ve done a [past-year review (PYR)](https://tim.blog/2021/12/27/past-year-review/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content), a pattern emerges: peak positive emotional experiences are correlated to awe at least 70% of the time. For at least the past 3–5 years, this has been so consistent that I often determine what big blocks to schedule in the new year based on potential for awe. The payoffs include [time dilation](https://www.instagram.com/reel/C2cdhDQO7_S/?igsh=MTk4M3lhc2diZjVjNA%3D%3D) and, more broadly, traversing the miraculous canvas of full human experience. Friends have asked me why I do silent retreats in nature, why I love ski touring, why I hunt once in a blue moon, or why I am deeply interested in psychedelic science and [psychedelic-assisted therapies](https://saiseifoundation.org/). If I had to sum it all up in one word, it would be: Awe. But what exactly is “awe,” and how can we embrace more of it? I haven’t found a better article exploring these topics than [Ashley Stimpson](https://www.ashleystimpson.com/)’s “[Awestruck](https://hub.jhu.edu/magazine/2023/winter/science-of-awe-psychedelics/),” featured in [_Johns Hopkins Magazine_](https://hub.jhu.edu/magazine/2023/winter/science-of-awe-psychedelics/), so I asked for permission to publish on my blog, which was graciously granted. I hope you find it as thought-provoking as I did.",
+      "original_url": "https://tim.blog/2023/05/30/mdma-autism-social-anxiety/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2023/05/30/mdma-autism-social-anxiety/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rachelnuwer.com/about"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/01/24/awe/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.ashleystimpson.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/12/27/past-year-review/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/reel/C2cdhDQO7_S/?igsh=MTk4M3lhc2diZjVjNA%3D%3D"
+        },
+        {
+          "type": "other",
+          "url": "https://saiseifoundation.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.ashleystimpson.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://hub.jhu.edu/magazine/2023/winter/science-of-awe-psychedelics/"
+        },
+        {
+          "type": "other",
+          "url": "https://hub.jhu.edu/magazine/2023/winter/science-of-awe-psychedelics/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Book I’m reading",
+      "category": "book",
+      "title": "The Lincoln Highway",
+      "creator": "Amor Towles",
+      "note": ". A good friend and bestselling author told me that he considered this the greatest American novel of the last 20 years. I haven’t read enough classics to know if that’s accurate, but it’s one hell of a read, the prose is gorgeous, and you’ll laugh out loud many times.  \n​  \nThe official book description makes it sound darker than it is. Certainly, parts of the book showcase questionable characters and questionable actions, but this doesn’t detract from the pervasive humor and beauty of the writing, which are pleasures unto themselves. From [Amazon](https://www.amazon.com/Lincoln-Highway-Novel-Amor-Towles/dp/0735222355/): “In June, 1954, eighteen-year-old Emmett Watson is driven home to Nebraska by the warden of the work farm where he has just served a year for involuntary manslaughter. His mother long gone, his father recently deceased, and the family farm foreclosed upon by the bank, Emmett’s intention is to pick up his eight-year-old brother and head west, where they can start their lives anew. But when the warden drives away, Emmett discovers that two friends from the work farm have hidden themselves in the trunk of the warden’s car. Together, they have hatched an altogether different plan for Emmett’s future.”",
+      "original_url": "https://www.amazon.com/Lincoln-Highway-Novel-Amor-Towles/dp/0735222355/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Lincoln-Highway-Novel-Amor-Towles/dp/0735222355/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Amor_Towles"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Lincoln-Highway-Novel-Amor-Towles/dp/0735222355/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The highest point a man can obtain is not Knowledge, or Virtue, or Goodness, or Victory, but something even greater, more heroic, and more despairing: Sacred Awe!” — Nikos Kazantzakis, in Zorba the Greek. _(Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with the most recent episodes on The Tim Ferriss Experiment_: Rally Racing, Language Learning, and Brazilian Jiu-Jitsu (+ Chess!). This TV series took everything out of me, so I hope you enjoy it. The show is like MythBusters meets Jason Bourne. In every episode, I partner with the world’s best and most unorthodox teachers (e.g., Laird Hamilton, Marcelo Garcia, Stewart Copeland), who train me for a final gauntlet. Shocking breakthroughs, injuries, epiphanies, and disasters are all part of the journey. Along the way, I show you how to replicate results in an attempt to prove that “you don’t need to be superhuman to get superhuman results… you just need a better toolkit.” Make sure to subscribe to my YouTube channel to get notified of all upcoming episodes, and I’ll be releasing one per week. Have a wonderful weekend, all. Much love to you and yours, Tim ### Forwarded this message? Sign up here. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. Sign Up ### Listen to The Tim Ferriss Show Podcast The Tim Ferriss Show is one of the most popular podcasts in the world with more than 900 million downloads. It has been selected for \"Best of Apple Podcasts\" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts on many occasions. Podcasts Apple Podcasts Overcast Spotify Tim's Blog ### Read Tim's Books [](https://tim.blog/tim-ferriss-books/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test) Amazon Audible B & N Tim's Blog Follow Tim: [](https://twitter.com/tferriss) [](https://www.instagram.com/timferriss/) [](https://www.youtube.com/channel/UCznv7Vf9nBdJYvBagFdAHWw) [](https://www.facebook.com/TimFerriss) [](https://www.linkedin.com/in/timferriss/) DO NOT REPLY HERE: Due to volume, please do not reply to this email. Sadly we are unable to read 1000+ email replies daily. To reply to Tim, please do so in the blog comments here. No longer want these emails? Unsubscribe 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Nikos Kazantzakis, in Zorba the Greek. _",
+      "note": null,
+      "original_url": "https://en.wikiquote.org/wiki/Nikos_Kazantzakis",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikiquote.org/wiki/Nikos_Kazantzakis"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/R8Wda"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/playlist?list=PLuu6fDad2eJwnly_hEdir9biYcpG_MKMd"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=XFmrUQsnv78"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=QkTmAyO_qfE"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=O5bRipHckSQ"
+        },
+        {
+          "type": "other",
+          "url": "http://youtube.com/timferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/?utm_source=convertkit&utm_medium=convertit&utm_campaign=footer"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/92unw45ooanhq0e7q9ags0x3p633"
+        }
+      ]
+    }
+  ]
 }

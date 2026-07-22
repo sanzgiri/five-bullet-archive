@@ -6,7 +6,155 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Book I’m rereading —",
+      "category": "book",
+      "title": "The Lion Tracker’s Guide to Life",
+      "creator": "Boyd Varty",
+      "note": "([@boydvarty](https://twitter.com/boydvarty)). This is a short and wonderful book. It found me at exactly the right time, and I read it in two afternoons. I’ve reread my highlights many times since. My favorite tracker maxim from its pages is from Renias Mhlongo: “I don’t know where we are going, but I know exactly how to get there.” I reread the book in preparation for my podcast interview with Boyd, which turned out better than I ever could have hoped. [You can find the full interview here](https://tim.blog/2022/02/15/boyd-varty/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). If you want just one hilarious story, [here’s a clip](https://www.youtube.com/watch?v=X37qmXciA6E) that won’t disappoint.",
+      "original_url": "https://www.amazon.com/Lion-Trackers-Guide-Life/dp/0358099773/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Lion-Trackers-Guide-Life/dp/0358099773/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/02/15/boyd-varty/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/boydvarty"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/02/15/boyd-varty/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=X37qmXciA6E"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "The Young Pope",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/The-Young-Pope-Season-1/dp/B01MY59QX8), [HBO](https://www.hbo.com/the-young-pope), [Hulu](https://www.hulu.com/series/the-young-pope-4add735c-1be9-4fa9-b549-b2aa76fd461e)), starring [Jude Law](https://en.wikipedia.org/wiki/Jude_Law). The writing in this blew me away, the direction and cinematography are gorgeous, and even the costume design will grab your attention, especially Jude’s “Ferraris.” Above all, perhaps, the whole series is very odd, which makes it extra mesmerizing. I found the first 5–6 episodes to be the strongest, and even if you have no intention of watching the whole shebang, the first two episodes are well worth the time. One has to imagine that Jude had the time of his life playing this character.",
+      "original_url": "https://www.amazon.com/The-Young-Pope-Season-1/dp/B01MY59QX8",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/The-Young-Pope-Season-1/dp/B01MY59QX8"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/The-Young-Pope-Season-1/dp/B01MY59QX8"
+        },
+        {
+          "type": "other",
+          "url": "https://www.hbo.com/the-young-pope"
+        },
+        {
+          "type": "other",
+          "url": "https://www.hulu.com/series/the-young-pope-4add735c-1be9-4fa9-b549-b2aa76fd461e"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Jude_Law"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Myth I’m considering in modern-day circumstances —",
+      "category": "other",
+      "title": "Procrustes",
+      "creator": null,
+      "note": "was a robber who tied his victims to a bed, either stretching or cutting off their legs in order to make them fit it.” (Source: [_Oxford Dictionary of English Idioms_](https://www.amazon.com/Oxford-Dictionary-English-Idioms-Reference/dp/019954378X/ref=sr_1_4?crid=OYTE6KBHBOSV&keywords=Oxford+Dictionary+of+English+Idioms&qid=1645045607&sprefix=oxford+dictionary+of+english+idioms%2Caps%2C63&sr=8-4)). Nassim Taleb ([@nntaleb](https://twitter.com/nntaleb)) has a related book of aphorisms titled [_The Bed of Procrustes_](https://www.amazon.com/Bed-Procrustes-Philosophical-Practical-Aphorisms-ebook/dp/B004C43F9S/). He explains the title thusly: “Every aphorism here is about a Procrustean bed of sorts—we humans, facing limits of knowledge, and things we do not observe, the unseen and the unknown, resolve tension by squeezing life and the world into crisp commoditized ideas, reductive categories, specific vocabularies, and prepackaged narratives, which, on the occasion, has explosive consequences.” For more, see this animated YouTube video: [The Bed of Procrustes](https://www.youtube.com/watch?v=lRN_KT17mNo).",
+      "original_url": "https://en.wikipedia.org/wiki/Procrustes",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Procrustes"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Oxford-Dictionary-English-Idioms-Reference/dp/019954378X/ref=sr_1_4?crid=OYTE6KBHBOSV&keywords=Oxford+Dictionary+of+English+Idioms&qid=1645045607&sprefix=oxford+dictionary+of+english+idioms%2Caps%2C63&sr=8-4"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/nntaleb"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Bed-Procrustes-Philosophical-Practical-Aphorisms-ebook/dp/B004C43F9S/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=lRN_KT17mNo"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to once again —",
+      "category": "podcast",
+      "title": "Nothing At All",
+      "creator": "Santana",
+      "note": "([Spotify](https://open.spotify.com/track/4fwLpbdoNnBhhvgSi2JhXA?si=o4Tmx7RwRv6aWuygO_cLBw&nd=1), [YouTube](https://www.youtube.com/watch?v=f4xZ7t0vVMw)) by [Santana](https://twitter.com/santanacarlos) (feat. [Musiq](https://twitter.com/MusiqSoulchild)). This tune helps me set the tone for the day. For that shift, it’s more about the melody than the lyrics, but the whole track is beautiful.",
+      "original_url": "https://www.youtube.com/watch?v=f4xZ7t0vVMw",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=f4xZ7t0vVMw"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/4fwLpbdoNnBhhvgSi2JhXA?si=o4Tmx7RwRv6aWuygO_cLBw&nd=1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=f4xZ7t0vVMw"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/santanacarlos"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/MusiqSoulchild"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“My mind seems to have become a kind of machine for grinding general laws out of large collections of facts, but why this should have caused the atrophy of that part of the brain alone, on which the higher tastes depend, I cannot conceive. A man with a mind more highly organised or better constituted than mine, would not, I suppose, have thus suffered; and if I had to live my life again, I would have made a rule to read some poetry and listen to some music at least once every week; for perhaps the parts of my brain now atrophied would thus have been kept active through use. The loss of these tastes is a loss of happiness, and may possibly be injurious to the intellect, and more probably to the moral character, by enfeebling the emotional part of our nature.”— Charles Darwin on his fading ability to find music, poetry, and art as emotionally evocative in his old age (Source: The Autobiography of Charles Darwin_) And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Charles Darwin on his fading ability to find music, poetry, and art as emotionally evocative in his old age",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Charles_Darwin",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Charles_Darwin"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Autobiography-Charles-Darwin-1809-1882/dp/0393310698/ref=sr_1_2?crid=ZM2CWKL7U3U0&keywords=the+autobiography+of+charles+darwin&qid=1645048437&sprefix=the+autobiography+of+charles+darwin%2Caps%2C69&sr=8-2"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

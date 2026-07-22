@@ -6,7 +6,123 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m eating on cheat day —",
+      "category": "other",
+      "title": "The Chocolate Conspiracy blackberry and ginger bar (73% cacao)",
+      "creator": null,
+      "note": "](https://el2.fourhourmail.com/c/5qu8lqg33u7h083z9/78i7h8/aHR0cHM6Ly93d3cuZWF0Y2hvY29sYXRlY29uc3BpcmFjeS5jb20vcHJvZHVjdA==).",
+      "original_url": "https://el2.fourhourmail.com/c/5qu8lqg33u7h083z9/78i7h8/aHR0cHM6Ly93d3cuZWF0Y2hvY29sYXRlY29uc3BpcmFjeS5jb20vcHJvZHVjdA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7h083z9/78i7h8/aHR0cHM6Ly93d3cuZWF0Y2hvY29sYXRlY29uc3BpcmFjeS5jb20vcHJvZHVjdA=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "25 Things You Might Not Know About the Birds in Your Backyard",
+      "creator": null,
+      "note": "I’ve become quite interested in birds and bird song in the last few months, and this gives me even more to ponder. Why is bird poop white? How do so many sleep standing up? Turns out there are plenty of good (and curiosity-piquing) answers.",
+      "original_url": "https://el2.fourhourmail.com/c/5qu8lqg33u7h083z9/opfkhq/aHR0cDovL21lbnRhbGZsb3NzLmNvbS9hcnRpY2xlLzUyMjg4My8yNS10aGluZ3MteW91LW1pZ2h0LW5vdC1rbm93LWFib3V0LWJpcmRzLXlvdXItYmFja3lhcmQ=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7h083z9/opfkhq/aHR0cDovL21lbnRhbGZsb3NzLmNvbS9hcnRpY2xlLzUyMjg4My8yNS10aGluZ3MteW91LW1pZ2h0LW5vdC1rbm93LWFib3V0LWJpcmRzLXlvdXItYmFja3lhcmQ="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "The History of Singapore: The Miracle of Asia",
+      "creator": null,
+      "note": "full documentary (ignore nonsense description). Or… perhaps you’d prefer lighter fare from China? Here you go: [“Woman eating candy floss for competition is the best thing you’ll see all day.”](https://el2.fourhourmail.com/c/5qu8lqg33u7h083z9/pnceh9/aHR0cDovL21ldHJvLmNvLnVrLzIwMTgvMDMvMjEvd29tYW4tZWF0aW5nLWNhbmR5LWZsb3NzLWNvbXBldGl0aW9uLWJlc3QtdGhpbmctc2VlLWRheS03NDAzNzA1Lw==) The after-glance is the best part.",
+      "original_url": "https://el2.fourhourmail.com/c/5qu8lqg33u7h083z9/zvtghn/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1nNzZJNG1nYVJWYw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7h083z9/zvtghn/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1nNzZJNG1nYVJWYw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7h083z9/pnceh9/aHR0cDovL21ldHJvLmNvLnVrLzIwMTgvMDMvMjEvd29tYW4tZWF0aW5nLWNhbmR5LWZsb3NzLWNvbXBldGl0aW9uLWJlc3QtdGhpbmctc2VlLWRheS03NDAzNzA1Lw=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Most popular post on Instagram —",
+      "category": "other",
+      "title": "low-on-time breakfast",
+      "creator": null,
+      "note": "for early morning flights. Don’t let travel be an excuse to eat garbage...",
+      "original_url": "https://el2.fourhourmail.com/c/5qu8lqg33u7h083z9/xksph6/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JnM202OURsMXE0Lz90YWtlbi1ieT10aW1mZXJyaXNz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7h083z9/xksph6/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JnM202OURsMXE0Lz90YWtlbi1ieT10aW1mZXJyaXNz"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "\"Real knowledge is to know the extent of one's ignorance.\" \\- Confucius (551- 479 BC) And as always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know. Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it. Have a wonderful weekend, all! Tim PS -- Deal of the Week: Matcha from Four Sigmatic. I love Four Sigmatic products, and I’ve recently started using their matcha, which is designed as a coffee alternative. If you’re trying to cut back on caffeine, as I am, it’s a great option and one that I learned to love in Japan. Their matcha blend includes the amino acid L-theanine, which helps provide a balanced boost of energy without jitters. It also includes the adaptogen astragalus, which may help with overall stress tolerance. Exclusively for 5-BF subscribers, Four Sigmatic is offering 15% off their matcha and free shipping. Last time we did a special with them, the product sold out in hours, and this offer is limited to just 2,000 units. If interested, click here and use the code TIM15 for the discount! [](https://el2.fourhourmail.com/c/5qu8lqg33u7h083z9/gvfnh5/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. Seneca and Marcus, 60 29th Street, San Francisco, California 94110, United States",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/5qu8lqg33u7h083z9/60aeh8/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7h083z9/60aeh8/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7h083z9/kmbmh6/aHR0cHM6Ly91cy5mb3Vyc2lnbWF0aWMuY29tL3BhZ2VzL3RpbS1mZXJyaXNzLW1hdGNoYS1zcGVjaWFsP2Rpc2NvdW50PXRpbTE1I3V0bV9zb3VyY2U9cGFydG5lcnNoaXAmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249dGltZmVycmlzc21hdGNoYQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7h083z9/52hvh7/aHR0cHM6Ly91cy5mb3Vyc2lnbWF0aWMuY29tL3BhZ2VzL3RpbS1mZXJyaXNzLW1hdGNoYS1zcGVjaWFsP2Rpc2NvdW50PXRpbTE1I3V0bV9zb3VyY2U9cGFydG5lcnNoaXAmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249dGltZmVycmlzc21hdGNoYQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7h083z9/2ou2ho/aHR0cHM6Ly91cy5mb3Vyc2lnbWF0aWMuY29tL3BhZ2VzL3RpbS1mZXJyaXNzLW1hdGNoYS1zcGVjaWFsP2Rpc2NvdW50PXRpbTE1I3V0bV9zb3VyY2U9cGFydG5lcnNoaXAmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249dGltZmVycmlzc21hdGNoYQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7h083z9/q3i8h7/aHR0cHM6Ly91cy5mb3Vyc2lnbWF0aWMuY29tL3BhZ2VzL3RpbS1mZXJyaXNzLW1hdGNoYS1zcGVjaWFsP2Rpc2NvdW50PXRpbTE1I3V0bV9zb3VyY2U9cGFydG5lcnNoaXAmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249dGltZmVycmlzc21hdGNoYQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7h083z9/93tzhn/aHR0cDovL2dvLmZvdXJob3Vyd29ya3dlZWsuY29tLzEweC1vdXRwdXQv"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "http://el2.fourhourmail.com/u/5qu8lqg33u7h083z9"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7h083z9/nesohv/aHR0cDovL2ZvdXJob3Vyd29ya3dlZWsuY29tL2Jsb2c="
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,91 @@
     "gmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": false,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "My philosophy for a happy life | Sam Berns | TEDxMidAtlantic",
+      "creator": null,
+      "note": "This video hit me really hard. Despite some tears, it was exactly the reset I needed. This kid is a total stud. Just watch it, and do not rush. Also, do *not* read the description beforehand, only afterward.",
+      "original_url": "https://el2.fourhourmail.com/c/o8uzm727egaqh459w3/0diwh9h9xg8rr0/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0zNm0xby10TTA1Zw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/o8uzm727egaqh459w3/0diwh9h9xg8rr0/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0zNm0xby10TTA1Zw=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "App I’m playing with and enjoying —",
+      "category": "other",
+      "title": "Spectrogram Pro",
+      "creator": null,
+      "note": "A vocal teacher adept at overtone singing showed me this tool, and it’s my first introduction to visual representation of sound outside of simple waveforms. I’ve been making more progress with singing since being introduced to this, as I now have another “peg” for feedback: visual signatures. Are there better tools for this? Please let me know on Twitter ([@tferriss](https://el2.fourhourmail.com/c/o8uzm727egaqh459w3/mot7h5hq9mrzzq/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==)), if so.",
+      "original_url": "https://el2.fourhourmail.com/c/o8uzm727egaqh459w3/vpf3hrhv4e5rrx/aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL3VzL2FwcC9zcGVjdHJvZ3JhbS1wcm8td2l0aC1zdXBlci1zbW9vdGgtNjBoei11cGRhdGUvaWQ0MTUzMDE3MjEjP3BsYXRmb3JtPWlwaG9uZQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/o8uzm727egaqh459w3/vpf3hrhv4e5rrx/aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL3VzL2FwcC9zcGVjdHJvZ3JhbS1wcm8td2l0aC1zdXBlci1zbW9vdGgtNjBoei11cGRhdGUvaWQ0MTUzMDE3MjEjP3BsYXRmb3JtPWlwaG9uZQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/o8uzm727egaqh459w3/mot7h5hq9mrzzq/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m rereading —",
+      "category": "article",
+      "title": "Stranger in a Strange Land",
+      "creator": "Robert A",
+      "note": "Heinlein. Ever feel like you don’t quite fit in? Don’t want to follow society’s silly rules? Then you’ll probably relate to human-born and Martian-raised Valentine Michael Smith. In this controversial 1960’s cult classic, Heinlein questions long-held assumptions on religion, government, and sexuality (free Martian love for all!). It’s also where the term “[grok](https://el2.fourhourmail.com/c/o8uzm727egaqh459w3/o4skhqh6ngzddl/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvR3Jvaw==)” originates.",
+      "original_url": "https://el2.fourhourmail.com/c/o8uzm727egaqh459w3/e7cph7hleqxooe/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TdHJhbmdlci1TdHJhbmdlLUxhbmQtUm9iZXJ0LUhlaW5sZWluL2RwLzA0NDE3OTAzNDg=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/o8uzm727egaqh459w3/e7cph7hleqxooe/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TdHJhbmdlci1TdHJhbmdlLUxhbmQtUm9iZXJ0LUhlaW5sZWluL2RwLzA0NDE3OTAzNDg="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/o8uzm727egaqh459w3/o4skhqh6ngzddl/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvR3Jvaw=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to while writing —",
+      "category": "podcast",
+      "title": "Asphalt Jungle — Bronx Beat",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/o8uzm727egaqh459w3/x8aph6hpz9g007/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1jN0FKWDRjYzN4WQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/o8uzm727egaqh459w3/x8aph6hpz9g007/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1jN0FKWDRjYzN4WQ=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“To doubt everything or to believe everything are two equally convenient solutions; both dispense with the necessity of reflection.” — Henri Poincaré",
+      "creator": "Henri Poincaré",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/o8uzm727egaqh459w3/2xb2hoh8g45ww3/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSGVucmlfUG9pbmNhciVDMyVBOQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/o8uzm727egaqh459w3/2xb2hoh8g45ww3/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSGVucmlfUG9pbmNhciVDMyVBOQ=="
+        }
+      ]
+    }
+  ]
 }

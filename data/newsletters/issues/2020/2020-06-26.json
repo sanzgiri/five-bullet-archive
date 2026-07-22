@@ -1,13 +1,133 @@
 {
   "schema_version": 1,
   "issue_date": "2020-06-26",
-  "subject": "5-Bullet Friday — June 26, 2020 ",
+  "subject": "5-Bullet Friday — June 26, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "book",
+      "title": "The Things They Carried",
+      "creator": "Tim O’Brien)",
+      "note": "). This was first recommended to me by [Caroline Paul](https://tim.blog/2016/04/05/caroline-paul/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@carowriter](https://twitter.com/carowriter)), an incredible writer in her own right, who was also one of the first female firefighters in San Francisco. This is one of her favorite books because, [as she said](https://tim.blog/2018/01/01/the-tim-ferriss-show-transcripts-caroline-paul/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), “A lot of \\[O’Brien’s\\] writing, at least initially, was about Vietnam in thinly veiled autobiographical form, but fiction. That book actually got me back to reading. When you go to college, reading gets kicked out of you a little bit. You have to read all of these things, and I didn’t \\[start reading again\\] until my friend Eric, a whitewater rafter with me, handed me this book.” Be forewarned that it contains beautiful prose and graphic violence in equal measure.",
+      "original_url": "https://www.amazon.com/Things-They-Carried-Tim-OBrien/dp/0618706410/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Things-They-Carried-Tim-OBrien/dp/0618706410/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Tim_O%27Brien_(author"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2016/04/05/caroline-paul/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/carowriter"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/01/01/the-tim-ferriss-show-transcripts-caroline-paul/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m revisiting and using",
+      "category": "other",
+      "title": "Enjoy the Perfect Shower Anywhere in the World… for $2.96",
+      "creator": null,
+      "note": "After a long day, the last thing you need is a dribbling, sad excuse for a shower. I’m currently in rural seclusion with old, old pipes and weak, weak water pressure. Washing has felt like being peed upon by a geriatric elephant. This post, originally written in 2007, describes the best simple solution I’ve found. The price is now $6–7, and there is a newer version, but they all fit in your pocket and take minutes to install.",
+      "original_url": "https://tim.blog/2007/04/03/enjoy-the-perfect-shower-anywhere-in-the-worldfor-296/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2007/04/03/enjoy-the-perfect-shower-anywhere-in-the-worldfor-296/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Study I’m tracking —",
+      "category": "music",
+      "title": "psilocybin",
+      "creator": null,
+      "note": ", a naturally occurring psychoactive substance found in certain species of mushrooms. The study will investigate psychological effects of psilocybin, including whether or not it can help with anorexia. (For a comprehensive overview of therapeutic applications of psilocybin and other psychedelics, I suggest [watching this](https://www.youtube.com/watch?v=8RIVQDZH4Q4), or you can listen to the [audio-only version here](https://tim.blog/2019/07/15/psychedelics-microdosing-mind-enhancing-methods/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)).  \n  \nPlease visit [](https://hopkinspsychedelic.org/anorexia)**[www.hopkinspsychedelic.org/anorexia](http://www.hopkinspsychedelic.org/anorexia)** to learn more about eligibility and complete the online screening form, or contact the Hopkins team at:[HopkinsAnorexiaStudy@jhmi.edu](mailto:HopkinsAnorexiaStudy@jhmi.edu)[  \n  \n](mailto:HopkinsAnorexiaStudy@jhmi.edu)They are especially interested in prospective participants who live in or near the Baltimore/DC area, but if you’re willing to travel to Baltimore for the duration of the study, it can’t hurt to throw your hat in the ring.  \n  \nConfidentiality will be maintained for all applicants and participants, and here’s more from the team: “Participating in our study may help your anorexia nervosa symptoms and will contribute to improving our understanding of the growing field of psychedelic science.”",
+      "original_url": "https://tim.blog/2019/09/10/largest-psychedelic-research-center/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2019/09/10/largest-psychedelic-research-center/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=8RIVQDZH4Q4"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/07/15/psychedelics-microdosing-mind-enhancing-methods/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "http://www.hopkinspsychedelic.org/anorexia"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to –",
+      "category": "podcast",
+      "title": "Dance Monkey",
+      "creator": "Tones And I",
+      "note": "([YouTube](https://www.youtube.com/watch?v=q0hyYWKXF0Q), [Spotify](https://open.spotify.com/track/5ZULALImTm80tzUbYQYM9d?autoplay=true&v=T)) by [Tones And I](https://www.youtube.com/channel/UCQeiBlCcS4-XGwFjrvDn96w) ([@tonesandi](https://www.instagram.com/tonesandi/)). Thanks to my lovely girlfriend for getting this stuck in my head. It’s good for the soul and good for the hips.",
+      "original_url": "https://www.youtube.com/watch?v=q0hyYWKXF0Q",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=q0hyYWKXF0Q"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=q0hyYWKXF0Q"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/5ZULALImTm80tzUbYQYM9d?autoplay=true&v=T"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/channel/UCQeiBlCcS4-XGwFjrvDn96w"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/tonesandi/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Poem I’m enjoying —",
+      "category": "other",
+      "title": "Kuan-hsiu",
+      "creator": null,
+      "note": "(832–912)",
+      "original_url": "https://en.wikipedia.org/wiki/Guanxiu",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Guanxiu"
+        }
+      ]
+    }
+  ]
 }

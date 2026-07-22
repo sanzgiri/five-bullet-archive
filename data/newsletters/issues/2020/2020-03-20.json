@@ -1,12 +1,190 @@
 {
   "schema_version": 1,
   "issue_date": "2020-03-20",
-  "subject": "7-Bullet Saturday — March 21, 2020 ",
+  "subject": "7-Bullet Saturday — March 21, 2020",
   "sources": [
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’ve been enjoying —",
+      "category": "other",
+      "title": "Honey Mama’s Mayan Spice Bar",
+      "creator": null,
+      "note": "Sometimes, it’s the small things. A few weeks ago, I found a secret stash of these in the fridge. When I raised an eyebrow, my girlfriend said, “You’ll be _very_ happy later that we have these.” She was 100% right. The taste and mouthfeel are otherworldly. More on Honey Mama: “We make each of our bars from five whole foods: raw honey, virgin coconut oil, cocoa powder, Himalayan pink salt, and either sprouted almonds or shredded coconut. That’s it!” If this bar sells out, all of their bars are ridiculous. **Please be a good neighbor and save some for others; I encourage you to buy** **no more than** **12 bars per household.** We all need tiny creature comforts to get through this, so please allow room for others.",
+      "original_url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/qgi8h7h08re7nw/aHR0cHM6Ly9ob25leS1tYW1hcy5teXNob3BpZnkuY29tL3Byb2R1Y3RzL3NwaWN5LW5lY3Rhci1mdWRnZS1iYXI=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/qgi8h7h08re7nw/aHR0cHM6Ly9ob25leS1tYW1hcy5teXNob3BpZnkuY29tL3Byb2R1Y3RzL3NwaWN5LW5lY3Rhci1mdWRnZS1iYXI="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m rereading —",
+      "category": "article",
+      "title": "Andy Goldsworthy: A Collaboration with Nature",
+      "creator": null,
+      "note": "This book was introduced to me under unusual circumstances that I’ll write about another time. For now, I can offer this context: I ordered it in response to a therapist saying to me, “I suggest you explore art, music, and so on. You know the problem with most books? TOO MANY WORDS!” If this exact book sells out, nearly all of Andy’s books are gorgeous, and [this trippy documentary](https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/rnt8hoheq0k2x6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9SaXZlcnMtVGlkZXMtQW5keS1Hb2xkc3dvcnRoeS9kcC9CMDdHWVZSNUhMLw==) also does a good job of profiling his life and art. It’ll blow your mind.",
+      "original_url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/3pfphkhnq7xozl/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9BbmR5LUdvbGRzd29ydGh5LUNvbGxhYm9yYXRpb24tTmF0dXJlL2RwLzA4MTA5MzM1MTkv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/3pfphkhnq7xozl/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9BbmR5LUdvbGRzd29ydGh5LUNvbGxhYm9yYXRpb24tTmF0dXJlL2RwLzA4MTA5MzM1MTkv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/rnt8hoheq0k2x6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9SaXZlcnMtVGlkZXMtQW5keS1Hb2xkc3dvcnRoeS9kcC9CMDdHWVZSNUhMLw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m learning more about —",
+      "category": "other",
+      "title": "Why coyotes and badgers hunt together",
+      "creator": "Russell McLendon",
+      "note": "fourhourmail.com/c/0vukl0mnnu9hg3094ho/7ps7h8hm0odk36/aHR0cHM6Ly90d2l0dGVyLmNvbS9ydXNzbWNsZW5kb24_bGFuZz1lbg==)). One paragraph to give you a taste: “Each member of the hunting party has a distinct set of skills. Coyotes are nimble and quick, so they excel at chasing prey across an open prairie. Badgers are slow and awkward runners by comparison, but they’re better diggers than coyotes are, having evolved to pursue small animals in underground burrow systems. So when they hunt prairie dogs or ground squirrels on their own, badgers usually dig them up, while coyotes chase and pounce. The rodents therefore use different strategies depending which predator is after them: They often escape a digging badger by leaving their burrows to flee aboveground, and evade coyotes by running to their burrows.” **I also highly recommend watching the following video:** [**Coyote and Badger Caught Playing on Camera**](https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/pdaeh9hl9zr385/aHR0cHM6Ly9vcGVuc3BhY2V0cnVzdC5vcmcvYmxvZy9jb3lvdGUtYW5kLWJhZGdlci8=)**. For some reason, I find this short clip so uplifting that I bookmarked it and often watch it when I’m feeling down or overwhelmed.**",
+      "original_url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/mnc7h5h7o82gwk/aHR0cHM6Ly93d3cubW5uLmNvbS9lYXJ0aC1tYXR0ZXJzL2FuaW1hbHMvYmxvZ3MvY295b3RlLWFuZC1iYWRnZXItaHVudC10b2dldGhlcg==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/mnc7h5h7o82gwk/aHR0cHM6Ly93d3cubW5uLmNvbS9lYXJ0aC1tYXR0ZXJzL2FuaW1hbHMvYmxvZ3MvY295b3RlLWFuZC1iYWRnZXItaHVudC10b2dldGhlcg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/7ps7h8hm0odk36/aHR0cHM6Ly90d2l0dGVyLmNvbS9ydXNzbWNsZW5kb24_bGFuZz1lbg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/pdaeh9hl9zr385/aHR0cHM6Ly9vcGVuc3BhY2V0cnVzdC5vcmcvYmxvZy9jb3lvdGUtYW5kLWJhZGdlci8="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m most focused on right now —",
+      "category": "other",
+      "title": "How to Support Healthcare Workers Now — Plus Urgent Suggestions for Uber Eats, Hilton, Amazon, and More",
+      "creator": null,
+      "note": "Speaking with many doctors on the front lines in NYC and elsewhere, next week is going to be quite scary, and certain people and companies are perfectly positioned to help healthcare workers before the surge. **Thank you for listening to and sharing this one. It’s very important and very time sensitive. CC:** [**@UberEats**](https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/g7hnh5hke3gdxm/aHR0cHM6Ly90d2l0dGVyLmNvbS9VYmVyRWF0cw==)**,** [**@HiltonHotels**](https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/nouohvhkn328er/aHR0cHM6Ly90d2l0dGVyLmNvbS9IaWx0b25Ib3RlbHM=)**,** [**@Airbnb**](https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/q3i8h7h08re7qe/aHR0cHM6Ly90d2l0dGVyLmNvbS9haXJibmI=)**,** [**@Amazon**](https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/3xfphkhnq7xovm/aHR0cHM6Ly90d2l0dGVyLmNvbS9hbWF6b24=)**.**",
+      "original_url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/kmbmh6h38lzd49/aHR0cHM6Ly90aW0uYmxvZy8yMDIwLzAzLzIxL2hvdy10by1zdXBwb3J0LWhlYWx0aGNhcmUtd29ya2Vycy1ub3cvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/kmbmh6h38lzd49/aHR0cHM6Ly90aW0uYmxvZy8yMDIwLzAzLzIxL2hvdy10by1zdXBwb3J0LWhlYWx0aGNhcmUtd29ya2Vycy1ub3cvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/g7hnh5hke3gdxm/aHR0cHM6Ly90d2l0dGVyLmNvbS9VYmVyRWF0cw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/nouohvhkn328er/aHR0cHM6Ly90d2l0dGVyLmNvbS9IaWx0b25Ib3RlbHM="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/q3i8h7h08re7qe/aHR0cHM6Ly90d2l0dGVyLmNvbS9haXJibmI="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/3xfphkhnq7xovm/aHR0cHM6Ly90d2l0dGVyLmNvbS9hbWF6b24="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Related post I compiled and vetted through medical professionals —",
+      "category": "other",
+      "title": "Emergency Technique: How to Increase Ventilator Capacity 2–4x in 10 Minutes",
+      "creator": null,
+      "note": "This describes last-resort modifications to ventilators that can enable one ventilator to service two or four people instead of one.",
+      "original_url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/w7t2hgh3rwm58p/aHR0cHM6Ly90aW0uYmxvZy8yMDIwLzAzLzIwL2hvdy10by1pbmNyZWFzZS12ZW50aWxhdG9yLWNhcGFjaXR5Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/w7t2hgh3rwm58p/aHR0cHM6Ly90aW0uYmxvZy8yMDIwLzAzLzIwL2hvdy10by1pbmNyZWFzZS12ZW50aWxhdG9yLWNhcGFjaXR5Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "And if you need help —",
+      "category": "other",
+      "title": "http://FindHelp.org",
+      "creator": null,
+      "note": "[http://FindHelp.org](https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/mds7h5h7o82gwl/aHR0cDovL0ZpbmRIZWxwLm9yZw==). It lists free and reduced-cost services in every city in America and highlights hundreds of programs designed to help. ### The preceding text is also [the perfect length for sharing on Twitter](https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/ewaph7h2k0mp5z/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcy9zdGF0dXMvMTI0MTExODI3NjQ4MDEyNjk3OA==) and other social media to help those in your communities.",
+      "original_url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/mds7h5h7o82gwl/aHR0cDovL0ZpbmRIZWxwLm9yZw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/mds7h5h7o82gwl/aHR0cDovL0ZpbmRIZWxwLm9yZw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/ewaph7h2k0mp5z/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcy9zdGF0dXMvMTI0MTExODI3NjQ4MDEyNjk3OA=="
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "section": "Poem I’ve read several times this week —",
+      "category": "other",
+      "title": "The Order of Friars Minor_, also called the Franciscans_, the Franciscan Order_, or the Seraphic Order_, has a postnominal abbreviation OFM) [",
+      "creator": null,
+      "note": "[](https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/z7bghnh8o35459/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSmVhbi1MdWNfR29kYXJk)\n\nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just [send a tweet to @tferriss](https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/6dheh8hdp7xkx5/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==) and put #5BulletFriday at the end so I can find it.\n\n  \nHave a wonderful weekend, all!\n\nTim\n\n**P.S. Deal of the week:** [**Athletic Greens**](https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/2lu2hohe72lvl0/aHR0cHM6Ly9hdGhsZXRpY2dyZWVucy5jb20vcG9kY2FzdC90aW0vdXM_dXRtX2NhbXBhaWduPTViZi1tYXIyMCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9dGltZmVycmlzcyZyZnNuPTM4MjA5ODguNjU2ZTc4)**.** I get asked all the time, “If you could only use one supplement, what would it be?” My answer is usually [Athletic Greens](https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/q7i8h7h08re7e2/aHR0cHM6Ly9hdGhsZXRpY2dyZWVucy5jb20vcG9kY2FzdC90aW0vdXM_dXRtX2NhbXBhaWduPTViZi1tYXIyMCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9dGltZmVycmlzcyZyZnNuPTM4MjA5ODguNjU2ZTc4), my all-in-one nutritional insurance. I recommended it in _The 4-Hour Body_ in 2010 and did not get paid to do so. I do my best with nutrient-dense meals, of course, but AG further covers my bases with vitamins, minerals, and whole-food-sourced micronutrients that support gut health and the immune system. For the past four weeks, I’ve been taking AG every morning as a simple shake: Athletic Greens, whey protein isolate, and water. [**Athletic Greens**](https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/g2fnh5hke3gdgo/aHR0cHM6Ly9hdGhsZXRpY2dyZWVucy5jb20vcG9kY2FzdC90aW0vdXM_dXRtX2NhbXBhaWduPTViZi1tYXIyMCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9dGltZmVycmlzcyZyZnNuPTM4MjA5ODguNjU2ZTc4) **has an exclusive offer for my readers—have Athletic Greens delivered straight to your door and get 20 free servings with your first purchase.** [**Click here**](https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/9rtzhnhlgp4q43/aHR0cHM6Ly9hdGhsZXRpY2dyZWVucy5jb20vcG9kY2FzdC90aW0vdXM_dXRtX2NhbXBhaWduPTViZi1tYXIyMCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9dGltZmVycmlzcyZyZnNuPTM4MjA5ODguNjU2ZTc4) **for all the details.**\n\n[![](https://files.convertkitcdn.com/assets/pictures/11125/2272828/content_Book_Header_FINAL.jpg)](https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/0zcwh9hkmdnon2/aHR0cHM6Ly90aW0uYmxvZy90aW0tZmVycmlzcy1ib29rcy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9zb3VyY2U9bWVkaXVtPTViZi10ZW1wbGF0ZS1oZWFkZXI=)  \n\nFORWARDED THIS MESSAGE? [SIGN UP](https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/v8qs3hrhdnpmxme/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ==).\n\n![Tim Ferriss Photo](http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg)\n\nJoin millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff.\n\nDUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just [click here](https://el2.fourhourmail.com/u/0vukl0mnnu9hg3094ho). To reply to Tim, please do so in the blog comments [here](https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/p9vbeh9hl9zr3x4/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU=).\n\n3112 Windsor Rd., Box #UNS, Austin TX 78703, United States\n\n \n\n![](https://el2.fourhourmail.com/o/0vukl0mnnu9hg3094ho)",
+      "original_url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/z7bghnh8o35459/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSmVhbi1MdWNfR29kYXJk",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/z7bghnh8o35459/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSmVhbi1MdWNfR29kYXJk"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/6dheh8hdp7xkx5/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/2lu2hohe72lvl0/aHR0cHM6Ly9hdGhsZXRpY2dyZWVucy5jb20vcG9kY2FzdC90aW0vdXM_dXRtX2NhbXBhaWduPTViZi1tYXIyMCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9dGltZmVycmlzcyZyZnNuPTM4MjA5ODguNjU2ZTc4"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/q7i8h7h08re7e2/aHR0cHM6Ly9hdGhsZXRpY2dyZWVucy5jb20vcG9kY2FzdC90aW0vdXM_dXRtX2NhbXBhaWduPTViZi1tYXIyMCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9dGltZmVycmlzcyZyZnNuPTM4MjA5ODguNjU2ZTc4"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/g2fnh5hke3gdgo/aHR0cHM6Ly9hdGhsZXRpY2dyZWVucy5jb20vcG9kY2FzdC90aW0vdXM_dXRtX2NhbXBhaWduPTViZi1tYXIyMCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9dGltZmVycmlzcyZyZnNuPTM4MjA5ODguNjU2ZTc4"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/9rtzhnhlgp4q43/aHR0cHM6Ly9hdGhsZXRpY2dyZWVucy5jb20vcG9kY2FzdC90aW0vdXM_dXRtX2NhbXBhaWduPTViZi1tYXIyMCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9dGltZmVycmlzcyZyZnNuPTM4MjA5ODguNjU2ZTc4"
+        },
+        {
+          "type": "other",
+          "url": "https://files.convertkitcdn.com/assets/pictures/11125/2272828/content_Book_Header_FINAL.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/v8qs3hrhdnpmxme/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/0vukl0mnnu9hg3094ho"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hg3094ho/p9vbeh9hl9zr3x4/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

@@ -7,7 +7,7 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "partial",
+  "extraction_status": "extracted",
   "special_edition": true,
   "bullets": [
     {
@@ -16,7 +16,7 @@
       "category": "music",
       "title": "Endangered Species",
       "creator": "Nickodemus",
-      "note": "(YouTube, Spotify) by Nickodemus (Raeo remix).",
+      "note": "([YouTube](https://www.youtube.com/watch?v=u2aGF0yQLyI&list=OLAK5uy_mCrPxcQIGaM-qk6Q42P-lzrFoULe0AO5c), [Spotify](https://open.spotify.com/album/5yk2ZpcB1q93OZ2tdkuEak?highlight=spotify%3Atrack%3A5dF3DJfd1GXtk1CjkOyqtq)) by [Nickodemus](https://www.instagram.com/nickodemusnyc/?hl=en) ([Raeo](https://www.raeo.net/) remix).",
       "original_url": "https://www.youtube.com/watch?v=u2aGF0yQLyI&list=OLAK5uy_mCrPxcQIGaM-qk6Q42P-lzrFoULe0AO5c",
       "links": [
         {
@@ -47,7 +47,7 @@
       "category": "article",
       "title": "How do you ask good questions?",
       "creator": "Tyler Cowen",
-      "note": "by Tyler Cowen. Tyler always impresses me. His tips here will make you a better thinker and a better conversationalist. For more Tyler, check out our long-form discussion here.",
+      "note": ". Tyler always impresses me. His tips here will make you a better thinker and a better conversationalist. For more Tyler, check out our long-form discussion [here](https://tim.blog/2020/03/05/tyler-cowen/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf).",
       "original_url": "https://marginalrevolution.com/marginalrevolution/2021/06/how-do-you-ask-good-questions.html",
       "links": [
         {
@@ -70,7 +70,7 @@
       "category": "audiobook",
       "title": "Reality Is Not What It Seems",
       "creator": "Carlo Rovelli",
-      "note": "by Carlo Rovelli. I loved this book, and it’s nice and short. The audiobook clocks in at around six hours at 1x speed. The prose is gorgeous, and earlier chapters on ancient thinkers (e.g., Democritus) alone make it worth the purchase. Here’s a more complete description:\n\n“Theoretical physicist Carlo Rovelli takes you on a journey through how our understanding of reality has evolved, from Democritus to Einstein, from Michael Faraday to gravitational waves, and from classical physics to his own pioneering work in quantum gravity. Mind-bending physics made accessible, beautifully narrated by Roy McMillan.”\n\nThe later chapters on quantum gravity get dense, but the first 50% of this book, plus the conclusion, are fantastic for anyone with a little curiosity and a little patience. This book pairs incredibly well with When We Cease to Understand the World, which I’ve recommended before.",
+      "note": ". I loved this book, and it’s nice and short. The audiobook clocks in at around six hours at 1x speed. The prose is gorgeous, and earlier chapters on ancient thinkers (e.g., Democritus) alone make it worth the purchase. Here’s a more complete description:  \n​  \n“Theoretical physicist Carlo Rovelli takes you on a journey through how our understanding of reality has evolved, from Democritus to Einstein, from Michael Faraday to gravitational waves, and from classical physics to his own pioneering work in quantum gravity. Mind-bending physics made accessible, beautifully narrated by [Roy McMillan](https://www.audible.com/search?searchNarrator=Roy%20McMillan&ref_pageloadid=zXpBOhNlshdUzayE&pf_rd_p=f6da0b63-439d-48a7-a859-b187b7c50705&pf_rd_r=8QK6KJXB93F1C388FZZJ&plink=mWzlXeHDOobPUPyB&pageLoadId=S8hvexH41HLVe3S9&creativeId=16015ba4-2e2d-4ae3-93c5-e937781a25cd&ref=a_pd_Realit_pin_narrator_1).”  \n​  \nThe later chapters on quantum gravity get dense, but the first 50% of this book, plus the conclusion, are fantastic for anyone with a little curiosity and a little patience. This book pairs incredibly well with [_When We Cease to Understand the World_](https://www.amazon.com/dp/1681375664?lv=shuf&tag=offsitoftimfe-20&channelId=1&plpRedirect=mhFallback), which I’ve recommended before.",
       "original_url": "https://www.amazon.com/dp/B01N49GVM1?lv=shuf&tag=offsitoftimfe-20&channelId=1&plpRedirect=mhFallback",
       "links": [
         {
@@ -96,7 +96,7 @@
       "section": "Quote I’m pondering",
       "category": "quote",
       "title": "“If you are moved by it, you don’t need it explained to you. If not, no explanation can make you moved by it.” — Federico Fellini, Italian film director and screenwriter (1920–1993).",
-      "creator": null,
+      "creator": "Federico Fellini, Italian film director and screenwriter",
       "note": null,
       "original_url": "https://en.wikipedia.org/wiki/Federico_Fellini",
       "links": [
@@ -112,7 +112,7 @@
       "category": "research",
       "title": "How do bilingual brains navigate between languages? Scientists discover ‘geometric neural map.’",
       "creator": null,
-      "note": "This article describes new research just published in Cell, and it begins with the below paragraph:\n\n“Anyone who speaks more than one language knows the feeling of expressing the same thought through entirely different linguistic lenses. A new study by researchers at Rice University and Baylor College of Medicine reveals that the key to this translation ability is a shared geometric map of neural responses in the hippocampus.”\n\nIt also discusses how neuroscience and AI may be converging on similar conclusions or underlying principles. It’s exciting stuff. That said, the research was based on only four speakers of English and Spanish. I love the exploration, and there are lots of open questions to ponder:\n\n\\- Does the conceptual map somehow exist independent of language, or is it created with the learning of your first language? I would bet on the latter.\n\n\\- English and Spanish share Indo-European structure and Latin-alphabet orthography. Does the mapping differ if you have completely different phonetics (e.g., Chinese) or very different grammar (e.g., Japanese)? Only one or the other? Both? If so, is there a threshold for “different”?\n\n\\- One of the study’s senior authors described the brain as “keeping languages distinct enough to avoid interference.” But that refers to the proposed neural geometry of meaning, not necessarily to every retrieval slip we make while speaking—and multilingual people do mix things up. It happens a lot.\n\nSometimes the reasons seem obvious enough: for instance, a native English speaker confuses their Spanish and Portuguese, which are incredibly similar. Other times, it’s less clear what’s going on under the hood. In my case, I have retrieval errors between Spanish and Chinese only when both proficiency levels are near equal, but not when one is lagging behind the other. This is also true if my Japanese approaches my Spanish or I’m relearning German and it gets close to another beginner-level language.\n\nBut here is the stranger part – it doesn’t need to be current proficiency! Any point in my life will do.\n\nFor instance, if I haven’t studied a language in 20+ years but had a “purple belt” in proficiency at my peak—as was the case with Chinese study ending around 2000—when a new language approaches purple belt, I accidentally recall Chinese words or phrases (e.g., proverbs) that I would not be able to recall deliberately, even with a gun against my head. I’d be curious if anyone else has experienced this bizarre phenomenon (let me know @tferriss).\n\nThe research is still at the top of the first inning, but I’m thrilled that people are taking swings.",
+      "note": "​  \nThis article describes [new research just published in _Cell_](https://www.sciencedirect.com/science/article/pii/S0092867426005799?via%3Dihub), and it begins with the below paragraph:  \n​  \n“Anyone who speaks more than one language knows the feeling of expressing the same thought through entirely different linguistic lenses. A new study by researchers at Rice University and Baylor College of Medicine reveals that the key to this translation ability is a shared geometric map of neural responses in the hippocampus.”  \n​  \nIt also discusses how neuroscience and AI may be converging on similar conclusions or underlying principles. It’s exciting stuff. That said, the research was based on only four speakers of English and Spanish. I love the exploration, and there are lots of open questions to ponder:  \n​  \n\\- Does the conceptual map somehow exist _independent_ of language, or is it created with the learning of your first language? I would bet on the latter.  \n​  \n\\- English and Spanish share Indo-European structure and Latin-alphabet orthography. Does the mapping differ if you have completely different phonetics (e.g., Chinese) or very different grammar (e.g., Japanese)? Only one or the other? Both? If so, is there a threshold for “different”?  \n​  \n\\- One of the study’s senior authors described the brain as “keeping languages distinct enough to avoid interference.” But that refers to the proposed neural geometry of meaning, not necessarily to every retrieval slip we make while speaking—and multilingual people do mix things up. It happens a lot.  \n​  \nSometimes the reasons seem obvious enough: for instance, a native English speaker confuses their Spanish and Portuguese, which are incredibly similar. Other times, it’s less clear what’s going on under the hood. In my case, I have retrieval errors between Spanish and Chinese only when both proficiency levels are near equal, but not when one is lagging behind the other. This is also true if my Japanese approaches my Spanish or I’m relearning German and it gets close to another beginner-level language.  \n​  \nBut here is the stranger part – it doesn’t need to be _current_ proficiency! Any point in my life will do.  \n​  \nFor instance, if I haven’t studied a language in 20+ years but had a “purple belt” in proficiency at my peak—as was the case with Chinese study ending around 2000—when a new language approaches purple belt, I accidentally recall Chinese words or phrases (e.g., proverbs) that I would _not_ be able to recall deliberately, even with a gun against my head. I’d be curious if anyone else has experienced this bizarre phenomenon (let me know [@tferriss](https://twitter.com/tferriss)).  \n​  \nThe research is still at the top of the first inning, but I’m thrilled that people are taking swings.",
       "original_url": "https://news.rice.edu/news/2026/how-do-bilingual-brains-navigate-between-languages-scientists-discover-geometric-neural",
       "links": [
         {
@@ -133,14 +133,106 @@
       "position": 6,
       "section": "Quote I’m pondering",
       "category": "quote",
-      "title": "“In looking for people to hire, you look for three qualities: integrity, intelligence, and energy. And if they don’t have the first, the other two will kill you.” — Warren Buffett",
-      "creator": null,
+      "title": "“In looking for people to hire, you look for three qualities: integrity, intelligence, and energy. And if they don’t have the first, the other two will kill you.” — Warren Buffett * * * You can complement this edition of 5-Bullet Friday with my interview with cognitive scientist and psychologist Dr. Donald Hoffman. It’s great for scrambling what you think of as “reality.” And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim ### Forwarded this message? Sign up here. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. Sign Up ### Listen to The Tim Ferriss Show Podcast The Tim Ferriss Show is one of the most popular podcasts in the world with more than one billion downloads. It has been selected for \"Best of Apple Podcasts\" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts on many occasions. Podcasts Apple Podcasts Overcast Spotify Tim's Blog ### Read Tim's Books [](https://tim.blog/tim-ferriss-books/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test) Amazon Audible B & N Tim's Blog Follow Tim: [](https://twitter.com/tferriss) [](https://www.instagram.com/timferriss/) [](https://www.youtube.com/channel/UCznv7Vf9nBdJYvBagFdAHWw) [](https://www.facebook.com/TimFerriss) [](https://www.linkedin.com/in/timferriss/) DO NOT REPLY HERE: Due to volume, please do not reply to this email. Sadly we are unable to read 1000+ email replies daily. To reply to Tim, please do so in the blog comments here. No longer want these emails? Unsubscribe 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Warren Buffett * * * You can complement this edition of 5-Bullet Friday with my interview with cognitive scientist and psychologist Dr. Donald Hoffman. It’s great for scrambling what you think of as “reality.” And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim ### Forwarded this message? Sign up here. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. Sign Up ### Listen to The Tim Ferriss Show Podcast The Tim Ferriss Show is one of the most popular podcasts in the world with more than one billion downloads. It has been selected for \"Best of Apple Podcasts\" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts on many occasions. Podcasts Apple Podcasts Overcast Spotify Tim's Blog ### Read Tim's Books",
       "note": null,
       "original_url": "https://en.wikipedia.org/wiki/Warren_Buffett",
       "links": [
         {
           "type": "original",
           "url": "https://en.wikipedia.org/wiki/Warren_Buffett"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/04/13/donald-hoffman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/27uk8e5mmuoh8kdn7nb3hg9524dzigh7w8"
+        },
+        {
+          "type": "other",
+          "url": "https://te.sparkloop.app/click/team_ca67a1a3a4/92140966/NO"
         }
       ]
     }

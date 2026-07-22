@@ -6,7 +6,123 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Ryan Speedo Green: From Juvenile Delinquency to Opera Stardom",
+      "creator": null,
+      "note": "(via [@60Minutes](https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/krfmh6hp5vomo/aHR0cHM6Ly90d2l0dGVyLmNvbS82ME1pbnV0ZXMvc3RhdHVzLzEwNzE5NjMzODA4Mjk4NzYyMjQ=)). This short, 13-minute clip tells the incredible story of Ryan Speedo Green ([@ryanspeedogreen](https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/29t2hohx8wqdx/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3J5YW5zcGVlZG9ncmVlbi8=), [website](https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/gzcnh5h2lw0pv/aHR0cHM6Ly93d3cucnlhbnNwZWVkb2dyZWVuLmNvbS8=)), once a violent youth locked in solitary confinement, now a powerhouse on the global opera stage. One of my favorite lines from this video, which I’ll likely end up repeating to myself, is “Don’t let this moment define you.”",
+      "original_url": "https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/xwiph6hmp043q/aHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vbmV3cy9yeWFuLXNwZWVkby1ncmVlbi1mcm9tLWp1dmVuaWxlLWRlbGlucXVlbmN5LXRvLW9wZXJhLXN0YXJkb20tNjAtbWludXRlcy8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/xwiph6hmp043q/aHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vbmV3cy9yeWFuLXNwZWVkby1ncmVlbi1mcm9tLWp1dmVuaWxlLWRlbGlucXVlbmN5LXRvLW9wZXJhLXN0YXJkb20tNjAtbWludXRlcy8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/krfmh6hp5vomo/aHR0cHM6Ly90d2l0dGVyLmNvbS82ME1pbnV0ZXMvc3RhdHVzLzEwNzE5NjMzODA4Mjk4NzYyMjQ="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/29t2hohx8wqdx/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3J5YW5zcGVlZG9ncmVlbi8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/gzcnh5h2lw0pv/aHR0cHM6Ly93d3cucnlhbnNwZWVkb2dyZWVuLmNvbS8="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Book I’m reading —",
+      "category": "book",
+      "title": "Delta of Venus",
+      "creator": "Anaïs Nin",
+      "note": "This erotica was assigned to me and my girlfriend by a well-known relationship coach, and we’ve been reading a chapter or two together before bed. Here’s the process, while looking at the same Kindle: when the non-Kindle-holder finishes reading a page, she (in this case) taps her partner on the shoulder, and when we’re both finished, the page is turned. It’s smoother than it sounds, and the sensual effects have been dramatic. A note of warning: many of these stories will make you very uncomfortable, even nauseous, and that’s kind of the point—to shock you out of your normal perception of all things sexual. Some are truly horrifying. Nevertheless, it has produced an oddly productive ride thus far and certainly lots of fodder for discussion. It’s guaranteed to get you off the beaten path. Here’s the official description: “In Delta of Venus, Anaïs Nin pens a lush, magical world where the characters of her imagination possess the most universal of desires and exceptional of talents. Among these provocative stories, a Hungarian adventurer seduces wealthy women then vanishes with their money; a veiled woman selects strangers from a chic restaurant for private trysts; and a Parisian hatmaker named Mathilde leaves her husband for the opium dens of Peru.”",
+      "original_url": "https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/3esphkh82gkv6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9EZWx0YS1WZW51cy1BbmFpcy1OaW4vZHAvMDE1NjAyOTAzMC8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/3esphkh82gkv6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9EZWx0YS1WZW51cy1BbmFpcy1OaW4vZHAvMDE1NjAyOTAzMC8="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Someone I’m enjoying on Instagram —",
+      "category": "other",
+      "title": "@theglitch.og",
+      "creator": null,
+      "note": ")**. This will make sense to some of you. It makes your mind bendy.",
+      "original_url": "https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/4navheh3p87k5/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS90aGVnbGl0Y2gub2cv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/4navheh3p87k5/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS90aGVnbGl0Y2gub2cv"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m eating —",
+      "category": "other",
+      "title": "Juanes",
+      "creator": null,
+      "note": "(like [tamales](https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/8dhqhoh82n7k3/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvVGFtYWxl)) near Tarapoto, Peru. Mine had chicken, rice, and pitted olives in them, and they’re the perfect, self-contained backpacking food. Here’s more information from Wikipedia: “The _juane_ is one of the main dishes of the cuisine of the Peruvian jungle and is widely consumed on June 24, the feast of St. John the Baptist (San Juan), hence the name. . . . The _juane_ is usually made on the basis of rice, meat, olives, hard-boiled egg, spices among others, which is wrapped with _bijao_ (macaw-flower) leaves and then put to boil for about an hour and a half. Rice can be substituted with cassava, _chonta_, the mixture of rice and cassava, beans, among other products.”",
+      "original_url": "https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/rwb8hohp3zon3/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSnVhbmU=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/rwb8hohp3zon3/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSnVhbmU="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/8dhqhoh82n7k3/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvVGFtYWxl"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“A man is about as big as the things that make him angry.” ― Winston Churchill And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim [](https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/72f7h8he65x34/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/leuehmhpn7dwv/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvV2luc3Rvbl9DaHVyY2hpbGw=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/leuehmhpn7dwv/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvV2luc3Rvbl9DaHVyY2hpbGw="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/doieh0hxon2rm/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/zptghnhzkxm0o/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/68u8wxgppu8h25lpp"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8h25lpp/w2s2hghdk6lg2/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,154 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching (short)",
+      "category": "video",
+      "title": "Telegram founder Pavel Durov on the freedom of not owning any major assets",
+      "creator": null,
+      "note": null,
+      "original_url": "https://www.youtube.com/embed/1Ut6RouSs0w?end=2288&start=2141",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/embed/1Ut6RouSs0w?end=2288&start=2141"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Tech tool I’m playing with",
+      "category": "other",
+      "title": "NotebookLM",
+      "creator": null,
+      "note": "I know everyone is sick of hearing about AI, but if you haven’t heard [this sample podcast](https://drive.google.com/file/d/1Imz4ENCngoCm12GP0cLwVWD3axGnkyUD/view?usp=sharing), which was generated from [a simple article](https://archive.org/details/strand-1897-v-14/page/55/mode/2up?view=theater), it will blow your mind. Those are not real humans. NotebookLM is an AI-powered research and writing assistant that works best with the sources you upload. Thanks to Mark Frauenfelder, who recommended this in [_Recomendo_](https://www.recomendo.com/i/149169964/easy-ai-tool-for-document-analysis) as an “Easy AI Tool for Document Analysis”:  \n​_​  \nGoogle has released an experimental AI called_ [_NotebookLM_](https://notebooklm.google.com/) _that allows you to upload PDF and text files for processing. The AI then generates various outputs such as FAQs, study guides, and briefing documents. The most intriguing feature is its ability to create a 10-minute long podcast-style conversation between a man and a woman, discussing the uploaded documents as if they were the most fascinating topic they’ve ever encountered. As an example,_ [_check out the results_](https://drive.google.com/file/d/1Imz4ENCngoCm12GP0cLwVWD3axGnkyUD/view?usp=sharing) _from an 1897 article from The Strand Magazine about unusual competitions held in London’s East End. The AI-generated podcast show is astonishingly good. — MF_",
+      "original_url": "https://notebooklm.google.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://notebooklm.google.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://drive.google.com/file/d/1Imz4ENCngoCm12GP0cLwVWD3axGnkyUD/view?usp=sharing"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.org/details/strand-1897-v-14/page/55/mode/2up?view=theater"
+        },
+        {
+          "type": "other",
+          "url": "https://www.recomendo.com/i/149169964/easy-ai-tool-for-document-analysis"
+        },
+        {
+          "type": "other",
+          "url": "https://notebooklm.google.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://drive.google.com/file/d/1Imz4ENCngoCm12GP0cLwVWD3axGnkyUD/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Short email I’m revisiting",
+      "category": "other",
+      "title": "Coach Christopher Sommer’s email to me",
+      "creator": null,
+      "note": "[Coach Sommer](https://www.instagram.com/christophersommer1/?hl=en) is a former US National Team gymnastics coach and the creator of [Gymnastic Bodies](http://gymnasticbodies.com). Below is one part of his email that continues to resonate deeply and serves as a great reminder on a lot of levels:**​  \n​  \n​**_In fact, this impatience in dealing with frustration is the primary reason that most people fail to achieve their goals. Unreasonable expectations timewise, resulting in unnecessary frustration, due to a perceived feeling of failure. Achieving the extraordinary is not a linear process.  \n​  \nThe secret is to show up, do the work, and go home.  \n​  \nA blue collar work ethic married to indomitable will. It is literally that simple. Nothing interferes. Nothing can sway you from your purpose. Once the decision is made, simply refuse to budge. Refuse to compromise.  \n​  \nAnd accept that quality long-term results require quality long-term focus. No emotion. No drama. No beating yourself up over small bumps in the road. Learn to enjoy and appreciate the process. This is especially important because you are going to spend far more time on the actual journey than with those all too brief moments of triumph at the end.  \n​  \nCertainly celebrate the moments of triumph when they occur. More importantly, learn from defeats when they happen. In fact, if you are not encountering defeat on a fairly regular basis, you are not trying hard enough. And absolutely refuse to accept less than your best.  \n​  \nThrow out a timeline. It will take what it takes.  \n​  \nIf the commitment is to a long-term goal and not to a series of smaller intermediate goals, then only one decision needs to be made and adhered to. Clear, simple, straightforward. Much easier to maintain than having to make small decision after small decision to stay the course when dealing with each step along the way. This provides far too many opportunities to inadvertently drift from your chosen goal. The single decision is one of the most powerful tools in the toolbox._",
+      "original_url": "https://x.com/tferriss/status/1826691823789641750",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://x.com/tferriss/status/1826691823789641750"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/christophersommer1/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "http://gymnasticbodies.com"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "Bacteria are talking",
+      "creator": "Annie Roth in Johns Hopkins Magazine_",
+      "note": "Here is a taste:  \n​_​  \nShe discovered that all bacteria produce the same autoinducer, also known as the universal communication molecule or “autoinducer 2,” allowing them to communicate across species.  \n​  \nBassler next began to wonder whether bacteria had species-specific languages. She examined all known autoinducers and noticed an interesting pattern: They all shared the same base structure, but many had a unique addition for intraspecific (i.e., within one species) communication. Think of this chatter as “private, secret conversations,” she says. A language only members of that species could understand._",
+      "original_url": "https://hub.jhu.edu/magazine/2024/summer/bacteria-bonnie-bassler/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://hub.jhu.edu/magazine/2024/summer/bacteria-bonnie-bassler/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "New experiment I’m exploring",
+      "category": "other",
+      "title": "The 4-Hour Workweek Real-World Stories and Case Studies",
+      "creator": null,
+      "note": "Do you have any stories about how you’ve applied [_The 4-Hour Workweek_](https://www.amazon.com/4-Hour-Workweek-Anywhere-Expanded-Updated/dp/B0031KN6T8/) to your life (building a business, lifestyle design \\[e.g., more time with family\\], mini-retirements, geo-arbitrage, and/or otherwise)? If so, I’m soliciting real-world stories for a new experiment. Building something big isn’t necessary; the book just needs to have had a large impact on your life. If you have a story, please go to [tim.blog/casestudy](http://tim.blog/casestudy) to share it with me! I look forward to reading all of them.",
+      "original_url": "https://tim.blog/casestudy",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/casestudy"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/4-Hour-Workweek-Anywhere-Expanded-Updated/dp/B0031KN6T8/"
+        },
+        {
+          "type": "other",
+          "url": "http://tim.blog/casestudy"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The perfectionist is never satisfied. The perfectionist never says, ‘This is pretty good. I think I’ll just keep going.’ To the perfectionist, there is always room for improvement. The perfectionist calls this humility. In reality, it is egotism. It is pride that makes us want to write a perfect script, paint a perfect painting, perform a perfect audition monologue. Perfectionism is not a quest for the best. It is a pursuit of the worst in ourselves, the part that tells us that nothing we do will ever be good enough—that we should try again. No. We should not.” — Julia Cameron (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my brand-new interview with bestselling author Elizabeth Gilbert, my conversation with renowned gymnastics coach Christopher Sommer, and this clip from Anne Lamott on taming your inner critic and overcoming perfectionism. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "that we should try again. No. We should not.” — Julia Cameron",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Julia_Cameron",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Julia_Cameron"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/ffC63"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/09/26/elizabeth-gilbert-2/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2016/05/09/the-secrets-of-gymnastic-strength-training/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=M9j7r9NxddI"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

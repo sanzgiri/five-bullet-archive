@@ -7,7 +7,115 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Song I’m listening to yet again",
+      "category": "music",
+      "title": "Ya Habibi Ta’ala - يا حبيبي تعالَ - Lynn Adib & Zeid Hamdan",
+      "creator": null,
+      "note": "Lynn’s vocals are otherworldly. One of the top comments says it all: _liquid gold_. This is a short clip, and you will play it more than once.",
+      "original_url": "https://www.youtube.com/watch?v=eqmWkqh1kt8",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=eqmWkqh1kt8"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "Riding the Leopard",
+      "creator": "Packy McCormick",
+      "note": ".",
+      "original_url": "https://www.notboring.co/p/riding-the-leopard",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.notboring.co/p/riding-the-leopard"
+        },
+        {
+          "type": "other",
+          "url": "https://www.notboring.co/about"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m wearing in the heat",
+      "category": "other",
+      "title": "Quince’s Mesh-Stitch Button-Up Sweater Polo",
+      "creator": null,
+      "note": "I normally avoid pure cotton, as I find it itchy, but my lovely lady wants to reduce synthetics (polyester, nylon, etc.) in the house and on our bodies. She suggested I try some of the cotton shirts from Quince, and this polo ended up being a hit. It is incredibly breathable, nearly impossible for me to wrinkle, and uses Organic Content Standard (OCS) certified cotton fiber that isn’t treated with pesticides, insecticides, or herbicides.",
+      "original_url": "https://www.quince.com/men/mens-mesh-stitch-organic-cotton-button-through-polo",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.quince.com/men/mens-mesh-stitch-organic-cotton-button-through-polo"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m drinking in the mornings",
+      "category": "other",
+      "title": "Brodo Bone Broth",
+      "creator": null,
+      "note": "Broth is one of the easiest ways to get quality protein and nutrition first thing in the morning. For the past two months, I’ve been having 1–2 Brodo packets per day, often simply poured into a mug and microwaved for 60 seconds.  \n​  \nBrodo was founded by Chef Marco Canora, who was one of my primary teachers in [_The 4-Hour Chef_](https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/?tag=offsitoftimfe-20). ​Marco is the real deal. He won a James Beard Award for Best Chef: New York City, which is like winning an Oscar in the food world, and he has plenty of other awards and accolades to boot.  \n​  \nBrodo quickly became the most famous broth in NYC. The challenge for Marco has always been creating versions of his broths that (A) were shelf-stable, (B) met his high standards, and (C) didn’t require refrigeration… which he finally nailed.  \n​  \nMy favorite flavors so far are Tuscan Sun and Tom Yum, which are included in [their sampler box](https://www.brodo.com/product/brodo-starter-box/). If you wanna get fancy, you can use a milk frother to buzz extra-virgin olive oil (I like [Kosterina](https://www.kosterina.com/collections/olive-oil?srsltid=AfmBOopBZkLLA1saWb-SVIxXPTXZ5SDJGImdjbmJx3vtSHAGygA9dvie)) into Tuscan Sun, and you can squeeze some lime juice into the Tom Yum for extra pop.",
+      "original_url": "https://www.brodo.com/product/brodo-starter-box/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.brodo.com/product/brodo-starter-box/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://www.brodo.com/product/brodo-starter-box/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.kosterina.com/collections/olive-oil?srsltid=AfmBOopBZkLLA1saWb-SVIxXPTXZ5SDJGImdjbmJx3vtSHAGygA9dvie"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“There is more wisdom in your body than in your deepest philosophy.” ― Friedrich Nietzsche, Thus Spoke Zarathustra_ (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my brand-new interview with world-class endurance athlete and Virta Health founder Sami Inkinen. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": null,
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Thus_Spoke_Zarathustra"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/w1W7f"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/05/20/sami-inkinen/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

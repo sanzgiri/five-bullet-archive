@@ -6,7 +6,143 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m studying",
+      "category": "other",
+      "title": "The Ladder of Inference.",
+      "creator": null,
+      "note": "This is a framework for finding common ground, or solvable delusions and divergences, rather than simply arguing over conclusions. Paired with [The Work](https://thework.com/2017/10/four-liberating-questions/) by Byron Katie, it’s also a powerful heuristic for stress-testing your own (often limiting) beliefs. Thanks to [Sheila Heen](https://tim.blog/2021/09/09/sheila-heen/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) of the Harvard Negotiation Project for introducing me to this concept during [our conversation](https://tim.blog/2021/09/09/sheila-heen/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) on the podcast.",
+      "original_url": "https://www.mindtools.com/aipz4vt/the-ladder-of-inference",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.mindtools.com/aipz4vt/the-ladder-of-inference"
+        },
+        {
+          "type": "other",
+          "url": "https://thework.com/2017/10/four-liberating-questions/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/09/09/sheila-heen/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/09/09/sheila-heen/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Podcast episode I’m listening to",
+      "category": "podcast",
+      "title": "Ada Palmer on Viking Metaphysics, Contingent Moments, and Censorship",
+      "creator": null,
+      "note": "on the [_Conversations with Tyler_](https://conversationswithtyler.com/) podcast. I learned a ton from this podcast, and even though Ada’s audio quality isn’t exactly Carnegie Hall, the content more than makes up for it.",
+      "original_url": "https://conversationswithtyler.com/episodes/ada-palmer/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://conversationswithtyler.com/episodes/ada-palmer/"
+        },
+        {
+          "type": "other",
+          "url": "https://conversationswithtyler.com/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Documentary I’m watching",
+      "category": "video",
+      "title": "Icahn: The Restless Billionaire",
+      "creator": null,
+      "note": "([Max](https://www.max.com/movies/icahn-the-restless-billionaire/7c5e9465-6610-4353-9511-b5b083a7a5d9), [Hulu](https://www.hulu.com/movie/icahn-the-restless-billionaire-428bf3da-847c-4e31-8e06-501771a4e2ea?entity_id=428bf3da-847c-4e31-8e06-501771a4e2ea)). From the description: “Explore the fascinating contradictions at the heart of the famed financier and ‘Lone Wolf of Wall Street,’ Carl Icahn, in this documentary.” Watch the trailer [here](https://youtu.be/dVMo49zKwUI?si=sEjvrLYNS-Fsb7Qn).",
+      "original_url": "https://www.amazon.com/Icahn-Restless-Billionaire-Carl/dp/B0B8P6G1KB/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Icahn-Restless-Billionaire-Carl/dp/B0B8P6G1KB/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.max.com/movies/icahn-the-restless-billionaire/7c5e9465-6610-4353-9511-b5b083a7a5d9"
+        },
+        {
+          "type": "other",
+          "url": "https://www.hulu.com/movie/icahn-the-restless-billionaire-428bf3da-847c-4e31-8e06-501771a4e2ea?entity_id=428bf3da-847c-4e31-8e06-501771a4e2ea"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/dVMo49zKwUI?si=sEjvrLYNS-Fsb7Qn"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Person I’m studying in time for Halloween",
+      "category": "other",
+      "title": "Washington Irving",
+      "creator": null,
+      "note": "From Wikipedia: “Washington Irving is an American short-story writer, essayist, biographer, historian, and diplomat of the early nineteenth century. He is best known for his short stories ‘Rip Van Winkle’ (1819) and ‘The Legend of Sleepy Hollow’ (1820), both of which appear in his collection [_The Sketch Book of Geoffrey Crayon, Gent_](https://www.amazon.com/Legend-Sleepy-Hollow-Other-Stories/dp/037575721X/). His historical works include biographies of Oliver Goldsmith, the Islamic prophet Muhammad, and George Washington as well as several histories of fifteenth-century Spain that deal with subjects such as Alhambra, Christopher Columbus, and the Moors.” I’m also reading [_The Sketch Book_](https://www.amazon.com/Legend-Sleepy-Hollow-Other-Stories/dp/037575721X/) before bed this week and next.",
+      "original_url": "https://en.wikipedia.org/wiki/Washington_Irving",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Washington_Irving"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Legend-Sleepy-Hollow-Other-Stories/dp/037575721X/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Legend-Sleepy-Hollow-Other-Stories/dp/037575721X/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering once again",
+      "category": "quote",
+      "title": "“To do the useful thing, to say the courageous thing, to contemplate the beautiful thing: that is enough for one man’s life.” ― T.S. Eliot, The Use of Poetry and the Use of Criticism_ (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my interview with renowned historian Doris Kearns Goodwin, my conversation with influential economist Tyler Cowen, and this list of my 37 favorite documentaries. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": null,
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/T._S._Eliot",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/T._S._Eliot"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Use-Poetry-Criticism-Relation-Lectures/dp/0674931505"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/6fkCz"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/09/07/doris-kearns-goodwin-leadership/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/03/05/tyler-cowen/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/04/13/tim-ferriss-favorite-documentaries/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

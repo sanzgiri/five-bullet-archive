@@ -6,7 +6,175 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "103 Bits of Advice I Wish I Had Known",
+      "creator": "Kevin Kelly",
+      "note": "([@kevin2kelly](https://twitter.com/kevin2kelly)). Last week, Kevin Kelly, arguably [the real-life most interesting man in the world](https://tim.blog/2014/08/29/kevin-kelly/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), turned 70 and shared another round of excellent advice. For more KK life tips, see his “[68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)” from 2020 and “[99 Additional Bits of Unsolicited Advice](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/)” from 2021.  \n​**“**[**It’s Time to Rage**](https://www.nytimes.com/2022/05/03/opinion/roxane-gay-roe-v-wade.html)**”** by [Roxane Gay](https://roxanegay.com/) ([@rgay](https://twitter.com/rgay)) (_The New York Times_).",
+      "original_url": "https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/08/29/kevin-kelly/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/kevin2kelly"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/08/29/kevin-kelly/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://kk.org/thetechnium/68-bits-of-unsolicited-advice/"
+        },
+        {
+          "type": "other",
+          "url": "https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nytimes.com/2022/05/03/opinion/roxane-gay-roe-v-wade.html"
+        },
+        {
+          "type": "other",
+          "url": "https://roxanegay.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/rgay"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Live interview I’m inviting you to",
+      "category": "other",
+      "title": "This upcoming Monday, May 9th, join me as I interview scientist Dr. Suresh Muthukumaraswamy",
+      "creator": null,
+      "note": "Suresh is an associate professor at the University of Auckland, and we will explore psychedelic medicine applications to mental health, experimentation in NZ vs. the US, and much more. Suresh’s expertise includes various hallucinogens (e.g., ketamine, LSD, psilocybin), microdosing studies, and neuroimaging the effects of ketamine in patients with treatment-resistant depression. Think of this interview as a free, live podcast. [**Sign up for free here**](http://ehf.org/live-sessions)**. If that main page is confusing,** [**click here for the direct link to sign up**](https://us02web.zoom.us/meeting/register/tZ0qcOCsrj4jH9DcBEJaYZ3UIYewdk0LCxWj)**.** All you need to do is type in your name and email address. We are also hoping to have some time for Q&A from the audience.  \n​**​  \n​**It starts Monday at 5 PM ET / 2 PM PT, it will last ~90 minutes, and it’s completely free. Special thanks to the [Edmund Hillary Fellowship](https://www.ehf.org/) for hosting and organizing. Since EHF and Suresh are based in New Zealand, all time zones and dates indicated on the website are in New Zealand Standard Time, but US times are Monday at 5 PM ET / 2 PM PT. [**Please click here to register to attend**](https://us02web.zoom.us/meeting/register/tZ0qcOCsrj4jH9DcBEJaYZ3UIYewdk0LCxWj)**.**",
+      "original_url": "http://ehf.org/live-sessions",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://ehf.org/live-sessions"
+        },
+        {
+          "type": "other",
+          "url": "http://ehf.org/live-sessions"
+        },
+        {
+          "type": "other",
+          "url": "https://us02web.zoom.us/meeting/register/tZ0qcOCsrj4jH9DcBEJaYZ3UIYewdk0LCxWj"
+        },
+        {
+          "type": "other",
+          "url": "https://www.ehf.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://us02web.zoom.us/meeting/register/tZ0qcOCsrj4jH9DcBEJaYZ3UIYewdk0LCxWj"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Podcast episode I’m listening to",
+      "category": "podcast",
+      "title": "Sam Bankman-Fried and Matt Levine on How to Make Money in Crypto",
+      "creator": null,
+      "note": "on [_Odd Lots_](https://podcasts.apple.com/us/podcast/odd-lots/id1056200096) ([Apple Podcasts](https://podcasts.apple.com/us/podcast/sam-bankman-fried-and-matt-levine-on-how-to-make/id1056200096?i=1000558582549), [Spotify](https://open.spotify.com/episode/2SXncXpdjwH6WIxhM2V9zZ?si=oAXS_RwVQ2SEyq-sWMCmTw), [Overcast](https://overcast.fm/+5AWPbqRF0)). This takes 10–15 minutes to really warm up, but it covers a lot of excellent ground. It gets into some nitty-gritty finance stuff, but if you don’t understand a segment, keep listening and it will usually segue within a few minutes. Here’s the episode description: “The price of major cryptocurrencies like Bitcoin and Ethereum have been moving sideways for a while. But it doesn’t seem like there’s any slowdown in terms of money entering the space. Every day, some new fund is being launched or some legacy financial institution is diving into it. But what’s all this money going to do? On this episode, we speak with [Sam Bankman-Fried](https://en.wikipedia.org/wiki/Sam_Bankman-Fried) ([@sbf\\_ftx](https://mobile.twitter.com/sbf_ftx)), the CEO and co-founder of FTX, as well as _Bloomberg_ Opinion columnist [Matt Levine](https://en.wikipedia.org/wiki/Matt_Levine_(columnist)) ([@matt\\_levine](https://twitter.com/matt_levine)) about the moneymaking opportunities that people are exploiting, whether it’s directional bets on coins or yield farming or arbitrage, and how much potential profit there is for the taking.”",
+      "original_url": "https://podcasts.apple.com/us/podcast/sam-bankman-fried-and-matt-levine-on-how-to-make/id1056200096?i=1000558582549",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://podcasts.apple.com/us/podcast/sam-bankman-fried-and-matt-levine-on-how-to-make/id1056200096?i=1000558582549"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/odd-lots/id1056200096"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/sam-bankman-fried-and-matt-levine-on-how-to-make/id1056200096?i=1000558582549"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/2SXncXpdjwH6WIxhM2V9zZ?si=oAXS_RwVQ2SEyq-sWMCmTw"
+        },
+        {
+          "type": "other",
+          "url": "https://overcast.fm/+5AWPbqRF0"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Sam_Bankman-Fried"
+        },
+        {
+          "type": "other",
+          "url": "https://mobile.twitter.com/sbf_ftx"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Matt_Levine_(columnist"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/matt_levine"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m preparing for you all",
+      "category": "other",
+      "title": "The 4-Hour Workweek",
+      "creator": null,
+      "note": ", which was first published on April 24th, 2007 (4/24/07), I am signing and giving away 424 copies of the book!** To toss your hat in the ring, [please fill out this form](https://forms.gle/rhy2xvBWrcxP4BPR9) before 11:59 PM PT on Tuesday, May 10th, 2022, and my team will select 424 folks at random as lucky winners. My team will notify the winners no later than next Friday at 5 PM PT. A few copies might be slightly damaged from shipping, but consider that a feature and not a bug… some are the early 2007 edition that have traveled with me since publication!",
+      "original_url": "https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357/"
+        },
+        {
+          "type": "other",
+          "url": "https://forms.gle/rhy2xvBWrcxP4BPR9"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quotes I’m pondering",
+      "category": "quote",
+      "title": "“Always forgive your enemies; nothing annoys them so much.” — Attributed to Oscar Wilde “You can’t forgive without loving. And I don’t mean sentimentality. I don’t mean mush. I mean having enough courage to stand up and say, ‘I forgive. I’m finished with it.’” — Maya Angelou And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Attributed to Oscar Wilde “You can’t forgive without loving. And I don’t mean sentimentality. I don’t mean mush. I mean having enough courage to stand up and say, ‘I forgive. I’m finished with it.’” — Maya Angelou And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Oscar_Wilde",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Oscar_Wilde"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Maya_Angelou"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,132 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "One of my favorite rosés for summer sipping —",
+      "category": "other",
+      "title": "The Wölffer Estate Rosé",
+      "creator": null,
+      "note": "from Long Island.\n\n**Documentary I’m watching again —  \n[An Honest Liar](https://el2.fourhourmail.com/c/lmun74z88amhveonn/opfkhq/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Ib25lc3QtTGlhci1KYW1lcy1BbWF6aW5nLVJhbmRpL2RwL0IwMFo5UUVWVkUv).** An Honest Liar is a documentary about James 'The Amazing' Randi, the world-famous magician, escape artist, and enemy of deception. Randi publicly exposed psychics, faith healers, and con-artists with quasi-religious fervor. But when there is a shocking revelation in Randi's personal life, it isn't clear whether Randi is still the deceiver…or the deceived. Entertaining and informative, this is a real joy to watch. Special thanks to filmmaker Jon Favreau ([@Jon\\_Favreau](https://el2.fourhourmail.com/c/lmun74z88amhveonn/zvtghn/aHR0cHM6Ly90d2l0dGVyLmNvbS9Kb25fRmF2cmVhdQ==) on Twitter; [my interview with him here](https://el2.fourhourmail.com/c/lmun74z88amhveonn/pnceh9/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzA0LzE0L2pvbi1mYXZyZWF1Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=)) for first mentioning ‘The Amazing’ Randi to me.",
+      "original_url": "https://el2.fourhourmail.com/c/lmun74z88amhveonn/78i7h8/aHR0cHM6Ly9zdG9yZS53b2xmZmVyLmNvbS9wcm9kdWN0L0VzdGF0ZS1Sb3MtLTIwMTY=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhveonn/78i7h8/aHR0cHM6Ly9zdG9yZS53b2xmZmVyLmNvbS9wcm9kdWN0L0VzdGF0ZS1Sb3MtLTIwMTY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhveonn/opfkhq/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Ib25lc3QtTGlhci1KYW1lcy1BbWF6aW5nLVJhbmRpL2RwL0IwMFo5UUVWVkUv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhveonn/zvtghn/aHR0cHM6Ly90d2l0dGVyLmNvbS9Kb25fRmF2cmVhdQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhveonn/pnceh9/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzA0LzE0L2pvbi1mYXZyZWF1Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Exercise that’s dramatically helping my lower-leg rehab (could also be used for injury prevention) —",
+      "category": "other",
+      "title": "AIREX balance pad",
+      "creator": null,
+      "note": ", which does the job. Key point: at the bottom of each repetition (dumbbell closest to the ground), switch the weight to your other hand, then back to the original hand, then complete the rep. I perform 8-12 reps of on each side for one set, repeated for three total sets with one minute rest between sets. Start off very light (e.g., 5-10-pound dumbbell). Here is [a sample video](https://el2.fourhourmail.com/c/lmun74z88amhveonn/60aeh8/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1PTlZXNE5JM2YtTSZmZWF0dXJlPXlvdXR1LmJl) of the exercise, which you would do on a shifting surface.",
+      "original_url": "https://el2.fourhourmail.com/c/lmun74z88amhveonn/xksph6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9kcC9CMDAwMEFKMDlML3JlZj10d2lzdGVyX0IwMERCTlZHRlE_X2VuY29kaW5nPVVURjgmcHNjPTE=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhveonn/xksph6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9kcC9CMDAwMEFKMDlML3JlZj10d2lzdGVyX0IwMERCTlZHRlE_X2VuY29kaW5nPVVURjgmcHNjPTE="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhveonn/60aeh8/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1PTlZXNE5JM2YtTSZmZWF0dXJlPXlvdXR1LmJl"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Person I’m following on Twitter —",
+      "category": "other",
+      "title": "@ThisIsDavidGelb",
+      "creator": null,
+      "note": "), bio on Twitter:** “Creator of [Jiro Dreams of Sushi](https://el2.fourhourmail.com/c/lmun74z88amhveonn/52hvh7/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9KaXJvLURyZWFtcy1TdXNoaS1EYXZpZC1HZWxiL2RwL0IwMDhPRFpFUTAv) and [Chef's Table](https://el2.fourhourmail.com/c/lmun74z88amhveonn/2ou2ho/aHR0cHM6Ly93d3cubmV0ZmxpeC5jb20vdGl0bGUvODAwMDc5NDU=). Director of VR original doc series [The Possible](https://el2.fourhourmail.com/c/lmun74z88amhveonn/q3i8h7/aHR0cHM6Ly93d3cud2l0aC5pbi93YXRjaC90aGUtcG9zc2libGUtaGVsbG8tcm9ib3Q=) on [@within](https://el2.fourhourmail.com/c/lmun74z88amhveonn/gvfnh5/aHR0cHM6Ly90d2l0dGVyLmNvbS93aXRoaW4=).” Here’s [a fun piece of trivia](https://el2.fourhourmail.com/c/lmun74z88amhveonn/93tzhn/aHR0cHM6Ly93d3cuaW5kaWV3aXJlLmNvbS8yMDEyLzAzL2Z1dHVyZXMtamlyby1kcmVhbXMtb2Ytc3VzaGktZGlyZWN0b3ItZGF2aWQtZ2VsYi1vbi1jYXB0dXJpbmctb25lLW9mLWphcGFucy1uYXRpb25hbC10cmVhc3VyZXMtNDg5MTgv) about the origin story of Jiro Dreams of Sushi: “I was watching the BBC documentary ‘[Planet Earth](https://el2.fourhourmail.com/c/lmun74z88amhveonn/3wcphk/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9ncC92aWRlby9kZXRhaWwvQjAwMzIxTUdQRy9yZWY9bXN4X3duX2F2)’ and I got to thinking that somebody should make a ‘Planet Sushi’ using really cool cinematography to film sushi in an artistic way.”",
+      "original_url": "https://el2.fourhourmail.com/c/lmun74z88amhveonn/kmbmh6/aHR0cHM6Ly90d2l0dGVyLmNvbS9UaGlzSXNEYXZpZEdlbGI=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhveonn/kmbmh6/aHR0cHM6Ly90d2l0dGVyLmNvbS9UaGlzSXNEYXZpZEdlbGI="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhveonn/52hvh7/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9KaXJvLURyZWFtcy1TdXNoaS1EYXZpZC1HZWxiL2RwL0IwMDhPRFpFUTAv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhveonn/2ou2ho/aHR0cHM6Ly93d3cubmV0ZmxpeC5jb20vdGl0bGUvODAwMDc5NDU="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhveonn/q3i8h7/aHR0cHM6Ly93d3cud2l0aC5pbi93YXRjaC90aGUtcG9zc2libGUtaGVsbG8tcm9ib3Q="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhveonn/gvfnh5/aHR0cHM6Ly90d2l0dGVyLmNvbS93aXRoaW4="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhveonn/93tzhn/aHR0cHM6Ly93d3cuaW5kaWV3aXJlLmNvbS8yMDEyLzAzL2Z1dHVyZXMtamlyby1kcmVhbXMtb2Ytc3VzaGktZGlyZWN0b3ItZGF2aWQtZ2VsYi1vbi1jYXB0dXJpbmctb25lLW9mLWphcGFucy1uYXRpb25hbC10cmVhc3VyZXMtNDg5MTgv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhveonn/3wcphk/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9ncC92aWRlby9kZXRhaWwvQjAwMzIxTUdQRy9yZWY9bXN4X3duX2F2"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering, which may or may not conflict with Randi above —",
+      "category": "quote",
+      "title": "“The supernatural is the natural not yet understood.” — Elbert Hubbard [](https://el2.fourhourmail.com/c/lmun74z88amhveonn/43avhe/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRWxiZXJ0X0h1YmJhcmQ=) [](https://el2.fourhourmail.com/c/lmun74z88amhveonn/w4b2hg/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUnVtaQ==) [](https://el2.fourhourmail.com/c/lmun74z88amhveonn/rxh8ho/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSm9obl9NdWly) [](https://el2.fourhourmail.com/c/lmun74z88amhveonn/0luwh9/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSm9obl9NdWly)And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim [](https://el2.fourhourmail.com/c/lmun74z88amhveonn/vzf3hr/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #508, Austin TX 78703, United States",
+      "creator": "Elbert Hubbard",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/lmun74z88amhveonn/nesohv/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRWxiZXJ0X0h1YmJhcmQ=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhveonn/nesohv/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRWxiZXJ0X0h1YmJhcmQ="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhveonn/8viqho/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhveonn/lotehm/aHR0cDovL2dvLmZvdXJob3Vyd29ya3dlZWsuY29tLzEweC1vdXRwdXQv"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/lmun74z88amhveonn"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhveonn/d0pseh0/aHR0cDovL2ZvdXJob3Vyd29ya3dlZWsuY29tL2Jsb2c="
+        }
+      ]
+    }
+  ]
 }

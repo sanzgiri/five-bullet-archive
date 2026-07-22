@@ -7,7 +7,195 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "book",
+      "title": "Joyful Wisdom: Embracing Change and Finding Freedom",
+      "creator": "Yongey Mingyur Rinpoche",
+      "note": ". This book was first recommended to me by the phenom that is [Safi Bahcall](https://tim.blog/2019/08/16/safi-bahcall/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), a former physicist and founder of a publicly-traded biotech company, who also knows hypnotism and a dozen other fields inside and out. It took me more than a year to dig into _Joyful Wisdom_, as I was turned off by the title. I expected another rinse and repeat of the usual Buddhist bag o’ tricks, which have never quite clicked for me. Much to my surprise, I quickly found insights, analogies, and practices that \\*did\\* stick in the first 100 pages.",
+      "original_url": "https://www.amazon.com/Joyful-Wisdom-Embracing-Finding-Freedom/dp/0307407802",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Joyful-Wisdom-Embracing-Finding-Freedom/dp/0307407802"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Yongey_Mingyur_Rinpoche"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/08/16/safi-bahcall/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m using twice a week —",
+      "category": "other",
+      "title": "Hand balance boards for handstands and hand balancing",
+      "creator": null,
+      "note": "([here’s their site](https://beyond-balance.net/products/balance-board) if Amazon sells out). I’ve been getting back into spending time upside down. Specifically, I’m working on hand balancing. For a glimpse of mutant abilities and inspiration, check out [Andrii Bondarenko](https://www.instagram.com/andrii_bondarenko/feed/). For an easier starting point, or to save your wrists, check out the [FeetUp trainer](https://feetup.com/products/feetup-trainer-classic-white). Are you a pro? I’d love your top 2–3 training tips! Please let me know at [@tferriss on Twitter](https://twitter.com/tferriss) and **add #handstands** so I can find you.",
+      "original_url": "https://www.amazon.com/Balance-Board-Denver-Circus-Supply/dp/B078W2S7FY/ref=sr_1_3?dchild=1&keywords=beyond+balance+handstand&sr=8-3",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Balance-Board-Denver-Circus-Supply/dp/B078W2S7FY/ref=sr_1_3?dchild=1&keywords=beyond+balance+handstand&sr=8-3"
+        },
+        {
+          "type": "other",
+          "url": "https://beyond-balance.net/products/balance-board"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/andrii_bondarenko/feed/"
+        },
+        {
+          "type": "other",
+          "url": "https://feetup.com/products/feetup-trainer-classic-white"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Syria",
+      "creator": "Unders",
+      "note": "(**[**YouTube**](https://www.youtube.com/watch?v=G5TBWxjnaIE)**,** [**Spotify**](https://open.spotify.com/track/3rkge8kur9i26zpByFKvBu)**) by** [**Unders**](https://www.unders.nl/) **(**[**@undersmusic**](https://www.instagram.com/undersmusic/)**).  \n  \n**",
+      "original_url": "https://www.youtube.com/watch?v=G5TBWxjnaIE",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=G5TBWxjnaIE"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=G5TBWxjnaIE"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/3rkge8kur9i26zpByFKvBu"
+        },
+        {
+          "type": "other",
+          "url": "https://www.unders.nl/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/undersmusic/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Science and big news that I’m thrilled about —",
+      "category": "research",
+      "title": "published this week",
+      "creator": null,
+      "note": "was [published this week](https://www.hopkinsmedicine.org/news/newsroom/news-releases/psychedelic-treatment-with-psilocybin-relieves-major-depression-study-shows) in _JAMA Psychiatry_ ([@JAMAPsych](https://twitter.com/JAMAPsych)), and it doesn’t disappoint. ⁣Here are a few eye-opening highlights:⁣ ⁣  \n  \n_“The magnitude of the effect we saw was about_ **_four times larger than what clinical trials have shown for traditional antidepressants on the market_**_,” says Alan Davis, Ph.D.⁣  \n  \n_\\[...\\]⁣  \n  \n_For the entire group of 24 participants, 67% showed a more than 50% reduction in depression symptoms at the one-week follow-up and 71% at the four-week follow-up._ **_Overall, four weeks post-treatment, 54% of participants were considered in remission – meaning they no longer qualified as being depressed.  \n  \n_**Huge congratulations to the entire team at the [Johns Hopkins Psychedelic Research Center](https://hopkinspsychedelic.org/) ([@JHPsychedelics](https://twitter.com/JHPsychedelics)). I believe this study to be a critically important proof of concept for the medical approval of psilocybin for treatment of depression, a condition I have personally struggled with for decades.⁣  \n  \nSpecial thanks to everyone who supported this study in the earliest stages, including [Cody Swift](https://www.riverstyxfoundation.org/staff) ([RiverStyx Foundation](https://www.riverstyxfoundation.org/)), [Dave Morin](https://twitter.com/davemorin) ([Sunrise Foundation](https://www.sunrise.bio/)), and [all of the superstars](https://web.archive.org/web/20190803211230/http://crowdrise.com/timferriss) who participated in the [CrowdRise fundraiser](https://web.archive.org/web/20190803211230/http://crowdrise.com/timferriss) (now GoFundMe) so long ago.It’s been a huge week in psychedelic developments nationwide, especially in Oregon. Read more here:  \n[Oregon becomes first state to legalize magic mushrooms as more states ease drug laws in ‘psychedelic renaissance’](https://www.cnbc.com/2020/11/04/oregon-becomes-first-state-to-legalize-magic-mushrooms-as-more-states-ease-drug-laws.html) (CNBC)  \n[Oregon just voted to legalize magic mushrooms. Here’s what that actually means.](https://www.popsci.com/story/health/psilocybin-magic-mushroom-legal/) (_Popular Science)  \n_[Oregon Just Became the First State to Legalize Access to Magic Mushrooms](https://www.motherjones.com/2020-elections/2020/11/oregon-legalize-magic-mushrooms-psilocybin-measure-109/) (_Mother Jones)_  \nKudos to all Oregonians who supported this, as well as early financial and strategic supporters, including [David Bronner](https://en.wikipedia.org/wiki/David_Bronner), his family, and [Dr. Bronner’s](https://twitter.com/DrBronner); [Graham Boyd](https://psfc.co/board-of-directors) and [PSFC](https://psfc.co/); and many others who played pivotal roles.",
+      "original_url": "https://www.hopkinsmedicine.org/news/newsroom/news-releases/psychedelic-treatment-with-psilocybin-relieves-major-depression-study-shows",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.hopkinsmedicine.org/news/newsroom/news-releases/psychedelic-treatment-with-psilocybin-relieves-major-depression-study-shows"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/JAMAPsych"
+        },
+        {
+          "type": "other",
+          "url": "https://hopkinspsychedelic.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/JHPsychedelics"
+        },
+        {
+          "type": "other",
+          "url": "https://www.riverstyxfoundation.org/staff"
+        },
+        {
+          "type": "other",
+          "url": "https://www.riverstyxfoundation.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/davemorin"
+        },
+        {
+          "type": "other",
+          "url": "https://www.sunrise.bio/"
+        },
+        {
+          "type": "other",
+          "url": "https://web.archive.org/web/20190803211230/http://crowdrise.com/timferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://web.archive.org/web/20190803211230/http://crowdrise.com/timferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://www.cnbc.com/2020/11/04/oregon-becomes-first-state-to-legalize-magic-mushrooms-as-more-states-ease-drug-laws.html"
+        },
+        {
+          "type": "other",
+          "url": "https://www.popsci.com/story/health/psilocybin-magic-mushroom-legal/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.motherjones.com/2020-elections/2020/11/oregon-legalize-magic-mushrooms-psilocybin-measure-109/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/David_Bronner"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/DrBronner"
+        },
+        {
+          "type": "other",
+          "url": "https://psfc.co/board-of-directors"
+        },
+        {
+          "type": "other",
+          "url": "https://psfc.co/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Poem I’m pondering —",
+      "category": "other",
+      "title": "Mary Oliver",
+      "creator": null,
+      "note": "(Thank you to [Jim Dethmer](https://tim.blog/2020/05/18/jim-dethmer/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) for bringing this poem back to my attention.)And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all.  \n  \nMuch love to you and yours,  \n  \nTim",
+      "original_url": "https://en.wikipedia.org/wiki/Mary_Oliver",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Mary_Oliver"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/05/18/jim-dethmer/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

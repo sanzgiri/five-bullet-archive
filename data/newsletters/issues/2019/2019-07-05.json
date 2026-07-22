@@ -7,7 +7,143 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Inside Apple’s plan to protect a 27,000-acre forest in Colombia",
+      "creator": null,
+      "note": "(**[**Fast Company**](https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/krfmh6h563q6d0/aHR0cHM6Ly90d2l0dGVyLmNvbS9GYXN0Q29tcGFueQ==)**).**",
+      "original_url": "https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/xwiph6hp9l69r6/aHR0cHM6Ly93d3cuZmFzdGNvbXBhbnkuY29tLzkwMzM4MTA4L2luc2lkZS1hcHBsZXMtcGxhbi10by1wcm90ZWN0LWEtMjcwMDAtYWNyZS1mb3Jlc3QtaW4tY29sb21iaWE=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/xwiph6hp9l69r6/aHR0cHM6Ly93d3cuZmFzdGNvbXBhbnkuY29tLzkwMzM4MTA4L2luc2lkZS1hcHBsZXMtcGxhbi10by1wcm90ZWN0LWEtMjcwMDAtYWNyZS1mb3Jlc3QtaW4tY29sb21iaWE="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/krfmh6h563q6d0/aHR0cHM6Ly90d2l0dGVyLmNvbS9GYXN0Q29tcGFueQ=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Documentary I’m watching —",
+      "category": "video",
+      "title": "Amazon",
+      "creator": null,
+      "note": "and** [**iTunes**](https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/gzcnh5hl6k56dq/aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL21vdmllL3NvbW0vaWQxMDQ3MjMwMjM3P2lnbi1tcHQ9dW8lM0Q1)**).** I first heard about this doc in blog comments after I interviewed [the brilliant and well-tattooed Richard Betts](https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/3esphkh24nl4ok/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzEwLzA1L3JpY2hhcmQtYmV0dHMvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg==). Richard passed the infamous Court of Master Sommeliers’ Masters Exam on his first attempt, becoming the ninth person in history ever to do so. It’s a Mount Everest BITCH of a test, and [only 256 people](https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/4navhehp6ne653/aHR0cHM6Ly93d3cubWFzdGVyc29tbWVsaWVycy5vcmcvYWJvdXQ=) have passed—in total and globally—over the last _40 years_(!). I put off watching this film because I feared it would be too highfalutin for this Long Island boy. Now, having seen it, I’m sorry I didn’t watch _SOMM_ ages ago. It’s a wonderful, brutal, endearing, and hilarious (especially the ball-busting scenes during study sessions) story of a few young men trying to find their place in the world by tackling something incredibly difficult. The editing is spot on, and you’re really cheering for these guys by the end. I loved it.\n\nHere’s the official description: “Four men will do anything to pass the most difficult test you've never heard of. The Court of Master Sommeliers is one of the world's most exclusive organizations with an exam that covers every nuance of the world of wine, spirits and cigars. How much do you think you know about wine? SOMM will make you think again.”",
+      "original_url": "https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/29t2hoh84ez4vk/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Tb21tLUJyaWFuLU1jQ2xpbnRpYy9kcC9CMDFNNExaUDdZL3JlZj1zcl8xXzE_a2V5d29yZHM9c29tbSZxaWQ9MTU2MjIwMzc5MSZzPWluc3RhbnQtdmlkZW8mc3I9MS0x",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/29t2hoh84ez4vk/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Tb21tLUJyaWFuLU1jQ2xpbnRpYy9kcC9CMDFNNExaUDdZL3JlZj1zcl8xXzE_a2V5d29yZHM9c29tbSZxaWQ9MTU2MjIwMzc5MSZzPWluc3RhbnQtdmlkZW8mc3I9MS0x"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/gzcnh5hl6k56dq/aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL21vdmllL3NvbW0vaWQxMDQ3MjMwMjM3P2lnbi1tcHQ9dW8lM0Q1"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/3esphkh24nl4ok/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzEwLzA1L3JpY2hhcmQtYmV0dHMvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/4navhehp6ne653/aHR0cHM6Ly93d3cubWFzdGVyc29tbWVsaWVycy5vcmcvYWJvdXQ="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Person I’m learning more about —",
+      "category": "other",
+      "title": "Stephen Wolfram",
+      "creator": null,
+      "note": "Stephen is a computer scientist, physicist, and businessman. He is best known for his work in computer science, mathematics, and theoretical physics. In 2012, he was named an inaugural fellow of the American Mathematical Society. As an entrepreneur, he is the founder and CEO of the software company [Wolfram Research](https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/8dhqhoh2qxvq2e/aHR0cDovL3d3dy53b2xmcmFtLmNvbS8=), where he has worked as chief designer of Mathematica and the Wolfram|Alpha answer engine.",
+      "original_url": "https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/rwb8hoh3werw28/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvU3RlcGhlbl9Xb2xmcmFt",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/rwb8hoh3werw28/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvU3RlcGhlbl9Xb2xmcmFt"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/8dhqhoh2qxvq2e/aHR0cDovL3d3dy53b2xmcmFtLmNvbS8="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Podcast I’m listening to —",
+      "category": "podcast",
+      "title": "Distributed, with Matt Mullenweg",
+      "creator": null,
+      "note": "Finally, my friend [Matt Mullenweg](https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/doieh0ho8mg8oo/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzAyLzA5L21hdHQtbXVsbGVud2VnLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=) ([@photomatt](https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/72f7h8h6wm7w68/aHR0cHM6Ly90d2l0dGVyLmNvbS9waG90b21hdHQ=)) has a podcast. He is the founder of a ~900-person company ([Automattic](https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/zptghnhkp8vpkr/aHR0cHM6Ly9hdXRvbWF0dGljLmNvbS8=)) that has no offices; employees are distributed across 68 countries. He is one of the friends I call most for advice on a wide range of subjects, including product development, open-source projects, investing, and music.",
+      "original_url": "https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/leuehmhn6z96n0/aHR0cHM6Ly9kaXN0cmlidXRlZC5ibG9nL3BvZGNhc3Qv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/leuehmhn6z96n0/aHR0cHM6Ly9kaXN0cmlidXRlZC5ibG9nL3BvZGNhc3Qv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/doieh0ho8mg8oo/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzAyLzA5L21hdHQtbXVsbGVud2VnLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/72f7h8h6wm7w68/aHR0cHM6Ly90d2l0dGVyLmNvbS9waG90b21hdHQ="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/zptghnhkp8vpkr/aHR0cHM6Ly9hdXRvbWF0dGljLmNvbS8="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Anxiety is the dizziness of freedom.” ― Søren Kierkegaard And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim P.S. Just two short notes involving the number four… - I just realized this week that the podcast shot past 400 million episode downloads roughly a month ago. Thanks so much for listening, all! Since the episodes average around two hours (often much more), I’m eagerly looking forward to hitting the 1B-hours-downloaded mark, which should happen soon. 1,000,000,000 hours is truly mind boggling. Check this out for some fun comparisons. My sincerest thanks to all y’all, and to my incredible team, without which the podcast would not be possible. I’m incredibly lucky and incredibly grateful. - Happy 4th of July weekend, everyone! May peace be with you and yours. 🙏 [](https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/gdbnh5hl6k56l3/aHR0cHM6Ly90aW0uYmxvZy90aW0tZmVycmlzcy1ib29rcy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9zb3VyY2U9bWVkaXVtPTViZi10ZW1wbGF0ZS1oZWFkZXI=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/xrcph6hp9l69pl/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUyVDMyVCOHJlbl9LaWVya2VnYWFyZA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/xrcph6hp9l69pl/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUyVDMyVCOHJlbl9LaWVya2VnYWFyZA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/k9smh6h563q659/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/2ga2hoh84ez487/aHR0cHM6Ly93d3cuYmFyY28uY29tL2VuL25ld3MvMjAxNS0wOC0xMS0xLWJpbGxpb24taG91cnMtaXMtYS1sb25nLXRpbWUtYnV0LWp1c3QtZXhhY3RseS1ob3ctbG9uZw=="
+        },
+        {
+          "type": "other",
+          "url": "https://files.convertkitcdn.com/assets/pictures/11125/2272828/content_Book_Header_FINAL.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/3nhphkh24nl423/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/o8uvgq544hqh4qd28cd"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/o8uvgq544hqh4qd28cd/lwiehmhn6z9602/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

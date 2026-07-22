@@ -7,7 +7,127 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading (very short) —",
+      "category": "article",
+      "title": "Why I Am a Bad Correspondent",
+      "creator": "Neal Stephenson",
+      "note": "fourhourmail.com/c/p9urq7wddu9h9609x/mwf7h5hqn7e2w5/aHR0cHM6Ly90d2l0dGVyLmNvbS9uZWFsc3RlcGhlbnNvbg==)), one of my favorite sci-fi writers. This short, anti-comms blog post contains gems like this: “The quality of my e-mails and public speaking is, in my view, nowhere near that of my novels. So for me it comes down to the following choice: I can distribute material of bad-to-mediocre quality to a small number of people, or I can distribute material of higher quality to more people. But I can’t do both; the first one obliterates the second.”",
+      "original_url": "https://el2.fourhourmail.com/c/p9urq7wddu9h9609x/v0i3hrhvkdgm8l/aHR0cHM6Ly93d3cubmVhbHN0ZXBoZW5zb24uY29tL3doeS1pLWFtLWEtYmFkLWNvcnJlc3BvbmRlbnQuaHRtbA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h9609x/v0i3hrhvkdgm8l/aHR0cHM6Ly93d3cubmVhbHN0ZXBoZW5zb24uY29tL3doeS1pLWFtLWEtYmFkLWNvcnJlc3BvbmRlbnQuaHRtbA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h9609x/mwf7h5hqn7e2w5/aHR0cHM6Ly90d2l0dGVyLmNvbS9uZWFsc3RlcGhlbnNvbg=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Person I’m once again researching —",
+      "category": "research",
+      "title": "Bertrand Russell",
+      "creator": null,
+      "note": ", the British philosopher, logician, mathematician, historian, writer, essayist, social critic, political activist, and Nobel laureate. In 1950, Russell was awarded the Nobel Prize in Literature “in recognition of his varied and significant writings in which he champions humanitarian ideals and freedom of thought.”",
+      "original_url": "https://el2.fourhourmail.com/c/p9urq7wddu9h9609x/extph7hln24m5o/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQmVydHJhbmRfUnVzc2VsbA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h9609x/extph7hln24m5o/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQmVydHJhbmRfUnVzc2VsbA=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Podcast I’m listening to —",
+      "category": "podcast",
+      "title": "To Live and Die in LA",
+      "creator": null,
+      "note": "Official description: “In Feb 2018, an aspiring actress vanished from her Hollywood apartment. _Rolling Stone_ journalist [Neil Strauss](https://el2.fourhourmail.com/c/p9urq7wddu9h9609x/pmseh9h27lxr8w/aHR0cHM6Ly90aW0uYmxvZy8yMDE0LzA2LzI0L25laWwtc3RyYXVzcy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm) was asked to help the family get answers. Together, they found them...sometimes at great personal risk. For the first time in a serial podcast, go inside a gripping multi-state investigation as it unfolds from the moment of the disappearance to each twist and turn in the case.”",
+      "original_url": "https://el2.fourhourmail.com/c/p9urq7wddu9h9609x/o0ckhqh687ox5v/aHR0cHM6Ly9wb2RjYXN0cy5hcHBsZS5jb20vdXMvcG9kY2FzdC90by1saXZlLWFuZC1kaWUtaW4tbGEvaWQxNDUzNzg4OTY1P210PTI=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h9609x/o0ckhqh687ox5v/aHR0cHM6Ly9wb2RjYXN0cy5hcHBsZS5jb20vdXMvcG9kY2FzdC90by1saXZlLWFuZC1kaWUtaW4tbGEvaWQxNDUzNzg4OTY1P210PTI="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h9609x/pmseh9h27lxr8w/aHR0cHM6Ly90aW0uYmxvZy8yMDE0LzA2LzI0L25laWwtc3RyYXVzcy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "New favorite shop in NYC —",
+      "category": "other",
+      "title": "Fountain Pen Hospital",
+      "creator": null,
+      "note": "“Fountain Pen Hospital was founded in 1946 by Phil Wiederlight and Al Wiederlight (the father and grandfather, respectively, of today's proprietors – Terry and Steve Wiederlight). Terry and Steve have a combined 60 years experience in all phases of vintage and modern writing instruments.” Special thanks to [Neil Gaiman](https://el2.fourhourmail.com/c/p9urq7wddu9h9609x/59bvh7hn9z73l6/aHR0cHM6Ly90aW0uYmxvZy8yMDE5LzAzLzI4L25laWwtZ2FpbWFuLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=) for recommending it during [our interview together](https://el2.fourhourmail.com/c/p9urq7wddu9h9609x/22h2hoh8oedlnm/aHR0cHM6Ly90aW0uYmxvZy8yMDE5LzAzLzI4L25laWwtZ2FpbWFuLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=), in which he described how and why he does so much writing by hand.",
+      "original_url": "https://el2.fourhourmail.com/c/p9urq7wddu9h9609x/60aeh8h52dox0m/aHR0cHM6Ly93d3cuZm91bnRhaW5wZW5ob3NwaXRhbC5jb20v",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h9609x/60aeh8h52dox0m/aHR0cHM6Ly93d3cuZm91bnRhaW5wZW5ob3NwaXRhbC5jb20v"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h9609x/59bvh7hn9z73l6/aHR0cHM6Ly90aW0uYmxvZy8yMDE5LzAzLzI4L25laWwtZ2FpbWFuLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h9609x/22h2hoh8oedlnm/aHR0cHM6Ly90aW0uYmxvZy8yMDE5LzAzLzI4L25laWwtZ2FpbWFuLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“What do you despise? By this are you truly known.” ― Frank Herbert, Dune And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim [](https://el2.fourhourmail.com/c/p9urq7wddu9h9609x/00twh9h97kznno/aHR0cHM6Ly90aW0uYmxvZy9zdXBwb3J0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmYtdGVtcGxhdGU=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/p9urq7wddu9h9609x/9guzhnh62l94n8/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRnJhbmtfSGVyYmVydA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h9609x/9guzhnh62l94n8/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRnJhbmtfSGVyYmVydA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h9609x/n8iohvhxokr2ed/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRHVuZV8obm92ZWwp"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h9609x/w9f2hghko3gmm9/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/2207407/content_content_Tim_Ferriss_Show_Final.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h9609x/lrcehmhnkzrqq4/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/p9urq7wddu9h9609x"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h9609x/5navh7hn9z73ll/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

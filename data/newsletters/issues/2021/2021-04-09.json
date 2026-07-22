@@ -6,7 +6,123 @@
     "gmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": false,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading (short) —",
+      "category": "article",
+      "title": "The Four Buddhist Mantras for Turning Fear into Love",
+      "creator": "Maria Popova",
+      "note": "([@brainpicker](https://twitter.com/brainpicker)). Thanks to JZ for the recommendation.",
+      "original_url": "https://www.brainpickings.org/2020/12/01/thich-nhat-hanh-fear-love/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.brainpickings.org/2020/12/01/thich-nhat-hanh-fear-love/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/10/21/brain-pickings/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/brainpicker"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading (longer) —",
+      "category": "article",
+      "title": "This Oddball Chef Wants to Serve You Wild Animals",
+      "creator": "Daniel Duane",
+      "note": "([@danielduane](https://twitter.com/danielduane)) for Outside. Josh Skenes and I became friends circa 2011, just before the creation of [The 4-Hour Chef](https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/), and he appears extensively in its pages. I love his unorthodox approaches to both cooking and life. He’s still pushing the envelope. Trigger warning (pun intended): if you’re vegetarian or vegan, this article might not make for the most compatible reading. But if it whets your appetite, you can find more wild tales from Josh [in my podcast interview with him](https://tim.blog/2016/04/30/joshua-skenes-playing-with-fire/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf).",
+      "original_url": "https://www.outsideonline.com/2422056/joshua-skenes-secret-chef-revolution",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.outsideonline.com/2422056/joshua-skenes-secret-chef-revolution"
+        },
+        {
+          "type": "other",
+          "url": "https://www.outsideonline.com/1740941/daniel-duane"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/danielduane"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2016/04/30/joshua-skenes-playing-with-fire/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Documentary I’m revisiting —",
+      "category": "video",
+      "title": "RBG",
+      "creator": null,
+      "note": "Description: “At the age of 85, U.S. Supreme Court Justice Ruth Bader Ginsburg has developed a lengthy legal legacy while becoming an unexpected pop culture icon. Explore her unique and unknown personal journey of her rise to the nation’s highest court.” May she rest in peace.",
+      "original_url": "https://www.amazon.com/RBG-Ruth-Bader-Ginsburg/dp/B07CT8KKRZ",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/RBG-Ruth-Bader-Ginsburg/dp/B07CT8KKRZ"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Endangered Species",
+      "creator": "Nickodemus",
+      "note": "([YouTube](https://www.youtube.com/watch?v=UYaShTRs6NQ), [Spotify](https://open.spotify.com/album/5yk2ZpcB1q93OZ2tdkuEak?highlight=spotify:track:5dF3DJfd1GXtk1CjkOyqtq)) by [Nickodemus](https://twitter.com/NickodemusNYC) ([Raeo](https://www.raeo.net/) Remix)",
+      "original_url": "https://www.youtube.com/watch?v=UYaShTRs6NQ",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=UYaShTRs6NQ"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=UYaShTRs6NQ"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/album/5yk2ZpcB1q93OZ2tdkuEak?highlight=spotify:track:5dF3DJfd1GXtk1CjkOyqtq"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/NickodemusNYC"
+        },
+        {
+          "type": "other",
+          "url": "https://www.raeo.net/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Like our stomachs, our minds are hurt more often by overeating than by hunger.” (Ut stomachis sic ingeniis nausea sepius nocuit quam fames.) — Petrarch",
+      "creator": "Petrarch",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Petrarch",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Petrarch"
+        }
+      ]
+    }
+  ]
 }

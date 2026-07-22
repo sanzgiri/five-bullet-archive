@@ -1,13 +1,165 @@
 {
   "schema_version": 1,
   "issue_date": "2020-08-28",
-  "subject": "5-Bullet Friday — August 28, 2020 ",
+  "subject": "5-Bullet Friday — August 28, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Photographer whose work I’m reviewing again —",
+      "category": "other",
+      "title": "Junya Watanabe",
+      "creator": null,
+      "note": "(**[**@jungraphy**](https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/08hwh9h78v0o0lul/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9qdW5ncmFwaHlfLw==)**).** [Here is one of my recent favorites](https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/8ghqhoh54ze0e7bk/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0NBY2FqRHpBNWRVLw==), and [here is another](https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/vqh3hrhk5l2x26cg/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0NEaXlLUkdKUXdkLw==), but the best thing you can do is visit [his Instagram profile](https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/08hwh9h78v0o0lul/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9qdW5ncmFwaHlfLw==) and scroll for five minutes. There are so many gems, and experimental themes emerge as you look through his larger corpus. The visuals make me want to return to Tokyo immediately. #bladerunner",
+      "original_url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/reh8hoh584929gs2/aHR0cHM6Ly9jdWx0cmZhY2UuY28udWsvbmlnaHQtcGhvdG9ncmFwaHktanVueWEtd2F0YW5hYmUv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/reh8hoh584929gs2/aHR0cHM6Ly9jdWx0cmZhY2UuY28udWsvbmlnaHQtcGhvdG9ncmFwaHktanVueWEtd2F0YW5hYmUv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/08hwh9h78v0o0lul/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9qdW5ncmFwaHlfLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/8ghqhoh54ze0e7bk/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0NBY2FqRHpBNWRVLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/vqh3hrhk5l2x26cg/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0NEaXlLUkdKUXdkLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/08hwh9h78v0o0lul/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9qdW5ncmFwaHlfLw=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Joe Rogan Is the New Mainstream Media",
+      "creator": "Bari Weiss",
+      "note": "(****_New York Times_****)** by [Bari Weiss](https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/dpheh0h73vz444sm/aHR0cHM6Ly93d3cuYmFyaXdlaXNzLmNvbS8=) ([@bariweiss](https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/e0hph7hnx69pplb8/aHR0cHM6Ly90d2l0dGVyLmNvbS9iYXJpd2Vpc3M=)). For those seeking extra credit, you can read Bari’s [powerful resignation letter](https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/owhkhqh8zp3kklhv/aHR0cHM6Ly93d3cuYmFyaXdlaXNzLmNvbS9yZXNpZ25hdGlvbi1sZXR0ZXI=) from the NYT, which followed just 50 days later on July 14th.",
+      "original_url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/l2hehmhkge505gs6/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyMC8wNS8yNS9vcGluaW9uL2pvZS1yb2dhbi1zcG90aWZ5LXBvZGNhc3QuaHRtbA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/l2hehmhkge505gs6/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyMC8wNS8yNS9vcGluaW9uL2pvZS1yb2dhbi1zcG90aWZ5LXBvZGNhc3QuaHRtbA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/dpheh0h73vz444sm/aHR0cHM6Ly93d3cuYmFyaXdlaXNzLmNvbS8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/e0hph7hnx69pplb8/aHR0cHM6Ly90d2l0dGVyLmNvbS9iYXJpd2Vpc3M="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/owhkhqh8zp3kklhv/aHR0cHM6Ly93d3cuYmFyaXdlaXNzLmNvbS9yZXNpZ25hdGlvbi1sZXR0ZXI="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Old movie I’m rewatching —",
+      "category": "video",
+      "title": "The Neverending Story",
+      "creator": null,
+      "note": "This was both my favorite movie and favorite book for years as a kid. When I got in trouble in elementary school and was sent to detention, I would pretend like I hated the library, as it was one of the detention locations in our tiny school. As “punishment,” I would then get sent to the books and go straight to the shelf where I’d last stashed [_The Neverending Story_](https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/p8heh9h7vmk337iq/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9OZXZlcmVuZGluZy1TdG9yeS1NaWNoYWVsLUVuZGUvZHAvMDE0MDM4NjMzNS8=). I’d put it in the wrong section so that only I could find it! Watching the movie again as an adult, I was struck by a few things: (1) It ages really well. There are only a few old-school blue-screen portions that look antiquated, but the incredible animatronics and soundtrack still have magic. (2) There are some deeply philosophical themes and undertones that I didn’t get as a child but found helpful this time around. And (3) [Falkor](https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/x0hph6h7go8rrnf5/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTGlzdF9vZl9UaGVfTmV2ZXJlbmRpbmdfU3RvcnlfY2hhcmFjdGVycyNGYWxrb3I=) is still the best. If you’re not going to watch this movie but want a good teaser (spoiler alert!), [here is a short clip with the sinister Gmork](https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/kkhmh6h97rgddnfl/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj01c0VabU1lSDk2UQ==). For those who’ve already seen the movie, I highly suggest reading the book, which—like the [_His Dark Materials_](https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/58hvh7h9eqpvvkt6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9EYXJrLU1hdGVyaWFscy1ZZWFybGluZy0zLWJvb2stQm94ZWQvZHAvMDQ0MDQxOTUxNC8=) trilogy by Philip Pullman—has layers upon layers that are nearly impossible to translate to the screen.",
+      "original_url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/z2hghnhdgn9448ap/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1LRjNLN0phX0M1VQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/z2hghnhdgn9448ap/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1LRjNLN0phX0M1VQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/p8heh9h7vmk337iq/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9OZXZlcmVuZGluZy1TdG9yeS1NaWNoYWVsLUVuZGUvZHAvMDE0MDM4NjMzNS8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/x0hph6h7go8rrnf5/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTGlzdF9vZl9UaGVfTmV2ZXJlbmRpbmdfU3RvcnlfY2hhcmFjdGVycyNGYWxrb3I="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/kkhmh6h97rgddnfl/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj01c0VabU1lSDk2UQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/58hvh7h9eqpvvkt6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9EYXJrLU1hdGVyaWFscy1ZZWFybGluZy0zLWJvb2stQm94ZWQvZHAvMDQ0MDQxOTUxNC8="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Device I’m using daily —",
+      "category": "other",
+      "title": "YETI Rambler® 20 oz. Tumbler",
+      "creator": null,
+      "note": "I bought this in Austin at [YETI’s flagship store](https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/qvh8h7h6xzg77qhl/aHR0cHM6Ly93d3cueWV0aS5jb20vZW5fVVMvZmxhZ3NoaXAuaHRtbA==), and it travels with me everywhere. For the last few months, I’ve used it every morning to keep my tea hot (typically [chaga](https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/g3hnh5hzvr7ddgsr/aHR0cHM6Ly91cy5mb3Vyc2lnbWF0aWMuY29tL3Byb2R1Y3RzL2luc3RhbnQtY2hhZ2E=) or [pu-erh tea](https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/9qhzhnh270kqq0i9/aHR0cHM6Ly93d3cucGlxdWV0ZWEuY29tL2NvbGxlY3Rpb25zL2FsbC9wcm9kdWN0cy9wdWVyLWJsYWNr), plus [unsweetened Laird Superfood Creamer](https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/3ohphkhdw06oombr/aHR0cHM6Ly9sYWlyZHN1cGVyZm9vZC5jb20vcHJvZHVjdHMvbGFpcmQtc3VwZXJmb29kLXVuc3dlZXRlbmVkLW9yaWdpbmFsLWNyZWFtZXItbmV3)) and every afternoon to keep my iced tea cool. I don’t have to worry about condensation or water puddles on my table, and in my experience, it keeps things hot or cold for HOURS. The MagSlider™ magnetic closing mechanism is a much bigger deal than you’ll realize initially, especially for cleaning. [They are available with custom designs](https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/n2hohvhodmw880t6/aHR0cHM6Ly93d3cueWV0aS5jb20vZW5fVVMvY3VzdG9tLXNob3AtZHJpbmt3YXJlLmh0bWw=), and mine features [a Texas rattlesnake](https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/48hvheh2ovz55ecx/aHR0cHM6Ly93d3cueWV0aS5jb20vZW5fVVMvc3RhdGUtcHJpZGUuaHRtbA==). Here’s the official description: “Any tumbler that’s coming along for the ride needs to be tough enough to keep up. Our Rambler® 20 oz. is made from durable stainless steel with double-wall vacuum insulation to protect your hot or cold beverage at all costs. Like the entire Rambler Family, [the 20 oz. Tumbler](https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/25h2hoho56rvvdb3/aHR0cHM6Ly93d3cueWV0aS5jb20vZW5fVVMvZHJpbmt3YXJlL3JhbWJsZXItMjAtb3otdHVtYmxlci8yMTA3MTUwMDMwOS5odG1sI3N0YXJ0PTE=) and its lid are dishwasher safe for easy cleaning…. Available in Stainless, Duracoat™ colors and Seasonal finishes. Layered with an advanced, oleophobic coating (which is science for: it’s fingerprint-proof), tested to the highest level of UV resistance, and equally as dishwasher safe, durable, and insulated as its predecessors.”",
+      "original_url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/25h2hoho56rvvdb3/aHR0cHM6Ly93d3cueWV0aS5jb20vZW5fVVMvZHJpbmt3YXJlL3JhbWJsZXItMjAtb3otdHVtYmxlci8yMTA3MTUwMDMwOS5odG1sI3N0YXJ0PTE=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/25h2hoho56rvvdb3/aHR0cHM6Ly93d3cueWV0aS5jb20vZW5fVVMvZHJpbmt3YXJlL3JhbWJsZXItMjAtb3otdHVtYmxlci8yMTA3MTUwMDMwOS5odG1sI3N0YXJ0PTE="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/qvh8h7h6xzg77qhl/aHR0cHM6Ly93d3cueWV0aS5jb20vZW5fVVMvZmxhZ3NoaXAuaHRtbA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/g3hnh5hzvr7ddgsr/aHR0cHM6Ly91cy5mb3Vyc2lnbWF0aWMuY29tL3Byb2R1Y3RzL2luc3RhbnQtY2hhZ2E="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/9qhzhnh270kqq0i9/aHR0cHM6Ly93d3cucGlxdWV0ZWEuY29tL2NvbGxlY3Rpb25zL2FsbC9wcm9kdWN0cy9wdWVyLWJsYWNr"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/3ohphkhdw06oombr/aHR0cHM6Ly9sYWlyZHN1cGVyZm9vZC5jb20vcHJvZHVjdHMvbGFpcmQtc3VwZXJmb29kLXVuc3dlZXRlbmVkLW9yaWdpbmFsLWNyZWFtZXItbmV3"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/n2hohvhodmw880t6/aHR0cHM6Ly93d3cueWV0aS5jb20vZW5fVVMvY3VzdG9tLXNob3AtZHJpbmt3YXJlLmh0bWw="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/48hvheh2ovz55ecx/aHR0cHM6Ly93d3cueWV0aS5jb20vZW5fVVMvc3RhdGUtcHJpZGUuaHRtbA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/25h2hoho56rvvdb3/aHR0cHM6Ly93d3cueWV0aS5jb20vZW5fVVMvZHJpbmt3YXJlL3JhbWJsZXItMjAtb3otdHVtYmxlci8yMTA3MTUwMDMwOS5odG1sI3N0YXJ0PTE="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“With despair, true optimism begins: the optimism of the man who expects nothing, who knows he has no rights and nothing coming to him, who rejoices in counting on himself alone and in acting alone for the good of all.”— Jean-Paul Sartre And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Jean-Paul Sartre And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/wnh2hghozn9552s7/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSmVhbi1QYXVsX1NhcnRyZQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/wnh2hghozn9552s7/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSmVhbi1QYXVsX1NhcnRyZQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavh2go89hq/reh8hoh584922gu2/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    }
+  ]
 }

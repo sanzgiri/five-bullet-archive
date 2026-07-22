@@ -6,7 +6,294 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Food from Thin Air",
+      "creator": "Sarah Kuta",
+      "note": ". Teaser: “It sounds like science fiction, but Johns Hopkins scientists are making food from air. The revolutionary project could someday help feed soldiers in rugged, hard-to-reach places or sustain victims of natural disasters until normal supply chain operations can resume.”",
+      "original_url": "https://hub.jhu.edu/magazine/2023/winter/apl-creating-food-from-air/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://hub.jhu.edu/magazine/2023/winter/apl-creating-food-from-air/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.sarahkuta.com/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Series I’m watching",
+      "category": "video",
+      "title": "Special Ops: Lioness",
+      "creator": null,
+      "note": "I am a huge fan of [Taylor Sheridan](https://en.wikipedia.org/wiki/Taylor_Sheridan), who co-created [_Yellowstone_](https://en.wikipedia.org/wiki/Yellowstone_(American_TV_series)) and created its prequels [_1883_](https://en.wikipedia.org/wiki/1883_(TV_series)) and [_1923_](https://en.wikipedia.org/wiki/1923_(TV_series)). I was introduced to his writing through [_Sicario_](https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a6b886eb-47c1-90f9-7508-d37c218381bb?autoplay=0&ref_=atv_cf_strg_wb), for which he was nominated for the Writers Guild of America Award for Best Original Screenplay. He has the ability to weave deep character development and brutal reflections of reality into edge-of-your-seat story arcs that keep you watching. Here’s a portion of the official description: “_Special Ops: Lioness_ is based on a real-life program and follows Cruz Manuelos ([De Oliveira](https://www.instagram.com/laysladeo/)), a rough-around-the-edges but passionate young Marine recruited to join the Lioness Engagement Team to help bring down a terrorist organization from within.” The series stars [Zoe Saldaña](https://en.wikipedia.org/wiki/Zoe_Salda%C3%B1a), [Laysla De Oliveira](https://en.wikipedia.org/wiki/Laysla_De_Oliveira), [Michael Kelly](https://en.wikipedia.org/wiki/Michael_Kelly_(actor)), [Morgan Freeman](https://en.wikipedia.org/wiki/Morgan_Freeman), and [Nicole Kidman](https://en.wikipedia.org/wiki/Nicole_Kidman). It is not suitable for family viewing.  \n​  \nWatch the trailer [here](https://www.youtube.com/watch?v=3axWgmlwnl4).",
+      "original_url": "https://www.amazon.com/Wish-the-Fight-Away/dp/B0CHN2CLRJ/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Wish-the-Fight-Away/dp/B0CHN2CLRJ/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Taylor_Sheridan"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Yellowstone_(American_TV_series"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/1883_(TV_series"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/1923_(TV_series"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a6b886eb-47c1-90f9-7508-d37c218381bb?autoplay=0&ref_=atv_cf_strg_wb"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/laysladeo/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Zoe_Salda%C3%B1a"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Laysla_De_Oliveira"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Michael_Kelly_(actor"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Morgan_Freeman"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Nicole_Kidman"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=3axWgmlwnl4"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Invention that’s long overdue",
+      "category": "other",
+      "title": "Braun All-in-One Style Kit",
+      "creator": null,
+      "note": "Every once in a while, innovations come around that solve problems with a “Why didn’t someone think of this earlier?” effect. Luggage on wheels is one example. For me, this Braun trimmer is another. I have TONS of clippers. Why? Because I lose the plastic attachments for different lengths, then I’m screwed and need a new set. This superior Braun design is an all-in-one solution that uses a radial dial allowing 40 length settings in 0.02″ steps. I love it.",
+      "original_url": "https://www.amazon.com/dp/B0BNLVL796/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/dp/B0BNLVL796/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m watching (short)",
+      "category": "video",
+      "title": "The STRONGEST Hobby Lifter Ever - Lifting Legends",
+      "creator": null,
+      "note": null,
+      "original_url": "https://www.youtube.com/watch?v=aNy9Kw7BPQc",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=aNy9Kw7BPQc"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Happy",
+      "creator": "Daughters of Mara",
+      "note": "([Spotify](https://open.spotify.com/track/4VSaOyEHjWW7opStz9i9SN), [YouTube](https://youtu.be/TDWVCAotnp0?si=XTPVDyLbtTRFumtc)) by [Daughters of Mara](https://www.instagram.com/daughtersofmara/). This was sent to me by the one and only drumming monster [Dave Elitch](https://tim.blog/2018/11/26/dave-elitch/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content), whose savant-level percussion you’ll hear. [Shawn Zuzek](https://www.instagram.com/shawnzuzek/), lead singer of Daughters of Mara, offers some additional context on the song: “How do you find the balance between moments of feeling fully crushed and truly letting go? … ‘Happy’ is incredibly personal to me. It’s about a very specific person and a very specific place in time, but I think a lot of us can identify with trying to fight despair with progress and resilience and even grace. Life is hard and letting go is hard, but you accept and you grow. You wave goodbye, and even if you feel like you’re dying, you try to find a way to smile and tell that person - or that part of who you are - that you love them.”  \n​  \n​**Softer:  \n“**[**Aguanta**](https://open.spotify.com/track/3zNUKKD6iFpxA1x3cavlDH?si=e2f3d60267cd4afd)**”** ([YouTube](https://youtu.be/txaNbo-__xc?si=UM0xgjTOS-3PjJ3f), [Spotify](https://open.spotify.com/track/3zNUKKD6iFpxA1x3cavlDH?si=e2f3d60267cd4afd), [Apple Music](https://music.apple.com/us/album/aguanta-single/1511987285)) by [Desta French](https://www.instagram.com/destafrench/?hl=en). Give this one 45 seconds to warm up. It’s audio caramel dripped on curves.",
+      "original_url": "https://open.spotify.com/track/4VSaOyEHjWW7opStz9i9SN",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://open.spotify.com/track/4VSaOyEHjWW7opStz9i9SN"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/4VSaOyEHjWW7opStz9i9SN"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/TDWVCAotnp0?si=XTPVDyLbtTRFumtc"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/daughtersofmara/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/11/26/dave-elitch/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/shawnzuzek/"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/3zNUKKD6iFpxA1x3cavlDH?si=e2f3d60267cd4afd"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/txaNbo-__xc?si=UM0xgjTOS-3PjJ3f"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/3zNUKKD6iFpxA1x3cavlDH?si=e2f3d60267cd4afd"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/album/aguanta-single/1511987285"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/destafrench/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“We spend our entire lives trying to tell stories about ourselves—they’re the essence of memory. It is how we make living in this unfeeling accidental universe tolerable. That we call such a tendency ‘the narrative fallacy’ doesn’t mean it doesn’t also touch upon some aspect of the truth.” — Ken Liu, author of The Paper Menagerie and Other Stories_ (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my interview with hypnosis expert and Stanford behavioral scientist Dr. David Spiegel, my recent podcast episode with Oprah’s life coach and bestselling author Martha Beck, and my conversation with Daughters of Mara drumming phenom Dave Elitch.. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim ### Forwarded this message? Sign up here. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. Sign Up ### Listen to The Tim Ferriss Show Podcast The Tim Ferriss Show is one of the most popular podcasts in the world with more than 900 million downloads. It has been selected for \"Best of Apple Podcasts\" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts on many occasions. Podcasts Apple Podcasts Overcast Spotify Tim's Blog ### Read Tim's Books [](https://tim.blog/tim-ferriss-books/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test) Amazon Audible B & N Tim's Blog Follow Tim: [](https://twitter.com/tferriss) [](https://www.instagram.com/timferriss/) [](https://www.youtube.com/channel/UCznv7Vf9nBdJYvBagFdAHWw) [](https://www.facebook.com/TimFerriss) [](https://www.linkedin.com/in/timferriss/) DO NOT REPLY HERE: Due to volume, please do not reply to this email. Sadly we are unable to read 1000+ email replies daily. To reply to Tim, please do so in the blog comments here. No longer want these emails? Unsubscribe 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "they’re the essence of memory. It is how we make living in this unfeeling accidental universe tolerable. That we call such a tendency ‘the narrative fallacy’ doesn’t mean it doesn’t also touch upon some aspect of the truth.” — Ken Liu, author of The Paper Menagerie and Other Stories_",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Ken_Liu",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Ken_Liu"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Paper-Menagerie-Other-Stories/dp/1481442546/"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/z0OLG"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/04/10/dr-david-spiegel-hypnosis/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/04/17/martha-beck/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/11/26/dave-elitch/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/?utm_source=convertkit&utm_medium=convertit&utm_campaign=footer"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/k0udre388b6hdq2vxeios8x4w577"
+        }
+      ]
+    }
+  ]
 }

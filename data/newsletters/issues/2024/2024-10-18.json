@@ -6,7 +6,127 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Phrase I’m enjoying",
+      "category": "other",
+      "title": "Festina lente",
+      "creator": null,
+      "note": "_Festina lente_ or _speûde bradéōs_ (σπεῦδε βραδέως) is a classical adage and oxymoron meaning “make haste slowly.” It has been adopted as a motto numerous times, particularly by the emperors Augustus and Titus, then later by the Medicis and the Onslows. ([Wikipedia](https://en.m.wikipedia.org/wiki/Festina_lente))",
+      "original_url": "https://en.m.wikipedia.org/wiki/Festina_lente",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.m.wikipedia.org/wiki/Festina_lente"
+        },
+        {
+          "type": "other",
+          "url": "https://en.m.wikipedia.org/wiki/Festina_lente"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Song I’m enjoying",
+      "category": "music",
+      "title": "To Know You Is to Love You",
+      "creator": "Greyboy",
+      "note": "([@im\\_greyboy](https://www.instagram.com/im_greyboy/)) featuring [Bart Davenport](https://open.spotify.com/artist/4IvnZ6XfHh6cOx8DIk1SOS) ([@BARTDAVENPORT](https://x.com/bartdavenport?lang=en)).",
+      "original_url": "https://www.youtube.com/watch?v=WMJLcRNPUnI",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=WMJLcRNPUnI"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/artist/greyboy/3824765"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/im_greyboy/"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/artist/4IvnZ6XfHh6cOx8DIk1SOS"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/bartdavenport?lang=en"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Science I’m tracking",
+      "category": "music",
+      "title": "Could a Drug Prevent Hearing Loss from Loud Music and Aging?",
+      "creator": null,
+      "note": null,
+      "original_url": "https://www.ucsf.edu/news/2024/01/426926/could-drug-prevent-hearing-loss-loud-music-and-aging",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.ucsf.edu/news/2024/01/426926/could-drug-prevent-hearing-loss-loud-music-and-aging"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "Mini-retirements are all the rage, but what exactly does it entail — and can you afford to take one?",
+      "creator": null,
+      "note": "If you have any issues accessing, [try this link](https://archive.ph/cZGY7#selection-4907.0-4910.0).",
+      "original_url": "https://www.independent.ie/life/mini-retirements-are-all-the-rage-but-what-exactly-does-it-entail-and-can-you-afford-to-take-one/a914182681.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.independent.ie/life/mini-retirements-are-all-the-rage-but-what-exactly-does-it-entail-and-can-you-afford-to-take-one/a914182681.html"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.ph/cZGY7#selection-4907.0-4910.0"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The secret is comprised in three words — Work, Finish, Publish.” — Michael Faraday, one of history’s most influential scientists, offering advice to the young William Crookes, who had asked him the secret of his success as a scientific investigator (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with this clip of Cal Newport explaining “slow productivity”; this 2008 interview, in which I described how to take a mini-retirement; and my new podcast episode with bestselling author and historian Andrew Roberts. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Work, Finish, Publish.” — Michael Faraday, one of history’s most influential scientists, offering advice to the young William Crookes, who had asked him the secret of his success as a scientific investigator",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Michael_Faraday",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Michael_Faraday"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/GFte9"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=21P9NWhaY5A"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2008/06/04/how-to-take-a-mini-retirement-tips-and-tricks/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/10/17/andrew-roberts-churchill-napoleon/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

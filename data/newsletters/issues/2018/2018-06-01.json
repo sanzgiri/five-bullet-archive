@@ -6,7 +6,135 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "“The Risk of Discovery”",
+      "creator": null,
+      "note": "essay by Paul Graham ([@paulg](https://el2.fourhourmail.com/c/38uml98xxakh9ngvk/opfkhq/aHR0cHM6Ly90d2l0dGVyLmNvbS9wYXVsZw==))**, which is only a few paragraphs long. It’s worth rereading a few times.",
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakh9ngvk/78i7h8/aHR0cDovL3d3dy5wYXVsZ3JhaGFtLmNvbS9kaXNjLmh0bWw=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakh9ngvk/78i7h8/aHR0cDovL3d3dy5wYXVsZ3JhaGFtLmNvbS9kaXNjLmh0bWw="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakh9ngvk/opfkhq/aHR0cHM6Ly90d2l0dGVyLmNvbS9wYXVsZw=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What has been saving my ass —",
+      "category": "other",
+      "title": "Petzl TIKKA headlamp",
+      "creator": null,
+      "note": "There are a million headlamps out there, and there has been a creeping complexity. As filmmaker Morgan Spurlock once said [in our podcast together](https://el2.fourhourmail.com/c/38uml98xxakh9ngvk/pnceh9/aHR0cHM6Ly90aW0uYmxvZy8yMDE2LzAzLzI5L21vcmdhbi1zcHVybG9jay1pbnNpZGUtdGhlLW1pbmQtb2YtYS1odW1hbi1ndWluZWEtcGlnLw==), “Once you get fancy, fancy gets broken.” The TIKKA is the right blend of power and simplicity, with two light colors (white and red), and a single operating button. I recently returned from the rainforest, and this was my only source of light for nearly 10 days.",
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakh9ngvk/zvtghn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9QZXR6bC1IZWFkbGFtcC1MdW1lbnMtU3RhbmRhcmQtTGlnaHRpbmcvZHAvQjAxS1lUUUtCRQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakh9ngvk/zvtghn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9QZXR6bC1IZWFkbGFtcC1MdW1lbnMtU3RhbmRhcmQtTGlnaHRpbmcvZHAvQjAxS1lUUUtCRQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakh9ngvk/pnceh9/aHR0cHM6Ly90aW0uYmxvZy8yMDE2LzAzLzI5L21vcmdhbi1zcHVybG9jay1pbnNpZGUtdGhlLW1pbmQtb2YtYS1odW1hbi1ndWluZWEtcGlnLw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’ve been traveling with… just in case —",
+      "category": "other",
+      "title": "“Trauma Pak” with QuikClot",
+      "creator": null,
+      "note": "When in the middle of nowhere, it’s nice to have at least one of these on hand. QuikClot itself, originally used for combat applications, is fascinating (check out [its Wikipedia page](https://el2.fourhourmail.com/c/38uml98xxakh9ngvk/60aeh8/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUXVpa0Nsb3Q=)). Official description: “This Trauma Pak with QuikClot Advanced Clotting Sponge is designed to control bleeding at the scene so more advanced care can be sought later… Packed in a tough, waterproof, pocket-sized pouch, the Trauma Pak with QuikClot is easy to use: simply open, remove, and apply. Also included is an information pamphlet on treating injuries.”",
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakh9ngvk/xksph6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9BZHZlbnR1cmUtTWVkaWNhbC1LaXRzLVF1aWtDbG90LTIwNjQtMDI5Mi9kcC9CMDBDTERJR1BLL3JlZj1zcl8xXzZfYV9pdD9pZT1VVEY4JnFpZD0xNTI3MDk5OTQwJnNyPTgtNiZrZXl3b3Jkcz1xdWlrY2xvdCt0cmF1bWErcGFr",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakh9ngvk/xksph6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9BZHZlbnR1cmUtTWVkaWNhbC1LaXRzLVF1aWtDbG90LTIwNjQtMDI5Mi9kcC9CMDBDTERJR1BLL3JlZj1zcl8xXzZfYV9pdD9pZT1VVEY4JnFpZD0xNTI3MDk5OTQwJnNyPTgtNiZrZXl3b3Jkcz1xdWlrY2xvdCt0cmF1bWErcGFr"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakh9ngvk/60aeh8/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUXVpa0Nsb3Q="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Location I am considering traveling to —",
+      "category": "other",
+      "title": "Chaco Culture National Historical Park",
+      "creator": null,
+      "note": "[](https://el2.fourhourmail.com/c/38uml98xxakh9ngvk/52hvh7/aHR0cHM6Ly93d3cubnBzLmdvdi9jaGN1L2luZGV4Lmh0bQ==)** in New Mexico. It is considered one of the best places on earth to stargaze, and I would love to attend some of [their night sky programs](https://el2.fourhourmail.com/c/38uml98xxakh9ngvk/2ou2ho/aHR0cHM6Ly93d3cubnBzLmdvdi9jaGN1L3BsYW55b3VydmlzaXQvbmlnaHRza3kuaHRt).",
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakh9ngvk/kmbmh6/aHR0cHM6Ly93d3cubnBzLmdvdi9jaGN1L2luZGV4Lmh0bQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakh9ngvk/kmbmh6/aHR0cHM6Ly93d3cubnBzLmdvdi9jaGN1L2luZGV4Lmh0bQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakh9ngvk/2ou2ho/aHR0cHM6Ly93d3cubnBzLmdvdi9jaGN1L3BsYW55b3VydmlzaXQvbmlnaHRza3kuaHRt"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering (found among 5-10 quotes in a friend’s email signature) —",
+      "category": "quote",
+      "title": "“It’s good to know who hates you, and it’s good to be hated by the right people.” — Johnny Cash And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim P.S. — Deal of the week: Athletic Greens. I get asked all the time, if you could only use one supplement, what would it be? My answer is usually Athletic Greens, my all-in-one nutritional insurance. I recommended it in The 4-Hour Body_, and did not get paid to do so. I often take it in the mornings at home and travel with it to minimize getting sick. Though I do my best with whole food, if I can’t get what I need through meals throughout the rest of the day, AG covers my bases. Athletic Greens has an exclusive offer for my readers— receive 20 free “travel packs” (I use these constantly) with your first purchase. Click here for all the details. [](https://el2.fourhourmail.com/c/38uml98xxakh9ngvk/43avhe/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #508, Austin TX 78703, United States",
+      "creator": "Johnny Cash And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim P.S. — Deal of the week: Athletic Greens. I get asked all the time, if you could only use one supplement, what would it be? My answer is usually Athletic Greens, my all-in-one nutritional insurance. I recommended it in The 4-Hour Body_, and did not get paid to do so. I often take it in the mornings at home and travel with it to minimize getting sick. Though I do my best with whole food, if I can’t get what I need through meals throughout the rest of the day, AG covers my bases. Athletic Greens has an exclusive offer for my readers— receive 20 free “travel packs”",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakh9ngvk/q3i8h7/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSm9obm55X0Nhc2g=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakh9ngvk/q3i8h7/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSm9obm55X0Nhc2g="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakh9ngvk/gvfnh5/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakh9ngvk/93tzhn/aHR0cHM6Ly9hdGhsZXRpY2dyZWVucy5jb20vdGlt"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakh9ngvk/3wcphk/aHR0cHM6Ly9hdGhsZXRpY2dyZWVucy5jb20vdGlt"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakh9ngvk/nesohv/aHR0cHM6Ly9hdGhsZXRpY2dyZWVucy5jb20vdGlt"
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakh9ngvk/w4b2hg/aHR0cDovL2dvLmZvdXJob3Vyd29ya3dlZWsuY29tLzEweC1vdXRwdXQv"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/38uml98xxakh9ngvk"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakh9ngvk/0luwh9/aHR0cDovL2ZvdXJob3Vyd29ya3dlZWsuY29tL2Jsb2c="
+        }
+      ]
+    }
+  ]
 }

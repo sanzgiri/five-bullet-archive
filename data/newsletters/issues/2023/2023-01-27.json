@@ -6,7 +6,143 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Documentary I’m watching",
+      "category": "video",
+      "title": "Winnebago Man",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/Winnebago-Man-Jack-Rebney/dp/B00466SRDQ/), [YouTube](https://www.youtube.com/watch?v=oaB2Ix_tMiQ), [Apple TV](https://itunes.apple.com/us/movie/winnebago-man/id879228650?ls=1)). From Wikipedia: “_Winnebago Man_ is a 2009 American documentary film directed by [Ben Steinbauer](https://en.wikipedia.org/wiki/Ben_Steinbauer). The film follows the Internet phenomenon created by a series of twenty-year-old outtakes from a Winnebago sales video featuring profane outbursts from a salesperson named Jack Rebney. Originally intended as an inside joke, the video spread across the globe—first on VHS and then via YouTube and other online video sites, earning the salesman the title of ‘The Angriest Man in the World.’ The documentary explores the story of the clips’ origins and how, two decades later, it affects the reluctant star.” You can find the trailer [here](https://www.youtube.com/watch?v=7p0FUqqTPYc).",
+      "original_url": "https://www.amazon.com/Winnebago-Man-Jack-Rebney/dp/B00466SRDQ/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Winnebago-Man-Jack-Rebney/dp/B00466SRDQ/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Winnebago-Man-Jack-Rebney/dp/B00466SRDQ/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=oaB2Ix_tMiQ"
+        },
+        {
+          "type": "other",
+          "url": "https://itunes.apple.com/us/movie/winnebago-man/id879228650?ls=1"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Ben_Steinbauer"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=7p0FUqqTPYc"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Blog post I’m reading",
+      "category": "article",
+      "title": "The Great Contemplation: Reflections on the impact of the ‘4-Hour Workweek’ 15 years later",
+      "creator": "Paul Millerd",
+      "note": "([@p\\_millerd](https://twitter.com/p_millerd/)). From the post: “They had never read it. If they did, they would have found that it is a philosophical wake-up call disguised as a bunch of life hacks. The whole book is basically him channeling the energy of poet Mary Oliver and yelling, ‘Don’t waste your wild and precious life!’” [Hat tip to Jim O'Shaughnessy](https://twitter.com/jposhaughnessy/status/1618256619279880192) for bringing this to my attention.",
+      "original_url": "https://every.to/p/the-great-contemplation",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://every.to/p/the-great-contemplation"
+        },
+        {
+          "type": "other",
+          "url": "https://think-boundless.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/p_millerd/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/jposhaughnessy/status/1618256619279880192"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Poems I’m reading",
+      "category": "book",
+      "title": "GOLD",
+      "creator": "Rumi, translated by Haleh Liza Gafori",
+      "note": "halehliza.com/) ([@halehliza](https://www.instagram.com/halehliza/?hl=en)).",
+      "original_url": "https://www.amazon.com/Gold-Rumi/dp/1681375338/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Gold-Rumi/dp/1681375338/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.halehliza.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/halehliza/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m wearing for skiing and touring",
+      "category": "other",
+      "title": "ORTOVOX Merino Thermovent Hoody",
+      "creator": null,
+      "note": "From the description: “The HOODY is made of 99% fine merino wool. Thanks to the mesh structure in the torso and arm areas, this super-lightweight base layer wicks moisture away perfectly and provides ventilation. And the air pockets in the special structure make it particularly warm. Merino wool is naturally temperature- and moisture-regulating. A small pack size and ideal weight-to-warmth ratio will delight all tourers who value comfort and low weight.”",
+      "original_url": "https://www.ortovox.com/us-en/shop/men/p494717-base-layer-long-merino-thermovent-hoody-m?size=s",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.ortovox.com/us-en/shop/men/p494717-base-layer-long-merino-thermovent-hoody-m?size=s"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I'm pondering",
+      "category": "quote",
+      "title": "“I want to risk hitting my head on the ceiling of my talent. I want to really test it out and say, ‘Okay, you're not that good. You just reached the level here.’ I don't ever want to fail, but I want to risk failure every time out of the gate.” — Quentin Tarantino (Click here to share on Twitter) * * * You can complement this edition of 5-Bullet Friday with this podcast episode, in which Deep Work author Cal Newport interviews me for an article he wrote for The New Yorker titled “Revisiting ‘The 4-Hour Workweek’: How Tim Ferriss’s 2007 manifesto anticipated our current moment of professional upheaval.” And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Quentin Tarantino",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Quentin_Tarantino",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Quentin_Tarantino"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/be07h"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/05/17/cal-newport-and-tim-ferriss-revisit-the-4-hour-workweek/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.newyorker.com/culture/office-space/revisiting-the-4-hour-workweek"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

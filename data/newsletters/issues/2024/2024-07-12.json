@@ -6,7 +6,134 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What made my week",
+      "category": "other",
+      "title": "Deadpool & Wolverine & The Bachelorette",
+      "creator": "Ryan Reynolds and Hugh Jackman",
+      "note": "and [Hugh Jackman](https://www.instagram.com/TheHughJackman/). Even in my wildest dreams, I never could’ve seen this one coming. What a great surprise!",
+      "original_url": "https://www.youtube.com/watch?v=S2sBNY9Wg8o",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=S2sBNY9Wg8o"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/VancityReynolds"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/TheHughJackman/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "New Paul Graham essay I’m reading",
+      "category": "article",
+      "title": "The Right Kind of Stubborn",
+      "creator": null,
+      "note": "I especially like the first half of this essay plus the synopsis in the last two paragraphs. Great distinctions to keep in mind, such that you keep an open mind.",
+      "original_url": "https://paulgraham.com/persistence.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://paulgraham.com/persistence.html"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Case study I’m digging into",
+      "category": "other",
+      "title": "How I sold 50,000 copies of my self-published book",
+      "creator": null,
+      "note": "If you prefer reading, Paul also shares the details of royalties and sales per platform (Kindle, Audible, etc.) [in this blog post](https://newsletter.pathlesspath.com/p/i-sold-50k-books-and-i-didnt-predict). The full breakdown is under the “Money, Money, Money” subheading. I personally found the real-world examples of self-publishing vs. traditional publishing economics most interesting, and the “Mistakes” section is worth heeding for anyone considering self-publishing.",
+      "original_url": "https://www.youtube.com/watch?v=AjHXNStHaMk",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=AjHXNStHaMk"
+        },
+        {
+          "type": "other",
+          "url": "https://newsletter.pathlesspath.com/p/i-sold-50k-books-and-i-didnt-predict"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m using when hiking with Molly",
+      "category": "other",
+      "title": "Springer Dog Water Bottle",
+      "creator": null,
+      "note": "If it’s hot or humid, my dear Molly pup gets parched. I bring water on hikes, but it’s always been at least 50% for naught. I pour it in my cupped hands and lose nearly all of it. Or if I use a collapsible bowl, she’ll drink a few sips and waste the rest. The Springer travel water bottle solves all of these problems. There are many other companies that make similar products, and I’m sure some are great, but this model was gifted to me and delivers. I have the Growler (44 oz) in Sky Blue.",
+      "original_url": "https://www.amazon.com/Springer-Patented-Leak-Proof-Portable-Traveling/dp/B09CHCFJ2R?th=1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Springer-Patented-Leak-Proof-Portable-Traveling/dp/B09CHCFJ2R?th=1"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "What I’m sharing widely",
+      "category": "other",
+      "title": "Scientists and Experts Endorse MDMA-Assisted Therapy for PTSD",
+      "creator": null,
+      "note": "Read and share this letter, undersigned by 20+ well-known scientists and clinicians, expressing their position that MDMA is now approvable for use with therapy in the treatment of PTSD, given suitable safeguards and post-approval monitoring. The science is compelling.",
+      "original_url": "https://www.scientiststatementonptsd.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.scientiststatementonptsd.com/"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“If we have learned one thing from the history of invention and discovery, it is that, in the long run—and often in the short one—the most daring prophecies seem laughably conservative.” — Arthur C. Clarke (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my interview with Hugh Jackman, my blog post “How to Write a Bestselling Book This Year,” and the latest supercombo podcast episode, featuring writer/philosopher Derek Sivers and futurist/technologist Kevin Kelly. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "and often in the short one—the most daring prophecies seem laughably conservative.” — Arthur C. Clarke",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Arthur_C._Clarke",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Arthur_C._Clarke"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Chuck_Palahniuk"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/H33D6"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/06/26/hugh-jackman/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/02/04/how-to-get-published/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/07/10/derek-sivers-and-kevin-kelly/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

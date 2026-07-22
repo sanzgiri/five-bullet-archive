@@ -7,7 +7,111 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Documentary I’m watching again —",
+      "category": "video",
+      "title": "Pressure Cooker",
+      "creator": null,
+      "note": "This is a real tearjerker, a life-affirming story of a teacher in Philadelphia who trains at-risk high school students to win full scholarships to culinary school. She epitomizes the kind of tough love that I think we need more of in this country, \\*especially\\* in these infantilizing times. Official description: “Infamously blunt, Wilma Stephenson runs a ‘boot camp’ teaching Culinary Arts at Frankford High, disciplining her students into capable chefs and responsible students. But behind her tough exterior is a teacher who cares passionately about getting the best out of her kids.”",
+      "original_url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h0wg28/e9iph7hllwog5z/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9QcmVzc3VyZS1Db29rZXItV2lsbWEtU3RlcGhlbnNvbi9kcC9CMDExUlpQMVFF",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h0wg28/e9iph7hllwog5z/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9QcmVzc3VyZS1Db29rZXItV2lsbWEtU3RlcGhlbnNvbi9kcC9CMDExUlpQMVFF"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "The Art of Memoir by Mary Karr",
+      "creator": null,
+      "note": "I’ve long been fascinated by Mary Karr ([@marykarrlit](https://el2.fourhourmail.com/c/75u8wd0mmu8h0wg28/pxteh9h225o0rk/aHR0cHM6Ly90d2l0dGVyLmNvbS9tYXJ5a2FycmxpdA==)), and I finally picked up her book on the craft of memoir writing after a recommendation by [Michael Pollan](https://el2.fourhourmail.com/c/75u8wd0mmu8h0wg28/k5cmh6h552vqz5/aHR0cHM6Ly90aW0uYmxvZy8yMDE5LzAzLzIxL21pY2hhZWwtcG9sbGFuLXN4c3cvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg==). It applies to much of life, and I’d consider it a philosophical guide in many respects, replete with the dead serious (e.g., how to communicate past abuse) and spit-up-your-coffee funny (e.g., catshit sandwich metaphors). Highly recommended if you work with the written word in any capacity.",
+      "original_url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h0wg28/opfkhqh66ldv5z/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9BcnQtTWVtb2lyLU1hcnktS2Fyci1lYm9vay9kcC9CMDBSTFFYQllTL3JlZj10bW1fa2luX3N3YXRjaF8wP19lbmNvZGluZz1VVEY4JnFpZD0mc3I9JTVD",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h0wg28/opfkhqh66ldv5z/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9BcnQtTWVtb2lyLU1hcnktS2Fyci1lYm9vay9kcC9CMDBSTFFYQllTL3JlZj10bW1fa2luX3N3YXRjaF8wP19lbmNvZGluZz1VVEY4JnFpZD0mc3I9JTVD"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h0wg28/pxteh9h225o0rk/aHR0cHM6Ly90d2l0dGVyLmNvbS9tYXJ5a2FycmxpdA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h0wg28/k5cmh6h552vqz5/aHR0cHM6Ly90aW0uYmxvZy8yMDE5LzAzLzIxL21pY2hhZWwtcG9sbGFuLXN4c3cvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m exploring online —",
+      "category": "other",
+      "title": "The Amazonian Travels of Richard Evans Schultes",
+      "creator": null,
+      "note": "This is exceptionally cool, and it captures the adventures of a real-life Indiana Jones in interactive form. I’m hoping I won’t immediately break their website. Here’s the description: “In this interactive map, explore the magical landscapes and indigenous cultures of the Colombian Amazon through the travels of the legendary ethnobotanist Richard Evans Schultes.”",
+      "original_url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h0wg28/2ds2hoh880wzlg/aHR0cDovL3d3dy5iYW5yZXBjdWx0dXJhbC5vcmcvc2NodWx0ZXMv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h0wg28/2ds2hoh880wzlg/aHR0cDovL3d3dy5iYW5yZXBjdWx0dXJhbC5vcmcvc2NodWx0ZXMv"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Artist I am learning more about —",
+      "category": "other",
+      "title": "David Yarrow",
+      "creator": null,
+      "note": "([@David\\_Yarrow](https://el2.fourhourmail.com/c/75u8wd0mmu8h0wg28/nqbohvhxx50p2o/aHR0cHM6Ly90d2l0dGVyLmNvbS9EYXZpZF9ZYXJyb3c=)). David Yarrow is a British fine-art photographer, financier, conservationist, and author. I recommend checking out [the wildlife category](https://el2.fourhourmail.com/c/75u8wd0mmu8h0wg28/wlh2hghkkv6pmr/aHR0cHM6Ly9kYXZpZHlhcnJvdy5waG90b2dyYXBoeS9jb2xsZWN0aW9ucy1jYXRlZ29yeS93aWxkbGlmZS8=) on his website. I was recently gifted a copy of his [_Wild Encounters_ deluxe edition book](https://el2.fourhourmail.com/c/75u8wd0mmu8h0wg28/0euwh9h99wr5nd/aHR0cHM6Ly9kYXZpZHlhcnJvdy5waG90b2dyYXBoeS9ib29rcy8=) (scroll down to see), and it might be the most beautiful book I’ve ever seen. It’s ENORMOUS, the craftsmanship is incredible, and the price tag is suitably high (~£1,500!). If you love his art but prefer something smaller and less car-down-payment, I recommend checking out the [non-deluxe option](https://el2.fourhourmail.com/c/75u8wd0mmu8h0wg28/8oiqhoh22pnvwl/aHR0cHM6Ly9kYXZpZHlhcnJvdy5waG90b2dyYXBoeS9ib29rcy8=) at the top of that same page.",
+      "original_url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h0wg28/95azhnh663rm4l/aHR0cHM6Ly9kYXZpZHlhcnJvdy5waG90b2dyYXBoeS8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h0wg28/95azhnh663rm4l/aHR0cHM6Ly9kYXZpZHlhcnJvdy5waG90b2dyYXBoeS8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h0wg28/nqbohvhxx50p2o/aHR0cHM6Ly90d2l0dGVyLmNvbS9EYXZpZF9ZYXJyb3c="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h0wg28/wlh2hghkkv6pmr/aHR0cHM6Ly9kYXZpZHlhcnJvdy5waG90b2dyYXBoeS9jb2xsZWN0aW9ucy1jYXRlZ29yeS93aWxkbGlmZS8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h0wg28/0euwh9h99wr5nd/aHR0cHM6Ly9kYXZpZHlhcnJvdy5waG90b2dyYXBoeS9ib29rcy8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h0wg28/8oiqhoh22pnvwl/aHR0cHM6Ly9kYXZpZHlhcnJvdy5waG90b2dyYXBoeS9ib29rcy8="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering once again —",
+      "category": "quote",
+      "title": "“Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.” ― Jalaluddin Rumi And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h0wg28/mlf7h5hqq0zp2m/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUnVtaQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h0wg28/mlf7h5hqq0zp2m/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUnVtaQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/75u8wd0mmu8h0wg28/e8tph7hllwogm4/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    }
+  ]
 }

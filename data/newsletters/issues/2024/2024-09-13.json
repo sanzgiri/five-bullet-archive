@@ -6,7 +6,416 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Services I’m loving for family bonding",
+      "category": "other",
+      "title": "Storyworth",
+      "creator": null,
+      "note": "and [**Remento**](https://www.remento.co/) for recording my parents’ stories and memories for future generations. Both allow you to capture cherished moments into beautiful books. I chose [Storyworth](https://welcome.storyworth.com/)’s written format for my dad, and it provides prompts from a library of 100+ questions. I picked [Remento](https://www.remento.co/) for my mom, which is audio-first and requires no writing on her part. I tested them both after your responses to [my question](https://x.com/tferriss/status/1739373723319144776) on the best products for preserving parents’ memories! They worked better, and delivered more, than I ever could have hoped. A+ investment.",
+      "original_url": "https://welcome.storyworth.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://welcome.storyworth.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.remento.co/"
+        },
+        {
+          "type": "other",
+          "url": "https://welcome.storyworth.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.remento.co/"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/tferriss/status/1739373723319144776"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Software I’m leveraging for life and work",
+      "category": "other",
+      "title": "Loom",
+      "creator": null,
+      "note": "eliminates the frustration of _describing_ what you need by letting you _show_ it. I typically use Loom a few times a day to save time.  \n  \nWith screen recording and picture-in-picture video, I can get my message across in a quarter of the time it would take to type an email, while practically guaranteeing nothing will get lost in translation. Listen to [my podcast with Levels CEO Sam Corcos](https://tim.blog/2023/09/20/sam-corcos/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) to hear how he uses (and now, how my team uses) Loom and video capture to train virtual assistants and new hires. It’s dead simple, and this approach creates a library of videos you can use repeatedly, instead of one-off training you need to repeat.  \n​  \n​[**ChatGPT desktop app**](https://openai.com/chatgpt/mac/)**.** ChatGPT for desktop gets me into the app without all the login rigamarole and lets me ask ChatGPT questions. I use it in place of Google at least 80% of the time, as there are no sponsored results and I can open it instantly with the Mac keyboard shortcut Option + Spacebar. [Scroll through the demos](https://openai.com/chatgpt/mac/) to see what I’m talking about.",
+      "original_url": "https://www.loom.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.loom.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/09/20/sam-corcos/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://openai.com/chatgpt/mac/"
+        },
+        {
+          "type": "other",
+          "url": "https://openai.com/chatgpt/mac/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m using for meditation and daily gratitude",
+      "category": "other",
+      "title": "Waking Up",
+      "creator": null,
+      "note": "app**, created by renowned author and neuroscientist Sam Harris. This is a world-class program for mind training, and my favorite aspect is probably the oldie-but-goodie \\*progression\\* of multiple skills in Sam’s own 30-day intro course, which I’ve done multiple times. For gratitude specifically, listen to his “[The Last Time](https://dynamic.wakingup.com/course/CO9D9C921)” meditation to get a taste. I also use [**DailyZen.com**](http://dailyzen.com) for checking wi-fi connections, as news sites and social media are typically on my not-to-visit list. It has provided great quotes and Zen-inspired offerings for more than 25 years.",
+      "original_url": "https://wakingup.com/tim",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://wakingup.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "https://dynamic.wakingup.com/course/CO9D9C921"
+        },
+        {
+          "type": "other",
+          "url": "http://dailyzen.com"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I use to stay sharp, mentally and physically",
+      "category": "other",
+      "title": "The Momentous Performance Stack",
+      "creator": null,
+      "note": "Momentous offers a broad spectrum of high-quality supplements and products, and my cabinet is full of them. I’ve been testing it all for months while training and traveling. Recently, I collaborated with their team to bundle my favorites, and you are the first to have the chance to try it. **My Performance Stack includes Whey Protein Isolate, Creatine Monohydrate, and Magnesium Threonate.** I chose these core products specifically for their mental, physical, and sleep benefits, targeting everything you need for better all-around performance. Momentous sources quality (e.g., Creapure), and all of their products are NSF and Informed Sport Certified, which is the gold standard in third-party testing. **For a limited time, Momentous is offering** _**5-Bullet Friday**_ **subscribers** [**a free custom shaker**](https://www.livemomentous.com/discount/tim?redirect=%2Fpages%2Ftim-ferriss&utm_campaign=Tim%20Ferriss&utm_medium=partnerships&utm_source=sponcon#section-tims-favorite-products) **with your purchase to celebrate the launch of my Performance Stack.** [**Click here**](https://www.livemomentous.com/discount/tim?redirect=%2Fpages%2Ftim-ferriss&utm_campaign=Tim%20Ferriss&utm_medium=partnerships&utm_source=sponcon#section-tims-favorite-products) **to get this exclusive offer and try it for yourself.\\***",
+      "original_url": "https://www.livemomentous.com/discount/tim?redirect=%2Fpages%2Ftim-ferriss&utm_campaign=Tim%20Ferriss&utm_medium=partnerships&utm_source=sponcon#section-tims-favorite-products",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.livemomentous.com/discount/tim?redirect=%2Fpages%2Ftim-ferriss&utm_campaign=Tim%20Ferriss&utm_medium=partnerships&utm_source=sponcon#section-tims-favorite-products"
+        },
+        {
+          "type": "other",
+          "url": "https://www.livemomentous.com/discount/tim?redirect=%2Fpages%2Ftim-ferriss&utm_campaign=Tim%20Ferriss&utm_medium=partnerships&utm_source=sponcon#section-tims-favorite-products"
+        },
+        {
+          "type": "other",
+          "url": "https://www.livemomentous.com/discount/tim?redirect=%2Fpages%2Ftim-ferriss&utm_campaign=Tim%20Ferriss&utm_medium=partnerships&utm_source=sponcon#section-tims-favorite-products"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Sleep technology I’m using every night",
+      "category": "other",
+      "title": "Eight Sleep Pod 4 Ultra",
+      "creator": null,
+      "note": "Temperature is one of the main causes of poor sleep, and heat is my personal nemesis. Several years ago, I started using the Pod Cover, and it has transformed my sleep. **Eight Sleep has just launched their newest generation of the Pod:** [**Pod 4 Ultra**](https://www.eightsleep.com/tim/)**.** **With the best temperature performance to date, Pod 4 Ultra ensures you and your partner stay cool when it’s hot and cozy-warm when it’s cold.** It also automatically tracks your sleep time, sleep stages, HRV, and heart rate. And with the all-new adjustable base that fits between your mattress and frame, you can adjust your mattress for the ultimate sleeping position. If it detects snoring, it will automatically elevate your head to a better position. And now, **subscribers to** _**5-Bullet Friday**_ **can** [**get $350 off of the Pod 4 Ultra**](https://www.eightsleep.com/tim/) **for a limited time.** [Click here](https://www.eightsleep.com/tim/) to claim this deal and unlock your full potential through optimal sleep.\\*",
+      "original_url": "https://www.eightsleep.com/tim/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.eightsleep.com/tim/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.eightsleep.com/tim/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.eightsleep.com/tim/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.eightsleep.com/tim/"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "How I’m training for alpine outdoor trips (and general fitness)",
+      "category": "other",
+      "title": "Outdoorsmans Atlas Trainer Frame System",
+      "creator": null,
+      "note": "Short of filling a pack with rocks and sandbags, I always had a hard time finding a good way to _progressively_ and _easily_ ruck with heavy loads. Fixed custom plates can be a hassle, you want a decent waist harness, loading and unloading is a pain in the ass, etc.  \n​  \nThe Atlas Trainer solves all of that. It uses standard Olympic-sized barbell plates, so you easily micro-progress in 2.5-lb or 5-lb increments. If you do anything with a barbell, it’s likely you already have the right plates.  \n​  \nAs one reviewer put it, “The strapping guides the load to my hips, and there is no pressure at all on my shoulders. I feel trained in my legs, hip adductors, and lower abs after each session.” And that’s exactly where you want to _feel_ trained to walk for miles with heavy gear. If it’s out of stock, click “Notify me” [on this page](https://www.roguefitness.com/outdoorsman-atlas-trainer?srsltid=AfmBOoqTaOjsXg584YVDh-PfVR6PkgYEoTCngdeCX0leisUVcGvv8cfT).",
+      "original_url": "https://www.roguefitness.com/outdoorsman-atlas-trainer?srsltid=AfmBOoqTaOjsXg584YVDh-PfVR6PkgYEoTCngdeCX0leisUVcGvv8cfT",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.roguefitness.com/outdoorsman-atlas-trainer?srsltid=AfmBOoqTaOjsXg584YVDh-PfVR6PkgYEoTCngdeCX0leisUVcGvv8cfT"
+        },
+        {
+          "type": "other",
+          "url": "https://www.roguefitness.com/outdoorsman-atlas-trainer?srsltid=AfmBOoqTaOjsXg584YVDh-PfVR6PkgYEoTCngdeCX0leisUVcGvv8cfT"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "section": "Electrolytes I’m using daily",
+      "category": "other",
+      "title": "LMNT",
+      "creator": null,
+      "note": ", my daily go-to electrolyte drink mix.** I add electrolytes for many reasons: because I drink water compulsively while sitting at a laptop (which dilutes electrolytes and leads me to feel tired); because I’m typically on a low-carb diet; and because I’ve lost electrolytes through exercise, sauna, etc. Each serving of LMNT delivers a meaningful dose of electrolytes without the garbage—no sugar, no artificial ingredients, no coloring, no junk—and it tastes great. I’m also loving the brand-new LMNT sparkling water, which I have stocked in my fridge. [**Find your favorite flavor with a free LMNT Sample Pack, included with any purchase**](http://drinklmnt.com/tim)**.**\\*",
+      "original_url": "http://drinklmnt.com/tim",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://drinklmnt.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "http://drinklmnt.com/tim"
+        }
+      ]
+    },
+    {
+      "position": 8,
+      "section": "What I use for protein and endurance",
+      "category": "other",
+      "title": "Maui Nui Venison pepper jerky sticks",
+      "creator": null,
+      "note": "I eat 3–6 of these per day. Ultimately, I ended up investing in Maui Nui because (1) they produce delicious products like these jerky sticks, made from the cleanest and most nutrient-dense meat you can purchase in North America, and (2) they’re stabilizing Maui’s invasive axis deer population in the process. At 10 grams of protein per stick, I can quickly and easily hit my goal of 30 grams of quality protein within 30 minutes of waking up. For fueling up during longer hikes and workouts, I add in [**UCAN’s chocolate fudge energy bars**](https://ucan.co/discount/FUDGE20?redirect=%2Fproducts%2Fchocolate-fudge-bars%3F).",
+      "original_url": "https://mauinuivenison.com/products/sugar-free-pepper-stick-24-pack",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://mauinuivenison.com/products/sugar-free-pepper-stick-24-pack"
+        },
+        {
+          "type": "other",
+          "url": "https://ucan.co/discount/FUDGE20?redirect=%2Fproducts%2Fchocolate-fudge-bars%3F"
+        }
+      ]
+    },
+    {
+      "position": 9,
+      "section": "Probiotics I’m using",
+      "category": "other",
+      "title": "Seed DS-01® Daily Synbiotic",
+      "creator": null,
+      "note": "I’m _highly_ skeptical of most probiotics (most are shipped dead or don’t make it through your stomach, etc.), but Seed’s DS-01 was recommended to me by an accomplished microbiologist. I started using Seed well before they ever reached out to my team. After incorporating two capsules into my routine in the morning, I noticed improved mood, digestion, and skin tone. Based on some reports, I’m hoping it will also have an effect on my lipid profile, but that’s TBD. DS-01 is one of the most solid, science-based, and rigorously evidence-backed synbiotics on the market, engineered in a patented delivery system for optimal survivability and formulated for optimal digestion, gut-immune function, gut-barrier integrity, and even gut-skin-axis benefits like clearer skin. **DS-01 has quickly become a staple in my daily routine, and I’ve worked with Seed to offer my readers** [**25% off your first month**](https://seed.com/daily-synbiotic?promo_code=TIM25&utm_campaign=25p&utm_medium=email&utm_source=timferriss) **of DS-01 with code TIM25. Start today and you’ll also receive a free travel vial in your Welcome Kit. Click** [**here**](https://seed.com/daily-synbiotic?promo_code=TIM25&utm_campaign=25p&utm_medium=email&utm_source=timferriss) **to get started.\\***",
+      "original_url": "https://seed.com/daily-synbiotic?promo_code=TIM25&utm_campaign=25p&utm_medium=email&utm_source=timferriss",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://seed.com/daily-synbiotic?promo_code=TIM25&utm_campaign=25p&utm_medium=email&utm_source=timferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://seed.com/daily-synbiotic?promo_code=TIM25&utm_campaign=25p&utm_medium=email&utm_source=timferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://seed.com/daily-synbiotic?promo_code=TIM25&utm_campaign=25p&utm_medium=email&utm_source=timferriss"
+        }
+      ]
+    },
+    {
+      "position": 10,
+      "section": "Coffee gadgets I and my friends adore",
+      "category": "other",
+      "title": "AeroPress Original",
+      "creator": null,
+      "note": "This is an incredible, and affordable, little gem. As I wrote in [_The 4-Hour Chef_](https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/): “This is now, bar none, my favorite brewing method. Remember the Aerobie, the amazing UFO-like disc that you could throw farther than a football field, 20 times farther than a standard Frisbee? Alan Adler, a mechanical engineer and Stanford University lecturer, created it. After conquering the 1980s toy market, he began to obsess over coffee. The result was the AeroPress, which debuted in 2006. Quickly adopted by the specialty coffee community, it offers a simple way to prepare a small amount of excellent coffee, and it’s great for travel.” I also use the [**Able Brewing “DISK,”**](https://ablebrewing.com/products/disk-coffee-filter?_pos=1&_sid=6913c5bbe&_ss=r) a reusable stainless steel filter for the AeroPress. This avoids the waste of disposable paper filters. It can all easily fit in your carry-on luggage for the road, too.",
+      "original_url": "https://aeropress.com/products/aeropress-coffee-maker",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://aeropress.com/products/aeropress-coffee-maker"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
+        },
+        {
+          "type": "other",
+          "url": "https://ablebrewing.com/products/disk-coffee-filter?_pos=1&_sid=6913c5bbe&_ss=r"
+        }
+      ]
+    },
+    {
+      "position": 11,
+      "section": "What I’m using for nutritional insurance",
+      "category": "other",
+      "title": "AG1",
+      "creator": null,
+      "note": "all-in-one nutritional supplement.** I focus on nutrient-dense meals, of course, but [AG1](http://drinkag1.com/tim) further covers the nutritional gaps in my diet. With [AG1](http://drinkag1.com/tim), you get a high-quality multivitamin and multimineral, pre- and probiotics, adaptogens, greens, and more, providing you a cost-efficient way to consolidate your supplement stack into one product for less than $3.00 per day. I first recommended AG1 in _The 4-Hour Body_ in 2010(!).​ _5-Bullet Friday_ readers get [**a free 1-year supply of liquid vitamin D + 5 travel packs with a subscription**](http://drinkag1.com/tim).\\*",
+      "original_url": "http://drinkag1.com/tim",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://drinkag1.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "http://drinkag1.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "http://drinkag1.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "http://drinkag1.com/tim"
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "section": "What I’m using for podcasting",
+      "category": "podcast",
+      "title": "Logitech Brio 4K Webcam",
+      "creator": null,
+      "note": "Rather than use my internal MacBook Pro cam or a prosumer video setup, I went with this middle-ground option, and I couldn’t be happier. For recording virtual conversations, I use [**Riverside**](https://riverside.fm/) for crystal-clear video and audio recorded locally and in the cloud. Pair it with [**Descript**](https://www.descript.com/)’s editor, which offers incredible one-click AI audio improvements that will blow your mind. For the walk-and-talk episodes I’ve done with guests [Jerry Colonna](https://tim.blog/2024/09/12/jerry-colonna-3/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content), [Seth Godin](https://tim.blog/2024/03/20/seth-godin-3/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content), and [Greg McKeown](https://tim.blog/2024/01/31/greg-mckeown-purpose-essentialism/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content), I’ve used [this **AudioTechnica** headset](https://www.amazon.com/Audio-Technica-ATH-M50xSTS-USB-StreamSet-Streaming-Headset/dp/B0BRQNJG7X/).",
+      "original_url": "https://www.amazon.com/Logitech-BRIO-Conferencing-Recording-Streaming/dp/B01N5UOYC4/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Logitech-BRIO-Conferencing-Recording-Streaming/dp/B01N5UOYC4/"
+        },
+        {
+          "type": "other",
+          "url": "https://riverside.fm/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.descript.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/09/12/jerry-colonna-3/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/03/20/seth-godin-3/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/01/31/greg-mckeown-purpose-essentialism/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Audio-Technica-ATH-M50xSTS-USB-StreamSet-Streaming-Headset/dp/B0BRQNJG7X/"
+        }
+      ]
+    },
+    {
+      "position": 13,
+      "section": "What I’m sleeping on",
+      "category": "other",
+      "title": "Helix Sleep premium mattresses",
+      "creator": null,
+      "note": "I started sleeping on a [Helix](http://helixsleep.com/tim) mattress in 2017, and I’m still sleeping on one today. They were named best overall mattress of 2024 by _Forbes, Wired, Fortune_, and many others. My sleep has really improved, and I know that because I track my sleep health (HRV, heart rate, temperature, etc). If you’d like to improve your own sleep, consider taking [Helix’s two-minute sleep quiz](http://helixsleep.com/tim). Based on your body type and how you sleep, their algorithm will identify your ideal mattress. **As a subscriber to** _**5-Bullet Friday**_**,** [**you can receive a limited-time offer**](http://helixsleep.com/tim) **of 25% off any mattress (I sleep on the Midnight Luxe), plus two free pillows.**\\*",
+      "original_url": "http://helixsleep.com/tim",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://helixsleep.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "http://helixsleep.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "http://helixsleep.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "http://helixsleep.com/tim"
+        }
+      ]
+    },
+    {
+      "position": 14,
+      "section": "Tool that has saved my lower back",
+      "category": "other",
+      "title": "PSO-RITE",
+      "creator": null,
+      "note": "If you have low-back pain, there’s a good chance your psoas muscle is involved. This was recommended by multiple people in [this Twitter thread](https://twitter.com/tferriss/status/1537476784207241217) on self-release, and I use it right before bed. If the mid-back is your issue, try out [the Nayoya acupressure mat](https://www.amazon.com/Nayoya-Back-Neck-Pain-Relief/dp/B0049Q0P9M/ref=sr_1_5?dib=eyJ2IjoiMSJ9.j1ZxrC6HSAEMQarqhl8iFKJGpqsnHZ-SKaSGanArJiGW6iClyQumJpQX90L4JEnyI4mgjpZieLVxqPi59DUagrtxSEVPth67PN-10DTtGsuI-FwffZkU-Y7u7Hwv_z47jQCta6cHUGwMr9a0FML6Wdqn2pZgf5R_GjaYv1PYj9y22-hJuzEWZ7R-d9a5N1mVN80l0PeZIHEJugAM1ZAyLPbzwGLZ_hFe_PlnKEcmF36-G5_ZvR8mogmYigIoacyAyWitdXEXA7B5hkvbjvCBXXTxM5fawG_UTHt9p0zQ3T8.omNHaykdxu5wYHM4Pat4hstzuEI3I3w0N-FafA9vKRs&dib_tag=se&keywords=Nayoya%20Back%20and%20Neck%20Pain%20Relief%20-%20Acupressure%20Mat%20and%20Pillow%20Set%20-%20Relieves%20Stress%2C%20Back%2C%20Neck%2C%20and%20Sciatic%20Pain%20-%20Comes%20with%20a%20Vinyl%20Carry%20Bag%20for%20Storage%20and%20Travel%20-%20As%20Seen%20in%20USA%20Today&qid=1726252732&sr=8-5) or one of its imitators. The Nayoya mat was introduced to me by Cirque du Soleil phenom [Andrii Bondarenko](https://www.instagram.com/andrii_bondarenko/?hl=en).",
+      "original_url": "https://www.amazon.com/PSO-RITE-Psoas-Release-Personal-Massager/dp/B07DPCWV8Z/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/PSO-RITE-Psoas-Release-Personal-Massager/dp/B07DPCWV8Z/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss/status/1537476784207241217"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Nayoya-Back-Neck-Pain-Relief/dp/B0049Q0P9M/ref=sr_1_5?dib=eyJ2IjoiMSJ9.j1ZxrC6HSAEMQarqhl8iFKJGpqsnHZ-SKaSGanArJiGW6iClyQumJpQX90L4JEnyI4mgjpZieLVxqPi59DUagrtxSEVPth67PN-10DTtGsuI-FwffZkU-Y7u7Hwv_z47jQCta6cHUGwMr9a0FML6Wdqn2pZgf5R_GjaYv1PYj9y22-hJuzEWZ7R-d9a5N1mVN80l0PeZIHEJugAM1ZAyLPbzwGLZ_hFe_PlnKEcmF36-G5_ZvR8mogmYigIoacyAyWitdXEXA7B5hkvbjvCBXXTxM5fawG_UTHt9p0zQ3T8.omNHaykdxu5wYHM4Pat4hstzuEI3I3w0N-FafA9vKRs&dib_tag=se&keywords=Nayoya%20Back%20and%20Neck%20Pain%20Relief%20-%20Acupressure%20Mat%20and%20Pillow%20Set%20-%20Relieves%20Stress%2C%20Back%2C%20Neck%2C%20and%20Sciatic%20Pain%20-%20Comes%20with%20a%20Vinyl%20Carry%20Bag%20for%20Storage%20and%20Travel%20-%20As%20Seen%20in%20USA%20Today&qid=1726252732&sr=8-5"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/andrii_bondarenko/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 15,
+      "section": "Favorite e-commerce platform",
+      "category": "other",
+      "title": "Shopify",
+      "creator": null,
+      "note": "My fans first recommended Shopify to me in 2008 as the best e-commerce platform, and it’s only improved since. I use it personally, and Shopify is **designed for anyone to sell anywhere**, giving entrepreneurs the resources once reserved for big business. In no time flat, you can have a great-looking online store that brings your ideas to life, and you can have the tools to manage your day-to-day and drive sales. No coding or design experience required. **Go to** [**Shopify.com/Tim**](http://shopify.com/tim) **to sign up for a one-dollar-per-month trial period. It’s a great deal for a great service, so check it out. Take your business to the next level today by visiting** [**Shopify.com/Tim**](http://shopify.com/tim)**.**\\*",
+      "original_url": "http://shopify.com/tim",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://shopify.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "http://shopify.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "http://shopify.com/tim"
+        }
+      ]
+    },
+    {
+      "position": 16,
+      "section": "My preferred cash savings account",
+      "category": "other",
+      "title": "Wealthfront",
+      "creator": null,
+      "note": "Wealthfront is an app that helps you manage and invest your money. Right now, [**you can earn 5.00%**](http://wealthfront.com/Tim) APY—that’s the Annual Percentage Yield—with the Wealthfront Cash Account through its network of partner banks. That’s more than **ten times more interest than a savings account at a bank**, according to FDIC.gov. It takes just a few minutes to sign up, and then you’ll immediately start earning 5.00% APY interest on your short-term cash until you’re ready to invest. **And when you open an account today, you can** [**get an extra fifty-dollar bonus**](http://wealthfront.com/Tim) **with a deposit of five hundred dollars or more.** Terms apply. **Visit** [**Wealthfront.com/Tim**](http://wealthfront.com/Tim) **to get started.** I receive cash compensation from Wealthfront Brokerage LLC for advertising, and I hold a non-controlling equity interest in the corporate parent of Wealthfront Brokerage. See full disclosures [here](http://wealthfront.com/Tim).\\*\n\n* * *",
+      "original_url": "http://wealthfront.com/Tim",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://wealthfront.com/Tim"
+        },
+        {
+          "type": "other",
+          "url": "http://wealthfront.com/Tim"
+        },
+        {
+          "type": "other",
+          "url": "http://wealthfront.com/Tim"
+        },
+        {
+          "type": "other",
+          "url": "http://wealthfront.com/Tim"
+        },
+        {
+          "type": "other",
+          "url": "http://wealthfront.com/Tim"
+        }
+      ]
+    }
+  ]
 }

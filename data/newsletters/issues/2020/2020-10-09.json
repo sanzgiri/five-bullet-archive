@@ -1,13 +1,145 @@
 {
   "schema_version": 1,
   "issue_date": "2020-10-09",
-  "subject": "5-Bullet Friday — October 9, 2020 ",
+  "subject": "5-Bullet Friday — October 9, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Book I’m revisiting —",
+      "category": "book",
+      "title": "Catching the Big Fish: Meditation, Consciousness, and Creativity",
+      "creator": "David Lynch",
+      "note": "com/david_lynch)). Filmmaker David Lynch describes his personal methods of capturing and working with ideas, some of them hinged on the immense creative benefits he has experienced from the practice of meditation. This book has been recommended to me by many high-calibre creatives.",
+      "original_url": "https://www.amazon.com/Catching-Big-Fish-Meditation-Consciousness/dp/1585426121",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Catching-Big-Fish-Meditation-Consciousness/dp/1585426121"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/david_lynch"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Artist whose work I’m exploring and enjoying —",
+      "category": "other",
+      "title": "Richard MacDonald",
+      "creator": null,
+      "note": "([@richardmacdonaldsculpture](https://www.instagram.com/richardmacdonaldsculpture/)). For behind-the-scenes process pics, his Instagram account delivers. [Here is one](https://www.instagram.com/p/B_s77dznWPE/) that will make your head spin... or invert. Try holding that pose for a few minutes. For more examples, check out [this short video](https://www.youtube.com/watch?v=Rb1X4aGmWI8) created in partnership with [Cirque du Soleil](https://www.cirquedusoleil.com/) ([@cirque](https://twitter.com/cirque)), which has [a permanent gallery exhibiting Richard’s work](https://www.cirquedusoleil.com/other-activities/art-galleries) in Las Vegas.",
+      "original_url": "http://richardmacdonald.com/artwork/icons/",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://richardmacdonald.com/artwork/icons/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/richardmacdonaldsculpture/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/B_s77dznWPE/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=Rb1X4aGmWI8"
+        },
+        {
+          "type": "other",
+          "url": "https://www.cirquedusoleil.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/cirque"
+        },
+        {
+          "type": "other",
+          "url": "https://www.cirquedusoleil.com/other-activities/art-galleries"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "New word I’ve learned this week —",
+      "category": "other",
+      "title": "Callipygian",
+      "creator": null,
+      "note": "(adjective) - \\\\ ˌka-lə-ˈpi-j(ē-)ən \\\\: having shapely or beautiful buttocks. My girlfriend taught me this one. It applies to her, as well as some of the sculptures in the above bullet. The word “calligraphy” has shared roots—_kallos_, from the classical Greek for “beauty,” plus _graphein_ for “writing,” and thus “beautiful writing.”",
+      "original_url": "https://www.merriam-webster.com/dictionary/callipygian",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.merriam-webster.com/dictionary/callipygian"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Invocacion (Uji Remix)",
+      "creator": null,
+      "note": "](https://www.youtube.com/watch?v=IXVITQTYFeY)” ([YouTube](https://www.youtube.com/watch?v=IXVITQTYFeY), [Spotify](https://open.spotify.com/track/5auJid3318lKJOVzKfAGdW), [Bandcamp](https://nicolacruz.bandcamp.com/track/invocacion-uji-remix)) by [Nicola Cruz](https://nicolacruz.com/) ([@nicolacruzz](https://www.instagram.com/nicolacruzz/)).",
+      "original_url": "https://www.youtube.com/watch?v=IXVITQTYFeY",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=IXVITQTYFeY"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=IXVITQTYFeY"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/5auJid3318lKJOVzKfAGdW"
+        },
+        {
+          "type": "other",
+          "url": "https://nicolacruz.bandcamp.com/track/invocacion-uji-remix"
+        },
+        {
+          "type": "other",
+          "url": "https://nicolacruz.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/nicolacruzz/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“I remember standing on a street corner with the black painter Beauford Delaney down in the Village waiting for the light to change, and he pointed down and said, ‘Look.’ I looked and all I saw was the water. And he said, ‘Look again,’ which I did, and I saw oil on the water and the city reflected in the puddle. It was a great revelation to me. I can’t explain it. He taught me how to see, and how to trust what I saw. Painters have often taught writers how to see. And once you’ve had that experience, you see differently.”— James Baldwin (Here is a related exercise you can try: look at leaves or tree bark in the sunlight and search for only the blackest blacks you can find for two minutes. Then repeat, but look for the whitest whites. Next, read a bit about the five types of shadows and try the exercise again. I bet your visual experience for the rest of the day will be quite different. You will see more with your eyes than the simplified labels (e.g., “green”) we’ve repeated since childhood.) And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "James Baldwin",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/James_Baldwin",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/James_Baldwin"
+        },
+        {
+          "type": "other",
+          "url": "https://www.easy-drawing-lessons.com/value-drawing.html"
+        },
+        {
+          "type": "other",
+          "url": "http://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

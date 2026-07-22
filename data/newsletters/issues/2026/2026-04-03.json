@@ -7,7 +7,123 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company",
+      "creator": null,
+      "note": "Build a $1.8 Billion Company**](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html)**.”** (_The New York Times_).  \n​  \n​_From his house in Los Angeles, Mr. Gallagher, 41, used A.I. to write the code for the software that powers his company, produce the website copy, generate the images and videos for ads and handle customer service. He created A.I. systems to analyze his business’s performance. And he outsourced the other stuff he couldn’t do himself.  \n​  \nHis start-up, Medvi, a telehealth provider of GLP-1 weight-loss drugs, got 300 customers in its first month. In its second month, it gained 1,000 more. In 2025, Medvi’s first full year in business, the company generated $401 million in sales.  \n​  \nMr. Gallagher then hired his only employee, his younger brother, Elliot. This year, they are on track to do $1.8 billion in sales._",
+      "original_url": "https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Article and science I’m tracking",
+      "category": "music",
+      "title": "Tobacco plant altered to produce five psychedelic drugs",
+      "creator": null,
+      "note": "(_New Scientist_). Scientists at the [Weizmann Institute](https://en.wikipedia.org/wiki/Weizmann_Institute_of_Science) genetically engineered a single tobacco plant to produce five psychedelic compounds—including psilocybin, DMT, and 5-MeO-DMT—using a technique that temporarily introduces genes from mushrooms, plants, and even the Colorado River toad. The approach could offer a simpler, more sustainable alternative to chemical synthesis for producing psychedelics for therapeutic research. For pairing and background, you can read my older article titled “[An Urgent Plea to Users of Psychedelics: Let’s Consider a More Ethical Menu of Plants and Compounds](https://tim.blog/2021/02/21/urgent-plea-users-of-psychedelics-ethical-plants-compounds/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit).”",
+      "original_url": "https://www.newscientist.com/article/2521338-tobacco-plant-altered-to-produce-five-psychedelic-drugs/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.newscientist.com/article/2521338-tobacco-plant-altered-to-produce-five-psychedelic-drugs/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Weizmann_Institute_of_Science"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/02/21/urgent-plea-users-of-psychedelics-ethical-plants-compounds/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "The Big Sick",
+      "creator": null,
+      "note": "If you’re looking for a very funny and smart movie, this is what the doctor ordered (pun intended). It scores 98% on Rotten Tomatoes’ Tomatometer. Here’s the description: “_The Big Sick_ is based on the real-life courtship between Pakistan-born comedian [Kumail Nanjiani](https://en.wikipedia.org/wiki/Kumail_Nanjiani) and [Emily Gordon](https://en.wikipedia.org/wiki/Emily_V._Gordon), who fall in love but struggle as their cultures clash. When Emily contracts a mysterious illness, Kumail finds himself forced to face her feisty parents, his family’s expectations, and his true feelings.” I found this movie while looking for the best comedy screenplays online, which took me to [this page](https://www.scriptreaderpro.com/best-comedy-scripts/).",
+      "original_url": "https://www.amazon.com/Big-Sick-Kumail-Nanjiani/dp/B089XYBLJV/?tag=offsitoftimfe-20",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Big-Sick-Kumail-Nanjiani/dp/B089XYBLJV/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Kumail_Nanjiani"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Emily_V._Gordon"
+        },
+        {
+          "type": "other",
+          "url": "https://www.scriptreaderpro.com/best-comedy-scripts/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Book excerpt I’m pondering",
+      "category": "book",
+      "title": "The Magic of Thinking Big",
+      "creator": "David J",
+      "note": "). For more on Stephen Key, the amazing inventor who introduced me to Schwartz’s book, check out “[A Beginner’s Guide: How to Rent Your Ideas to Fortune 500 Companies](https://tim.blog/2007/11/26/a-beginners-guide-how-to-rent-your-ideas-to-fortune-500-companies-plus-video/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit).”",
+      "original_url": "https://www.amazon.com/Magic-Thinking-Big-Secret-Success/dp/0593713230/?tag=offsitoftimfe-20",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Magic-Thinking-Big-Secret-Success/dp/0593713230/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/David_J._Schwartz_(motivational_writer"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2007/11/26/a-beginners-guide-how-to-rent-your-ideas-to-fortune-500-companies-plus-video/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“In the words of the ancients, one should make his decisions within the space of seven breaths. Lord Takanobu said, ‘If discrimination is long, it will spoil.’ Lord Naoshige said, ‘When matters are done leisurely, seven out of ten will turn out badly. A warrior is a person who does things quickly.’ When your mind is going hither and thither, discrimination will never be brought to a conclusion. With an intense, fresh and undelaying spirit, one will make his judgments within the space of seven breaths. It is a matter of being determined and having the spirit to break right through to the other side.” —Yamamoto Tsunetomo, Japanese samurai and writer * * * You can complement this edition of 5-Bullet Friday with my podcast episode on “The Fundamental Four,” the books I had originally recommended in the back of The 4-Hour Workweek_. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Yamamoto Tsunetomo, Japanese samurai and writer * * * You can complement this edition of 5-Bullet Friday with my podcast episode on “The Fundamental Four,” the books I had originally recommended in the back of The 4-Hour Workweek_. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Yamamoto_Tsunetomo",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Yamamoto_Tsunetomo"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/12/09/tim-ferriss-recommended-books/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

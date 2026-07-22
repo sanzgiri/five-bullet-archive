@@ -7,7 +7,123 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Questions I’m exploring",
+      "category": "other",
+      "title": "Extreme brainstorming questions to trigger new, better ideas",
+      "creator": "Jason Cohen",
+      "note": ". I’m using these to help brainstorm possible future projects, directions for the podcast, and more. From the page: “The following prompts jostle you out of tiny thinking. Each stretches some dimension of reality to an extreme. So extreme that it is nearly nonsense.”",
+      "original_url": "https://longform.asmartbear.com/extreme-questions/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://longform.asmartbear.com/extreme-questions/"
+        },
+        {
+          "type": "other",
+          "url": "https://longform.asmartbear.com/jason-cohen/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Podcast I’m listening to again",
+      "category": "podcast",
+      "title": "Colors",
+      "creator": null,
+      "note": "from [Radiolab](https://radiolab.org/). This was referred to me by my friend, MN, who knows how much I think about the malleability of perception. Here’s the description: “To what extent is color a physical thing in the physical world, and to what extent is it created in our minds? We start with Sir Isaac Newton, who was so eager to solve this very mystery, he stuck a knife in his eye to pinpoint the answer. Then, we meet a sea creature that sees a rainbow way beyond anything humans can experience, and we track down a woman who we’re pretty sure can see thousands (maybe even millions) more colors than the rest of us. And we end with an age-old question, that, it turns out, never even occurred to most humans until very recently….”",
+      "original_url": "https://radiolab.org/podcast/211119-colors",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://radiolab.org/podcast/211119-colors"
+        },
+        {
+          "type": "other",
+          "url": "https://radiolab.org/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Doc that I’m loving",
+      "category": "other",
+      "title": "Wick is Pain",
+      "creator": null,
+      "note": "This is the ultimate story of beating the odds, and it’s a miracle they captured all of the behind-the-scenes footage from the earliest beginnings. What a doc. From the official description: “_Wick is Pain_ is the true story behind the [John Wick](https://en.wikipedia.org/wiki/John_Wick) phenomenon, starring Keanu Reeves—from independent film to billion-dollar franchise.” Check out [the trailer here](https://www.youtube.com/watch?v=LaEjB78QLSE) and you’ll likely be hooked. Plus, there are quite a few true stories (cue early puppy scenes) that made me laugh until I cried. Huge kudos to [Chad Stahelski](https://en.wikipedia.org/wiki/Chad_Stahelski), [David Leitch](https://en.wikipedia.org/wiki/David_Leitch), [Keanu Reeves](https://en.wikipedia.org/wiki/Keanu_Reeves), and the entire team involved.",
+      "original_url": "https://www.amazon.com/WICK-PAIN-Jeffrey-Doe/dp/B0DSQY4LSZ/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/WICK-PAIN-Jeffrey-Doe/dp/B0DSQY4LSZ/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/John_Wick"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=LaEjB78QLSE"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Chad_Stahelski"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/David_Leitch"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Keanu_Reeves"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Guidelines for Ketamine Use",
+      "creator": null,
+      "note": "While ketamine holds incredible potential for treating certain conditions (e.g., acute suicidality, depression, chronic pain), I’ve also seen lives unravel because of its addictive properties, and it’s become a Faustian alcohol replacement for many. This PDF is one of the best overviews of ketamine-assisted therapies I’ve found, primarily because it also addresses mitigating the risks of addiction and long-term health consequences from excessive, chronic use. There is a baby in the bath water, but you need to know how to separate them. I found this to be a valuable resource.",
+      "original_url": "https://ketamineresearchfoundation.org/guidelines/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://ketamineresearchfoundation.org/guidelines/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The typical expression of opening Friendship would be something like, ‘What? You too? I thought I was the only one.’” — C.S. Lewis (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my brand-new conversation with Pablos Holman, one of the scariest hackers I've ever met. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "C.S. Lewis",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/C._S._Lewis",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/C._S._Lewis"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/rNbkn"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/09/16/pablos-holman/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -7,7 +7,131 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short profile I’m enjoying",
+      "category": "other",
+      "title": "Training the Idea Muscle: Riley Walz on creating viral internet pranks",
+      "creator": "Aadil Pickle",
+      "note": ".",
+      "original_url": "https://sfalexandria.com/posts/rileys-ideas/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://sfalexandria.com/posts/rileys-ideas/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.aadillpickle.com/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m drinking this holiday season",
+      "category": "other",
+      "title": "BLÅ",
+      "creator": null,
+      "note": "from** [**Sparkling Tea**](https://sparklingtea.co/)**.** This stuff is exceptionally delicious, and a good Danish name makes everything feel a tad fancier. The bottle I’m opening tonight has jasmine, white tea, and Darjeeling tea as notes, but my favorite is probably the Oolong tea blend.  \n​  \nBLÅ is an alcohol-free aperitif that truly tastes great, not like a poor replacement. Sparkling Tea provides [a locator](https://sparklingtea.co/buy-it-here/) to help you find online and brick-and-mortar options that carry it. As always, probably best to call ahead to confirm it’s in stock before trekking to your local store.",
+      "original_url": "https://sparklingtea.co/products/sparkling-tea-bla/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://sparklingtea.co/products/sparkling-tea-bla/"
+        },
+        {
+          "type": "other",
+          "url": "https://sparklingtea.co/"
+        },
+        {
+          "type": "other",
+          "url": "https://sparklingtea.co/buy-it-here/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "What if Readers Like A.I.-Generated Fiction?",
+      "creator": "Vauhini Vara, Pulitzer Prize for Fiction finalist",
+      "note": "(_The New Yorker_) by [Vauhini Vara](https://en.wikipedia.org/wiki/Vauhini_Vara), Pulitzer Prize for Fiction finalist. ([Alternate link](https://archive.is/nB4cu#selection-869.536-869.877).) From the article:  \n​  \n​_Even if the A.I. model could create prose that passed for mine, that didn’t mean it could invent the content. Plus, there remained an enormous gap between a good sentence and a good novel. Still, I couldn’t avoid the truth. Seven excellent readers had mistaken an A.I. model for me. Seven excellent readers had mistaken me for an A.I. model._",
+      "original_url": "https://www.newyorker.com/culture/the-weekend-essay/what-if-readers-like-ai-generated-fiction",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.newyorker.com/culture/the-weekend-essay/what-if-readers-like-ai-generated-fiction"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Vauhini_Vara"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.is/nB4cu#selection-869.536-869.877"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m doing over the weekend",
+      "category": "other",
+      "title": "2025 Past Year Review",
+      "creator": null,
+      "note": "I’m sometimes asked how I approach New Year’s resolutions. The truth is that I no longer approach them at all, even though I did for decades. Why? I have found “past year reviews” (PYR) more valuable and actionable than half-blindly looking forward. [Here’s the step-by-step process I follow](https://tim.blog/2021/12/27/past-year-review/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit). For a fun pairing, also read “[I’ve Done Tim Ferriss’s Past Year Review for 5 Years. Here Are 22 Lessons I Learned](https://medium.com/@chriscordry/ive-done-tim-ferriss-s-past-year-review-for-5-years-here-are-22-lessons-i-learned-cfd0fb0492a1)” by [Chris Cordry](https://medium.com/@chriscordry). ([Alternate link](https://web.archive.org/web/20221210070222/https://medium.com/@chriscordry/ive-done-tim-ferriss-s-past-year-review-for-5-years-here-are-22-lessons-i-learned-cfd0fb0492a1).)",
+      "original_url": "https://tim.blog/2021/12/27/past-year-review/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2021/12/27/past-year-review/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/12/27/past-year-review/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://medium.com/@chriscordry/ive-done-tim-ferriss-s-past-year-review-for-5-years-here-are-22-lessons-i-learned-cfd0fb0492a1"
+        },
+        {
+          "type": "other",
+          "url": "https://medium.com/@chriscordry"
+        },
+        {
+          "type": "other",
+          "url": "https://web.archive.org/web/20221210070222/https://medium.com/@chriscordry/ive-done-tim-ferriss-s-past-year-review-for-5-years-here-are-22-lessons-i-learned-cfd0fb0492a1"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quotes that are my North Stars for 2026",
+      "category": "quote",
+      "title": "“What you’re supposed to do when you don’t like a thing is change it. If you can’t change it, change the way you think about it. Don’t complain.” ― Maya Angelou (Click here to share on X.) “Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently.” ― Maya Angelou (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my brand-new conversation with Arthur Brooks, in which we cover the poet’s protocol, finding the meaning of your life, the holy half-hour, and why your suffering is sacred. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": null,
+      "note": null,
+      "original_url": "https://ctt.ec/DhG10",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://ctt.ec/DhG10"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/A_dht"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/12/23/arthur-brooks-meaning/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

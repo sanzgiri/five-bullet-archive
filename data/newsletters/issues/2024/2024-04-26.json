@@ -6,7 +6,178 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "101 Additional Advices",
+      "creator": "Kevin Kelly",
+      "note": ". Regular readers know that I consider Kevin one candidate for [the real-world most interesting man in the world](https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content). He turns 73 in a few days, and I always read his short, bulleted lists of advice.",
+      "original_url": "https://kk.org/thetechnium/101-additional-advices/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://kk.org/thetechnium/101-additional-advices/"
+        },
+        {
+          "type": "other",
+          "url": "https://kk.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Keynote by NVIDIA CEO Jensen Huang",
+      "creator": null,
+      "note": "This entire video is worth watching. If you’re short on time, [click here](https://youtu.be/cEg8cOx7UZk?t=2173) to hear one of my favorite moments, punctuated with a very deliberate and uncomfortable pause. Great food for thought.",
+      "original_url": "https://www.youtube.com/watch?v=cEg8cOx7UZk",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=cEg8cOx7UZk"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/cEg8cOx7UZk?t=2173"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Case study I’m loving",
+      "category": "other",
+      "title": "How a Hater Accelerated My Startup’s Timeline By a Year, Overnight",
+      "creator": "Niels Hoven",
+      "note": ". This is a wonderful story of how an online attack backfired and ended up 10xing positive attention to a startup. I love when karma lands in the right place at the right time. [Mentava](https://www.mentava.com/) is one of my few investments in the edtech space; another is [NoRedInk](https://www.noredink.com/). To get on the waitlist for Mentava’s software before it opens to the public, just go here: [mentava.com](https://www.mentava.com/).",
+      "original_url": "https://www.piratewires.com/p/mentava-early-launch-story",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.piratewires.com/p/mentava-early-launch-story"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/NielsHoven"
+        },
+        {
+          "type": "other",
+          "url": "https://www.mentava.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.noredink.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.mentava.com/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Microphone I’m investigating",
+      "category": "other",
+      "title": "RAY",
+      "creator": null,
+      "note": "“Autofocus” for your voice! [Check out this cool demo on YouTube](https://youtu.be/1OYjwUflydI). If it delivers even 50% of the features, it’ll be one to watch. The description: “RAY is the first microphone with our new sensor-based AURA technology to dynamically adapt your levels and tone according to your distance to the microphone. It’s like autofocus but for your voice. Instead of making perfectly sharp pictures, you’re getting perfectly balanced recordings.” Has anyone used this? If so, what are the pros and cons? [Please let me know at @tferriss on Twitter with #RAY](https://twitter.com/tferriss). I’m considering sending this to remote podcast guests going forward, as it will save us all tons of fussing with levels, gain, “could you get a little closer to the mic,” etc.",
+      "original_url": "https://www.amazon.com/Lewitt-RAY-Large-Diaphragm-Condenser-Microphone/dp/B0D1GWSKJX/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Lewitt-RAY-Large-Diaphragm-Condenser-Microphone/dp/B0D1GWSKJX/"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/1OYjwUflydI"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "What I’m celebrating",
+      "category": "other",
+      "title": "Live 10th Anniversary Random Show with Kevin Rose",
+      "creator": null,
+      "note": "!** This week is officially the podcast’s 10-year anniversary, and there is no better way to commemorate such a wild milestone than with Kevin Rose, a little tequila, and a huge thank-you to my dear listeners! Kevin was [my very first guest](https://tim.blog/2014/04/22/tim-ferriss-podcast/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content) for episode one way back in April 2014. Feels like both yesterday and lifetimes ago.  \n​  \n​**Last night, the platform** [**River**](https://app.getriver.io/home) **helped you all run parties around the world in more than 180 cities!** More than 4,000 people RSVP’d. I was able to join about 40 cities via Zoom for quick hellos and drinks (huge thanks to [Rae](https://twitter.com/raechellambert) and [Ana](https://twitter.com/anariverasch) for the quarterbacking), and I had a blast [visiting one in person in Paris](https://twitter.com/antinertia/status/1783747108467556469/photo/1). There are pics galore online, but here is [a small sample](https://twitter.com/search?q=tferriss+getriver_io&src=typed_query&f=media). Thanks to everyone who gathered for wine, celebration, and meeting like-minded lovelies!",
+      "original_url": "https://tim.blog/2024/04/23/10th-anniversary-random-show/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2024/04/23/10th-anniversary-random-show/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/04/22/tim-ferriss-podcast/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://app.getriver.io/home"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/raechellambert"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/anariverasch"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/antinertia/status/1783747108467556469/photo/1"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/search?q=tferriss+getriver_io&src=typed_query&f=media"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Write to please just one person. If you open a window and make love to the world, so to speak, your story will get pneumonia.” — Kurt Vonnegut (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my conversation with Kevin Kelly that features even more excellent advice for living, another hilarious edition of the Random Show, and seven of my own tactics for dealing with haters. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Kurt Vonnegut",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Kurt_Vonnegut",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Kurt_Vonnegut"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/62uE9"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/12/27/the-random-show-2024-new-years-resolutions/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2010/05/18/tim-ferriss-scam-practical-tactics-for-dealing-with-haters/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

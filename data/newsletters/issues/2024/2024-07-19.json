@@ -6,7 +6,147 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short TED Talk I’m watching once again",
+      "category": "video",
+      "title": "Give yourself permission to be creative",
+      "creator": "Ethan Hawke",
+      "note": ". This clocks in at roughly nine minutes. And thanks to Laird Z. for the recommendation. From the description: “Reflecting on moments that shaped his life, actor [Ethan Hawke](https://www.instagram.com/ethanhawke/?hl=en) examines how courageous expression promotes healing and connection with one another—and invites you to discover your own unabashed creativity. ‘There is no path till you walk it,’ he says.”",
+      "original_url": "https://www.ted.com/talks/ethan_hawke_give_yourself_permission_to_be_creative?subtitle=en",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.ted.com/talks/ethan_hawke_give_yourself_permission_to_be_creative?subtitle=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/ethanhawke/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/ethanhawke/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "So you wanna de-bog yourself",
+      "creator": "Adam Mastroianni",
+      "note": ". I only just found Adam, but his writing is some of the most hilarious—and helpful—I’ve seen in a long time. Really worth the read. Big thanks to Crazy B for sending this to me.",
+      "original_url": "https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself"
+        },
+        {
+          "type": "other",
+          "url": "https://substack.com/@experimentalhistory"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Nasty",
+      "creator": "Polyphia, feat",
+      "note": "([YouTube](https://www.youtube.com/watch?v=i7UkKEEGgAQ), [Spotify](https://open.spotify.com/track/2yWAPCnRMbpbGqVHAZzqgJ)) by [Polyphia](https://polyphia.com/), feat. [Jason Richardson](https://en.wikipedia.org/wiki/Jason_Richardson_(musician)). This seemed to me like an appropriate soundtrack for the week, no? Give the track a minute or so to warm up, and if you think it’s all synth, think again. [Here’s an unplugged version](https://www.youtube.com/watch?v=DSBBEDAGOTc) of a track called “Playing God,” featuring lead guitarist Tim Henson. It’s bananas.",
+      "original_url": "https://www.youtube.com/watch?v=i7UkKEEGgAQ",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=i7UkKEEGgAQ"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=i7UkKEEGgAQ"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/2yWAPCnRMbpbGqVHAZzqgJ"
+        },
+        {
+          "type": "other",
+          "url": "https://polyphia.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Jason_Richardson_(musician"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=DSBBEDAGOTc"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Documentary I’m watching",
+      "category": "video",
+      "title": "Stutz",
+      "creator": null,
+      "note": "This doc pairs well with Adam’s “what I’m reading” post above. _Stutz_ was recommended to me by multiple friends, and it does a beautiful job of sharing both a loving relationship and effective therapeutic tools for changing your life. I was hesitant to watch this at first. I worried that it might dredge up old, painful personal issues that I feel I’ve spent enough time on, but it didn’t open Pandora’s box at all. As my friends correctly reassured me, it’s nothing but upside. Here’s the official description: “In candid conversations with actor [Jonah Hill](https://en.wikipedia.org/wiki/Jonah_Hill), leading psychiatrist [Phil Stutz](https://www.thetoolsbook.com/about-phil-and-barry) explores his early life experiences and unique, visual model of therapy.” Watch the trailer [here](https://www.youtube.com/watch?v=UKCmefQdplI).",
+      "original_url": "https://www.netflix.com/title/81387962",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.netflix.com/title/81387962"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Jonah_Hill"
+        },
+        {
+          "type": "other",
+          "url": "https://www.thetoolsbook.com/about-phil-and-barry"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=UKCmefQdplI"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Money is like gasoline during a road trip. You don’t want to run out of gas on your trip, but you’re not doing a tour of gas stations.” — Tim O’Reilly (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my interview with The Atlantic’s “Dear Therapist” advice columnist Lori Gottlieb; this clip on how to get unstuck, featuring Coinbase CEO Brian Armstrong; and the latest supercombo podcast episode, featuring bestselling author Anne Lamott and learning expert Josh Waitzkin. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Tim O’Reilly",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Tim_O%27Reilly",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Tim_O%27Reilly"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/Ga6N6"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/03/19/lori-gottlieb/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/F7Vu5qvtnno?si=PulNOLTUAqY2WBWA"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/07/19/anne-lamott-and-josh-waitzkin/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,115 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Andy Goldsworthy: A Collaboration with Nature",
+      "creator": null,
+      "note": "This book was introduced to me under unusual circumstances that I might write about another time. For now, I can offer this context: I ordered it in response to a therapist saying to me, “I suggest you explore art, music, and so on. The problem with most books is that there are too many words!” If this exact book sells out, nearly all of Andy’s books appear gorgeous, and [his Twitter account](https://el2.fourhourmail.com/c/38uml98xxakhr5e0o/opfkhq/aHR0cHM6Ly90d2l0dGVyLmNvbS9nb2xkc3dvcnRoeV9hcnQ=) shares many examples of his art.",
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakhr5e0o/78i7h8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9BbmR5LUdvbGRzd29ydGh5LUNvbGxhYm9yYXRpb24tTmF0dXJlL2RwLzA4MTA5MzM1MTkv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhr5e0o/78i7h8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9BbmR5LUdvbGRzd29ydGh5LUNvbGxhYm9yYXRpb24tTmF0dXJlL2RwLzA4MTA5MzM1MTkv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhr5e0o/opfkhq/aHR0cHM6Ly90d2l0dGVyLmNvbS9nb2xkc3dvcnRoeV9hcnQ="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Moving Shapes",
+      "creator": null,
+      "note": "dance piece. I found this short choreography mesmerizing.",
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakhr5e0o/zvtghn/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JnLVhZRUFuaGJ5Lw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhr5e0o/zvtghn/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JnLVhZRUFuaGJ5Lw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "A gadget I’ve been considering buying —",
+      "category": "other",
+      "title": "The Tikker watch",
+      "creator": null,
+      "note": ", which counts down to your expected death. I was exposed to this watch by Chris Cole, an investor and principal at [Artemis Capital Management](https://el2.fourhourmail.com/c/38uml98xxakhr5e0o/xksph6/aHR0cDovL3d3dy5hcnRlbWlzY20uY29tLw==). If you want a constant _memento mori_ — a reminder of your mortality and encouragement to make each hour count — this might be for you. If the watch is too full frontal, but you’d still like a short essay on the topic, [here you go](https://el2.fourhourmail.com/c/38uml98xxakhr5e0o/60aeh8/aHR0cHM6Ly90aW0uYmxvZy8yMDA5LzA0LzI0L29uLXRoZS1zaG9ydG5lc3Mtb2YtbGlmZS1hbi1pbnRyb2R1Y3Rpb24tdG8tc2VuZWNhLw==).",
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakhr5e0o/pnceh9/aHR0cHM6Ly9teXRpa2tlci5jb20v",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhr5e0o/pnceh9/aHR0cHM6Ly9teXRpa2tlci5jb20v"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhr5e0o/xksph6/aHR0cDovL3d3dy5hcnRlbWlzY20uY29tLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhr5e0o/60aeh8/aHR0cHM6Ly90aW0uYmxvZy8yMDA5LzA0LzI0L29uLXRoZS1zaG9ydG5lc3Mtb2YtbGlmZS1hbi1pbnRyb2R1Y3Rpb24tdG8tc2VuZWNhLw=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Most popular post on Instagram —",
+      "category": "other",
+      "title": "Great Pavarotti quote on the wall of the @wickedsistershampden restaurant in Baltimore…",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakhr5e0o/kmbmh6/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JnLU5nLVdsUFVhLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhr5e0o/kmbmh6/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JnLU5nLVdsUFVhLw=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Happiness is the absence of the striving for happiness.” - Chuang-Tzu And as always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know. Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it. Have a wonderful weekend, all! Tim [](https://el2.fourhourmail.com/c/38uml98xxakhr5e0o/2ou2ho/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. Seneca and Marcus, 60 29th Street, San Francisco, California 94110, United States",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/38uml98xxakhr5e0o/52hvh7/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhr5e0o/52hvh7/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhr5e0o/q3i8h7/aHR0cDovL2dvLmZvdXJob3Vyd29ya3dlZWsuY29tLzEweC1vdXRwdXQv"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "http://el2.fourhourmail.com/u/38uml98xxakhr5e0o"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/38uml98xxakhr5e0o/93tzhn/aHR0cDovL2ZvdXJob3Vyd29ya3dlZWsuY29tL2Jsb2c="
+        }
+      ]
+    }
+  ]
 }

@@ -1,12 +1,144 @@
 {
   "schema_version": 1,
   "issue_date": "2018-11-16",
-  "subject": "5-Bullet Friday (Berlin Edition) ",
+  "subject": "5-Bullet Friday (Berlin Edition)",
   "sources": [
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Article I’m reading —",
+      "category": "article",
+      "title": "How To Travel The World On $1,500 A Month",
+      "creator": null,
+      "note": "(Forbes). This amazing and real-world case study came to me from a couple, Amirah Cook and her husband Jarrell, two readers of [_The 4-Hour Workweek_](https://el2.fourhourmail.com/c/zlue04m77unh85mkw/rmc8hohn04gk6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS80LUhvdXItV29ya3dlZWstRXNjYXBlLUxpdmUtQW55d2hlcmUvZHAvMDMwNzQ2NTM1Nw==). It’s a wonderful example of what you can do with a little resourcefulness. Here’s one small sample from the article: “Traveling from west to the east, they started in Panama, spending six months backpacking around Central America. They then flew to Europe, made their way to Morocco and topped off their travel with two years in Asia. Over the course of nearly five years, they saw thirty countries together…” The entire story reminds me of a quote by Oscar Wilde: “Anyone who lives within their means suffers from a lack of imagination.”",
+      "original_url": "https://el2.fourhourmail.com/c/zlue04m77unh85mkw/4xtvhehkrv4w4/aHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9hbGV4YW5kcmF0YWx0eS8yMDE4LzEwLzIzL2hvdy10by10cmF2ZWwtdGhlLXdvcmxkLW9uLTE1MDAtYS1tb250aA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh85mkw/4xtvhehkrv4w4/aHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9hbGV4YW5kcmF0YWx0eS8yMDE4LzEwLzIzL2hvdy10by10cmF2ZWwtdGhlLXdvcmxkLW9uLTE1MDAtYS1tb250aA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh85mkw/rmc8hohn04gk6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS80LUhvdXItV29ya3dlZWstRXNjYXBlLUxpdmUtQW55d2hlcmUvZHAvMDMwNzQ2NTM1Nw=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "The best spa I’ve ever seen —",
+      "category": "other",
+      "title": "Vabali Spa",
+      "creator": null,
+      "note": "([backup pics](https://el2.fourhourmail.com/c/zlue04m77unh85mkw/l0aehmhw3e8qp/aHR0cHM6Ly93d3cudHJpcGFkdmlzb3IuY29tL0F0dHJhY3Rpb25fUmV2aWV3LWcxODczMjMtZDY4MjYwMzItUmV2aWV3cy1WYWJhbGlfU3BhLUJlcmxpbi5odG1s)). Here is the official description: “Stretched over 20,000 square meters, the unique wellness resort boasts a Balinese charm with its authentic interior design materials, impressive architecture, and its vast, striking estate.” The size of this place is unbelievable, the location is gorgeous (you feel like you’re in a forest, despite the fact it’s just a few minutes from a huge train station), and it boasts dozens of pools, dunking tubs, saunas, restaurants, and more.",
+      "original_url": "https://el2.fourhourmail.com/c/zlue04m77unh85mkw/8nsqhohklzmw7/aHR0cHM6Ly93d3cudmFiYWxpLmRlL29ubGluZS9lbi9nYWxsZXJ5Lw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh85mkw/8nsqhohklzmw7/aHR0cHM6Ly93d3cudmFiYWxpLmRlL29ubGluZS9lbi9nYWxsZXJ5Lw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh85mkw/l0aehmhw3e8qp/aHR0cHM6Ly93d3cudHJpcGFkdmlzb3IuY29tL0F0dHJhY3Rpb25fUmV2aWV3LWcxODczMjMtZDY4MjYwMzItUmV2aWV3cy1WYWJhbGlfU3BhLUJlcmxpbi5odG1s"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Great concept I wish I saw in more cities —",
+      "category": "other",
+      "title": "Wunderhaus",
+      "creator": null,
+      "note": "([backup pics](https://el2.fourhourmail.com/c/zlue04m77unh85mkw/7gh7h8h3oqrqv/aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9tYXBzL3V2P2hsPWVuJnBiPSExczB4NDdhODUwNTkzZWFiZTU1MzoweGZhOWJmYzIyNzAyNWI1YTYhMm0yMiEybTIhMWk4MCEyaTgwITNtMSEyaTIwITE2bTE2ITFiMSEybTIhMW0xITFlMSEybTIhMW0xITFlMyEybTIhMW0xITFlNSEybTIhMW0xITFlNCEybTIhMW0xITFlNiEzbTEhN2UxMTUhNHNodHRwczovL2xoNS5nb29nbGV1c2VyY29udGVudC5jb20vcC9BRjFRaXBPQ2lZR1l3YkgwQjBtRnFsdi05WWEwam1TcjlPMnk4UlhRSk9VaiUzRHc0ODAtaDMyMC1rLW5vITVzd3VuZGVyaGF1cytiZXJsaW4rLStHb29nbGUrU2VhcmNoJmltYWdla2V5PSExZTEwITJzQUYxUWlwT0NpWUdZd2JIMEIwbUZxbHYtOVlhMGptU3I5TzJ5OFJYUUpPVWomc2E9WCZ2ZWQ9MmFoVUtFd2pTb3FEWXJkRGVBaFZ2aHEwS0hmRDVCMDhRb2lvd0Qzb0VDQU1RQmc=), as that site will likely crash). I’m not a mom (shocker, I know), but this place saved my ass when I mixed up some details and ended up with hours to kill and lots of luggage. Once inside, my girlfriend and I fell in love with the concept and kept asking ourselves “Why on earth doesn’t this exist in the US and everywhere?” The basic premise is that nearly all places for moms are built for kids, rather than the moms themselves. This location had a hip cafe and Pilates studio feel, with coffee shop, gym, restaurant, spa, and more in one location. Here’s the description: “Wunderhaus was created as a haven for modern parents, a stylish oasis for the whole family, that is both peaceful and visually inspiring. Here you can socialize in our lounge, enjoy fresh wholesome food in our cafe, take a Barre class, relax while you get a manicure and pedicure, or have a moment to go on your computer – without interruptions. All the while, your children will be looked after in our whimsical and eco-friendly drop-off playspace, allowing you to take time for yourself without any compromises.” My only complaint is that they undercharge for memberships, and I would love places like this to open, survive, and thrive. In places like NYC, SF, LA, or dozens of other cities, they could easily charge hundreds per month.",
+      "original_url": "https://el2.fourhourmail.com/c/zlue04m77unh85mkw/ddbeh0hr0vld3/aHR0cHM6Ly93dW5kZXItaGF1cy5jb20v",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh85mkw/ddbeh0hr0vld3/aHR0cHM6Ly93dW5kZXItaGF1cy5jb20v"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh85mkw/7gh7h8h3oqrqv/aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9tYXBzL3V2P2hsPWVuJnBiPSExczB4NDdhODUwNTkzZWFiZTU1MzoweGZhOWJmYzIyNzAyNWI1YTYhMm0yMiEybTIhMWk4MCEyaTgwITNtMSEyaTIwITE2bTE2ITFiMSEybTIhMW0xITFlMSEybTIhMW0xITFlMyEybTIhMW0xITFlNSEybTIhMW0xITFlNCEybTIhMW0xITFlNiEzbTEhN2UxMTUhNHNodHRwczovL2xoNS5nb29nbGV1c2VyY29udGVudC5jb20vcC9BRjFRaXBPQ2lZR1l3YkgwQjBtRnFsdi05WWEwam1TcjlPMnk4UlhRSk9VaiUzRHc0ODAtaDMyMC1rLW5vITVzd3VuZGVyaGF1cytiZXJsaW4rLStHb29nbGUrU2VhcmNoJmltYWdla2V5PSExZTEwITJzQUYxUWlwT0NpWUdZd2JIMEIwbUZxbHYtOVlhMGptU3I5TzJ5OFJYUUpPVWomc2E9WCZ2ZWQ9MmFoVUtFd2pTb3FEWXJkRGVBaFZ2aHEwS0hmRDVCMDhRb2lvd0Qzb0VDQU1RQmc="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Excellent higher-end housing in Berlin —",
+      "category": "other",
+      "title": "Suite 030",
+      "creator": null,
+      "note": "This outfit, named after Berlin’s phone prefix, offers great furnished apartments for both short and long-term stays. Their on-site support and concierge services are fantastic. I stayed [at a wonderful property](https://el2.fourhourmail.com/c/zlue04m77unh85mkw/6eieh8h07zmzw/aHR0cHM6Ly93d3cuc3VpdGUwMzAuY29tL2VuL3N1aXRlcy92aWV3LzExNg==) near Kollwitzplatz park (also near Wunderhaus above), which I booked through Airbnb. There is a wonderful farmers market every Thursday and Saturday around the corner ([Kollwitzmarkt](https://el2.fourhourmail.com/c/zlue04m77unh85mkw/2pf2hohn26k6e/aHR0cHM6Ly93d3cueWVscC5jb20vYml6L2tvbGx3aXR6bWFya3QtYmVybGlu)), at least during the perfect fall week of my trip. I also recommend the nearby [Meierei](https://el2.fourhourmail.com/c/zlue04m77unh85mkw/gmtnh5hx3r4rz/aHR0cHM6Ly93d3cudHJpcGFkdmlzb3IuY29tL1Jlc3RhdXJhbnRfUmV2aWV3LWcxODczMjMtZDM1MDU5NzQtUmV2aWV3cy1NZWllcmVpLUJlcmxpbi5odG1s) for breakfast.",
+      "original_url": "https://el2.fourhourmail.com/c/zlue04m77unh85mkw/ppueh9h8zmnm2/aHR0cHM6Ly93d3cuc3VpdGUwMzAuY29tL2Vu",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh85mkw/ppueh9h8zmnm2/aHR0cHM6Ly93d3cuc3VpdGUwMzAuY29tL2Vu"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh85mkw/6eieh8h07zmzw/aHR0cHM6Ly93d3cuc3VpdGUwMzAuY29tL2VuL3N1aXRlcy92aWV3LzExNg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh85mkw/2pf2hohn26k6e/aHR0cHM6Ly93d3cueWVscC5jb20vYml6L2tvbGx3aXR6bWFya3QtYmVybGlu"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh85mkw/gmtnh5hx3r4rz/aHR0cHM6Ly93d3cudHJpcGFkdmlzb3IuY29tL1Jlc3RhdXJhbnRfUmV2aWV3LWcxODczMjMtZDM1MDU5NzQtUmV2aWV3cy1NZWllcmVpLUJlcmxpbi5odG1s"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.” ― Johann Wolfgang von Goethe And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim P.S. Wall of shame award for the week — This is a new one, but sometimes you can’t turn a blind eye. Hotel Adlon Kempinski in Berlin hereby wins my first “wall of shame” award, and you can put it on your not-to-visit list. My few days there represented the worst price-to-value experience of my life. When I asked about a half dozen problems the first day, the response was a collective shrug with no attempt to fix anything. It just got worse. They have a good location for seeing one very famous monument, which, like the burger joint with a superb ocean view, means they don’t necessarily try much on the rest. Decades ago, they earned a good reputation, but the effort that built it is long gone. After repeated screw ups and no accountability, I attempted to negotiate an early departure and partial refund to little effect. Ultimately, I simply packed up and left, despite eating a mountain of costs. Hope that short-term win was worth it, lads! On the flip side, dear readers, if you want to try a splendid hotel that minds the details, Hotel Emma in San Antonio gets it right and is absolutely killer. [](https://el2.fourhourmail.com/c/zlue04m77unh85mkw/ldhehmhw3e8er/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "This is a new one, but sometimes you can’t turn a blind eye. Hotel Adlon Kempinski in Berlin hereby wins my first “wall of shame” award, and you can put it on your not-to-visit list. My few days there represented the worst price-to-value experience of my life. When I asked about a half dozen problems the first day, the response was a collective shrug with no attempt to fix anything. It just got worse. They have a good location for seeing one very famous monument, which, like the burger joint with a superb ocean view, means they don’t necessarily try much on the rest. Decades ago, they earned a good reputation, but the effort that built it is long gone. After repeated screw ups and no accountability, I attempted to negotiate an early departure and partial refund to little effect. Ultimately, I simply packed up and left, despite eating a mountain of costs. Hope that short-term win was worth it, lads! On the flip side, dear readers, if you want to try a splendid hotel that minds the details, Hotel Emma in San Antonio gets it right and is absolutely killer.",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/zlue04m77unh85mkw/3wcphkhv70e0q/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSm9oYW5uX1dvbGZnYW5nX3Zvbl9Hb2V0aGU=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh85mkw/3wcphkhv70e0q/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSm9oYW5uX1dvbGZnYW5nX3Zvbl9Hb2V0aGU="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh85mkw/4osvhehkrv4vr/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh85mkw/rga8hohn04g4m/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1Sb1M2Ny1JTDdJVQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh85mkw/8zbqhohklzmzq/aHR0cHM6Ly93d3cudGhlaG90ZWxlbW1hLmNvbS8="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh85mkw/dzueh0hr0vlvr/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/zlue04m77unh85mkw"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh85mkw/p0feh9h8zmnr6/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

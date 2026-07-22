@@ -1,13 +1,193 @@
 {
   "schema_version": 1,
   "issue_date": "2020-09-25",
-  "subject": "5-Bullet Friday — September 25, 2020 ",
+  "subject": "5-Bullet Friday — September 25, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading and definitely needing this week —",
+      "category": "article",
+      "title": "9 Common Traits in the Lives of Stoic Leaders",
+      "creator": "Stephen Hanselman",
+      "note": "com/SteveHanselman)).  \n  \n****",
+      "original_url": "https://dailystoic.com/stoic-leader-traits/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://dailystoic.com/stoic-leader-traits/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/SteveHanselman"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m using twice or thrice per week —",
+      "category": "other",
+      "title": "BalanceFrom Puzzle Exercise Mat with EVA Foam Interlocking Tiles",
+      "creator": null,
+      "note": "Six sections is the minimal viable size for what my girlfriend and I use these for: [AcroYoga](https://acroyoga.org/). [Here’s a clip of me as Twinkle-Toes Ferriss](https://youtu.be/fNH4S22Ijao?t=3840), doing what I rarely do, which is “fly.” For clarity, the other dude in the video is the co-founder of AcroYoga, [Jason Nemer](https://youtu.be/fNH4S22Ijao?t=1), and not my much smaller and much cuter gf (no offense, Jason; I do love the beard). Now, I only ordered six sections of these ¾″\\-thick puzzle pieces, but [that option on Amazon seems to have disappeared](https://www.amazon.com/gp/product/B074DSJLLY/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1). But fear not! First of all, nine would have been much better. Second of all, what I bought cost $41 (6 sections), and you can now get four times that (24 sections) for $97–$100, so why not just split the order with some friends? I’ve found the value-to-cost ratio to be exceptional. They are dead simple, ultra light, and super fast to assemble and/or disassemble, even mid-workout for a new configuration. For instance, we will often break the six pieces apart into two three-piece strips, which mimic two yoga mats. Jason Nemer introduced me to these mats and is currently traveling like a nomad with a stack in his car. Have mats, will yoga.  \n  \n****",
+      "original_url": "https://www.amazon.com/BalanceFrom-Puzzle-Exercise-Interlocking-Tiles/dp/B074DSQF13/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/BalanceFrom-Puzzle-Exercise-Interlocking-Tiles/dp/B074DSQF13/"
+        },
+        {
+          "type": "other",
+          "url": "https://acroyoga.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/fNH4S22Ijao?t=3840"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/fNH4S22Ijao?t=1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/gp/product/B074DSJLLY/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Amazon",
+      "creator": null,
+      "note": ",** [**iTunes**](https://itunes.apple.com/us/movie/id474618823)**,** [**The Criterion Channel**](https://www.criterionchannel.com/burden-of-dreams)**).** This documentary was recommended to me by one of the most phenomenal artists I know, [Dustin Yellin](https://tim.blog/2020/09/24/dustin-yellin/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), whose [wild podcast with me just got released today](https://tim.blog/2020/09/24/dustin-yellin/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). _Burden of Dreams_ is a strange and captivating film. It’s a showcase of tackling the impossible, being unrealistic, and failing above others’ successes. On so many levels, the compulsion, single-mindedness, and all-or-nothing drive of legendary filmmaker [Werner Herzog](https://www.wernerherzog.com/) makes no sense. And yet… to me, parts of his journey, and parts of his worldview, make all the sense in the world. This is a bizarre one that will only appeal to a small fraction of you, but here’s the official film description, edited for length: “For nearly five years, Werner Herzog worked on one of the most ambitious and difficult films of his career, [_Fitzcarraldo_](https://www.amazon.com/Fitzcarraldo-Klaus-Kinski/dp/B07CJ65V9T/), the story of one man’s attempt to build an opera house deep in the Amazon jungle. Documentary filmmaker [Les Blank](https://en.wikipedia.org/wiki/Les_Blank) captured the unfolding of this production, including a sequence requiring \\[the pulling of\\] a full-size, 320-ton steamship over a small mountain.”****",
+      "original_url": "https://www.amazon.com/gp/video/detail/B00A5IXEF0/ref=atv_wl_hom_c_unkc_1_2",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/gp/video/detail/B00A5IXEF0/ref=atv_wl_hom_c_unkc_1_2"
+        },
+        {
+          "type": "other",
+          "url": "https://itunes.apple.com/us/movie/id474618823"
+        },
+        {
+          "type": "other",
+          "url": "https://www.criterionchannel.com/burden-of-dreams"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/09/24/dustin-yellin/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/09/24/dustin-yellin/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.wernerherzog.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Fitzcarraldo-Klaus-Kinski/dp/B07CJ65V9T/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Les_Blank"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Granada",
+      "creator": "Lebanese composer, oud master, and singer Marcel Khalife",
+      "note": "([Spotify](https://open.spotify.com/track/6U8IWJDdiHP4PehqHeWFIt), [YouTube](https://www.youtube.com/watch?v=PEJAhM9PtDw)) by Lebanese composer, [oud](https://en.wikipedia.org/wiki/Oud) master, and singer [Marcel Khalife](https://www.marcelkhalife.com/) ([@Marcel\\_Khalife](https://twitter.com/Marcel_Khalife)). This is two songs in one. The first half is totally unlike the second half. It’s a long ’un and worth the time.  \n  \n****",
+      "original_url": "https://open.spotify.com/track/6U8IWJDdiHP4PehqHeWFIt",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://open.spotify.com/track/6U8IWJDdiHP4PehqHeWFIt"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/6U8IWJDdiHP4PehqHeWFIt"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=PEJAhM9PtDw"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Oud"
+        },
+        {
+          "type": "other",
+          "url": "https://www.marcelkhalife.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/Marcel_Khalife"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“I’m not saying that women leaders would eliminate violence. We are not more moral than men; we are only uncorrupted by power so far. When we do acquire power, we might turn out to have an equal impulse toward aggression.” — Gloria Steinem (Side note: If anyone knows Gloria, I would still love to have her on the podcast.) And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim P.S. Deal of the Week — Magic Spoon Cereal. I’m still stocking up on quite a few things, including lots of this. Groundhog Day-like breakfasts of eggs can get old, amirite? Forbes has called Magic Spoon “the future of cereal,” and Time magazine included them in their list of “Best Inventions” of 2019. Each serving has just 3g of net carbs, is packed with 11g of protein, and has no gluten, grains, soy, or any of the junk in regular cereal. It’s basically a protein shake in the form of delicious cereal. I’ve been loving their Cocoa flavor—it tastes just like Cocoa Puffs—and accidentally (or not?) ate an entire box in one sitting with no blood sugar spike. You can grab a variety pack and try all the flavors at MagicSpoon.com/tim. For an additional $5 off, use code TIM. Offer valid only until Monday at 11:59 p.m. PT. [](https://tim.blog/2020/06/26/hugh-jackman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Gloria Steinem",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Gloria_Steinem",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Gloria_Steinem"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "http://magicspoon.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "http://magicspoon.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "http://magicspoon.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/3aNDGWvmZoNbuCFBTzEeac?w=800&fit=max"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/10x-output/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=template"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/zlue04m77unh5nkm0f2"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=template"
+        }
+      ]
+    }
+  ]
 }

@@ -3,10 +3,89 @@
   "issue_date": "2018-01-12",
   "subject": "5-Bullet Friday",
   "sources": [
-    "hotmail"
+    "hotmail",
+    "5bulletarchive"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Tech shortcut I’m enjoying —",
+      "category": "other",
+      "title": "YouTube keyboard shortcuts",
+      "creator": null,
+      "note": "I just learned about the following YouTube keyboard shortcuts: press J to rewind 10 seconds, press K to pause, press L to fast forward 10 seconds. All three keys are alongside one another, so it’s easy to do without looking. This might not seem like much, but it’s incredibly helpful when moving around in longer videos (or audio on YT) or trying to repeat what you just saw/heard, as clicking on the progress bar itself can lead to jumping around in 4-5-minute increments.",
+      "original_url": null,
+      "links": []
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading (again) —",
+      "category": "book",
+      "title": "Siddhartha",
+      "creator": "Herman Hesse",
+      "note": "If you’ve read [Tools of Titans](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788), you might recall this was one of the most recommended books by podcast guests. Naval Ravikant has reinforced for me the importance of the main protagonist Siddhartha’s response to “What can you give?” Siddhartha’s answer is: “I can think, I can wait, I can fast.” Skip the Amazon description, as it gives away too much plot, but consider reading (or rereading) this short gem.",
+      "original_url": "https://www.amazon.com/Siddhartha-Hermann-Hesse/dp/0553208845",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Siddhartha-Hermann-Hesse/dp/0553208845"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "In case you missed it —",
+      "category": "other",
+      "title": "The Tim Ferriss Experiment",
+      "creator": null,
+      "note": "available on Facebook Shows. I’ve been releasing one episode per week, [including some bonuses](https://tim.blog/the-tim-ferriss-experiment-extras/). You can [find all of the episodes here](https://www.facebook.com/thetimferrissexperiment/?ref=br_tf).",
+      "original_url": "https://www.facebook.com/thetimferrissexperiment/?ref=br_tf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.facebook.com/thetimferrissexperiment/?ref=br_tf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/the-tim-ferriss-experiment-extras/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.facebook.com/thetimferrissexperiment/?ref=br_tf"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Who I’m following on Instagram —",
+      "category": "other",
+      "title": "Dancer Dassy",
+      "creator": null,
+      "note": "If you thought Korean dancing phenoms were limited to breakdancing (e.g., Bboy Pocket), you’d be wrong. Dancer Dassy is one of my newest favorites.",
+      "original_url": "https://www.instagram.com/p/Bcc8bMQF9m9/?taken-by=dancerdassy",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/p/Bcc8bMQF9m9/?taken-by=dancerdassy"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Delusion is a divine curse that makes someone envious, conceited, malicious, so that he doesn't know the evil he does will strike him back. If he could see his nothingness and his deadly, festering wound, pain would arise from looking within, and that pain would save him.” \\-Rumi Tim",
+      "creator": null,
+      "note": null,
+      "original_url": null,
+      "links": []
+    }
+  ]
 }

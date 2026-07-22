@@ -1,12 +1,139 @@
 {
   "schema_version": 1,
   "issue_date": "2020-03-27",
-  "subject": "6-Bullet Saturday — March 28, 2020 ",
+  "subject": "6-Bullet Saturday — March 28, 2020",
   "sources": [
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "A Stoic’s Key to Peace of Mind: Seneca on the Antidote to Anxiety",
+      "creator": "Maria Popova",
+      "note": "([@brainpicker](https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/pxteh9hl4qeovr/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9icmFpbnBpY2tlci8_aGw9ZW4=)).",
+      "original_url": "https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/e9iph7h27rzox4/aHR0cHM6Ly93d3cuYnJhaW5waWNraW5ncy5vcmcvMjAxNy8wOC8yNy9zZW5lY2EtYW54aWV0eS8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/e9iph7h27rzox4/aHR0cHM6Ly93d3cuYnJhaW5waWNraW5ncy5vcmcvMjAxNy8wOC8yNy9zZW5lY2EtYW54aWV0eS8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/opfkhqh7wqedz5/aHR0cHM6Ly90aW0uYmxvZy8yMDE0LzEwLzIxL2JyYWluLXBpY2tpbmdzLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/pxteh9hl4qeovr/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9icmFpbnBpY2tlci8_aGw9ZW4="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Documentary I’m watching —",
+      "category": "video",
+      "title": "DOSED",
+      "creator": null,
+      "note": "Highly recommended.** I first saw an advanced screener of this film last summer, after which I reached out to the filmmakers with encouragement and feedback. It’s one of the best and most beautifully shot docs I’ve ever seen about psychedelic medicine. It showcases the struggles, misfires, and successes in the concrete jungles near Vancouver instead of in an Amazonian jungle. For me, it was quite emotional, as it shows opioid/opiate addiction firsthand, and my aunt died of a Percocet and alcohol overdose roughly 1.5 years ago. I’ll say it again: highly recommended, and the ending will lift you up. Here’s the official description: “After many years of prescription medications failed her, a suicidal woman turns to underground healers to try and overcome her depression, anxiety, and opioid addiction with illegal psychedelic medicine such as magic mushrooms and iboga. Adrianne’s first dose of psilocybin mushrooms catapulted her into an unexpected world of healing where plant medicines are redefining our understanding of mental health and addiction.”",
+      "original_url": "https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/56cvh7hzg6w2e2/aHR0cHM6Ly92aW1lby5jb20vb25kZW1hbmQvZG9zZWQ=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/56cvh7hzg6w2e2/aHR0cHM6Ly92aW1lby5jb20vb25kZW1hbmQvZG9zZWQ="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "News I’m celebrating —",
+      "category": "other",
+      "title": "Join Airbnb in helping to house 100,000 COVID-19 first responders",
+      "creator": null,
+      "note": "Airbnb ([@airbnb](https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/95azhnhld58r7v/aHR0cDovL3R3aXR0ZXIuY29tL0BhaXJibmI=)) is partnering with hosts to connect 100,000 healthcare workers and first responders with places to stay that are close to their patients. Huge kudos to the entire Airbnb team for taking such swift and amazing action. I have donated, and you can help by donating or hosting. [More details here](https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/99bzhnhld58r7m/aHR0cHM6Ly93d3cuYWlyYm5iLmNvbS9vcGVuaG9tZXMvY292aWQxOXJlbGllZg==).",
+      "original_url": "https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/q9s8h7h0dk3px5/aHR0cHM6Ly93d3cuYWlyYm5iLmNvbS9vcGVuaG9tZXMvY292aWQxOXJlbGllZg==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/q9s8h7h0dk3px5/aHR0cHM6Ly93d3cuYWlyYm5iLmNvbS9vcGVuaG9tZXMvY292aWQxOXJlbGllZg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/95azhnhld58r7v/aHR0cDovL3R3aXR0ZXIuY29tL0BhaXJibmI="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/99bzhnhld58r7m/aHR0cHM6Ly93d3cuYWlyYm5iLmNvbS9vcGVuaG9tZXMvY292aWQxOXJlbGllZg=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Where I’m Going",
+      "creator": null,
+      "note": "([Apple Music](https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/9guzhnhld58r78/aHR0cHM6Ly9tdXNpYy5hcHBsZS5jb20vdXMvYWxidW0vd2hlcmUtaW0tZ29pbmcvMzU1MDQ2NTY3P2k9MzU1MDQ2NzU2), [YouTube](https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/9zizhnhld58r7e/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1nNDlSYUhrTXdUUQ==)) — Down ([@downnola](https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/w9f2hgh3q0dp99/aHR0cHM6Ly90d2l0dGVyLmNvbS9kb3dubm9sYQ==)).",
+      "original_url": "https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/qoh8h7h0dk3pxl/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1nNDlSYUhrTXdUUQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/qoh8h7h0dk3pxl/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1nNDlSYUhrTXdUUQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/9guzhnhld58r78/aHR0cHM6Ly9tdXNpYy5hcHBsZS5jb20vdXMvYWxidW0vd2hlcmUtaW0tZ29pbmcvMzU1MDQ2NTY3P2k9MzU1MDQ2NzU2"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/9zizhnhld58r7e/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1nNDlSYUhrTXdUUQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/w9f2hgh3q0dp99/aHR0cHM6Ly90d2l0dGVyLmNvbS9kb3dubm9sYQ=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Mental model I’m thinking a lot about —",
+      "category": "other",
+      "title": "Farnam Street",
+      "creator": null,
+      "note": "). More can be found in [the Wikipedia entry](https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/vrc3hrhdow672v/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSGFubG9uJ3NfcmF6b3I=).",
+      "original_url": "https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/00twh9hk2l450o/aHR0cHM6Ly9mcy5ibG9nL21lbnRhbC1tb2RlbHMv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/00twh9hk2l450o/aHR0cHM6Ly9mcy5ibG9nL21lbnRhbC1tb2RlbHMv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/vrc3hrhdow672v/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSGFubG9uJ3NfcmF6b3I="
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“We don’t see things as they are; we see them as we are.” — Anaïs Nin [](https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/ewaph7h27rzg9w/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSmVhbi1MdWNfR29kYXJk) And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim",
+      "creator": "Anaïs Nin",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/mds7h5h734xpk9/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQW5hJUMzJUFGc19OaW4=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/mds7h5h734xpk9/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQW5hJUMzJUFGc19OaW4="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohq79zmao/okbkhqh7wqev37/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    }
+  ]
 }

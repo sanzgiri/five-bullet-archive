@@ -6,7 +6,211 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Colors",
+      "creator": "Black Pumas",
+      "note": "([@blackpumas](https://www.instagram.com/blackpumas/)). I could not think of a better song to kick off the weekend. It’s a beauty on so many levels. Lyrics, vocals, instrumentals… it’s got it all.",
+      "original_url": "https://youtu.be/0G383538qzQ?si=5TBCAxT3M71_1RGp",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/0G383538qzQ?si=5TBCAxT3M71_1RGp"
+        },
+        {
+          "type": "other",
+          "url": "https://www.blackpumas.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/blackpumas/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Small fitness tool I’m loving",
+      "category": "other",
+      "title": "Tune Up Fitness – Alpha Ball",
+      "creator": null,
+      "note": "This was recommended to me by [Nsima Inyang](https://www.youtube.com/watch?v=mLGqrlxofXA), a mutant among mutants.  \n​  \nThe Alpha Ball solves a few different problems at the same time:  \n​  \n\\- It’s precise. Foam rollers are big amorphous objects. It can be hard to get them to certain spots, which the Alpha Ball can easily access.  \n​  \n\\- It’s compact enough for luggage and travel. This also means I can use it against a wall for spinal erectors, TFL, etc.  \n​  \n\\- It has a Goldilocks density: not too hard and not too soft. The firmness hits the sweet spot—hard enough to work out deep knots but not so aggressive that it causes excessive pain or bracing.",
+      "original_url": "https://www.amazon.com/Tune-Up-Fitness-Self-Massage-Performance/dp/B00NP280XY/ref=sr_1_1_sspa?crid=FGO3FV34TN7T&dib=eyJ2IjoiMSJ9.zyIihbBiRbh50hXzv1d4cXKWJlEmIyz9tAur_ukdYujzBi1ND20u6eZa43V5o0-wXLsXHR5v2EOJXnyLxPB5XgLmRHBxLjhXcWOtbVK22JWA-JyIXk7_SYCcvuljkKrKMKo7WimCXrrvgZXZztxRzhzIZig_ZPUcQMi8kOATpy0D-l8kCS3L9KWfPFvlpaY94EvKH_hPUUmaQWwE3I6wMRINM2ChRD9yNBwDsZ5pxmOLGmfY_9TFeMoOj9Km7qrO50vEna705uSur5AXO6urOSRH7pKFQyQEEUiGgdz0KJE.hAXe-urOWaDGj7EXcVbMxQ0aCbfJyUMJ_UayQUO_Ok8&dib_tag=se&keywords=tune%20up%20ball&psc=1&qid=1751496684&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&sprefix=tune%20up%20bal%2Caps%2C456&sr=8-1-spons",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Tune-Up-Fitness-Self-Massage-Performance/dp/B00NP280XY/ref=sr_1_1_sspa?crid=FGO3FV34TN7T&dib=eyJ2IjoiMSJ9.zyIihbBiRbh50hXzv1d4cXKWJlEmIyz9tAur_ukdYujzBi1ND20u6eZa43V5o0-wXLsXHR5v2EOJXnyLxPB5XgLmRHBxLjhXcWOtbVK22JWA-JyIXk7_SYCcvuljkKrKMKo7WimCXrrvgZXZztxRzhzIZig_ZPUcQMi8kOATpy0D-l8kCS3L9KWfPFvlpaY94EvKH_hPUUmaQWwE3I6wMRINM2ChRD9yNBwDsZ5pxmOLGmfY_9TFeMoOj9Km7qrO50vEna705uSur5AXO6urOSRH7pKFQyQEEUiGgdz0KJE.hAXe-urOWaDGj7EXcVbMxQ0aCbfJyUMJ_UayQUO_Ok8&dib_tag=se&keywords=tune%20up%20ball&psc=1&qid=1751496684&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&sprefix=tune%20up%20bal%2Caps%2C456&sr=8-1-spons"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=mLGqrlxofXA"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Short video that I’ve watched a few times",
+      "category": "video",
+      "title": "Anthony De Mello “Awareness” video",
+      "creator": null,
+      "note": "I found this clip on [the Tim Ferriss subreddit](https://www.reddit.com/r/timferriss/comments/1lixjw6/anthony_demello_awareness_video_clip_rediscovery/). As I commented on the post, it is hard to believe, but this is the first time I’ve ever seen video of De Mello. Long overdue, since I’ve read [_Awareness_](https://www.amazon.com/Awareness-Opportunities-Reality-Anthony-Mello/dp/0385249373/) at least a dozen times.",
+      "original_url": "https://www.reddit.com/r/timferriss/comments/1lixjw6/anthony_demello_awareness_video_clip_rediscovery/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.reddit.com/r/timferriss/comments/1lixjw6/anthony_demello_awareness_video_clip_rediscovery/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.reddit.com/r/timferriss/comments/1lixjw6/anthony_demello_awareness_video_clip_rediscovery/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Awareness-Opportunities-Reality-Anthony-Mello/dp/0385249373/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Origami is revolutionizing technology, from medicine to space",
+      "creator": "Maya Wei-Haas",
+      "note": ". ([Alternate link](https://archive.is/jWJkt).) From the sub-headine: “The centuries-old art of folding paper is yielding new applications in spacecraft, architecture, and even the human body.”  \n​  \nA few excerpts to whet your appetite:  \n​  \n​_Despite origami’s current popularity in science and technology, researchers’ early folding forays met resistance. Hull still remembers a discussion he had in 1997 with a program officer from the National Science Foundation (NSF), a U.S. government agency that supports research and education. Hull was outlining a potential project, when the program officer cut him off to say that the NSF would never fund “a research proposal with origami in the title.”  \n​  \n…  \n​  \nOrigami holds particular promise for biomedicine. For instance, a team led by Daniela Rus, director of the Massachusetts Institute of Technology’s Computer Science and Artificial Intelligence Laboratory, developed a robot that can fold to fit into a pill capsule. After the capsule is ingested, the bot unfolds and can be directed around the digestive system using programmable magnetic fields. An initial test demonstrated one possible use: removing swallowed button batteries from the stomach, a potentially deadly condition experienced by thousands of children each year. “Imagine embedding medicine or using it to patch a wound,” Rus says. “Just imagine a future of surgeries with no incisions, no pain, and no risk of infection.”_",
+      "original_url": "https://www.nationalgeographic.com/magazine/article/origami-driving-futuristic-technologies-feature",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nationalgeographic.com/magazine/article/origami-driving-futuristic-technologies-feature"
+        },
+        {
+          "type": "other",
+          "url": "https://www.mayaweihaas.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.is/jWJkt"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Book highlight I’m pondering",
+      "category": "book",
+      "title": "The Way to Love",
+      "creator": "Anthony De Mello)",
+      "note": ")  \n([Click here to share on X](https://ctt.ec/Hgrf7).)\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [a special episode of _The Tim Ferriss Show_](https://tim.blog/2025/07/01/john-arnold/)_,_ in which my friend Dr. Peter Attia takes the role of the host and interviews the greatest energy trader of all time, John Arnold.  \n​  \nAnd, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​\n\n### Forwarded this message? [Sign up here](https://go.tim.blog/5-bullet-friday-1/).\n\nJoin millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff.\n\n[Sign Up](https://go.tim.blog/5-bullet-friday-1/)\n\n![Tim Ferriss](https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png) \n\n### Listen to _The Tim Ferriss Show_ Podcast\n\n_The Tim Ferriss Show_ is one of the most popular podcasts in the world with more than one billion downloads. It has been selected for \"Best of Apple Podcasts\" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts   \non many occasions.\n\n  [![Apple Podcast](https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png)  Podcasts](https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2) \n\n  [![Apple Podcast](https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png)  Apple Podcasts](https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2) \n\n  [![Overcast](https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png)  Overcast](https://overcast.fm/itunes863897795/the-tim-ferriss-show)    [![Spotify](https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png)  Spotify](https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM)    [![Tim's Blog](https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png)  Tim's Blog](https://tim.blog/podcast?utm_campaign=design-test&utm_medium=convertit&utm_source=convertkit)\n\n### Read Tim's Books\n\n[![Read Tim's Books](https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png)](https://tim.blog/tim-ferriss-books/?utm_campaign=design-test&utm_medium=convertit&utm_source=convertkit)\n\n  [![Amazon](https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png)  Amazon](https://www.amazon.com/Timothy-Ferriss/e/B001ILKBW2%3Fref=dbs_a_mng_rwt_scns_share)    [![Audible](https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png)  Audible](https://www.audible.com/ep/TimsBooks)   [![B & N](https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png) B & N](https://www.barnesandnoble.com/s/%22Timothy%20Ferriss%22?Ntk=P_key_Contributor_List)    [![Tim's Blog](https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png)  Tim's Blog](https://tim.blog/tim-ferriss-books/?utm_campaign=design-test&utm_medium=convertit&utm_source=convertkit)\n\nFollow Tim:\n\n[![TW](https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png)](https://twitter.com/tferriss)\n\n[![IG](https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png)](https://www.instagram.com/timferriss/)\n\n[![YT](https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png)](https://www.youtube.com/channel/UCznv7Vf9nBdJYvBagFdAHWw)\n\n[![FB](https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png)](https://www.facebook.com/TimFerriss)\n\n[![IN](https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png)](https://www.linkedin.com/in/timferriss/)\n\n**DO NOT REPLY HERE**: Due to volume, please do not reply to this email. Sadly we are unable to read 1000+ email replies daily. To reply to Tim, please do so in the blog comments [here](https://tim.blog/?utm_campaign=design-test&utm_medium=convertit&utm_source=convertkit).\n\nNo longer want these emails?  [Unsubscribe](https://unsubscribe.fourhourmail.com/n4u05gdnnavhxoze87bvs6pq0kggalhdnq)\n\n3​11​2 Win​dso​r R​d., Box #UNS, Austin TX 78703, United States\n\n![](https://te.sparkloop.app/open/team_ca67a1a3a4/92140966/NO) [​](https://te.sparkloop.app/click/team_ca67a1a3a4/92140966/NO)\n\n![](https://open.fourhourmail.com/n4u05gdnnavhxoze87bvs6pq0kggalhdnq)",
+      "original_url": "https://www.amazon.com/Way-Love-Meditations-Anthony-Classics/dp/038524939X/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Way-Love-Meditations-Anthony-Classics/dp/038524939X/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Anthony_de_Mello_(Jesuit_priest"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/Hgrf7"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/07/01/john-arnold/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_campaign=design-test&utm_medium=convertit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/n4u05gdnnavhxoze87bvs6pq0kggalhdnq"
+        },
+        {
+          "type": "other",
+          "url": "https://te.sparkloop.app/click/team_ca67a1a3a4/92140966/NO"
+        }
+      ]
+    }
+  ]
 }

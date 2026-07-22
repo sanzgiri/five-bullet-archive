@@ -6,7 +6,103 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Music and philosophy I’m listening to",
+      "category": "music",
+      "title": "Hi Ren",
+      "creator": "Ren",
+      "note": ". This is f\\*cking incredible. I’ve never seen anything like it. It’s a wild cocktail of talent, craziness, philosophy, redemption, and relief. [The lyrics are pure genius](https://genius.com/Ren-hi-ren-lyrics). Watch the whole thing—trust me.  \n​  \nIf you want to dig deeper, you can find the song’s origin story [here](https://genius.com/Ren-hi-ren-lyrics#about). Thanks to Ivy Ankles for sending this to me!",
+      "original_url": "https://www.youtube.com/watch?v=s_nc1IVoMxc",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=s_nc1IVoMxc"
+        },
+        {
+          "type": "other",
+          "url": "https://www.patreon.com/renmakesmusic"
+        },
+        {
+          "type": "other",
+          "url": "https://genius.com/Ren-hi-ren-lyrics"
+        },
+        {
+          "type": "other",
+          "url": "https://genius.com/Ren-hi-ren-lyrics#about"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "The most brutal sport in the world | Calcio Storico",
+      "creator": null,
+      "note": "Not for the faint of heart or weak of stomach.",
+      "original_url": "https://www.youtube.com/watch?v=w1PkbsYLXUo",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=w1PkbsYLXUo"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "New animal research I’m tracking",
+      "category": "music",
+      "title": "Elephants call each other by name, study finds",
+      "creator": null,
+      "note": "From the article: “A team of international researchers used an artificial intelligence algorithm to analyze the calls of two wild herds of African savanna elephants in Kenya. The research ‘not only shows that elephants use specific vocalizations for each individual, but that they recognise and react to a call addressed to them while ignoring those addressed to others,’ the lead study author, Michael Pardo, said.” Related: “[How AI is decoding the animal kingdom](https://ig.ft.com/ai-animals/).”",
+      "original_url": "https://www.theguardian.com/science/article/2024/jun/10/elephant-names-study-ai",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.theguardian.com/science/article/2024/jun/10/elephant-names-study-ai"
+        },
+        {
+          "type": "other",
+          "url": "https://ig.ft.com/ai-animals/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Rabbit hole that I’m enjoying",
+      "category": "other",
+      "title": "A grain of salt",
+      "creator": null,
+      "note": "From Wikipedia: “The phrase is thought to come from Pliny the Elder’s _Naturalis Historia_, regarding the discovery of a recipe written by the Pontic king Mithridates to make someone immune to poison. One of the ingredients in the recipe was a grain of salt. Threats involving poison were thus to be taken ‘with a grain of salt,’ and therefore less seriously.”",
+      "original_url": "https://en.m.wikipedia.org/wiki/A_grain_of_salt",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.m.wikipedia.org/wiki/A_grain_of_salt"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Those who seek liberation for themselves alone cannot become fully enlightened. Though it may be said that one who is not already liberated cannot liberate others, the very process of forgetting oneself to help others is itself liberating. Therefore, those who seek to benefit themselves alone actually harm themselves by doing so, while those who help others also help themselves by doing so.” — Musō Kokushi (1275–1351) (Click here to share on Twitter.) * * *",
+      "creator": "Musō Kokushi",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Mus%C5%8D_Soseki",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Mus%C5%8D_Soseki"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/D1eMo"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,155 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Song I’m listening to",
+      "category": "music",
+      "title": "Sabelo",
+      "creator": "Bajofondo",
+      "note": "([Spotify](https://open.spotify.com/track/1FPx0zQMlGR8CbDZWfDfCQ?autoplay=true), [YouTube](https://www.youtube.com/watch?v=YANHZfxEC-I)) by [Bajofondo](https://twitter.com/bajofondo). Another gem from Bajofondo—truly one of the widest-ranging bands on the planet—is [Zitarrosa](https://www.youtube.com/watch?v=sMYf6TcvFv4) ([Spotify](https://open.spotify.com/track/1U8Ne0wsPio5SMDZv5bwJw), [YouTube](https://www.youtube.com/watch?v=sMYf6TcvFv4)). Be sure to listen until the guitar sets in (~1:23).",
+      "original_url": "https://www.youtube.com/watch?v=YANHZfxEC-I",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=YANHZfxEC-I"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/1FPx0zQMlGR8CbDZWfDfCQ?autoplay=true"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=YANHZfxEC-I"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/bajofondo"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=sMYf6TcvFv4"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/1U8Ne0wsPio5SMDZv5bwJw"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=sMYf6TcvFv4"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Botanist Stefano Mancuso: ‘You can anaesthetise all plants. This is extremely fascinating.’",
+      "creator": null,
+      "note": "Pair it with [Michael Pollan](https://tim.blog/2021/06/28/michael-pollan-this-is-your-mind-on-plants/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)’s older _New Yorker_ piece: “[The Intelligent Plant](https://www.newyorker.com/magazine/2013/12/23/the-intelligent-plant).”",
+      "original_url": "https://www.theguardian.com/environment/2023/apr/15/scientist-stefano-mancuso-you-can-anaesthetise-all-plants-this-is-extremely-fascinating-tree-stories?CMP=Share_iOSApp_Other",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.theguardian.com/environment/2023/apr/15/scientist-stefano-mancuso-you-can-anaesthetise-all-plants-this-is-extremely-fascinating-tree-stories?CMP=Share_iOSApp_Other"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/06/28/michael-pollan-this-is-your-mind-on-plants/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.newyorker.com/magazine/2013/12/23/the-intelligent-plant"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Magic trick I’m watching",
+      "category": "video",
+      "title": "Infinite Chocolate Bar Trick",
+      "creator": null,
+      "note": "Special thanks to [Simon Coronel](https://www.simoncoronel.com/), world champion of magic, for making me aware of this.",
+      "original_url": "https://www.youtube.com/watch?v=z7tRr49qZfo",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=z7tRr49qZfo"
+        },
+        {
+          "type": "other",
+          "url": "https://www.simoncoronel.com/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Maxim I’m revisiting",
+      "category": "other",
+      "title": "Don’t aim to be the best. Be the only.",
+      "creator": null,
+      "note": "This is one of Kevin Kelly’s favorite maxims, and it was one of my favorite segments from [our recent in-person conversation](https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). I’ll be rereading my heavily highlighted copy of his [_Excellent Advice for Living_](https://www.amazon.com/Excellent-Advice-Living-Wisdom-Earlier/dp/0593654528/) often. For an additional taste of Kevin’s wisdom, read his short and powerful essay “[1,000 True Fans](https://kk.org/thetechnium/1000-true-fans/).”",
+      "original_url": "https://twitter.com/tferriss/status/1651664135724171264",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://twitter.com/tferriss/status/1651664135724171264"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Excellent-Advice-Living-Wisdom-Earlier/dp/0593654528/"
+        },
+        {
+          "type": "other",
+          "url": "https://kk.org/thetechnium/1000-true-fans/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The poet Rilke looked at a statue of Apollo about fifty years ago, and Apollo spoke to him. ‘You must change your life,’ he said. When true myth rises into consciousness, that is always its message. You must change your life.” — Ursula K. Le Guin (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my most recent interview with bestselling author Michael Pollan, mind-blowing card tricks by the magical phenom Richard Turner, my wide-ranging conversation with master magician David Blaine, and my podcast episode featuring famed entertainer Penn Jillette of Penn & Teller. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Ursula K. Le Guin",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Ursula_K._Le_Guin",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Ursula_K._Le_Guin"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/Ab7O2"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/06/28/michael-pollan-this-is-your-mind-on-plants/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=R8veYTNjXSk"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=ifx9yA3Y9KA"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/01/09/penn-jillette/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

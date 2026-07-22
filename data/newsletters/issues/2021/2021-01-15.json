@@ -6,7 +6,150 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short clip I’m enjoying —",
+      "category": "other",
+      "title": "When a Costumed Person Destroys The Drums At Children’s Music Concert - NyangoStar",
+      "creator": null,
+      "note": "As the description says, “This video has been clinically proven to help with depression.”",
+      "original_url": "https://www.youtube.com/watch?v=QZShA_a-5r8",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=QZShA_a-5r8"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m using —",
+      "category": "other",
+      "title": "Thermapen Mk4 thermometer",
+      "creator": null,
+      "note": "From the description: “With full readings in only 2 to 3 seconds, the Super-Fast® Thermapen is the world’s best in speed and accuracy. Advanced technology makes Thermapen Mk4 even more intuitive than previous models. Hold it in any direction and the display automatically rotates right-side-up so you can read it in any position—in either hand, straight up or down; read temperatures without cocking your head. A great tool for achieving that perfect meat temperature for a medium rare steak on your grill.” Thermapen was my go-to thermometer for [_The 4-Hour Chef_](https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/), and I continue to use and love this device.",
+      "original_url": "https://www.thermoworks.com/Thermapen-Mk4?quantity=1&color=7",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.thermoworks.com/Thermapen-Mk4?quantity=1&color=7"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Toy I’m enjoying —",
+      "category": "other",
+      "title": "Balancing Blocks",
+      "creator": null,
+      "note": "([Fort Standard](http://www.fsobjects.com/objects/balancing-blocks)/[Areaware](https://www.areaware.com/collections/fort-standard/products/balancing-blocks-ocean?variant=999726612484)). I have a set in varied “ocean” colors. These are surprisingly fun and good for letting go of the nonsense of the day. Simple and perrrrrty. [See a countertop stack on my Instagram](https://www.instagram.com/p/CJzAU4MncjO/).",
+      "original_url": "http://www.fsobjects.com/objects/balancing-blocks",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.fsobjects.com/objects/balancing-blocks"
+        },
+        {
+          "type": "other",
+          "url": "http://www.fsobjects.com/objects/balancing-blocks"
+        },
+        {
+          "type": "other",
+          "url": "https://www.areaware.com/collections/fort-standard/products/balancing-blocks-ocean?variant=999726612484"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/CJzAU4MncjO/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Daily reminder I’m thinking more about —",
+      "category": "other",
+      "title": "This is a real 100-TRILLION-dollar bill. I had it framed years ago to remind me of how quickly ‘money’ can change in value. Zimbabwean dollars in 2008 = US dollars in 2040? Probably not, but looking at examples of ultra-inflation, the position of ‘that can’t happen to a reserve currency’ is wishful thinking. Reserve currencies have changed throughout history and will continue to change. Hell hath no fury like holders of a debased currency….",
+      "creator": null,
+      "note": "[  \n  \n](https://www.instagram.com/p/CJwupIjHwMR/)",
+      "original_url": "https://www.instagram.com/p/CJwupIjHwMR/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/p/CJwupIjHwMR/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/CJwupIjHwMR/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "What I’m celebrating —",
+      "category": "other",
+      "title": "psilocybin depression study",
+      "creator": null,
+      "note": "is the most talked about JAMA Psychiatry article of 2020.** [Dr. Roland Griffiths](https://hopkinspsychedelic.org/griffiths) from the [Center for Psychedelic & Consciousness Research](https://hopkinspsychedelic.org/) sent me the following: “I am pleased to report that JAMA Psychiatry ([@JAMAPsych](https://twitter.com/JAMAPsych)), often considered to be the most prestigious psychiatry journal in the United States, just released the notice below showing that our [psilocybin depression study](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2772630?guestAccessKey=6cca87b7-f031-4d5d-b065-ddc00a2c616b&utm_source=silverchair&utm_campaign=altmetric&utm_content=2020_year-end&cmp=1&utm_medium=email) ranked #1 on their quantitative assessment of attention each scholarly article received in traditional and social media ([Altmetric methodology](https://jamanetwork.altmetric.com/details/93714975)). The relative score of 2416 is substantially greater than the other high impact articles. This is even more impressive given that our study was published in November while other articles were published earlier in the year so had a longer time to get attention.” [Click here to see the ranking](https://tim.blog/wp-content/uploads/2021/01/Screen-Shot-2021-01-07-at-4.37.02-PM.png).",
+      "original_url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2772630?guestAccessKey=6cca87b7-f031-4d5d-b065-ddc00a2c616b&utm_source=silverchair&utm_campaign=altmetric&utm_content=2020_year-end&cmp=1&utm_medium=email",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2772630?guestAccessKey=6cca87b7-f031-4d5d-b065-ddc00a2c616b&utm_source=silverchair&utm_campaign=altmetric&utm_content=2020_year-end&cmp=1&utm_medium=email"
+        },
+        {
+          "type": "other",
+          "url": "https://hopkinspsychedelic.org/griffiths"
+        },
+        {
+          "type": "other",
+          "url": "https://hopkinspsychedelic.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/JAMAPsych"
+        },
+        {
+          "type": "other",
+          "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2772630?guestAccessKey=6cca87b7-f031-4d5d-b065-ddc00a2c616b&utm_source=silverchair&utm_campaign=altmetric&utm_content=2020_year-end&cmp=1&utm_medium=email"
+        },
+        {
+          "type": "other",
+          "url": "https://jamanetwork.altmetric.com/details/93714975"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/wp-content/uploads/2021/01/Screen-Shot-2021-01-07-at-4.37.02-PM.png"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Passage I’m pondering —",
+      "category": "other",
+      "title": "Jiddu Krishnamurti",
+      "creator": null,
+      "note": "Excerpt taken from _[The Only Revolution](http://legacy.jkrishnamurti.org/krishnamurti-teachings/view-text.php?tid=6&chid=56907&w=&s=Text)  \n_(Many thanks to JZ for sending this to me.)  \n  \nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all.  \n  \nMuch love to you and yours,  \n  \nTim",
+      "original_url": "https://en.wikipedia.org/wiki/Jiddu_Krishnamurti",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Jiddu_Krishnamurti"
+        },
+        {
+          "type": "other",
+          "url": "http://legacy.jkrishnamurti.org/krishnamurti-teachings/view-text.php?tid=6&chid=56907&w=&s=Text"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -1,13 +1,205 @@
 {
   "schema_version": 1,
   "issue_date": "2020-08-14",
-  "subject": "5-Bullet Friday — August 14, 2020 ",
+  "subject": "5-Bullet Friday — August 14, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "100 Things I Learned in 10 Years and 100 Reads of Marcus Aurelius’s Meditations",
+      "creator": "Ryan Holiday",
+      "note": "([@RyanHoliday](https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/l2hehmhkg3kdpx/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9SeWFuSG9saWRheS8=)).",
+      "original_url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/08hwh9h78d7p45/aHR0cHM6Ly9yeWFuaG9saWRheS5uZXQvMTAwLXRoaW5ncy1sZWFybmVkLTEwLXllYXJzLTEwMC1yZWFkcy1tYXJjdXMtYXVyZWxpdXNzLW1lZGl0YXRpb25zLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/08hwh9h78d7p45/aHR0cHM6Ly9yeWFuaG9saWRheS5uZXQvMTAwLXRoaW5ncy1sZWFybmVkLTEwLXllYXJzLTEwMC1yZWFkcy1tYXJjdXMtYXVyZWxpdXNzLW1lZGl0YXRpb25zLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/8ghqhoh54l5786/aHR0cHM6Ly90aW0uYmxvZy8yMDIwLzAyLzEzL3J5YW4taG9saWRheS1pbnRlcnZpZXdzLXRpbS1mZXJyaXNzLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/l2hehmhkg3kdpx/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9SeWFuSG9saWRheS8="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Lazy breakfast I’m revisiting —",
+      "category": "other",
+      "title": "Amy’s Black Bean Chili",
+      "creator": null,
+      "note": "(**[**Amazon**](https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/e0hph7hnx0ndzx/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9BbXlzLU9yZ2FuaWMtQ2hpbGktTWVkaXVtLUJsYWNrL2RwL0IwMDBHMTc2RUcv)**,** [**Amy’s website**](https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/owhkhqh8zr80zk/aHR0cHM6Ly93d3cuYW15cy5jb20vb3VyLWZvb2RzL29yZ2FuaWMtYmxhY2stYmVhbi1jaGlsaQ==)**).** This chili (plus 1–2 soft-boiled eggs) has returned as my default low-labor breakfast. I eat it straight out of the can because I’m still feral.",
+      "original_url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/e0hph7hnx0ndzx/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9BbXlzLU9yZ2FuaWMtQ2hpbGktTWVkaXVtLUJsYWNrL2RwL0IwMDBHMTc2RUcv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/e0hph7hnx0ndzx/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9BbXlzLU9yZ2FuaWMtQ2hpbGktTWVkaXVtLUJsYWNrL2RwL0IwMDBHMTc2RUcv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/e0hph7hnx0ndzx/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9BbXlzLU9yZ2FuaWMtQ2hpbGktTWVkaXVtLUJsYWNrL2RwL0IwMDBHMTc2RUcv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/owhkhqh8zr80zk/aHR0cHM6Ly93d3cuYW15cy5jb20vb3VyLWZvb2RzL29yZ2FuaWMtYmxhY2stYmVhbi1jaGlsaQ=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "App I’m exploring —",
+      "category": "other",
+      "title": "Zero Fasting App",
+      "creator": null,
+      "note": "[Kevin Rose](https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/x0hph6h7gw74gd/aHR0cHM6Ly90aW0uYmxvZy8yMDIwLzA0LzI5L3JhbmRvbS1zaG93LWJvb3p5LXF1YXJhbnRpbmUtZWRpdGlvbi8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm) ([@KevinRose](https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/dpheh0h730723m/aHR0cDovL3R3aXR0ZXIuY29tL0tldmluUm9zZQ==)) originally created Zero in 2016, and it is now the most popular fasting app in the world. It has millions of downloads and 4.9 out of 5 stars on the Apple App Store with 268,000+ ratings. [Dr. Peter Attia](https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/e0hph7hnx0ndxn/aHR0cHM6Ly90aW0uYmxvZy8yMDE5LzExLzI3L3BldGVyLWF0dGlhLWZhc3RpbmctbWV0Zm9ybWluZy1sb25nZXZpdHkvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg==) ([@PeterAttiaMD](https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/7qh7h8h4go4xg0/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wZXRlcmF0dGlhbWQv)), one of my go-to doctors for anything performance- or longevity-related, is co-founder and chief medical officer. He is the person I call for fasting advice, and now Zero gives access to that same advice. For a short sample Q&A on fasting with Peter, [click here](https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/owhkhqh8zr80zr/aHR0cHM6Ly93d3cuemVyb2Zhc3RpbmcuY29tL2Fzay16ZXJvLXdpdGgtZHItcGV0ZXItYXR0aWEv). They recently released [Zero Plus](https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/z2hghnhdg3dmge/aHR0cHM6Ly93d3cuemVyb2Zhc3RpbmcuY29tL3plcm8tcGx1cw==), an upgrade for power users that I’m now using: “Your personal fasting coach, Zero Plus, is complete with expert resources and custom fasting plans that evolve with you over time—you’ll be equipped with knowledge and motivation to stay on the fast track.” You can download and test the app here: [iOS](https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/p8heh9h7vz7pvg/aHR0cHM6Ly9hcHBzLmFwcGxlLmNvbS9hcHAvaWQxMTY4MzQ4NTQy), [Android](https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/kkhmh6h97l9o7z/aHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb20vc3RvcmUvYXBwcy9kZXRhaWxzP2lkPWNvbS56ZXJvZmFzdGluZy56ZXJv).",
+      "original_url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/p8heh9h7vz7pvd/aHR0cHM6Ly93d3cuemVyb2Zhc3RpbmcuY29tLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/p8heh9h7vz7pvd/aHR0cHM6Ly93d3cuemVyb2Zhc3RpbmcuY29tLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/x0hph6h7gw74gd/aHR0cHM6Ly90aW0uYmxvZy8yMDIwLzA0LzI5L3JhbmRvbS1zaG93LWJvb3p5LXF1YXJhbnRpbmUtZWRpdGlvbi8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/dpheh0h730723m/aHR0cDovL3R3aXR0ZXIuY29tL0tldmluUm9zZQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/e0hph7hnx0ndxn/aHR0cHM6Ly90aW0uYmxvZy8yMDE5LzExLzI3L3BldGVyLWF0dGlhLWZhc3RpbmctbWV0Zm9ybWluZy1sb25nZXZpdHkvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/7qh7h8h4go4xg0/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wZXRlcmF0dGlhbWQv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/owhkhqh8zr80zr/aHR0cHM6Ly93d3cuemVyb2Zhc3RpbmcuY29tL2Fzay16ZXJvLXdpdGgtZHItcGV0ZXItYXR0aWEv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/z2hghnhdg3dmge/aHR0cHM6Ly93d3cuemVyb2Zhc3RpbmcuY29tL3plcm8tcGx1cw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/p8heh9h7vz7pvg/aHR0cHM6Ly9hcHBzLmFwcGxlLmNvbS9hcHAvaWQxMTY4MzQ4NTQy"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/kkhmh6h97l9o7z/aHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb20vc3RvcmUvYXBwcy9kZXRhaWxzP2lkPWNvbS56ZXJvZmFzdGluZy56ZXJv"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Syria",
+      "creator": "Unders",
+      "note": "([YouTube](https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/58hvh7h9em94eq/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1HNVRCV3hqbmFJRQ==), [Spotify](https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/25h2hoho52oq59/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3RyYWNrLzNya2dlOGt1cjlpMjZ6cEJ5Rkt2QnU=)) by [Unders](https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/qvh8h7h6xr6lxp/aHR0cHM6Ly93d3cudW5kZXJzLm5sLw==) ([@undersmusic](https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/g3hnh5hzv3z0v5/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS91bmRlcnNtdXNpYy8=))",
+      "original_url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/58hvh7h9em94eq/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1HNVRCV3hqbmFJRQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/58hvh7h9em94eq/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1HNVRCV3hqbmFJRQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/58hvh7h9em94eq/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1HNVRCV3hqbmFJRQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/25h2hoho52oq59/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3RyYWNrLzNya2dlOGt1cjlpMjZ6cEJ5Rkt2QnU="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/qvh8h7h6xr6lxp/aHR0cHM6Ly93d3cudW5kZXJzLm5sLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/g3hnh5hzv3z0v5/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS91bmRlcnNtdXNpYy8="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Man cannot do without beauty, and this is what our era pretends to want to disregard.”— Albert Camus And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim P.S. Deal of the Week — Dry Farm Wines! I’m a wine drinker, and I love a few glasses over meals with friends. That said, I hate hangovers. For the last few months, all of the wine in my house has been from Dry Farm Wines. Why? At least in my experience, their wine means more fun with fewer headaches. Dry Farm Wines only ships wines that meet very stringent criteria: sugar free (less than 0.15g per glass), lower alcohol (less than 12.5% alcohol), additive free (there are more than 70 FDA-approved wine-making additives), lower sulfites, organic, and produced by small family farms. All Dry Farm Wines are laboratory tested for purity standards by a certified, independent enologist, and all of their wines are also backed by a 100% Happiness Promise—they will either replace or refund any wine you do not love. Last but not least, I find delicious wines I never would have found otherwise. It’s a lot of fun. Dry Farm Wines has a special offer just for “5-Bullet Friday” subscribers—an extra bottle in your first box for just one extra penny. Check out all the details at DryFarmWines.com/Tim. [](https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/48hvheh2or27o7/aHR0cHM6Ly90aW0uYmxvZy8yMDIwLzA2LzI2L2h1Z2gtamFja21hbi8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Albert Camus And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim P.S. Deal of the Week — Dry Farm Wines! I’m a wine drinker, and I love a few glasses over meals with friends. That said, I hate hangovers. For the last few months, all of the wine in my house has been from Dry Farm Wines. Why? At least in my experience, their wine means more fun with fewer headaches. Dry Farm Wines only ships wines that meet very stringent criteria: sugar free",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/9qhzhnh27p2e7v/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQWxiZXJ0X0NhbXVz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/9qhzhnh27p2e7v/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQWxiZXJ0X0NhbXVz"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/3ohphkhdw7dkwe/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/n2hohvhod3old7/aHR0cDovL2RyeWZhcm13aW5lcy5jb20vVGlt"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/n2hohvhod3old7/aHR0cDovL2RyeWZhcm13aW5lcy5jb20vVGlt"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/n2hohvhod3old7/aHR0cDovL2RyeWZhcm13aW5lcy5jb20vVGlt"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/n2hohvhod3old7/aHR0cDovL2RyeWZhcm13aW5lcy5jb20vVGlt"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/n2hohvhod3old7/aHR0cDovL2RyeWZhcm13aW5lcy5jb20vVGlt"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/n2hohvhod3old7/aHR0cDovL2RyeWZhcm13aW5lcy5jb20vVGlt"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/n2hohvhod3old7/aHR0cDovL2RyeWZhcm13aW5lcy5jb20vVGlt"
+        },
+        {
+          "type": "other",
+          "url": "https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/3aNDGWvmZoNbuCFBTzEeac?w=800&fit=max"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/wnh2hghozwolzd/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/zlue04m77unh0z8l9sq"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0z8l9sq/n2hohvhod3ol42/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

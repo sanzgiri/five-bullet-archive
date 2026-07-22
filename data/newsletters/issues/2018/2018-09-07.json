@@ -6,7 +6,72 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Purchase that has proven extremely effective —",
+      "category": "other",
+      "title": "FrogLog Critter Saving Escape Ramp",
+      "creator": null,
+      "note": "Few things are grosser than pulling dead moles, frogs, and other animals out of your pool. Since installing this FrogLog, which took about 60 seconds (I loaded it with a handful of rocks), I’ve gone from 2-3 dead critters per week on average, to zero dead critters for an entire summer. It has exceeded all expectations. Thanks for the gift, Sherwood!",
+      "original_url": "https://www.amazon.com/Swimline-70200SL-FrogLog-Critter-Saving/dp/B004UHY2TY/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Swimline-70200SL-FrogLog-Critter-Saving/dp/B004UHY2TY/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "New tea I’m enjoying —",
+      "category": "other",
+      "title": "Kusmi Tea",
+      "creator": null,
+      "note": "’s [Sweet Love](https://us-en.kusmitea.com/sweet-love.html?packaging=56).** “Subtle and spicy blend that combines black tea, liquorice root, guarana seed, pink peppercorn, and various spices.” This one will light you up, so best for AM consumption.",
+      "original_url": "https://en.wikipedia.org/wiki/Kusmi_Tea",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Kusmi_Tea"
+        },
+        {
+          "type": "other",
+          "url": "https://us-en.kusmitea.com/sweet-love.html?packaging=56"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Genius video I’m once again sending to friends (I never get tired of this one) —",
+      "category": "video",
+      "title": "Apple Engineer Talks About New Macbook Pro",
+      "creator": null,
+      "note": null,
+      "original_url": "https://www.youtube.com/watch?v=-XSC_UG5_kU",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=-XSC_UG5_kU"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Outside is pure energy and colorless substance. All of the rest happens through the mechanism of our senses. Our eyes see just a small fraction of the light in the world. It is a trick to make a colored world, which does not exist outside of human beings.” — Albert Hofmann",
+      "creator": "Albert Hofmann",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Albert_Hofmann",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Albert_Hofmann"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,91 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "book",
+      "title": "The Lessons of History",
+      "creator": "Will and Ariel Durant",
+      "note": "** This short and powerful book was first recommended to me by [famed investor Ray Dalio](https://tim.blog/2017/09/13/ray-dalio/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), whose fans include Bill Gates, among others. At less than 150 pages, it can be digested in a few sittings and offers an impressive overview of human nature and the rise and fall of civilizations. The prose is also beautiful. Here’s the official book description: “A concise survey of the culture and civilization of mankind, _The Lessons of History_ is the result of a lifetime of research from Pulitzer Prize–winning historians Will and Ariel Durant. With their accessible compendium of philosophy and social progress, the Durants take us on a journey through history, exploring the possibilities and limitations of humanity over time.”",
+      "original_url": "https://www.amazon.com/Lessons-History-Will-Durant/dp/143914995X",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Lessons-History-Will-Durant/dp/143914995X"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/09/13/ray-dalio/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "If you need a new toy for the summer (or for taking out an eye) —",
+      "category": "other",
+      "title": "Waboba Pro water bouncing ball",
+      "creator": null,
+      "note": "Be careful and start slow! This travels like a skipping stone, and bounces much further than you’d expect, so ensure no one is behind your partner(s). Perfect for playing in the whitewash or in a pool. Just remember the boxing maxim: keep your hands up.",
+      "original_url": "https://www.amazon.com/Waboba-Pro-Water-Bouncing-Ball/dp/B0044784I0",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Waboba-Pro-Water-Bouncing-Ball/dp/B0044784I0"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Blast from the past that a friend found —",
+      "category": "other",
+      "title": "archive snapshot from May 2006",
+      "creator": null,
+      "note": "of “Tim Ferriss: The Human Experiment.”** The domain name will probably give you a chuckle…",
+      "original_url": "https://web.archive.org/web/20060505013509/http://cubicleescapeartist.com:80/blog/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://web.archive.org/web/20060505013509/http://cubicleescapeartist.com:80/blog/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Person I’m learning more about —",
+      "category": "other",
+      "title": "Archimedes of Syracuse",
+      "creator": null,
+      "note": "(c. 287 – c. 212 BC) was a Greek mathematician, physicist, engineer, inventor, and astronomer. Although few details of his life are known, he is regarded as one of the leading scientists in classical antiquity. Generally considered one of the greatest mathematicians of all time, Archimedes anticipated modern calculus and analysis by applying concepts of infinitesimals and the method of exhaustion to derive and rigorously prove a range of geometrical theorems, including the area of a circle, the surface area and volume of a sphere, and the area under a parabola. He is the namesake of one of my favorite concepts/metaphors that can be applied in many areas of life: [Archimedes’ lever](https://www.biglawinvestor.com/what-is-your-archimedes-lever/).",
+      "original_url": "https://en.wikipedia.org/wiki/Archimedes",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Archimedes"
+        },
+        {
+          "type": "other",
+          "url": "https://www.biglawinvestor.com/what-is-your-archimedes-lever/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Be pleasant until ten o’clock in the morning, and the rest of the day will take care of itself.” — Elbert Hubbard",
+      "creator": "Elbert Hubbard",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Elbert_Hubbard",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Elbert_Hubbard"
+        }
+      ]
+    }
+  ]
 }

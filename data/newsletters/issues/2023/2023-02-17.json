@@ -6,7 +6,171 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short op-ed I’m reading",
+      "category": "article",
+      "title": "How Do You Serve a Friend in Despair?",
+      "creator": "David Brooks",
+      "note": "([@nytdavidbrooks](https://twitter.com/nytdavidbrooks)) for _The New York Times_. For related philosophies and tools that have literally saved my life, please start here: “[Some Practical Thoughts on Suicide](https://tim.blog/2015/05/06/how-to-commit-suicide/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)” and [projects supported by the Saisei Foundation](https://saiseifoundation.org/projects/). If you are unable to read the NYT article at the first link, [try this one](https://archive.is/byYLQ#selection-271.0-276.0).",
+      "original_url": "https://www.nytimes.com/2023/02/09/opinion/despair-friendship-suicide.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/2023/02/09/opinion/despair-friendship-suicide.html"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nytimes.com/column/david-brooks"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/nytdavidbrooks"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/05/06/how-to-commit-suicide/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://saiseifoundation.org/projects/"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.is/byYLQ#selection-271.0-276.0"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Tito on Timbales",
+      "creator": "Tito Puente",
+      "note": "([YouTube](https://www.youtube.com/watch?v=dIxO88gh31w), [Spotify](https://open.spotify.com/track/75wYMQCuwgiCRt6SBzcVzu?si=b9e6c3dab009457b), [Apple Music](https://music.apple.com/us/album/tito-on-timbales/1464260435?i=1464260437)) by [Tito Puente](https://en.wikipedia.org/wiki/Tito_Puente). Tito is a legend. I like to imagine that he freestyled for an hour and selected his favorite six minutes for this track. The man knows how to jam.",
+      "original_url": "https://www.youtube.com/watch?v=dIxO88gh31w",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=dIxO88gh31w"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=dIxO88gh31w"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/75wYMQCuwgiCRt6SBzcVzu?si=b9e6c3dab009457b"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/album/tito-on-timbales/1464260435?i=1464260437"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Tito_Puente"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Documentary I’m watching",
+      "category": "video",
+      "title": "League of Legends: Origins (2019)",
+      "creator": null,
+      "note": "](https://youtu.be/74wlkXNmNdg) by [Riot Games](https://www.riotgames.com/en) ([@riotgames](https://twitter.com/riotgames), [@MarcMerrill](https://twitter.com/MarcMerrill)). Description: “In the _League of Legends: Origins_ documentary, renowned filmmaker [Leslie Iwerks](https://en.wikipedia.org/wiki/Leslie_Iwerks) offers a peek behind the scenes during the early days of League of Legends, from 2006–2017. Told by the fans who lived it, the players that popularized it, and the passionate but inexperienced developers who made it, Iwerks captures the highs and lows of turning League into a global phenomenon. Created by [Iwerks & Co.](https://www.iwerksandco.com/) in conjunction with [Riot Games](https://www.riotgames.com/en).”  \n​  \nInternal message at Riot from producer [Ashley Rios-Vazquez](https://www.linkedin.com/in/ariosvazquez/):  \n​  \n​_Wanted to give everyone a heads-up that earlier today we re-released_ League of Legends: Origins_, a feature-length documentary about League, on YouTube._\n\n_Over my 11(!) years at Riot, I’ve gotten to work on and lead some incredible projects, like_ Legends Rising_,_ Frequencies_, and_ K/DA: Popstars_, but by far the craziest was producing this film. Between 2013 and 2017, we worked with acclaimed documentarian Leslie Iwerks to shoot hundreds of hours of footage, including interviews, behind-the-scenes at multiple Worlds, and more. For League’s 10-year anniversary extravaganza, we surprise-dropped the film in collaboration with Netflix. Now that its run on Netflix is over, we’re proud to put it back out in a place where everyone can check it out. In the movie, you’ll see a lot of familiar faces, some faces of Rioters long gone, but most importantly, you’ll see a ton of players talking about why this game and sport means so much to them._",
+      "original_url": "https://youtu.be/74wlkXNmNdg",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/74wlkXNmNdg"
+        },
+        {
+          "type": "other",
+          "url": "https://www.riotgames.com/en"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/riotgames"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/MarcMerrill"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Leslie_Iwerks"
+        },
+        {
+          "type": "other",
+          "url": "https://www.iwerksandco.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.riotgames.com/en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.linkedin.com/in/ariosvazquez/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Writing I’m really enjoying",
+      "category": "other",
+      "title": "The Free Trade Zone",
+      "creator": null,
+      "note": "This is my first, public fantasy fiction with dialogue and first-person action. I’m having fun thinking about how to create characters people might get attached to, and preserving the Seventh Scribe narration while including new twists was a great challenge. Listen to the episode on [Apple Podcasts](https://podcasts.apple.com/us/podcast/11-the-free-trade-zone/id1657210471?i=1000600064540), [Spotify](https://open.spotify.com/episode/5buHcfwmpRhxaPicKj8jui?si=ylYIl8rwTT-ne5gYigixEg), or [wherever you listen to podcasts](https://podcast.cockpunch.com/11-the-free-trade-zone/).",
+      "original_url": "https://podcast.cockpunch.com/11-the-free-trade-zone/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://podcast.cockpunch.com/11-the-free-trade-zone/"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/11-the-free-trade-zone/id1657210471?i=1000600064540"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/5buHcfwmpRhxaPicKj8jui?si=ylYIl8rwTT-ne5gYigixEg"
+        },
+        {
+          "type": "other",
+          "url": "https://podcast.cockpunch.com/11-the-free-trade-zone/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“I do not believe that sheer suffering teaches. If suffering alone taught, all the world would be wise, since everyone suffers. To suffering must be added mourning, understanding, patience, love, openness, and the willingness to remain vulnerable. All these and other factors combined, if the circumstances are right, can teach and can lead to rebirth.” — Anne Morrow Lindbergh (Click here to share on Twitter) * * * You can complement this edition of 5-Bullet Friday with this clip on my daily practices and habits for combatting depression. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Anne Morrow Lindbergh",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Anne_Morrow_Lindbergh",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Anne_Morrow_Lindbergh"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/cP_01"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/zJGJGVicLkQ"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

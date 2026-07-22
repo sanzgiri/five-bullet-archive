@@ -7,7 +7,111 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short workout I’m enjoying",
+      "category": "other",
+      "title": "My Workout with KneesOverToesGuy",
+      "creator": null,
+      "note": "This one really only takes 10–15 minutes and offers a great ROI. I’m literally headed to the gym right after finishing this newsletter to bang it out.",
+      "original_url": "https://www.youtube.com/watch?v=xpM4V6O9f6w",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=xpM4V6O9f6w"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Book I’m reading",
+      "category": "book",
+      "title": "Genentech: The Beginnings of Biotech",
+      "creator": "Sally Smith Hughes",
+      "note": ". This was recommended to me by multiple biotech founders as the best book on behind-the-scenes stories about biotech startups. It takes a little while to warm up, but then it turns into a wild page-turner. With unprecedented access, the author is able to share details of negotiations, contracts, key decisions, unforced errors by competitors (and universities), and much more. I’ve taken a LOT of notes in this one.",
+      "original_url": "https://www.amazon.com/Genentech-The-Beginnings-of-Biotech/dp/B09GCLKJQT/?tag=offsitoftimfe-20",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Genentech-The-Beginnings-of-Biotech/dp/B09GCLKJQT/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://press.uchicago.edu/ucp/books/author/H/S/au8169879.html"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Video I’m watching",
+      "category": "video",
+      "title": "UFC is NOT Ready For Him... Next Gen Submission Master - Mica Galvão",
+      "creator": null,
+      "note": "Across the board, it is head-spinning to consider how much grappling has evolved in the last decade, but Mica and some of the younger guard (e.g., Kade Ruotolo) take things to levels practically unthinkable 10 years ago. This is a fun highlight reel, and don’t miss the hand-inverted inside ankle pick.",
+      "original_url": "https://youtu.be/duJendMuh9w",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/duJendMuh9w"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "More reasons to study a language",
+      "category": "other",
+      "title": "Multilingualism and Extending Healthspan",
+      "creator": null,
+      "note": "From the article: “As the accompanying commentary asserted: ‘multilingual usage across the lifespan could be as important as campaigns that promote physical activity, or smoking cessation.’”  \n​  \nLanguage learning can be one of the greatest joys of your life. It certainly has been for me, but it required letting go of all the high-school Spanish classes that had failed me. You just need better methods that are both fun and effective.  \n​  \nMight be time to try out [Duolingo](https://www.duolingo.com/) and tackle that language that’s always been on your to-learn list! For more practical tips, check out some of the [“Language Learning” posts on my blog](https://tim.blog/category/language/), which explain how I’ve tackled Japanese, Spanish, Korean, and others. A number of posts also feature the techniques of polyglot wizards like [Benny Lewis](https://tim.blog/2014/03/21/how-to-learn-a-foreign-language-2/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit).",
+      "original_url": "https://erictopol.substack.com/p/multilingualism-and-extending-healthspan?r=2y0er&utm_campaign=email-half-post&utm_medium=email&utm_source=substack",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://erictopol.substack.com/p/multilingualism-and-extending-healthspan?r=2y0er&utm_campaign=email-half-post&utm_medium=email&utm_source=substack"
+        },
+        {
+          "type": "other",
+          "url": "https://www.duolingo.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/category/language/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/03/21/how-to-learn-a-foreign-language-2/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“I made my money by selling too soon.” ― Bernard Baruch, prominent American financier and statesman who, after amassing a fortune on Wall Street, served as a key advisor to U.S. presidents on economic and industrial mobilization during both World Wars (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my brand-new podcast episode: “How to Simplify Your Life in 2026 — New Tips from Derek Sivers, Seth Godin, and Martha Beck.” And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "New Tips from Derek Sivers, Seth Godin, and Martha Beck.” And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Bernard_Baruch",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Bernard_Baruch"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/5q324"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/11/26/how-to-simplify-your-life/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

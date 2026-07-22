@@ -6,7 +6,119 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short document I’m revisiting —",
+      "category": "other",
+      "title": "Amazon’s internal leadership principles",
+      "creator": null,
+      "note": "Pair it with [Every Amazon Shareholder Letter in a Single Downloadable PDF](https://medium.com/@austenallred/every-amazon-shareholder-letter-as-downloadable-pdf-4eb2ae886018). Jeff Bezos ([@jeffbezos](https://twitter.com/jeffbezos)) never ceases to amaze, and these letters really highlight how prescient and strategic he and Amazon have been since the 1990s. If you prefer a shortened version via audio, [this is worth a shot](https://founders.simplecast.com/episodes/jeff-bezos-shareholder-letters-all-of-t-hAgb6DJ6) and includes some fun trivia (e.g., What was the original name idea for Amazon.com? Click on this: [Relentless.com](http://relentless.com)…). Big hat tip to Ricardo of [Most Recommended Books](https://mostrecommendedbooks.com/), whose site is also worth checking out.",
+      "original_url": "https://www.amazon.jobs/en/principles",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.jobs/en/principles"
+        },
+        {
+          "type": "other",
+          "url": "https://medium.com/@austenallred/every-amazon-shareholder-letter-as-downloadable-pdf-4eb2ae886018"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/jeffbezos"
+        },
+        {
+          "type": "other",
+          "url": "https://founders.simplecast.com/episodes/jeff-bezos-shareholder-letters-all-of-t-hAgb6DJ6"
+        },
+        {
+          "type": "other",
+          "url": "http://relentless.com"
+        },
+        {
+          "type": "other",
+          "url": "https://mostrecommendedbooks.com/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching (long) —",
+      "category": "video",
+      "title": "Wolfwalkers",
+      "creator": null,
+      "note": "I watched this with a friend’s family, several young kids included, and we all loved it. Short description: “A young apprentice hunter and her father journey to Ireland to help wipe out the last wolf pack. But everything changes when she befriends a free-spirited girl from a mysterious tribe rumored to transform into wolves by night.” It has a [100% audience score](https://www.rottentomatoes.com/m/wolfwalkers) on Rotten Tomatoes, and you can [find the trailer here](https://www.youtube.com/watch?v=d_Z_tybgPgg).",
+      "original_url": "https://tv.apple.com/us/movie/wolfwalkers/umc.cmc.amuoq00hqelfi98j0gvg641x",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tv.apple.com/us/movie/wolfwalkers/umc.cmc.amuoq00hqelfi98j0gvg641x"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rottentomatoes.com/m/wolfwalkers"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=d_Z_tybgPgg"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching (short) —",
+      "category": "video",
+      "title": "Wrestling Coaches Strip in Protest at the 2016 Olympics, a breakdown",
+      "creator": null,
+      "note": "This was sent to me by a former Olympian. It’s tragic, hilarious, and nearly unbelievable on several levels. Thanks, Matty T!",
+      "original_url": "https://youtu.be/56HpCQak9AQ",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/56HpCQak9AQ"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Questions I’m considering journaling on —",
+      "category": "other",
+      "title": "Dickie Bush",
+      "creator": null,
+      "note": "\\[THREAD\\]**](https://twitter.com/dickiebush/status/1287814195107463173)**”** from [Dickie Bush](https://dickiebush.substack.com/) ([@dickiebush](https://twitter.com/dickiebush)).",
+      "original_url": "https://dickiebush.substack.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://dickiebush.substack.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/dickiebush"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering once again —",
+      "category": "quote",
+      "title": "“If you absolutely can’t tolerate critics, then don’t do anything new or interesting.”— Jeff Bezos And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Jeff Bezos And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Jeff_Bezos",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Jeff_Bezos"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

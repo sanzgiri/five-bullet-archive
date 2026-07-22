@@ -6,7 +6,203 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Photos I’m revisiting —",
+      "category": "other",
+      "title": "Antarctica photos",
+      "creator": "Om Malik",
+      "note": "([@om](https://twitter.com/om)), who was recently with me among the penguins. Pair these pics with [my podcast recorded in Antarctica](https://tim.blog/2022/03/09/matt-mullenweg-antarctica/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) with [Matt Mullenweg](https://tim.blog/2022/03/09/matt-mullenweg-antarctica/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@photomatt](https://twitter.com/photomatt)).",
+      "original_url": "https://buy.photosbyom.com/Travels/Antarctica-TimFerrisPicks/n-GcSQ5D/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://buy.photosbyom.com/Travels/Antarctica-TimFerrisPicks/n-GcSQ5D/"
+        },
+        {
+          "type": "other",
+          "url": "https://om.co/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/om"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/03/09/matt-mullenweg-antarctica/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/03/09/matt-mullenweg-antarctica/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/photomatt"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m putting money into —",
+      "category": "other",
+      "title": "Ryan Holiday",
+      "creator": null,
+      "note": "to _Tribe of Mentors_ (2017)—five books in total. Thank you to [Ryan Holiday](http://ryanholiday.net) for the inspiration and genius idea. If this gains momentum, it will make a real impact. Do any other authors or creators want to join us?  \n  \nPlease share my related posts on [Instagram](https://www.instagram.com/p/Ca8X6BlsANs/), [Twitter](https://twitter.com/tferriss/status/1502103847728300070), [Facebook](https://www.facebook.com/TimFerriss/posts/507510074072346?__cft__%5B0%5D=AZU5iZbwRetYgb51aRvz1tvTpB8BxNc8lprgS4AfiVq-Jcf70XOgemnUJEkxf3E1ZbqgbQbE8L_zDf1r7ix18CCaakgcyc4czYscRU0c3TPo2vEHfw0qsYd0BUSjhd09DHzs5JJ5LPdcZzMedo6WKhW1&__tn__=%2CO%2CP-R), and [LinkedIn](https://www.linkedin.com/posts/timferriss_ukraine-activity-6907847532861624320-qDQC/). I believe this can move the needle.  \n  \nCredible sources have recommended donating to the following organizations:  \n[Flexport.org](https://www.flexport.org/donate)  \n[Come Back Alive  \n](https://www.comebackalive.in.ua/)[The National Bank of Ukraine  \n](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi?fbclid=IwAR3al7MvSIM6O8JOBtKOPiqZS1EcSOw-GwtF5ntgYAhJ4kp72VpdbZj_zQU)[Ukraine Defense Fund  \n  \n](https://ukrainedefensefund.org/)For more resources, please see this list:  \n[More Ways to Support Ukraine  \n  \n](https://www.ycombinator.com/blog/supporting-ukraine)",
+      "original_url": "http://ryanholiday.net",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://ryanholiday.net"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/Ca8X6BlsANs/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss/status/1502103847728300070"
+        },
+        {
+          "type": "other",
+          "url": "https://www.facebook.com/TimFerriss/posts/507510074072346?__cft__%5B0%5D=AZU5iZbwRetYgb51aRvz1tvTpB8BxNc8lprgS4AfiVq-Jcf70XOgemnUJEkxf3E1ZbqgbQbE8L_zDf1r7ix18CCaakgcyc4czYscRU0c3TPo2vEHfw0qsYd0BUSjhd09DHzs5JJ5LPdcZzMedo6WKhW1&__tn__=%2CO%2CP-R"
+        },
+        {
+          "type": "other",
+          "url": "https://www.linkedin.com/posts/timferriss_ukraine-activity-6907847532861624320-qDQC/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.flexport.org/donate"
+        },
+        {
+          "type": "other",
+          "url": "https://www.comebackalive.in.ua/"
+        },
+        {
+          "type": "other",
+          "url": "https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi?fbclid=IwAR3al7MvSIM6O8JOBtKOPiqZS1EcSOw-GwtF5ntgYAhJ4kp72VpdbZj_zQU"
+        },
+        {
+          "type": "other",
+          "url": "https://ukrainedefensefund.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.ycombinator.com/blog/supporting-ukraine"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m celebrating —",
+      "category": "other",
+      "title": "Johns Hopkins, Yale, and NYU are teaming up to tackle a key bottleneck that will arise as psychedelics come to market",
+      "creator": "Yeji Jesse Lee",
+      "note": "([@jesse\\_yeji](https://twitter.com/jesse_yeji)).**This has been in the works for a while, and I couldn’t be more excited.** Here are a few snippets from the above piece: “As psychedelics treatments move closer to regulatory approval, there’s an issue looming in the industry: the lack of trained professionals who can handle such powerful compounds. … The goal is to have the curriculum certified by the Accreditation Council for Graduate Medical Education, which would create a pathway to make the program available to medical schools as an accredited specialty all across the country. … The idea is that the program will be designed in a way so that parts of the curriculum can help train other healthcare professionals—like therapists, nurses, and physician assistants—and even be provided as material in medical schools.”  \n  \n[The Saisei Foundation](https://saiseifoundation.org/), which I started in 2018, is thrilled to be involved. For the official release from the Yale School of Medicine, please read “[Grant Supports Development of Training for Psychiatrists in Psychedelic Medicine](https://medicine.yale.edu/psychiatry/news-article/grant-supports-development-of-training-for-psychiatrists-in-psychedelic-medicine/).” Special thanks to Carey and Claudia Turnbull for quarterbacking this and to the institutions jointly developing the program: the [Yale University Program for Psychedelic Science](https://medicine.yale.edu/psychiatry/research/programs/clinical_people/psychedelic/), the [Johns Hopkins Center for Psychedelic and Consciousness Research](https://www.hopkinsmedicine.org/psychiatry/research/psychedelics-research.html), and the [NYU Langone Health Center for Psychedelic Medicine](https://med.nyu.edu/departments-institutes/psychiatry/research/center-psychedelic-medicine).",
+      "original_url": "https://www.businessinsider.com/psychedelics-psychiatrist-training-program-johns-hopkins-nyu-yale-university-2022-3?r=US&IR=T",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.businessinsider.com/psychedelics-psychiatrist-training-program-johns-hopkins-nyu-yale-university-2022-3?r=US&IR=T"
+        },
+        {
+          "type": "other",
+          "url": "https://www.businessinsider.com/author/yeji-jesse-lee"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/jesse_yeji"
+        },
+        {
+          "type": "other",
+          "url": "https://saiseifoundation.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://medicine.yale.edu/psychiatry/news-article/grant-supports-development-of-training-for-psychiatrists-in-psychedelic-medicine/"
+        },
+        {
+          "type": "other",
+          "url": "https://medicine.yale.edu/psychiatry/research/programs/clinical_people/psychedelic/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.hopkinsmedicine.org/psychiatry/research/psychedelics-research.html"
+        },
+        {
+          "type": "other",
+          "url": "https://med.nyu.edu/departments-institutes/psychiatry/research/center-psychedelic-medicine"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to and watching —",
+      "category": "video",
+      "title": "Road to Nowhere",
+      "creator": "Ozzy Ozbourne",
+      "note": "([YouTube](https://www.youtube.com/watch?v=YFSgYa8YfWk), [Spotify](https://open.spotify.com/track/0gXMYs6RDg5muWWoi2q3mb?autoplay=true)) by [Ozzy Ozbourne](https://www.ozzy.com/) ([@OzzyOsbourne](https://twitter.com/OzzyOsbourne)).  \n[**_Braveheart_**](https://www.amazon.com/Braveheart-Mel-Gibson/dp/B000HX4ZF6/ref=sr_1_2?crid=2CSLIBQE0FJ2A&keywords=braveheart&qid=1646967645&sprefix=braveheart%2Caps%2C93&sr=8-2) ([Amazon](https://www.amazon.com/Braveheart-Mel-Gibson/dp/B000HX4ZF6/ref=sr_1_2?crid=2CSLIBQE0FJ2A&keywords=braveheart&qid=1646967645&sprefix=braveheart%2Caps%2C93&sr=8-2), [YouTube](https://www.youtube.com/watch?v=eBjvpfmxJG8), [Apple TV](https://tv.apple.com/us/movie/braveheart/umc.cmc.6lkfj9wyv04km68kr34nv7t0k?action=play)). I came across this on DirecTV at an Airbnb while writing this edition of _5-Bullet Friday_. I still remember where and when I saw _Braveheart_ for the first time. It never gets old.",
+      "original_url": "https://www.youtube.com/watch?v=YFSgYa8YfWk",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=YFSgYa8YfWk"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=YFSgYa8YfWk"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/0gXMYs6RDg5muWWoi2q3mb?autoplay=true"
+        },
+        {
+          "type": "other",
+          "url": "https://www.ozzy.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/OzzyOsbourne"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Braveheart-Mel-Gibson/dp/B000HX4ZF6/ref=sr_1_2?crid=2CSLIBQE0FJ2A&keywords=braveheart&qid=1646967645&sprefix=braveheart%2Caps%2C93&sr=8-2"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Braveheart-Mel-Gibson/dp/B000HX4ZF6/ref=sr_1_2?crid=2CSLIBQE0FJ2A&keywords=braveheart&qid=1646967645&sprefix=braveheart%2Caps%2C93&sr=8-2"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=eBjvpfmxJG8"
+        },
+        {
+          "type": "other",
+          "url": "https://tv.apple.com/us/movie/braveheart/umc.cmc.6lkfj9wyv04km68kr34nv7t0k?action=play"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Passage I’m pondering —",
+      "category": "other",
+      "title": "Rainer Maria Rilke",
+      "creator": null,
+      "note": "And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n  \nHave a wonderful weekend, all.  \n  \nMuch love to you and yours,  \n  \nTim",
+      "original_url": "https://en.wikipedia.org/wiki/Rainer_Maria_Rilke",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Rainer_Maria_Rilke"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

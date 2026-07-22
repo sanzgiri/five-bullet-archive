@@ -6,7 +6,191 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Track I’m playing on repeat",
+      "category": "music",
+      "title": "Nasty",
+      "creator": "Polyphia",
+      "note": "([YouTube](https://www.youtube.com/watch?v=i7UkKEEGgAQ), [Spotify](https://open.spotify.com/track/2yWAPCnRMbpbGqVHAZzqgJ)) by [Polyphia](https://www.polyphia.com/) ([@polyphia](https://twitter.com/polyphia)) feat. [Jason Richardson](https://en.wikipedia.org/wiki/Jason_Richardson_(musician)) ([@jasonGRIN](https://twitter.com/jasongrin)). This seemed to me like an appropriate soundtrack for the week. Holy shit!",
+      "original_url": "https://open.spotify.com/track/2yWAPCnRMbpbGqVHAZzqgJ",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://open.spotify.com/track/2yWAPCnRMbpbGqVHAZzqgJ"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=i7UkKEEGgAQ"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/2yWAPCnRMbpbGqVHAZzqgJ"
+        },
+        {
+          "type": "other",
+          "url": "https://www.polyphia.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/polyphia"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Jason_Richardson_(musician"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/jasongrin"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "The Most Important Algorithm Of All Time",
+      "creator": null,
+      "note": "From the video description: “The Fast Fourier Transform is used everywhere, but it has a fascinating origin story that could have ended the nuclear arms race.” [Derek Muller](https://www.veritasium.com/about) ([@veritasium](https://twitter.com/veritasium)) is the creator of [Veritasium](https://www.youtube.com/c/veritasium/videos), one of my favorite YouTube channels. Veritasium is “a channel of science and engineering videos featuring experiments, expert interviews, cool demos, and discussions with the public about everything science.”",
+      "original_url": "https://youtu.be/nmgFG7PUHfo",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/nmgFG7PUHfo"
+        },
+        {
+          "type": "other",
+          "url": "https://www.veritasium.com/about"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/veritasium"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/c/veritasium/videos"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Articles I’m reading",
+      "category": "article",
+      "title": "What Are Sanderson’s Laws Of Magic?",
+      "creator": "Brandon Sanderson",
+      "note": ". Hat tip to [Sahil Lavingia](https://twitter.com/shl/status/1585630778062692353).\n\n**“**[**How I got 50 high-profile angel investors to join our seed round**](https://www.mentava.com/blog/how-i-got-50-high-profile-angel-investors-to-join-our-seed-round)**”** by [Niels Hoven](https://www.linkedin.com/in/nielshoven/) ([@NielsHoven](https://twitter.com/NielsHoven)).",
+      "original_url": "https://faq.brandonsanderson.com/knowledge-base/what-are-sandersons-laws-of-magic/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://faq.brandonsanderson.com/knowledge-base/what-are-sandersons-laws-of-magic/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.brandonsanderson.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/shl/status/1585630778062692353"
+        },
+        {
+          "type": "other",
+          "url": "https://www.mentava.com/blog/how-i-got-50-high-profile-angel-investors-to-join-our-seed-round"
+        },
+        {
+          "type": "other",
+          "url": "https://www.linkedin.com/in/nielshoven/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/NielsHoven"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Podcast episode I’m listening to",
+      "category": "podcast",
+      "title": "Krom the Barbarian",
+      "creator": null,
+      "note": "([Apple Podcasts](https://podcasts.apple.com/us/podcast/12-krom-the-barbarian/id975078285?i=1000381916654&l=en), [Spotify](https://open.spotify.com/episode/49SMSxh40sl63JyD1NG6e0)) from [_Hello from the Magic Tavern_](https://hellofromthemagictavern.com/)_,_ hosted by Arnie ([Arnie Niekamp](https://twitter.com/misterarnie)), Chunt ([Adal Rifai](https://twitter.com/adalrifai)), Usidore ([Matt Young](https://twitter.com/morepeoplehappy)), and Krom the Barbarian ([Mark Logsdon](https://twitter.com/marklogdog)). This is truly hilarious improv. PLEASE listen through to the end of the dream journal section. Deep bow to Eric and friends for the outstanding recommendation. The “[Offices and Bosses](https://hellofromthemagictavern.com/episodes/2019/04/22/bonus-offices-and-bosses-s1e1-flower-from-i-t)” miniseries from _Hello from the Magic Tavern_ is also great, but it makes more sense if you have some D&D experience. “[Halfling Bards](https://hellofromthemagictavern.com/episodes/2016/07/04/69-halfling-bards)” requires no D&D background and will make you spit out your coffee. Because of the humor or the offensiveness? Possibly both.",
+      "original_url": "https://hellofromthemagictavern.com/episodes/2015/05/27/12-krom-the-barbarian",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://hellofromthemagictavern.com/episodes/2015/05/27/12-krom-the-barbarian"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/12-krom-the-barbarian/id975078285?i=1000381916654&l=en"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/49SMSxh40sl63JyD1NG6e0"
+        },
+        {
+          "type": "other",
+          "url": "https://hellofromthemagictavern.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/misterarnie"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/adalrifai"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/morepeoplehappy"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/marklogdog"
+        },
+        {
+          "type": "other",
+          "url": "https://hellofromthemagictavern.com/episodes/2019/04/22/bonus-offices-and-bosses-s1e1-flower-from-i-t"
+        },
+        {
+          "type": "other",
+          "url": "https://hellofromthemagictavern.com/episodes/2016/07/04/69-halfling-bards"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“And so it is that most people have no idea how beautiful the world is and how much magnificence is revealed in the tiniest things, in some flower, in a stone, in tree bark, or in a birch leaf. The grown-ups, going about their business and worries, and tormenting themselves with all kinds of details, gradually lose the perspective for these riches that children, when they are attentive and good, soon notice and love with their whole heart. And yet the greatest beauty would be achieved if everyone remained in this regard always like attentive and good children, simple and pious in sensitivities, and if people did not lose the capacity for taking pleasure as intensely in a birch leaf or a peacock’s feather or the wing of a hooded crow as in a mighty mountain or a splendid palace. What is small is not small in itself, just as that which is great is not—great. A great and eternal beauty passes through the whole world, and it is distributed fairly over that which is small and that which is large; for in such important and essential matters, no injustice is to be found on earth.” — Rainer Maria Rilke You can complement this edition of 5-Bullet Friday with my interview with former Google CEO Eric Schmidt on the promises and perils of AI, my conversation with scientist Dr. Rana el Kaliouby on AI and emotions, and this deep dive on cutting-edge technologies with famed investor Steve Jurvetson. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "great. A great and eternal beauty passes through the whole world, and it is distributed fairly over that which is small and that which is large; for in such important and essential matters, no injustice is to be found on earth.” — Rainer Maria Rilke You can complement this edition of 5-Bullet Friday with my interview with former Google CEO Eric Schmidt on the promises and perils of AI, my conversation with scientist Dr. Rana el Kaliouby on AI and emotions, and this deep dive on cutting-edge technologies with famed investor Steve Jurvetson. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Rainer_Maria_Rilke",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Rainer_Maria_Rilke"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/10/25/eric-schmidt-ai/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/04/21/rana-el-kaliouby/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/05/31/steve-jurvetson/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

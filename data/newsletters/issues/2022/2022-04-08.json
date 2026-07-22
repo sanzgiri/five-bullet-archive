@@ -6,7 +6,151 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m putting on nearly everything",
+      "category": "other",
+      "title": "Yellowbird’s habanero sauce",
+      "creator": null,
+      "note": "This stuff is magical and crafted right in my backyard of Austin. The last time I featured Yellowbird in 5BF, [you seemed to love them in a big way](https://twitter.com/yellowbirdsauce/status/1254796046603034625). Here’s the official description: “Meet the cult classic that’s now 100% organic with no added sugars! Our organic habanero condiment boasts a flavorful, balanced heat with a complex blend of organic habanero peppers, carrots, and tangerines.”",
+      "original_url": "https://www.yellowbirdfoods.com/products/organic-habanero-condiment?variant=31705524043831",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.yellowbirdfoods.com/products/organic-habanero-condiment?variant=31705524043831"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/yellowbirdsauce/status/1254796046603034625"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "La La Land (Amazon",
+      "creator": null,
+      "note": ", [YouTube](https://www.youtube.com/watch?v=gC37e02iu4M), [Apple TV](https://tv.apple.com/us/movie/la-la-land-una-historia-de-amor/umc.cmc.2ls5rdvvy1t038my1urkcjt94?action=play), [Google Store](https://play.google.com/store/movies/details?id=9ZZN8wx-IpI.P)). This movie is outstanding. I held off for a few years, despite the many recommendations from friends, because I’m largely allergic to musicals. Chew through that and you’ll be rewarded. [Emma Stone](https://en.wikipedia.org/wiki/Emma_Stone) and [Ryan Gosling](https://en.wikipedia.org/wiki/Ryan_Gosling) ([@RyanGosling](https://twitter.com/RyanGosling)) are beyond talented. Multi-hyphenate doesn’t do either of them justice. If you liked [_Whiplash_](https://www.amazon.com/Whiplash-Paul-Reiser/dp/B00PRX66TE), this is also from [Damien Chazelle](https://en.wikipedia.org/wiki/Damien_Chazelle), the same writer-director. From Wikipedia: “It won a record-breaking seven awards from its seven nominations at the 74th Golden Globes and received eleven nominations at the 70th British Academy Film Awards, winning five, including Best Film. The film also received a record-tying fourteen nominations at the 89th Academy Awards, winning in six categories, including Best Actress for Stone and Best Director for Chazelle.” [Find the trailer here](https://www.youtube.com/watch?v=0pdqf4P9MB8).",
+      "original_url": "https://www.amazon.com/Land-4K-UHD-Ryan-Gosling/dp/B07VH41FM3/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Land-4K-UHD-Ryan-Gosling/dp/B07VH41FM3/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=gC37e02iu4M"
+        },
+        {
+          "type": "other",
+          "url": "https://tv.apple.com/us/movie/la-la-land-una-historia-de-amor/umc.cmc.2ls5rdvvy1t038my1urkcjt94?action=play"
+        },
+        {
+          "type": "other",
+          "url": "https://play.google.com/store/movies/details?id=9ZZN8wx-IpI.P"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Emma_Stone"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Ryan_Gosling"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/RyanGosling"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Whiplash-Paul-Reiser/dp/B00PRX66TE"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Damien_Chazelle"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=0pdqf4P9MB8"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to again",
+      "category": "podcast",
+      "title": "Tres Deseos - Sesiones de Estudio (En Vivo)",
+      "creator": null,
+      "note": "](https://www.youtube.com/watch?v=Atylb_YcJ0g)**”** by [Churupaca](https://open.spotify.com/artist/0B6mwRbxKrvUvklMk9571H) ([@churupacaoficial](https://www.instagram.com/churupacaoficial/)). If you listen to this a few times, it will get stuck in your head… and that’s a good thing. Find the lyrics in the video description.",
+      "original_url": "https://www.youtube.com/watch?v=Atylb_YcJ0g",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=Atylb_YcJ0g"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/artist/0B6mwRbxKrvUvklMk9571H"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/churupacaoficial/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What my foundation is supporting",
+      "category": "other",
+      "title": "Fireside Project",
+      "creator": null,
+      "note": "Official description: “Fireside Project’s Psychedelic Peer Support Line offers free, confidential peer support by phone and text message to people in the midst of psychedelic experiences, people holding space for others who are in the midst of psychedelic experiences, and people integrating past psychedelic experiences.” The line is available daily from 3 PM to 3 AM PT at 62-FIRESIDE (623-473-7433), and it has been featured in [_Esquire_](https://www.esquire.com/lifestyle/health/a36118844/psychedelic-drug-trip-support-line-fireside-project/), [_Forbes_](https://www.forbes.com/sites/amandasiebert/2021/09/25/how-effective-is-fireside-projects-psychedelic-hotline-new-study-aims-to-find-out/?sh=5cfdb3463151), [_Rolling Stone_](https://www.rollingstone.com/culture/culture-features/psychedelic-help-support-line-fireside-maps-1190166/), and others.",
+      "original_url": "https://firesideproject.org/psychedelic-peer-support-line",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://firesideproject.org/psychedelic-peer-support-line"
+        },
+        {
+          "type": "other",
+          "url": "https://www.esquire.com/lifestyle/health/a36118844/psychedelic-drug-trip-support-line-fireside-project/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.forbes.com/sites/amandasiebert/2021/09/25/how-effective-is-fireside-projects-psychedelic-hotline-new-study-aims-to-find-out/?sh=5cfdb3463151"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rollingstone.com/culture/culture-features/psychedelic-help-support-line-fireside-maps-1190166/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“That’s L.A. They worship everything and they value nothing.” — Sebastian Wilder in La La Land_, played by Ryan Gosling And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Sebastian Wilder in La La Land_, played by Ryan Gosling And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://www.amazon.com/Land-4K-UHD-Ryan-Gosling/dp/B07VH41FM3/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Land-4K-UHD-Ryan-Gosling/dp/B07VH41FM3/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/RyanGosling"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

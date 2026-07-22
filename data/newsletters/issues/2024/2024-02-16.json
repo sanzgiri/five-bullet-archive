@@ -6,7 +6,187 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Behind-the-scenes craftsmanship I’m enjoying",
+      "category": "other",
+      "title": "How Taylor Tomlinson Nailed the Closing Joke in her Netflix Special",
+      "creator": null,
+      "note": "This text-plus-video feature shows how comic Taylor Tomlinson spent a year workshopping the closing joke of her Netflix special. It’s incredible that all of this was captured and woven together. As they say, writing is rewriting. This is true for nearly everything. In the world of tech, Steve Blank has said, “No plan survives first contact with customers.” Same same. Quality begins with a shitty first draft, so just get started and take the punches. That’s how you press the carbon into diamonds: pressure and time.",
+      "original_url": "https://www.nytimes.com/interactive/2024/02/13/arts/television/taylor-tomlinson-have-it-all-netflix.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/interactive/2024/02/13/arts/television/taylor-tomlinson-have-it-all-netflix.html"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m rereading",
+      "category": "article",
+      "title": "The Law of Shitty Clickthroughs",
+      "creator": null,
+      "note": "This is an oldie but goodie from [podcast guest Andrew Chen](https://tim.blog/2021/11/30/andrew-chen/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content). It still applies. NOTE: If his giant popup covers your screen, there is a light-colored, gray “X” exit at the very top right.",
+      "original_url": "https://andrewchen.com/the-law-of-shitty-clickthroughs/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://andrewchen.com/the-law-of-shitty-clickthroughs/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/11/30/andrew-chen/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Podcast episode I’m listening to",
+      "category": "podcast",
+      "title": "A former church girl’s search for a new spiritual home",
+      "creator": null,
+      "note": "Sex, drugs, and Pentecostals? Doms and dungeons? You betcha. Not for the faint of heart. There’s something in this that will make nearly everyone uncomfortable.  \n​  \nI strongly suggest you feel the discomfort and ride it through. Think of it as an auditory BDSM meditation. There are quite a few gems sprinkled throughout. Sometimes “life begins at the end of your comfort zone” (Neal Donald Walsch), so you might as well get some practice.",
+      "original_url": "https://www.npr.org/2026/01/01/1198004949/zz-codeswitch-bonusdraft",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.npr.org/2026/01/01/1198004949/zz-codeswitch-bonusdraft"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Anatomy Of A Twitter/X Account Takeover Hack",
+      "creator": null,
+      "note": "If Fred Wilson can get caught, so can you, and this short post is a great reminder.  \n​**​  \nNOTE ON TWO CURRENT TIM FERRISS SCAMS:  \n​**First, there are multiple scammers emailing people from “The Tim Ferriss Show,” offering to pay them to appear on the podcast. These are all a scam. I don’t pay people to appear, and no one has ever paid me to appear on the show. The grift appears to be this: they eventually get you on a Zoom call, have you share your screen, then either take over your Facebook page (possibly to drain crypto wallets with fake offerings) or convince you to “pay a small fee to join an event.” I know that scammers are also claiming to represent Rich Roll, Lewis Howes, and many others. Don’t fall for it. I’m not aware of a single large or credible podcast that will pay you to appear as a guest.  \n​  \nSecond, there are imitators with fake TF accounts DMing people on Instagram. That’s not me, folks. My only real account is [@timferriss](https://www.instagram.com/timferriss/) on Instagram.",
+      "original_url": "https://avc.xyz/anatomy-of-a-twitterx-account-takeover-hack",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://avc.xyz/anatomy-of-a-twitterx-account-takeover-hack"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/timferriss/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“It is not a lack of love, but a lack of friendship, that makes unhappy marriages.” — Friedrich Nietzsche_ _(Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with the latest episode (“Dating”) from The Tim Ferriss Experiment_, my conversation with Andreessen Horowitz general partner Andrew Chen, and my blog post “11 Reasons Not to Be Famous.” Have a wonderful weekend, all. Much love to you and yours, Tim ### Forwarded this message? Sign up here. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. Sign Up ### Listen to The Tim Ferriss Show Podcast The Tim Ferriss Show is one of the most popular podcasts in the world with more than 900 million downloads. It has been selected for \"Best of Apple Podcasts\" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts on many occasions. Podcasts Apple Podcasts Overcast Spotify Tim's Blog ### Read Tim's Books [](https://tim.blog/tim-ferriss-books/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test) Amazon Audible B & N Tim's Blog Follow Tim: [](https://twitter.com/tferriss) [](https://www.instagram.com/timferriss/) [](https://www.youtube.com/channel/UCznv7Vf9nBdJYvBagFdAHWw) [](https://www.facebook.com/TimFerriss) [](https://www.linkedin.com/in/timferriss/) DO NOT REPLY HERE: Due to volume, please do not reply to this email. Sadly we are unable to read 1000+ email replies daily. To reply to Tim, please do so in the blog comments here. No longer want these emails? Unsubscribe 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Friedrich Nietzsche_ _",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/ZBhi5"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/3zPa7b1uq4A"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/11/30/andrew-chen/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/02/02/reasons-to-not-become-famous/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/?utm_source=convertkit&utm_medium=convertit&utm_campaign=footer"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/27uk8e5mmuohv9d5dmtrsr5r3744"
+        }
+      ]
+    }
+  ]
 }

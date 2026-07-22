@@ -6,7 +6,254 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Eat Drink Man Woman",
+      "creator": null,
+      "note": "I've seen this movie at least five times over the past 25 years. It’s a wonderful, feel-good movie, and it will make you \\*very\\* hungry. For the film nerds, it’s one of the early [Ang Lee](https://en.wikipedia.org/wiki/Ang_Lee) films (before _Crouching Tiger, Hidden Dragon_; _Brokeback Mountain_; _Life of Pi_, etc.) that put him on the global map. For the language nerds, you’ll hear many different flavors of Mandarin, plus one showcase of Taiwanese.  \n​  \nFrom the description: “Master Chef Chu ([Sihung Lung](https://en.wikipedia.org/wiki/Sihung_Lung)) is semi-retired and lives at home with his three unmarried daughters, Jia-Jen ([Kuei-Mei Yang](https://en.wikipedia.org/wiki/Yang_Kuei-mei)), a religious chemistry teacher; Jia-Chien ([Chien-Lien Wu](https://en.wikipedia.org/wiki/Jacklyn_Wu)), an airline executive; and Jia-Ning ([Yu-Wen Wang](https://en.wikipedia.org/wiki/Wang_Yu-wen_(Taiwanese_actress))), an employee at a fast-food joint. Life at the family’s house revolves heavily around preparing and eating an elaborate dinner every Sunday. The stability of these meals gives them all strength as they deal with new romantic relationships and disappointments.” [You can watch the film for free](https://www.youtube.com/watch?v=_MQODtUW8k0&rco=1) on YouTube.",
+      "original_url": "https://www.youtube.com/watch?v=_MQODtUW8k0&rco=1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=_MQODtUW8k0&rco=1"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Ang_Lee"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Sihung_Lung"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Yang_Kuei-mei"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Jacklyn_Wu"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Wang_Yu-wen_(Taiwanese_actress"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=_MQODtUW8k0&rco=1"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Some Contemporary Heresies",
+      "creator": "Kevin Kelly",
+      "note": ". Having known Kevin a long time, I suspect that these are collected from some very smart people. Smart doesn’t always equal right, but it does add a little color to the wild statements.**​  \n“**[**Faith in the Possible**](https://reidhoffman.substack.com/p/faith-in-the-possible?mc_cid=034a07274e)**.”** This is the first article on [Reid Hoffman](https://tim.blog/2015/08/31/the-oracle-of-silicon-valley-reid-hoffman-plus-michael-mccullough/)’s new Substack _Theory of the Game_. This piece has a good fine-slicing of the religion of techno-optimism, which is reframed as _creation_. His description of the various religious factions is very good, and I hadn’t seen it put so succinctly before. One important footnote: read the comments. I’m sharing this article for the thought-provoking comments as much as I am for the piece itself. Some of them provide alternative lenses and more critical views of startups as engines of progress.",
+      "original_url": "https://kevinkelly.substack.com/p/some-contemporary-heresies",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://kevinkelly.substack.com/p/some-contemporary-heresies"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=eZ3Y_rjKvIE"
+        },
+        {
+          "type": "other",
+          "url": "https://reidhoffman.substack.com/p/faith-in-the-possible?mc_cid=034a07274e"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/08/31/the-oracle-of-silicon-valley-reid-hoffman-plus-michael-mccullough/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Short video that’s making me safer",
+      "category": "video",
+      "title": "Rory Sutherland explains how one tiny detail on your dashboard could completely transform how we think about speed and safety",
+      "creator": null,
+      "note": "[Rory Sutherland](https://en.wikipedia.org/wiki/Rory_Sutherland_(advertising_executive)) is vice chairman of Ogilvy. This clip comes from his talk “[Alchemy: The Surprising Power of Ideas That Don’t Make Sense](https://www.youtube.com/watch?v=lhlS-Wds02M)” (the clip starts at [18:11](https://www.youtube.com/watch?v=lhlS-Wds02M&t=1091s)). For another take on this concept, check out [Derek Sivers’ hilarious story](https://www.youtube.com/watch?v=amS0u15AL14) about biking and bird poop. Hat tip to drummer extraordinaire [Dave Elitch](https://daveelitch.com/) for putting this on my radar.",
+      "original_url": "https://www.instagram.com/reels/DQ4JZabjEAL/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/reels/DQ4JZabjEAL/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Rory_Sutherland_(advertising_executive"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=lhlS-Wds02M"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=lhlS-Wds02M&t=1091s"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=amS0u15AL14"
+        },
+        {
+          "type": "other",
+          "url": "https://daveelitch.com/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Science I’m following",
+      "category": "research",
+      "title": "Ocular Glymphatic System: Its Modulation and Role in Intraocular Tumors",
+      "creator": "Dr",
+      "note": "Jasmine H. Francis and Dr. David H. Abramson. The glymphatic system is worth getting familiar with. Excerpt: “The glymphatic system is a glial-based perivascular network that clears metabolic waste from the central nervous system (CNS), and its dysfunction is related to neurodegenerative disease.” New therapies for enhancing CNS glymphatic flow are discussed in this piece.",
+      "original_url": "https://iovs.arvojournals.org/article.aspx?articleid=2811694",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://iovs.arvojournals.org/article.aspx?articleid=2811694"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "What I’m sharing with friends",
+      "category": "other",
+      "title": "How to Keep Your Brain Sharp: A Practical Playbook Beyond the Basics",
+      "creator": "Dr",
+      "note": ".",
+      "original_url": "https://tim.blog/2026/04/24/how-to-keep-your-brain-sharp/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2026/04/24/how-to-keep-your-brain-sharp/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/04/24/how-to-keep-your-brain-sharp/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“In the family, I learn the complex choreography of love—what it means to give and take and share, to grow from obedience to responsibility, to learn, challenge, rebel, make mistakes, to forgive and be forgiven, to argue and make up, to win without triumph and know when graciously to lose. It’s where we acquire emotional intelligence, that delicate negotiation between the given and the chosen, the things I will and the things resistant to my will.” — Jonathan Sacks, English Orthodox rabbi, philosopher, and author (1948–2020), from Celebrating Life: Finding Happiness in Unexpected Places_. * * * You can complement this edition of 5-Bullet Friday with my brand-new interview with Chief Security Officer of the National Football League (NFL) Cathy Lanier. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim ### Forwarded this message? Sign up here. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. Sign Up ### Listen to The Tim Ferriss Show Podcast The Tim Ferriss Show is one of the most popular podcasts in the world with more than one billion downloads. It has been selected for \"Best of Apple Podcasts\" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts on many occasions. Podcasts Apple Podcasts Overcast Spotify Tim's Blog ### Read Tim's Books [](https://tim.blog/tim-ferriss-books/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test) Amazon Audible B & N Tim's Blog Follow Tim: [](https://twitter.com/tferriss) [](https://www.instagram.com/timferriss/) [](https://www.youtube.com/channel/UCznv7Vf9nBdJYvBagFdAHWw) [](https://www.facebook.com/TimFerriss) [](https://www.linkedin.com/in/timferriss/) DO NOT REPLY HERE: Due to volume, please do not reply to this email. Sadly we are unable to read 1000+ email replies daily. To reply to Tim, please do so in the blog comments here. No longer want these emails? Unsubscribe 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "what it means to give and take and share, to grow from obedience to responsibility, to learn, challenge, rebel, make mistakes, to forgive and be forgiven, to argue and make up, to win without triumph and know when graciously to lose. It’s where we acquire emotional intelligence, that delicate negotiation between the given and the chosen, the things I will and the things resistant to my will.” — Jonathan Sacks, English Orthodox rabbi, philosopher, and author",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Jonathan_Sacks,_Baron_Sacks",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Jonathan_Sacks,_Baron_Sacks"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Celebrating-Life-Finding-Happiness-Unexpected/dp/1399420720/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/04/23/cathy-lanier-nfl-chief-security-officer/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/v8ur85neeurhvrz6krbghvk232dxu9h6x0"
+        },
+        {
+          "type": "other",
+          "url": "https://te.sparkloop.app/click/team_ca67a1a3a4/92140966/NO"
+        }
+      ]
+    }
+  ]
 }

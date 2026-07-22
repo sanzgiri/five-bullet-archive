@@ -6,7 +6,239 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "Chimpanzees seen self-medicating with healing plants when sick or injured",
+      "creator": null,
+      "note": "(_Washington Post_). Thanks to [Dr. Mark Plotkin](https://tim.blog/2020/09/30/mark-plotkin/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) of [Amazon Conservation Team](https://www.amazonteam.org/) for sharing this. [Alternate link](https://web.archive.org/web/20240623004548/https://www.washingtonpost.com/climate-environment/2024/06/21/chimpanzees-plants-medicine/). From the article:  \n​  \n​_The team observed two chimpanzee communities in the Budongo Forest for four months each. They tracked what the great apes ate and analyzed components of 13 plant species that seemed wholly unappetizing to a chimpanzee, such as bark and resin, to determine whether the materials had healing effects. … Those struggling the most with parasites—something the scientists ascertained through testing their feces—had eaten plant material with the strongest antibacterial properties. An injured chimpanzee had eaten a fern with anti-inflammatory effects that was otherwise rarely consumed by the groups. All plant species, when tested in a laboratory, inhibited bacterial growth of E. coli, and some had been found in previous studies to have cancer-fighting or analgesic properties._",
+      "original_url": "https://www.washingtonpost.com/climate-environment/2024/06/21/chimpanzees-plants-medicine/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.washingtonpost.com/climate-environment/2024/06/21/chimpanzees-plants-medicine/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/09/30/mark-plotkin/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazonteam.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://web.archive.org/web/20240623004548/https://www.washingtonpost.com/climate-environment/2024/06/21/chimpanzees-plants-medicine/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Track I’m enjoying for writing",
+      "category": "music",
+      "title": "Singularity (Original)",
+      "creator": null,
+      "note": "](https://www.youtube.com/watch?v=AaxFuXpcQmE)**”** ([YouTube](https://youtu.be/AaxFuXpcQmE?si=fbMHMdb0Xm8RrPpa), [Spotify](https://open.spotify.com/track/0yuJtvXsapVOQfNDYxQ5mw?nd=1&si=6af6dd21e9214e36), [Apple Music](https://music.apple.com/in/album/singularity/988999816?i=988999817)) by [Stephan Bodzin](https://www.instagram.com/stephanbodzin/?hl=en).",
+      "original_url": "https://www.youtube.com/watch?v=AaxFuXpcQmE",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=AaxFuXpcQmE"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/AaxFuXpcQmE?si=fbMHMdb0Xm8RrPpa"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/0yuJtvXsapVOQfNDYxQ5mw?nd=1&si=6af6dd21e9214e36"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/in/album/singularity/988999816?i=988999817"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/stephanbodzin/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What has piqued my curiosity",
+      "category": "other",
+      "title": "Prophetic’s Morpheus-1",
+      "creator": null,
+      "note": "I have not tried this product, but [my interest in lucid dreaming](https://tim.blog/2009/09/21/how-to-lucid-dream/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) goes back to [my high-school wrestling days](https://tim.blog/2009/09/21/how-to-lucid-dream/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content), when I used it for performance enhancement. Here’s the one-liner about Morpheus-1: “The world’s first multi-modal generative ultrasonic transformer designed to induce and stabilize lucid dreams.” Has anyone used this device or something like it? If so, please let me know your results on X/Twitter [@tferriss](https://twitter.com/tferriss) with #lucid.",
+      "original_url": "https://twitter.com/PropheticAI/status/1750534355242418300",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://twitter.com/PropheticAI/status/1750534355242418300"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2009/09/21/how-to-lucid-dream/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2009/09/21/how-to-lucid-dream/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to a second time",
+      "category": "podcast",
+      "title": "A Postmortem on My Response to Covid",
+      "creator": "Sam Harris on the Making Sense podcast",
+      "note": "([SamHarris.org](https://www.samharris.org/podcasts/making-sense-episodes/335-a-postmortem-on-my-response-to-covid), [YouTube](https://www.youtube.com/watch?v=2K1c2W8ZfM8)) by [Sam Harris](https://tim.blog/2020/05/15/sam-harris-2/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) on the _Making Sense_ podcast. This might seem like an out-of-date posting, but it isn’t. This is a world-class example of how a very smart person does a postmortem on their own thinking, and I think it’s worth studying. Excellent poker players might do postgame analysis of their decision-making in similar fashion. Consider this a meta-skill that applies to practically everything.",
+      "original_url": "https://www.samharris.org/podcasts/making-sense-episodes/335-a-postmortem-on-my-response-to-covid",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.samharris.org/podcasts/making-sense-episodes/335-a-postmortem-on-my-response-to-covid"
+        },
+        {
+          "type": "other",
+          "url": "https://www.samharris.org/podcasts/making-sense-episodes/335-a-postmortem-on-my-response-to-covid"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=2K1c2W8ZfM8"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/05/15/sam-harris-2/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“A work of art is the unique result of a unique temperament. Its beauty comes from the fact that the author is what he is. It has nothing to do with the fact that other people want what they want. Indeed, the moment that an artist takes notice of what other people want, and tries to supply the demand, he ceases to be an artist, and becomes a dull or an amusing craftsman, an honest or a dishonest tradesman. He has no further claim to be considered as an artist.” — Oscar Wilde (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my blog post on how to lucid dream, my conversation with Sam Harris, and the latest supercombo podcast episode, featuring bestselling author Neil Gaiman and design powerhouse Debbie Millman. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim ### Forwarded this message? Sign up here. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. Sign Up ### Listen to The Tim Ferriss Show Podcast The Tim Ferriss Show is one of the most popular podcasts in the world with more than 900 million downloads. It has been selected for \"Best of Apple Podcasts\" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts on many occasions. Podcasts Apple Podcasts Overcast Spotify Tim's Blog ### Read Tim's Books [](https://tim.blog/tim-ferriss-books/?utm_campaign=design-test&utm_medium=convertit&utm_source=convertkit) Amazon Audible B & N Tim's Blog Follow Tim: [](https://twitter.com/tferriss) [](https://www.instagram.com/timferriss/) [](https://www.youtube.com/channel/UCznv7Vf9nBdJYvBagFdAHWw) [](https://www.facebook.com/TimFerriss) [](https://www.linkedin.com/in/timferriss/) DO NOT REPLY HERE: Due to volume, please do not reply to this email. Sadly we are unable to read 1000+ email replies daily. To reply to Tim, please do so in the blog comments here. No longer want these emails? Unsubscribe 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Oscar Wilde",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Oscar_Wilde",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Oscar_Wilde"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/James_Baldwin"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/8bbQe"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2009/09/21/how-to-lucid-dream/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/10/29/sam-harris-waking-up/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/06/27/neil-gaiman-and-debbie-millman/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/?utm_campaign=footer&utm_medium=convertit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_campaign=design-test&utm_medium=convertit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/8kue0m6zzuoh0m2992cdsz7q5599b3"
+        }
+      ]
+    }
+  ]
 }

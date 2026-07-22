@@ -16,12 +16,16 @@
       "category": "music",
       "title": "I Know What I Know",
       "creator": "Paul Simon",
-      "note": "The lyrics are just too good.",
-      "original_url": "https://www.youtube.com/watch?v=2hanjM_IEnU",
+      "note": ". The lyrics are just too good.",
+      "original_url": "https://www.youtube.com/watch?v=2hanjM_IenU",
       "links": [
         {
           "type": "original",
-          "url": "https://www.youtube.com/watch?v=2hanjM_IEnU"
+          "url": "https://www.youtube.com/watch?v=2hanjM_IenU"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Paul_Simon"
         }
       ]
     },
@@ -31,12 +35,20 @@
       "category": "music",
       "title": "Sketches of the Mediterranean",
       "creator": "Jon Hassell with Paolo Fresu",
-      "note": "I find this great for writing, but some will find it closer to auditory hallucinations in an opium den. Feel free to skip around, and the music starts around one minute in.",
+      "note": "with [Paolo Fresu](https://en.wikipedia.org/wiki/Paolo_Fresu). I find this great for writing, but some will find it closer to auditory hallucinations in an opium den. Feel free to skip around, and the music starts around one minute in.",
       "original_url": "https://vimeo.com/109820224",
       "links": [
         {
           "type": "original",
           "url": "https://vimeo.com/109820224"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Jon_Hassell"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Paolo_Fresu"
         }
       ]
     },
@@ -46,27 +58,47 @@
       "category": "article",
       "title": "Better Than Free",
       "creator": "Kevin Kelly",
-      "note": "Kevin (@kevin2kelly) is Senior Maverick at WIRED, which he co-founded in 1993, and he is the author of one of my favorite essays on making a living as a creator: “1,000 True Fans.” But if “1,000 True Fans” tells you _who_ your customers might be, how do you figure out _what_ to sell them, especially in the age of AI?\n\nI recently published “Has AI Already Killed How-To Nonfiction?,” and reader Andy Vaughn recommended another Kevin essay in the comments: “Better Than Free.” “Better Than Free” answers the _what_ question, and I was shocked I hadn’t seen it before, as it first came out in 2008. Most of it still holds up incredibly well, and I’ve started using it as a checklist for thought exercises around the future of my business.",
+      "note": ". Kevin ([@kevin2kelly](https://x.com/kevin2kelly?lang=en)) is Senior Maverick at _WIRED_, which he co-founded in 1993, and he is the author of one of my favorite essays on making a living as a creator: “[1,000 True Fans](https://kk.org/thetechnium/1000-true-fans/).” But if “1,000 True Fans” tells you _who_ your customers might be, how do you figure out _what_ to sell them, especially in the age of AI?  \n​  \nI recently published “[Has AI Already Killed How-To Nonfiction?](https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf),” and reader Andy Vaughn recommended another Kevin essay in the comments: “Better Than Free.” “Better Than Free” answers the _what_ question, and I was shocked I hadn’t seen it before, as it first came out in 2008. Most of it still holds up incredibly well, and I’ve started using it as a checklist for thought exercises around the future of my business.",
       "original_url": "https://tim.blog/2026/07/17/better-than-free/",
       "links": [
         {
           "type": "original",
           "url": "https://tim.blog/2026/07/17/better-than-free/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=eZ3Y_rjKvIE"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/kevin2kelly?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://kk.org/thetechnium/1000-true-fans/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
         }
       ]
     },
     {
       "position": 4,
       "section": "What I’m rewatching",
-      "category": "film",
+      "category": "video",
       "title": "Life Is Beautiful",
-      "creator": "Roberto Benigni",
-      "note": "My lady hadn’t seen this, so I insisted that we watch it together. It’s an unforgettable masterpiece.\n\nThis 1997 classic was co-written and directed by Roberto Benigni, who also plays the lead role. _Life Is Beautiful_ follows Guido, a Jewish-Italian father who shields his young son from the horrors of a concentration camp by convincing him it’s all an elaborate game. That’s how the movie is typically described, but that’s truthfully only the second half of the movie, and there is much more to it.\n\nPerhaps better than any film I’ve ever seen, it uses hilarity to explore one of the darkest real-world chapters in recent human history. It’s a rare film that is chock-full of belly laughs and gut punches.\n\nThank me later when you find yourself saying “_Buongiorno, Principessa!_”",
+      "creator": null,
+      "note": "My lady hadn’t seen this, so I insisted that we watch it together. It’s an unforgettable masterpiece.  \n​**​  \n​**This 1997 classic was co-written and directed by [Roberto Benigni](https://en.wikipedia.org/wiki/Roberto_Benigni), who also plays the lead role. _Life Is Beautiful_ follows Guido, a Jewish-Italian father who shields his young son from the horrors of a concentration camp by convincing him it’s all an elaborate game. That’s how the movie is typically described, but that’s truthfully only the second half of the movie, and there is much more to it.  \n​  \nPerhaps better than any film I’ve ever seen, it uses hilarity to explore one of the darkest real-world chapters in recent human history. It’s a rare film that is chock-full of belly laughs and gut punches.  \n​  \nThank me later when you find yourself saying “_Buongiorno, Principessa!_”",
       "original_url": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.df6ae323-d436-4e05-8ee5-89f9f056b6fe",
       "links": [
         {
           "type": "original",
           "url": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.df6ae323-d436-4e05-8ee5-89f9f056b6fe"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Roberto_Benigni"
         }
       ]
     },
@@ -74,21 +106,28 @@
       "position": 5,
       "section": "Quotes I’m pondering",
       "category": "quote",
-      "title": "For the classics, philosophical insight was the product of a life of leisure; for me, a life of leisure is the product of philosophical insight.",
-      "creator": "Nassim Nicholas Taleb",
+      "title": "“For the classics, philosophical insight was the product of a life of leisure; for me, a life of leisure is the product of philosophical insight.” — Nassim Nicholas Taleb “Absolutely unmixed attention is prayer.” — Simone Weil * * * You can complement this edition of 5-Bullet Friday with another rousing, laugh-filled edition of The Random Show, with my good friend Kevin Rose. We get into Zen retreats, learning to rock climb at (almost) 50, mortality and grief, why you should stop saying “one day,” AI predictions, and much, much more. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Nassim Nicholas Taleb “Absolutely unmixed attention is prayer.” — Simone Weil * * * You can complement this edition of 5-Bullet Friday with another rousing, laugh-filled edition of The Random Show, with my good friend Kevin Rose. We get into Zen retreats, learning to rock climb at",
       "note": null,
-      "original_url": null,
-      "links": []
-    },
-    {
-      "position": 6,
-      "section": "Quotes I’m pondering",
-      "category": "quote",
-      "title": "Absolutely unmixed attention is prayer.",
-      "creator": "Simone Weil",
-      "note": null,
-      "original_url": null,
-      "links": []
+      "original_url": "https://www.youtube.com/watch?v=18ZxCxN2ZMo",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=18ZxCxN2ZMo"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Simone_Weil"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/07/16/the-random-show/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
     }
   ]
 }

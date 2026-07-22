@@ -6,7 +6,131 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Germs in Your Gut Are Talking to Your Brain. Scientists Want to Know What They’re Saying",
+      "creator": null,
+      "note": "(via [@nytimes](https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/97fzhnhqxm67e7/aHR0cHM6Ly90d2l0dGVyLmNvbS9ueXRpbWVz))**.** Though microbiome science is still in the early stages, it’s fascinating to imagine the implications for Alzheimer’s disease, autism, and other conditions. Hat tip to reader Sam McRoberts ([@Sams\\_Antics](https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/nmtohvh8gpxd4w/aHR0cHM6Ly90d2l0dGVyLmNvbS9TYW1zX0FudGljcy9zdGF0dXMvMTA5MDY2OTA2NDEyMzU0MzU1Nw==)) for the recommendation. It’s worth the read. (Related company I invested in long ago: [uBiome](https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/w6c2hgh54pkzd5/aHR0cHM6Ly91YmlvbWUuY29tLw==).)",
+      "original_url": "https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/qgi8h7h7v54xl3/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAxOS8wMS8yOC9oZWFsdGgvbWljcm9iaW9tZS1icmFpbi1iZWhhdmlvci1kZW1lbnRpYS5odG1s",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/qgi8h7h7v54xl3/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAxOS8wMS8yOC9oZWFsdGgvbWljcm9iaW9tZS1icmFpbi1iZWhhdmlvci1kZW1lbnRpYS5odG1s"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/97fzhnhqxm67e7/aHR0cHM6Ly90d2l0dGVyLmNvbS9ueXRpbWVz"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/nmtohvh8gpxd4w/aHR0cHM6Ly90d2l0dGVyLmNvbS9TYW1zX0FudGljcy9zdGF0dXMvMTA5MDY2OTA2NDEyMzU0MzU1Nw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/w6c2hgh54pkzd5/aHR0cHM6Ly91YmlvbWUuY29tLw=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Short video I’ve watched at least 10 times (do NOT try this at home) —",
+      "category": "video",
+      "title": "Can’t stop watching this",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/0kswh9hox59849/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JxYmVaY2VCZXBhLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/0kswh9hox59849/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JxYmVaY2VCZXBhLw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Chrome extension I’m excited about —",
+      "category": "other",
+      "title": "DF “Distraction Free” Tube",
+      "creator": null,
+      "note": "Noise and distraction online are endless. It’s nice to have tools to clean up the mess a bit. I learned about DF Tube from uber-entrepreneur/investor [Caterina Fake’s blog](https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/mmb7h5hg9pqrx0/aHR0cHM6Ly9jYXRlcmluYS5uZXQvMjAxOS8wMi8wNS8zLXJlY29tbWVuZGF0aW9ucy1rYW5vcHktcmVjb21lbmRvLWFuZC1kZi10dWJlLw==). Here is her description: “This is a chrome plugin that eliminates all the cruft around a YouTube video. For the past few months I’ve been trying to force YouTube to show me palatable content on my sidebar, but no matter how much crap I reject as “Not Interested” more crap appears. Since the font of crap is inexhaustible, I searched for a YouTube cleanup plugin. DF Tube–Distraction Free Tube–is so great! Everything bad — recommendations on the sidebar, crap on the homepage, inane commentary — vanishes!”",
+      "original_url": "https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/vma3hrhx47v564/aHR0cHM6Ly9jaHJvbWUuZ29vZ2xlLmNvbS93ZWJzdG9yZS9kZXRhaWwvZGYtdHViZS1kaXN0cmFjdGlvbi1mcmVlL21qZGVwZGZjY2pnY25ka21lbXBvbmFmZ2lvb2RlbG5h",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/vma3hrhx47v564/aHR0cHM6Ly9jaHJvbWUuZ29vZ2xlLmNvbS93ZWJzdG9yZS9kZXRhaWwvZGYtdHViZS1kaXN0cmFjdGlvbi1mcmVlL21qZGVwZGZjY2pnY25ka21lbXBvbmFmZ2lvb2RlbG5h"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/mmb7h5hg9pqrx0/aHR0cHM6Ly9jYXRlcmluYS5uZXQvMjAxOS8wMi8wNS8zLXJlY29tbWVuZGF0aW9ucy1rYW5vcHktcmVjb21lbmRvLWFuZC1kZi10dWJlLw=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Gnossienne No. 3, by Erik Satie",
+      "creator": null,
+      "note": "I’ve been exploring minor key music after [my recent conversation with Susan Cain](https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/ozukhqhknv6ze8/aHR0cHM6Ly90aW0uYmxvZy8yMDE5LzAxLzI0L3N1c2FuLWNhaW4vP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg==). Although often thought of as “sad” music, she believes minor key music can help you better experience the full spectrum of the human condition. For coming to peace with inevitable “undesirable” emotions, that seems like a good thing and a good practice. I still favor [bossa nova and more upbeat music](https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/p3ieh9h3d02ve9/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1RenF6SlJuN3BtYw==) most of the time (and I listen to it as a palate cleanser after the minor key stuff), but I’m giving greater variance a shot...",
+      "original_url": "https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/edhph7hpeglxz2/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1zYnlScmttS1lncw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/edhph7hpeglxz2/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1zYnlScmttS1lncw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/ozukhqhknv6ze8/aHR0cHM6Ly90aW0uYmxvZy8yMDE5LzAxLzI0L3N1c2FuLWNhaW4vP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/p3ieh9h3d02ve9/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1RenF6SlJuN3BtYw=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "\"Character, like a photograph, develops in darkness.\"— Yousuf Karsh [](https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/50tvh7hv08newg/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWF5YV9BbmdlbG91) And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim [](https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/9kszhnhqxm6789/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Yousuf Karsh",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/65feh8hkwg5q47/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvWW91c3VmX0thcnNo",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/65feh8hkwg5q47/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvWW91c3VmX0thcnNo"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/qrc8h7h7v54x3o/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/nkaohvh8gpxd4e/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/r8u063gzzaoh5mv3v"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/r8u063gzzaoh5mv3v/eqhph7hpeglxdr/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

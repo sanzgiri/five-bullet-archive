@@ -7,7 +7,115 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Book I’m rereading —",
+      "category": "book",
+      "title": "Bird by Bird: Some Instructions on Writing and Life",
+      "creator": "Anne Lamott",
+      "note": "convertkit-mail2.com/c/xmumv0zqqa6hnnknq/gwfnh5hdvpdx8k/aHR0cHM6Ly90d2l0dGVyLmNvbS9BTk5FTEFNT1RU)**)**. If you plan on any creative undertaking, whether business, writing, or art, I strongly recommend this book. If you spend a lot of time working alone and get trapped in your head, it’s required reading. It saved my sanity and has done the same for several friends who’ve gone from “I want to quit” to New York Times bestsellers.",
+      "original_url": "https://el2.convertkit-mail2.com/c/xmumv0zqqa6hnnknq/2zi2hohv5dvnp0/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9CaXJkLVNvbWUtSW5zdHJ1Y3Rpb25zLVdyaXRpbmctTGlmZS9kcC8wMzg1NDgwMDE2",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail2.com/c/xmumv0zqqa6hnnknq/2zi2hohv5dvnp0/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9CaXJkLVNvbWUtSW5zdHJ1Y3Rpb25zLVdyaXRpbmctTGlmZS9kcC8wMzg1NDgwMDE2"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/xmumv0zqqa6hnnknq/gwfnh5hdvpdx8k/aHR0cHM6Ly90d2l0dGVyLmNvbS9BTk5FTEFNT1RU"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching and reading —",
+      "category": "article",
+      "title": "The Structure of Stand-Up Comedy",
+      "creator": null,
+      "note": "Visually explores and dissects Ali Wong’s _Baby Cobra_ stand-up comedy special.",
+      "original_url": "https://el2.convertkit-mail2.com/c/xmumv0zqqa6hnnknq/33tphkhowzov5d/aHR0cHM6Ly9wdWRkaW5nLmNvb2wvMjAxOC8wMi9zdGFuZC11cC8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail2.com/c/xmumv0zqqa6hnnknq/33tphkhowzov5d/aHR0cHM6Ly9wdWRkaW5nLmNvb2wvMjAxOC8wMi9zdGFuZC11cC8="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Macho Duck (1979)",
+      "creator": null,
+      "note": "](https://el2.convertkit-mail2.com/c/xmumv0zqqa6hnnknq/4mcvheh5og5kd0/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1zYndMYlFjYktGOCZmZWF0dXJlPXlvdXR1LmJl)**.** This was my hands-down favorite song when I was 2–3 years old, which I somehow found on YouTube. Back in the day, I had it on a tiny LP and played it over and over and over again, ad nauseam. My poor mom probably needed a straightjacket.",
+      "original_url": "https://el2.convertkit-mail2.com/c/xmumv0zqqa6hnnknq/4mcvheh5og5kd0/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1zYndMYlFjYktGOCZmZWF0dXJlPXlvdXR1LmJl",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail2.com/c/xmumv0zqqa6hnnknq/4mcvheh5og5kd0/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1zYndMYlFjYktGOCZmZWF0dXJlPXlvdXR1LmJl"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Person I’m learning more about —",
+      "category": "other",
+      "title": "Katharine McCormick",
+      "creator": null,
+      "note": "Katharine McCormick (August 27, 1875 – December 28, 1967) was a U.S. suffragist, philanthropist, and, after her husband's death, heir to a substantial part of the McCormick family fortune. She graduated from the Massachusetts Institute of Technology in 1904, earning a BSc in biology. She funded most of the research necessary to develop the first birth control pill, which the Food and Drug Administration (FDA) approved the sale of in 1957 for menstrual disorders and added contraception to its indications in 1960. In sum, she provided roughly $2 million ($23 million today) of her own money for the development of the contraceptive pill. She was [inducted into the National Women’s Hall of Fame](https://el2.convertkit-mail2.com/c/xmumv0zqqa6hnnknq/82aqhoh0490k6o/aHR0cHM6Ly93d3cud29tZW5vZnRoZWhhbGwub3JnL2luZHVjdGVlL2thdGhhcmluZS1kZXh0ZXItbWNjb3JtaWNrLw==) in 1998 for her “significant impact on women’s equality in the areas of suffrage, contraception, and scientific education.”",
+      "original_url": "https://el2.convertkit-mail2.com/c/xmumv0zqqa6hnnknq/r4s8hoh28x2nl0/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvS2F0aGFyaW5lX01jQ29ybWljaw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail2.com/c/xmumv0zqqa6hnnknq/r4s8hoh28x2nl0/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvS2F0aGFyaW5lX01jQ29ybWljaw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/xmumv0zqqa6hnnknq/82aqhoh0490k6o/aHR0cHM6Ly93d3cud29tZW5vZnRoZWhhbGwub3JnL2luZHVjdGVlL2thdGhhcmluZS1kZXh0ZXItbWNjb3JtaWNrLw=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Learn the rules like a pro, so you can break them like an artist.” ― Pablo Picasso And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim [](https://el2.convertkit-mail2.com/c/xmumv0zqqa6hnnknq/7ku7h8hkgzk323/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Vc2UtUG9ldHJ5LUNyaXRpY2lzbS1SZWxhdGlvbi1MZWN0dXJlcy9kcC8wNjc0OTMxNTA1) [](https://el2.convertkit-mail2.com/c/xmumv0zqqa6hnnknq/zoighnh4gw4025/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.convertkit-mail2.com/c/xmumv0zqqa6hnnknq/lqbehmh0gr0wm6/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUGFibG9fUGljYXNzbw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail2.com/c/xmumv0zqqa6hnnknq/lqbehmh0gr0wm6/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUGFibG9fUGljYXNzbw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/xmumv0zqqa6hnnknq/dkheh0h4354r95/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/xmumv0zqqa6hnnknq/x9fph6hrg3rxvo/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/u/xmumv0zqqa6hnnknq"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/xmumv0zqqa6hnnknq/80cqhoh0490k62/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

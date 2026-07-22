@@ -6,7 +6,166 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "book",
+      "title": "The Lion Tracker’s Guide to Life",
+      "creator": "Boyd Varty",
+      "note": ". This is a wonderful and short book. It found me at exactly the right time, and I read it in two afternoons. Here is my favorite tracker maxim from its pages, from Renias Mhlongo: “I don’t know where we are going, but I know exactly how to get there.”",
+      "original_url": "https://www.amazon.com/Lion-Trackers-Guide-Life/dp/0358099773/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1614609477&sr=1-1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Lion-Trackers-Guide-Life/dp/0358099773/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1614609477&sr=1-1"
+        },
+        {
+          "type": "other",
+          "url": "https://boydvarty.com/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "The Painter and the Thief",
+      "creator": null,
+      "note": "This was recommended in a blog post by law professor, author, and former rocket scientist [Ozan Varol](https://ozanvarol.com/the-best-of-what-im-reading-watching-and-exploring-february2021/), who served on the operations team for the 2003 Mars Exploration Rovers project that sent two rovers—Spirit and Opportunity—to Mars. Here’s the official description of _The Painter and the Thief_: “Desperate for answers about the theft of her two paintings, a Czech artist seeks out and befriends the career criminal who stole them. After inviting her thief to sit for a portrait, the two form an improbable relationship and an inextricable bond that will forever link these lonely souls.” The two main protagonists are [Barbora Kysilkova](https://artbarbar.com/) and [Karl-Bertil Nordland](https://www.instagram.com/bertilizer/). Even if you never watch the film, you really must watch [the trailer](https://www.youtube.com/watch?v=hcifoEG_Mkg).",
+      "original_url": "https://www.amazon.com/Painter-Thief-Barbora-Kysilkova/dp/B0891PMZ2H/ref=sr_1_1?crid=2LMVTYZHC1DVP&dchild=1&keywords=the+painter+and+the+thief&qid=1613696124&s=instant-video&sprefix=the+painter+and+the+%2Cinstant-video%2C219&sr=1-1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Painter-Thief-Barbora-Kysilkova/dp/B0891PMZ2H/ref=sr_1_1?crid=2LMVTYZHC1DVP&dchild=1&keywords=the+painter+and+the+thief&qid=1613696124&s=instant-video&sprefix=the+painter+and+the+%2Cinstant-video%2C219&sr=1-1"
+        },
+        {
+          "type": "other",
+          "url": "https://ozanvarol.com/the-best-of-what-im-reading-watching-and-exploring-february2021/"
+        },
+        {
+          "type": "other",
+          "url": "https://artbarbar.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/bertilizer/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=hcifoEG_Mkg"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m celebrating —",
+      "category": "other",
+      "title": "Amazon Conservation Team",
+      "creator": null,
+      "note": "!!!** You guys rock. This exceeded all expectations, and you made it happen. As per [my recent blog post](https://tim.blog/2021/02/21/urgent-plea-users-of-psychedelics-ethical-plants-compounds/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), your $50K+ in donations to ACT triggered my $50,000 matching grant, which in turn triggered a surprise $50,000 grant from [Matt Mullenweg](https://tim.blog/2015/02/09/matt-mullenweg/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@photomatt](https://twitter.com/photomatt)), which in turn allowed ACT to raise more from donors... **for** **a grand total of $250,000!** ACT has partnered with ~55 South American tribes to map and improve management of more than 80 million acres of ancestral rainforests. They work in partnership with indigenous groups to protect these rainforests as well as related tribal knowledge (botanical, linguistic, etc.) and shamanic medicine traditions. ACT’s president, ethnobotanist [Mark Plotkin](https://tim.blog/2020/09/30/mark-plotkin/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), was a student of the iconic [Richard Evans Schultes](https://en.wikipedia.org/wiki/Richard_Evans_Schultes) and has [appeared on the podcast](https://tim.blog/2020/09/30/mark-plotkin/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf).⁣  \n\\*\\*\\* **The projects that this ~$250K will support are truly incredible. \\*\\*\\*** Please see the P.P.S. at the bottom of this email for more details. Thank you all!",
+      "original_url": "https://www.amazonteam.org/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazonteam.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/02/21/urgent-plea-users-of-psychedelics-ethical-plants-compounds/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/02/09/matt-mullenweg/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/photomatt"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/09/30/mark-plotkin/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Richard_Evans_Schultes"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/09/30/mark-plotkin/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m exploring deeply —",
+      "category": "other",
+      "title": "Some Thoughts on For-Profit Psychedelic Startups and Companies",
+      "creator": null,
+      "note": "I got a bee in my bonnet and wrote this article on Friday. It covers quite a few topics that I think are extremely important. This article has already generated a lot of buzz, and I expect that to double and triple next week. I hope the recipient of my questions replies...",
+      "original_url": "https://tim.blog/2021/03/05/some-thoughts-on-for-profit-psychedelic-startups-and-companies/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2021/03/05/some-thoughts-on-for-profit-psychedelic-startups-and-companies/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "La Descarria",
+      "creator": "Corina Lawrence feat",
+      "note": "([YouTube](https://www.youtube.com/watch?v=ATVaPK5bz9A), [Spotify](https://open.spotify.com/track/1iNpP6yYax94B4eADEW3Qx?si=QfLK5KYfSRyhL1IKTu2MSQ)) by [Corina Lawrence](https://www.instagram.com/corinalawrence_/) feat. [Miss Bolivia](https://www.instagram.com/missboliviamusica/) ([Uji](https://www.instagram.com/uji_music/) Remix).",
+      "original_url": "https://www.youtube.com/watch?v=ATVaPK5bz9A",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=ATVaPK5bz9A"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=ATVaPK5bz9A"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/1iNpP6yYax94B4eADEW3Qx?si=QfLK5KYfSRyhL1IKTu2MSQ"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/corinalawrence_/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/missboliviamusica/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/uji_music/"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Sometimes I am two people. Johnny is the nice one. Cash causes all the trouble. They fight.” — Johnny Cash And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Johnny Cash And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Johnny_Cash",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Johnny_Cash"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,151 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading (feature article) —",
+      "category": "article",
+      "title": "Steve Young Is an Athlete Who’s Actually Good at Finance",
+      "creator": "Alex Sherman",
+      "note": "([@sherman4949](https://twitter.com/sherman4949)) (_Bloomberg Businessweek_).",
+      "original_url": "https://www.bloomberg.com/news/features/2017-02-09/steve-young-is-an-athlete-who-s-actually-good-at-finance",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.bloomberg.com/news/features/2017-02-09/steve-young-is-an-athlete-who-s-actually-good-at-finance"
+        },
+        {
+          "type": "other",
+          "url": "https://www.bloomberg.com/authors/APKMjU4W_3A/alex-sherman"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/sherman4949"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Documentary I’m watching once again —",
+      "category": "video",
+      "title": "Mike Wallace Is Here",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/gp/product/B07VK1GBM5/ref=pv_ag_gcf?cmp=rt_where_to_watch), [Apple TV](https://itunes.apple.com/us/movie/mike-wallace-is-here/id1473541702?cmp=rt_where_to_watch), [YouTube](https://www.youtube.com/watch?v=LtWdKJP106w)). This doc found me at exactly the right time. I was in the midst of studying many different types of interviewers ([Terry Gross](https://freshairarchive.org/guests) vs. [Larry King](https://www.cnn.com/specials/app-style-section/larry-king-interviews) vs. [Joe Rogan](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk) vs. [Charlie Rose](https://charlierose.com/) vs. [James Lipton](https://www.bravotv.com/inside-the-actors-studio/videos), etc.) to improve my own game. Mike is an archetype of the Southern Tiger Claw kung fu style of interviewing, kicks to the balls included. He can be brutal. And while I wouldn’t duplicate all aspects of his approach, I think there is much to learn. Some of the clips in this doc are tense beyond words. The footage of Mike with Ayatollah Khomeini, as one example, will make your stomach do flips. Here’s the official description: “For over half a century, _60 Minutes_’ fearsome newsman Mike Wallace went head-to-head with the world’s most influential figures. Relying exclusively on archival footage, the film interrogates the interrogator, tracking Mike’s storied career and troubled personal life while unpacking how broadcast journalism evolved to today’s precarious tipping point.” You can [find the trailer here](https://www.youtube.com/watch?v=dDSq2fF9flk). Highly recommended.",
+      "original_url": "https://www.amazon.com/gp/product/B07VK1GBM5/ref=pv_ag_gcf?cmp=rt_where_to_watch",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/gp/product/B07VK1GBM5/ref=pv_ag_gcf?cmp=rt_where_to_watch"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/gp/product/B07VK1GBM5/ref=pv_ag_gcf?cmp=rt_where_to_watch"
+        },
+        {
+          "type": "other",
+          "url": "https://itunes.apple.com/us/movie/mike-wallace-is-here/id1473541702?cmp=rt_where_to_watch"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=LtWdKJP106w"
+        },
+        {
+          "type": "other",
+          "url": "https://freshairarchive.org/guests"
+        },
+        {
+          "type": "other",
+          "url": "https://www.cnn.com/specials/app-style-section/larry-king-interviews"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        },
+        {
+          "type": "other",
+          "url": "https://charlierose.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.bravotv.com/inside-the-actors-studio/videos"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=dDSq2fF9flk"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Tech shortcut I’m enjoying —",
+      "category": "other",
+      "title": "Share or link to quotes and text in Chrome",
+      "creator": null,
+      "note": "This is a very cool trick in the latest version of Chrome: “You can create a shareable link that goes directly to specific highlighted text on a page.” Find simple instructions [here](https://support.google.com/chrome/answer/10256233?hl=en&co=GENIE.Platform%3DDesktop).",
+      "original_url": "https://support.google.com/chrome/answer/10256233?hl=en&co=GENIE.Platform%3DDesktop#:~:text=Paste%20the%20link%20anywhere%2C%20like%20an%20email%20or%20message%20thread",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://support.google.com/chrome/answer/10256233?hl=en&co=GENIE.Platform%3DDesktop#:~:text=Paste%20the%20link%20anywhere%2C%20like%20an%20email%20or%20message%20thread"
+        },
+        {
+          "type": "other",
+          "url": "https://support.google.com/chrome/answer/10256233?hl=en&co=GENIE.Platform%3DDesktop"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading (short) —",
+      "category": "article",
+      "title": "Wolves make roadways safer, generating large economic returns to predator conservation",
+      "creator": null,
+      "note": "(_Proceedings of the National Academy of Sciences_).",
+      "original_url": "https://www.pnas.org/content/118/22/e2023251118",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.pnas.org/content/118/22/e2023251118"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering and highlighting —",
+      "category": "quote",
+      "title": "“MDMA is the reason my son has a father instead of a folded flag.”— US Army SGT (R) Jon Lubecky (@jonlubecky) This quote is at the end of a recent, short video from The Today Show led by Savannah Guthrie (@savannahguthrie): “New research shows how psychedelic drug can help people with PTSD.” To learn more, read “Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs,” which was published at nearly the same time in The New York Times_. People on the right and left don’t agree on much, but this is one area where we can find common ground with good data. Take a look at these odd bedfellows. Also, be sure to see the P.P.S. at the end of this email. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "US Army SGT",
+      "note": null,
+      "original_url": "https://twitter.com/jonlubecky",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://twitter.com/jonlubecky"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/savannahguthrie"
+        },
+        {
+          "type": "other",
+          "url": "https://www.today.com/video/new-research-shows-how-psychedelic-drug-can-help-people-with-ptsd-125464645835"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/CWTn4kvoWdx/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

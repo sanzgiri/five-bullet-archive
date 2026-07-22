@@ -6,7 +6,143 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Business model I am learning more about —",
+      "category": "other",
+      "title": "The Resilience of Costco",
+      "creator": null,
+      "note": "This takes just 5-10 minutes to digest. The gist: “For 40 years, Costco has succeeded with a simple formula: reinvest merchandising profits into lower prices and better products; be a disciplined operator; and treat customers and employees well.” This is a great study in simplicity (drastically reducing SKUs, per slide 44, and keeping the stores barebone, per slide 70), contrarian decision-making (no expensive advertising, per slide 54, and only offering bulk sizes, per slide 58), and much, much more. It also makes one wonder where Amazon Prime memberships will take Amazon, retail, and the world at large...",
+      "original_url": "https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/drieh0h44zpnmw/aHR0cDovL21pbmVzYWZldHlkaXNjbG9zdXJlcy5jb20vYmxvZy8yMDE4LzYvMTgvY29zdGNv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/drieh0h44zpnmw/aHR0cDovL21pbmVzYWZldHlkaXNjbG9zdXJlcy5jb20vYmxvZy8yMDE4LzYvMTgvY29zdGNv"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Poem I’m reading —",
+      "category": "article",
+      "title": "My Wage",
+      "creator": null,
+      "note": "B. Rittenhouse**. I found this in [_The ONE Thing_](https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/6gteh8hkkv9edl/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9PTkUtVGhpbmctU3VycHJpc2luZ2x5LUV4dHJhb3JkaW5hcnktUmVzdWx0cy9kcC8xODg1MTY3Nzc2), written by Gary Keller ([@garykeller](https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/qnc8h7h77gkp0q/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2dhcnlrZWxsZXI=)) and Jay Papasan ([@jaypapasan](https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/3esphkhoo6pgn0/aHR0cHM6Ly90d2l0dGVyLmNvbS9qYXlwYXBhc2Fu)). Gary is the founder and chairman of the board of Keller Williams Realty, the world's largest real estate franchise by agent count, and he carries this poem with him. I picked up _The ONE Thing_ for the second time after [Allen Walton](https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/w5a2hgh5590636/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzEyLzEwL2FsbGVuLXdhbHRvbi00LWhvdXItd29ya3dlZWstY2FzZS1zdHVkeS8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm) and a few other [_4-Hour Workweek_](https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/89bqhoh00ernx6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS80LUhvdXItV29ya3dlZWstRXNjYXBlLUxpdmUtQW55d2hlcmUvZHAvMDMwNzQ2NTM1Nw==) case studies recently mentioned the book’s impact on their early growth.",
+      "original_url": "https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/opfkhqhkk3qd78/aHR0cHM6Ly9wdXRvbnRoZWFybW9yb2ZsaWdodC5jb20vMjAxMC8wMS8xMy9teS13YWdlLWJ5LWotYi1yaXR0ZW5ob3VzZS8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/opfkhqhkk3qd78/aHR0cHM6Ly9wdXRvbnRoZWFybW9yb2ZsaWdodC5jb20vMjAxMC8wMS8xMy9teS13YWdlLWJ5LWotYi1yaXR0ZW5ob3VzZS8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/6gteh8hkkv9edl/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9PTkUtVGhpbmctU3VycHJpc2luZ2x5LUV4dHJhb3JkaW5hcnktUmVzdWx0cy9kcC8xODg1MTY3Nzc2"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/qnc8h7h77gkp0q/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2dhcnlrZWxsZXI="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/3esphkhoo6pgn0/aHR0cHM6Ly90d2l0dGVyLmNvbS9qYXlwYXBhc2Fu"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/w5a2hgh5590636/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzEyLzEwL2FsbGVuLXdhbHRvbi00LWhvdXItd29ya3dlZWstY2FzZS1zdHVkeS8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/89bqhoh00ernx6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS80LUhvdXItV29ya3dlZWstRXNjYXBlLUxpdmUtQW55d2hlcmUvZHAvMDMwNzQ2NTM1Nw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "New food supplement I’m enjoying —",
+      "category": "other",
+      "title": "doTERRA Peppermint Essential Oil Beadlets 125 ct",
+      "creator": null,
+      "note": "These are odd but fantastic. Think of them as sugar- and sweetener-free Altoids with the mouthfeel of peppermint caviar balls. The first tube was gifted to me by a friend in Salt Lake City, and I’ve since bought many more. I have no affiliation with the company, which is based in Utah and appears to have had [some interesting run-ins with government agencies](https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/ozukhqhkk3qd7z/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRG9UZXJyYQ==).",
+      "original_url": "https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/dkheh0h44zpnm2/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9kb1RFUlJBLVBlcHBlcm1pbnQtRXNzZW50aWFsLU9pbC1CZWFkbGV0cy9kcC9CMDA3VFlYWUY4L3JlZj1zcl8xXzRfYV9pdD9ycHM9MSZpZT1VVEY4JnFpZD0xNTQ2ODk5MDExJnNyPTgtNCZrZXl3b3Jkcz1kb3RlcnJhJTJCcGVwcGVybWludCUyQmJlYWRsZXRzJTJCcHJpbWUmdGg9MQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/dkheh0h44zpnm2/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9kb1RFUlJBLVBlcHBlcm1pbnQtRXNzZW50aWFsLU9pbC1CZWFkbGV0cy9kcC9CMDA3VFlYWUY4L3JlZj1zcl8xXzRfYV9pdD9ycHM9MSZpZT1VVEY4JnFpZD0xNTQ2ODk5MDExJnNyPTgtNCZrZXl3b3Jkcz1kb3RlcnJhJTJCcGVwcGVybWludCUyQmJlYWRsZXRzJTJCcHJpbWUmdGg9MQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/ozukhqhkk3qd7z/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRG9UZXJyYQ=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "In case you missed it —",
+      "category": "other",
+      "title": "The 25 Most-Clicked Links from “5-Bullet Friday” in 2018",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/xeiph6hrr8q07r/aHR0cHM6Ly90aW0uYmxvZy8yMDE5LzAxLzE1LzUtYnVsbGV0LWZyaWRheS1tb3N0LXBvcHVsYXIvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/xeiph6hrr8q07r/aHR0cHM6Ly90aW0uYmxvZy8yMDE5LzAxLzE1LzUtYnVsbGV0LWZyaWRheS1tb3N0LXBvcHVsYXIvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Without courage we cannot practice any other virtue with consistency. We can't be kind, true, merciful, generous, or honest.” — Maya Angelou And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim P.S. — Deal of the Week: Ascent Protein. Many protein powders are filled with excess sugar, questionable artificial sweeteners, or low-grade protein. Ascent Protein is an exception—it contains zero artificial ingredients, artificial sweeteners, or added sugar. All Ascent products are Informed-Sport certified to be free of banned substances, and their protein efficiency is second to none. One scoop of Ascent protein has more naturally-occurring, muscle-repairing BCAAs than an equivalent serving of chicken, beef, eggs, salmon, or plant-based proteins. They also take taste seriously; for instance, they tested 282 versions before getting the chocolate (my favorite) just right. They also offer vanilla bean, cappuccino, and lemon sorbet flavors. Visit ascentprotein.com/Tim and use the code “TFASCENT” to receive 20% off of your entire purchase. Enjoy! [](https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/09bwh9hoo0lr7e/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Maya Angelou And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim P.S. — Deal of the Week: Ascent Protein. Many protein powders are filled with excess sugar, questionable artificial sweeteners, or low-grade protein. Ascent Protein is an exception—it contains zero artificial ingredients, artificial sweeteners, or added sugar. All Ascent products are Informed-Sport certified to be free of banned substances, and their protein efficiency is second to none. One scoop of Ascent protein has more naturally-occurring, muscle-repairing BCAAs than an equivalent serving of chicken, beef, eggs, salmon, or plant-based proteins. They also take taste seriously; for instance, they tested 282 versions before getting the chocolate",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/qlf8h7h77gkp60/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWF5YV9BbmdlbG91",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/qlf8h7h77gkp60/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWF5YV9BbmdlbG91"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/30tphkhoo6pgdq/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/wrc2hgh55906oq/aHR0cHM6Ly93d3cuYXNjZW50cHJvdGVpbi5jb20vdGlt"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/rps8hoh2296z5m/aHR0cHM6Ly93d3cuYXNjZW50cHJvdGVpbi5jb20vdGlt"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/02awh9hoo0lr72/aHR0cHM6Ly93d3cuYXNjZW50cHJvdGVpbi5jb20vdGlt"
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/v2h3hrhxx2wrkr/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/xmumv0zqqa6h7l2go"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/xmumv0zqqa6h7l2go/3viphkhoo6pgn6/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

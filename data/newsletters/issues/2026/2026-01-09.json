@@ -7,7 +7,138 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Profile I’m reading",
+      "category": "article",
+      "title": "The Technology Brothers Have Silicon Valley in Their Thrall. Now They’re Coming for You",
+      "creator": "Julia Black",
+      "note": "(_Vanity Fair_). Do you think it’s too crowded to do X, whatever you might be considering? Well, think again, as there is always room if you aim to be the _only_ and not simply the best. Owning a category of one, and being first mover, gives you a tremendous margin of safety. This is a fun read full of lessons. I suggest pairing it with [this _WSJ_ profile of the _Acquired_ gents](https://www.wsj.com/business/media/acquired-podcast-tech-business-history-strategy-90e73603?gaa_at=eafs&gaa_n=AWEtsqfyMyVux0j0RpNsepCHSNMkVYraTPoRvYpHY-oSiArOwLF7eDxEFM25w0wTZhg%3D&gaa_sig=2PrGkhQj6yt-_CpEJbVKFzbqVAPBNX0IRN_A6OHHRTf9wopqF6VVCrYGDEbUrQSslvYGbgfiLtN_-NtJ4jsM9g%3D%3D&gaa_ts=69618493) and how they carved out a spectacular niche (a big one!) in the saturated podcast ecosystem.",
+      "original_url": "https://www.vanityfair.com/news/story/the-technology-brothers-have-silicon-valley-in-their-thrall?srsltid=AfmBOoqMw7pd5xyiWSgurc1EQE-dSYCDy6HI1KkbqxFeMxyRTRX2O5s9",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.vanityfair.com/news/story/the-technology-brothers-have-silicon-valley-in-their-thrall?srsltid=AfmBOoqMw7pd5xyiWSgurc1EQE-dSYCDy6HI1KkbqxFeMxyRTRX2O5s9"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/mjnblack?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.wsj.com/business/media/acquired-podcast-tech-business-history-strategy-90e73603?gaa_at=eafs&gaa_n=AWEtsqfyMyVux0j0RpNsepCHSNMkVYraTPoRvYpHY-oSiArOwLF7eDxEFM25w0wTZhg%3D&gaa_sig=2PrGkhQj6yt-_CpEJbVKFzbqVAPBNX0IRN_A6OHHRTf9wopqF6VVCrYGDEbUrQSslvYGbgfiLtN_-NtJ4jsM9g%3D%3D&gaa_ts=69618493"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Research that I’m reading",
+      "category": "article",
+      "title": "Lactate and BDNF: Key Mediators of Exercise Induced Neuroplasticity?",
+      "creator": null,
+      "note": "This will inform how I change my exercise moving forward, specifically related to increasing high-intensity interval training (HIIT). There are some wild insights and workout specifics coming soon to the podcast. Bookmark the last week of January, and you can subscribe to the podcast on [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-tim-ferriss-show/id863897795), [Spotify](https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM), or wherever else you get your fine audio morsels.",
+      "original_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7230639/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7230639/"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/the-tim-ferriss-show/id863897795"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m using",
+      "category": "other",
+      "title": "KETOSPIKE Cocoa",
+      "creator": null,
+      "note": "I’ve been getting a lot of questions about exogenous ketones. KETOSPIKE, formulated by Dominic D’Agostino, Ph.D., and Csilla Ari D’Agostino, Ph.D., has become my default, which I use a handful of times per week while on a ketogenic or extremely low-carb diet. This is particularly valuable prior to podcast recordings, as was the case a few hours ago. I’ll mix this into coffee with a few tablespoons of cream, and I get a mild but noticeable cognitive boost for 2–3 hours.",
+      "original_url": "https://www.audaciousnutrition.com/products/ketospike-cocoa-with-bhb-ketones",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.audaciousnutrition.com/products/ketospike-cocoa-with-bhb-ketones"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m exploring",
+      "category": "other",
+      "title": "What are successful YouTube channels that were strongly inspired by The 4-Hour Workweek?",
+      "creator": null,
+      "note": "I’m thinking of interviewing some of these creators on the podcast, plus perhaps more… Please let me know [by replying to my post here](https://x.com/tferriss/status/2009421398046069189).",
+      "original_url": "https://x.com/tferriss/status/2009421398046069189",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://x.com/tferriss/status/2009421398046069189"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/tferriss/status/2009421398046069189"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Tech stuff I’m tracking",
+      "category": "music",
+      "title": "This is a weird comparison, but Zcash reminds me a lot of BitTorrent…",
+      "creator": "Haseeb Qureshi",
+      "note": ". I think the nature of privacy, and how much we value it, will change fundamentally in the next 2–3 years, as the realities of being fully exposed become more obvious. For several years, I’ve been tracking privacy-reclaiming technologies, and this is one that I’m paying attention to.  \n​  \nHow would you like your online purchases, precise physical location, voting and dating preferences, health or health-adjacent information (e.g., wearables), and more to be correlated and made public? What if insurers and potential employers could purchase this information, even if done indirectly to skirt regulation? What if script kiddies worldwide could scrape most of it from publicly available data and piece it together with AI in an afternoon? What if they could also ingest all of your social media posts at the same time? This is a lot closer than people realize. In fact, most of it’s already here.  \n​  \nThere are an estimated 4,000+ data brokers in the US alone. They already offer precise geolocation, political preferences, demographic details, real-time tracking, and [even military status or employment](https://techpolicy.sanford.duke.edu/wp-content/uploads/2021/08/Data-Brokers-and-Sensitive-Data-on-US-Individuals-Sherman-2021.pdf?utm_source=chatgpt.com). Major data brokers may have ~1,500 data points on single individuals, sometimes including cell phone data, credit card transactions, SSN, date of birth, and even [driving data](https://apnews.com/article/ftc-gm-driving-data-insurers-a555abb56a0d5f31afa9b73c3eb48287). There’s currently no comprehensive federal right for individuals to see, correct, or opt out of data being compiled about them. Think I’m exaggerating? I fact-checked this bullet with a few LLMs:  \n​  \nClaude Opus 4.5: “The claims check out. The piece is well-sourced on the data broker landscape.”  \n​  \nGemini 3: “This text is a blend of accurate industry data, specific historical quotes, and a slightly outdated statistic that actually understates the current scale of the data broker industry.”  \n​  \nAnd this was all **before** AI. I’ll save quantum computing considerations for another time.",
+      "original_url": "https://x.com/hosseeb/status/2009335239353475157",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://x.com/hosseeb/status/2009335239353475157"
+        },
+        {
+          "type": "other",
+          "url": "https://haseebq.com/about/"
+        },
+        {
+          "type": "other",
+          "url": "https://techpolicy.sanford.duke.edu/wp-content/uploads/2021/08/Data-Brokers-and-Sensitive-Data-on-US-Individuals-Sherman-2021.pdf?utm_source=chatgpt.com"
+        },
+        {
+          "type": "other",
+          "url": "https://apnews.com/article/ftc-gm-driving-data-insurers-a555abb56a0d5f31afa9b73c3eb48287"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Excerpt I’m pondering",
+      "category": "other",
+      "title": "Report on The Privacy Act of 1974",
+      "creator": null,
+      "note": "​\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [my latest podcast episode](https://tim.blog/2026/01/06/ketosis-practical-guide-dom-dagostino/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit), featuring Dominic D’Agostino, Ph.D. We cover ketosis for enhanced mood, cognition, and long-term brain protection; my latest keto experiment; and much more.  \n​  \nAnd, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
+      "original_url": "https://archive.epic.org/privacy/ppsc1977report/c13.htm",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://archive.epic.org/privacy/ppsc1977report/c13.htm"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/01/06/ketosis-practical-guide-dom-dagostino/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

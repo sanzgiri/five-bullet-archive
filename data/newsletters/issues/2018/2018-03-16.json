@@ -6,7 +6,119 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Solve for Happy: Engineer Your Path to Joy",
+      "creator": "Mo Gawdat",
+      "note": "fourhourmail.com/c/27uk8e5mmuohg65mo/opfkhq/aHR0cHM6Ly90d2l0dGVyLmNvbS9NR2F3ZGF0)). This was recommended to me by a type-A MD who runs his life at 200mph. He is an engineer and strongly dislikes most woo-woo thinking. He gave this book his highest recommendation. To my relief, it doesn’t require any technical background. Here is part of the description, slightly edited for space: “Mo Gawdat, Chief Business Officer at Google’s \\[X\\], applies his superior logic and problem solving skills to understand how the brain processes joy and sadness—and then he solves for happy. In 2001 Mo Gawdat realized that despite his incredible success, he was desperately unhappy. A lifelong learner, he attacked the problem as an engineer would: examining all the provable facts and scrupulously applying logic. Eventually, his countless hours of research and science proved successful, and he discovered the equation for happiness.” Thus far, I’ve found it very impactful, especially his portion on “I am, therefore I think” as a more useful version of “I think, therefore I am.”",
+      "original_url": "https://el2.fourhourmail.com/c/27uk8e5mmuohg65mo/78i7h8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Tb2x2ZS1IYXBweS1FbmdpbmVlci1Zb3VyLVBhdGgvZHAvMTUwMTE1NzU4Mi8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohg65mo/78i7h8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Tb2x2ZS1IYXBweS1FbmdpbmVlci1Zb3VyLVBhdGgvZHAvMTUwMTE1NzU4Mi8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohg65mo/opfkhq/aHR0cHM6Ly90d2l0dGVyLmNvbS9NR2F3ZGF0"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "The Barkley Marathons: The Race That Eats Its Young",
+      "creator": null,
+      "note": "I enjoy oddities, especially oddities that have a strange but compelling logic to them. So it is with the Barkley Marathons. Here is the film description, and it’s not fake: “A famous prison escape sparks the idea for a cult-like race that has seen only 10 finishers in its first 25 years. This award-winning, oddly inspiring, and wildly funny documentary reveals the sports world's most guarded secret.” Perhaps I’ll have “Lazarus” on the podcast someday, who is noted in these lines at the link above: “Starring: Lazarus Lake, Raw Dog.”",
+      "original_url": "https://el2.fourhourmail.com/c/27uk8e5mmuohg65mo/zvtghn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9CYXJrbGV5LU1hcmF0aG9ucy1SYWNlLVRoYXQtWW91bmcvZHAvQjAxN1k0M1AzUy8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohg65mo/zvtghn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9CYXJrbGV5LU1hcmF0aG9ucy1SYWNlLVRoYXQtWW91bmcvZHAvQjAxN1k0M1AzUy8="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Food I’m experimenting with —",
+      "category": "other",
+      "title": "@marcocanora",
+      "creator": null,
+      "note": ") of [Brodo Broth Co.](https://el2.fourhourmail.com/c/27uk8e5mmuohg65mo/xksph6/aHR0cHM6Ly93d3cuYnJvZG8uY29tLw==) in NYC recently came to Austin, and we had dinner together. Among other things, he made [this incredible vegetable salad](https://el2.fourhourmail.com/c/27uk8e5mmuohg65mo/60aeh8/aHR0cDovL3d3dy5mb29kYW5kd2luZS5jb20vcmVjaXBlcy93YXJtLXN1bW1lci12ZWdldGFibGUtc2FsYWQ=). You could easily (as he did) substitute cauliflower and other veggies for the summer squash, and the potatoes give it all a wonderful creaminess. It’s absolutely fantastic. A more complete version of the recipe, and much more, can be found in his book, [A Good Food Day](https://el2.fourhourmail.com/c/27uk8e5mmuohg65mo/kmbmh6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Hb29kLUZvb2QtRGF5LVJlYm9vdC1IZWFsdGgtZWJvb2svZHAvQjAwTEtKR09GVQ==).",
+      "original_url": "https://el2.fourhourmail.com/c/27uk8e5mmuohg65mo/pnceh9/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9tYXJjb2Nhbm9yYS8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohg65mo/pnceh9/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9tYXJjb2Nhbm9yYS8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohg65mo/xksph6/aHR0cHM6Ly93d3cuYnJvZG8uY29tLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohg65mo/60aeh8/aHR0cDovL3d3dy5mb29kYW5kd2luZS5jb20vcmVjaXBlcy93YXJtLXN1bW1lci12ZWdldGFibGUtc2FsYWQ="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohg65mo/kmbmh6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Hb29kLUZvb2QtRGF5LVJlYm9vdC1IZWFsdGgtZWJvb2svZHAvQjAwTEtKR09GVQ=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Most popular post on Instagram —",
+      "category": "other",
+      "title": "Great reminder.",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/27uk8e5mmuohg65mo/52hvh7/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JnUjB1NGNsSnQ0Lz90YWtlbi1ieT10aW1mZXJyaXNz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohg65mo/52hvh7/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JnUjB1NGNsSnQ0Lz90YWtlbi1ieT10aW1mZXJyaXNz"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Beware the stories you read or tell; subtly, at night, beneath the waters of consciousness, they are altering your world.” - Ben Okri And as always, please let me know your requests and suggestions on Twitter. Which bullet above is your favorite? What do you want more or less of? Let me know. Just send a tweet to @tferriss and put #5BulletFriday in there so I can find it. Have a wonderful weekend, all! Tim [](https://el2.fourhourmail.com/c/27uk8e5mmuohg65mo/q3i8h7/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. Seneca and Marcus, 60 29th Street, San Francisco, California 94110, United States",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/27uk8e5mmuohg65mo/2ou2ho/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohg65mo/2ou2ho/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohg65mo/gvfnh5/aHR0cDovL2dvLmZvdXJob3Vyd29ya3dlZWsuY29tLzEweC1vdXRwdXQv"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "http://el2.fourhourmail.com/u/27uk8e5mmuohg65mo"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohg65mo/3wcphk/aHR0cDovL2ZvdXJob3Vyd29ya3dlZWsuY29tL2Jsb2c="
+        }
+      ]
+    }
+  ]
 }

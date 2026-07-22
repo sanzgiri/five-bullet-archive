@@ -6,7 +6,159 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Productivity",
+      "creator": "Sam Altman, CEO of OpenAI, makers of ChatGPT and more",
+      "note": ", CEO of OpenAI, makers of ChatGPT and more. From Sam: “I think I am at least somewhat more productive than average, and people sometimes ask me for productivity tips. So I decided to just write them all down in one place.”",
+      "original_url": "https://blog.samaltman.com/productivity",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://blog.samaltman.com/productivity"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/sama"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Still Not Dead",
+      "creator": "Willie Nelson",
+      "note": "([YouTube](https://www.youtube.com/watch?v=J34esa_aJxc), [Spotify](https://open.spotify.com/track/30dIbe1zV4orwzUtria9Np)) by [Willie Nelson](https://en.wikipedia.org/wiki/Willie_Nelson). Pairs well with [this image](https://www.instagram.com/timferriss/p/CX1sm7ToIty/).",
+      "original_url": "https://www.youtube.com/watch?v=J34esa_aJxc",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=J34esa_aJxc"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=J34esa_aJxc"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/30dIbe1zV4orwzUtria9Np"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Willie_Nelson"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/timferriss/p/CX1sm7ToIty/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Movie I’m watching once again",
+      "category": "video",
+      "title": "Jodorowsky’s Dune",
+      "creator": null,
+      "note": "Sometimes, you can learn a lot from failures, which is why I (and [Nassim Taleb](https://tim.blog/2023/09/07/nassim-nicholas-taleb-scott-patterson/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content)) like the book [_What I Learned Losing a Million Dollars_](https://www.audible.com/pd/What-I-Learned-Losing-a-Million-Dollars-Audiobook/B00NC8XVVC), for example. _Jodorowsky's Dune_ is the hilarious telling of a spectacularly bold failure. My favorite parts are the highlights of lessons learned, as well as the stories of how team members later helped create spectacular successes (e.g., the Alien in [_Alien_](https://en.wikipedia.org/wiki/Alien_(film))). The later diaspora of talent reminded me of the incredible General Magic startup story, which you can [learn about here](https://youtu.be/5M5SJ5u0Ke4?t=503).  \n​  \nTo give you a taste, here are a few quotes from the titular director, Alejandro Jodorowsky:  \n​  \n​_“I ask of film what most North Americans ask of psychedelic drugs.”  \n​  \n“Most directors make films with their eyes; I make films with my balls.”  \n​  \n“I will hire the chef of this restaurant, and you will eat, as here, every day.” (This was_ [_his pitch to get Orson Welles_](https://en.wikipedia.org/wiki/Vladimir_Harkonnen#Cancelled_1970s_film) _to act in_ Dune_.)  \n​  \n“One day, someone showed me a glass of water that was half full. And he said, ‘Is it half full or half empty?’ So I drank the water. No more problem.”  \n​  \n​_At a minimum, check out the trailer [here](https://youtu.be/m0cJNR8HEw0?si=lCVdAUDWYkI4bJJ3).",
+      "original_url": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f4a9f735-e8ee-eb32-9676-02165589b896?autoplay=0&ref_=atv_cf_strg_wb",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f4a9f735-e8ee-eb32-9676-02165589b896?autoplay=0&ref_=atv_cf_strg_wb"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/09/07/nassim-nicholas-taleb-scott-patterson/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.audible.com/pd/What-I-Learned-Losing-a-Million-Dollars-Audiobook/B00NC8XVVC"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Alien_(film"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/5M5SJ5u0Ke4?t=503"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Vladimir_Harkonnen#Cancelled_1970s_film"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/m0cJNR8HEw0?si=lCVdAUDWYkI4bJJ3"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "How to Heal the Anxious Self",
+      "creator": null,
+      "note": "I had the pleasure of sitting down with poet David Whyte [for an interview](https://tim.blog/2024/12/05/david-whyte/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) a few months ago, and he proved as wonderful in person as he is on the page. During our conversation, he read from his most recent work, [_Consolations II_](https://davidwhyte.com/store/book/consolations-ii/). Now, I have a dog-eared hardcover copy by my bedside. It’s indispensable. No matter the challenge, dream, mystery, or feeling of stuckness, he has a poem or essay within that will help you. I’ve recently been rereading one of his essays in particular, and David kindly agreed to allow me to share it with you [on my blog](https://tim.blog/2025/04/09/how-to-heal-the-anxious-self-david-whyte/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content).",
+      "original_url": "https://tim.blog/2025/04/09/how-to-heal-the-anxious-self-david-whyte/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2025/04/09/how-to-heal-the-anxious-self-david-whyte/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/12/05/david-whyte/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://davidwhyte.com/store/book/consolations-ii/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/04/09/how-to-heal-the-anxious-self-david-whyte/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“It is not happiness that makes us grateful. It’s gratefulness that makes us happy.” — Brother David Steindl-Rast (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my brand-new interview with Philip Goff on consciousness, non-ordinary religions, panpsychism, and more. For more on General Magic, listen to my first interview with Tony Fadell, known as “the father of the iPod.” From 1992 to 1995, he served as a hardware and software architect at General Magic, which created the precursor to the iPhone. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Brother David Steindl-Rast",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/David_Steindl-Rast",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/David_Steindl-Rast"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/dp/0316178314/"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/bOY26"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=Rn0IT25cRhs"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/12/23/tony-fadell/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

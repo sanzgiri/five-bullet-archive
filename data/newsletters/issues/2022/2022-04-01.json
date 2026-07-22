@@ -6,7 +6,151 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Art I’m loving",
+      "category": "other",
+      "title": "Of Trees, Tenderness, and the Moon: Hasui Kawase’s Stunning Japanese Woodblock Prints from the 1920s–1950s",
+      "creator": "Maria Popova",
+      "note": "([@brainpicker](https://twitter.com/brainpicker)). From the article: “Born into a Tokyo family of rope and thread merchants, Hasui Kawase (May 18, 1883–November 7, 1957) grew up dreaming of becoming an artist. His parents pressed him to continue in their path, but he persisted in following his own, drawing quiet inspiration from the example of his maternal uncle—the creator of the first manga magazine.”",
+      "original_url": "https://www.themarginalian.org/2021/03/22/hasui-kawase-prints/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.themarginalian.org/2021/03/22/hasui-kawase-prints/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/10/21/brain-pickings/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/brainpicker"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "The Most Reluctant Convert",
+      "creator": null,
+      "note": "I find [C.S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis), best known as author of [_The Chronicles of Narnia_](https://www.amazon.com/gp/product/B008LUYSAE/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1), endlessly fascinating. This film paints a rich picture of his life, and even though I don’t self-identify as religious and didn’t understand a few of the logical leaps, I was blown away by [Max McLean](https://en.wikipedia.org/wiki/Max_McLean)’s ([@MaxMcLeanNYC](https://mobile.twitter.com/maxmcleannyc)) performance. From the description: “Experience C.S. Lewis’ profound journey from vigorous debunker of Christianity to become, as he said, ‘the most reluctant convert in all England.’ Through Max McLean’s detailed and masterful performance, Lewis tells his story of grief, loss and redemption in his own magnificent words; and delivers the provocative, intellectual and spiritual insights that made him the most influential Christian writer of the past century.” [See the trailer here](https://youtu.be/VTdgyT5_U70).",
+      "original_url": "https://cslewismovie.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://cslewismovie.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/C._S._Lewis"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/gp/product/B008LUYSAE/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Max_McLean"
+        },
+        {
+          "type": "other",
+          "url": "https://mobile.twitter.com/maxmcleannyc"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/VTdgyT5_U70"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Body Yako (Instrumental)",
+      "creator": null,
+      "note": "](https://www.youtube.com/watch?v=VIOpMRup5fk)**”** ([YouTube](https://www.youtube.com/watch?v=VIOpMRup5fk), [Spotify](https://open.spotify.com/track/7EQi4fnEqivyU2z5YYAsbu?si=khaLl_amQ5y5hkIWRy5VNQ)) by [Captain Planet](https://linktr.ee/djcaptainplanet) ([@ChuckWild](https://twitter.com/chuckwild)).",
+      "original_url": "https://www.youtube.com/watch?v=VIOpMRup5fk",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=VIOpMRup5fk"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=VIOpMRup5fk"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/7EQi4fnEqivyU2z5YYAsbu?si=khaLl_amQ5y5hkIWRy5VNQ"
+        },
+        {
+          "type": "other",
+          "url": "https://linktr.ee/djcaptainplanet"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/chuckwild"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading and forwarding",
+      "category": "article",
+      "title": "Patents on Psychedelics: The Next Legal Battlefront of Drug Development",
+      "creator": null,
+      "note": "([@CohenProf](https://twitter.com/cohenprof?lang=en)) and [Mason Marks](https://petrieflom.law.harvard.edu/fellows/postdoctoral-fellow/mason-marks) ([@MasonMarksMD](https://twitter.com/MasonMarksMD)) for the _Harvard Law Review_. Here is an excerpt:  \n​  \n​_The issuance of low-quality patents on psychedelics reflects unique characteristics of these substances, their complex history and regulation, and systemic problems with the patent system. Though prior art repositories and patent pledges can be helpful, meaningful patent reform is necessary to prevent the granting of meritless psychedelic patents.  \n​  \nThe existing patent framework often rewards those who patent “me-too drugs” that are insignificant advancements over existing therapies, reducing the public benefit received per research dollar spent. Copycat therapeutics not only lack novelty, but they have also failed to produce significant improvements in mental healthcare, as evidenced by rising rates of suicide and skyrocketing overdose deaths. Drug companies have recently applied this me-too approach to psychedelic experiences pioneered and revered by Indigenous communities.  \n​  \nPsychedelics may represent a paradigm shift for mental healthcare and the most promising solution to the mental health crisis. However, if a small number of companies secure wide swaths of intellectual property early on, then the beneficial impact of that shift may be blunted.  \n​  \nIn this Essay we have set out a series of proposals for discouraging unwarranted patents in the psychedelics field, some radical, some less so. It is essential to have these conversations now, while the industry remains in its nascent stage. The political economy is such that once new players become large enough, they will have an outsized influence over potential changes to the law, especially those that threaten their dominant positions._",
+      "original_url": "https://harvardlawreview.org/2022/02/patents-on-psychedelics-the-next-legal-battlefront-of-drug-development/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://harvardlawreview.org/2022/02/patents-on-psychedelics-the-next-legal-battlefront-of-drug-development/"
+        },
+        {
+          "type": "other",
+          "url": "https://petrieflom.law.harvard.edu/about/bio/i-glenn-cohen"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/cohenprof?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://petrieflom.law.harvard.edu/fellows/postdoctoral-fellow/mason-marks"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/MasonMarksMD"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“I tell you: one must have chaos in oneself to give birth to a dancing star.” — From Thus Spoke Zarathustra by Friedrich Nietzsche And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "From Thus Spoke Zarathustra by Friedrich Nietzsche And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Thus_Spoke_Zarathustra",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Thus_Spoke_Zarathustra"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

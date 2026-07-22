@@ -6,7 +6,155 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching (shorter)",
+      "category": "video",
+      "title": "The Moth Presents — Stephanie Peirolo: Walking with RJ",
+      "creator": null,
+      "note": "This is an incredibly moving and brutal 12-minute video. It helps put things in perspective, and it made me reconsider my “stresses” as almost entirely absurd. Perhaps you also need a reset for this weekend? Watch the whole thing to feel it properly.",
+      "original_url": "https://www.youtube.com/watch?v=WebsjShV0ZA",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=WebsjShV0ZA"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching (longer)",
+      "category": "video",
+      "title": "Joseph Campbell and the Power of Myth with Bill Moyers",
+      "creator": null,
+      "note": "This six-part series of one-hour episodes is simply incredible, and I found it profoundly calming. It might be my favorite interview series of all time, which is saying a lot. Here’s the description: “Forty years ago, renowned scholar Joseph Campbell sat down with veteran journalist Bill Moyers for a series of interviews that became one of the most enduringly popular programs ever on PBS. In dialogues that adroitly span millennia of history and far-flung geography, the two men discuss myths as metaphors for human experience and the path to transcendence.” Try the first episode and let me know what you think. Joseph is a one-of-a-kind professor of the timeless.",
+      "original_url": "https://www.amazon.com/The-Heros-Adventure/dp/B07BC2VHHJ/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/The-Heros-Adventure/dp/B07BC2VHHJ/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Audiobook I’m listening to",
+      "category": "audiobook",
+      "title": "Red Rising",
+      "creator": "Pierce Brown, narrated by Tim Gerard Reynolds",
+      "note": ", narrated by [Tim Gerard Reynolds](https://twitter.com/KanShoReynolds). This is the first book of six from Brown’s _Red Rising_ series. Book One was originally recommended to me by a friend formerly of Special Forces, but then half a dozen other friends did the same, including soft-spoken women I never would’ve guessed would pick up a book like this. I was 100% wrong. The book has amazing characters across the board, and if you liked [_Ender’s Game_](https://www.amazon.com/Enders-Game-Special-20th-Anniversary/dp/B00006JMD2/), [_Dune_](https://www.amazon.com/Dune-Deluxe-Frank-Herbert-dp-059309932X/dp/059309932X/ref=dp_ob_title_bk), [_Braveheart_](https://www.amazon.com/Braveheart-Mel-Gibson/dp/B000HX4ZF6/), [_Man On Fire_](https://www.amazon.com/Man-Fire-Christopher-Walken/dp/B001GY0FE0/), [_Gladiator_](https://www.amazon.com/Gladiator-Russell-Crowe/dp/B0CLDB9DMM/), or [_Taken_](https://www.amazon.com/Taken-Liam-Neeson/dp/B009EEHVA0/)—you get the idea—you’ll almost certainly enjoy this one. DO NOT read the book description on Amazon, as it gives away too much. Don’t rob yourself of great surprises. This has been my daily companion for a week now, and I wake up looking forward to it.",
+      "original_url": "https://www.audible.com/pd/Red-Rising-Audiobook/B00I2VWW5U?creativeId=292d6343-f11b-4bbe-a8a5-d4b7272abf61&ipRedirectOverride=true&overrideBaseCountry=true&pageLoadId=NkW3js6QOcBE6QX2&pf_rd_p=a0dbd527-193d-470f-a56a-b7cf252ec810&pf_rd_r=H8Y5JTVY2CK107G3N9XB&ref_pageloadid=not_applicable&share_location=player_overflow&source_code=ASSORAP0511160006",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.audible.com/pd/Red-Rising-Audiobook/B00I2VWW5U?creativeId=292d6343-f11b-4bbe-a8a5-d4b7272abf61&ipRedirectOverride=true&overrideBaseCountry=true&pageLoadId=NkW3js6QOcBE6QX2&pf_rd_p=a0dbd527-193d-470f-a56a-b7cf252ec810&pf_rd_r=H8Y5JTVY2CK107G3N9XB&ref_pageloadid=not_applicable&share_location=player_overflow&source_code=ASSORAP0511160006"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/Pierce_Brown"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/KanShoReynolds"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Enders-Game-Special-20th-Anniversary/dp/B00006JMD2/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Dune-Deluxe-Frank-Herbert-dp-059309932X/dp/059309932X/ref=dp_ob_title_bk"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Braveheart-Mel-Gibson/dp/B000HX4ZF6/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Man-Fire-Christopher-Walken/dp/B001GY0FE0/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Gladiator-Russell-Crowe/dp/B0CLDB9DMM/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Taken-Liam-Neeson/dp/B009EEHVA0/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Psychedelics gave terminal patients relief from their intense anxiety",
+      "creator": "Meryl Davids Landau",
+      "note": "(_Washington Post_). [Alternate link if the former doesn’t work](https://archive.is/zRx55#selection-373.0-378.0). This is one of the most beautiful articles I’ve ever read covering first-hand accounts and challenges related to psychedelics. It also offers helpful metaphors for anyone struggling with “partial completeness,” even if you never take any of these drugs. From the article:  \n​  \n​_In addition to his enhanced calmness, he remarked in November that taking the drug seemed to have deepened the connection he felt toward the friends and family who had streamed into his and Cheryl’s home following his worsened prognosis. “I have a way more sensitive outlook. I feel more love toward people,” Brian relayed at the time. Three weeks later, in a hospital surrounded by more than a dozen family members, Brian died. “He remained calm, peaceful and joyful” to the end, Cheryl said.  \n​  \n​_Reporting for this story was supported by the [Ferriss-UC Berkeley Psychedelic Journalism Fellowship](https://fellowships.journalism.berkeley.edu/bcsp/). If you’re curious about non-drug options for exploring multiple parts of the psyche, I suggest you check out [my interview on IFS with Dick Schwartz](https://tim.blog/2021/01/14/richard-schwartz-internal-family-systems/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content), which includes a live demo on yours truly (yikes).",
+      "original_url": "https://www.washingtonpost.com/wellness/2024/01/13/psychedelics-terminal-illness-cancer/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.washingtonpost.com/wellness/2024/01/13/psychedelics-terminal-illness-cancer/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.meryldavidslandau.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.is/zRx55#selection-373.0-378.0"
+        },
+        {
+          "type": "other",
+          "url": "https://fellowships.journalism.berkeley.edu/bcsp/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/01/14/richard-schwartz-internal-family-systems/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Passage I’m pondering",
+      "category": "other",
+      "title": "Nassim Nicholas Taleb",
+      "creator": null,
+      "note": "; hence the higher the noise-to-signal ratio.  \n​  \nAnd there is a confusion which is not psychological at all, but inherent in the data itself. Say you look at information on a yearly basis, for stock prices, or the fertilizer sales of your father-in-law’s factory, or inflation numbers in Vladivostok. Assume further that for what you are observing, at a yearly frequency, the ratio of signal to noise is about one to one (half noise, half signal)—this means that about half the changes are real improvements or degradations, the other half come from randomness. This ratio is what you get from yearly observations.  \n​  \nBut if you look at the very same data on a daily basis, the composition would change to 95 percent noise, 5 percent signal. And if you observe data on an hourly basis, as people immersed in the news and market price variations do, the split becomes 99.5 percent noise to 0.5 percent signal. That is two hundred times more noise than signal—which is why anyone who listens to news (except when very, very significant events take place) is one step below sucker.  \n​  \n​**— [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb), [_Antifragile_](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680/) ​  \n([Click here to share on Twitter](https://ctt.ec/wg_qD).)\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [my interview](https://tim.blog/2021/06/28/michael-pollan-this-is-your-mind-on-plants/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) with bestselling author and journalist Michael Pollan, [my conversation](https://tim.blog/2023/10/02/arnold-schwarzenegger-be-useful/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) with fitness icon Arnold Schwarzenegger, and [the latest supercombo podcast episode](https://tim.blog/2024/08/01/nassim-nicholas-taleb-and-todd-mcfarlane/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content), featuring risk expert Nassim Nicholas Taleb and legendary comic-book creator Todd McFarlane.  \n​  \nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
+      "original_url": "https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680/"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/wg_qD"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/06/28/michael-pollan-this-is-your-mind-on-plants/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/10/02/arnold-schwarzenegger-be-useful/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/08/01/nassim-nicholas-taleb-and-todd-mcfarlane/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

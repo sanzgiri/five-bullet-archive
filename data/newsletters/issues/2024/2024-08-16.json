@@ -6,7 +6,131 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Track I’m using to downshift for the weekend",
+      "category": "music",
+      "title": "Granada",
+      "creator": "Lebanese composer, oud master, and singer Marcel Khalife",
+      "note": "([Spotify](https://open.spotify.com/track/6U8IWJDdiHP4PehqHeWFIt), [YouTube](https://www.youtube.com/watch?v=PEJAhM9PtDw)) by Lebanese composer, [oud](https://en.wikipedia.org/wiki/Oud) master, and singer [Marcel Khalife](https://en.wikipedia.org/wiki/Marcel_Khalife). This is two songs in one. The first half is totally unlike the second half. It’s a long one and worth the time.",
+      "original_url": "https://open.spotify.com/track/6U8IWJDdiHP4PehqHeWFIt",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://open.spotify.com/track/6U8IWJDdiHP4PehqHeWFIt"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/6U8IWJDdiHP4PehqHeWFIt"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=PEJAhM9PtDw"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Oud"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Marcel_Khalife"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Book I’m rereading as I work on my next",
+      "category": "book",
+      "title": "Draft No. 4",
+      "creator": "John McPhee",
+      "note": ". This is one of the best books about nonfiction writing that I’ve ever read. Be forewarned that it skips the hand-wavy platitudes and gets straight to the nitty-gritty details, as all McPheesian stories do. If you want to get a fun taste of his writing and mastery of structure, try [_Levels of the Game_](https://www.amazon.com/Levels-Game-John-McPhee/dp/0374515263/), which at least a dozen podcast guests have also recommended.",
+      "original_url": "https://www.amazon.com/Draft-No-4-Writing-Process/dp/0374537976/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Draft-No-4-Writing-Process/dp/0374537976/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/John_McPhee"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Levels-Game-John-McPhee/dp/0374515263/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Documentary I’m watching",
+      "category": "video",
+      "title": "David Hockney: The Art of Seeing",
+      "creator": null,
+      "note": "David never ceases to amaze and inspire me. Here’s part of the doc description: “[David Hockney](https://en.wikipedia.org/wiki/David_Hockney), widely considered to be Britain’s best-loved living artist, has taken over the Royal Academy \\[RA\\] in London with his exhibition A Bigger Picture, made up of recent works depicting the landscape of his native Yorkshire. In this programme, Andrew Marr, a friend of Hockney’s and an amateur painter himself, is in conversation with the artist, both at his home in Bridlington and in the galleries of the RA.”  \n​  \nSome quotes from the documentary:  \n​  \n“The harder you look, the more you see and the more you get back.”  \n— Andrew Marr  \n​  \n“An artist can support hedonism, but he cannot be a hedonist himself because artists are workers by definition.”  \n— David Hockney  \n​  \n“If you like music, you like silence.”  \n— David Hockney",
+      "original_url": "https://youtu.be/Cdqch3-D94A?si=BMdGI4rsNnVAQMZs",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/Cdqch3-D94A?si=BMdGI4rsNnVAQMZs"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/David_Hockney"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Short article I’m reading",
+      "category": "article",
+      "title": "How to overhaul America’s schools",
+      "creator": null,
+      "note": "This quick read includes fascinating history, snippets of which are below; current standouts in the US; and models from overseas. Here’s a preview: **​  \n​  \n​**_The “rebuild” part of the book’s title is significant. Until the late nineteenth century, U.S. schools were what education experts call pluralistic. Local governments funded Christian, Jewish, and nonsectarian schools alike, and they all taught a “consistent body of academic knowledge,” a core set of subjects all students were expected to know, Berner says. Today, she adds, pluralism serves as the model for most European countries. The Netherlands, for example, funds 36 kinds of schools, all of which adhere to the same academic standards. And most European countries require government-funded schools to teach comparative religion and ethics, covering a range of belief systems. Similar models apply in Indonesia and Israel, parts of Africa and Central America, and provinces in Canada, India, and Pakistan, she says._​  \n​  \n​_But during the mid-to-late 1800s in the U.S., as an influx of Catholic immigrants—considered uncivilized by the mostly Protestant political leaders—arrived from Europe, the tide turned. “After the Civil War, state after state passed laws and put in their constitutions that they would not fund ‘sectarian’ schools, which was code for ‘Catholic,’” Berner says. “So the culture war of the nineteenth century contributed to the district school model as the carrier of public education.” That education is controlled by individual states, where policies allow for curricula to be developed by various parties—including, in some cases, parents—at the district and school levels.  \n​  \n…  \n​  \nOther countries offer what the U.S. used to: diverse schools and common content. That content “systematically and sequentially builds background knowledge about important topics,” Berner says. … “Every kindergartner learns about the Egyptians, every first grader the Greek and Roman empires,” Berner explains. “That creates a common conversation across different schools—Hindu, Jewish, secular, Montessori.”_",
+      "original_url": "https://hub.jhu.edu/magazine/2024/spring/educational-pluralism-overhaul-schools/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://hub.jhu.edu/magazine/2024/spring/educational-pluralism-overhaul-schools/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“If you forget your feelings about things of the world, they become enlightening teachings. If you get emotional about enlightening teaching, it becomes a worldly thing.” — Musō Soseki (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my interview with bestselling author Michael Lewis, my conversation with renowned artist Dustin Yellen, and the latest supercombo podcast episode, featuring Basketball Hall of Fame inductee George Raveling and Stripe corporate officer and advisor Claire Hughes Johnson. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Musō Soseki",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Mus%C5%8D_Soseki",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Mus%C5%8D_Soseki"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/5S72V"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/05/01/michael-lewis/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/09/24/dustin-yellin/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/08/12/coach-george-raveling-and-claire-hughes-johnson/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

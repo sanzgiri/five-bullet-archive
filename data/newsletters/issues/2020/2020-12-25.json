@@ -6,7 +6,111 @@
     "gmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": false,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Treat I’m enjoying —",
+      "category": "other",
+      "title": "Qantu’s Chuncho 70% Dark Chocolate",
+      "creator": null,
+      "note": "If you love chocolate, this bar is incredible. Warm hugs and smooches to [Darya Rose](https://summertomato.com/) ([@daryarose](https://www.instagram.com/daryarose/?hl=en)) and [Kevin Rose](https://tim.blog/2020/08/20/the-random-show-zen-investing-and-more/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@kevinrose](https://twitter.com/kevinrose?lang=en)) for the gift. For those curious, the brand name “Qantu” derives from the Quechua language and is pronounced ‘kantu.’ It is a “symbol of unity and hospitality… it is [also] the name of the national flower of Peru and Bolivia [technically Cantua buxifolia, commonly called flor del Inca, or ‘flower of the Inca’].”",
+      "original_url": "https://en.qantuchocolate.com/product-page/chocolat-noir-chuncho-70",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.qantuchocolate.com/product-page/chocolat-noir-chuncho-70"
+        },
+        {
+          "type": "other",
+          "url": "https://summertomato.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/daryarose/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/08/20/the-random-show-zen-investing-and-more/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/kevinrose?lang=en"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Article I’m revisiting —",
+      "category": "article",
+      "title": "Michelin restaurants and fabulous wines: Inside the secret team dinners that have built the Spurs’ dynasty",
+      "creator": null,
+      "note": "([@espn](https://twitter.com/espn)). This piece is FANTASTIC. It is wonderfully written and full of takeaways if you read carefully. Hat tip to [@bakerlink](https://twitter.com/bakerlink) for the recommendation. Here’s a short teaser from the beginning:\n\nAs much as [Coach] Popovich knows about hoops, he really knows food and wine. “I don’t know that he doesn’t know more about wine than he does about basketball,” former Spurs assistant coach P.J. Carlesimo says. Popovich scouts restaurants and wine lists as obsessively as he might any opponent. Before games, in his office, he can be found watching the Food Network. Sommeliers and restaurateurs claim to owe their careers to the man.… As absurd as it seems, one of the greatest basketball coaches in history might be more revered in the culinary world.\n\nRead the whole thing, as the ending is killer.\n\nCoach Popovich has been on my mind as a possible podcast guest for years. This piece just reinforces the interest, but I know how much he dislikes most media. Perhaps some day…",
+      "original_url": "https://www.espn.com/nba/story/_/id/26524600/secret-team-dinners-built-spurs-dynasty",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.espn.com/nba/story/_/id/26524600/secret-team-dinners-built-spurs-dynasty"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/espn"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/bakerlink"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m doing this week and next —",
+      "category": "other",
+      "title": "2020 Past Year Review",
+      "creator": null,
+      "note": "I’m sometimes asked how I approach New Year’s resolutions. The truth is that I no longer approach them at all, even though I did for decades. Why? I have found “past year reviews” (PYR) more informed, valuable, and actionable than half-blindly looking forward. [Here’s the step-by-step process I follow](https://tim.blog/2018/12/28/past-year-review/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf).",
+      "original_url": "https://tim.blog/2018/12/28/past-year-review/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2018/12/28/past-year-review/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/12/28/past-year-review/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Short clip I’m watching for 2021 inspiration and perspective —",
+      "category": "video",
+      "title": "Anton Ego speech from Ratatouille.",
+      "creator": null,
+      "note": null,
+      "original_url": "https://www.youtube.com/watch?v=-JPOoFkrh94",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=-JPOoFkrh94"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“If we can forgive what’s been done to us… If we can forgive what we’ve done to others… If we can leave our stories behind. Our being victims and villains. Only then can we maybe rescue the world.” — Chuck Palahniuk",
+      "creator": "Chuck Palahniuk",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Chuck_Palahniuk",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Chuck_Palahniuk"
+        }
+      ]
+    }
+  ]
 }

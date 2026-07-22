@@ -7,7 +7,195 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading (short) —",
+      "category": "article",
+      "title": "How do you ask good questions?",
+      "creator": "Tyler Cowen",
+      "note": "([@tylercowen](https://twitter.com/tylercowen)). Tyler always impresses me. His succinct answers linked above will make you a better thinker and, by extension, a better conversationalist. For more Tyler, find our long-form chat [here](https://tim.blog/2020/03/05/tyler-cowen/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf).",
+      "original_url": "https://marginalrevolution.com/marginalrevolution/2021/06/how-do-you-ask-good-questions.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://marginalrevolution.com/marginalrevolution/2021/06/how-do-you-ask-good-questions.html"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/03/05/tyler-cowen/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tylercowen"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/03/05/tyler-cowen/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching (short) —",
+      "category": "video",
+      "title": "Playing with shadows",
+      "creator": "Vincent Bal, a “shadowologist",
+      "note": ", a “shadowologist.” Thanks to JZ for the recommendation.",
+      "original_url": "https://www.instagram.com/reel/CQBFKDRBKf6/?utm_medium=copy_link",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/reel/CQBFKDRBKf6/?utm_medium=copy_link"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/vincent_bal/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m extremely excited about —",
+      "category": "other",
+      "title": "Harvard Lawyers Will Study the Legal Questions Around Psychedelic Treatment",
+      "creator": null,
+      "note": "(_VICE_)  \n**“**[**Harvard Law School Launches First-Ever Research Initiative on Psychedelics and the Law**](https://www.thecrimson.com/article/2021/7/2/law-school-psychedelics-research-initiative/)**”** (_The Harvard Crimson_)  \n  \nThis has been in the works for a while, and I really hope people read the full articles. In the meantime, here’s the short version…  \n  \nLaw and regulation determine the rules of the game. This is true in nearly all fields. Right now, the good actors in the psychedelic ecosystem have one arm tied behind their backs, and the bad actors have few checks and balances. The next 1–3 years will be a critical window, within which this nascent field can be shaped for enhanced innovation or stymied innovation; for more affordable access or more monopolistic, expensive access. And despite research advances, as [Mason Marks](https://twitter.com/MasonMarksMD), senior fellow at the Petrie-Flom Center at Harvard Law School, has said, “You can advance the science as much as you want, but unless you change the law and the regulation, you’re still going to be constrained by … outdated policies from the 1970s that have been effectively hamstringing psychedelics research for half a century.” So how do we change things for the better? There are many possible levers, but it helps all of them to have a great team assembled outside of the private sector—one with incredible credibility, excellent high-leverage focus, and proper resources.  \n  \nIt is my hope that the brand-new **Project on Psychedelics Law and Regulation** **(POPLAR)** **at the Petrie-Flom Center at Harvard Law School**, a first of its kind, will become a trusted source and force on the playing field of evidence-based psychedelics law and policy. This could affect a lot. As written in _The_ _Harvard Crimson_ piece, “POPLAR will focus on areas including ethics in psychedelics research and treatment, the intersection of psychedelics and intellectual property law, federal support of psychedelics research, increased access and equity of psychedelics, and the function of psychedelics in mitigating trauma.”Special thanks to [Matt Mullenweg](https://tim.blog/2015/02/09/matt-mullenweg/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@photomatt](https://twitter.com/photomatt)), the founder and CEO of [Automattic](https://automattic.com/) and a founding developer of [WordPress](https://wordpress.org/), for joining me in this initiative and providing half of the funds. He has been a long-term supporter of many key initiatives in the space, including the [Johns Hopkins Center for Psychedelic and Consciousness Research](https://hopkinspsychedelic.org/).  \n  \n**Be sure to check out the official Harvard POPLAR website, which includes a description of the team and more:** [The Project on Psychedelics Law and Regulation (POPLAR)](https://petrieflom.law.harvard.edu/research/the-project-on-psychedelics-law-and-regulation-poplar)**.  \n  \n****If you only read one full article,** [**take a look at this** **_VICE_** **coverage**](https://www.vice.com/en/article/4avneq/harvard-lawyers-will-study-the-legal-questions-around-psychedelic-treatment)**.  \n  \n****Other mentions and coverage:** [I. Glenn Cohen](https://twitter.com/CohenProf/status/1410225349930192899), [Mason Marks](https://twitter.com/masonmarksmd/status/1410242726944141312), [Petrie-Flom Center](https://twitter.com/petrieflom/status/1410274503767347203), [Edmond J. Safra Center for Ethics](https://twitter.com/harvardethics/status/1410260008206442497), [_Marijuana Moment_](https://www.marijuanamoment.net/harvard-university-launches-first-of-its-kind-psychedelics-policy-center/), [_Psilocybin Alpha_](https://psilocybinalpha.com/news/harvard-law-schools-petrie-flom-center-launches-research-initiative-on-psychedelics-and-the-law).",
+      "original_url": "https://www.vice.com/en/article/4avneq/harvard-lawyers-will-study-the-legal-questions-around-psychedelic-treatment",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.vice.com/en/article/4avneq/harvard-lawyers-will-study-the-legal-questions-around-psychedelic-treatment"
+        },
+        {
+          "type": "other",
+          "url": "https://www.thecrimson.com/article/2021/7/2/law-school-psychedelics-research-initiative/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/MasonMarksMD"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/02/09/matt-mullenweg/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/photomatt"
+        },
+        {
+          "type": "other",
+          "url": "https://automattic.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://wordpress.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://hopkinspsychedelic.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://petrieflom.law.harvard.edu/research/the-project-on-psychedelics-law-and-regulation-poplar"
+        },
+        {
+          "type": "other",
+          "url": "https://www.vice.com/en/article/4avneq/harvard-lawyers-will-study-the-legal-questions-around-psychedelic-treatment"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/CohenProf/status/1410225349930192899"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/masonmarksmd/status/1410242726944141312"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/petrieflom/status/1410274503767347203"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/harvardethics/status/1410260008206442497"
+        },
+        {
+          "type": "other",
+          "url": "https://www.marijuanamoment.net/harvard-university-launches-first-of-its-kind-psychedelics-policy-center/"
+        },
+        {
+          "type": "other",
+          "url": "https://psilocybinalpha.com/news/harvard-law-schools-petrie-flom-center-launches-research-initiative-on-psychedelics-and-the-law"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Podcast I’m listening to —",
+      "category": "podcast",
+      "title": "Lynne Kelly on Memory Palaces, Ancient and Modern",
+      "creator": null,
+      "note": "on [_Sean Carroll’s Mindscape_](https://podcasts.apple.com/us/podcast/sean-carrolls-mindscape-science-society-philosophy/id1406534739). More on Lynne ([@Lynne\\_Kelly](https://twitter.com/Lynne_Kelly)) from [her Wikipedia page](https://en.wikipedia.org/wiki/Lynne_Kelly_(science_writer)): “Lynne Kelly is an Australian writer, researcher and science educator. Her academic work focuses mainly on the study of [primary orality](https://en.wikipedia.org/wiki/Orality), as well as the [mnemonic](https://en.wikipedia.org/wiki/Mnemonic) devices used by ancient and modern oral cultures from around the world.”",
+      "original_url": "https://podcasts.apple.com/us/podcast/lynne-kelly-on-memory-palaces-ancient-and-modern/id1406534739?i=1000447250455",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://podcasts.apple.com/us/podcast/lynne-kelly-on-memory-palaces-ancient-and-modern/id1406534739?i=1000447250455"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/sean-carrolls-mindscape-science-society-philosophy/id1406534739"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/Lynne_Kelly"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Lynne_Kelly_(science_writer"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Orality"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Mnemonic"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“My own suspicion is that the universe is not only queerer than we suppose, but queerer than we can suppose.”— J.B.S. Haldane Found via the late Terence McKenna. From one source: “McKenna paraphrased this often, observing, also in True Hallucinations_, that life is stranger than ‘even the strangest among us’ can suppose.” Which bullet above is your favorite? As always, please give me feedback on Twitter. What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and add #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "J.B.S. Haldane Found via the late Terence McKenna. From one source: “McKenna paraphrased this often, observing, also in True Hallucinations_, that life is stranger than ‘even the strangest among us’ can suppose.” Which bullet above is your favorite? As always, please give me feedback on Twitter. What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and add #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/J._B._S._Haldane",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/J._B._S._Haldane"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Terence_McKenna"
+        },
+        {
+          "type": "other",
+          "url": "https://www.vice.com/en/article/exm5dw/terence-mckennas-memes-234"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/True-Hallucinations-Extraordinary-Adventures-Paradise/dp/0062506528/ref=sr_1_1?dchild=1&keywords=True+Hallucinations&qid=1625249759&s=books&sr=1-1"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

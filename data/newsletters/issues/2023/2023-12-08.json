@@ -6,7 +6,179 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "The Great Cash-for-Carbon Hustle",
+      "creator": "Heidi Blake for The New Yorker_",
+      "note": "for _The New Yorker_. This is an outstanding piece, and here is an excerpt to give you a taste:  \n​  \n​_One sprawling fraud, described by French police as “the heist of the century,” had cost tax authorities five billion euros. After it was exposed, the Danish government admitted that eighty per cent of the country’s carbon-trading firms were fronts for the racket.  \n​  \n…  \n​  \nBP and Shell had opened carbon-trading desks, and the Saudi government did, too. Gilles Dufrasne, of the nonprofit Carbon Market Watch, observed that credits could be traded over and over before being used to offset emissions: “When you buy a carbon credit, what is the chance that somewhere in the value chain it was once owned by Shell, and that some of what you pay represents the cut they took?”_​  \n​  \nFor those interested, based on homework I did a few years ago, I personally donate funds to [Charm Industrial](https://charmindustrial.com/) via [Terraset](https://www.terrasetclimate.org/) on a monthly basis to offset my own air travel.",
+      "original_url": "https://www.newyorker.com/magazine/2023/10/23/the-great-cash-for-carbon-hustle",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.newyorker.com/magazine/2023/10/23/the-great-cash-for-carbon-hustle"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/HeidilBlake"
+        },
+        {
+          "type": "other",
+          "url": "https://charmindustrial.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.terrasetclimate.org/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Antonio Vivaldi’s The Four Seasons_, “Summer”",
+      "creator": null,
+      "note": "([YouTube](https://youtu.be/9SE222v1eyM), [Apple Music](https://music.apple.com/us/album/the-four-seasons-summer/1613936663?i=1613936668), [Spotify](https://open.spotify.com/track/1Ucv0WoZR9XFoGhGOnatDG)), arranged by Pavlo Fenyuk and performed by the incredible [Alexandr Hrustevich](https://www.youtube.com/@Hrustevich).",
+      "original_url": "https://youtu.be/9SE222v1eyM",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/9SE222v1eyM"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/9SE222v1eyM"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/album/the-four-seasons-summer/1613936663?i=1613936668"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/1Ucv0WoZR9XFoGhGOnatDG"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/@Hrustevich"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Argentina, 1985",
+      "creator": null,
+      "note": "I absolutely loved this film, and it currently has 96% on [Rotten Tomatoes](https://www.rottentomatoes.com/m/argentina_1985). I was drawn to it for many reasons. First, it stars one of my favorite Argentine actors, [Ricardo Alberto Darín](https://en.wikipedia.org/wiki/Ricardo_Dar%C3%ADn), who also appeared in [_Wild Tales_](https://www.amazon.com/Wild-Tales-Ricardo-Dar%C3%ADn/dp/B00YO07WCG) from a previous 5BF. Second, it explains the brutal story—and vindication—of Argentina’s “desaparecidos” or “the disappeared,” which I heard mentioned a lot when I lived in Buenos Aires in 2004.  \n​  \nHere’s the official description: “_Argentina, 1985_ is inspired by the true story of Julio Strassera, Luis Moreno Ocampo, and their young legal team of unlikely heroes in their David-vs-Goliath battle to prosecute Argentina’s bloodiest military dictatorship to bring justice to the victims of the military junta.” You can watch the trailer [here](https://youtu.be/dg0n4v8giB8?feature=shared). The movie is directed by [Santiago Mitre](https://en.wikipedia.org/wiki/Santiago_Mitre) and stars [Ricardo Darín](https://en.wikipedia.org/wiki/Ricardo_Dar%C3%ADn), [Peter Lanzani](https://en.wikipedia.org/wiki/Juan_Pedro_Lanzani), and [Alejandra Flechner](https://www.instagram.com/aleflechner/), among others.  \n​  \nThe “disappeared” were believed to have been abducted by agents of the Argentine government during the years known as the Dirty War, and these people were erased from public records with no government traces of arrests or evidence of charges against them ([source](https://en.wikipedia.org/wiki/Mothers_of_the_Plaza_de_Mayo#:~:text=The%20%22disappeared%22%20were%20believed%20to,rural%20areas%20or%20unmarked%20graves.)).  \n​  \nSince [the Nuremberg trials](https://en.wikipedia.org/wiki/Nuremberg_trials), no country had dared to prosecute a dictatorship… until Argentina in 1985.  \n​  \nDespite the fact that this all sounds incredibly dark, and it sometimes is, the film is brilliantly written and interspersed with surprisingly hilarious moments. In my opinion, the end result is spectacular. If you liked [_Spotlight_](https://www.youtube.com/watch?v=EwdCIpbTN5g), you will like this one.",
+      "original_url": "https://www.amazon.com/Argentina-1985-Ricardo-Dar%C3%ADn/dp/B0B8TMQCKB/ref=sr_1_1?crid=PHVRGCFJZYBG&keywords=argentina+1985+movie&qid=1701717401&s=instant-video&sprefix=Argentina%2C+1985%2Cinstant-video%2C511&sr=1-1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Argentina-1985-Ricardo-Dar%C3%ADn/dp/B0B8TMQCKB/ref=sr_1_1?crid=PHVRGCFJZYBG&keywords=argentina+1985+movie&qid=1701717401&s=instant-video&sprefix=Argentina%2C+1985%2Cinstant-video%2C511&sr=1-1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rottentomatoes.com/m/argentina_1985"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Ricardo_Dar%C3%ADn"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Wild-Tales-Ricardo-Dar%C3%ADn/dp/B00YO07WCG"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/dg0n4v8giB8?feature=shared"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Santiago_Mitre"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Ricardo_Dar%C3%ADn"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Juan_Pedro_Lanzani"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/aleflechner/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Mothers_of_the_Plaza_de_Mayo#:~:text=The%20%22disappeared%22%20were%20believed%20to,rural%20areas%20or%20unmarked%20graves."
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Nuremberg_trials"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=EwdCIpbTN5g"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m paying attention to",
+      "category": "other",
+      "title": "New XPrize Will Award $101 Million to Innovators Who Can Reverse Aging",
+      "creator": null,
+      "note": "From the article: “On Wednesday, the [XPrize Foundation](https://www.xprize.org/) announced its new $101 million ‘Healthspan’ XPrize, which aims to reward research teams that can develop therapies which measurably reverse age-related degradation across three domains in otherwise healthy adults aged 65–80: cognition, immune system, and muscle function.”",
+      "original_url": "https://www.forbes.com/sites/alexknapp/2023/11/29/new-xprize-will-award-101-million-to-innovators-who-can-reverse-aging/?sh=213bc66e3aa2",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.forbes.com/sites/alexknapp/2023/11/29/new-xprize-will-award-101-million-to-innovators-who-can-reverse-aging/?sh=213bc66e3aa2"
+        },
+        {
+          "type": "other",
+          "url": "https://www.xprize.org/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Art should comfort the disturbed and disturb the comfortable.” — Dr. César A. Cruz (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with this clip of my discussion with Tony Fadell on climate solutions, this video of me and Alicia Monti competing in the Tango World Championships in Buenos Aires, and my interview with marine biologist Dr. Ayana Elizabeth Johnson. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Dr. César A. Cruz",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Cesar_Cruz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Cesar_Cruz"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/ftfy8"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/TVjgNjIGHAU?si=FLemtRB5qPN4OxAS"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/ynjBJMVTNZs?t=49"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/02/09/ayana-elizabeth-johnson/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

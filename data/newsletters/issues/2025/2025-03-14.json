@@ -6,7 +6,142 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Science I’m applying",
+      "category": "research",
+      "title": "Brewing tea removes lead from water",
+      "creator": null,
+      "note": "“In [a new study](https://pubs.acs.org/doi/10.1021/acsfoodscitech.4c01030), Northwestern University researchers demonstrated that brewing tea naturally adsorbs heavy metals like lead and cadmium, effectively filtering dangerous contaminants out of drinks. Heavy metal ions stick to, or adsorb to, the surface of the tea leaves, where they stay trapped.” Not all tea is created equal, so click the link to read the details.",
+      "original_url": "https://news.northwestern.edu/stories/2025/02/brewing-tea-removes-lead-from-water/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://news.northwestern.edu/stories/2025/02/brewing-tea-removes-lead-from-water/"
+        },
+        {
+          "type": "other",
+          "url": "https://pubs.acs.org/doi/10.1021/acsfoodscitech.4c01030"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Game design aphorism I’m pondering",
+      "category": "other",
+      "title": "Bushnell’s Law",
+      "creator": null,
+      "note": "Synopsis: “All the best games are easy to learn and difficult to master. They should reward the first quarter and the hundredth.”",
+      "original_url": "https://en.wikipedia.org/wiki/Bushnell%27s_Law",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Bushnell%27s_Law"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Book I’m reading",
+      "category": "book",
+      "title": "Dungeons & Dragons Worlds & Realms — Adventures from Greyhawk to Faerûn and Beyond",
+      "creator": "Adam Lee",
+      "note": ". I grew up with D&D and it was formative. [I still own all of my modules, hardcovers, dice, and more](https://www.instagram.com/timferriss/p/Cl2Getbojcv/?img_index=1). It may not be the easiest to learn, but it’s still the most immersive and imagination-catalyzing game I’ve ever played. From the description: “_Worlds & Realms_ is an illustrated, story-driven retrospective celebrating the immersive worldbuilding of D&D since the iconic game’s inception in 1974. Legendary mage Mordenkainen takes adventurers on a fantastical journey through the multiverse, delving into memorable and fascinating lore and locations across all five editions of the game. … Full of exciting and enchanting artwork showing fifty years of gameplay evolution from vintage D&D through the present, with original cover and chapter-opener illustrations, _Worlds & Realms_ is a spellbinding tour of the strange and wonderful worlds of the multiverse, appealing to both new and long-standing fans alike.”  \n​  \nActor (_Star Trek: The Next Generation_) and D&D enthusiast [Wil Wheaton](https://en.wikipedia.org/wiki/Wil_Wheaton) describes this tome as “a masterwork of in-universe storytelling and organic worldbuilding that narratively unifies the D&D multiverse for the first time in its history.”",
+      "original_url": "https://www.amazon.com/Dungeons-Dragons-Worlds-Realms-Adventures/dp/0593835506",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Dungeons-Dragons-Worlds-Realms-Adventures/dp/0593835506"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/adamofadventure"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/timferriss/p/Cl2Getbojcv/?img_index=1"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Wil_Wheaton"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Tool I’m using",
+      "category": "other",
+      "title": "PlasticList — Data on plastic chemicals in food",
+      "creator": null,
+      "note": "A disparate group of researchers united by a common interest (to find and share how many plastic chemicals are found in our food) compiled this remarkable list. From the website:  \n​  \n​_We detected plastic chemicals in 86% of the foods we tested. At least one of the 18 chemicals was found in every baby food, prenatal supplement, human breast milk, yogurt, and ice cream product that we tested, to name only a few categories. We also found plastic chemicals in all the products we tested from Starbucks, Gerber, Chobani, Straus, Celsius, Blue Bottle, RXBAR, Coca-Cola, Tartine, and Ghirardelli.  \n​  \nSince we launched PlasticList, we’ve been heartened to have quite a few food companies reach out and ask for help interpreting their results and tracking down and eliminating their contamination. We’ve had calls with a bunch of them. We are happy to report that no food company wants this stuff in their food and they are all eager to figure out what’s going on and how to remove it.  \n​  \n​_Though the website observes that “the existence of a chemical in a food doesn’t necessarily imply a safety issue,” an awareness of plastic chemicals in foods you consume can certainly promote healthier choices—e.g., opting for the Tazo Awake English Breakfast Black Tea (<3,000 ng/serving of [DEHP](https://en.wikipedia.org/wiki/Bis(2-ethylhexyl)_phthalate#:~:text=%5B9%5D-,Effects%20on%20living%20organisms,-%5Bedit%5D)) rather than the Starbucks Matcha Latte (~12,580 ng/serving!) and serve as a reminder that many marketing words, such as “organic,” “natural,” and “sugar-free,” don’t necessarily equate to “healthy.” Kudos to [the core team, advisors, and sponsors](https://www.plasticlist.org/team) (including [Nat Friedman](https://nat.org/), [Dr. Shaana Swan](https://www.shannaswan.com/), and [Patrick Collison](https://tim.blog/2018/12/20/patrick-collison/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content)) for investigating and making the findings available to the public.",
+      "original_url": "https://www.plasticlist.org/report",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.plasticlist.org/report"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Bis(2-ethylhexyl"
+        },
+        {
+          "type": "other",
+          "url": "https://www.plasticlist.org/team"
+        },
+        {
+          "type": "other",
+          "url": "https://nat.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.shannaswan.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/12/20/patrick-collison/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Popular on social",
+      "category": "other",
+      "title": "My new mantra",
+      "creator": null,
+      "note": null,
+      "original_url": "https://www.instagram.com/p/DGTs-kWvFSc/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/p/DGTs-kWvFSc/"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Passage I’m pondering",
+      "category": "other",
+      "title": "Conscious Loving",
+      "creator": "Gay Hendricks and Kathlyn Hendricks * * * You can complement this edition of 5-Bullet Friday with my",
+      "note": "* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [my most recent podcast interview](https://tim.blog/2025/03/13/weta-workshop/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content), featuring Richard Taylor and Greg Broadmore of the Academy Award-winning concept design studio and manufacturing facility Wētā Workshop.  \n​  \nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
+      "original_url": "https://www.amazon.com/Conscious-Loving-Co-Commitment-Gay-Hendricks/dp/0553354116/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Conscious-Loving-Co-Commitment-Gay-Hendricks/dp/0553354116/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/03/13/weta-workshop/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

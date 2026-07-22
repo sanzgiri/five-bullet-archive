@@ -7,7 +7,143 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m most excited about launching —",
+      "category": "other",
+      "title": "A fan-engaged option for the podcast",
+      "creator": null,
+      "note": "From June – Dec., 2019, I’m removing ads and sponsors from the podcast for a six-month experiment. It’s a big deal for me and might end sooner if it doesn’t work at all.\n\nThe podcast will continue to be 100% free for everyone. Then, there is a new upgraded option: for people who would like to [contribute a few dollars (or more) per month](https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/8efqhoh2pr4vp8/aHR0cHM6Ly90aW0uYmxvZy9zdXBwb3J0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=) to support the podcast and everything else I do, **I will offer a live video Q&A each month... just for this much smaller group of supporters. You can ask me anything.** The first one will be on July 1st. I think it will be a lot of productive fun. [Click here to learn more](https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/v4t3hrhv3w5736/aHR0cHM6Ly90aW0uYmxvZy9zdXBwb3J0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=).",
+      "original_url": "https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/0diwh9h9wl85w4/aHR0cHM6Ly90aW0uYmxvZy9zdXBwb3J0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/0diwh9h9wl85w4/aHR0cHM6Ly90aW0uYmxvZy9zdXBwb3J0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/8efqhoh2pr4vp8/aHR0cHM6Ly90aW0uYmxvZy9zdXBwb3J0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/v4t3hrhv3w5736/aHR0cHM6Ly90aW0uYmxvZy9zdXBwb3J0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Article I’m reading —",
+      "category": "article",
+      "title": "Coders’ Primal Urge to Kill Inefficiency—Everywhere",
+      "creator": "Clive Thompson",
+      "note": "fourhourmail.com/c/68u8wxgppu8hpz20q/o4skhqh6lqzv76/aHR0cHM6Ly90d2l0dGVyLmNvbS9XSVJFRA==)**).** Sample quote: “Larry Wall, who created the Perl programming language, and several co-authors wrote that one of the key virtues of a programmer is ‘laziness’—of the variety where your unwillingness to perform rote actions inspires you to do the work to automate them.” Also see Clive’s [guest post](https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/pdaeh9h25qv0ld/aHR0cHM6Ly90aW0uYmxvZy8yMDE5LzAzLzIxL2xlYXJuLXRvLWNvZGUvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg==) on my blog about learning to code.",
+      "original_url": "https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/e7cph7hlwrxg2p/aHR0cHM6Ly93d3cud2lyZWQuY29tL3N0b3J5L2NvZGVycy1lZmZpY2llbmN5LWlzLWJlYXV0aWZ1bC8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/e7cph7hlwrxg2p/aHR0cHM6Ly93d3cud2lyZWQuY29tL3N0b3J5L2NvZGVycy1lZmZpY2llbmN5LWlzLWJlYXV0aWZ1bC8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/o4skhqh6lqzv76/aHR0cHM6Ly90d2l0dGVyLmNvbS9XSVJFRA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/pdaeh9h25qv0ld/aHR0cHM6Ly90aW0uYmxvZy8yMDE5LzAzLzIxL2xlYXJuLXRvLWNvZGUvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Shelter I’ve been testing in the wilderness —",
+      "category": "other",
+      "title": "SHIFTPOD2",
+      "creator": null,
+      "note": "I first saw a SHIFTPOD at Burning Man, where the 60-second set-up blew me away (here’s a [video example of a first-time set-up](https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/52hvh7hno6e8zz/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0zMXNXdndMTmJ0dw==)). The reflective material allows you to sleep comfortably in hot environments, and while too heavy for backpacking (best guess is 60 pounds), it’s perfect for packing into the desert or wilderness via car or horse. It comfortably sleeps 4-6 people. I’ve been testing the SHIFTPOD2 in forest environments, and it’s been fantastic thus far. Here’s a description ([source](https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/qxu8h7h42kx506/aHR0cHM6Ly9kcml2ZW54ZGVzaWduLmNvbS9ub3cvcHJvamVjdC5hc3A_SUQ9MTY0NTI=)): “Shiftpods are the best heavy-duty, pop-up shelter system on this planet — great for festivals, camping, overlanding, refugee camps…. The redesigned range brings more headroom, black out flies, door screens, military grade Kevlar stitching, and a new double sealed seam system for the best weather protection available. Deployed all over the world, the Shiftpod has proven itself as a lightweight, heavy-duty, reliable shelter in the worst conditions imaginable. From disaster shelters to festival living, the Shiftpod has you covered.” You can [read a review here](https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/9zizhnh6357mlg/aHR0cHM6Ly9mZXN0aXZhbHNxdWFkLmNvbS8yMDE2LzA1L3Byb3MtY29ucy1zaGlmdHBvZHMv), and you might also need to [watch the following video](https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/nlfohvhx57dpk3/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj05N24tQ0VBOXVlRQ==) on how to use the tie-downs, which I didn’t need in low-wind conditions. My only criticism is that I didn’t find an instruction manual in my shipment, and I was already in the woods, so I had to wing it. That also tells you how intuitive most of it is, except for the “blast shield,” which I couldn’t get on by myself.",
+      "original_url": "https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/69beh8h569qgd6/aHR0cHM6Ly9zdG9yZS5hZHZhbmNlZHNoZWx0ZXJzeXN0ZW1zaW5jLmNvbS9zaGlmdHBvZC8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/69beh8h569qgd6/aHR0cHM6Ly9zdG9yZS5hZHZhbmNlZHNoZWx0ZXJzeXN0ZW1zaW5jLmNvbS9zaGlmdHBvZC8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/52hvh7hno6e8zz/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0zMXNXdndMTmJ0dw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/qxu8h7h42kx506/aHR0cHM6Ly9kcml2ZW54ZGVzaWduLmNvbS9ub3cvcHJvamVjdC5hc3A_SUQ9MTY0NTI="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/9zizhnh6357mlg/aHR0cHM6Ly9mZXN0aXZhbHNxdWFkLmNvbS8yMDE2LzA1L3Byb3MtY29ucy1zaGlmdHBvZHMv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/nlfohvhx57dpk3/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj05N24tQ0VBOXVlRQ=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Reminders I still carry in my wallet —",
+      "category": "other",
+      "title": "@tferriss",
+      "creator": null,
+      "note": ") and use hashtag #5BulletFriday so I can find them.",
+      "original_url": "https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/w7t2hghkv0zp3q/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcz9sYW5nPWVu",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/w7t2hghkv0zp3q/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcz9sYW5nPWVu"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“It is by logic that we prove, but by intuition that we discover.” ― Henri Poincaré, French mathematician, theoretical physicist, and engineer And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim P.S. Did I mention that I’m going to do a monthly, private video Q&A with supporters of the podcast? If you’d like to ask me anything, please check out the details here. :) [](https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/enbph7hlwrxg2m/aHR0cHM6Ly90aW0uYmxvZy9zdXBwb3J0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmYtdGVtcGxhdGU=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/04cwh9h9wl85kg/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSGVucmlfUG9pbmNhciVDMyVBOQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/04cwh9h9wl85kg/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSGVucmlfUG9pbmNhciVDMyVBOQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/v5s3hrhv3w57dg/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/5navh7hno6e8ow/aHR0cHM6Ly90aW0uYmxvZy9zdXBwb3J0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/2207407/content_content_Tim_Ferriss_Show_Final.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/oohkhqh6lqzv7p/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/68u8wxgppu8hpz20q"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/68u8wxgppu8hpz20q/q7i8h7h42kx52k/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,131 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Great track for sliding into the weekend",
+      "category": "music",
+      "title": "Teu Sorriso",
+      "creator": "Paraíso",
+      "note": "([Spotify](https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8?si=9a7e224b605b4687), [YouTube](https://www.youtube.com/watch?v=IRqkY6tSzOM)) by [Paraíso](https://open.spotify.com/artist/4ID8ALXR4zZrcJFvxL41n0) ([Jex Opolis](https://www.instagram.com/jex.opolis/?hl=en) Remix).",
+      "original_url": "https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8?si=9a7e224b605b4687",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8?si=9a7e224b605b4687"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8?si=9a7e224b605b4687"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=IRqkY6tSzOM"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/artist/4ID8ALXR4zZrcJFvxL41n0"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/jex.opolis/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Pitch letter I’m enjoying and studying",
+      "category": "other",
+      "title": "Steve Albini’s letter to Nirvana",
+      "creator": null,
+      "note": "This is the four-page letter audio engineer [Steve Albini](https://en.wikipedia.org/wiki/Steve_Albini) sent to Nirvana, pitching himself to produce their album _In Utero_. Hat tip to [Alex Danco](https://x.com/Alex_Danco) on the [_Dialectic_](https://jacksondahl.com/dialectic/alex-danco) podcast.**​  \n​  \n​**Early in the letter, Steve writes: **​  \n​  \n​**_I’m only interested in working on records that legitimately reflect the band’s own perception of their music and existence. If you will commit yourselves to that as a tenet of the recording methodology, then I will bust my ass for you. I’ll work circles around you. I’ll rap your head in with a ratchet…  \n​  \nI have worked on hundreds of records (some great, some good, some horrible, a lot in the courtyard), and I have seen a direct correlation between the quality of the end result and the mood of the band throughout the process. If the record takes a long time, and everyone gets bummed and scrutinizes every step, then the recordings bear little resemblance to the live band, and the end result is seldom flattering. Making punk records is definitely a case where more “work” does not imply a better end result. Clearly you have learned this yourselves and appreciate the logic.  \n​  \n​_And his famous closer: “If a record takes more than a week to make, somebody’s fucking up.”",
+      "original_url": "https://x.com/Nirvana/status/1788363101068509223?",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://x.com/Nirvana/status/1788363101068509223?"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Steve_Albini"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/Alex_Danco"
+        },
+        {
+          "type": "other",
+          "url": "https://jacksondahl.com/dialectic/alex-danco"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Gym accessory I’m using",
+      "category": "other",
+      "title": "Versa Gripps",
+      "creator": null,
+      "note": "Due to torn tendons near my right elbow, I’m doing a lot more dumbbell work, which includes leg workouts. In longer sets, the limiting factor is often the grip in that arm, but normal lifting straps are a pain in the ass for dumbbells. That’s where Versa Gripps come in. I actually first used these in the late ’90s, so it was fun to rediscover them. They’re surprisingly versatile.",
+      "original_url": "https://www.amazon.com/stores/page/3EBD00C2-46D6-4AA8-984F-E8D0DE2FBEDF?brandname=VersaGripps&is_byline_de%5B%E2%80%A6%5DRVSTX&store_ref=bl_ast_dp_brandLogo_sto",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/stores/page/3EBD00C2-46D6-4AA8-984F-E8D0DE2FBEDF?brandname=VersaGripps&is_byline_de%5B%E2%80%A6%5DRVSTX&store_ref=bl_ast_dp_brandLogo_sto"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Flow",
+      "creator": null,
+      "note": "Thanks to [Kevin Rose](https://www.kevinrose.com/) for the recommendation. I found this incredibly calming after a super stressful week. Here is the description: “From the boundless imagination of filmmaker [Gints Zilbalodis](https://en.wikipedia.org/wiki/Gints_Zilbalodis) comes this thrilling animated spectacle, a wondrous journey through realms natural and mystical. A courageous cat teams up with a capybara, a lemur, a bird, and a dog in search of dry land after their home is devastated by a great flood. Together they must rely on trust, courage, and wits to survive the perils of a newly aquatic planet.”  \n​  \nAt the 97th Academy Awards, _Flow_ won Best Animated Feature and was nominated for Best International Feature Film as Latvia’s submission, becoming the first film from Latvia to win and receive a nomination at the Academy Awards.",
+      "original_url": "https://www.amazon.com/Flow-Gints-Zilbalodis/dp/B0DNQCWQPK/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Flow-Gints-Zilbalodis/dp/B0DNQCWQPK/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.kevinrose.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Gints_Zilbalodis"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quotes I’m pondering",
+      "category": "quote",
+      "title": "“For fast-acting relief, try slowing down.” — Jane Wagner (American writer, director, and producer) “The time to relax is when you don’t have time for it.” — Sydney J. Harris (Chicago Sun-Times columnist) * * * You can complement this edition of 5-Bullet Friday with a brand-new podcast episode of The Random Show with Kevin Rose! And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Jane Wagner",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Jane_Wagner",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Jane_Wagner"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Sydney_J._Harris"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=Eql0VFUc4Dc"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

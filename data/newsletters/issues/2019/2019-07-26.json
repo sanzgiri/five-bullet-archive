@@ -6,7 +6,107 @@
     "gmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": false,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "The French Burglar Who Pulled Off His Generation’s Biggest Art Heist",
+      "creator": null,
+      "note": "([The New Yorker](https://el2.fourhourmail.com/c/k0u4xgog5rh6hldkvwfe/vpf3hrhvl9zkvv/aHR0cHM6Ly90d2l0dGVyLmNvbS9OZXdZb3JrZXI=)). After my previous mention of the [Sour Grapes](https://el2.fourhourmail.com/c/k0u4xgog5rh6hldkvwfe/mot7h5hqv6dnq9/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Tb3VyLUdyYXBlcy1SdWR5LUt1cm5pYXdhbi9kcC9CMDZYV0tKTjVGLw==) doc in 5BF, my brother, who’d also read [Billionaire’s Vinegar](https://el2.fourhourmail.com/c/k0u4xgog5rh6hldkvwfe/e7cph7hl638nlw/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9CaWxsaW9uYWlyZXMtVmluZWdhci1NeXN0ZXJ5LVdvcmxkcy1FeHBlbnNpdmUvZHAvMDMwNzMzODc4OQ==), said, “Oh, if you like that, I have something you’ll really like.” He sent me this New Yorker piece.",
+      "original_url": "https://el2.fourhourmail.com/c/k0u4xgog5rh6hldkvwfe/0diwh9h9v6379o/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9tYWdhemluZS8yMDE5LzAxLzE0L3RoZS1mcmVuY2gtYnVyZ2xhci13aG8tcHVsbGVkLW9mZi1oaXMtZ2VuZXJhdGlvbnMtYmlnZ2VzdC1hcnQtaGVpc3Q=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/k0u4xgog5rh6hldkvwfe/0diwh9h9v6379o/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9tYWdhemluZS8yMDE5LzAxLzE0L3RoZS1mcmVuY2gtYnVyZ2xhci13aG8tcHVsbGVkLW9mZi1oaXMtZ2VuZXJhdGlvbnMtYmlnZ2VzdC1hcnQtaGVpc3Q="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0u4xgog5rh6hldkvwfe/vpf3hrhvl9zkvv/aHR0cHM6Ly90d2l0dGVyLmNvbS9OZXdZb3JrZXI="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0u4xgog5rh6hldkvwfe/mot7h5hqv6dnq9/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Tb3VyLUdyYXBlcy1SdWR5LUt1cm5pYXdhbi9kcC9CMDZYV0tKTjVGLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0u4xgog5rh6hldkvwfe/e7cph7hl638nlw/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9CaWxsaW9uYWlyZXMtVmluZWdhci1NeXN0ZXJ5LVdvcmxkcy1FeHBlbnNpdmUvZHAvMDMwNzMzODc4OQ=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Prender el Alma by Nicola Cruz",
+      "creator": null,
+      "note": "Description: “Since releasing his debut album 'Prender El Alma' in 2015, having previously collaborated with Nicolas Jaar, Nicola Cruz has gone on to become one of the leading figures in the scene of producers exploring and mixing indigenous South-American and Afro-Latin sounds with modern dance and electronic music, a sound he then referred to as 'Andes Step'. In that time he has released a slew of sought after 12\" releases, been remixed by the likes of Quantic and beGun, featured by Boiler Room and Red Bull, as well as toured the world with shows at Sonar, ADE, Village Underground, Berghain, Lollapalooza and more. He now returns with a limited edition clear version of his acclaimed debut release.” (Source: [Bandcamp](https://el2.fourhourmail.com/c/k0u4xgog5rh6hldkvwfe/pdaeh9h2mwn727/aHR0cHM6Ly9uaWNvbGFjcnV6LmJhbmRjYW1wLmNvbS9hbGJ1bS9wcmVuZGVyLWVsLWFsbWE=))",
+      "original_url": "https://el2.fourhourmail.com/c/k0u4xgog5rh6hldkvwfe/o4skhqh6pm2867/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL2FsYnVtLzdNejNoVUtQeFFNWmNvMjVxWjZzUUY=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/k0u4xgog5rh6hldkvwfe/o4skhqh6pm2867/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL2FsYnVtLzdNejNoVUtQeFFNWmNvMjVxWjZzUUY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0u4xgog5rh6hldkvwfe/pdaeh9h2mwn727/aHR0cHM6Ly9uaWNvbGFjcnV6LmJhbmRjYW1wLmNvbS9hbGJ1bS9wcmVuZGVyLWVsLWFsbWE="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Tea that I am drinking again —",
+      "category": "other",
+      "title": "QuantiTea Duck Shit Fragrance Oolong Tea",
+      "creator": null,
+      "note": "This excellent tea was recommended to me by Jason Nemer ([@jasonnemer](https://el2.fourhourmail.com/c/k0u4xgog5rh6hldkvwfe/52hvh7hnqdr9nm/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9qYXNvbm5lbWVyLw==)), the co-creator of AcroYoga ([interview here](https://el2.fourhourmail.com/c/k0u4xgog5rh6hldkvwfe/qxu8h7h4zm964d/aHR0cHM6Ly90aW0uYmxvZy8yMDE2LzA4LzI0L2phc29uLW5lbWVyLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=)). Here’s the description from the website: “Duckshit Fragrance (Ya Shi Xiang) tea received its distinctive name from the original farmer whose intention was to hide the success of the tea from fellow farmers. Tea plants can be cloned by taking clippings and nurtured to mature tea trees. Duck shit Fragrance is a style of wulong [also written ‘oolong’] from the yashixiang cultivar (dancong 单枞) tea trees that grow in the Phoenix Mountains. Dancong is the general style of tea from the area and also means it's from the same cultivar and garden.”",
+      "original_url": "https://el2.fourhourmail.com/c/k0u4xgog5rh6hldkvwfe/69beh8h5z8m25p/aHR0cHM6Ly9xdWFudGl0ZWEuY29tL3Byb2R1Y3RzL2R1Y2tzaGl0LWZyYWdyYW5jZS1vb2xvbmctdGVhLXlhLXNoaS14aWFuZy1kYW5jb25n",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/k0u4xgog5rh6hldkvwfe/69beh8h5z8m25p/aHR0cHM6Ly9xdWFudGl0ZWEuY29tL3Byb2R1Y3RzL2R1Y2tzaGl0LWZyYWdyYW5jZS1vb2xvbmctdGVhLXlhLXNoaS14aWFuZy1kYW5jb25n"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0u4xgog5rh6hldkvwfe/52hvh7hnqdr9nm/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9qYXNvbm5lbWVyLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0u4xgog5rh6hldkvwfe/qxu8h7h4zm964d/aHR0cHM6Ly90aW0uYmxvZy8yMDE2LzA4LzI0L2phc29uLW5lbWVyLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Anniversary I am thinking about a lot —",
+      "category": "other",
+      "title": "my first ride with my best friend, Molly",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/k0u4xgog5rh6hldkvwfe/9zizhnh60vo26z/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wLzV4TV81MW44VUQv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/k0u4xgog5rh6hldkvwfe/9zizhnh60vo26z/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wLzV4TV81MW44VUQv"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“It is amateurs who have one big bright beautiful idea that they can never abandon. Professionals know that they have to produce theory after theory before they are likely to hit the jackpot.” ― Francis Crick",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/k0u4xgog5rh6hldkvwfe/nlfohvhxm9zoxr/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRnJhbmNpc19Dcmljaw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/k0u4xgog5rh6hldkvwfe/nlfohvhxm9zoxr/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRnJhbmNpc19Dcmljaw=="
+        }
+      ]
+    }
+  ]
 }

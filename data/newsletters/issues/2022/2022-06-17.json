@@ -6,7 +6,147 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What is helping me sleep",
+      "category": "other",
+      "title": "WAOAW Sleep Mask",
+      "creator": null,
+      "note": "This has become my favorite sleep mask. The WAOAW is a contoured mask that removes all pressure from the eyes, and it’s been added to my list of “things I didn’t know I needed.” The design also blocks much more light than conventional masks. Special thanks to my girlfriend for the spot-on gift. Grumpy Tim is good for no one.",
+      "original_url": "https://www.amazon.com/dp/B09712FSLY?psc=1&ref=ppx_yo2ov_dt_b_product_details",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/dp/B09712FSLY?psc=1&ref=ppx_yo2ov_dt_b_product_details"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "A South Texan’s Wild Quest to Break a National Birding Record",
+      "creator": "Will McCarthy",
+      "note": "([@wrmccart](https://twitter.com/wrmccart)) for _Texas Monthly_. Subheadline: “When she began her year-long bird-spotting adventure, Tiffany Kersten was lost and lonely. She ended up achieving a major milestone—and finding her way.” I’ve been on a nature kick and wanted to keep feeding the furnace. This provided a nice boost, and I’m already brainstorming new adventures…",
+      "original_url": "https://www.texasmonthly.com/being-texan/south-texan-wild-quest-birding-record/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.texasmonthly.com/being-texan/south-texan-wild-quest-birding-record/"
+        },
+        {
+          "type": "other",
+          "url": "https://willmccarthy.net/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/wrmccart"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Album I’m listening to while working",
+      "category": "music",
+      "title": "I Choose Noise",
+      "creator": null,
+      "note": "([YouTube](https://www.youtube.com/playlist?list=PLC3905B77A1AA37F8), [Spotify](https://open.spotify.com/album/0EeIE2qfTB9BeN1KKkASdO?autoplay=true), [Apple Music](https://music.apple.com/us/album/i-choose-noise/304338413)), studio album by [Hybrid](https://www.hybridband.com/) ([@HybridBandUK](https://twitter.com/hybridbanduk)). If you want to whet your appetite, “[Last Man Standing](https://open.spotify.com/track/3USWdwXKWAPcf5TTx6i5rj?si=790399b090ee42a0)” and “[I Choose Noise](https://open.spotify.com/track/4uLJoOUcEDa4VUbUXB8OVU?si=5e61ce2c3adf4b17)” are two good tracks to start with.",
+      "original_url": "https://www.youtube.com/playlist?list=PLC3905B77A1AA37F8",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/playlist?list=PLC3905B77A1AA37F8"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/playlist?list=PLC3905B77A1AA37F8"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/album/0EeIE2qfTB9BeN1KKkASdO?autoplay=true"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/album/i-choose-noise/304338413"
+        },
+        {
+          "type": "other",
+          "url": "https://www.hybridband.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/hybridbanduk"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/3USWdwXKWAPcf5TTx6i5rj?si=790399b090ee42a0"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/4uLJoOUcEDa4VUbUXB8OVU?si=5e61ce2c3adf4b17"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Shoes I’m enjoying for hiking several hours a day",
+      "category": "other",
+      "title": "Cloudventure",
+      "creator": null,
+      "note": "from [On](https://www.on-running.com/en-us) ([@on\\_running](https://twitter.com/on_running)). I have [this pair](https://www.on-running.com/en-us/products/cloudventure/mens/black-reseda) in Black/Reseda. From On’s website: “The Cloudventure is a lightweight trail running shoe, built to excel in demanding outdoor conditions.” I’ve been pounding the hell out of these, and they’ve allowed me to hike more than I have in years without any pain from plantar fasciitis. I’ll be adding in [rucking](https://www.goruck.com/pages/what-is-rucking) soon then slowly progressing to trail running, which I loved when I was younger. Related reading: “[The Painless Path to Endurance](https://tim.blog/2011/12/06/the-painless-path-to-endurance-plus-breville-winner-and-more/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf).”",
+      "original_url": "https://www.on-running.com/en-us/products/cloudventure/mens/black-reseda",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.on-running.com/en-us/products/cloudventure/mens/black-reseda"
+        },
+        {
+          "type": "other",
+          "url": "https://www.on-running.com/en-us"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/on_running"
+        },
+        {
+          "type": "other",
+          "url": "https://www.on-running.com/en-us/products/cloudventure/mens/black-reseda"
+        },
+        {
+          "type": "other",
+          "url": "https://www.goruck.com/pages/what-is-rucking"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2011/12/06/the-painless-path-to-endurance-plus-breville-winner-and-more/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Forgiveness is accepting the apology you will never receive.” — Shawne Duperon (hat tip to Mark Goulston) And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Shawne Duperon",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Shawne_Duperon",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Shawne_Duperon"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss/status/1530606628994699265"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

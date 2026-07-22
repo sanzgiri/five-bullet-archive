@@ -6,7 +6,234 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Sabelo",
+      "creator": "Bajofondo",
+      "note": "([YouTube](https://youtu.be/YANHZfxEC-I?si=k3vyvy-I6OZiTE4-), [Apple Music](https://music.apple.com/us/album/sabelo/598796498?i=598796771), [Spotify](https://open.spotify.com/track/1FPx0zQMlGR8CbDZWfDfCQ?dlsi=22b8e0dd92b743b1&nd=1&si=1gH1rP4IQrWTQBPR8lkJZA)) by [Bajofondo](https://www.instagram.com/bajofondo_oficial/).",
+      "original_url": "https://youtu.be/YANHZfxEC-I?si=k3vyvy-I6OZiTE4-",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/YANHZfxEC-I?si=k3vyvy-I6OZiTE4-"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/YANHZfxEC-I?si=k3vyvy-I6OZiTE4-"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/album/sabelo/598796498?i=598796771"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/1FPx0zQMlGR8CbDZWfDfCQ?dlsi=22b8e0dd92b743b1&nd=1&si=1gH1rP4IQrWTQBPR8lkJZA"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/bajofondo_oficial/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Blog post with lots of natsukashii pictures and reflections",
+      "category": "article",
+      "title": "A better way to build a downtown",
+      "creator": "Noah Smith",
+      "note": ".",
+      "original_url": "https://www.noahpinion.blog/p/a-better-way-to-build-a-downtown",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.noahpinion.blog/p/a-better-way-to-build-a-downtown"
+        },
+        {
+          "type": "other",
+          "url": "https://www.noahpinion.blog/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Chocolate I’m excited to test",
+      "category": "other",
+      "title": "our conversation",
+      "creator": "Askinosie",
+      "note": "Longtime listeners will recognize Askinosie, as it is one of the chocolates that Seth—a lover of fine chocolates—recommended in [our conversation](https://tim.blog/2016/02/10/seth-godin/) back in 2016. This is a limited edition created to celebrate the launch of Seth’s newest book. It certainly excites me to brainstorm what I could be doing for my upcoming book…",
+      "original_url": "https://tim.blog/2016/02/10/seth-godin/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2016/02/10/seth-godin/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "The Biggest Little Farm",
+      "creator": null,
+      "note": "This film first caught my eye with its [beautiful trailer](https://www.youtube.com/watch?v=UfDTM4JxHl8). It has a 95% audience score [on Rotten Tomatoes](https://www.rottentomatoes.com/m/the_biggest_little_farm), and here’s the shortened description: “_The Biggest Little Farm_ chronicles the eight-year quest of John and Molly Chester as they trade city living for 200 acres of barren farmland and a dream to harvest in harmony with nature. Through dogged perseverance and embracing the opportunity provided by nature’s conflicts, the Chesters unlock and uncover a biodiverse design for living that exists far beyond their farm.” Their story made me reflect on life and “problems” differently.",
+      "original_url": "https://www.amazon.com/gp/video/detail/The-Biggest-Little-Farm/B07R4CFF3M/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/gp/video/detail/The-Biggest-Little-Farm/B07R4CFF3M/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=UfDTM4JxHl8"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rottentomatoes.com/m/the_biggest_little_farm"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "What I’m rewatching",
+      "category": "video",
+      "title": "Jon Batiste on the podcast",
+      "creator": null,
+      "note": "This podcast episode is one of my all-time favorites. It’s rare that I rewatch or re-listen to my own stuff, but this is an exception. The flow was magical, and the live music was mesmerizing. Jon brought bottled lightning, and I was lucky to be there. Trust me on this one. For those who don’t know Jon, he is a five-time Grammy Award-winning and Academy Award-winning singer, songwriter, and composer.",
+      "original_url": "https://tim.blog/2024/10/30/jon-batiste/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2024/10/30/jon-batiste/"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Fall in love with yourself, with life, and then with whomever you want.” — Frida Kahlo (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my conversation with bestselling author (and Jon Batiste’s wife) Suleika Jaouad, my interview with master performer Hugh Jackman, and my most recent conversation with Seth Godin, who coaches me on overcoming resistance. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim P.S. November NOBNOM (no booze, no masturbating) challenge starts when you see this! Read this blog post and join me in reclaiming some focus and dopamine control in November. Your 30 days can start whenever you see the post. ### Forwarded this message? Sign up here. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. Sign Up ### Listen to The Tim Ferriss Show Podcast The Tim Ferriss Show is one of the most popular podcasts in the world with more than one billion downloads. It has been selected for \"Best of Apple Podcasts\" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts on many occasions. Podcasts Apple Podcasts Overcast Spotify Tim's Blog ### Read Tim's Books [](https://tim.blog/tim-ferriss-books/?utm_campaign=design-test&utm_medium=convertit&utm_source=convertkit) Amazon Audible B & N Tim's Blog Follow Tim: [](https://twitter.com/tferriss) [](https://www.instagram.com/timferriss/) [](https://www.youtube.com/channel/UCznv7Vf9nBdJYvBagFdAHWw) [](https://www.facebook.com/TimFerriss) [](https://www.linkedin.com/in/timferriss/) DO NOT REPLY HERE: Due to volume, please do not reply to this email. Sadly we are unable to read 1000+ email replies daily. To reply to Tim, please do so in the blog comments here. No longer want these emails? Unsubscribe 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Frida Kahlo",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Frida_Kahlo",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Frida_Kahlo"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/c_93d"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/06/01/suleika-jaouad/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/06/26/hugh-jackman/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/03/20/seth-godin-3/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/11/01/no-booze-no-masturbating-nobnom-november-challenge/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/11/01/no-booze-no-masturbating-nobnom-november-challenge/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_campaign=design-test&utm_medium=convertit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/4zup485rraeh53dqznbps629r777t5"
+        }
+      ]
+    }
+  ]
 }

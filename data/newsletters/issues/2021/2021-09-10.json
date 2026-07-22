@@ -6,7 +6,159 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Documentary I’m watching —",
+      "category": "video",
+      "title": "Searching for Sugar Man",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/gp/product/B00B49L7Y4/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20), [iTunes/Apple TV](https://itunes.apple.com/us/movie/searching-for-sugar-man/id578634881?cmp=rt_where_to_watch), [Google Play](https://play.google.com/store/movies/details?id=J7idcKLbdIY), [YouTube](https://www.youtube.com/watch?v=J7idcKLbdIY)). I’ve had dozens of friends recommend this over the years, and I finally watched it last night. It’s SPECTACULAR. It was exactly the feel-good pick-me-up that I needed. The film’s accolades include [95% on Rotten Tomatoes](https://www.rottentomatoes.com/m/searching_for_sugar_man), a BAFTA Award for Best Documentary, and an Academy Award for Best Documentary Feature, just to mention a few. Here’s the official description: “_Searching for Sugar Man_ tells the incredible true story of [Rodriguez](https://en.wikipedia.org/wiki/Sixto_Rodriguez), the greatest ’70s rock icon who never was. After being discovered in a Detroit bar, Rodriguez’s sound struck two renowned producers, and they signed a recording deal. But when the album bombed, the singer disappeared into obscurity. A bootleg recording found its way into apartheid South Africa, and over the next two decades, he became a phenomenon. The film follows the story of two South African fans who set out to find out what really happened to their hero.” Watch the trailer [here](https://www.youtube.com/watch?v=QL5TffdOQ7g).",
+      "original_url": "https://www.amazon.com/gp/product/B00B49L7Y4/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/gp/product/B00B49L7Y4/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/gp/product/B00B49L7Y4/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "type": "other",
+          "url": "https://itunes.apple.com/us/movie/searching-for-sugar-man/id578634881?cmp=rt_where_to_watch"
+        },
+        {
+          "type": "other",
+          "url": "https://play.google.com/store/movies/details?id=J7idcKLbdIY"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=J7idcKLbdIY"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rottentomatoes.com/m/searching_for_sugar_man"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Sixto_Rodriguez"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=QL5TffdOQ7g"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Ain’t No Rest for the Wicked",
+      "creator": "Cage The Elephant",
+      "note": "([YouTube](https://youtu.be/e2Z0sON2UPc), [Spotify](https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7?autoplay=true)) by [Cage The Elephant](https://www.cagetheelephant.com/home/) ([@CageTheElephant](https://twitter.com/CageTheElephant)).",
+      "original_url": "https://youtu.be/e2Z0sON2UPc",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/e2Z0sON2UPc"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/e2Z0sON2UPc"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7?autoplay=true"
+        },
+        {
+          "type": "other",
+          "url": "https://www.cagetheelephant.com/home/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/CageTheElephant"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Comedian I’m watching —",
+      "category": "video",
+      "title": "Why I speak French",
+      "creator": "TJ",
+      "note": ". I first saw Tanael “TJ” Joachim at the [Gotham Comedy Club](https://www.gothamcomedyclub.com/) ([@gothamcomedy](https://twitter.com/gothamcomedy)) in New York City. He calmly captured the room, and while I was laughing, I realized how great he was at tackling “off-limits” topics. His comedy was really smart. People got very uncomfortable, and I loved every minute of it. His performance at Gotham a few weeks ago was tighter than most of his older clips online, like the sample above. If he continues to refine and has the right management, I think he could be big.",
+      "original_url": "https://www.instagram.com/p/CHvqnSnAZTo/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/p/CHvqnSnAZTo/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/tjstandup/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.gothamcomedyclub.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/gothamcomedy"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "The Collapse of Wild Red Wolves Is a Warning That Should Worry Us All",
+      "creator": "Jimmy Tobias",
+      "note": "(_The Nation_). Thanks to [Ryan Holiday](https://tim.blog/2020/04/09/ryan-holiday-stoicism/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@RyanHoliday](https://twitter.com/ryanholiday)) for the recommendation. This is a compelling story of a canary in the coal mine: wild red wolves. Even if you’re a hunter, as I am, it’s a critical preview of what’s coming for many other species if we don’t make important changes soon. It’s also a complete case study on many fronts.",
+      "original_url": "https://www.thenation.com/article/environment/red-wolf-extinction/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.thenation.com/article/environment/red-wolf-extinction/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/JamesCTobias"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/04/09/ryan-holiday-stoicism/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/ryanholiday"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“You get ideas when you ask yourself simple questions. The most important of the questions is just, ‘What if...?’”— Neil Gaiman, “Where do you get your ideas?” And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Neil Gaiman, “Where do you get your ideas?” And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://tim.blog/2019/03/28/neil-gaiman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2019/03/28/neil-gaiman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.neilgaiman.com/Cool_Stuff/Essays/Essays_By_Neil/Where_do_you_get_your_ideas%253F"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

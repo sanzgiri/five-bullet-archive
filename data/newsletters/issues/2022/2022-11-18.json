@@ -6,7 +6,270 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What is helping me sleep",
+      "category": "other",
+      "title": "WAOAW Sleep Mask",
+      "creator": null,
+      "note": "This has become my favorite sleep mask. The WAOAW is a contoured mask that removes all pressure from the eyes, and it’s been added to my list of “things I didn’t know I needed.” The design also blocks much more light than conventional masks. Grumpy Tim is good for no one.",
+      "original_url": "https://www.amazon.com/dp/B09712FSLY?psc=1&ref=ppx_yo2ov_dt_b_product_details",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/dp/B09712FSLY?psc=1&ref=ppx_yo2ov_dt_b_product_details"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Sleep technology I’m using every night",
+      "category": "other",
+      "title": "Pod 3 Cover by Eight Sleep",
+      "creator": null,
+      "note": "Temperature is one of the main causes of poor sleep, and heat is my nemesis. I’ve suffered for decades, tossing and turning, throwing blankets off, pulling them back on, and repeating ad nauseam. The Pod 3 Cover has been a game changer for the quality of my sleep and the quality of my life. It pairs dynamic cooling and heating with biometric tracking to offer the most advanced (and user-friendly) solution on the market. I’ve been using Eight Sleep for more than two years. **Just in time for the holidays, add the** [**Pod 3 Cover**](https://www.eightsleep.com/tim/) **to your current mattress and start sleeping as cool as 55°F or as hot as 110°F.** It also splits your bed in half, so your partner can choose a totally different temp. The Pod technology adjusts the temperature of each side of the bed based on your sleep stages, biometrics, and bedroom temperature, reacting intelligently to create the optimal sleeping environment. [**For a limited time, Eight Sleep is offering subscribers of** _**5-Bullet Friday**_ **$450 off(!) of their Sleep Fit Holiday Bundle, which includes my personal favorite, the Pod 3 Cover.**](https://www.eightsleep.com/tim/) [Click here](https://www.eightsleep.com/tim/) to get the exclusive holiday savings until November 30th.\\*",
+      "original_url": "https://www.eightsleep.com/tim/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.eightsleep.com/tim/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.eightsleep.com/tim/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.eightsleep.com/tim/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.eightsleep.com/tim/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m using with my dog",
+      "category": "other",
+      "title": "Slow-Feed Stainless Steel Bowl",
+      "creator": null,
+      "note": "My dear Molly pup [has a lot of superpowers](https://www.youtube.com/watch?v=I7fflsbVEFg), but eating slowly is not one of them. Every two weeks or so, she’ll manically Hoover her food and puke it onto the floor a few minutes later. Not my favorite. This new bowl has totally fixed the problem. No one likes the scarf and barf! For some recent Molly photos that don’t involve barfing, [click here](https://www.instagram.com/p/CdLle06O_c9/) and [here](https://www.instagram.com/p/Cdd9QgUuARQ/).",
+      "original_url": "https://www.amazon.com/dp/B015G2DU80?ref=ppx_yo2ov_dt_b_product_details&th=1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/dp/B015G2DU80?ref=ppx_yo2ov_dt_b_product_details&th=1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=I7fflsbVEFg"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/CdLle06O_c9/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/Cdd9QgUuARQ/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "High-quality meat and fish I’m cooking",
+      "category": "other",
+      "title": "ButcherBox",
+      "creator": null,
+      "note": "!** ButcherBox is my trusted source for high-quality meats and proteins (outside of venison). They deliver 100% grass-fed, grass-finished beef; free-range organic chicken; humanely raised pork; and wild-caught seafood directly to your doorstep at the frequency you choose. I love cooking with friends and family, and [ButcherBox](https://www.butcherbox.com/TimF/?utm_source=affiliate&utm_medium=cpa&utm_campaign=&utm_term=timf&utm_content=) makes it easier to co-create delicious meals, whether a light fish dish or the best ribs you’ve ever had. ButcherBox also cares deeply about animal welfare, supporting the livelihood of farmers and treating ecosystems with respect. They’re B Corp™ certified, which means they prioritize meeting the highest verified standards of social and environmental performance, transparency, and accountability. **This Black Friday, your search for amazing deals on high-quality protein ends with ButcherBox.** [**ButcherBox**](https://www.butcherbox.com/TimF/?utm_source=affiliate&utm_medium=cpa&utm_campaign=&utm_term=timf&utm_content=) **is offering you one of their best steak deals:** [**Get two 10 oz rib eyes FREE in every box for a whole year when you join, plus an additional $20 off!**](https://www.butcherbox.com/TimF/?utm_source=affiliate&utm_medium=cpa&utm_campaign=&utm_term=timf&utm_content=)**\\***",
+      "original_url": "https://www.butcherbox.com/TimF/?utm_source=affiliate&utm_medium=cpa&utm_campaign=&utm_term=timf&utm_content=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.butcherbox.com/TimF/?utm_source=affiliate&utm_medium=cpa&utm_campaign=&utm_term=timf&utm_content="
+        },
+        {
+          "type": "other",
+          "url": "https://www.butcherbox.com/TimF/?utm_source=affiliate&utm_medium=cpa&utm_campaign=&utm_term=timf&utm_content="
+        },
+        {
+          "type": "other",
+          "url": "https://www.butcherbox.com/TimF/?utm_source=affiliate&utm_medium=cpa&utm_campaign=&utm_term=timf&utm_content="
+        },
+        {
+          "type": "other",
+          "url": "https://www.butcherbox.com/TimF/?utm_source=affiliate&utm_medium=cpa&utm_campaign=&utm_term=timf&utm_content="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Wine I’m drinking with family and friends this holiday season",
+      "category": "other",
+      "title": "Dry Farm Wines",
+      "creator": null,
+      "note": "Wines sold in the US can contain a hefty amount of sugar and up to 76 government-approved wine-making additives. Two of these additives are classified as acute toxins by the National Institute of Health, and 12 are classified as “health hazards.” Modern wine is like modern food; most of it is a processed product. And unfortunately, the government doesn’t require wine companies to disclose any of their ingredients. For that reason, most of the wine in my house over the past two years has been from Dry Farm Wines. In my experience, their wine means more fun with fewer headaches. [Dry Farm Wines](https://www.dryfarmwines.com/tim) only curates wines that are organic, practically sugar-free (less than 1g/L), low-alcohol (less than 12.5%), low-sulfite, additive-free, and produced by small family farms. All [Dry Farm Wines](https://www.dryfarmwines.com/tim) are laboratory tested for purity standards by a certified, independent enologist, and all of their wines are also backed by a 100% Happiness Promise—they will either replace or refund any wine you do not love. [**Dry Farm Wines**](https://www.dryfarmwines.com/tim) **has a special offer just for** _**5-Bullet Friday**_ **subscribers—**[**an extra bottle in your first box for just one extra penny**](https://www.dryfarmwines.com/tim)**.** Check out all the details at [DryFarmWines.com/Tim](https://www.dryfarmwines.com/tim).\\*",
+      "original_url": "https://www.dryfarmwines.com/tim",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.dryfarmwines.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "https://www.dryfarmwines.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "https://www.dryfarmwines.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "https://www.dryfarmwines.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "https://www.dryfarmwines.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "https://www.dryfarmwines.com/tim"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Two tools that have reduced low-back pain and tightness",
+      "category": "other",
+      "title": "PSO-RITE",
+      "creator": null,
+      "note": "for psoas muscle release.** Recommended by multiple people in [this Twitter thread](https://twitter.com/tferriss/status/1537476784207241217) on self-release. This is the easier to use of these two grouped bullets, but it’s not as surgically precise as the Hip Hook.  \n​[**Aletha Hip Hook**](https://www.alethahealth.com/the-hip-hook) **for relief of back and hip pain.** This really gets into your psoas and can also tackle the hard-to-reach iliacus quite effectively. Often, what disrupts my sleep is lower-back tightness, so I end up having to flip-flop like a rotisserie chicken from side to side to side to side, which (surprise!) does not improve my sleep quality.",
+      "original_url": "https://www.amazon.com/PSO-RITE-Psoas-Release-Personal-Massager/dp/B07DPCWV8Z/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/PSO-RITE-Psoas-Release-Personal-Massager/dp/B07DPCWV8Z/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss/status/1537476784207241217"
+        },
+        {
+          "type": "other",
+          "url": "https://www.alethahealth.com/the-hip-hook"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "section": "Premium teas I’m enjoying daily",
+      "category": "other",
+      "title": "Pique",
+      "creator": null,
+      "note": "!** Pique is one of my go-tos for the best gifts for family and friends. Combining efficacy and quality with purity and taste, their [fermented pu’er teas](http://piquelife.com/timferrissholiday) have become an essential part of my daily routine. I drink both their black and green pu’er every morning, and I take packets with me when I travel. Combining both allows me to get the full spectrum of active ingredients in one easy and enjoyable drink. Their teas are more concentrated in polyphenol antioxidants than any other tea—they support focus and mental clarity, healthy digestion, metabolism, hormonal health, and a healthy immune system. Another favorite is their [Daily Radiance Liposomal Vitamin C maximized for absorption](http://piquelife.com/timferrissholiday). It tastes so good, you might choose to take it once or twice a day, as I do. When I combine these teas with Vitamin C, I know I’m really setting myself up well for the colder days ahead. Pique’s products are triple toxin screened and sourced from some of the world’s most biodiverse areas. Their cutting-edge extraction technology maximally preserves antioxidants, so you reap the health benefits with zero prep, brewing, or waiting required. **Pique is offering their biggest deal ever—an** [**exclusive 15% discount**](http://piquelife.com/timferrissholiday) **on my favorites and more with code TIM15—only available until November 25th, 11:59 p.m. PST.\\***",
+      "original_url": "http://piquelife.com/timferrissholiday",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://piquelife.com/timferrissholiday"
+        },
+        {
+          "type": "other",
+          "url": "http://piquelife.com/timferrissholiday"
+        },
+        {
+          "type": "other",
+          "url": "http://piquelife.com/timferrissholiday"
+        },
+        {
+          "type": "other",
+          "url": "http://piquelife.com/timferrissholiday"
+        }
+      ]
+    },
+    {
+      "position": 8,
+      "section": "What I’m using for recovery",
+      "category": "other",
+      "title": "Marc Pro | Recovery Tool for Sore Muscles & Pain Relief",
+      "creator": null,
+      "note": "Last winter, I injured my shoulder snowboarding, and nothing seemed to stem the pain and inflammation, even after a week of recovery. [Kelly Starrett](https://en.wikipedia.org/wiki/Kelly_Starrett) ([@thereadystate](https://twitter.com/thereadystate)) of [The Ready State](https://thereadystate.com/) recommended the Marc Pro, and it reduced the swelling more than 50% after two two-hour sessions. The transformation was incredible. Of course, your mileage will vary, but I plan on traveling with one such device from now on. Since I can’t help but constantly break myself, I am also watching [How to Fix a Pelvic Fault or Tweak](https://www.youtube.com/watch?v=Js5xg9o78Jw) for skiing-induced lower-back and SI pain. Maybe I should just grow up, but that sounds incredibly boring. My most recent interview with Kelly can be found [here](https://tim.blog/2015/03/04/the-good-the-bad-and-the-ugly-of-crossfit/).",
+      "original_url": "https://marcpro.com/product-category/devices/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://marcpro.com/product-category/devices/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Kelly_Starrett"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/thereadystate"
+        },
+        {
+          "type": "other",
+          "url": "https://thereadystate.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=Js5xg9o78Jw"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/03/04/the-good-the-bad-and-the-ugly-of-crossfit/"
+        }
+      ]
+    },
+    {
+      "position": 9,
+      "section": "Electrolytes I’m using daily",
+      "category": "other",
+      "title": "LMNT",
+      "creator": null,
+      "note": "I’ve stocked up on boxes and boxes of [LMNT](http://drinklmnt.com/Tim), and I usually use 1–2 packs per day to add electrolytes to prevent dehydration symptoms like headaches, muscle cramps, and fatigue. I add electrolytes for many reasons: because I over-hydrate compulsively while stuck at a laptop (which dilutes electrolytes and leads me to feel tired), because I’m on a low-carb diet, because I’ve lost electrolytes through exercise, dry winter climates, etc. It’s simply cheap hydration insurance that tastes great. Each serving of [LMNT](http://drinklmnt.com/Tim) delivers a meaningful dose of electrolytes without the garbage—no sugar, no artificial ingredients, no coloring, no junk. My favorite flavor is Citrus Salt, which, as a side note, you can use to make a kick-ass, no-sugar margarita. [**Find your favorite flavor with a free LMNT Sample Pack, included with any purchase for a limited time**](http://drinklmnt.com/Tim). And if you don’t love your purchase for any reason, my friends at LMNT offer a no-questions-asked refund policy. This special offer is available here: [DrinkLMNT.com/Tim](http://drinklmnt.com/Tim).\\*",
+      "original_url": "http://drinklmnt.com/Tim",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://drinklmnt.com/Tim"
+        },
+        {
+          "type": "other",
+          "url": "http://drinklmnt.com/Tim"
+        },
+        {
+          "type": "other",
+          "url": "http://drinklmnt.com/Tim"
+        },
+        {
+          "type": "other",
+          "url": "http://drinklmnt.com/Tim"
+        },
+        {
+          "type": "other",
+          "url": "http://drinklmnt.com/Tim"
+        }
+      ]
+    },
+    {
+      "position": 10,
+      "section": "Big relief in a little package",
+      "category": "other",
+      "title": "Rubz ball",
+      "creator": null,
+      "note": "Meet one of my favorite travel partners, which can be thought of as a golf ball that won’t shoot across the floor when stepped on. Roll this uniquely designed ball under your feet (my go-to area) or over any sore or tired muscle to reduce tension. It’s small enough to fit in a pocket and easy to manipulate.  \n​\n\n* * *\n\n​  \nAnd there you go! Ten of my favorite things that make great holiday gifts. I love them all and hope you do, too.  \n​  \nHave a wonderful weekend and wonderful holiday season, everyone!  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
+      "original_url": "https://www.amazon.com/Due-North-Massage-Plantar-Fasciitus/dp/B002QEY6NK",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Due-North-Massage-Plantar-Fasciitus/dp/B002QEY6NK"
+        }
+      ]
+    }
+  ]
 }

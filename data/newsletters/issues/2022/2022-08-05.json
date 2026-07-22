@@ -6,7 +6,163 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "The Perils of Audience Capture",
+      "creator": "Gurwinder Bhogal",
+      "note": "([@G\\_S\\_Bhogal](https://twitter.com/G_S_Bhogal)). **Everyone should read this brilliant piece.** It could alternatively be titled “How Influencers Become Caricatures with No Exit,” “How Anyone Online Can Lose Themselves,” or “Succumbing to Quicksand: Digital Identity Creep in the 2020s.” If you spend any time online, you are subject to the dynamics described in this article. Read it, even if only for preemptive planning. I chat so often with friends about these things that one texted me this today: “Holy shit. Reading now. Has this guy been reading our texts?”",
+      "original_url": "https://gurwinder.substack.com/p/the-perils-of-audience-capture",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://gurwinder.substack.com/p/the-perils-of-audience-capture"
+        },
+        {
+          "type": "other",
+          "url": "https://gurwinder.substack.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/G_S_Bhogal"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Short video I’m rewatching",
+      "category": "video",
+      "title": "This is Water",
+      "creator": null,
+      "note": "commencement speech by [David Foster Wallace](https://en.wikipedia.org/wiki/David_Foster_Wallace), which he gave at Kenyon College on May 21, 2005. It is [also available in book form](https://www.amazon.com/This-Water-Delivered-Significant-Compassionate/dp/0316068225), but I highly recommend the audio. Past podcast guest [Dr. Peter Attia](https://tim.blog/2021/06/08/peter-attia-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) listens to this every two weeks, which is how it first crossed my radar.",
+      "original_url": "https://www.youtube.com/watch?v=8CrOL-ydFMI",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=8CrOL-ydFMI"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/David_Foster_Wallace"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/This-Water-Delivered-Significant-Compassionate/dp/0316068225"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/06/08/peter-attia-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to while writing",
+      "category": "podcast",
+      "title": "Fata Morgana",
+      "creator": "Their Dogs Were Astronauts",
+      "note": "([YouTube](https://www.youtube.com/watch?v=tBoMPxmaC6Y), [Spotify](https://open.spotify.com/track/51v3iSvszA48FNQ6ChPmc7?autoplay=true)) by [Their Dogs Were Astronauts](https://www.theirdogswereastronauts.com/about-1/) ([@theirdogswereastronauts](https://www.instagram.com/theirdogswereastronauts/?hl=en)).",
+      "original_url": "https://www.youtube.com/watch?v=tBoMPxmaC6Y",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=tBoMPxmaC6Y"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=tBoMPxmaC6Y"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/51v3iSvszA48FNQ6ChPmc7?autoplay=true"
+        },
+        {
+          "type": "other",
+          "url": "https://www.theirdogswereastronauts.com/about-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/theirdogswereastronauts/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m watching in theaters",
+      "category": "video",
+      "title": "Vengeance",
+      "creator": null,
+      "note": "I loved this film and laughed so hard that I made people uncomfortable. Give it 10–15 minutes to really warm up. Here’s the description: “_Vengeance_, the directorial debut from writer and star [B.J. Novak](https://tim.blog/2015/11/25/bj-novak/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@bjnovak](https://mobile.twitter.com/bjnovak)) (_The Office_), is a darkly comic thriller about Ben Manalowitz, a journalist and podcaster who travels from New York City to West Texas to investigate the death of a girl he was hooking up with.” The dialogue in this entire movie is hilarious. At least [watch the trailer](https://www.youtube.com/watch?v=1GT1jFsNnPw), and here’s one sample exchange from a dinner in Abilene, TX:  \n​  \n​**Ty**: “There’s something you gotta know about this place, Ben. This is the most wretched, godforsaken stretch of land on the face of the earth—and I’d never leave. Know what I mean?”  \n​  \n​**Ben**: “Yeah. That’s how I feel about Twitter.”",
+      "original_url": "https://www.rottentomatoes.com/m/vengeance_2022",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.rottentomatoes.com/m/vengeance_2022"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/11/25/bj-novak/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://mobile.twitter.com/bjnovak"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=1GT1jFsNnPw"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Passage I’m pondering, bolding is mine",
+      "category": "other",
+      "title": "J.R.R. Tolkien",
+      "creator": null,
+      "note": ", [_The Fellowship of the Ring_](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)​  \n​\n\n​  \nYou can complement this edition of _5-Bullet Friday_ with [my interview](https://tim.blog/2015/11/25/bj-novak/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) with _Vengeance_ writer-director [B.J. Novak](https://tim.blog/2015/11/25/bj-novak/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), my [most recent conversation](https://tim.blog/2021/06/08/peter-attia-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) with [Dr. Peter Attia](https://tim.blog/2021/06/08/peter-attia-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), and [Neil Gaiman](https://tim.blog/2019/03/28/neil-gaiman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)’s “Make Good Art” [commencement speech](https://tim.blog/2012/05/22/neil-gaiman-commencement-speech/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), a mandatory listening for anyone who hopes to be creatively successful.  \n​  \nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
+      "original_url": "https://en.wikipedia.org/wiki/J._R._R._Tolkien",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/J._R._R._Tolkien"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/11/25/bj-novak/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/11/25/bj-novak/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/06/08/peter-attia-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/06/08/peter-attia-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/03/28/neil-gaiman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2012/05/22/neil-gaiman-commencement-speech/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

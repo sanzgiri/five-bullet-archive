@@ -6,7 +6,84 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Article I’m rereading —",
+      "category": "article",
+      "title": "Taming the Mammoth: Why You Should Stop Caring What Other People Think",
+      "creator": null,
+      "note": "This remains one of the most empowering articles I’ve read in recent years. It’s hilarious and amazing. For double trouble, pair it with [my interview with the author](https://tim.blog/2017/11/30/managing-procrastination-predicting-the-future-and-finding-happiness/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), Tim Urban.",
+      "original_url": "https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/11/30/managing-procrastination-predicting-the-future-and-finding-happiness/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Short document I’m revisiting —",
+      "category": "other",
+      "title": "Amazon’s internal leadership principles",
+      "creator": null,
+      "note": "Because there aren’t \\*that\\* many trillion-dollar companies running around...",
+      "original_url": "https://www.amazon.jobs/principles",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.jobs/principles"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Person I recently started following on Instagram",
+      "category": "other",
+      "title": "Oil painter and multimedia artist Nick Weber (@nickweber)",
+      "creator": null,
+      "note": "](https://www.instagram.com/nickweber/)**.** Nick has incredible command of realistic portraiture and beautifully captures subtle emotion in experimental pieces involving mixed process.\n\n**Location I am considering visiting** —  \n**Latvia**. After seeing photos of [Riga](http://www.latvia.travel/en/city/riga-8)’s stunning architecture, I added the city to my must-visit list. If you need more convincing, check out this post: “[48 Hours in Riga For Architecture Lovers](https://www.treksplorer.com/48-hours-in-riga-latvia-architecture/).” Please let me know what else I should do in Latvia by pinging me [at @tferriss on Twitter](https://twitter.com/tferriss) and using hashtag #LatviaTim.",
+      "original_url": "https://www.instagram.com/nickweber/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/nickweber/"
+        },
+        {
+          "type": "other",
+          "url": "http://www.latvia.travel/en/city/riga-8"
+        },
+        {
+          "type": "other",
+          "url": "https://www.treksplorer.com/48-hours-in-riga-latvia-architecture/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Between two evils, I generally like to pick the one I never tried before.” — Mae West",
+      "creator": "Mae West",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Mae_West",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Mae_West"
+        }
+      ]
+    }
+  ]
 }

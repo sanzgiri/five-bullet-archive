@@ -6,7 +6,135 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Album I’m enjoying",
+      "category": "music",
+      "title": "Panamericana",
+      "creator": "Federico Aubele",
+      "note": ". I wrote much of [_The 4-Hour Body_](https://www.amazon.com/Hour-Body-Uncommon-Incredible-Superhuman/dp/030746363X/) to this album, and I still listen to it often, especially when winding down after a long day or full week.",
+      "original_url": "https://open.spotify.com/album/4CIaS88EQ6j26qOigblqSH",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://open.spotify.com/album/4CIaS88EQ6j26qOigblqSH"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Federico_Aubele"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Hour-Body-Uncommon-Incredible-Superhuman/dp/030746363X/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Novel I’m reading",
+      "category": "book",
+      "title": "Blood Meridian",
+      "creator": "Cormac McCarthy",
+      "note": ". Want to get out of the news cycle? To stretch your mind with both profound beauty and discomfort? Try _Blood Meridian_ by Cormac McCarthy, selected by _The Atlantic_ as one of the great American novels of the past 100 years. It’s not often that you come across endorsements like the following from Michael Herr: “A classic American novel of regeneration through violence. McCarthy can only be compared to our greatest writers, with Melville and Faulkner, and this is his masterpiece.”  \n​  \nIt is easily one of the most gorgeous and brutal books I’ve ever read. The prose is poetry, the characters are incredible, and none of it is for the faint of heart. Both print and audio versions are excellent. From the description: “An epic novel of the violence and depravity that attended America’s westward expansion, brilliantly subverting the conventions of the Western novel and the mythology of the Wild West.” Thank you to Exit Through The Gift Shop for recommending this to me.",
+      "original_url": "https://www.amazon.com/Blood-Meridian-Evening-Redness-International-ebook/dp/B003XT60E0/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Blood-Meridian-Evening-Redness-International-ebook/dp/B003XT60E0/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Cormac_McCarthy"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Desktop app I’m testing",
+      "category": "other",
+      "title": "ChatGPT on your desktop",
+      "creator": null,
+      "note": "Function: “Chat about email, screenshots, files, and anything on your screen.” The main reason I installed it was to create a keyboard shortcut, much like you might use Spotlight on Mac: “Option + Space opens ChatGPT from any screen on your desktop.” This allows me to quickly query ChatGPT for anything. It’s a lot faster than going to a separate new tab for Google.  \n​  \nSeparately, I will be testing [Runway’s Gen-3 Alpha Text-to-Video](https://www.youtube.com/watch?v=nByslCkykj8). Watch their mind-blowing two-minute video [here](https://www.youtube.com/watch?v=nByslCkykj8). You might want to consider keeping, [per Ethan Mollick’s suggestion](https://www.oneusefulthing.org/p/gradually-then-suddenly-upon-the), an AI “impossibility list.” You might be surprised how quickly things accelerate. I highly recommend reading [Ethan’s blog post here](https://www.oneusefulthing.org/p/gradually-then-suddenly-upon-the), as it gives examples of how certain technologies move “gradually, then suddenly.”",
+      "original_url": "https://openai.com/chatgpt/mac/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://openai.com/chatgpt/mac/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=nByslCkykj8"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=nByslCkykj8"
+        },
+        {
+          "type": "other",
+          "url": "https://www.oneusefulthing.org/p/gradually-then-suddenly-upon-the"
+        },
+        {
+          "type": "other",
+          "url": "https://www.oneusefulthing.org/p/gradually-then-suddenly-upon-the"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Documentary I’m revisiting",
+      "category": "video",
+      "title": "The Fantastic Mr. Feynman",
+      "creator": null,
+      "note": "This is my favorite documentary of one of my favorite people, Richard Feynman. His lectures and books—such as [_“Surely You’re Joking, Mr. Feynman!”: Adventures of a Curious Character_](https://www.amazon.com/Surely-Youre-Joking-Mr-Feynman/dp/0393355624/)—have greatly inspired many of my best decisions in life. He also inspired me to teach. I hope you enjoy the film as much as I did. Whether you like bongo drums, safe cracking, or physics, there is something for everyone.",
+      "original_url": "https://www.dailymotion.com/video/x612rpf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.dailymotion.com/video/x612rpf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Surely-Youre-Joking-Mr-Feynman/dp/0393355624/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Old George Orwell got it backward. Big Brother isn’t watching. He’s singing and dancing. He’s pulling rabbits out of a hat. Big Brother’s busy holding your attention every moment you’re awake. He’s making sure you’re always distracted. He’s making sure you’re fully absorbed. He’s making sure your imagination withers. Until it’s as useful as your appendix. He’s making sure your attention is always filled. And this being fed, it’s worse than being watched. With the world always filling you, no one has to worry about what’s in your mind. With everyone’s imagination atrophied, no one will ever be a threat to the world.” — Chuck Palahniuk (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my interview with Chuck Palahniuk, this list of some of my favorite documentaries, and the latest super-combo podcast episode, featuring Terry Crews and Richard Koch. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Chuck Palahniuk",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Chuck_Palahniuk",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Chuck_Palahniuk"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/bcGL0"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/09/02/chuck-palahniuk/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/04/13/tim-ferriss-favorite-documentaries/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/07/05/terry-crews-and-richard-koch/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

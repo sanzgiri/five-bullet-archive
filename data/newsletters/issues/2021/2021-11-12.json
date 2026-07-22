@@ -6,7 +6,306 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Gadget I’m loving —",
+      "category": "other",
+      "title": "Roost – Adjustable and Portable Laptop Stand",
+      "creator": null,
+      "note": "On the road, I spotted a coder using one of these in a Starbucks. I crept over and waved to get his attention. Once he’d taken off his headset, I asked him how much he liked the ultralight laptop stand. He answered with a dead-serious stare and a poker face, “I LOVE this laptop stand. My posture has immediately improved, and I complete many more actions per minute.” Gotta love engineers… and he was right. This is a fantastic device. I’m using it in combination with the wireless Apple Magic Trackpad 2 and Magic Keyboard. It’s the perfect size for on-the-go work or travel.",
+      "original_url": "https://www.amazon.com/gp/product/B01C9KG8IG/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/gp/product/B01C9KG8IG/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Eye mask I’m loving —",
+      "category": "other",
+      "title": "Alaska Bear® Natural Silk Sleep Mask",
+      "creator": null,
+      "note": "This was recommended to me by Dr. Peter Attia ([@peterattiamd](https://twitter.com/peterattiamd)) on [his 2019 podcast appearance](https://tim.blog/2019/11/27/peter-attia-fasting-metformin-longevity/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). He takes one everywhere. I’ve tried many eye masks and was skeptical—aren’t they all basically the same?—but the Alaska Bear is an upgrade. The design checks a couple of basic but critical boxes: (1) it allows you to tighten the head strap, and (2) the soft material blocks light from entering under the bottom edge of the eye mask. If the ridiculous name isn’t enough, you can also choose many ridiculous patterns for your personalized sleep fashion needs.",
+      "original_url": "https://www.amazon.com/gp/product/B07CPTY6QZ/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/gp/product/B07CPTY6QZ/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/peterattiamd"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/11/27/peter-attia-fasting-metformin-longevity/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "High-quality meat and fish I’m cooking —",
+      "category": "other",
+      "title": "ButcherBox",
+      "creator": null,
+      "note": "is my go-to trusted source for high-quality meats and proteins (outside of venison). They deliver 100% grass-fed, grass-finished beef; free-range organic chicken; humanely raised pork; and wild-caught seafood directly to your doorstep at the frequency you choose. I love cooking with friends and family, and [ButcherBox](http://www.butcherbox.com/5bulletfriday) makes it easier to co-create delicious meals, whether a light fish dish or the best ribs you’ve ever had. [ButcherBox](http://www.butcherbox.com/5bulletfriday) also cares deeply about animal welfare, supporting the livelihood of farmers, and treating ecosystems with respect. They’re B Corp™ certified, which means they prioritize meeting the highest verified standards of social and environmental performance, transparency, and accountability. **ButcherBox is giving you early access to their best Black Friday deal ever:** [**Sign up and you’ll receive two 10 oz New York strip steaks for FREE in every box you order for a year**](http://www.butcherbox.com/5bulletfriday)**.**\\*",
+      "original_url": "http://www.butcherbox.com/5bulletfriday",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.butcherbox.com/5bulletfriday"
+        },
+        {
+          "type": "other",
+          "url": "http://www.butcherbox.com/5bulletfriday"
+        },
+        {
+          "type": "other",
+          "url": "http://www.butcherbox.com/5bulletfriday"
+        },
+        {
+          "type": "other",
+          "url": "http://www.butcherbox.com/5bulletfriday"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Coffee I am enjoying —",
+      "category": "other",
+      "title": "Four Sigmatic",
+      "creator": null,
+      "note": "You’ve heard me talk about these guys for years. I love their [mushroom coffee with lion’s mane](https://us.foursigmatic.com/tim44?discount=tim44&afmc=tim&utm_campaign=tim-ferriss-5bf&utm_medium=partner&utm_source=email). It’s delicious, I recommend it, I gift it to my employees, and I give it to my houseguests. It’s my solution when I need to recharge but want to avoid the jitters I sometimes get from regular coffee. Their [Reishi Elixir](https://us.foursigmatic.com/products/instant-reishi?discount=tim44&afmc=tim&utm_campaign=tim-ferriss-5bf&utm_medium=partner&utm_source=email) has also been a game changer for sleep. In the spirit of the holidays, **Four Sigmatic is giving “5-Bullet Friday” subscribers up to** [**44% OFF their popular mushroom coffee**](https://us.foursigmatic.com/tim44?discount=tim44&afmc=tim&utm_campaign=tim-ferriss-5bf&utm_medium=partner&utm_source=email). **Simply visit** [**FourSigmatic.com/Tim44**](https://us.foursigmatic.com/tim44?discount=tim44&afmc=tim&utm_campaign=tim-ferriss-5bf&utm_medium=partner&utm_source=email)**.** In previous offers to this newsletter, Four Sigmatic products have sold out in less than 24 hours, so the early bird gets the worm.\\*",
+      "original_url": "https://us.foursigmatic.com/tim44?discount=tim44&afmc=tim&utm_campaign=tim-ferriss-5bf&utm_medium=partner&utm_source=email",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://us.foursigmatic.com/tim44?discount=tim44&afmc=tim&utm_campaign=tim-ferriss-5bf&utm_medium=partner&utm_source=email"
+        },
+        {
+          "type": "other",
+          "url": "https://us.foursigmatic.com/tim44?discount=tim44&afmc=tim&utm_campaign=tim-ferriss-5bf&utm_medium=partner&utm_source=email"
+        },
+        {
+          "type": "other",
+          "url": "https://us.foursigmatic.com/products/instant-reishi?discount=tim44&afmc=tim&utm_campaign=tim-ferriss-5bf&utm_medium=partner&utm_source=email"
+        },
+        {
+          "type": "other",
+          "url": "https://us.foursigmatic.com/tim44?discount=tim44&afmc=tim&utm_campaign=tim-ferriss-5bf&utm_medium=partner&utm_source=email"
+        },
+        {
+          "type": "other",
+          "url": "https://us.foursigmatic.com/tim44?discount=tim44&afmc=tim&utm_campaign=tim-ferriss-5bf&utm_medium=partner&utm_source=email"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Tech tool I am enjoying —",
+      "category": "other",
+      "title": "Logitech BRIO Ultra HD 4K Webcam",
+      "creator": null,
+      "note": "I’ve always used my built-in MacBook lens for podcasting, Zoom, and so on. I looked into getting a prosumer setup with a great Sony camera, but I wasn’t motivated enough to fuss with lots of setup on a laptop that is by definition going to move a lot. This BRIO webcam was the middle ground I found, and I love it. What’s most remarkable and surprising is that, although I bought it to improve the _other_ side’s experience, it makes _my own_ experience of video chats much more enjoyable and much easier on the eyes. Here’s the official description: “Brio is a remarkable piece of technology that streams crystal-clear video with superb resolution, frame rate, color, and detail, including autofocus and 5x HD zoom. Brio delivers 4K Ultra HD video at 30 fps, HD 1080p at either 30 or 60 fps, and HD 720p at 30, 60, or an ultra-smooth 90 fps for outstanding clarity, smoothness, and detail.”",
+      "original_url": "https://www.amazon.com/Logitech-BRIO-Conferencing-Recording-Streaming/dp/B01N5UOYC4/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Logitech-BRIO-Conferencing-Recording-Streaming/dp/B01N5UOYC4/"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Sleep technology I’m using every night —",
+      "category": "other",
+      "title": "Eight Sleep Pod Pro Cover",
+      "creator": null,
+      "note": "This holiday season, give yourself or a loved one a gift that keeps getting better _night after night_ with the Eight Sleep Pod Pro Cover. Good sleep has been one of my top priorities this year, and the [Pod Pro Cover by Eight Sleep](https://www.eightsleep.com/tim) has been revolutionary. It’s helped me practically every night of 2021. It pairs dynamic cooling and heating with biometric tracking to offer the most advanced (and user-friendly) solution on the market. Add the [Pod Pro Cover](https://www.eightsleep.com/tim) to your current mattress and start sleeping as cool as 55°F or as hot as 110°F. The technology adjusts the temperature of each side of the bed based on your sleep stages, biometrics, and bedroom temperature, reacting intelligently to create the optimal sleeping environment. I like to sleep cool, my girlfriend likes to sleep warm, and this is the best solution I’ve found. Eight Sleep users fall asleep up to 32% faster, reduce sleep interruptions by up to 40%, and get more restful sleep overall. **This holiday season,** **give the gift of better sleep and a present that will keep on giving every day of the year.** [**Go to EightSleep.com/Tim to get $250 off(!) of the Pod Pro Cover**](https://www.eightsleep.com/tim)**.**\\*",
+      "original_url": "https://www.eightsleep.com/tim",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.eightsleep.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "https://www.eightsleep.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "https://www.eightsleep.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "https://www.eightsleep.com/tim"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "section": "What I’m rereading and gifting —",
+      "category": "book",
+      "title": "The Boy, the Mole, the Fox and the Horse",
+      "creator": "Charlie Mackesy",
+      "note": "instagram.com/charliemackesy/)). This short and beautiful book was gifted to me by my mom. “This book is for everyone, whether you are eighty or eight,” as the introduction puts it. It looks like a children’s book, and you can read it in 30 minutes, but it’s replete with wisdom for adults. To give you an idea of how popular this book has become, it has [86,166 ratings on Amazon](https://www.amazon.com/Boy-Mole-Fox-Horse/dp/0062976583/ref=sr_1_2?crid=LQ1C3131FHMV&dchild=1&keywords=the+boy+the+mole+the+fox+and+the+horse&qid=1616514842&sprefix=the+boy%2Caps%2C210&sr=8-2) and an average of 5 stars.",
+      "original_url": "https://www.amazon.com/Boy-Mole-Fox-Horse/dp/0062976583/ref=sr_1_2?crid=LQ1C3131FHMV&dchild=1&keywords=the+boy+the+mole+the+fox+and+the+horse&qid=1616514842&sprefix=the+boy%2Caps%2C210&sr=8-2",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Boy-Mole-Fox-Horse/dp/0062976583/ref=sr_1_2?crid=LQ1C3131FHMV&dchild=1&keywords=the+boy+the+mole+the+fox+and+the+horse&qid=1616514842&sprefix=the+boy%2Caps%2C210&sr=8-2"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/charliemackesy/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Boy-Mole-Fox-Horse/dp/0062976583/ref=sr_1_2?crid=LQ1C3131FHMV&dchild=1&keywords=the+boy+the+mole+the+fox+and+the+horse&qid=1616514842&sprefix=the+boy%2Caps%2C210&sr=8-2"
+        }
+      ]
+    },
+    {
+      "position": 8,
+      "section": "Wine I’m drinking with family and friends —",
+      "category": "other",
+      "title": "Dry Farm Wines",
+      "creator": null,
+      "note": "I love wine with friends, and I’ll be drinking during the holidays, but I _hate_ hangovers. For that reason, and for the past year, most of the wine in my house has been from Dry Farm Wines. In my experience, their wine means more fun with fewer headaches. [Dry Farm Wines](https://www.dryfarmwines.com/tim) only ships wines that meet very stringent criteria: practically sugar-free (less than 0.15g per glass), lower alcohol (less than 12.5%), additive-free (there are more than 70 FDA-approved wine-making additives), lower sulfites, organic, and produced by small family farms. All [Dry Farm Wines](https://www.dryfarmwines.com/tim) are laboratory tested for purity standards by a certified, independent enologist, and all of their wines are also backed by a 100% Happiness Promise—they will either replace or refund any wine you do not love. [**Dry Farm Wines**](https://www.dryfarmwines.com/tim) **has a special offer just for “5-Bullet Friday” subscribers—**[**an extra bottle in your first box for just one extra penny**](https://www.dryfarmwines.com/tim)**.** Check out all the details at [DryFarmWines.com/Tim](https://www.dryfarmwines.com/tim).\\*",
+      "original_url": "https://www.dryfarmwines.com/tim",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.dryfarmwines.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "https://www.dryfarmwines.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "https://www.dryfarmwines.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "https://www.dryfarmwines.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "https://www.dryfarmwines.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "https://www.dryfarmwines.com/tim"
+        }
+      ]
+    },
+    {
+      "position": 9,
+      "section": "What I’m putting in my coffee and tea —",
+      "category": "other",
+      "title": "Laird Superfood",
+      "creator": null,
+      "note": "I love Laird Superfood products, especially [their creamers](https://lairdsuperfood.com/discount/Tim20?utm_source=Email&utm_medium=Partner&utm_campaign=TimFerriss&utm_content=Ferriss111221), which turn any coffee or tea into a functional superfood latte in seconds. [Laird Superfood](https://lairdsuperfood.com/discount/Tim20?utm_source=Email&utm_medium=Partner&utm_campaign=TimFerriss&utm_content=Ferriss111221) creamers are incredibly rich and delicious, completely plant-based, and contain naturally occurring MCTs. These creamers are also shelf-stable, which means they last longer and travel better than your old creamer. They come in a range of amazing flavors, including original, unsweetened, turmeric, pumpkin spice, and cacao. I’m a junkie for turmeric and cacao. **Right now and for a limited time,** [**you can get 20% off of your order of $40 or more when you use code TIM20 at checkout**](https://lairdsuperfood.com/discount/Tim20?utm_source=Email&utm_medium=Partner&utm_campaign=TimFerriss&utm_content=Ferriss111221)**.** Laird products are real-food fuel and supplements with nothing artificial. Check out [LairdSuperfood.com/Tim](https://lairdsuperfood.com/discount/Tim20?utm_source=Email&utm_medium=Partner&utm_campaign=TimFerriss&utm_content=Ferriss111221) to see some of my favorite products and learn more. Some exclusions apply, and this offer cannot be combined with other offers.\\*",
+      "original_url": "https://lairdsuperfood.com/discount/Tim20?utm_source=Email&utm_medium=Partner&utm_campaign=TimFerriss&utm_content=Ferriss111221",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://lairdsuperfood.com/discount/Tim20?utm_source=Email&utm_medium=Partner&utm_campaign=TimFerriss&utm_content=Ferriss111221"
+        },
+        {
+          "type": "other",
+          "url": "https://lairdsuperfood.com/discount/Tim20?utm_source=Email&utm_medium=Partner&utm_campaign=TimFerriss&utm_content=Ferriss111221"
+        },
+        {
+          "type": "other",
+          "url": "https://lairdsuperfood.com/discount/Tim20?utm_source=Email&utm_medium=Partner&utm_campaign=TimFerriss&utm_content=Ferriss111221"
+        },
+        {
+          "type": "other",
+          "url": "https://lairdsuperfood.com/discount/Tim20?utm_source=Email&utm_medium=Partner&utm_campaign=TimFerriss&utm_content=Ferriss111221"
+        },
+        {
+          "type": "other",
+          "url": "https://lairdsuperfood.com/discount/Tim20?utm_source=Email&utm_medium=Partner&utm_campaign=TimFerriss&utm_content=Ferriss111221"
+        }
+      ]
+    },
+    {
+      "position": 10,
+      "section": "Tech gadget that I’m using daily —",
+      "category": "other",
+      "title": "Anker Nano II 65W",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/Charger-Anker-Adapter-Foldable-Compact/dp/B08T5QN2TR/), [official website](https://us.anker.com/products/a2663111)). Tired of carrying around that gigantic brick of a MacBook charger? Check out the photos at either of the above links. This tiny replacement is incredible. Huge thanks to our friendly neighborhood Spider-Man, [Kevin Rose](https://tim.blog/2021/08/18/random-show-kevin-rose-nft-crypto/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@KevinRose](https://twitter.com/kevinrose))! Description: “Anker Nano II has the power you need to fast charge your phone, tablet, and USB-C notebook from a single, tiny charger. Charge a 2020 MacBook Air in less than 2 hours, a MacBook Pro 13ʺ at full speed, an iPhone 12 up to 3× faster than with an original 5W charger.…”  \n  \nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n  \nHave a wonderful weekend, all.  \n  \nMuch love to you and yours,  \n  \nTim  \n  \n**P.S.** If you’re looking for good causes to support this holiday season, I just used [Endaoment](https://endaoment.org/) ([@endaomentdotorg](https://twitter.com/endaomentdotorg)) to [set up my foundation to receive donations](https://app.endaoment.org/saisei) in cryptocurrency. [**Check out some of our projects here**](https://app.endaoment.org/saisei)**.**\n\n[![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/hAHoQ5faPwYaTb1HKvQEBZ?w=800&fit=max)](https://tim.blog/2020/12/08/jerry-seinfeld/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf-footer-jerry)\n\nFORWARDED THIS MESSAGE? [SIGN UP](https://go.tim.blog/10x-output/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=template).\n\n![Tim Ferriss Photo](http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg)\n\nJoin millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff.\n\nDUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just [click here](https://unsubscribe.fourhourmail.com/mvu8n09oou5hlk62lfd). To reply to Tim, please do so in the blog comments [here](https://tim.blog/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=template).\n\n3112 Windsor Rd., Box #UNS, Austin TX 78703, United States\n\n \n\n![](https://open.fourhourmail.com/mvu8n09oou5hlk62lfd)",
+      "original_url": "https://www.amazon.com/Charger-Anker-Adapter-Foldable-Compact/dp/B08T5QN2TR/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Charger-Anker-Adapter-Foldable-Compact/dp/B08T5QN2TR/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Charger-Anker-Adapter-Foldable-Compact/dp/B08T5QN2TR/"
+        },
+        {
+          "type": "other",
+          "url": "https://us.anker.com/products/a2663111"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/08/18/random-show-kevin-rose-nft-crypto/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/kevinrose"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://endaoment.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/endaomentdotorg"
+        },
+        {
+          "type": "other",
+          "url": "https://app.endaoment.org/saisei"
+        },
+        {
+          "type": "other",
+          "url": "https://app.endaoment.org/saisei"
+        },
+        {
+          "type": "other",
+          "url": "https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/hAHoQ5faPwYaTb1HKvQEBZ?w=800&fit=max"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/10x-output/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=template"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/mvu8n09oou5hlk62lfd"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=template"
+        }
+      ]
+    }
+  ]
 }

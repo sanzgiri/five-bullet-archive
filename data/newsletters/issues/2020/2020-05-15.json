@@ -1,12 +1,147 @@
 {
   "schema_version": 1,
   "issue_date": "2020-05-15",
-  "subject": "5-Bullet Friday — May 16, 2020 ",
+  "subject": "5-Bullet Friday — May 16, 2020",
   "sources": [
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Survey of entity encounter experiences occasioned by inhaled N,N_\\-dimethyltryptamine: Phenomenology, interpretation, and enduring effects",
+      "creator": null,
+      "note": "Here’s one notable line: “More than half of those who identified as atheist before the experience no longer identified as atheist afterwards.”",
+      "original_url": "https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/45ivheh2n8qm2x/aHR0cHM6Ly9qb3VybmFscy5zYWdlcHViLmNvbS9kb2kvMTAuMTE3Ny8wMjY5ODgxMTIwOTE2MTQz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/45ivheh2n8qm2x/aHR0cHM6Ly9qb3VybmFscy5zYWdlcHViLmNvbS9kb2kvMTAuMTE3Ny8wMjY5ODgxMTIwOTE2MTQz"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Tech fix that saved me —",
+      "category": "other",
+      "title": "experiencing a super-frustrating low-volume issue",
+      "creator": null,
+      "note": "on my new MacBook, [reader HP (@harr15on\\_)](https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/8mtqhoh5xnpo58/aHR0cHM6Ly90d2l0dGVyLmNvbS9oYXJyMTVvbl8vc3RhdHVzLzEyNjA2NDAyNzMyNjYyMDg3Njg=) and others kindly suggested [**this NVRAM/PRAM reset fix**](https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/l4cehmhkz7vlkg/aHR0cHM6Ly9zdXBwb3J0LmFwcGxlLmNvbS9lbi11cy9IVDIwNDA2Mw==), which did the trick. Many thanks!",
+      "original_url": "https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/r9f8hoh5ezvm5o/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcy9zdGF0dXMvMTI2MDYzOTYwMTkxMzQ2Mjc4NA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/r9f8hoh5ezvm5o/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcy9zdGF0dXMvMTI2MDYzOTYwMTkxMzQ2Mjc4NA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/8mtqhoh5xnpo58/aHR0cHM6Ly90d2l0dGVyLmNvbS9oYXJyMTVvbl8vc3RhdHVzLzEyNjA2NDAyNzMyNjYyMDg3Njg="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/l4cehmhkz7vlkg/aHR0cHM6Ly9zdXBwb3J0LmFwcGxlLmNvbS9lbi11cy9IVDIwNDA2Mw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Completely ridiculous page I’ve kept in an open tab all week —",
+      "category": "other",
+      "title": "30 Animals That Look Like They’re About to Drop the Hottest Albums of the Year",
+      "creator": null,
+      "note": "For when you just need a break from the doom and gloom...",
+      "original_url": "https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/dgseh0h7mnweqz/aHR0cHM6Ly93d3cuYm9yZWRwYW5kYS5jb20vYW5pbWFscy1hYm91dC10by1kcm9wLWFsYnVtLXBob3Rvcy8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/dgseh0h7mnweqz/aHR0cHM6Ly93d3cuYm9yZWRwYW5kYS5jb20vYW5pbWFscy1hYm91dC10by1kcm9wLWFsYnVtLXBob3Rvcy8="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Another tool I’m enjoying —",
+      "category": "other",
+      "title": "Scannable",
+      "creator": null,
+      "note": "During quarantine and social distancing, my kitchen table has become my office. Last week, it was covered in notes, to-do lists, bills, and various scraps of paper. Clutter causes me undue stress, and, for me, a clear desk is often a clear mind, so I used Scannable to scan it all. It was a glorious little win. [Kevin Rose](https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/zxbghnhd8xreok/aHR0cHM6Ly90aW0uYmxvZy8yMDIwLzA0LzI5L3JhbmRvbS1zaG93LWJvb3p5LXF1YXJhbnRpbmUtZWRpdGlvbi8=) ([@KevinRose](https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/xlhph6h7l0denz/aHR0cHM6Ly90d2l0dGVyLmNvbS9rZXZpbnJvc2U=)) first recommended [Scannable](https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/ppueh9h7lo5493/aHR0cHM6Ly9ldmVybm90ZS5jb20vcHJvZHVjdHMvc2Nhbm5hYmxlLw==) to me. It quickly scans documents while cleaning up the pic, removing shadows, etc., and generally making it easier to read. Once scanned, you can email a PDF to yourself or save the scan to [Evernote](https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/2mi2hohoew037e/aHR0cHM6Ly9ldmVybm90ZS5jb20v).",
+      "original_url": "https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/7na7h8h4m5p90k/aHR0cHM6Ly9ldmVybm90ZS5jb20vcHJvZHVjdHMvc2Nhbm5hYmxlLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/7na7h8h4m5p90k/aHR0cHM6Ly9ldmVybm90ZS5jb20vcHJvZHVjdHMvc2Nhbm5hYmxlLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/zxbghnhd8xreok/aHR0cHM6Ly90aW0uYmxvZy8yMDIwLzA0LzI5L3JhbmRvbS1zaG93LWJvb3p5LXF1YXJhbnRpbmUtZWRpdGlvbi8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/xlhph6h7l0denz/aHR0cHM6Ly90d2l0dGVyLmNvbS9rZXZpbnJvc2U="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/ppueh9h7lo5493/aHR0cHM6Ly9ldmVybm90ZS5jb20vcHJvZHVjdHMvc2Nhbm5hYmxlLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/2mi2hohoew037e/aHR0cHM6Ly9ldmVybm90ZS5jb20v"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Vivrant Thing",
+      "creator": "Q-Tip",
+      "note": "([Apple Music](https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/30tphkhdng93qq/aHR0cHM6Ly9tdXNpYy5hcHBsZS5jb20vdXMvYWxidW0vdml2cmFudC10aGluZy8xMjQ0NzYwMDA4P2k9MTI0NDc2MDkxOQ==), [Spotify](https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/4wcvheh2n8qm0r/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3RyYWNrLzRZQ0JCeFAwQWVXUHBFd2lkYWhyaGE=), [YouTube](https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/nesohvhok05vno/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1oWVRqQmhwbFRHWQ==)) by Q-Tip ([@qtiptheabstract](https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/8raqhoh5xnpogq/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9xdGlwdGhlYWJzdHJhY3Qv)).",
+      "original_url": "https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/gvfnh5hzkwomez/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1oWVRqQmhwbFRHWQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/gvfnh5hzkwomez/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1oWVRqQmhwbFRHWQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/30tphkhdng93qq/aHR0cHM6Ly9tdXNpYy5hcHBsZS5jb20vdXMvYWxidW0vdml2cmFudC10aGluZy8xMjQ0NzYwMDA4P2k9MTI0NDc2MDkxOQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/4wcvheh2n8qm0r/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3RyYWNrLzRZQ0JCeFAwQWVXUHBFd2lkYWhyaGE="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/nesohvhok05vno/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1oWVRqQmhwbFRHWQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/8raqhoh5xnpogq/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9xdGlwdGhlYWJzdHJhY3Qv"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Without great solitude, no serious work is possible.”— Pablo Picasso And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim",
+      "creator": "Pablo Picasso And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/lpbehmhkz7vlor/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUGFibG9fUGljYXNzbw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/lpbehmhkz7vlor/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUGFibG9fUGljYXNzbw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/wvunxemrraghg7kwvi8/d2heh0h7mnweqr/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    }
+  ]
 }

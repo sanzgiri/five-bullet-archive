@@ -6,7 +6,131 @@
     "gmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": false,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "My favorite new album —",
+      "category": "music",
+      "title": "Contact",
+      "creator": "Metsa",
+      "note": ". I’ve been waiting a long time for this one. Here’s the description, edited for length: This album is a compilation of ceremonial plant medicine songs called ikaros, some of which are traditional and some of which are reinterpretations informed by decades of practice. This artist supports a number of indigenous communities and causes, so I bought the album on Bandcamp, which allows you to donate above the low album price. I gave $100, but you can get the entire album for $9.99. [Get a taste of it here](https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/x4tph6hzn2m8dq/aHR0cHM6Ly9tZXRzYW11c2ljLmJhbmRjYW1wLmNvbS9hbGJ1bS9jb250YWN0). I love all the tracks, but I’m paying closest attention to [Urkututu (track #5)](https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/6mceh8hwpr4v69/aHR0cHM6Ly9tZXRzYW11c2ljLmJhbmRjYW1wLmNvbS9hbGJ1bS9jb250YWN0) at the moment.",
+      "original_url": "https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/z4ighnh7o6z9rl/aHR0cHM6Ly9tZXRzYW11c2ljLmJhbmRjYW1wLmNvbS9hbGJ1bS9jb250YWN0",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/z4ighnh7o6z9rl/aHR0cHM6Ly9tZXRzYW11c2ljLmJhbmRjYW1wLmNvbS9hbGJ1bS9jb250YWN0"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/pgfeh9hd96ek5q/aHR0cHM6Ly9tZXRzYW11c2ljLmJhbmRjYW1wLmNvbS9hbGJ1bS9jb250YWN0"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/x4tph6hzn2m8dq/aHR0cHM6Ly9tZXRzYW11c2ljLmJhbmRjYW1wLmNvbS9hbGJ1bS9jb250YWN0"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/6mceh8hwpr4v69/aHR0cHM6Ly9tZXRzYW11c2ljLmJhbmRjYW1wLmNvbS9hbGJ1bS9jb250YWN0"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "To Pay Attention, the Brain Uses Filters, Not a Spotlight",
+      "creator": null,
+      "note": "Hat tip to Sam McRoberts ([@Sams_Antics](https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/3raphkhrqm86no/aHR0cHM6Ly90d2l0dGVyLmNvbS9TYW1zX0FudGljcy9zdGF0dXMvMTE3ODk0Njc3NzkxMjg4MTE1Mw==)) for the recommendation.",
+      "original_url": "https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/g0snh5hne927k7/aHR0cHM6Ly93d3cucXVhbnRhbWFnYXppbmUub3JnL3RvLXBheS1hdHRlbnRpb24tdGhlLWJyYWluLXVzZXMtZmlsdGVycy1ub3QtYS1zcG90bGlnaHQtMjAxOTA5MjQv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/g0snh5hne927k7/aHR0cHM6Ly93d3cucXVhbnRhbWFnYXppbmUub3JnL3RvLXBheS1hdHRlbnRpb24tdGhlLWJyYWluLXVzZXMtZmlsdGVycy1ub3QtYS1zcG90bGlnaHQtMjAxOTA5MjQv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/3raphkhrqm86no/aHR0cHM6Ly90d2l0dGVyLmNvbS9TYW1zX0FudGljcy9zdGF0dXMvMTE3ODk0Njc3NzkxMjg4MTE1Mw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "New tool I’m enjoying —",
+      "category": "other",
+      "title": "The Feather Atlas",
+      "creator": null,
+      "note": "This was [recommended to me on Twitter](https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/rzh8hoh7qdp9e7/aHR0cHM6Ly90d2l0dGVyLmNvbS9waHlsb2dlbm9taWNzL3N0YXR1cy8xMTc1ODk1ODYyMTE2OTMzNjMy) by Professor [Jonathan Eisen](https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/85uqhoh3gd8exp/aHR0cHM6Ly9iaW9sb2d5LnVjZGF2aXMuZWR1L3Blb3BsZS9qb25hdGhhbi1laXNlbg==), and it helped me (with much assistance from my dear followers) to identify [the white-winged dove tail feather](https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/lviehmh4o2p5zz/aHR0cHM6Ly90d2l0dGVyLmNvbS9yYXN0ZXBoZW5zXzgyL3N0YXR1cy8xMTc1ODk0MTM0NzM0ODkzMDU3L3Bob3RvLzE=) and go [down an ornithological rabbit hole](https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/dvfeh0hkq6xzm7/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvV2hpdGUtd2luZ2VkX2RvdmU=).",
+      "original_url": "https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/40bvheh90l3znp/aHR0cHM6Ly93d3cuZndzLmdvdi9sYWIvZmVhdGhlcmF0bGFzL2lkdG9vbC5waHA=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/40bvheh90l3znp/aHR0cHM6Ly93d3cuZndzLmdvdi9sYWIvZmVhdGhlcmF0bGFzL2lkdG9vbC5waHA="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/rzh8hoh7qdp9e7/aHR0cHM6Ly90d2l0dGVyLmNvbS9waHlsb2dlbm9taWNzL3N0YXR1cy8xMTc1ODk1ODYyMTE2OTMzNjMy"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/85uqhoh3gd8exp/aHR0cHM6Ly9iaW9sb2d5LnVjZGF2aXMuZWR1L3Blb3BsZS9qb25hdGhhbi1laXNlbg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/lviehmh4o2p5zz/aHR0cHM6Ly90d2l0dGVyLmNvbS9yYXN0ZXBoZW5zXzgyL3N0YXR1cy8xMTc1ODk0MTM0NzM0ODkzMDU3L3Bob3RvLzE="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/dvfeh0hkq6xzm7/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvV2hpdGUtd2luZ2VkX2RvdmU="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Podcast episode I’m listening to —",
+      "category": "podcast",
+      "title": "The MeatEater Podcast — Ep. 166: Hunting With Teeth",
+      "creator": null,
+      "note": "This is an uber-intelligent conversation that explores a lot of nuance. It spans biology, conservation, and uncomfortable realities that we must learn to navigate. Here’s the description: “Steven Rinella ([@stevenrinella](https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/zdcghnh7o6z983/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9zdGV2ZW5yaW5lbGxhLw==)) talks with Diane Boyd and Janis Putelis ([@janis_putelis](https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/xqsph6hzn2m8le/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9qYW5pc19wdXRlbGlzLz9obD1lbg==)). Subjects discussed: Cyclone fences; swapping a motorcycle for a first wolf experience; Wolf rendezvous sites and snagging a wolf in a blind set; wolves killing wolves; wolves and border security; the myth of the super-wolf; did the wolf reintroduction need to happen?; how old is an old wolf; what, if anything, should Colorado do about wolves; should we be hunting and trapping wolves; the emotional and monetary value of wolves; would you do anything differently; and more.” Thanks to reader John Hoyt for [recommending this to me](https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/kpamh6he8wpg36/aHR0cHM6Ly90d2l0dGVyLmNvbS9Qd2Rya2VnL3N0YXR1cy8xMTYyMzQ1NDg0NDczNjU5Mzky) on Twitter.",
+      "original_url": "https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/73t7h8h80levm0/aHR0cHM6Ly93d3cudGhlbWVhdGVhdGVyLmNvbS9saXN0ZW4vbWVhdGVhdGVyL2VwLTE2Ni1odW50aW5nLXdpdGgtdGVldGg=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/73t7h8h80levm0/aHR0cHM6Ly93d3cudGhlbWVhdGVhdGVyLmNvbS9saXN0ZW4vbWVhdGVhdGVyL2VwLTE2Ni1odW50aW5nLXdpdGgtdGVldGg="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/zdcghnh7o6z983/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9zdGV2ZW5yaW5lbGxhLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/xqsph6hzn2m8le/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9qYW5pc19wdXRlbGlzLz9obD1lbg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/kpamh6he8wpg36/aHR0cHM6Ly90d2l0dGVyLmNvbS9Qd2Rya2VnL3N0YXR1cy8xMTYyMzQ1NDg0NDczNjU5Mzky"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“To be prepared against surprise is to be trained. To be prepared for surprise is to be educated.” ― James P. Carse, Finite and Infinite Games: A Vision of Life as Play and Possibility",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/2nb2hohg79xred/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSmFtZXNfUC5fQ2Fyc2U=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/2nb2hohg79xred/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSmFtZXNfUC5fQ2Fyc2U="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4umex4xq5uvh3zldxco/g9hnh5hne927kx/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9GaW5pdGUtSW5maW5pdGUtR2FtZXMtSmFtZXMtQ2Fyc2UvZHAvMTQ3NjczMTcxMw=="
+        }
+      ]
+    }
+  ]
 }

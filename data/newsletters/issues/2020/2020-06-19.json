@@ -1,13 +1,129 @@
 {
   "schema_version": 1,
   "issue_date": "2020-06-19",
-  "subject": "5-Bullet Friday — June 19, 2020 ",
+  "subject": "5-Bullet Friday — June 19, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m exploring —",
+      "category": "other",
+      "title": "This Enlightening Map Shows the Literal Meaning of Every Country’s Name",
+      "creator": null,
+      "note": "I discovered this in my personalized weekly e-mail from [Mix](https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/wnh2hgho247l09/aHR0cHM6Ly9taXguY29tLw==). Did you know that Zimbabwe means “Stone Enclosure”? Or that Latvia means “Forest Clearer”? I’m obsessed with language learning (for more on that, [see these articles](https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/reh8hoh5l7do62/aHR0cHM6Ly90aW0uYmxvZy9jYXRlZ29yeS9sYW5ndWFnZS8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm)), and this perfectly scratched the itch.",
+      "original_url": "https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/48hvheh2d9l74o/aHR0cHM6Ly90aGVjdWx0dXJldHJpcC5jb20vZXVyb3BlL2FydGljbGVzL3RoaXMtZW5saWdodGVuaW5nLW1hcC1zaG93cy10aGUtbGl0ZXJhbC1tZWFuaW5nLW9mLWV2ZXJ5LWNvdW50cnlzLW5hbWUv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/48hvheh2d9l74o/aHR0cHM6Ly90aGVjdWx0dXJldHJpcC5jb20vZXVyb3BlL2FydGljbGVzL3RoaXMtZW5saWdodGVuaW5nLW1hcC1zaG93cy10aGUtbGl0ZXJhbC1tZWFuaW5nLW9mLWV2ZXJ5LWNvdW50cnlzLW5hbWUv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/wnh2hgho247l09/aHR0cHM6Ly9taXguY29tLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/reh8hoh5l7do62/aHR0cHM6Ly90aW0uYmxvZy9jYXRlZ29yeS9sYW5ndWFnZS8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Colors",
+      "creator": null,
+      "note": "from [Radiolab](https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/08hwh9h76xepl9/aHR0cHM6Ly93d3cud255Y3N0dWRpb3Mub3JnL3BvZGNhc3RzL3JhZGlvbGFiL2VwaXNvZGVzLzIxMTExOS1jb2xvcnM=). This was referred to me by my friend, MN, who knows how much I think about the extreme malleability of perception and, therefore, reality. Here’s the description: “To what extent is color a physical thing in the physical world, and to what extent is it created in our minds? We start with Sir Isaac Newton, who was so eager to solve this very mystery, he stuck a knife in his eye to pinpoint the answer. Then, we meet a sea creature that sees a rainbow way beyond anything humans can experience, and we track down a woman who we’re pretty sure can see thousands (maybe even millions) more colors than the rest of us. And we end with an age-old question, that, it turns out, never even occurred to most humans until very recently….”",
+      "original_url": "https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/08hwh9h76xepl9/aHR0cHM6Ly93d3cud255Y3N0dWRpb3Mub3JnL3BvZGNhc3RzL3JhZGlvbGFiL2VwaXNvZGVzLzIxMTExOS1jb2xvcnM=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/08hwh9h76xepl9/aHR0cHM6Ly93d3cud255Y3N0dWRpb3Mub3JnL3BvZGNhc3RzL3JhZGlvbGFiL2VwaXNvZGVzLzIxMTExOS1jb2xvcnM="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/08hwh9h76xepl9/aHR0cHM6Ly93d3cud255Y3N0dWRpb3Mub3JnL3BvZGNhc3RzL3JhZGlvbGFiL2VwaXNvZGVzLzIxMTExOS1jb2xvcnM="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Can MDMA help to treat addiction?",
+      "creator": null,
+      "note": ",”** a short interview with Dr. Ben Sessa of Imperial College, London. Here is one of my favorite portions:\n\n**\\[INTERVIEWER:\\]****Why then do psychedelics seem to do better in the treatment of addictions than conventional treatments?**\n\n**\\[DR. SESSA:\\]**Because underlying addiction, and many if not most chronic mental disorders, is rigidity. Stuck rigid mental narratives about self and the world, which arise early in life as a result of early experiences, in other words, the very core building blocks of our personality, which stay with us for life. The majority of mental health treatments, and certainly all the medicines we use, like SSRIs, don’t do anything to those narratives, they just paper over the cracks and treat the overlying symptoms. In my experience, psychedelics are the best new form of pharmacology that we’ve come across that has the potential to actually tackle those narratives and allows people to build them up in a new, more positive way.  \n  \n###\n\nInterested in learning more on this subject? Be sure to [see this](https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/l2hehmhkm42dxz/aHR0cHM6Ly90aW0uYmxvZy8yMDIwLzA2LzExL3JpY2stZG9ibGluLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=).",
+      "original_url": "https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/vqh3hrhk940qw3/aHR0cHM6Ly9pY3ByMjAyMC5uZXQvaG93LWJlbi1zZXNzYS11c2VzLW1kbWEtaW4tdGhlLXRyZWF0bWVudC1vZi1hbGNvaG9saXNtLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/vqh3hrhk940qw3/aHR0cHM6Ly9pY3ByMjAyMC5uZXQvaG93LWJlbi1zZXNzYS11c2VzLW1kbWEtaW4tdGhlLXRyZWF0bWVudC1vZi1hbGNvaG9saXNtLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/l2hehmhkm42dxz/aHR0cHM6Ly90aW0uYmxvZy8yMDIwLzA2LzExL3JpY2stZG9ibGluLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Bebel Gilberto — Aganju",
+      "creator": null,
+      "note": "([YouTube](https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/m2h7h5hn695l4n/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1iRXJmLUNNQmdaRQ==), [Spotify](https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/e0hph7hn3evdr0/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3RyYWNrLzJ1TElnMTN5WjZQbXA2OWpvRjU4N24=)). From [Wikipedia](https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/owhkhqh8mn90qg/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQmViZWxfR2lsYmVydG8=): “Isabel Gilberto de Oliveira (born May 12, 1966), known as Bebel Gilberto ([@bebelgilberto](https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/z2hghnhd276mlw/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9iZWJlbGdpbGJlcnRvLw==)), is a Brazilian-American popular singer often associated with bossa nova.”",
+      "original_url": "https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/m2h7h5hn695l4n/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1iRXJmLUNNQmdaRQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/m2h7h5hn695l4n/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1iRXJmLUNNQmdaRQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/m2h7h5hn695l4n/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1iRXJmLUNNQmdaRQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/e0hph7hn3evdr0/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3RyYWNrLzJ1TElnMTN5WjZQbXA2OWpvRjU4N24="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/owhkhqh8mn90qg/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQmViZWxfR2lsYmVydG8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/z2hghnhd276mlw/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9iZWJlbGdpbGJlcnRvLw=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Poem I’m reading and rereading —",
+      "category": "article",
+      "title": "Fragile",
+      "creator": "Nic Askew We are fragile",
+      "note": "by** [**Nic Askew  \n  \n**](https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/x0hph6h7vz24qk/aHR0cHM6Ly9uaWNhc2tldy5jb20vYWJvdXQv)**We are fragile. You and me.  \n  \n****Though we act strong,  \n****our lives are  \n****held together with  \n****thoughts of where  \n****we might be tomorrow.  \n****And of disappointed  \n****yesterdays.  \n  \n****At any moment we might shatter.  \n****We might fall to our knees  \n****weighed down by the terror  \n****of being so far from  \n****our own control.  \n  \n****Dare we look up, we’d not know  \n****where to go or what to do.  \n  \n****We are fragile. You and me.  \n  \n****If we were to turn to each other,  \n****we might see the whole world  \n****on their knees.  \n****Hurting, and seemingly  \n****alone.  \n  \n****But none of us are.  \n  \n****We are fragile together.  \n**  \n(Special thanks to KJ for sending this to me.)  \n  \n\\---  \n  \nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just [send a tweet to @tferriss](https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/6qheh8h28wr39z/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==) and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all!  \n  \nTim",
+      "original_url": "https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/p8heh9h7wd6pq8/aHR0cHM6Ly9uaWNhc2tldy5jb20vYmxvZy9mcmFnaWxlLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/p8heh9h7wd6pq8/aHR0cHM6Ly9uaWNhc2tldy5jb20vYmxvZy9mcmFnaWxlLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/x0hph6h7vz24qk/aHR0cHM6Ly9uaWNhc2tldy5jb20vYWJvdXQv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9h820qril/6qheh8h28wr39z/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    }
+  ]
 }

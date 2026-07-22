@@ -6,7 +6,143 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "New toy that turns any walk into an adventure",
+      "category": "other",
+      "title": "Pan Slings",
+      "creator": null,
+      "note": "Huge thanks to [Kelly Starrett](https://tim.blog/2023/03/30/kelly-starrett/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit) for the introduction to… Biblical Tactical! If a sling was good enough for David versus Goliath, it’s definitely more than enough to sex up your outdoor time. I enjoy this 10x more than I expected, and the sling is small enough to roll up and carry in a pocket.",
+      "original_url": "https://panslings.com/pages/how-to-videos",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://panslings.com/pages/how-to-videos"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/03/30/kelly-starrett/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Strange study I’m reading",
+      "category": "article",
+      "title": "Decreased PTSD symptoms following a lucid dreaming workshop: A randomized controlled study",
+      "creator": null,
+      "note": "Description: “A pilot study showed significant PTSD symptom reduction among participants following an online lucid dreaming workshop. The workshop, spanning 22 hours over six consecutive days, taught participants lucid dreaming induction techniques and how to use lucid dreaming to transform their nightmares and integrate their trauma.” I’ll be digging back into this world soon. For an introduction to lucid dreaming, check out my blog post titled “[Lucid Dreaming: A Beginner's Guide](https://tim.blog/2009/09/21/how-to-lucid-dream/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit).”",
+      "original_url": "https://www.sciencedirect.com/science/article/pii/S2468749925000122",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2468749925000122"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2009/09/21/how-to-lucid-dream/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "TV series I’m loving",
+      "category": "video",
+      "title": "MobLand",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/gp/video/detail/B0F25KJG4D/), [Paramount+](https://www.paramountplus.com/shows/mobland/)). This is my favorite series in quite a while. From the description: “Power is up for grabs as the Harrigans and Stevensons, two warring London crime families, clash in a kill-or-be-killed battle that threatens to topple empires and ruin lives. Caught in the crossfire is Harry Da Souza, a street-smart fixer as dangerous as he is handsome, who knows all too well where loyalties lie when opposing forces collide. As kingdom goes up against kingdom, lines will be crossed—and the only saving grace is a bet-your-life guarantee: family above everything.”  \n​  \nThe series was created by [Ronan Bennett](https://en.wikipedia.org/wiki/Ronan_Bennett) (_Top Boy_, _The Day of the Jackal_), and features brilliant performances from [Tom Hardy](https://en.wikipedia.org/wiki/Tom_Hardy), [Pierce Brosnan](https://en.wikipedia.org/wiki/Pierce_Brosnan), [Helen Mirren](https://en.wikipedia.org/wiki/Helen_Mirren), and many others. Two of my favorite episodes were directed by [Guy Ritchie](https://en.wikipedia.org/wiki/Guy_Ritchie) (_Snatch_; _Sherlock Holmes_; _Lock, Stock and Two Smoking Barrels_). Watch the trailer [here](https://www.youtube.com/watch?v=qKGgw7Ob5f4).",
+      "original_url": "https://www.amazon.com/gp/video/detail/B0F25KJG4D/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/gp/video/detail/B0F25KJG4D/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/gp/video/detail/B0F25KJG4D/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.paramountplus.com/shows/mobland/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Ronan_Bennett"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Tom_Hardy"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Pierce_Brosnan"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Helen_Mirren"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Guy_Ritchie"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=qKGgw7Ob5f4"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Mental model I’m using again",
+      "category": "other",
+      "title": "The 4-Hour Workweek",
+      "creator": null,
+      "note": ", which is effectively 25% of the book. Here’s the basic heuristic, courtesy of [Nassim Taleb](https://www.youtube.com/watch?v=18ZxCxN2ZMo): “In action, it is a recipe for what to avoid, what not to do—subtraction, not addition.” (Worthwhile short read: “[Via Negativa: The Process of Making Good Decisions By Eliminating Bad Ones](https://coffeeandjunk.com/via-negativa/).”)",
+      "original_url": "https://www.amazon.com/4-Hour-Workweek-Anywhere-Expanded-Updated/dp/B0031KN6T8/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/4-Hour-Workweek-Anywhere-Expanded-Updated/dp/B0031KN6T8/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=18ZxCxN2ZMo"
+        },
+        {
+          "type": "other",
+          "url": "https://coffeeandjunk.com/via-negativa/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Book I’m revisiting for examples of simplicity",
+      "category": "book",
+      "title": "Genghis Khan and the Making of the Modern World",
+      "creator": "Jack Weatherford * * * You can complement this edition of 5-Bullet Friday with my brand-new conversa",
+      "note": "​\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [my brand-new conversation with Dr. Kevin Tracey](https://tim.blog/2025/08/27/kevin-tracey-vagus-nerve/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit) on vagus-nerve stimulation. This is what I’ve been researching most for the past two months. For some of you, these interventions could be life-changing, and that’s no exaggeration.  \n​  \nAnd, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
+      "original_url": "https://www.amazon.com/Genghis-Khan-Making-Modern-World/dp/B0038NLWQ2/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Genghis-Khan-Making-Modern-World/dp/B0038NLWQ2/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Jack_Weatherford"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/08/27/kevin-tracey-vagus-nerve/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

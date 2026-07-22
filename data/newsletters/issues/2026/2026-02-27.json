@@ -7,7 +7,123 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short video I’m watching",
+      "category": "video",
+      "title": "Exercise Scientist Critiques the Most Jacked 79-Year-Old (Robby Robinson)",
+      "creator": null,
+      "note": "](https://www.youtube.com/watch?v=W8cj1VJAXfE)**.”** I must admit, [Mike Israetel](https://rpstrength.com/pages/team/michael-israetel) is hilarious. Don’t discount him because of neck circumference. I’ve been quietly watching his videos over the last few months, and this Robby Robinson analysis showcases a lot of the reasons why.",
+      "original_url": "https://www.youtube.com/watch?v=W8cj1VJAXfE",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=W8cj1VJAXfE"
+        },
+        {
+          "type": "other",
+          "url": "https://rpstrength.com/pages/team/michael-israetel"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "John Connor prep that I’m doing",
+      "category": "other",
+      "title": "My lobster lost $450,000 this weekend",
+      "creator": null,
+      "note": "​  \n​**“​​**[**Man accidentally gains control of 7,000 robot vacuums**](https://www.popsci.com/technology/robot-vacuum-army/)**.”** (_Popular Science_). (Original coverage: “[The DJI Romo robovac had security so poor, this man remotely accessed thousands of them](https://www.theverge.com/tech/879088/dji-romo-hack-vulnerability-remote-control-camera-access-mqtt)” for _The Verge_)_._",
+      "original_url": "https://pashpashpash.substack.com/p/my-lobster-lost-450000-this-weekend",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://pashpashpash.substack.com/p/my-lobster-lost-450000-this-weekend"
+        },
+        {
+          "type": "other",
+          "url": "https://www.popsci.com/technology/robot-vacuum-army/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.theverge.com/tech/879088/dji-romo-hack-vulnerability-remote-control-camera-access-mqtt"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Scientific study I’m reading",
+      "category": "article",
+      "title": "read post here",
+      "creator": null,
+      "note": "​  \nAs always, assume there is never a biological free lunch ([read post here](https://tim.blog/2024/02/02/no-biological-free-lunches/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit)) and consider cycling off of your non-critical supplements periodically. All that said, speak to your doctor before changing any medications. Be safe out there!",
+      "original_url": "https://tim.blog/2024/02/02/no-biological-free-lunches/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2024/02/02/no-biological-free-lunches/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "X thread I’m reading",
+      "category": "article",
+      "title": "Going Founder Mode On Cancer",
+      "creator": null,
+      "note": "After surgery, radiation, and brutal chemo failed to stop his cancer’s recurrence, co-founder of GitLab [Sid Sijbrandij](https://x.com/sytses?lang=en) did what he knew best. In Silicon Valley’s parlance, he went “[founder mode](https://paulgraham.com/foundermode.html),” the term coined by [Paul Graham](https://www.paulgraham.com/) to describe entrepreneurs who go deep and fully hands-on into a problem. Sid assembled a team, built a system of maximal diagnostics using cutting-edge, single-cell sequencing, and pursued 10+ experimental therapies in parallel, which included a radioligand treatment in Germany that most patients would never find. His cancer is now undetectable.",
+      "original_url": "https://x.com/ElliotHershberg/status/2013340731965120952",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://x.com/ElliotHershberg/status/2013340731965120952"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/sytses?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://paulgraham.com/foundermode.html"
+        },
+        {
+          "type": "other",
+          "url": "https://www.paulgraham.com/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Passage I’m pondering",
+      "category": "other",
+      "title": "How to Stop Worrying and Start Living",
+      "creator": "Dale Carnegie",
+      "note": "([Click to here to share on X](https://ctt.ec/i93XY).)\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [my brand-new podcast episode](https://tim.blog/2026/02/24/tim-ferriss-how-to-quiet-the-ruminative-mind/%20?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit), in which I am in the hot seat and Dan Harris is the interviewer.  \n​  \nAnd, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
+      "original_url": "https://www.amazon.com/How-Stop-Worrying-Start-Living/dp/0671035975/?tag=offsitoftimfe-20",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/How-Stop-Worrying-Start-Living/dp/0671035975/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Dale_Carnegie"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/i93XY"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/02/24/tim-ferriss-how-to-quiet-the-ruminative-mind/%20?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -1,12 +1,128 @@
 {
   "schema_version": 1,
   "issue_date": "2020-05-01",
-  "subject": "5-Bullet Friday — May 1, 2020 ",
+  "subject": "5-Bullet Friday — May 1, 2020",
   "sources": [
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Book I’m revisiting —",
+      "category": "book",
+      "title": "Siddhartha",
+      "creator": "Herman Hesse",
+      "note": "** This is one of the books most frequently recommended by podcast guests. Long ago, [Naval Ravikant](https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/q6f8h7h6gg4l6d/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzA4LzE4L3RoZS1ldm9sdXRpb25hcnktYW5nZWwtbmF2YWwtcmF2aWthbnQvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg==) ([@naval](https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/33tphkhd662kdz/aHR0cHM6Ly90d2l0dGVyLmNvbS9uYXZhbA==)) highlighted for me the protagonist Siddhartha’s response to “What can you give?” His simple answer is “I can think, I can wait, I can fast.” There’s much more to his response ([search “Kamala” here for a good excerpt](https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/4mcvheh2zzp72k/aHR0cHM6Ly90aW0uYmxvZy8yMDE2LzEwLzI1L3Rvb2xzLW9mLXRpdGFucy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm)), and I think about it often. Skip the Amazon description, as it gives away too much plot, but consider reading or rereading this short gem. If you’d prefer an even shorter read, try this: [Can We All Be Like Texas?](https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/r4s8hoh5993o5k/aHR0cHM6Ly9yZWFzb25zdG9iZWNoZWVyZnVsLndvcmxkL3RleGFzLXdpbmQtcG93ZXItcmVuZXdhYmxlLWVuZXJneS8=) by David Byrne ([@DBtodomundo](https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/82aqhoh5ee275z/aHR0cHM6Ly90d2l0dGVyLmNvbS9kYnRvZG9tdW5kbw==)).",
+      "original_url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/5pivh7h9ppn49m/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TaWRkaGFydGhhLU5vdmVsLUhlcm1hbm4tSGVzc2UvZHAvMDU1MzIwODg0NQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/5pivh7h9ppn49m/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TaWRkaGFydGhhLU5vdmVsLUhlcm1hbm4tSGVzc2UvZHAvMDU1MzIwODg0NQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/q6f8h7h6gg4l6d/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzA4LzE4L3RoZS1ldm9sdXRpb25hcnktYW5nZWwtbmF2YWwtcmF2aWthbnQvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/33tphkhd662kdz/aHR0cHM6Ly90d2l0dGVyLmNvbS9uYXZhbA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/4mcvheh2zzp72k/aHR0cHM6Ly90aW0uYmxvZy8yMDE2LzEwLzI1L3Rvb2xzLW9mLXRpdGFucy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/r4s8hoh5993o5k/aHR0cHM6Ly9yZWFzb25zdG9iZWNoZWVyZnVsLndvcmxkL3RleGFzLXdpbmQtcG93ZXItcmVuZXdhYmxlLWVuZXJneS8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/82aqhoh5ee275z/aHR0cHM6Ly90d2l0dGVyLmNvbS9kYnRvZG9tdW5kbw=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "How Strange (Nicola Cruz Remix) by Feathered Sun",
+      "creator": "Feathered Sun]",
+      "note": "fourhourmail.com/c/0vukl0mnnu9hz234oco/lqbehmhk55ndk2/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1tRVhLTFotY0NWWQ==) ([@featheredsun.de](https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/edhph7hn99ldng/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9mZWF0aGVyZWRzdW4uZGUv)).",
+      "original_url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/lqbehmhk55ndk2/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1tRVhLTFotY0NWWQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/lqbehmhk55ndk2/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1tRVhLTFotY0NWWQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/edhph7hn99ldng/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9mZWF0aGVyZWRzdW4uZGUv"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Mental model I’m using again to set new policies and rules for 2020 —",
+      "category": "other",
+      "title": "Adding to Your Life by Subtracting",
+      "creator": null,
+      "note": "\\[Art of Manliness\\].) Also related: “[Finding the One Decision That Removes 100 Decisions (or, Why I’m Reading No New Books in 2020)](https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/6eieh8h2vv5323/aHR0cHM6Ly90aW0uYmxvZy8yMDIwLzAxLzIwL29uZS1kZWNpc2lvbi10aGF0LXJlbW92ZXMtMTAwLWRlY2lzaW9ucy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm).”",
+      "original_url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/zgughnhd99kmdq/aHR0cHM6Ly93d3cuYXJ0b2ZtYW5saW5lc3MuY29tL2FydGljbGVzL3ZpYS1uZWdhdGl2YS1hZGRpbmctdG8teW91ci1saWZlLWJ5LXN1YnRyYWN0aW5nLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/zgughnhd99kmdq/aHR0cHM6Ly93d3cuYXJ0b2ZtYW5saW5lc3MuY29tL2FydGljbGVzL3ZpYS1uZWdhdGl2YS1hZGRpbmctdG8teW91ci1saWZlLWJ5LXN1YnRyYWN0aW5nLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/6eieh8h2vv5323/aHR0cHM6Ly90aW0uYmxvZy8yMDIwLzAxLzIwL29uZS1kZWNpc2lvbi10aGF0LXJlbW92ZXMtMTAwLWRlY2lzaW9ucy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Person I’m learning more about —",
+      "category": "other",
+      "title": "Betty Eisner",
+      "creator": null,
+      "note": "This woman is amazing, and this isn’t my first time reading up on her. I’m revisiting because of my re-engagement with a few scientific projects. To give an example of how these connect, Betty appears to be one of the originators of using “dyads” (simultaneous male and female therapists) during hallucinogen administration, a format that is currently being used to great effect in [the treatment of PTSD using MDMA-assisted psychotherapy](https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/93tzhnh2kk6egq/aHR0cHM6Ly9tYXBzLm9yZy8=). Here’s more on her wide-ranging CV, adapted from Wikipedia: Betty was an American psychologist known for pioneering the use of LSD and other psychedelic drugs as adjuncts to psychotherapy. She conducted early research into the use of LSD to treat alcoholism and maintained an active interest in hallucinogens throughout her career. Eisner was a therapist for Bill Wilson, co-founder of Alcoholics Anonymous, when he tried LSD. In addition to using hallucinogens like LSD and mescaline in psychedelic therapy, Eisner also gave stimulants, such as methylphenidate and the inhaled gas mixture carbogen, to her patients. (For those interested in current research into how compounds like psilocybin can be applied to alcoholism, I highly recommend looking at the [work being done at NYU](https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/nrcohvhowwxlnx/aHR0cHM6Ly93d3cubWVkc2NhcGUuY29tL3ZpZXdhcnRpY2xlLzkxMzQyMg==).)",
+      "original_url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/2pf2hohorr8qo5/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQmV0dHlfRWlzbmVy",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/2pf2hohorr8qo5/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQmV0dHlfRWlzbmVy"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/93tzhnh2kk6egq/aHR0cHM6Ly9tYXBzLm9yZy8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/nrcohvhowwxlnx/aHR0cHM6Ly93d3cubWVkc2NhcGUuY29tL3ZpZXdhcnRpY2xlLzkxMzQyMg=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Perhaps the feelings that we experience when we are in love represent a normal state. Being in love shows a person who he should be.”— Anton Chekhov And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim",
+      "creator": "Anton Chekhov And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/w2s2hgho99klr4/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQW50b25fQ2hla2hvdg==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/w2s2hgho99klr4/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQW50b25fQ2hla2hvdg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/0vukl0mnnu9hz234oco/02awh9h7009pmw/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    }
+  ]
 }

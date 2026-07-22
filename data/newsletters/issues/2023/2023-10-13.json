@@ -6,7 +6,127 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to and watching",
+      "category": "video",
+      "title": "Playing God, Unplugged",
+      "creator": null,
+      "note": "Guitarist [Tim Henson](https://www.youtube.com/@TimHensonW6RST/featured) of [Polyphia](https://en.wikipedia.org/wiki/Polyphia) is a different species.",
+      "original_url": "https://www.youtube.com/watch?v=DSBBEDAGOTc",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=DSBBEDAGOTc"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/@TimHensonW6RST/featured"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Polyphia"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Fight I’m studying",
+      "category": "other",
+      "title": "Rodtang vs. Superlek",
+      "creator": null,
+      "note": "Billed as “the biggest Thai boxing fight of all time,” this short fight showcases many weapons of Muay Thai, including the sharpest: elbows. The art of eight limbs is the fullest of full-contact, especially with MMA gloves. I think the outcome was a robbery, but there’s no denying the action.",
+      "original_url": "https://www.youtube.com/watch?v=xZtadif15WU",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=xZtadif15WU"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Podcast I’m watching",
+      "category": "video",
+      "title": "Mark Zuckerberg: First Interview in the Metaverse",
+      "creator": null,
+      "note": "on [_The Lex Fridman Podcast_](https://lexfridman.com/podcast/). Even if you only watch the first five minutes, this is well worth the time. These next-gen, photo-realistic avatars and their motion tracking are truly jaw-dropping. The tech, and lag, are improving in leaps and bounds, and the future is going to get very weird very quickly.",
+      "original_url": "https://www.youtube.com/watch?v=MVYrJJNdrEg",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=MVYrJJNdrEg"
+        },
+        {
+          "type": "other",
+          "url": "https://lexfridman.com/podcast/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m using daily",
+      "category": "other",
+      "title": "The Five Minute Journal",
+      "creator": null,
+      "note": "([Intelligent Change](https://www.intelligentchange.com/products/the-five-minute-journal), [Amazon](https://www.amazon.com/Intelligent-Change-Mindfulness-Reflection-Affirmations/dp/0991846206/?th=1)). I use two types of journaling and alternate between them: [Morning Pages](https://tim.blog/2015/01/15/morning-pages/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) and The Five Minute Journal. The former I use primarily for getting unstuck or problem-solving (what should I do?); the latter I use for prioritizing and gratitude (how should I focus and execute?). The only thing I dislike about The Five Minute Journal? Their lack of hyphenation.",
+      "original_url": "https://www.amazon.com/Intelligent-Change-Mindfulness-Reflection-Affirmations/dp/0991846206/?th=1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Intelligent-Change-Mindfulness-Reflection-Affirmations/dp/0991846206/?th=1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.intelligentchange.com/products/the-five-minute-journal"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Intelligent-Change-Mindfulness-Reflection-Affirmations/dp/0991846206/?th=1"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/01/15/morning-pages/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“A mind all logic is like a knife all blade. It makes the hand bleed that uses it.” — Rabindranath Tagore (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my video on how I journal and take notes, my conversation with Mark Zuckerberg, and my interview with UFC Hall of Famer Bas Rutten. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Rabindranath Tagore",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Rabindranath_Tagore",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Rabindranath_Tagore"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/BNnlf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=UFdR8w_R1HA"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/03/24/mark-zuckerberg/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/09/15/bas-rutten/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

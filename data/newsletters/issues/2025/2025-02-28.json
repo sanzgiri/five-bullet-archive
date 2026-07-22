@@ -6,7 +6,158 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Song I’m listening to for winding down",
+      "category": "music",
+      "title": "Loumo",
+      "creator": "Ba Cissoko",
+      "note": "([YouTube](https://youtu.be/C3olcG7sbbs?si=6gqKxdY5vK7cH4ps), [Apple Music](https://music.apple.com/mx/song/loumo-feat-ibrahima-kourou-abdoulaye-kouyate-alhassane/492263279), [Spotify](https://open.spotify.com/track/7Le6TaUBt764WAjCCHpP1Z)).",
+      "original_url": "https://youtu.be/C3olcG7sbbs?si=6gqKxdY5vK7cH4ps",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/C3olcG7sbbs?si=6gqKxdY5vK7cH4ps"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Ba_Cissoko"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/C3olcG7sbbs?si=6gqKxdY5vK7cH4ps"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/mx/song/loumo-feat-ibrahima-kourou-abdoulaye-kouyate-alhassane/492263279"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/7Le6TaUBt764WAjCCHpP1Z"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m excited to share",
+      "category": "other",
+      "title": "A new chapter from my upcoming book, THE NO BOOK",
+      "creator": null,
+      "note": "!** Here is the latest chapter of THE NO BOOK, which I am writing with Neil Strauss. It’s still a work in progress, but it’s getting there. Please leave your thoughts, suggestions, results, etc. in the blog comments!  \n​  \nIf you missed the first two chapters, introductions from both me and Neil, [you can find them here](https://tim.blog/2025/01/13/the-no-book/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content).",
+      "original_url": "https://tim.blog/2025/02/28/step-2-big-rocks-the-nothing/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2025/02/28/step-2-big-rocks-the-nothing/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/01/13/the-no-book/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "How I’m choosing peace of mind over productivity",
+      "category": "other",
+      "title": "For Less Anxiety and More Life, Treat Your To-Do List Like a Diner Menu",
+      "creator": "Oliver Burkeman",
+      "note": ".",
+      "original_url": "https://tim.blog/2025/02/20/for-less-anxiety-and-more-life-treat-your-to-do-list-like-a-diner-menu/%20?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2025/02/20/for-less-anxiety-and-more-life-treat-your-to-do-list-like-a-diner-menu/%20?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/02/20/for-less-anxiety-and-more-life-treat-your-to-do-list-like-a-diner-menu/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Tool I’m using",
+      "category": "other",
+      "title": "TheTrueSize.com",
+      "creator": null,
+      "note": "This is mind-blowing. Try taking the United States, or your own country, and moving it around, especially towards the poles. Play with it for a minute and you’ll get it. From the description: “Every map projection introduces distortion, and each has its own set of problems. One of the most common criticisms of the [Mercator map](http://en.wikipedia.org/wiki/Mercator_projection) is that it exaggerates the size of countries nearer the poles (US, Russia, Europe), while downplaying the size of those near the equator (the African Continent). … This app was created by [James Talmage](https://twitter.com/jamestalmage) and [Damon Maneice](https://twitter.com/damaneice). It was inspired by an episode of [_The West Wing_](https://youtu.be/eLqC3FNNOaI) and an infographic by Kai Krause entitled ‘[The True Size of Africa](http://kai.sub.blue/images/True-Size-of-Africa-kk-v3.pdf).’ We hope teachers will use it to show their students just how big the world actually is.”",
+      "original_url": "http://thetruesize.com",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://thetruesize.com"
+        },
+        {
+          "type": "other",
+          "url": "http://en.wikipedia.org/wiki/Mercator_projection"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/jamestalmage"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/damaneice"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/eLqC3FNNOaI"
+        },
+        {
+          "type": "other",
+          "url": "http://kai.sub.blue/images/True-Size-of-Africa-kk-v3.pdf"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Podcast episode I’m revisiting",
+      "category": "podcast",
+      "title": "My 2018 interview with George Raveling",
+      "creator": null,
+      "note": "If you missed my first interview with legendary coach George Raveling, it’s one of the podcast’s greatest hits, according to listeners. We covered a lot, including how he came to possess the original copy of Dr. Martin Luther King Jr.’s “I Have a Dream” speech, how his practice team ended up beating the 1984 US Olympic Dream Team in basketball, his pivotal role in getting Michael Jordan signed to Nike (instead of Adidas), and much more. Also, huge congratulations to George on his new book (with a Michael Jordan preface!): [_What You’re Made For: Powerful Life Lessons from My Career in Sports_.](https://www.amazon.com/What-Youre-Made-Powerful-Lessons/dp/0593852974/) ​",
+      "original_url": "https://tim.blog/2018/08/09/george-raveling/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2018/08/09/george-raveling/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/What-Youre-Made-Powerful-Lessons/dp/0593852974/"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Passages I’m pondering",
+      "category": "other",
+      "title": "David Whyte",
+      "creator": null,
+      "note": ", [_Consolations II_](https://www.amazon.com/Consolations-II-Nourishment-Underlying-Everyday/dp/1932887598/)​\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [my brand-new podcast interview](https://tim.blog/2025/02/26/dr-keith-baar/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) with Dr. Keith Baar of UC Davis. Want to extend healthspan? If you have tendon or ligament pain, soreness, or weakness, this episode is for you. Dr. Baar's protocols be applied to daily living, high-level sports, and everything in between. If you're only focused on muscles or lungs, you're missing a big piece of the puzzle.  \n​  \nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
+      "original_url": "https://tim.blog/2024/12/05/david-whyte/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2024/12/05/david-whyte/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Consolations-II-Nourishment-Underlying-Everyday/dp/1932887598/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/02/26/dr-keith-baar/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

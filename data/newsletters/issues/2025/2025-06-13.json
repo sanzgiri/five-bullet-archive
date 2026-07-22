@@ -6,7 +6,127 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Thread I’m reading and bookmarking",
+      "category": "book",
+      "title": "How to be more emotionally intelligent (without trying so hard)",
+      "creator": null,
+      "note": "](https://x.com/FU_joehudson/status/1870954535801540736)**”** by [Joe Hudson](https://www.artofaccomplishment.com/about). Joe Hudson has coached top leaders at OpenAI, Alphabet, Apple, and more. He has worked with everyone [from Sam Altman](https://x.com/FU_joehudson/status/1902768469185269887) to [Ev Williams](https://www.artofaccomplishment.com/about). Numbers 4, 7, 8, and 9 are a few of the many that struck a chord with me.",
+      "original_url": "https://x.com/FU_joehudson/status/1870954535801540736",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://x.com/FU_joehudson/status/1870954535801540736"
+        },
+        {
+          "type": "other",
+          "url": "https://www.artofaccomplishment.com/about"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/FU_joehudson/status/1902768469185269887"
+        },
+        {
+          "type": "other",
+          "url": "https://www.artofaccomplishment.com/about"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Tech trick I found useful",
+      "category": "other",
+      "title": "Resetting your cellular data stats on an iPhone",
+      "creator": null,
+      "note": "I was consuming mobile data at an unusually high rate (e.g., “You have 10% remaining for the next 10 days”), and I followed these steps to figure out what the hell was gobbling it up. Step one is resetting your cellular data stats to zero, which most of us did years ago, if ever: “To reset these statistics, go to **Settings > Cellular**, scroll to the bottom, then tap **Reset Statistics**.” Within a few hours, I knew who the offenders were and could minimize overages.",
+      "original_url": "https://support.apple.com/en-ca/guide/iphone/iph3dd5f213/ios#:~:text=To%20reset%20these%20statistics%2C%20go,bottom%2C%20then%20tap%20Reset%20Statistics.",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://support.apple.com/en-ca/guide/iphone/iph3dd5f213/ios#:~:text=To%20reset%20these%20statistics%2C%20go,bottom%2C%20then%20tap%20Reset%20Statistics."
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m enjoying in the morning",
+      "category": "other",
+      "title": "Vashon Island Coffee Dust",
+      "creator": null,
+      "note": "One of the simplest ways to reduce glucose/insulin spikes and improve health (and lose more fat) is to change how you drink your daily coffee. A lot of readers of [_The 4-Hour Body_](https://www.amazon.com/Hour-Body-Uncommon-Incredible-Superhuman/dp/030746363X/) have thanked me for the tip to use cinnamon and/or vanilla extract instead of their usual milk and sugar. Achtung! Some artificial sweeteners (sucralose, saccharin, acesulfame-K, etc.) can trigger insulin release through taste receptors or metabolic pathways, even in the absence of carbohydrates.**  \n​  \n​**Now, cinnamon is great, but it can lose its novelty. That’s where Vashon Coffee Dust comes in: “The Coffee Dust Flavor Expedition Kit is your all-access pass to the magical world of coffee flavoring—with zero sweeteners, preservatives, or nonsense. Inside, you’ll find 72 servings of flavor-packed goodness across all six of our fabulous blends, plus a perfectly sized spoon because you deserve precision when sprinkling joy into your coffee.” I particularly love the Healthful (cinnamon, turmeric, ginger, nutmeg, cardamom, black pepper, sea salt) and Hot Momma (Ghirardelli cocoa, cayenne, cinnamon, sea salt), but they’re all delicious.",
+      "original_url": "https://www.vashoncoffeedust.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.vashoncoffeedust.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Hour-Body-Uncommon-Incredible-Superhuman/dp/030746363X/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Eye rejuvenation I’m exploring",
+      "category": "other",
+      "title": "X",
+      "creator": null,
+      "note": ", [Instagram](https://www.instagram.com/p/DKhypQ9Part/), [Facebook](https://www.facebook.com/TimFerriss/posts/pfbid0ibUvCDB7UReWexmSAfEhBmug7xhTJwoEPKE8YjZtGdMBsPxNtBdej2rVB9ijjGyil?__cft__%5B0%5D=AZUvPPEnQgMTy9j75fPgPhVMCMYnnLX9jyKUkUfWTGQ4yqxrbSj80cK_wk0RNYD3zKz6jwl525BXEG0i3QoBrd89LIFK7mDOPffxEKTo9SskOHHU8l15qtUw9IRA66oVAJ6nF7ISdE1v7vAle6rD57182AGA6s45E6Edf1NMZgEjRQ&__tn__=%2CO%2CP-R-R), and [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7337931083260313600/) whether you have found any treatments (exercises, eye drops like pilocarpine, surgeries, others) to be worth the investment and risk profile. Thank you to everyone who offered tips! There are a few overlapping recommendations in the responses and in the reading that one specialist sent me: “[The Present and Future of Mitochondrial-Based Therapeutics for Eye Disease](https://pmc.ncbi.nlm.nih.gov/articles/PMC8267180/).”",
+      "original_url": "https://x.com/tferriss/status/1930676554117644484",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://x.com/tferriss/status/1930676554117644484"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/DKhypQ9Part/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.facebook.com/TimFerriss/posts/pfbid0ibUvCDB7UReWexmSAfEhBmug7xhTJwoEPKE8YjZtGdMBsPxNtBdej2rVB9ijjGyil?__cft__%5B0%5D=AZUvPPEnQgMTy9j75fPgPhVMCMYnnLX9jyKUkUfWTGQ4yqxrbSj80cK_wk0RNYD3zKz6jwl525BXEG0i3QoBrd89LIFK7mDOPffxEKTo9SskOHHU8l15qtUw9IRA66oVAJ6nF7ISdE1v7vAle6rD57182AGA6s45E6Edf1NMZgEjRQ&__tn__=%2CO%2CP-R-R"
+        },
+        {
+          "type": "other",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7337931083260313600/"
+        },
+        {
+          "type": "other",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8267180/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The really important kind of freedom involves attention and awareness and discipline, and being able truly to care about other people and to sacrifice for them over and over in myriad petty, unsexy ways every day.” — David Foster Wallace, This is Water_ * * * You can complement this edition of 5-Bullet Friday with my brand-new podcast episode with deal master Chris Hutchins on helping me burn 15M+ miles and points. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "David Foster Wallace, This is Water_ * * * You can complement this edition of 5-Bullet Friday with my brand-new podcast episode with deal master Chris Hutchins on helping me burn 15M+ miles and points. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/David_Foster_Wallace",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/David_Foster_Wallace"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=DCbGM4mqEVw"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=3hCokqJPc08"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

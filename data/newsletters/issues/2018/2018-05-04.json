@@ -6,7 +6,124 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching and planning on rewatching —",
+      "category": "video",
+      "title": "“This is Water”",
+      "creator": null,
+      "note": "commencement speech by David Foster Wallace, which he gave at Kenyon College on May 21, 2005. It is [also available in book form](https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/opfkhq/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UaGlzLVdhdGVyLURlbGl2ZXJlZC1TaWduaWZpY2FudC1Db21wYXNzaW9uYXRlL2RwLzAzMTYwNjgyMjU=), but I highly recommend the audio. One of the most impressive humans I know listens to this every two weeks, which is how I first heard it.",
+      "original_url": "https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/78i7h8/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj04Q3JPTC15ZEZNSQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/78i7h8/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj04Q3JPTC15ZEZNSQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/opfkhq/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UaGlzLVdhdGVyLURlbGl2ZXJlZC1TaWduaWZpY2FudC1Db21wYXNzaW9uYXRlL2RwLzAzMTYwNjgyMjU="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "StickK bet",
+      "creator": null,
+      "note": "This is a detailed and really fun piece on how Donny lost 22 pounds eating mostly food from convenience stores…in Japan! His tips and strategies can be applied anywhere and in any restaurant, and the “Raising the Stakes” section is particularly ingenious ([StickK bet](https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/pnceh9/aHR0cHM6Ly93d3cuc3RpY2trLmNvbS8=), private Instagram account gambit, etc.). If you’re looking to get leaner and want to lose the excuses, this article is time well spent.",
+      "original_url": "https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/pnceh9/aHR0cHM6Ly93d3cuc3RpY2trLmNvbS8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/pnceh9/aHR0cHM6Ly93d3cuc3RpY2trLmNvbS8="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Music I’m enjoying (once again) —",
+      "category": "music",
+      "title": "Hybrid - Last Man Standing",
+      "creator": null,
+      "note": "Good for many things, including writing, email processing, anything repetitive, and journaling on big ideas. It’s like an exploratory soundtrack with a side dose of aural hypnotism and EDM.\n\n**Bizarre family activity that I’m happy to help spread —  \n[Egg boxing with Bo Boswell](https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/60aeh8/aHR0cHM6Ly90d2l0dGVyLmNvbS9Cb19Cb3N3ZWxsL3N0YXR1cy85ODkxNDI0OTAyNTQwNzM4NTY=).** This is an outgrowth of Dr. Peter Attia’s [introduction to egg boxing](https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/kmbmh6/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL0VnZ0JveGluZy92aWRlb3MvMTQwODkwMjE2OTE4NzA2NS8=), which might make sense to watch first. If you watch it, watch the entire thing for a full appreciation of Peter’s OCD. For his less ridiculous exploits, [this podcast](https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/52hvh7/aHR0cHM6Ly90aW0uYmxvZy8yMDE0LzEyLzE4L3BldGVyLWF0dGlhLw==) is a good start.",
+      "original_url": "https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/xksph6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj00U3FVWU9LWmdwVQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/xksph6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj00U3FVWU9LWmdwVQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/60aeh8/aHR0cHM6Ly90d2l0dGVyLmNvbS9Cb19Cb3N3ZWxsL3N0YXR1cy85ODkxNDI0OTAyNTQwNzM4NTY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/kmbmh6/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL0VnZ0JveGluZy92aWRlb3MvMTQwODkwMjE2OTE4NzA2NS8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/52hvh7/aHR0cHM6Ly90aW0uYmxvZy8yMDE0LzEyLzE4L3BldGVyLWF0dGlhLw=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Since the initial publication of the chart of the electromagnetic spectrum, humans have learned that what they can touch, smell, see, and hear is less than one-millionth of reality.” \\- R. Buckminster Fuller, an American architect, systems theorist, author, designer, and inventor. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim P.S. — Deal of the Week: Ascent Protein. Ever since I wrote The 4-Hour Body, starting my day with ~30 grams of protein has been part of my routine. Of course, I don’t always have time or the patience to cook a meal, so I supplement. Unfortunately, most protein powders are filled with excess sugar, questionable artificial sweeteners, or low-grade protein. Ascent Protein is an exception — it contains zero artificial ingredients, artificial sweeteners, or added sugar. They also nailed the taste; they tested 282 versions before making the chocolate (my favorite) just right. If you prefer, they also offer vanilla bean, cappuccino, and lemon sorbet flavors. Visit ascentprotein.com/Tim and use the code TFASCENT and you'll receive 20% off of your entire purchase. If you want a quick dose of protein to start your day or end a workout, this is a great option and my default. Again, that's TFASCENT for your 20% discount. Enjoy! [](https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/43avhe/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. Seneca and Marcus, 60 29th Street, San Francisco, California 94110, United States",
+      "creator": "Deal of the Week: Ascent Protein. Ever since I wrote The 4-Hour Body, starting my day with ~30 grams of protein has been part of my routine. Of course, I don’t always have time or the patience to cook a meal, so I supplement. Unfortunately, most protein powders are filled with excess sugar, questionable artificial sweeteners, or low-grade protein. Ascent Protein is an exception — it contains zero artificial ingredients, artificial sweeteners, or added sugar. They also nailed the taste; they tested 282 versions before making the chocolate",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/2ou2ho/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQnVja21pbnN0ZXJfRnVsbGVy",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/2ou2ho/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQnVja21pbnN0ZXJfRnVsbGVy"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/q3i8h7/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/gvfnh5/aHR0cHM6Ly93d3cuYXNjZW50cHJvdGVpbi5jb20vdGlt"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/93tzhn/aHR0cHM6Ly93d3cuYXNjZW50cHJvdGVpbi5jb20vdGlt"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/3wcphk/aHR0cHM6Ly93d3cuYXNjZW50cHJvdGVpbi5jb20vdGlt"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/nesohv/aHR0cHM6Ly93d3cuYXNjZW50cHJvdGVpbi5jb20vdGlt"
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/w4b2hg/aHR0cDovL2dvLmZvdXJob3Vyd29ya3dlZWsuY29tLzEweC1vdXRwdXQv"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "http://el2.fourhourmail.com/u/gku0l36gga5ho7oow"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/gku0l36gga5ho7oow/0luwh9/aHR0cDovL2ZvdXJob3Vyd29ya3dlZWsuY29tL2Jsb2c="
+        }
+      ]
+    }
+  ]
 }

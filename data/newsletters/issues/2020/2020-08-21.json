@@ -1,13 +1,138 @@
 {
   "schema_version": 1,
   "issue_date": "2020-08-21",
-  "subject": "5-Bullet Friday — August 21, 2020 ",
+  "subject": "5-Bullet Friday — August 21, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Nothing At All",
+      "creator": "Santana",
+      "note": "(**[Spotify](https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/wnh2hghozgv48e/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3RyYWNrLzRmd0xwYmRvTm5CaGh2Z1NpMkpoWEE_c2k9bzRUbXg3UndSdjZhV3V5Z09fY0xCdw==), [YouTube](https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/48hvheh2ogq9kd/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1mNHhaN3QwdlZNdw==)) by [Santana](https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/reh8hoh58xv7n6/aHR0cHM6Ly90d2l0dGVyLmNvbS9zYW50YW5hY2FybG9z) (feat. [Musiq](https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/08hwh9h78zwxqp/aHR0cHM6Ly90d2l0dGVyLmNvbS9NdXNpcVNvdWxjaGlsZA==)). This tune helps me set the tone for the day. For that shift, it’s more about the melody than the lyrics, but the whole track is beautiful.  \n  \n**What I’m reading and celebrating (****_Wall Street Journal_****) —**[**Silicon Valley and Wall Street Elites Pour Money Into Psychedelic Research**](https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/8ghqhoh549p3k8/aHR0cHM6Ly93d3cud3NqLmNvbS9hcnRpY2xlcy9zaWxpY29uLXZhbGxleS1hbmQtd2FsbC1zdHJlZXQtZWxpdGVzLXBvdXItbW9uZXktaW50by1wc3ljaGVkZWxpYy1yZXNlYXJjaC0xMTU5Nzk0MTQ3MD9zdD1zaWZ2b2o0ajBtZnlmMHA=) by [Shalini Ramachandran](https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/vqh3hrhk5g3485/aHR0cHM6Ly90d2l0dGVyLmNvbS9zaGFsaW5p) in WSJ, which should also be going to print today. This is a great piece with some notable and surprising names. That said, the headline doesn’t capture the most important part to me: ~2,500 donors participated, in amounts ranging from one dollar to $5 million, to raise the $30 million needed to complete clinical trials for MDMA-assisted psychotherapy for trauma/PTSD. My sincerest thanks to each and every one of you who helped make this happen! Every donation mattered and made a difference. 🙏 NOTE: This is a special URL provided to me by WSJ just for you guys. (Thank you, WSJ!) For the next ~48 hours, you can read the entire article and simply close any pop-ups (e.g., “Continue reading your article with a WSJ membership”) by clicking “X.” After 48 hours, you’ll need to create an account to read the article.",
+      "original_url": "https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/48hvheh2ogq9kd/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1mNHhaN3QwdlZNdw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/48hvheh2ogq9kd/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1mNHhaN3QwdlZNdw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/wnh2hghozgv48e/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3RyYWNrLzRmd0xwYmRvTm5CaGh2Z1NpMkpoWEE_c2k9bzRUbXg3UndSdjZhV3V5Z09fY0xCdw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/48hvheh2ogq9kd/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1mNHhaN3QwdlZNdw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/reh8hoh58xv7n6/aHR0cHM6Ly90d2l0dGVyLmNvbS9zYW50YW5hY2FybG9z"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/08hwh9h78zwxqp/aHR0cHM6Ly90d2l0dGVyLmNvbS9NdXNpcVNvdWxjaGlsZA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/8ghqhoh549p3k8/aHR0cHM6Ly93d3cud3NqLmNvbS9hcnRpY2xlcy9zaWxpY29uLXZhbGxleS1hbmQtd2FsbC1zdHJlZXQtZWxpdGVzLXBvdXItbW9uZXktaW50by1wc3ljaGVkZWxpYy1yZXNlYXJjaC0xMTU5Nzk0MTQ3MD9zdD1zaWZ2b2o0ajBtZnlmMHA="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/vqh3hrhk5g3485/aHR0cHM6Ly90d2l0dGVyLmNvbS9zaGFsaW5p"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Series I just finished binge-watching —",
+      "category": "video",
+      "title": "The Last Dance",
+      "creator": null,
+      "note": "After weeks of three close friends texting me repeatedly about this series, I finally bit the bullet. I was hesitant, as I’ve never followed basketball nor been drawn to it, but… this is easily one of the best television series of any type that I’ve ever seen. It’s spectacular. Here’s the official description, but it doesn’t reflect the intensity and magic of what you’ll see: “This docuseries chronicles the rise of superstar Michael Jordan and the 1990s Chicago Bulls, with unaired footage from an unforgettable 1997–98 season.”  \n  \nHuge kudos to director [Jason Hehir](https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/m2h7h5hnre092g/aHR0cHM6Ly90d2l0dGVyLmNvbS9qYXNvbm1oZWhpcg==); the executive producers, including [Mike Tollin](https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/dpheh0h735wkdo/aHR0cHM6Ly90d2l0dGVyLmNvbS9taWtldG9sbGluP2xhbmc9ZW4=), [John Dahl](https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/e0hph7hnx4weme/aHR0cHM6Ly93d3cuaW1kYi5jb20vbmFtZS9ubTIyMTU5NzMv), [Connor Schell](https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/7qh7h8h4gzp8dp/aHR0cHM6Ly93d3cuaW1kYi5jb20vbmFtZS9ubTIxODIxODEv), [Peter Guber](https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/owhkhqh8zolnx7/aHR0cHM6Ly90d2l0dGVyLmNvbS9wZXRlcmd1YmVy), and [Libby Geist](https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/z2hghnhdgwr75d/aHR0cHM6Ly90d2l0dGVyLmNvbS9saWJieWdlaXN0P2xhbmc9ZW4=); and everyone else who helped create this series. How they digested the overwhelming volume of footage they did to make such tight art is beyond comprehension. _The Last Dance_ was recently nominated in three Emmy categories: Outstanding Picture Editing for a Nonfiction Program, Outstanding Directing for a Documentary/Nonfiction Program, and Outstanding Documentary or Nonfiction Series.",
+      "original_url": "https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/l2hehmhkgrv4q5/aHR0cHM6Ly93d3cubmV0ZmxpeC5jb20vdGl0bGUvODAyMDMxNDQ=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/l2hehmhkgrv4q5/aHR0cHM6Ly93d3cubmV0ZmxpeC5jb20vdGl0bGUvODAyMDMxNDQ="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/m2h7h5hnre092g/aHR0cHM6Ly90d2l0dGVyLmNvbS9qYXNvbm1oZWhpcg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/dpheh0h735wkdo/aHR0cHM6Ly90d2l0dGVyLmNvbS9taWtldG9sbGluP2xhbmc9ZW4="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/e0hph7hnx4weme/aHR0cHM6Ly93d3cuaW1kYi5jb20vbmFtZS9ubTIyMTU5NzMv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/7qh7h8h4gzp8dp/aHR0cHM6Ly93d3cuaW1kYi5jb20vbmFtZS9ubTIxODIxODEv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/owhkhqh8zolnx7/aHR0cHM6Ly90d2l0dGVyLmNvbS9wZXRlcmd1YmVy"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/z2hghnhdgwr75d/aHR0cHM6Ly90d2l0dGVyLmNvbS9saWJieWdlaXN0P2xhbmc9ZW4="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Food I’m enjoying for both ease and taste —",
+      "category": "other",
+      "title": "Maya Kaimal Organic Indian Red Lentil Everyday Dal",
+      "creator": null,
+      "note": "([Amazon](https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/p8heh9h7vx5dr9/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9NYXlhLUthaW1hbC1GaW5lLUluZGlhbi1Gb29kcy9kcC9CMDdEQlpDSFFEL3JlZj1zcl8xXzQ_ZGNoaWxkPTEma2V5d29yZHM9bWF5YStrYWltYWwmcWlkPTE1OTY0ODczNDYmc3I9OC00), [official product page](https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/x0hph6h7g3dzkw/aHR0cHM6Ly93d3cubWF5YWthaW1hbC5jb20vcHJvZHVjdC9yZWQtbGVudGlscy1idXR0ZXJudXQtc3F1YXNoLWNvY29udXQtZGFsLW1heWEta2FpbWFsLw==)). In February, I stocked up on large quantities of food for COVID lockdown. Some of the items ended up being puke-worthy, many were passable, and a handful stood out with a gut response of “I would _definitely_ continue eating this during ‘normal’ times….” Maya Kaimal’s precooked dal lands squarely in the last category.",
+      "original_url": "https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/p8heh9h7vx5dr9/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9NYXlhLUthaW1hbC1GaW5lLUluZGlhbi1Gb29kcy9kcC9CMDdEQlpDSFFEL3JlZj1zcl8xXzQ_ZGNoaWxkPTEma2V5d29yZHM9bWF5YStrYWltYWwmcWlkPTE1OTY0ODczNDYmc3I9OC00",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/p8heh9h7vx5dr9/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9NYXlhLUthaW1hbC1GaW5lLUluZGlhbi1Gb29kcy9kcC9CMDdEQlpDSFFEL3JlZj1zcl8xXzQ_ZGNoaWxkPTEma2V5d29yZHM9bWF5YStrYWltYWwmcWlkPTE1OTY0ODczNDYmc3I9OC00"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/p8heh9h7vx5dr9/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9NYXlhLUthaW1hbC1GaW5lLUluZGlhbi1Gb29kcy9kcC9CMDdEQlpDSFFEL3JlZj1zcl8xXzQ_ZGNoaWxkPTEma2V5d29yZHM9bWF5YStrYWltYWwmcWlkPTE1OTY0ODczNDYmc3I9OC00"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/x0hph6h7g3dzkw/aHR0cHM6Ly93d3cubWF5YWthaW1hbC5jb20vcHJvZHVjdC9yZWQtbGVudGlscy1idXR0ZXJudXQtc3F1YXNoLWNvY29udXQtZGFsLW1heWEta2FpbWFsLw=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Propaganda seeks to destroy art in order to sanitize culture.” — Mary Karr in The Art of Memoir And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Mary Karr in The Art of Memoir And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/dpheh0h735wkde/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWFyeV9LYXJy",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/dpheh0h735wkde/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWFyeV9LYXJy"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/e0hph7hnx4wemq/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9BcnQtTWVtb2lyLU1hcnktS2Fyci9kcC8wMDYyMjIzMDcwLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/lmun74z88amhq5827b7/7qh7h8h4gzp8dz/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    }
+  ]
 }

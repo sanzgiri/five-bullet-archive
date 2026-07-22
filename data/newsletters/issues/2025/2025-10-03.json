@@ -7,7 +7,181 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short story I’m reading yet again",
+      "category": "article",
+      "title": "They’re Made Out of Meat",
+      "creator": "Terry Bisson",
+      "note": ". Terry originally made his mark in the science-fiction community with his short story [_Bears Discover Fire_](https://www.amazon.com/Bears-Discover-Fire-Other-Stories/dp/0312890354), which won the Hugo, Nebula, and Locus awards. _They’re Made Out of Meat_, a short story you can read in minutes, has quite a fan base on the Internet and has been adapted for audio, video, and film. You can hear it performed on _This American Life_ [here](https://www.youtube.com/watch?v=5usXhX0zaO4).",
+      "original_url": "https://web.archive.org/web/20190501130711/http%3A//www.terrybisson.com/theyre-made-out-of-meat-2/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://web.archive.org/web/20190501130711/http%3A//www.terrybisson.com/theyre-made-out-of-meat-2/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Terry_Bisson"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Bears-Discover-Fire-Other-Stories/dp/0312890354"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=5usXhX0zaO4"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Podcast episode I’m enjoying",
+      "category": "podcast",
+      "title": "Sriram Krishnan - The Man Leading America’s AI Race Against China",
+      "creator": null,
+      "note": "on _The Shawn Ryan Show_ ([Apple Podcasts](https://podcasts.apple.com/us/podcast/238-sriram-krishnan-senior-white-house-policy-advisor/id1492492083?i=1000727849030), [Spotify](https://open.spotify.com/episode/6PPscTResgN3cWLEYOWPvt), [YouTube](https://youtu.be/tar79r-h_4I?si=6rK4WKe3zbe-WWAT)).  \n​  \nThe portion that I want to highlight has nothing to do with AI. It has to do with how Sriram proved himself very early in his career when no one knew him. [Click here](https://www.youtube.com/watch?t=4319s&v=tar79r-h_4I) to be taken to a great story of Sriram moving to Seattle and impressing one of the all-time best coders at Microsoft. What he did mirrors a lot of what I did after college (in totally different domains) following mentors’ advice, and the strategy still works like gangbusters.  \n​  \nThe clip is only 4–12 minutes long, depending on how far you go, but the gist is this: Niche down until you are THE expert in something very narrow, and you can often do this by combining two things that are rarely combined.",
+      "original_url": "https://youtu.be/tar79r-h_4I?si=6rK4WKe3zbe-WWAT",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/tar79r-h_4I?si=6rK4WKe3zbe-WWAT"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/238-sriram-krishnan-senior-white-house-policy-advisor/id1492492083?i=1000727849030"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/6PPscTResgN3cWLEYOWPvt"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/tar79r-h_4I?si=6rK4WKe3zbe-WWAT"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?t=4319s&v=tar79r-h_4I"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Lost blog post that’s related",
+      "category": "article",
+      "title": "Pmarca Guide to Career Planning Part 2: Skills and education",
+      "creator": null,
+      "note": "Long ago, [Marc Andreessen](https://tim.blog/2016/05/29/marc-andreessen/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit), famed technologist and billionaire investor, had a blog with amazing advice. Then he took the whole thing down. The link in this bullet is a pirated copy of one of his essays from 2007, and there is a lot that overlaps with Sriram’s advice. I’ve basically built my career on some version of this, and it can apply to anyone—a new college student, someone mid-career seeking reinvention, and much more:  \n​  \n“**Seek to be a double/triple/quadruple threat.  \n​  \n​**Scott Adams—the creator of Dilbert—[nails it](https://web.archive.org/web/20190202130611/https://dilbertblog.typepad.com/the_dilbert_blog/2007/07/career-advice.html):  \n​  \n​_If you want an average successful life, it doesn’t take much planning. Just stay out of trouble, go to school, and apply for jobs you might like. But if you want something extraordinary, you have two paths:_\n\n1.  _Become the best at one specific thing._\n2.  _Become very good (top 25%) at two or more things._\n\n_The first strategy is difficult to the point of near impossibility. Few people will ever play in the NBA or make a platinum album. I don’t recommend anyone even try.  \n​  \nThe second strategy is fairly easy. Everyone has at least a few areas in which they could be in the top 25% with some effort. In my case, I can draw better than most people, but I’m hardly an artist. And I’m not any funnier than the average standup comedian who never makes it big, but I’m funnier than most people. The magic is that few people can draw well and write jokes. It’s the combination of the two that makes what I do so rare. And when you add in my business background, suddenly I had a topic that few cartoonists could hope to understand without living it.  \n​  \n...Get a degree in business on top of your engineering degree, law degree, medical degree, science degree, or whatever. Suddenly you’re in charge, or maybe you’re starting your own company using your combined knowledge.  \n​_​  \n…  \n​  \n\\[Back to Marc\\] \"The fact is, this is even the secret formula to becoming a CEO. All successful CEOs are like this. They are almost never the best product visionaries, or the best salespeople, or the best marketing people, or the best finance people, or even the best managers, but they are top 25% in some set of those skills, and then all of a sudden they’re qualified to actually run something important.”",
+      "original_url": "https://pmarchive.com/guide_to_career_planning_part2.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://pmarchive.com/guide_to_career_planning_part2.html"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2016/05/29/marc-andreessen/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://web.archive.org/web/20190202130611/https://dilbertblog.typepad.com/the_dilbert_blog/2007/07/career-advice.html"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Exercise I’m refining",
+      "category": "other",
+      "title": "If You’re Struggling With Pull-Ups, THIS Is Why",
+      "creator": null,
+      "note": "I’m just getting back on the exercise horse after elbow surgery five weeks ago, and I thought it’d be a good time to revisit pull-up form. This video is very helpful, though I’d suggest starting with [progressions of the inverted row](https://youtu.be/5W8F6MzZ8Rk?si=dXw3OsNOPk_towbE&t=175).",
+      "original_url": "https://www.youtube.com/watch?v=QOCvfFpKNZc",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=QOCvfFpKNZc"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/5W8F6MzZ8Rk?si=dXw3OsNOPk_towbE&t=175"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "What I’m urging friends in London to see",
+      "category": "other",
+      "title": "Personality: The Lloyd Price Musical in Concert",
+      "creator": null,
+      "note": "If you don’t know Lloyd Price, his story will blow your mind. [_Personality: The Lloyd Price Musical_](https://www.southbankcentre.co.uk/whats-on/personality-the-lloyd-price-musical-in-concert/) is playing in London on Saturday, October 11th. [Click here](https://www.southbankcentre.co.uk/whats-on/personality-the-lloyd-price-musical-in-concert/) to learn more and buy tickets.  \n​  \nLloyd’s story is that of beating unbelievable odds. In the span of one year, Lloyd went from digging septic tanks in Louisiana to becoming the first teenager ever to sell more than a million records. ​Lloyd’s innovations went beyond performing music. He also promoted the legendary “Thrilla in Manila” and “Rumble in the Jungle” with Muhammad Ali. Price had the foresight to retain ownership of the copyrights and future royalties of his music, and he was the first artist to start his own record label.",
+      "original_url": "https://www.southbankcentre.co.uk/whats-on/personality-the-lloyd-price-musical-in-concert/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.southbankcentre.co.uk/whats-on/personality-the-lloyd-price-musical-in-concert/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.southbankcentre.co.uk/whats-on/personality-the-lloyd-price-musical-in-concert/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.southbankcentre.co.uk/whats-on/personality-the-lloyd-price-musical-in-concert/"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Group for parents I’m creating",
+      "category": "other",
+      "title": "Coyote (the card game)",
+      "creator": null,
+      "note": "](https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/), tabletop gaming, and in-person connection. Your input will help me make improvements to Coyote, plot future experiments, and much more. I'm aiming to create a fun group of like-minded and kind people.  \n​  \nI’ll mail everyone a free game, we’ll do some private Q&As and other fun stuff, and it should be a recharging positive break from the increasingly negative Internet.  \n​  \nIf you’re a parent who’s interested, [please click here to sign up](https://forms.gle/QXmzt53sSJewweHT7). It’ll be first come, first served, as I’ll keep the community manageably small, probably 100–200 people.  \n​  \nPlease don’t lie about having kids! It’s bad karma.",
+      "original_url": "https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/"
+        },
+        {
+          "type": "other",
+          "url": "https://forms.gle/QXmzt53sSJewweHT7"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“You think your pain and your heartbreak are unprecedented in the history of the world, but then you read. It was books that taught me that the things that tormented me most were the very things that connected me with all the people who were alive, or who had ever been alive.” ― James Baldwin (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my brand-new interview about breathing protocols to reboot your health, fix your sleep, and boost performance with the bestselling author of Breath, James Nestor. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": null,
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/James_Baldwin",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/James_Baldwin"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/fLgF1"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/09/30/james-nestor-breath/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Breath-New-Science-Lost-Art/dp/0593420217"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

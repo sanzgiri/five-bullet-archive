@@ -6,7 +6,123 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short blog post I’m reading",
+      "category": "article",
+      "title": "How I practice at what I do",
+      "creator": "Tyler Cowen",
+      "note": ". Also from Tyler ([source](https://marginalrevolution.com/marginalrevolution/2019/07/learn-like-an-athlete-knowledge-workers-should-train.html)): “‘What is it you do … that is comparable to a pianist practicing scales?’ If you don’t know the answer to that one, maybe you are doing something wrong or not doing enough.”",
+      "original_url": "https://marginalrevolution.com/marginalrevolution/2019/07/how-i-practice-at-what-i-do.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://marginalrevolution.com/marginalrevolution/2019/07/how-i-practice-at-what-i-do.html"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/03/05/tyler-cowen/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://marginalrevolution.com/marginalrevolution/2019/07/learn-like-an-athlete-knowledge-workers-should-train.html"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Medical headset I’m investigating closely",
+      "category": "other",
+      "title": "Cognito Therapeutics",
+      "creator": null,
+      "note": "The team at Cognito is developing a novel, non-invasive, wearable medical device aimed at slowing the progression of Alzheimer’s disease by using light and sound stimulation to restore brain-wave activity. They are focusing specifically on gamma waves, which are critical for memory, learning, and healthy brain function. In Alzheimer’s patients, gamma waves are altered, indicating impairment in normal brain function. Related: “[Evidence that gamma rhythm stimulation can treat neurological disorders is emerging](https://news.mit.edu/2024/evidence-gamma-rhythm-stimulation-can-treat-neurological-disorders-emerging-0118)” from MIT News.",
+      "original_url": "https://www.cognitotx.com/about",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.cognitotx.com/about"
+        },
+        {
+          "type": "other",
+          "url": "https://news.mit.edu/2024/evidence-gamma-rhythm-stimulation-can-treat-neurological-disorders-emerging-0118"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "TED Talk I’m revisiting",
+      "category": "other",
+      "title": "Trial, error, and the God complex",
+      "creator": null,
+      "note": ",”** a TED talk by [Tim Harford](https://timharford.com/). Official description: “Economics writer Tim Harford studies complex systems—and finds a surprising link among the successful ones: they were built through trial and error. In this sparkling talk from TEDGlobal 2011, he asks us to embrace our randomness and start making better mistakes.” This talk takes a little time to warm up, and it might seem meandering in the middle, but I found the payoff and message to be really helpful. Related: Tim Harford’s podcast [_Cautionary Tales_](https://timharford.com/articles/cautionarytales/), “telling true stories about mistakes and what we should learn from them.”",
+      "original_url": "https://www.ted.com/talks/tim_harford_trial_error_and_the_god_complex",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.ted.com/talks/tim_harford_trial_error_and_the_god_complex"
+        },
+        {
+          "type": "other",
+          "url": "https://timharford.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://timharford.com/articles/cautionarytales/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Coming or going, Day or night, You must just strive to Face the incomprehensible.” — Daitō (1283–1338) (Click here to share on X.)",
+      "creator": "Daitō",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Sh%C5%ABh%C5%8D_My%C5%8Dch%C5%8D",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Sh%C5%ABh%C5%8D_My%C5%8Dch%C5%8D"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/Bxdht"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Another quote I’m pondering, if the above requires too many drugs",
+      "category": "quote",
+      "title": "“Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.” — Benjamin Franklin (Click here to share on X.) (More on attaining happiness from Ben Franklin) * * * Keep in the sunlight! You can complement this edition of 5-Bullet Friday with my latest podcast episode, featuring biomedical scientist Rhonda Patrick, Ph.D. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Benjamin Franklin",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Benjamin_Franklin",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Benjamin_Franklin"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/HaWOP"
+        },
+        {
+          "type": "other",
+          "url": "https://www.themarginalian.org/2013/01/17/benjamin-franklin-on-true-happiness/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/07/24/dr-rhonda-patrick/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

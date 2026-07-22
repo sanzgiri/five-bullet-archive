@@ -6,7 +6,91 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Article I’m reading —",
+      "category": "article",
+      "title": "Inside the Very Big, Very Controversial Business of Dog Cloning",
+      "creator": "David Ewing Duncan",
+      "note": "(Vanity Fair) by David Ewing Duncan ([@duncande](https://twitter.com/duncande?lang=en)). Ever lost a dog you loved, or do you fear losing a dog you currently love? This article digs into the business, science, and ethics of making a copy of Fido…",
+      "original_url": "https://www.vanityfair.com/style/2018/08/dog-cloning-animal-sooam-hwang",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.vanityfair.com/style/2018/08/dog-cloning-animal-sooam-hwang"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/duncande?lang=en"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Purchase I’m enjoying —",
+      "category": "other",
+      "title": "Sundale indoor/outdoor floor chair",
+      "creator": null,
+      "note": "I use this for morning meditation, and its ultra-lightweight design makes it a breeze to move and store. I face it out a bay window towards grass and trees, as I’ve started meditating with open eyes occasionally per instructions from [Sam Harris](https://samharris.org/).",
+      "original_url": "https://www.amazon.com/gp/product/B06Y3Y8NPZ/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/gp/product/B06Y3Y8NPZ/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1"
+        },
+        {
+          "type": "other",
+          "url": "https://samharris.org/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Music I’m listening to —",
+      "category": "music",
+      "title": "Sam Maher - New York Handpan 01",
+      "creator": null,
+      "note": "I’d never heard handpan music quite like this, and I’d never seen someone use their thumbs so extensively with this instrument. I love it.",
+      "original_url": "https://www.youtube.com/watch?v=6oremFnbgO0",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=6oremFnbgO0"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Junk food that I’m loving —",
+      "category": "other",
+      "title": "Tate’s Bake Shop ginger zinger cookies",
+      "creator": null,
+      "note": "I can polish off an entire bag of these gems on cheat day, and I’ll choose them over Tate’s chocolate chip cookies (which are excellent) any day. Side note: they are gluten-free. I’m glad I didn’t know that until I’d already become addicted, as I probably wouldn’t have given them a fair shot.",
+      "original_url": "https://www.amazon.com/Tates-Bake-Shop-Gluten-Cookies/dp/B00LC7PX5M",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Tates-Bake-Shop-Gluten-Cookies/dp/B00LC7PX5M"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“The price of anything is the amount of life you exchange for it.” — Henry David Thoreau",
+      "creator": "Henry David Thoreau",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Henry_David_Thoreau",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
+        }
+      ]
+    }
+  ]
 }

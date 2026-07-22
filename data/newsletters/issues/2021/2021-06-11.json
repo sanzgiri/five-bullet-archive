@@ -7,7 +7,179 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Autobiography I’m reading for the first time —",
+      "category": "book",
+      "title": "The Brotherhood of the Screaming Abyss",
+      "creator": "Dennis McKenna, PhD",
+      "note": "com/dennismckenna4?lang=en)). This has been on my to-read list for years. It’s a blast to finally dig into Dennis’s stories of family, experimentation, revelation, and life lessons.",
+      "original_url": "https://www.amazon.com/Brotherhood-Screaming-Abyss-Dennis-McKenna-ebook/dp/B00A8KWLYK",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Brotherhood-Screaming-Abyss-Dennis-McKenna-ebook/dp/B00A8KWLYK"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/dennismckenna4?lang=en"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Sci-fi and fantasy I’m revisiting —",
+      "category": "other",
+      "title": "Exhalation: Stories",
+      "creator": "Ted Chiang",
+      "note": "by** [**Ted Chiang**](https://en.wikipedia.org/wiki/Ted_Chiang)**.** I’ve previously recommended Ted’s incredible collection of short stories titled [_Stories of Your Life and Others_](https://www.amazon.com/Stories-Your-Life-Others-Chiang/dp/1101972122/). Despite the fact that Ted started off as a part-time science-fiction writer with a full-time technical writing job, he is the equivalent of Martin Scorsese or Wayne Gretzky in the sci-fi world—he has won four Hugo, four Nebula, and four Locus Awards, among others. The hit film [_Arrival_](https://www.amazon.com/Arrival-Amy-Adams/dp/B01M2C4NP8/) ([94% on Rotten Tomatoes](https://www.rottentomatoes.com/m/arrival_2016)), one of my favorite recent movies, is based on [one of Ted’s short stories](https://en.wikipedia.org/wiki/Story_of_Your_Life). Gizmodo [has written that](https://gizmodo.com/this-new-ted-chiang-short-story-could-change-your-life-1452465465) “the arrival of a new piece of short fiction by Ted Chiang is always cause for celebration and parades and wild dancing.” [_Exhalation_](https://www.amazon.com/Exhalation-Stories-Ted-Chiang/dp/1101947888/), his newest collection, may be even better than his last. It’s just ridiculously good.",
+      "original_url": "https://www.amazon.com/Exhalation-Stories-Ted-Chiang/dp/1101947888/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Exhalation-Stories-Ted-Chiang/dp/1101947888/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Ted_Chiang"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Stories-Your-Life-Others-Chiang/dp/1101972122/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Arrival-Amy-Adams/dp/B01M2C4NP8/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rottentomatoes.com/m/arrival_2016"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Story_of_Your_Life"
+        },
+        {
+          "type": "other",
+          "url": "https://gizmodo.com/this-new-ted-chiang-short-story-could-change-your-life-1452465465"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Exhalation-Stories-Ted-Chiang/dp/1101947888/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Article I’m rereading —",
+      "category": "article",
+      "title": "The French Burglar Who Pulled Off His Generation’s Biggest Art Heist",
+      "creator": null,
+      "note": "([_The New Yorker_](https://twitter.com/NewYorker)). After my previous mention of the [_Sour Grapes_](https://www.amazon.com/Sour-Grapes-Rudy-Kurniawan/dp/B06XWKJN5F/) doc in 5BF, my brother, who’d also read [_Billionaire’s Vinegar_](https://www.amazon.com/Billionaires-Vinegar-Mystery-Worlds-Expensive/dp/0307338789), said, “Oh, if you like that, I have something you’ll really like.” He sent me this _New Yorker_ piece. It blends theft and art in more ways than one.",
+      "original_url": "https://www.newyorker.com/magazine/2019/01/14/the-french-burglar-who-pulled-off-his-generations-biggest-art-heist",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.newyorker.com/magazine/2019/01/14/the-french-burglar-who-pulled-off-his-generations-biggest-art-heist"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/NewYorker"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Sour-Grapes-Rudy-Kurniawan/dp/B06XWKJN5F/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Billionaires-Vinegar-Mystery-Worlds-Expensive/dp/0307338789"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Shop I’m excited to visit once again —",
+      "category": "other",
+      "title": "Fountain Pen Hospital",
+      "creator": null,
+      "note": "Now that I’m fully vaccinated, I’m excited to get back to the Fountain Pen Hospital, which was “founded in 1946 by Phil Wiederlight and Al Wiederlight (the father and grandfather, respectively, of today’s proprietors – Terry and Steve Wiederlight). Terry and Steve have a combined 60 years experience in all phases of vintage and modern writing instruments.” Special thanks to [Neil Gaiman](https://tim.blog/2019/03/28/neil-gaiman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) for recommending it during [our conversation together](https://tim.blog/2019/03/28/neil-gaiman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), in which he described how and why he does so much writing by hand.",
+      "original_url": "https://www.fountainpenhospital.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.fountainpenhospital.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/03/28/neil-gaiman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/03/28/neil-gaiman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Perhaps the feelings that we experience when we are in love represent a normal state. Being in love shows a person who he should be.”— Anton Chekhov And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim P.S. Deal of the Week — Get your free LMNT Sample Pack—the healthy alternative to sugary electrolyte drinks. I’ve stocked up on boxes and boxes of LMNT (including their new flavor, Watermelon Salt, which is absolutely delicious and perfect for summer), and I usually use 1–2 packs per day to add electrolytes. Especially if you’re on a low-carb diet, ketogenic diet, or using intermittent fasting, electrolytes are key for relieving headaches, muscle cramps, and fatigue. I add electrolytes for many reasons: because I over-hydrate compulsively while stuck at home (which dilutes electrolytes and leads me to feel tired), because I’m on a low-carb diet, because I’ve lost electrolytes through exercise, etc. It’s simply cheap insurance that tastes great.Developed by Robb Wolf and his coaches, each serving delivers a meaningful dose of electrolytes without the garbage—no sugar, no artificial ingredients, no coloring, no junk. LMNT is used by three Navy SEAL teams, as prescribed by their master chief, and 10+ NFL and NBA teams, and it is the Official Hydration Partner of Team USA Weightlifting. My favorite flavor is Citrus Salt, which, as a side note, you can use to make a kick-ass, no-sugar margarita. Watermelon is a close second.For a limited time, you can claim your free LMNT Sample Pack to try their most popular flavors—you only cover the cost of shipping ($5 for US customers). This special offer is available here >> DrinkLMNT.com/Tim. [](https://tim.blog/2020/12/08/jerry-seinfeld/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf-footer-jerry) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Anton Chekhov And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim P.S. Deal of the Week — Get your free LMNT Sample Pack—the healthy alternative to sugary electrolyte drinks. I’ve stocked up on boxes and boxes of LMNT",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Anton_Chekhov",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Anton_Chekhov"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "http://drinklmnt.com/Tim"
+        },
+        {
+          "type": "other",
+          "url": "http://drinklmnt.com/Tim"
+        },
+        {
+          "type": "other",
+          "url": "http://drinklmnt.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "http://drinklmnt.com/TIM"
+        },
+        {
+          "type": "other",
+          "url": "http://drinklmnt.com/TIM"
+        },
+        {
+          "type": "other",
+          "url": "https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/hAHoQ5faPwYaTb1HKvQEBZ?w=800&fit=max"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/10x-output/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=template"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/92unw45ooanhv3kx0bz"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=template"
+        }
+      ]
+    }
+  ]
 }

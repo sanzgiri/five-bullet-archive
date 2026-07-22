@@ -6,7 +6,158 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Marry Jane",
+      "creator": "Abbie Callahan",
+      "note": "([YouTube](https://youtu.be/tXubRlzKLfg?si=PDFi-7TH7SNMCkAZ), [Spotify](https://open.spotify.com/track/1uClRHXNyVe6rW8oRhZFEK), [Apple Music](https://music.apple.com/us/album/marry-jane-single/1779817353)) by [Abbie Callahan](https://www.instagram.com/iamabbiecallahan/). I found this track while searching for new bluegrass musicians on Spotify. I was hoping for a short track I could use to time my nightly 2–2.5 minutes of rotator cuff exercises. Abbie’s vocals are what entranced me, not the marijuana references. What a voice!",
+      "original_url": "https://youtu.be/tXubRlzKLfg?si=PDFi-7TH7SNMCkAZ",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/tXubRlzKLfg?si=PDFi-7TH7SNMCkAZ"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/tXubRlzKLfg?si=PDFi-7TH7SNMCkAZ"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/1uClRHXNyVe6rW8oRhZFEK"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/album/marry-jane-single/1779817353"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/iamabbiecallahan/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "52 things I learned in 2024",
+      "creator": null,
+      "note": "For at least a decade, Tom Whitwell, founder of [Music Thing Modular](https://www.musicthing.co.uk/about/), has been documenting the 52 things he’s learned each year. You can find previous editions [at this link](https://medium.com/@tomwhitwell). Here are a few sample entries from this year:  \n​  \n​_To highlight tax evasion, South Korea introduced ugly neon green number plates for company cars worth more than $58,000. Luxury car sales fell 27%.  \n​  \nOzempic is a modified, synthetic version of a protein discovered in the venomous saliva of the Gila monster, a large, sluggish lizard native to the United States.  \n​  \nMedellin in Colombia has cut urban temperatures by 2°C in three years by planting trees.  \n​  \nIn China, there are registries of haunted apartments. If you’re willing to live somewhere with a sinister history, you can get a discount of 30%._",
+      "original_url": "https://medium.com/@tomwhitwell/52-things-i-learned-in-2024-75efffe44f15",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://medium.com/@tomwhitwell/52-things-i-learned-in-2024-75efffe44f15"
+        },
+        {
+          "type": "other",
+          "url": "https://www.musicthing.co.uk/about/"
+        },
+        {
+          "type": "other",
+          "url": "https://medium.com/@tomwhitwell"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Honey I’m enjoying",
+      "category": "other",
+      "title": "Premium MGO 1000+ Mānuka Honey from Manukora",
+      "creator": null,
+      "note": "I love this smooth and creamy Mānuka honey, and I use it before bed to help with sleep. Per the late [Seth Roberts, PhD](https://en.wikipedia.org/wiki/Seth_Roberts), and for reasons unclear to me, a tablespoon of honey and two tablespoons of apple cider vinegar mixed into hot water (or decaf tea) before bed seems to dramatically accelerate sleep onset time. Fun fact: Mānuka honey can only be produced in New Zealand from the nectar of the Mānuka tea tree flower. It blossoms for two to six weeks during the summer, and bees collect the nectar and pollen.",
+      "original_url": "https://manukora.com/products/manuka-honey-mgo1000",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://manukora.com/products/manuka-honey-mgo1000"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Seth_Roberts"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Soothing videos I’m watching",
+      "category": "video",
+      "title": "Snacks for Spring Festival",
+      "creator": null,
+      "note": "“**[**For Everyone Who Knows My Name.**](https://youtu.be/8Cg3p9K0il4?si=93DasZq1qYZMkyKZ)**”  \n“**[**I Turned the Woodshed into a Forest-Themed Closet.**](https://youtu.be/JJL3ZKrHeKM?si=guRpnzmSjDrKrYJp)**”**  \nAll of these videos are from creator [Li Ziqi](https://www.youtube.com/@cnliziqi) (李子柒), who has amassed 21.5M subscribers on YouTube alone. Li stepped out of the spotlight in 2021 shortly after breaking the Guinness World Record for the most subscribers for a Chinese language channel on YouTube. Following negotiations with her agency Weinan, Li is back, sharing her serene landscapes and idyllic activities. It doesn’t hurt that she’s as beautiful as she is crafty. No Chinese knowledge required, as the visuals drive everything.",
+      "original_url": "https://youtu.be/FWMIPukvdsQ?si=WA7wYInpBbJciaXJ",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/FWMIPukvdsQ?si=WA7wYInpBbJciaXJ"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/8Cg3p9K0il4?si=93DasZq1qYZMkyKZ"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/JJL3ZKrHeKM?si=guRpnzmSjDrKrYJp"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/@cnliziqi"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Airline I am loving",
+      "category": "other",
+      "title": "Hawaiian Airlines",
+      "creator": null,
+      "note": "My recent flights on Hawaiian Airlines have been my best-ever domestic flight experiences. No close second place. Starlink onboard allows you to use uninterrupted Wi-Fi from boarding to 30,000 feet and back down. The staff are phenomenal, as is the food. They give you iPads with movies and entertainment instead of janky screens and remotes made in the ’80s. A++. Hawaiian Airlines has made _Travel + Leisure_’s World’s Best Awards (voted on by readers) for the last 14 years as well as the _Condé Nast Traveler_ Reader’s Choice Awards nine out of the last 10 years. Nice work, guys!",
+      "original_url": "https://www.hawaiianairlines.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.hawaiianairlines.com/"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Change. But start slowly, because direction is more important than speed.” — Attributed to Paulo Coelho, author of The Alchemist _(Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with these 21 things I learned in 2016; this blast from the past video showcasing my “world travel packing tips” in preparation for my first trip to Hawai‘i; and my new podcast episode, featuring three chapters from the book that started it all, The 4-Hour Workweek_. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Attributed to Paulo Coelho, author of The Alchemist _",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Paulo_Coelho",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Paulo_Coelho"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/icDa3"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2016/12/29/2016-what-ive-learned/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/GsHXco4KVyY?si=q_BbBLGHhrg0KEVt"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/12/18/the-4-hour-workweek/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

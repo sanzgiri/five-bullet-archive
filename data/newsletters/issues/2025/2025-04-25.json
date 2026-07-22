@@ -6,7 +6,123 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short email I’m reading",
+      "category": "article",
+      "title": "25 Principles of Adult Behavior",
+      "creator": "John Perry Barlow",
+      "note": ". John was a lyricist for the Grateful Dead and a founding member of the Electronic Frontier Foundation and the Freedom of the Press Foundation. Many bullets will seem obvious, but a few of them found me at the right time and really resonated:  \n​  \n​_Avoid the pursuit of happiness. Seek to define your mission and pursue that.  \n​_**​  \n​**_Become less suspicious of joy._",
+      "original_url": "https://www.mail-archive.com/silklist@lists.hserus.net/msg08034.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.mail-archive.com/silklist@lists.hserus.net/msg08034.html"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/John_Perry_Barlow"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Audiobook I’ve fallen in love with",
+      "category": "audiobook",
+      "title": "When We Cease to Understand the World",
+      "creator": "Benjamín Labatut",
+      "note": ". This is probably my favorite book of the last two years. The prose is gorgeous, and it reads as if your favorite biography and a fever dream had a love child. I’ve never encountered such a wellspring of rich historical accuracy and mind-bending imagination. It was first recommended to me by an iconic filmmaker, and I pushed it off, thinking to myself, “If I can’t separate the fact from the fiction, what’s the point?”  \n​  \nI was perhaps missing the point. First, I think the separation is pretty obvious. Second, you should read this book for the pure joy of it.  \n​  \nIt was selected as one of _The New York Times Book Review_’s 10 Best Books of 2021 and shortlisted for the 2021 International Booker Prize and the 2021 National Book Award for Translated Literature. Here’s the description: “A fictional examination of the lives of real-life scientists and thinkers whose discoveries resulted in moral consequences beyond their imagining. _When We Cease to Understand the World_ is a book about the complicated links between scientific and mathematical discovery, madness, and destruction.”",
+      "original_url": "https://www.audible.com/pd/When-We-Cease-to-Understand-the-World-Audiobook/B09FM6J9FK",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.audible.com/pd/When-We-Cease-to-Understand-the-World-Audiobook/B09FM6J9FK"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Benjam%C3%ADn_Labatut"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Movie I’m watching once again",
+      "category": "video",
+      "title": "American Fiction",
+      "creator": null,
+      "note": "_American Fiction_ is probably my favorite movie of the last 1–2 years. I’ve become obsessed with it, and you’ll laugh your ass off. It’s a comedic Trojan Horse of epic proportions. Don’t trust the streaming descriptions; _American Fiction_ is about much more. Every character is flawed in their own beautiful, human way, and the writing hits a home run. Ambiguities are left in so that the movie becomes your own Rorschach test. It currently has a 96% audience score on [Rotten Tomatoes](https://www.rottentomatoes.com/m/american_fiction), and you can find the trailer [here](https://youtu.be/i0MbLCpYJPA?si=Ug0sjjN0n9Q5KMbi). Trust me and watch the trailer.",
+      "original_url": "https://www.amazon.com/gp/video/detail/B0CPQ7GRYC/ref=atv_dp_share_cu_r",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/gp/video/detail/B0CPQ7GRYC/ref=atv_dp_share_cu_r"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rottentomatoes.com/m/american_fiction"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/i0MbLCpYJPA?si=Ug0sjjN0n9Q5KMbi"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“One cannot help but be in awe when he contemplates the mysteries of eternity, of life, of the marvelous structure of reality. It is enough if one tries merely to comprehend a little of this mystery each day. Never lose a holy curiosity. ... Don’t stop to marvel.” — Albert Einstein _(Click here to share on X.)",
+      "creator": "Albert Einstein _",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Albert_Einstein",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Albert_Einstein"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/One-Thing-You-Need-Know/dp/0743261658/"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/D0T1r"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Do you want to be right or happy? You can’t be both.” — Attributed to Marshall B. Rosenberg_ _(Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my brand-new conversation with Stephen West, host of the Philosophize This! podcast. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Attributed to Marshall B. Rosenberg_ _",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Marshall_Rosenberg",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Marshall_Rosenberg"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/One-Thing-You-Need-Know/dp/0743261658/"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/m0iz0"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/04/24/stephen-west-philosophize-this/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

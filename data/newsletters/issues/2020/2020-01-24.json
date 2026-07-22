@@ -1,13 +1,141 @@
 {
   "schema_version": 1,
   "issue_date": "2020-01-24",
-  "subject": "5-Bullet Friday — January 24, 2020 ",
+  "subject": "5-Bullet Friday — January 24, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Article I’m contemplating —",
+      "category": "article",
+      "title": "Reality has a surprising amount of detail",
+      "creator": "John Salvatier",
+      "note": "fourhourmail.com/c/5qu8lqg33u7hknv02i9/26c2hoh0l9d03z/aHR0cHM6Ly90d2l0dGVyLmNvbS9qb2huc2FsdmF0aWVyP2xhbmc9ZW4=)). This 2017 beauty was sent to me by my dear friend, Pineapple-Eating Cat (long story). It made me recall [my conversation with Tim O’Reilly](https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/g0snh5hog9pom8/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzExLzA4L3RpbS1vcmVpbGx5Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=) and his daily habit of pausing to take a photograph of a flower. If you read this article (and it only takes 5–10 minutes), be sure to read to the end. Here’s a teaser paragraph:\n\nThis means it’s really easy to get stuck. Stuck in your current way of seeing and thinking about things. Frames are made out of the details that seem important to you. The important details you haven’t noticed are invisible to you, and the details you have noticed seem completely obvious and you see right through them. This all makes it difficult to imagine how you could be missing something important.",
+      "original_url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/ketmh6h2zwm2nv/aHR0cDovL2pvaG5zYWx2YXRpZXIub3JnL2Jsb2cvMjAxNy9yZWFsaXR5LWhhcy1hLXN1cnByaXNpbmctYW1vdW50LW9mLWRldGFpbA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/ketmh6h2zwm2nv/aHR0cDovL2pvaG5zYWx2YXRpZXIub3JnL2Jsb2cvMjAxNy9yZWFsaXR5LWhhcy1hLXN1cnByaXNpbmctYW1vdW50LW9mLWRldGFpbA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/26c2hoh0l9d03z/aHR0cHM6Ly90d2l0dGVyLmNvbS9qb2huc2FsdmF0aWVyP2xhbmc9ZW4="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/g0snh5hog9pom8/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzExLzA4L3RpbS1vcmVpbGx5Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Tool I’m loving —",
+      "category": "other",
+      "title": "PromptSmart Pro: Mobile Teleprompter App",
+      "creator": null,
+      "note": "I was introduced to this app last week while recording video for podcast interviews in Austin. As the name suggests, it’s a teleprompter app for your phone or tablet. I used it for recording intros/bios for guests while looking directly toward the camera. That was a first for me and a quantum leap in video quality. Here’s how it works: Instead of awkwardly reading from a piece of paper, or futilely trying to memorize a page of text, I was looking at an iPad the videographer was holding right underneath the camera, which made it appear as if I were looking directly into the lens. The app auto-detects, or “hears,” your voice, and it shows you where you are in the text, progressing in chunks as needed. If you improvise, it pauses on its own. I was seriously impressed, as it’s a cheap solution to a problem I’ve had for years. You can watch [a demo here](https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/40bvhehqwlgqmx/aHR0cHM6Ly95b3V0dS5iZS9IYU1VMVh0S3Bqcw==). Huge hat tip to Nick for the find!",
+      "original_url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/3raphkh9xmz93e/aHR0cHM6Ly9wcm9tcHRzbWFydC5jb20vcHJvZHVjdHMvcHJv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/3raphkh9xmz93e/aHR0cHM6Ly9wcm9tcHRzbWFydC5jb20vcHJvZHVjdHMvcHJv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/40bvhehqwlgqmx/aHR0cHM6Ly95b3V0dS5iZS9IYU1VMVh0S3Bqcw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m rewatching —",
+      "category": "video",
+      "title": "This is Water",
+      "creator": null,
+      "note": "commencement speech by David Foster Wallace, which he gave at Kenyon College on May 21, 2005. It is [also available in book form](https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/85uqhohpwd9po8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UaGlzLVdhdGVyLURlbGl2ZXJlZC1TaWduaWZpY2FudC1Db21wYXNzaW9uYXRlL2RwLzAzMTYwNjgyMjU=), but I highly recommend the audio/video. Popular podcast guest [Dr. Peter Attia](https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/lviehmhvq2rvlg/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzEyLzEzL3BldGVyLWF0dGlhLXZzLXRpbS1mZXJyaXNzLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=) listens to this every two weeks, which is how I first learned about the video.",
+      "original_url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/rzh8hohvkdxvmo/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj04Q3JPTC15ZEZNSQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/rzh8hohvkdxvmo/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj04Q3JPTC15ZEZNSQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/85uqhohpwd9po8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UaGlzLVdhdGVyLURlbGl2ZXJlZC1TaWduaWZpY2FudC1Db21wYXNzaW9uYXRlL2RwLzAzMTYwNjgyMjU="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/lviehmhvq2rvlg/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzEyLzEzL3BldGVyLWF0dGlhLXZzLXRpbS1mZXJyaXNzLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Colors",
+      "creator": "Black Pumas",
+      "note": "([@theblackpumas](https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/zdcghnhr56wrpk/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS90aGVibGFja3B1bWFzLw==)).",
+      "original_url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/dvfeh0hwd65w8z/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0wRzM4MzUzOHF6UQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/dvfeh0hwd65w8z/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0wRzM4MzUzOHF6UQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/73t7h8hpdlzpwk/aHR0cHM6Ly93d3cudGhlYmxhY2twdW1hcy5jb20v"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/zdcghnhr56wrpk/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS90aGVibGFja3B1bWFzLw=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Within you, there is a stillness and a sanctuary to which you can retreat at anytime and be yourself.” — Hermann Hesse And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim [](https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/2nb2hoh0l9d04e/aHR0cHM6Ly90aW0uYmxvZy90aW0tZmVycmlzcy1ib29rcy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9zb3VyY2U9bWVkaXVtPTViZi10ZW1wbGF0ZS1oZWFkZXI=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Hermann Hesse And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/xqsph6hdk23d9z/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSGVybWFubl9IZXNzZQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/xqsph6hdk23d9z/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSGVybWFubl9IZXNzZQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/kpamh6h2zwm262/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://files.convertkitcdn.com/assets/pictures/11125/2272828/content_Book_Header_FINAL.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/g9hnh5hog9po6z/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/5qu8lqg33u7hknv02i9"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/5qu8lqg33u7hknv02i9/8viqhohpwd9pok/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

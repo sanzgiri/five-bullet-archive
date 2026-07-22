@@ -7,7 +7,151 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading and sharing",
+      "category": "article",
+      "title": "What is the question?",
+      "creator": "Itai Yanai and Martin Lercher",
+      "note": "and [Martin Lercher](https://x.com/MartinJLercher). This is an outstanding read. Even if you have little interest in how the best scientists work, this will help you become a better and more productive thinker.  \n​  \nTake it from [W. Edwards Deming](https://en.wikipedia.org/wiki/W._Edwards_Deming), who is best known as the “father of the quality movement” for revolutionizing post-WWII Japan and making it one of the most dominant economies in the world: “If you do not know how to ask the right question, you discover nothing.”",
+      "original_url": "https://link.springer.com/article/10.1186/s13059-019-1902-1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://link.springer.com/article/10.1186/s13059-019-1902-1"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/ItaiYanai"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/MartinJLercher"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/W._Edwards_Deming"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m rewatching",
+      "category": "video",
+      "title": "Burden of Dreams",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/gp/video/detail/B00A5IXEF0/?tag=offsitoftimfe-20), [Apple TV](https://itunes.apple.com/us/movie/id474618823)). This documentary was recommended to me by one of the most phenomenal artists I know, [Dustin Yellin](https://tim.blog/2020/09/24/dustin-yellin/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit). _Burden of Dreams_ is a strange and captivating film. It’s a showcase of tackling the impossible, being unrealistic, and failing above others’ successes. On so many levels, the compulsion, single-mindedness, and all-or-nothing drive of legendary filmmaker [Werner Herzog](https://www.wernerherzog.com/) makes no sense. And yet… to me, parts of his journey, and parts of his worldview, make all the sense in the world. This is a bizarre one that will only appeal to a small fraction of you, but here’s the official film description, edited for length: “For nearly five years, Werner Herzog worked on one of the most ambitious and difficult films of his career, [_Fitzcarraldo_](https://www.rottentomatoes.com/m/fitzcarraldo), the story of one man’s attempt to build an opera house deep in the Amazon jungle. Documentary filmmaker [Les Blank](https://en.wikipedia.org/wiki/Les_Blank) captured the unfolding of this production, including a sequence requiring \\[the pulling of\\] a full-size, 320-ton steamship over a small mountain.”",
+      "original_url": "https://www.amazon.com/gp/video/detail/B00A5IXEF0/?tag=offsitoftimfe-20",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/gp/video/detail/B00A5IXEF0/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/gp/video/detail/B00A5IXEF0/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://itunes.apple.com/us/movie/id474618823"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/09/24/dustin-yellin/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://www.wernerherzog.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rottentomatoes.com/m/fitzcarraldo"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Les_Blank"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "The Plastic Inside Us",
+      "creator": "Wynne Parry for UCSF Magazine_",
+      "note": "for _UCSF Magazine_. From the article: “Every day, in a thousand ways, we take advantage of the utility of plastic. It’s in our clothes, our cars, our cosmetics, and so much more. But eventually, these products turn into something else: tiny synthetic particles that spread quite literally everywhere—into our air, our food, our water, even inside of us. We are only beginning to tease out what the presence of these microplastics means for our health—and what we can do about it.” I hope to have more thoughts later this year about how to deal with PFAS “forever chemicals.”",
+      "original_url": "https://magazine.ucsf.edu/plastic-inside-us",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://magazine.ucsf.edu/plastic-inside-us"
+        },
+        {
+          "type": "other",
+          "url": "https://www.linkedin.com/in/wynne-parry"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "The Wizard",
+      "creator": "Black Sabbath",
+      "note": "([YouTube](https://www.youtube.com/watch?feature=youtu.be&si=AGWMHzA5EiMn1Fsy&v=69rU9ajij10), [Spotify](https://open.spotify.com/track/6sjTzevtstOxOMsFsypsEm?context=spotify%3Aartist%3A6ZLTlhejhndI4Rh53vYhrY&si=okVRL0ksQbixDyMoRg0O3A), [Apple Music](https://music.apple.com/au/song/the-wizard-2009-remaster/1439794103)) by [Black Sabbath](https://www.blacksabbath.com/). Harmonica?!? RIP Ozzy. What a legend.",
+      "original_url": "https://www.youtube.com/watch?feature=youtu.be&si=AGWMHzA5EiMn1Fsy&v=69rU9ajij10",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?feature=youtu.be&si=AGWMHzA5EiMn1Fsy&v=69rU9ajij10"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?feature=youtu.be&si=AGWMHzA5EiMn1Fsy&v=69rU9ajij10"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/6sjTzevtstOxOMsFsypsEm?context=spotify%3Aartist%3A6ZLTlhejhndI4Rh53vYhrY&si=okVRL0ksQbixDyMoRg0O3A"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/au/song/the-wizard-2009-remaster/1439794103"
+        },
+        {
+          "type": "other",
+          "url": "https://www.blacksabbath.com/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“A writer’s heart, a poet’s heart, an artist’s heart, a musician’s heart is always breaking. It is through that broken window that we see the world.” — Alice Walker (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my brand-new conversation with Dr. Michael Levin of Tufts University on bioelectricity, the cognition of cells, treating cancer without drugs, and much, much more. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Alice Walker",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Alice_Walker",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Alice_Walker"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/A48d6"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/01/21/dr-michael-levin/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

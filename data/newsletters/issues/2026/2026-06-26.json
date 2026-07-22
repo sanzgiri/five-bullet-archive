@@ -7,7 +7,7 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "partial",
+  "extraction_status": "extracted",
   "special_edition": true,
   "bullets": [
     {
@@ -16,22 +16,26 @@
       "category": "podcast",
       "title": "Relaxing Bird Songs and Nature",
       "creator": null,
-      "note": "The location is Ōtaki Village, Kiso District, Nagano Prefecture, Japan. I can’t wait to get back to good ol’ Nihon. [Natsukashii](https://click.fourhourmail.com/5qu8lqg33u7hnrzoq8a6h9xnopwltnh7mg/48hvhehmd0le6muxh7/aHR0cDovL3d3dy5iYmMuY29tL3RyYXZlbC9zdG9yeS8yMDIwMDExOS1hLXVuaXF1ZWx5LWphcGFuZXNlLXRha2Utb24tbm9zdGFsZ2lhIzp- OnRleHQ9TmF0c3VrYXNoaWklMjBpcyUyMGElMjBKYXBhbmVzZSUyMHdvcmQsZm9uZCUyMG1lbW9yeSUyMGZyb20lMjB5b3VyJTIwcGFzdC4mdGV4dD1CdXQlMjBuYXRzdWthc2hpaSUyMCVFMiU4MCU5MyUyMHdoaWNoJTIwZGVyaXZlcyUyMGZyb20sZGVzaXJlJTIwdG8lMjByZXR1cm4lMjB0byUyMGl0Lg==)!",
+      "note": "The location is Ōtaki Village, Kiso District, Nagano Prefecture, Japan. I can’t wait to get back to good ol’ Nihon. [_Natsukashii_](http://www.bbc.com/travel/story/20200119-a-uniquely-japanese-take-on-nostalgia#:~:text=Natsukashii%20is%20a%20Japanese%20word,fond%20memory%20from%20your%20past.&text=But%20natsukashii%20%E2%80%93%20which%20derives%20from,desire%20to%20return%20to%20it.)!",
       "original_url": "https://www.youtube.com/watch?v=CfgOfy0U0ek",
       "links": [
         {
           "type": "original",
           "url": "https://www.youtube.com/watch?v=CfgOfy0U0ek"
+        },
+        {
+          "type": "other",
+          "url": "http://www.bbc.com/travel/story/20200119-a-uniquely-japanese-take-on-nostalgia#:~:text=Natsukashii%20is%20a%20Japanese%20word,fond%20memory%20from%20your%20past.&text=But%20natsukashii%20%E2%80%93%20which%20derives%20from,desire%20to%20return%20to%20it."
         }
       ]
     },
     {
       "position": 2,
       "section": "Blog post I’m reading",
-      "category": "book",
+      "category": "article",
       "title": "How to think in writing",
       "creator": "Henrik Karlsson",
-      "note": "by Henrik Karlsson.",
+      "note": ".",
       "original_url": "https://www.henrikkarlsson.xyz/p/writing-to-think",
       "links": [
         {
@@ -49,8 +53,8 @@
       "section": "Short video I’m enjoying",
       "category": "video",
       "title": "V Shivapriya & BR Somashekar Jois | Konnakkol Duet",
-      "creator": "Vidwan B R Somashekar Jois and Kumari V Shivapriya",
-      "note": "This might just blow your mind, especially if you remember that these vocal gymnastics can be transferred directly to percussion instruments. Jump to 2:40 for a short preview. From the description: “We begin Season 3 with the most traditional, classical & ancient vocal percussive art form of India; the mother of all percussive languages – Konnakkol. In this video, we present to you an exclusive ‘Konnakkol Duet’ by Vidwan B R Somashekar Jois and Kumari V Shivapriya.”\n\nIf you want extra credit, pair this video with a few clips of renowned drummer Terry Bozzio (@TerryBozzio): “Solos & Duets” (1hr+) and “Baby Snakes” (three-minute drum solo). Thanks to drummer Dave Elitch (@daveelitch) for all the recommendations.",
+      "creator": null,
+      "note": "This might just blow your mind, especially if you remember that these vocal gymnastics can be transferred directly to percussion instruments. [Jump to 2:40 for a short preview](https://www.youtube.com/watch?si=AkxdE85o939yLh4Z&t=160&v=iurhjlBum0o). From the description: “We begin Season 3 with the most traditional, classical & ancient vocal percussive art form of India; the mother of all percussive languages – Konnakkol. In this video, we present to you an exclusive ‘Konnakkol Duet’ by Vidwan B R Somashekar Jois and Kumari V Shivapriya.”  \n​  \nIf you want extra credit, pair this video with a few clips of renowned drummer [Terry Bozzio](https://en.wikipedia.org/wiki/Terry_Bozzio) ([@TerryBozzio](https://twitter.com/terrybozzio)): “[Solos & Duets](https://www.youtube.com/watch?v=a3F7ZizBPWg)” (1hr+) and “[Baby Snakes](https://www.youtube.com/watch?v=hQtqvl3FsBY)” (three-minute drum solo). Thanks to drummer [Dave Elitch](https://tim.blog/2018/11/26/dave-elitch/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@daveelitch](https://www.instagram.com/daveelitch/?hl=en)) for all the recommendations.",
       "original_url": "https://www.youtube.com/watch?v=iurhjlBum0o",
       "links": [
         {
@@ -93,7 +97,7 @@
       "category": "video",
       "title": "Derek DelGaudio’s In & Of Itself",
       "creator": null,
-      "note": "(Hulu). Derek’s feats of magic are rivaled by his feats of social engineering, memory, and more. I found the entire show incredibly inventive. Even if you don’t have Hulu or won’t subscribe, the trailer here is worth watching. Description: “Storyteller and conceptual magician Derek DelGaudio attempts to understand the illusory nature of identity and answer the deceptively simple question ‘Who am I?’”",
+      "note": "(Hulu). Derek’s feats of magic are rivaled by his feats of social engineering, memory, and more. I found the entire show incredibly inventive. Even if you don’t have Hulu or won’t subscribe, [the trailer here](https://www.youtube.com/watch?v=0I8s9OzmHHQ) is worth watching. Description: “Storyteller and conceptual magician Derek DelGaudio attempts to understand the illusory nature of identity and answer the deceptively simple question ‘Who am I?’”",
       "original_url": "http://www.hulu.com/watch/1000152080?d=Gracenote&cmp=rt_where_to_watch",
       "links": [
         {
@@ -109,10 +113,10 @@
     {
       "position": 5,
       "section": "Letter I’m reading",
-      "category": "book",
+      "category": "article",
       "title": "Johnny Cash",
       "creator": null,
-      "note": "letter to June Carter Cash, 23rd June 1994",
+      "note": ", [letter to June Carter Cash](https://www.buzzfeed.com/alanwhite/this-wonderful-love-letter-from-johnny-cash-to-his-wife-will), 23rd June 1994\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [my brand-new conversation](https://www.youtube.com/watch?v=gL48mHH6ul8) with Wade Davis and Dr. Andrew Weil on coca—the “divine leaf” with 8,000+ years of use—exploring its many benefits.  \n​  \nAnd, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
       "original_url": "https://en.wikipedia.org/wiki/Johnny_Cash",
       "links": [
         {
@@ -122,6 +126,14 @@
         {
           "type": "other",
           "url": "https://www.buzzfeed.com/alanwhite/this-wonderful-love-letter-from-johnny-cash-to-his-wife-will"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=gL48mHH6ul8"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
         }
       ]
     }

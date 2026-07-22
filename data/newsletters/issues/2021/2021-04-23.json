@@ -7,7 +7,119 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "The New Yorker: Fiction podcast",
+      "creator": null,
+      "note": "([Apple Podcasts](https://podcasts.apple.com/us/podcast/the-new-yorker-fiction/id256945396), [Google Podcasts](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLndueWMub3JnL3RueWZpY3Rpb24=), or [Overcast](https://overcast.fm/itunes256945396/the-new-yorker-fiction)). Based on my brother’s recommendation, I started with “[Douglas Stuart Reads Kevin Barry](https://podcasts.apple.com/us/podcast/douglas-stuart-reads-kevin-barry/id256945396?i=1000511111518).” It contains a lot of cursing and is hysterical. The first few minutes of the intro are slow, but the reading of the piece is exceptional, and Douglas’ accent is like verbal velvet.",
+      "original_url": "https://www.newyorker.com/podcast/fiction",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.newyorker.com/podcast/fiction"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/the-new-yorker-fiction/id256945396"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLndueWMub3JnL3RueWZpY3Rpb24="
+        },
+        {
+          "type": "other",
+          "url": "https://overcast.fm/itunes256945396/the-new-yorker-fiction"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/douglas-stuart-reads-kevin-barry/id256945396?i=1000511111518"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "I was hospitalized for depression. Faith helped me remember how to live.",
+      "creator": "Michael Gerson",
+      "note": "com/mjgerson)) for _The Washington Post._ If you prefer video, you can [watch the original sermon here](https://www.youtube.com/watch?v=xYu4xKGRi8Q).",
+      "original_url": "https://www.washingtonpost.com/religion/2019/02/18/i-was-hospitalized-depression-faith-helped-me-remember-how-live/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.washingtonpost.com/religion/2019/02/18/i-was-hospitalized-depression-faith-helped-me-remember-how-live/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/mjgerson"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=xYu4xKGRi8Q"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Derek DelGaudio’s In & Of Itself",
+      "creator": null,
+      "note": "(Hulu). Derek’s feats of magic are rivaled by his feats of social engineering, memory, and more. I found the entire show incredibly inventive. Even if you don’t have Hulu or won’t subscribe, [the trailer here](https://www.youtube.com/watch?v=_62BeXxd_jo) is worth watching. Description: “Storyteller and conceptual magician Derek DelGaudio attempts to understand the illusory nature of identity and answer the deceptively simple question ‘Who am I?’”",
+      "original_url": "http://www.hulu.com/watch/1000152080?d=Gracenote&cmp=rt_where_to_watch",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://www.hulu.com/watch/1000152080?d=Gracenote&cmp=rt_where_to_watch"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=_62BeXxd_jo"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m watching (very short) —",
+      "category": "video",
+      "title": "Mollii helps Kevin who suffers Parkinsonism/idiopathic tremor",
+      "creator": null,
+      "note": "This video is just as magical as the above, but it’s a hard science problem. Nonetheless, it’s difficult for me to wrap my head around how it works so well. Has anyone reading this had firsthand experience with such a suit? If so, please let me know [@tferriss on Twitter](https://twitter.com/tferriss) with #parkinsons so I can find you. Here’s the technical description: “\\[Mollii is\\] a comfortable jacket and trousers with built-in electro-stimulation for adults and children living with motor function and other disabilities. Each suit delivers individually programmed electro-stimulation to muscle groups over the whole body simultaneously during a 60 minute session. Mollii’s sensory-level stimulation brings relief and help where needed by prompting natural responses of muscle inhibition, muscle activation and pain relief, lasting for up to 48 hours.”",
+      "original_url": "https://www.youtube.com/watch?v=dCyKQcuBl_k",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=dCyKQcuBl_k"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“We are all agreed that your theory is crazy. The question that divides us is whether it is crazy enough to have a chance of being correct.” — Niels BohrAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Niels BohrAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Niels_Bohr",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Niels_Bohr"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

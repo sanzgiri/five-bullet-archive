@@ -7,7 +7,115 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading (longer but easy) —",
+      "category": "book",
+      "title": "Tales of the Dervishes: Teaching-Stories of the Sufi Masters over the Past Thousand Years",
+      "creator": null,
+      "note": "Sometimes I learn, and absorb usable truths, best through time-tested fiction. Most stories in this book are only 1–5 pages long. Description: “Dervish tales are more than fable, legend, or folklore. For centuries, dervish masters have instructed their disciples by means of these teaching stories, which are said to increase perception and knowledge and provide a better understanding of man and the world. … Idries Shah spent many years traveling through three continents to collect and compare oral versions of these remarkable stories. This anthology…contains stories drawn from the repertories of dervish masters over a period of more than a thousand years.”",
+      "original_url": "https://www.amazon.com/Tales-Dervishes-Teaching-Stories-Masters-Thousand/dp/0140193588",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Tales-Dervishes-Teaching-Stories-Masters-Thousand/dp/0140193588"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m rereading (short) —",
+      "category": "article",
+      "title": "Do Not Disturb: How I Ditched My Phone and Unbroke My Brain",
+      "creator": "Kevin Roose",
+      "note": "com/kevinroose)) for _The New York Times_.",
+      "original_url": "https://www.nytimes.com/2019/02/23/business/cell-phone-addiction.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/2019/02/23/business/cell-phone-addiction.html"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/kevinroose"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "My Octopus Teacher",
+      "creator": null,
+      "note": "Short description: “A filmmaker forges an unusual friendship with an octopus living in a South African kelp forest, learning as the animal shares the mysteries of her world.” Second, [**The Art of Living with Less Stress**](https://www.youtube.com/watch?v=amS0u15AL14) by [Derek Sivers](https://tim.blog/2015/12/14/derek-sivers-on-developing-confidence-finding-happiness-and-saying-no-to-millions/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@sivers](https://twitter.com/sivers?lang=en)), which I’m watching repeatedly. The latter might seem odd, as it’s a short clip from a podcast interview I was already part of, but I often choose what I’ll produce (interviews, videos, animations, blog posts, etc.) based on what lessons I most need to revisit. Derek’s stories in this video are currently at the top of my list.",
+      "original_url": "https://www.netflix.com/title/81045007",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.netflix.com/title/81045007"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=amS0u15AL14"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/12/14/derek-sivers-on-developing-confidence-finding-happiness-and-saying-no-to-millions/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/sivers?lang=en"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Beauty Beats",
+      "creator": "Beats Antique",
+      "note": "([YouTube](https://www.youtube.com/watch?v=apu_2WRrSaI), [Spotify](https://open.spotify.com/album/5UPjxVI1xabSZjcRXEpl52?highlight=spotify:track:0Jk5J9HrDmCEKV7xYmaB6m)) by Beats Antique ([@BeatsAntique](https://twitter.com/beatsantique)).",
+      "original_url": "https://www.youtube.com/watch?v=apu_2WRrSaI",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=apu_2WRrSaI"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=apu_2WRrSaI"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/album/5UPjxVI1xabSZjcRXEpl52?highlight=spotify:track:0Jk5J9HrDmCEKV7xYmaB6m"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/beatsantique"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Nature does not hurry, yet everything is accomplished.” — Lao Tzu And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Lao Tzu And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Laozi",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Laozi"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

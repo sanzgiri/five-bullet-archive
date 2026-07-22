@@ -6,7 +6,178 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Interview I’m watching",
+      "category": "video",
+      "title": "Sir Michael Caine",
+      "creator": null,
+      "note": "**If you only have 90 seconds,** [**watch this clip on “using the difficulty.”**](https://youtu.be/VXSVqg1KCbw?si=u8p-RmsL-zXIfyq3) This gem from the archives also features the late [Sir Michael Parkinson](https://www.bbc.com/news/entertainment-arts-66430865), who interviewed more than 2,000 renowned guests, including Muhammad Ali, Sir Paul McCartney, and Dame Judi Dench. Equal in prodigious output is the legendary [Sir Michael Caine](https://en.wikipedia.org/wiki/Michael_Caine), his guest, who has appeared in more than 160 films.",
+      "original_url": "https://www.youtube.com/watch?v=t-7xyd5_IfY",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=t-7xyd5_IfY"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/VXSVqg1KCbw?si=u8p-RmsL-zXIfyq3"
+        },
+        {
+          "type": "other",
+          "url": "https://www.bbc.com/news/entertainment-arts-66430865"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Michael_Caine"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Book I gifted during the holidays",
+      "category": "book",
+      "title": "Y: The Last Man",
+      "creator": null,
+      "note": "Deluxe Edition, Volume One.** Stephen King has called _Y: The Last Man_ “the best graphic novel I’ve ever read.” From the description: “The first ten issues of the award-winning series written by [Brian K. Vaughan](https://www.instagram.com/briankvaughan/) (_Ex Machina, Lost_) are collected in an oversized hardcover with a new cover.” Excellent illustration work by [Pia Guerra](https://www.instagram.com/pia.guerra/). I’ve previously recommended [_Saga: Compendium One_](https://www.amazon.com/Saga-Compendium-Brian-K-Vaughan/dp/153431346X/) from Brian, illustrator [Fiona Staples](https://www.instagram.com/fionastaples/), and letterer/graphic designer [Fonografiks](https://imagecomics.com/creators/fonografiks) (Steven Finch). Thanks to OP for introducing me to _Y_!",
+      "original_url": "https://www.amazon.com/Last-Man-Book-Deluxe/dp/1401219217/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Last-Man-Book-Deluxe/dp/1401219217/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/briankvaughan/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/pia.guerra/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Saga-Compendium-Brian-K-Vaughan/dp/153431346X/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/fionastaples/"
+        },
+        {
+          "type": "other",
+          "url": "https://imagecomics.com/creators/fonografiks"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "Dr. Kelan Thomas",
+      "creator": "Dr",
+      "note": ". From the conclusion: “It is important to differentiate the potential risk associated with prolonged and repeated microdosing from the very limited physiological safety risk posed by a few ‘macrodoses’ given weeks or months apart for psychedelic-assisted therapy. That said, given the lack of clinical trial evidence showing any clear benefit for microdosing, and the concerning theoretical safety risk of VHD \\[valvular heart disease\\], it is worth proceeding with caution and, at the very least, taking some weeks off between 4-week microdosing intervals. I would also encourage long-term microdosing researchers and microdosing survey app developers to begin collecting routine echocardiography results to systematically evaluate the risk of VHD.”",
+      "original_url": "https://tu.edu/programs/pharmacy/faculty/list/thomas-kelan.php",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tu.edu/programs/pharmacy/faculty/list/thomas-kelan.php"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "App I’m testing",
+      "category": "other",
+      "title": "Matter",
+      "creator": null,
+      "note": "I’ve been looking for a lightweight text2voice solution for listening to articles, blog posts, essays, etc., and I just started experimenting with Matter. It’s remarkably simple, and there are a handful of voices to choose from. Here’s the official description: “Matter pulls everything you want to read into one beautiful place. With powerful tools, curation, seamless audio and more, we’re building a reader for today’s internet.” It was originally put on my radar by [M.G. Siegler](https://500ish.com/a-matter-of-time-e5eda071fe3), who is an investor. Since I’m old-school and also still use [Evernote](https://evernote.com/), if anyone has an Evernote-native solution or simple workaround, or other dead-simple text2voice solutions, please let me know by [sending a tweet to @tferriss](http://twitter.com/tferriss).",
+      "original_url": "https://hq.getmatter.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://hq.getmatter.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://500ish.com/a-matter-of-time-e5eda071fe3"
+        },
+        {
+          "type": "other",
+          "url": "https://evernote.com/"
+        },
+        {
+          "type": "other",
+          "url": "http://twitter.com/tferriss"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Tequila I’m sipping with friends",
+      "category": "other",
+      "title": "LALO",
+      "creator": null,
+      "note": "I first had LALO at [Suerte](https://www.suerteatx.com/) in Austin, Texas, at the strong recommendation of the waiter. This was several years ago, and it was a new staff favorite. I was having a long overdue dinner with the lovely [Chase Jarvis](https://www.youtube.com/watch?v=PoZVSS3o-Rg) and his even lovelier wife, and we ended up drinking and talking for hours upon hours. I assumed my next day would be a total write-off, as would usually be the case with that much booze. I was shocked to wake up with no hangover, and LALO has been my go-to tequila ever since. The morning after [this week’s Random Show with Kevin Rose](https://tim.blog/2023/12/27/the-random-show-2024-new-years-resolutions/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), he texted me with “Dude, I literally have zero hangover from that tequila. That is amazing!” Of course, your mileage may vary, and I drink it on the rocks with soda and lime or as a fresh-squeezed paloma, but it still surprises me every time.  \n​  \nLALO is a rare additive-free tequila, and the maestro tequilero behind it, instead of harvesting immature plants and relying on barrels or added sugars, patiently waits for the plants to reach full maturity, which naturally creates their signature clean flavor profile. Lalo, one of the three co-founders and the aforementioned tequilero, is the grandson of Don Julio González of “Don Julio” fame. LALO is also one of the few Mexican majority-owned tequila brands found in the US.  \n​  \nPerhaps 18 months ago, a good friend reached out with “I know you’ve mentioned LALO tequila before. Would you have any interest in investing in them?” It turned out that the CEO of LALO had officiated his wedding! Small world. And that is how LALO became my one and only investment in spirits. It’s beautiful when things come together like that.",
+      "original_url": "https://lalospirits.com/collections/tequila",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://lalospirits.com/collections/tequila"
+        },
+        {
+          "type": "other",
+          "url": "https://www.suerteatx.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=PoZVSS3o-Rg"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/12/27/the-random-show-2024-new-years-resolutions/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“And it dawned on me that I might have to change my inner thought patterns...that I would have to start believing in possibilities that I wouldn’t have allowed before, that I had been closing my creativity down to a very narrow, controllable scale...that things had become too familiar and I might have to disorient myself.” — Bob Dylan (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with these six, short life lessons from actor Terry Crews, this clip on conquering self-doubt with comic book legend Todd McFarlane, and this week’s Random Show with my good friend Kevin Rose. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful and safe New Year’s Eve, everyone! Much love to you and yours, Tim",
+      "creator": "Bob Dylan",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Bob_Dylan",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Bob_Dylan"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Amos_Tversky"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/8Uc9A"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/11/21/terry-crews/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/mzlXJSaDNqg?si=8ot2G19IOy2uUD-4"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/12/27/the-random-show-2024-new-years-resolutions/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

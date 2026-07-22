@@ -6,7 +6,108 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Article I’m re-reading —",
+      "category": "article",
+      "title": "Nick Littlehales: the man who showed Cristiano Ronaldo how to sleep",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/4zup485rraehq74v9/opfkhq/aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2Zvb3RiYWxsL2Jsb2cvMjAxNS9qdWwvMjMvbmljay1saXR0bGVoYWxlcy10aGUtbWFuLXdoby10YXVnaHQtY3Jpc3RpYW5vLXJvbmFsZG8taG93LXRvLXNsZWVw",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehq74v9/opfkhq/aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2Zvb3RiYWxsL2Jsb2cvMjAxNS9qdWwvMjMvbmljay1saXR0bGVoYWxlcy10aGUtbWFuLXdoby10YXVnaHQtY3Jpc3RpYW5vLXJvbmFsZG8taG93LXRvLXNsZWVw"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Purchase I’m enjoying —",
+      "category": "other",
+      "title": "Plackers twin-line dental floss",
+      "creator": null,
+      "note": "Let’s face it: most of us hate flossing, present company included. This floss was introduced to me by performance coach and PT [Kelly Starrett](https://el2.fourhourmail.com/c/4zup485rraehq74v9/pnceh9/aHR0cHM6Ly93d3cubW9iaWxpdHl3b2QuY29tLw==), and it makes getting in between teeth a breeze, lessening the likelihood of the saw-saw-pop-bleed mess. Combine with something like [a Sonicare toothbrush](https://el2.fourhourmail.com/c/4zup485rraehq74v9/xksph6/aHR0cHM6Ly93d3cudXNhLnBoaWxpcHMuY29tL2MtbS1wZS9lbGVjdHJpYy10b290aGJydXNoZXM=) and your dentist will have far less work to do.",
+      "original_url": "https://el2.fourhourmail.com/c/4zup485rraehq74v9/zvtghn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9QbGFja2Vycy1Ud2luLUxpbmUtRGVudGFsLUZsb3NzLVBpY2tzL2RwL0IwMTBCOTEyNFcv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehq74v9/zvtghn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9QbGFja2Vycy1Ud2luLUxpbmUtRGVudGFsLUZsb3NzLVBpY2tzL2RwL0IwMTBCOTEyNFcv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehq74v9/pnceh9/aHR0cHM6Ly93d3cubW9iaWxpdHl3b2QuY29tLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehq74v9/xksph6/aHR0cHM6Ly93d3cudXNhLnBoaWxpcHMuY29tL2MtbS1wZS9lbGVjdHJpYy10b290aGJydXNoZXM="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Helpful shortcut I’m using —",
+      "category": "other",
+      "title": "Tristan Harris",
+      "creator": null,
+      "note": "for switching between grayscale and color.** I’ve previously recommended switching your iPhone to grayscale as a means of reducing social media use, based on [Tristan Harris](https://el2.fourhourmail.com/c/4zup485rraehq74v9/60aeh8/aHR0cDovL3d3dy50cmlzdGFuaGFycmlzLmNvbS8=)’s recommendation via comedian [Whitney Cummings](https://el2.fourhourmail.com/c/4zup485rraehq74v9/kmbmh6/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzA2LzI2L3doaXRuZXktY3VtbWluZ3MvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg==). It really works. Alas, the process involves many steps and is a pain in the ass. Fortunately, “The Crazy Bulgarian” (his requested name), introduced me to a great shortcut [via Lifehacker](https://el2.fourhourmail.com/c/4zup485rraehq74v9/52hvh7/aHR0cHM6Ly9saWZlaGFja2VyLmNvbS9jaGFuZ2UteW91ci1zY3JlZW4tdG8tZ3JheXNjYWxlLXRvLWNvbWJhdC1waG9uZS1hZGRpY3RpLTE3OTU4MjE4NDM=), “To easily toggle between color and grayscale, go to Settings > General > Accessibility > Accessibility Shortcut > Color Filters. Now, you just press the home button three times to enable grayscale. Triple-click again to go back to color.”",
+      "original_url": "https://el2.fourhourmail.com/c/4zup485rraehq74v9/60aeh8/aHR0cDovL3d3dy50cmlzdGFuaGFycmlzLmNvbS8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehq74v9/60aeh8/aHR0cDovL3d3dy50cmlzdGFuaGFycmlzLmNvbS8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehq74v9/kmbmh6/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzA2LzI2L3doaXRuZXktY3VtbWluZ3MvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehq74v9/52hvh7/aHR0cHM6Ly9saWZlaGFja2VyLmNvbS9jaGFuZ2UteW91ci1zY3JlZW4tdG8tZ3JheXNjYWxlLXRvLWNvbWJhdC1waG9uZS1hZGRpY3RpLTE3OTU4MjE4NDM="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Every day of our lives, we are on the verge of making those slight changes that would make all the difference.” — Mignon McLaughlin [](https://el2.fourhourmail.com/c/4zup485rraehq74v9/q3i8h7/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWlnbm9uX01jTGF1Z2hsaW4=)And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim [](https://el2.fourhourmail.com/c/4zup485rraehq74v9/93tzhn/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #508, Austin TX 78703, United States",
+      "creator": "Mignon McLaughlin",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/4zup485rraehq74v9/2ou2ho/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWlnbm9uX01jTGF1Z2hsaW4=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehq74v9/2ou2ho/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWlnbm9uX01jTGF1Z2hsaW4="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehq74v9/gvfnh5/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehq74v9/3wcphk/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/4zup485rraehq74v9"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/4zup485rraehq74v9/43avhe/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

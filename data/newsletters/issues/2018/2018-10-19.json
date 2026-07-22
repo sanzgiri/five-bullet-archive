@@ -6,7 +6,155 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "New booze I’m enjoying more than I should —",
+      "category": "other",
+      "title": "Desert Door Texas sotol",
+      "creator": null,
+      "note": "I was recently introduced to this at the amazing [Trans-Pecos festival](https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/7df7h8h02p0w3/aHR0cHM6Ly9lbGNvc21pY28uY29tL2V2ZW50L3RyYW5zLXBlY29zLWZlc3RpdmFsLW9mLW11c2ljLWxvdmUtMjAxOC8=) held by [Liz Lambert](https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/zvtghnho2rop5/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzA2LzE0L2xpei1sYW1iZXJ0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=) at [El Cosmico](https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/x6cph6hnvdn9o/aHR0cHM6Ly9lbGNvc21pY28uY29tLw==) in Marfa, Texas. From the [Wikipedia entry on sotol](https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/kvsmh6h80286w/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvU290b2w=): “Sotol is a distilled spirit sourced from _Dasylirion wheeleri_, Asparagaceae (commonly known as Desert Spoon or, in Spanish, sotol), a plant that grows in northern Mexico, New Mexico, west Texas, and the Texas Hill Country. It is known as the state drink of Chihuahua, Durango and Coahuila, and is also currently produced in Central Texas. There are few commercial examples available.” This low-calorie Desert Door brand has just three ingredients—wild sotol, organic yeast, and purified natural Texas water. It tastes something like a blend of tequila and mezcal with a hot-flush finish.",
+      "original_url": "https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/drieh0hq9wq85/aHR0cHM6Ly93d3cuZGVzZXJ0ZG9vci5jb20vc290b2xz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/drieh0hq9wq85/aHR0cHM6Ly93d3cuZGVzZXJ0ZG9vci5jb20vc290b2xz"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/7df7h8h02p0w3/aHR0cHM6Ly9lbGNvc21pY28uY29tL2V2ZW50L3RyYW5zLXBlY29zLWZlc3RpdmFsLW9mLW11c2ljLWxvdmUtMjAxOC8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/zvtghnho2rop5/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzA2LzE0L2xpei1sYW1iZXJ0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/x6cph6hnvdn9o/aHR0cHM6Ly9lbGNvc21pY28uY29tLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/kvsmh6h80286w/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvU290b2w="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Person I’m studying —",
+      "category": "other",
+      "title": "Publius Cornelius Scipio Africanus",
+      "creator": null,
+      "note": "(236–183 BC), also known as Scipio the African, Scipio Africanus-Major, Scipio Africanus the Elder, and Scipio the Great, was a Roman general and later consul often regarded as one of the greatest generals and military strategists of all time. His main achievements are thought to have occurred during the Second Punic War, in which he is best known for defeating Hannibal at the final battle at Zama in 202 BC, one of the feats that earned him the agnomen “Africanus.\"",
+      "original_url": "https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/2wa2hoh7p074w/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvU2NpcGlvX0FmcmljYW51cw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/2wa2hoh7p074w/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvU2NpcGlvX0FmcmljYW51cw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Poem/song I am revisiting —",
+      "category": "music",
+      "title": "A Thousand Kisses Deep",
+      "creator": "Leonard Cohen",
+      "note": "This one is worth reading a few times… and then a few times more.",
+      "original_url": "https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/gobnh5he8oe65/aHR0cHM6Ly93d3cubGVvbmFyZGNvaGVuZmlsZXMuY29tL2tpc3Nlcy5odG1s",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/gobnh5he8oe65/aHR0cHM6Ly93d3cubGVvbmFyZGNvaGVuZmlsZXMuY29tL2tpc3Nlcy5odG1s"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Photographic blasts from the past —",
+      "category": "other",
+      "title": "smooching with a giraffe in Kenya",
+      "creator": null,
+      "note": ", [the Buenos Aires Tango Championships](https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/gqunh5he8oe62/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JuNnRRdUNpNTdxLz90YWtlbi1ieT10aW1mZXJyaXNz), and [Brazil in 2005](https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/n8iohvhn95nrw/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JteTVxSEpIejRx), which proved to be surprisingly popular (especially the hair-related commentary). Should I keep posting pics from the early days? If so, any particular requests? Let me know by sending a tweet to [@tferriss](https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/rlf8hohqlvqx3/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==).",
+      "original_url": "https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/ndhohvhn95n6z/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0Jvd1ZrcFVpWUNoLz90YWtlbi1ieT10aW1mZXJyaXNz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/ndhohvhn95n6z/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0Jvd1ZrcFVpWUNoLz90YWtlbi1ieT10aW1mZXJyaXNz"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/gqunh5he8oe62/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JuNnRRdUNpNTdxLz90YWtlbi1ieT10aW1mZXJyaXNz"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/n8iohvhn95nrw/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JteTVxSEpIejRx"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/rlf8hohqlvqx3/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“The truth knocks on the door and you say, ‘Go away, I'm looking for the truth,’ and so it goes away. Puzzling.” — Robert M. Pirsig And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim [](https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/7xs7h8h02p0z0/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRC5fSC5fTGF3cmVuY2U=) [](https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/x7aph6hnvdn39/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUmFqbmVlc2g=) [](https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/kzbmh6h8028mm/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWFlX1dlc3Q=) P.S. I’d like to raise a glass in tribute to two of my good friends who have passed away. Famed strength and performance coach Charles Poliquin unexpectedly died on September 26th, and I will miss him. He always loved my listeners and readers. You can find his profile from Tools of Titans here and our podcast together here. One year ago this week, Terry Laughlin, who taught me how to swim in my thirties, passed away. Terry recorded his last ever interview with me about Total Immersion (TI) swimming and his philosophies, and you can see him in action on this TV episode of The Tim Ferriss Experiment. Many of his beautiful life lessons were also shared in his profile from Tribe of Mentors. Charles and Terry, my friends, may you both rest in peace. You made the world a better place. [](https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/88cqhohg6pg9v/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #508, Austin TX 78703, United States",
+      "creator": "Robert M. Pirsig And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/vet3hrhn93ng3/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUm9iZXJ0X00uX1BpcnNpZw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/vet3hrhn93ng3/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUm9iZXJ0X00uX1BpcnNpZw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/80cqhohg6pg92/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/23h2hoh7p07dn/aHR0cHM6Ly9maHd3LmZpbGVzLndvcmRwcmVzcy5jb20vMjAxOC8xMC9jaGFybGVzX3BvbGlxdWluX3Rvb2xzX29mX3RpdGFucy5wZGY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/g6unh5he8oepg/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzA3LzIxL2NoYXJsZXMtcG9saXF1aW4vP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/3viphkhq59qz0/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzEwLzI5L3RlcnJ5LWxhdWdobGluLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/4efvheh0dq0gl/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3RoZXRpbWZlcnJpc3NleHBlcmltZW50L3ZpZGVvcy9vcGVuLXdhdGVyLXN3aW1taW5nLzQ3MjA0OTc3OTgyNjUyMi8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/r5t8hohqlvqxz/aHR0cHM6Ly9maHd3LmZpbGVzLndvcmRwcmVzcy5jb20vMjAxOC8xMC90ZXJyeV9sYXVnaGxpbl90cmliZV9vZl9tZW50b3JzLnBkZg=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/lm2sehmhomvorm/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/p9urq7wddu9hl9n82"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/p9urq7wddu9hl9n82/lmkbehmhomvo6l/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

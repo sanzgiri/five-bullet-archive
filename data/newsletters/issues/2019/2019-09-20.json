@@ -7,7 +7,155 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Article I’m reading —",
+      "category": "article",
+      "title": "REBUS and the Anarchic Brain",
+      "creator": null,
+      "note": "This one gets pretty technical, but if you’re interested in models of how the brain might work, how we assemble reality, and so on, this might tickle your fancy.",
+      "original_url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/3qiphkhr96kd8k/aHR0cHM6Ly9xdWFsaWFjb21wdXRpbmcuY29tLzIwMTkvMDgvMjcvY2FyaGFydC1oYXJyaXMtZnJpc3Rvbi0yMDE5LXJlYnVzLWFuZC10aGUtYW5hcmNoaWMtYnJhaW4v",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/3qiphkhr96kd8k/aHR0cHM6Ly9xdWFsaWFjb21wdXRpbmcuY29tLzIwMTkvMDgvMjcvY2FyaGFydC1oYXJyaXMtZnJpc3Rvbi0yMDE5LXJlYnVzLWFuZC10aGUtYW5hcmNoaWMtYnJhaW4v"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Person I’m studying once again —",
+      "category": "other",
+      "title": "Max Planck",
+      "creator": null,
+      "note": "Max Karl Ernst Ludwig Planck (1858–1947) is the originator of modern quantum theories and one of the most important German physicists of the late nineteenth and early twentieth centuries, winning the Nobel Prize in Physics in 1918. I’m particularly fond of perusing [his incredible and often wild quotes](https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/rnt8hoh7v9o5p8/aHR0cHM6Ly9lbi53aWtpcXVvdGUub3JnL3dpa2kvTWF4X1BsYW5jaw==).",
+      "original_url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/4kfvheh9qz7233/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWF4X1BsYW5jaw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/4kfvheh9qz7233/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWF4X1BsYW5jaw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/rnt8hoh7v9o5p8/aHR0cHM6Ly9lbi53aWtpcXVvdGUub3JnL3dpa2kvTWF4X1BsYW5jaw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Video I’m watching —",
+      "category": "video",
+      "title": "Remember Shakti: Bell'Alla prt 2",
+      "creator": null,
+      "note": "I’ve developed a keen interest in hand percussion, and this video is one hell of a showcase. As one professional drummer friend put it, “They’re both heavy, heavy cats. Total masters. I’ve watched that clip dozens of times. No joke.” [Zakir Hussain](https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/l9sehmh4v5dkg0/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvWmFraXJfSHVzc2Fpbl8obXVzaWNpYW4p)’s facial expressions when he’s shredding (in the blue shirt) are priceless. If you’d like a cool overview of the tabla, plus another ripping solo, [check this out](https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/d7aeh0hkwz273o/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1Kb3lrX0VNdHpuMA==).",
+      "original_url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/84cqhoh3pe754e/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj11UFAxRnlnUWZKZyZmZWF0dXJlPXlvdXR1LmJl",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/84cqhoh3pe754e/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj11UFAxRnlnUWZKZyZmZWF0dXJlPXlvdXR1LmJl"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/l9sehmh4v5dkg0/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvWmFraXJfSHVzc2Fpbl8obXVzaWNpYW4p"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/d7aeh0hkwz273o/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1Kb3lrX0VNdHpuMA=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "The next book on my reading list —",
+      "category": "book",
+      "title": "Creative Calling: Establish a Daily Practice, Infuse Your World with Meaning, and Succeed in Work + Life",
+      "creator": "Chase Jarvis",
+      "note": "convertkit-mail.com/c/n4u05gdnnavh30w85uv/z8hghnh7r9mdgr/aHR0cHM6Ly90d2l0dGVyLmNvbS9jaGFzZWphcnZpcw==)). I’ve been looking forward to this. In full disclosure, I haven’t had a chance to crack it open yet, but Chase has always delivered the goods in the past ([he was my 8th guest on the podcast!](https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/x3uph6hzd847gl/aHR0cHM6Ly90aW0uYmxvZy8yMDE0LzA1LzI2L3RoZS10aW0tZmVycmlzcy1zaG93LWVwaXNvZGUtOC1jaGFzZS1qYXJ2aXMtbWFzdGVyLXBob3RvZ3JhcGhlci8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm)). Blurbs for the book include [Debbie Millman](https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/k2imh6he2go979/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzAxLzEyL2hvdy10by1kZXNpZ24tYS1saWZlLWRlYmJpZS1taWxsbWFuLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=), [Seth Godin](https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/2pf2hohg0rqo57/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzExLzAxL3NldGgtZ29kaW4tdGhpcy1pcy1tYXJrZXRpbmcvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg==), [Brandon Stanton](https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/gmtnh5hno70zv3/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzA2LzE4L2JyYW5kb24tc3RhbnRvbi1odW1hbnMtb2YtbmV3LXlvcmsvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg==), [Brené Brown](https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/3wcphkhr96kdw3/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzA4LzI4L2JyZW5lLWJyb3duLW9uLXZ1bG5lcmFiaWxpdHktYW5kLWhvbWUtcnVuLXRlZC10YWxrcy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm), and [Sir Richard Branson](https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/4osvheh9qz72o6/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzEwLzA5L3JpY2hhcmQtYnJhbnNvbi8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm). Chase is an entrepreneur, award-winning artist, and one of the most influential photographers of the past decade, having created campaigns for Apple, Nike, Red Bull, and many others. He was a contributor to the Pulitzer Prize-winning _New York Times_ story “Snowfall,” and he earned an Emmy nomination for his documentary _Portrait of a City_. Chase also created Best Camera—the first photo app to share images to social networks—and he is the founder of [CreativeLive](https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/rga8hoh7v9o58x/aHR0cHM6Ly93d3cuY3JlYXRpdmVsaXZlLmNvbS8=), where more than 10 million students learn photography, video, design, music, and business from the world’s top creators and entrepreneurs.",
+      "original_url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/79b7h8h8pvx4g8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9DcmVhdGl2ZS1DYWxsaW5nLUVzdGFibGlzaC1QcmFjdGljZS1NZWFuaW5nL2RwLzAwNjI4Nzk5NjA=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/79b7h8h8pvx4g8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9DcmVhdGl2ZS1DYWxsaW5nLUVzdGFibGlzaC1QcmFjdGljZS1NZWFuaW5nL2RwLzAwNjI4Nzk5NjA="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/z8hghnh7r9mdgr/aHR0cHM6Ly90d2l0dGVyLmNvbS9jaGFzZWphcnZpcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/x3uph6hzd847gl/aHR0cHM6Ly90aW0uYmxvZy8yMDE0LzA1LzI2L3RoZS10aW0tZmVycmlzcy1zaG93LWVwaXNvZGUtOC1jaGFzZS1qYXJ2aXMtbWFzdGVyLXBob3RvZ3JhcGhlci8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/k2imh6he2go979/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzAxLzEyL2hvdy10by1kZXNpZ24tYS1saWZlLWRlYmJpZS1taWxsbWFuLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/2pf2hohg0rqo57/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzExLzAxL3NldGgtZ29kaW4tdGhpcy1pcy1tYXJrZXRpbmcvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/gmtnh5hno70zv3/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzA2LzE4L2JyYW5kb24tc3RhbnRvbi1odW1hbnMtb2YtbmV3LXlvcmsvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/3wcphkhr96kdw3/aHR0cHM6Ly90aW0uYmxvZy8yMDE1LzA4LzI4L2JyZW5lLWJyb3duLW9uLXZ1bG5lcmFiaWxpdHktYW5kLWhvbWUtcnVuLXRlZC10YWxrcy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/4osvheh9qz72o6/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzEwLzA5L3JpY2hhcmQtYnJhbnNvbi8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/rga8hoh7v9o58x/aHR0cHM6Ly93d3cuY3JlYXRpdmVsaXZlLmNvbS8="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“To the economically illiterate, if some company makes a million dollars in profit, this means that their products cost a million dollars more than they would have cost without profits. It never occurs to such people that these products might cost several million dollars more to produce than if they were produced by enterprises operating without the incentives to be efficient created by the prospect of profits.” — Thomas Sowell [](https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/ldhehmh4v5dkgq/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvV2lsbGlhbV9Db3dwZXI=) And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim [](https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/7vi7h8h8pvx4gl/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSGVsZW5fU2NodWNtYW4=) [](https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/zkfghnh7r9mdgx/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Bd2FyZW5lc3MtT3Bwb3J0dW5pdGllcy1SZWFsaXR5LUFudGhvbnktTWVsbG8vZHAvMDM4NTI0OTM3Mw==) P.S. If you enjoy the podcast, would you please consider leaving a short review on Apple Podcasts/iTunes? It takes less than 60 seconds, and it really makes a difference in helping to convince hard-to-get guests. I also love reading the reviews! Just click on the above link, then: 1. If you’re on a desktop, click on “Listen on Apple Podcasts” under “The Tim Ferriss Show.” Once inside iTunes, click on “Ratings and Reviews” and you’re set. 2. If you’re on an iPhone, simply click on “Reviews.” [](https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/k6cmh6he2go970/aHR0cHM6Ly90aW0uYmxvZy90aW0tZmVycmlzcy1ib29rcy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9zb3VyY2U9bWVkaXVtPTViZi10ZW1wbGF0ZS1oZWFkZXI=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Thomas Sowell",
+      "note": null,
+      "original_url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/8zbqhoh3pe754k/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvVGhvbWFzX1Nvd2VsbA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/8zbqhoh3pe754k/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvVGhvbWFzX1Nvd2VsbA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/dzueh0hkwz273v/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/xntph6hzd847g6/aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL3VzL3BvZGNhc3QvdGhlLXRpbS1mZXJyaXNzLXNob3cvaWQ4NjM4OTc3OTU_bXQ9Mg=="
+        },
+        {
+          "type": "other",
+          "url": "https://files.convertkitcdn.com/assets/pictures/11125/2272828/content_Book_Header_FINAL.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/275s2hohg0rqo5k/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/u/n4u05gdnnavh30w85uv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/n4u05gdnnavh30w85uv/gkrbnh5hno70z24/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

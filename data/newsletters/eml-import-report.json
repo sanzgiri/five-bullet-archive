@@ -1,0 +1,927 @@
+{
+  "generated_at": "2026-07-22T18:31:35.394Z",
+  "input_directory": "imports/five-bullet-emails",
+  "eml_files": 823,
+  "non_newsletter_messages": 405,
+  "newsletter_messages": 418,
+  "unique_newsletter_dates": 418,
+  "duplicate_newsletter_messages": 0,
+  "earliest_issue": "2018-01-12",
+  "latest_issue": "2026-07-17",
+  "dates_already_in_archive": 418,
+  "new_dates": 0,
+  "files_written": 0,
+  "parse_failures": [],
+  "review": [
+    {
+      "issue_date": "2018-01-12",
+      "file": "5-Bullet Friday 86.eml",
+      "reasons": [
+        "one or more titles missing"
+      ]
+    },
+    {
+      "issue_date": "2018-02-02",
+      "file": "5-Bullet Friday 84.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-02-09",
+      "file": "5-Bullet Friday 83.eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-02-16",
+      "file": "5-Bullet Friday 82.eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-03-02",
+      "file": "5-Bullet Friday 80.eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-03-16",
+      "file": "5-Bullet Friday 78.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-03-23",
+      "file": "5-Bullet Friday 77.eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-04-06",
+      "file": "5-Bullet Friday 75.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-06-01",
+      "file": "5-Bullet Friday 67.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-06-08",
+      "file": "5-Bullet Friday 66.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-06-22",
+      "file": "5-Bullet Friday 64.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-07-06",
+      "file": "5-Bullet Friday 62.eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-07-20",
+      "file": "5-Bullet Friday 60.eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-07-27",
+      "file": "5-Bullet Friday 59.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-08-03",
+      "file": "5-Bullet Friday 58.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-08-24",
+      "file": "5-Bullet Friday 55.eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-08-31",
+      "file": "5-Bullet Friday 54.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-09-28",
+      "file": "5-Bullet Friday 51.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-10-05",
+      "file": "5-Bullet Friday 50.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-10-12",
+      "file": "5-Bullet Friday 49.eml",
+      "reasons": [
+        "1 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-10-19",
+      "file": "5-Bullet Friday 48.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-10-26",
+      "file": "5-Bullet Friday 47.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-11-02",
+      "file": "5-Bullet Friday 46.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-11-09",
+      "file": "5-Bullet Friday 45.eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-11-16",
+      "file": "5-Bullet Friday (Berlin Edition) .eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-11-23",
+      "file": "5-Bullet Friday 44.eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-11-30",
+      "file": "5-Bullet Friday 43.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-12-07",
+      "file": "5-Bullet Friday 42.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-12-14",
+      "file": "5-Bullet Friday 41.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2018-12-21",
+      "file": "5-Bullet Friday 40.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-01-04",
+      "file": "5-Bullet Friday 38.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-01-25",
+      "file": "5-Bullet Friday 35.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-02-08",
+      "file": "5-Bullet Friday 33.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-02-22",
+      "file": "5-Bullet Friday 31.eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-03-08",
+      "file": "5-Bullet Friday 29.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-03-22",
+      "file": "5-Bullet Friday 28.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-04-05",
+      "file": "5-Bullet Friday 27.eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-04-26",
+      "file": "5-Bullet Friday 26.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-05-03",
+      "file": "5-Bullet Friday 25.eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-05-24",
+      "file": "5-Bullet Friday 22.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-06-07",
+      "file": "5-Bullet Friday 21.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-06-14",
+      "file": "5-Bullet Friday 20.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-06-21",
+      "file": "5-Bullet Friday 19.eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-06-28",
+      "file": "5-Bullet Friday 18.eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-07-05",
+      "file": "5-Bullet Friday 17.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-07-12",
+      "file": "5-Bullet Friday 16.eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-07-19",
+      "file": "5-Bullet Friday 15.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-08-16",
+      "file": "5-Bullet Friday 14.eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-08-30",
+      "file": "5-Bullet Friday 12.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-09-06",
+      "file": "5-Bullet Friday 11.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-09-13",
+      "file": "5-Bullet Friday 10.eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-09-20",
+      "file": "5-Bullet Friday 9.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-09-27",
+      "file": "5-Bullet Friday 8.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-10-11",
+      "file": "5-Bullet Friday 7.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-10-25",
+      "file": "5-Bullet Friday 6.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-11-15",
+      "file": "5-Bullet Friday 3.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-11-22",
+      "file": "5-Bullet Friday 2.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2019-12-06",
+      "file": "5-Bullet Friday.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-01-10",
+      "file": "5-Bullet Friday — January 10, 2020 .eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-01-17",
+      "file": "5-Bullet Friday — January 17, 2020 .eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-01-31",
+      "file": "5-Bullet Friday — January 31, 2020 .eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-02-07",
+      "file": "5-Bullet Friday — February 7, 2020 .eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-02-21",
+      "file": "5-Bullet Friday — February 21, 2020 .eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-03-06",
+      "file": "5-Bullet Friday — March 6, 2020 .eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-03-20",
+      "file": "7-Bullet Saturday — March 21, 2020 .eml",
+      "reasons": [
+        "5 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-03-27",
+      "file": "6-Bullet Saturday — March 28, 2020 .eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-04-10",
+      "file": "5-Bullet Friday — April 10, 2020 .eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-04-17",
+      "file": "5-Bullet Friday — April 17, 2020 .eml",
+      "reasons": [
+        "1 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-04-24",
+      "file": "5-Bullet Friday — April 24, 2020 .eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-05-08",
+      "file": "5-Bullet Friday — May 8, 2020 .eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-05-15",
+      "file": "5-Bullet Friday — May 16, 2020 .eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-05-29",
+      "file": "5-Bullet Friday — May 29, 2020 .eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-07-24",
+      "file": "5-Bullet Friday — July 24, 2020 .eml",
+      "reasons": [
+        "1 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-08-14",
+      "file": "5-Bullet Friday — August 14, 2020 .eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-08-21",
+      "file": "5-Bullet Friday — August 21, 2020 .eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-08-28",
+      "file": "5-Bullet Friday — August 28, 2020 .eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-09-04",
+      "file": "5-Bullet Friday — September 4, 2020 .eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-09-18",
+      "file": "5-Bullet Friday — September 18, 2020 .eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-10-02",
+      "file": "5-Bullet Friday — October 2, 2020 .eml",
+      "reasons": [
+        "0 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-10-09",
+      "file": "5-Bullet Friday — October 9, 2020 .eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-10-16",
+      "file": "6-Bullet Saturday — October 17, 2020.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-10-23",
+      "file": "5-Bullet Friday — October 23, 2020.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-10-30",
+      "file": "5-Bullet Friday — October 30, 2020.eml",
+      "reasons": [
+        "1 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-11-13",
+      "file": "5-Bullet Friday — November 13, 2020.eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-11-20",
+      "file": "5-Bullet Friday — November 20, 2020.eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-12-04",
+      "file": "5-Bullet Friday — December 4, 2020.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2020-12-18",
+      "file": "5-Bullet Friday — December 18, 2020.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2021-01-15",
+      "file": "6-Bullet Saturday — January 16, 2021.eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2021-01-29",
+      "file": "5-Bullet Friday — January 29, 2021.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2021-02-19",
+      "file": "7-Bullet Sunday — February 21, 2021.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2021-04-30",
+      "file": "5-Bullet Friday — April 30, 2021.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2021-06-11",
+      "file": "5-Bullet Friday — June 11, 2021.eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2021-06-25",
+      "file": "5-Bullet Friday — June 25, 2021.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2021-07-30",
+      "file": "5-Bullet Friday — July 30, 2021.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2021-08-20",
+      "file": "5-Bullet Friday — August 20, 2021.eml",
+      "reasons": [
+        "1 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2021-08-27",
+      "file": "5-Bullet Friday — August 27, 2021.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2021-09-03",
+      "file": "5-Bullet Friday — September 3, 2021.eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2021-09-10",
+      "file": "5-Bullet Friday — September 10, 2021.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2021-09-24",
+      "file": "5-Bullet Friday — September 24, 2021.eml",
+      "reasons": [
+        "1 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2021-10-22",
+      "file": "5-Bullet Friday — October 22, 2021.eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2021-10-29",
+      "file": "5-Bullet Friday — October 29, 2021.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2021-11-05",
+      "file": "5-Bullet Friday — November 5, 2021.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2021-11-12",
+      "file": "10-Bullet Friday — A Special Holiday Gift Guide Edition! 2.eml",
+      "reasons": [
+        "2 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2021-11-26",
+      "file": "5-Bullet Friday — November 26, 2021.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2021-12-17",
+      "file": "5-Bullet Friday — December 17, 2021.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2021-12-24",
+      "file": "5-Bullet Friday — December 24, 2021.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2022-01-07",
+      "file": "5-Bullet Friday — January 7, 2022.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2022-01-28",
+      "file": "5-Bullet Friday — January 28, 2022.eml",
+      "reasons": [
+        "0 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2022-02-04",
+      "file": "5-Bullet Friday — February 4, 2022.eml",
+      "reasons": [
+        "1 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2022-03-11",
+      "file": "5-Bullet Friday — March 11, 2022.eml",
+      "reasons": [
+        "3 sections detected"
+      ]
+    },
+    {
+      "issue_date": "2022-10-21",
+      "file": "5-Bullet Friday — October 21, 2022.eml",
+      "reasons": [
+        "tracking URL remains"
+      ]
+    },
+    {
+      "issue_date": "2022-12-09",
+      "file": "5-Bullet Friday — December 9, 2022.eml",
+      "reasons": [
+        "tracking URL remains"
+      ]
+    },
+    {
+      "issue_date": "2022-12-30",
+      "file": "5-Bullet Friday — December 30, 2022.eml",
+      "reasons": [
+        "tracking URL remains"
+      ]
+    },
+    {
+      "issue_date": "2023-01-20",
+      "file": "5-Bullet Friday — January 20, 2023.eml",
+      "reasons": [
+        "tracking URL remains"
+      ]
+    },
+    {
+      "issue_date": "2023-02-24",
+      "file": "5-Bullet Friday — February 24, 2023.eml",
+      "reasons": [
+        "tracking URL remains"
+      ]
+    },
+    {
+      "issue_date": "2023-05-12",
+      "file": "5-Bullet Friday — May 12, 2023.eml",
+      "reasons": [
+        "tracking URL remains"
+      ]
+    },
+    {
+      "issue_date": "2023-06-02",
+      "file": "5-Bullet Friday — June 2, 2023.eml",
+      "reasons": [
+        "tracking URL remains"
+      ]
+    },
+    {
+      "issue_date": "2023-06-16",
+      "file": "5-Bullet Friday — June 16, 2023.eml",
+      "reasons": [
+        "tracking URL remains"
+      ]
+    },
+    {
+      "issue_date": "2023-08-04",
+      "file": "5-Bullet Friday — August 4, 2023.eml",
+      "reasons": [
+        "tracking URL remains"
+      ]
+    },
+    {
+      "issue_date": "2023-08-18",
+      "file": "5-Bullet Friday — August 18, 2023.eml",
+      "reasons": [
+        "tracking URL remains"
+      ]
+    },
+    {
+      "issue_date": "2023-11-24",
+      "file": "5-Bullet Friday — Special Jungle Edition!.eml",
+      "reasons": [
+        "tracking URL remains"
+      ]
+    },
+    {
+      "issue_date": "2024-01-05",
+      "file": "5-Bullet Friday — January 5, 2024.eml",
+      "reasons": [
+        "tracking URL remains"
+      ]
+    },
+    {
+      "issue_date": "2024-08-23",
+      "file": "5-Bullet Friday — The Most Important Question of Your Life, How to Survive in the Wilderness, The Three-Body Problem, and More.eml",
+      "reasons": [
+        "tracking URL remains"
+      ]
+    },
+    {
+      "issue_date": "2024-10-11",
+      "file": "5-Bullet Friday — Bob Dylan on Freedom, Stories from Strangers, Psilocybin and Dementia, Coppola’s $100 Million Bet, and More.eml",
+      "reasons": [
+        "one or more titles missing"
+      ]
+    },
+    {
+      "issue_date": "2025-02-14",
+      "file": "5-Bullet Friday — Feel-Good Movies, Fixing Elbow Problems, Reinvention over Stagnation, Fast Thinkers, and More.eml",
+      "reasons": [
+        "one or more titles missing"
+      ]
+    },
+    {
+      "issue_date": "2025-05-16",
+      "file": "5-Bullet Friday — Voice-to-Text That Works, Writing Rules and Routines from Masters, Miyazaki’s Creative Process, and More.eml",
+      "reasons": [
+        "tracking URL remains"
+      ]
+    },
+    {
+      "issue_date": "2025-08-08",
+      "file": "5-Bullet Friday — Coyote Meltdowns, Great Quotes, A Comic Nerd’s Dream, and More.eml",
+      "reasons": [
+        "tracking URL remains"
+      ]
+    },
+    {
+      "issue_date": "2026-02-13",
+      "file": "5-Bullet Friday — Documentaries, Wines, Mind-Boggling “Acquired Savants,” Games, and Defining “Spirituality”.eml",
+      "reasons": [
+        "tracking URL remains"
+      ]
+    },
+    {
+      "issue_date": "2026-02-20",
+      "file": "5-Bullet Friday — How Super Fit 73-Year-Olds Train and Eat, The Genius of Baseball Arbitration, and More.eml",
+      "reasons": [
+        "tracking URL remains"
+      ]
+    },
+    {
+      "issue_date": "2026-06-12",
+      "file": "5-Bullet Friday — How AI Is Disrupting Me Personally, Documentaries, Faith vs. Science, and More.eml",
+      "reasons": [
+        "tracking URL remains"
+      ]
+    }
+  ]
+}

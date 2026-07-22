@@ -6,7 +6,175 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading (longer) —",
+      "category": "book",
+      "title": "Of Wolves and Men",
+      "creator": "Barry Lopez",
+      "note": ". This is probably my favorite nonfiction book of the last five years. I received it as a Christmas gift, I devoured it in one week, and nearly every page is covered in highlighter. It’s truly that phenomenal. Barry’s mastery of structure and the written word echoes of [John McPhee](https://tim.blog/2014/12/11/john-mcphee/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), and the beauty of his prose reminds me of [Mary Oliver](https://www.instagram.com/p/CI6d8POH7ca/). Repeatedly, I found myself saying aloud, “Wow. How does someone DO this?” Here’s the description, edited for length: “Humankind’s relationship with the wolf is the sum of a spectrum of responses ranging from fear to admiration and affection. Lopez’s classic, careful study won praise from a wide range of reviewers, became a finalist for the National Book award, and forever improved the way books on wild animals are written. _Of Wolves and Men_ explores the uneasy interaction between wolves and civilization over the centuries, and the wolf’s prominence in our thoughts about wild creatures. Drawing upon an impressive array of literature, history, science, and mythology as well as extensive personal experience with captive and free-ranging wolves, Lopez… immerses the reader in its sensory world, creating a compelling portrait of the wolf both as a real animal and as imagined by different kinds of men. A scientist might perceive the wolf as defined by research data, while an Eskimo hunter sees a family provider much like himself. For many Native Americans the wolf is also a spiritual symbol, a respected animal that can strengthen the individual and the community. With irresistible charm and elegance, _Of Wolves and Men_ celebrates careful scientific fieldwork, dispels folklore… explains myths, and honors indigenous traditions, allowing us to understand how this remarkable animal has become so prominent for so long in the human heart.”",
+      "original_url": "https://www.amazon.com/Wolves-Men-Scribner-Classics/dp/0743249364/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1609712440&sr=8-1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Wolves-Men-Scribner-Classics/dp/0743249364/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1609712440&sr=8-1"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Barry_Lopez"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/12/11/john-mcphee/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/CI6d8POH7ca/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading (shorter) —",
+      "category": "article",
+      "title": "What Is Death?",
+      "creator": "BJ Miller",
+      "note": "(Sunday _New York Times_) by [BJ Miller](https://tim.blog/2016/04/14/bj-miller/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@bjmillermd](https://twitter.com/bjmillermd)). Dr. BJ Miller has helped more than 1,000 people to die. He is a hospice and palliative medicine physician as well as author of [_A Beginner’s Guide to the End: Practical Advice for Living Life and Facing Death_](https://www.amazon.com/Beginners-Guide-End-Practical-Advice/dp/1501157213/). When people ask about episodes of my podcast that deeply affected me, I often mention [my podcast with BJ](https://tim.blog/2016/04/14/bj-miller/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), which was hilarious, heart-wrenching, and transcendent. I still remember many of the lessons, even though it was recorded in 2016. His new NYT piece is an outstanding revisitation of death, alongside the opportunities that lie within our collective and individual experiences of COVID. Here’s a sample: “The cumulative effect \\[of COVID-19\\] is shock fatigue or numbness, but instead of turning away, we need to fold death into our lives. We really have only two choices: to share life with death or to be robbed by death.”",
+      "original_url": "https://www.nytimes.com/2020/12/18/opinion/sunday/coronavirus-death.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/2020/12/18/opinion/sunday/coronavirus-death.html"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2016/04/14/bj-miller/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/bjmillermd"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Beginners-Guide-End-Practical-Advice/dp/1501157213/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2016/04/14/bj-miller/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Tres Deseos - Sesiones de Estudio (En Vivo)",
+      "creator": null,
+      "note": "](https://www.youtube.com/watch?v=Atylb_YcJ0g) by [Churupaca](https://www.churupaca.com/) ([@churupacaoficial](https://www.instagram.com/churupacaoficial/)). If you listen to this a few times, it will get stuck in your head… and that’s a good thing. Find the lyrics in the video description.",
+      "original_url": "https://www.youtube.com/watch?v=Atylb_YcJ0g",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=Atylb_YcJ0g"
+        },
+        {
+          "type": "other",
+          "url": "https://www.churupaca.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/churupacaoficial/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "TV I’m watching —",
+      "category": "video",
+      "title": "The first episode of Season 3 of Hamilton’s Pharmacopeia",
+      "creator": null,
+      "note": "([VICE TV](https://www.vicetv.com/en_us/video/synthetic-toad-venom-machine/5fd3a82ce9ee6249e7195abd), [Amazon Prime](https://www.amazon.com/gp/video/detail/B08S2NYHFT/ref=atv_dp_season_select_s3), [Apple TV](https://itunes.apple.com/us/tv-season/hamiltons-pharmacopeia-season-3/id1543493805)). I love this series. Hamilton is a legitimate biochemist and also happens to be excellent at film/TV editing (trivia: his father is [Errol Morris](https://en.wikipedia.org/wiki/Errol_Morris) of [_The Fog of War_](https://www.amazon.com/Fog-War-Robert-McNamara/dp/B00ANTX3HA/) fame). Here’s the short description: “Traveling the globe to correct a mistake from his past and experience a euphoria that can create or destroy life on Earth, [Hamilton Morris](https://tim.blog/2018/09/20/hamilton-morris/) \\[[@HamiltonMorris](https://twitter.com/HamiltonMorris)\\] explores the anthropological history and science of Meth, LSD, Bufotenine, 5-MeO-DMT, Ibogaine, and Xenon.” [Here is the season’s trailer](https://www.vicetv.com/en_us/video/trailer-1-89/5fd14a9ce3822a5a6e7b0fc3), and you can [watch the first episode about 5-MeO-DMT for free at this link](https://www.vicetv.com/en_us/video/synthetic-toad-venom-machine/5fd3a82ce9ee6249e7195abd). His first two seasons cover ketamine, peyote, and perhaps a dozen other compounds, each of which he takes himself at some point in each episode. More season-three episodes are coming later this month. For more wild tales from the world of pharmacology and self-experimentation, [check out my podcast with Hamilton](https://tim.blog/2018/09/20/hamilton-morris/?utm_source=convertkit&utm_medium=convertkit&utm_source=5bf).",
+      "original_url": "https://www.vicetv.com/en_us/video/synthetic-toad-venom-machine/5fd3a82ce9ee6249e7195abd",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.vicetv.com/en_us/video/synthetic-toad-venom-machine/5fd3a82ce9ee6249e7195abd"
+        },
+        {
+          "type": "other",
+          "url": "https://www.vicetv.com/en_us/video/synthetic-toad-venom-machine/5fd3a82ce9ee6249e7195abd"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/gp/video/detail/B08S2NYHFT/ref=atv_dp_season_select_s3"
+        },
+        {
+          "type": "other",
+          "url": "https://itunes.apple.com/us/tv-season/hamiltons-pharmacopeia-season-3/id1543493805"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Errol_Morris"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Fog-War-Robert-McNamara/dp/B00ANTX3HA/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/09/20/hamilton-morris/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/HamiltonMorris"
+        },
+        {
+          "type": "other",
+          "url": "https://www.vicetv.com/en_us/video/trailer-1-89/5fd14a9ce3822a5a6e7b0fc3"
+        },
+        {
+          "type": "other",
+          "url": "https://www.vicetv.com/en_us/video/synthetic-toad-venom-machine/5fd3a82ce9ee6249e7195abd"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/09/20/hamilton-morris/?utm_source=convertkit&utm_medium=convertkit&utm_source=5bf"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“You know, the matrix says, ‘Pick an identity and stick with it. Because I want to sell you some beer and shampoo and I need you to stick with what you are so I’ll know how to market it to you.’ Drag is the opposite. Drag says, ‘Identity is a joke.’” — RuPaul (@RuPaul) (Thank you to Claudia Dawson for the quote, which I found in Recomendo: The Expanded Edition._) And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "RuPaul",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/RuPaul",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/RuPaul"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/RuPaul"
+        },
+        {
+          "type": "other",
+          "url": "https://claudiadawson.blog/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Recomendo-Expanded-Claudia-Dawson/dp/1940689058/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,255 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Artist whose work I’m enjoying",
+      "category": "other",
+      "title": "“Trash Artist” Thomas Deininger",
+      "creator": null,
+      "note": "([@tdeininger](https://www.instagram.com/tdeininger/)). For a quick, riveting video-portrait of the artist, who is also much more than meets the eye, check out [this video](https://www.youtube.com/watch?v=JG2pSXH2nIs).",
+      "original_url": "https://www.instagram.com/tdeininger/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/tdeininger/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/tdeininger/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=JG2pSXH2nIs"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Music I’m listening to for relaxing",
+      "category": "music",
+      "title": "Meu Pedaço de Pecado",
+      "creator": "Mãeana",
+      "note": "([Spotify](https://open.spotify.com/track/0ioDPiytuIov5YwJwAAXk1?si=2936f904243b4ef8), [YouTube](https://www.youtube.com/watch?v=mPBvJGILdXo)) by [Mãeana](https://pt.wikipedia.org/wiki/M%C3%A3eana) ([@maeana\\_](https://www.instagram.com/maeana_/?hl=en)).",
+      "original_url": "https://open.spotify.com/track/0ioDPiytuIov5YwJwAAXk1?si=2936f904243b4ef8",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://open.spotify.com/track/0ioDPiytuIov5YwJwAAXk1?si=2936f904243b4ef8"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/0ioDPiytuIov5YwJwAAXk1?si=2936f904243b4ef8"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=mPBvJGILdXo"
+        },
+        {
+          "type": "other",
+          "url": "https://pt.wikipedia.org/wiki/M%C3%A3eana"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/maeana_/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Short demo that I’m watching",
+      "category": "video",
+      "title": "Tabla Solo in Jhaptal",
+      "creator": null,
+      "note": "I’ve developed a keen interest in hand percussion, and this video is one hell of a showcase. It features the legendary Ravi Shankar and Alla Rakha, who show how words can be converted to beautiful tabla playing at unbelievable speed.",
+      "original_url": "https://www.youtube.com/watch?v=Joyk_EMtzn0",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=Joyk_EMtzn0"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Article I’m reading and rereading",
+      "category": "article",
+      "title": "A Man Was Murdered in Cold Blood and You’re Laughing? What the death of a health-insurance C.E.O. means to America",
+      "creator": "Jia Tolentino",
+      "note": "([@jiatortellini](https://www.instagram.com/jiatortellini/?hl=en)) for _The New Yorker_. [Click here](https://archive.ph/EW9xv) or [here](https://archive.is/EW9xv) if you have any issues reading the article at the above link.  \n​  \nI don’t love the main headline, but the writing and research are top-notch. The following quote from the nonprofit [People’s Action](https://peoplesaction.org/statement-regarding-shooting-of-unitedhealthcare-ceo-brian-thompson/) appears early on: “We know there is a crisis of gun violence in America. There is also a crisis of denials of care by private health insurance corporations including UnitedHealth.”  \n​  \nTo be clear up front, I view the assassination of Brian Thompson, the CEO of UnitedHealthcare, as a tragedy on multiple levels. Murder is a crime and should not be condoned. Celebrating killing will only lead to more killing, whose victims will eventually include people you support.  \n​  \nI would also like to share some thoughts on America’s healthcare system. As anyone living in the US knows, getting proper care can be unbelievably complex, expensive, and frustrating. More specifically and more personally, I, my family, and most of my closest friends have all experienced mind-boggling difficulties with insurance companies. These difficulties are by design and in service of a business model. Particularly following my last two years of severe chronic back pain, this has become undeniably clear. The deeper you dig, the uglier it gets.  \n​  \nBelow are examples of what happens when lawmakers and policymakers are too permissive of oligopolies in healthcare that optimize for stock prices over patient outcomes. Excerpted from the piece:  \n​  \n​_In 2020, UnitedHealth acquired a company called NaviHealth, whose software provides algorithmic care recommendations for sick patients, and which is now used to help manage its Medicare Advantage program. A 2023 class-action lawsuit alleges that the NaviHealth algorithm has a “known error rate” of ninety per cent and cites appalling patient stories: one man in Tennessee broke his back, was hospitalized for six days, was moved to a nursing home for eleven days, and then was informed by UnitedHealth that his care would be cut off in two days. (UnitedHealth says the lawsuit is unmerited.) After a couple rounds of appeals and reversals, the man left the nursing home and died four days later. The company has denied requests to release the analyses behind NaviHealth’s conclusions to patients and doctors, stating that the information is proprietary.  \n​  \nAt the same time that news was breaking about the NaviHealth algorithm, the company was fighting—ultimately unsuccessfully—a court decision that it had acted “arbitrarily and capriciously” in repeatedly denying coverage of long-term residential treatment to a middle-school-age girl who repeatedly attempted suicide, and has since died by suicide. Several years ago, government investigators found that UnitedHealth had used algorithms to identify mental-health-care providers who they believed were treating patients too often; these identified therapists would typically receive a call from a company “care advocate” who would question them and then cut off reimbursements. Though some states have ruled this practice illegal, it remains in play across the country. There is no single regulator for a private health-insurance company, even when it is found to be violating the law. For United’s practices to be curbed, mental-health advocates told ProPublica, every single jurisdiction in which it operates would have to successfully bring a case against it._​  \n​  \nDirty games and dirty players. How do these people rationalize things to sleep at night?  \n​  \nFor more examples of tactics, I suggest watching [this short video clip](https://www.youtube.com/watch?v=ZjgwyLuwaTk). Some of it is out of date due to the Affordable Care Act, but much of it is sadly still relevant.  \n​  \nNow, insurers certainly aren’t the only problem, and some smart people like Noah Smith make [interesting and contrarian counter-arguments](https://www.noahpinion.blog/p/insurance-companies-arent-the-main), but I would suggest reading the comments on his post from MDs and others (what incredible engagement he has!) that highlight some of the issues with his general thesis. For instance: “I think Noah also is glossing over how much of the providers’ own costs are associated with maintaining a bureaucracy for dealing with insurers.”  \n​  \nNext, let’s move on to a personal ask.  \n​  \nI’m very interested in your thoughts on two things that have been bothering me for a while…  \n​  \nA little background first: A [study by researchers at Harvard University published in the _American Journal of Public Health_ in 2009](https://www.bmj.com/content/339/bmj.b3838.full) found that **approximately 45,000 annual deaths in the United States were associated with lack of health insurance**. Of course, this is prior to the Affordable Care Act, etc. and [numbers may be smaller now](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(21)00252-8/fulltext), but…  \n​  \n​**Question #1:  \nHow might you attempt to estimate the number of people per year with health insurance who die as a result of denied claims?** This seems challenging, as it would probably require the cooperation of the very companies denying coverage, but perhaps there is some data mining—or whistleblowing—that could shed some light. Any ideas? [Please let me know by tweeting @tferriss on X/Twitter with #healthcare](https://x.com/tferriss).  \n​  \nIdeally, this would include not only deaths that are easily linked in acute cases (i.e., someone dies within, say, a month of coverage denial) but also those who die a year or more later from complications following the denial(s). I recognize this is probably wishful thinking, but there are a lot of data scientists and brilliant folks among you, so I’m throwing a Hail Mary. Perhaps you can simply come up with a better question that _is_ answerable.  \n​  \n​**Question #2:  \nWhat are plausible options for improving things? Something that could be done—big or tiny—that would apply pressure in the right places? I would love to hear your thoughts.** [Once again, please let me know by tweeting @tferriss on X/Twitter with #healthcare](https://x.com/tferriss). Serious answers only, please.  \n​  \nIn asking these questions, I don’t know what I can do, but I would like to do something.  \n​  \nThank you for reading this far.",
+      "original_url": "https://www.newyorker.com/news/the-lede/what-the-murder-of-the-unitedhealthcare-ceo-brian-thompson-means-to-america",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.newyorker.com/news/the-lede/what-the-murder-of-the-unitedhealthcare-ceo-brian-thompson-means-to-america"
+        },
+        {
+          "type": "other",
+          "url": "https://www.newyorker.com/contributors/jia-tolentino"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/jiatortellini/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.ph/EW9xv"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.is/EW9xv"
+        },
+        {
+          "type": "other",
+          "url": "https://peoplesaction.org/statement-regarding-shooting-of-unitedhealthcare-ceo-brian-thompson/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=ZjgwyLuwaTk"
+        },
+        {
+          "type": "other",
+          "url": "https://www.noahpinion.blog/p/insurance-companies-arent-the-main"
+        },
+        {
+          "type": "other",
+          "url": "https://www.bmj.com/content/339/bmj.b3838.full"
+        },
+        {
+          "type": "other",
+          "url": "https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(21"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/tferriss"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“We are healthy only to the extent that our ideas are humane.” ― Kurt Vonnegut, Breakfast of Champions_ (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with this video of me sharing what I’ve been learning on hand percussion, this blog post about the last interview with Kurt Vonnegut, and my most recent podcast, featuring legendary inventor Danny Hillis and futurist/technologist Kevin Kelly. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim ### Forwarded this message? Sign up here. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. Sign Up ### Listen to The Tim Ferriss Show Podcast The Tim Ferriss Show is one of the most popular podcasts in the world with more than one billion downloads. It has been selected for \"Best of Apple Podcasts\" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts on many occasions. Podcasts Apple Podcasts Overcast Spotify Tim's Blog ### Read Tim's Books [](https://tim.blog/tim-ferriss-books/?utm_campaign=design-test&utm_medium=convertit&utm_source=convertkit) Amazon Audible B & N Tim's Blog Follow Tim: [](https://twitter.com/tferriss) [](https://www.instagram.com/timferriss/) [](https://www.youtube.com/channel/UCznv7Vf9nBdJYvBagFdAHWw) [](https://www.facebook.com/TimFerriss) [](https://www.linkedin.com/in/timferriss/) DO NOT REPLY HERE: Due to volume, please do not reply to this email. Sadly we are unable to read 1000+ email replies daily. To reply to Tim, please do so in the blog comments here. No longer want these emails? Unsubscribe 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": null,
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Kurt_Vonnegut",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Kurt_Vonnegut"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Breakfast-Champions-Novel-Kurt-Vonnegut/dp/0385334206/"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/mfft6"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=KKOTBT0Utv4"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2007/11/29/lack-of-seriousness-the-last-interview-with-vonnegut/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/12/12/danny-hillis-kevin-kelly/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_campaign=design-test&utm_medium=convertit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/zlue04m77unhk97x2wb2swv86500s6"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,123 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Ketone supplement I’m experimenting with",
+      "category": "other",
+      "title": "KETOSTART, exogenous ketones",
+      "creator": null,
+      "note": "This is a product that past podcast guest and ketosis expert [Dr. Dominic “Dom” D’Agostino](https://tim.blog/2015/11/03/dominic-dagostino/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@DominicDAgosti2](https://twitter.com/DominicDAgosti2)) loves, has tested, and recommends to others. It was developed by [Csilla Ari D’Agostino](https://csillaari.com/). I’m personally testing [the version without caffeine](https://www.audaciousnutrition.com/collections/ketostart-products/products/ketostart-1) for help with altitude acclimation and exercise with hypoxia.",
+      "original_url": "https://www.audaciousnutrition.com/pages/about-ketostart",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.audaciousnutrition.com/pages/about-ketostart"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/11/03/dominic-dagostino/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/DominicDAgosti2"
+        },
+        {
+          "type": "other",
+          "url": "https://csillaari.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.audaciousnutrition.com/collections/ketostart-products/products/ketostart-1"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m studying",
+      "category": "other",
+      "title": "Antidepressant and Psychedelic Drug Interaction Chart",
+      "creator": null,
+      "note": "I found this while digging around on Google, and I sent it to several psychiatrists and doctors I know, as I’d never seen all of these combinations presented in one easy-to-read chart. **Extremely important disclaimer:** “This chart is not intended to be used to make medical decisions and is for informational purposes only. It was constructed using data whenever possible, although extrapolation from known information was also used to inform risk. Any decision to start, stop, or taper medication and/or use psychedelic drugs should be made in conjunction with your healthcare provider(s). It is recommended to not perform any illicit activity.”",
+      "original_url": "https://mindmedicineaustralia.org.au/wp-content/uploads/Antidepressant_PsychedelicsDDIChart.pdf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://mindmedicineaustralia.org.au/wp-content/uploads/Antidepressant_PsychedelicsDDIChart.pdf"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Judo I’m enjoying",
+      "category": "other",
+      "title": "Top 10 Ippons from Zagreb Grand Prix 2022",
+      "creator": null,
+      "note": "I’d never seen #6 before in competition, and #5 wins my heart for pure elegance. Gorgeous.",
+      "original_url": "https://www.youtube.com/watch?v=ArO6zFfMGXg",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=ArO6zFfMGXg"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "If Everything Is ‘Trauma,’ Is Anything?",
+      "creator": "Jessica Bennett",
+      "note": "(_The New York Times_). From the article: “Call it post-traumatic hyperbole. Or TikTok pseudo-psychology. Or even therapy-speak. There are plenty of horrible things going on in the world, and serious mental health crises that warrant such severe language. But when did we start using the language of harm to describe, well, everything?”",
+      "original_url": "https://www.nytimes.com/2022/02/04/opinion/caleb-love-bombing-gaslighting-trauma.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/2022/02/04/opinion/caleb-love-bombing-gaslighting-trauma.html"
+        },
+        {
+          "type": "other",
+          "url": "https://jessicabennett.com/about"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The only man I know who behaves sensibly is my tailor; he takes my measurements anew each time he sees me. The rest go on with their old measurements and expect me to fit them.” — George Bernard Shaw You can complement this edition of 5-Bullet Friday with my video on the Slow-Carb Diet vs. keto and this one-pager on the Slow-Carb Diet as well as my 2014 interview with Dr. Peter Attia and the follow-up keto-heavy Q&A with Peter, both of which cover his extended experience with ketosis. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "George Bernard Shaw You can complement this edition of 5-Bullet Friday with my video on the Slow-Carb Diet vs. keto and this one-pager on the Slow-Carb Diet as well as my 2014 interview with Dr. Peter Attia and the follow-up keto-heavy Q&A with Peter, both of which cover his extended experience with ketosis. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/George_Bernard_Shaw",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/George_Bernard_Shaw"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=3Mlzz1OaY1U"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/wp-content/uploads/2019/07/tim_ferriss_the-4-hour-chef_one_pager_slow_carb_diet.pdf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/12/18/peter-attia/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/03/18/mark-hart-raoul-pal-peter-attia/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

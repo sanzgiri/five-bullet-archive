@@ -6,7 +6,143 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading up on —",
+      "category": "article",
+      "title": "Azolla event",
+      "creator": null,
+      "note": "From Wikipedia: “The Azolla event is a scenario hypothesized to have occurred in the middle Eocene epoch, around 49 million years ago, when blooms of the [freshwater fern _Azolla_](https://en.wikipedia.org/wiki/Azolla) are thought to have happened in the Arctic Ocean. As they sank to the stagnant sea floor, they were incorporated into the sediment; the resulting draw-down of carbon dioxide has been speculated to have helped transform the planet from a ‘greenhouse Earth’ state, hot enough for turtles and palm trees to prosper at the poles, to the current icehouse Earth known as the Late Cenozoic Ice Age.”",
+      "original_url": "https://en.wikipedia.org/wiki/Azolla_event",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Azolla_event"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Azolla"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "A Domineering Father’s Letter to His Son",
+      "creator": "Howard Muson",
+      "note": ". Pair it with [the letter](https://www.thehumanfront.com/pocketsized-a-letter-from-your-mother/) that the mother of philosopher [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) sent to him. Hat tip to [Letters of Note](https://www.instagram.com/p/CYrKWhEoukc/) ([@lettersofnote](https://www.instagram.com/lettersofnote/)).",
+      "original_url": "https://www.familybusinessmagazine.com/domineering-fathers-letter-his-son",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.familybusinessmagazine.com/domineering-fathers-letter-his-son"
+        },
+        {
+          "type": "other",
+          "url": "https://www.ncfp.org/people/howard-muson/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.thehumanfront.com/pocketsized-a-letter-from-your-mother/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Arthur_Schopenhauer"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/CYrKWhEoukc/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/lettersofnote/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Markus Eder’s The Ultimate Run - The Most Insane Ski Run Ever Imagined",
+      "creator": null,
+      "note": "Thanks to JZ for the recommendation. From the description: “What if you could link every powder turn, every rail, every cliff drop, every comp run and every kicker nailed into one ultimate run? Well, [Markus Eder](https://www.redbull.com/ca-en/athlete/markus-eder) \\[[@markus1eder](https://www.instagram.com/markus1eder/?hl=en)\\] did just that in ‘The Ultimate Run’! This is Markus’ Opus Magnum, a medley of face shots, massive tricks and even bigger drops, which was documented by Innsbruck based production company Legs of Steel over the past two years. Markus has been visualizing the ultimate run since 2015. It may look like a simple undertaking in the final edit, but for arguably the most versatile skier on the planet, it meant taking his skill levels in every form and style of contemporary freeskiing to the next level.”",
+      "original_url": "https://www.youtube.com/watch?v=fbqHK8i-HdA",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=fbqHK8i-HdA"
+        },
+        {
+          "type": "other",
+          "url": "https://www.redbull.com/ca-en/athlete/markus-eder"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/markus1eder/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m exploring —",
+      "category": "other",
+      "title": "The Inevitable Weaponization of App Data Is Here",
+      "creator": "Joseph Cox",
+      "note": "(_VICE_). This is a very important piece to read. Applies to nearly everyone.  \n  \nLinks with helpful tips to protect your data and privacy:  \n“[Online Privacy 101 Checklist](https://onlineprivacy101.info/)”  \n“[16 Practical Privacy Tips for Your iPhone](https://www.nytimes.com/wirecutter/guides/iphone-privacy-tips/)” ([Click here for the Android equivalent](https://www.nytimes.com/wirecutter/guides/privacy-tips-for-android-phone/).) _(Wirecutter/New York Times)_  \n“[How a Burner Identity Protects Your Inbox, Phone, and Credit Cards](https://www.nytimes.com/wirecutter/blog/how-to-disposable-email-phone-numbers-credit-cards/)” _(Wirecutter/New York Times)_  \n“[Our Favorite Ad Blockers and Browser Extensions to Protect Privacy](https://www.nytimes.com/wirecutter/reviews/our-favorite-ad-blockers-and-browser-extensions-to-protect-privacy/)” _(Wirecutter/New York Times)_",
+      "original_url": "https://www.vice.com/en/article/pkbxp8/grindr-location-data-priest-weaponization-app",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.vice.com/en/article/pkbxp8/grindr-location-data-priest-weaponization-app"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/josephfcox"
+        },
+        {
+          "type": "other",
+          "url": "https://onlineprivacy101.info/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nytimes.com/wirecutter/guides/iphone-privacy-tips/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nytimes.com/wirecutter/guides/privacy-tips-for-android-phone/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nytimes.com/wirecutter/blog/how-to-disposable-email-phone-numbers-credit-cards/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nytimes.com/wirecutter/reviews/our-favorite-ad-blockers-and-browser-extensions-to-protect-privacy/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“It is my belief that the next 1,000 unicorns—companies that have a market valuation over a billion dollars—won’t be a search engine, won’t be a media company, they’ll be businesses developing green hydrogen, green agriculture, green steel, and green cement.” — Larry Fink, CEO and chairman of BlackRock. BlackRock is the world’s largest asset manager, with ~$9.46 trillion USD in assets under management. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "companies that have a market valuation over a billion dollars—won’t be a search engine, won’t be a media company, they’ll be businesses developing green hydrogen, green agriculture, green steel, and green cement.” — Larry Fink, CEO and chairman of BlackRock. BlackRock is the world’s largest asset manager, with ~$9.46 trillion USD in assets under management. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Larry_Fink",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Larry_Fink"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

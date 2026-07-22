@@ -6,7 +6,159 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short article I’m revisiting",
+      "category": "article",
+      "title": "Subtract",
+      "creator": "Derek Sivers",
+      "note": "com/sivers)), my favorite musician-programmer-philosopher. For more Derek wisdom and hilarity, be sure to check out [this](https://tim.blog/2015/12/14/derek-sivers-on-developing-confidence-finding-happiness-and-saying-no-to-millions/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) and [this](https://tim.blog/2015/12/28/derek-sivers-reloaded-on-success-habits-and-billionaires-with-perfect-abs/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf).",
+      "original_url": "https://sive.rs/subtract",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://sive.rs/subtract"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/sivers"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/12/14/derek-sivers-on-developing-confidence-finding-happiness-and-saying-no-to-millions/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/12/28/derek-sivers-reloaded-on-success-habits-and-billionaires-with-perfect-abs/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Book I’m reading",
+      "category": "book",
+      "title": "From Strength to Strength: Finding Success, Happiness, and Deep Purpose in the Second Half of Life",
+      "creator": "Arthur Brooks",
+      "note": "([@arthurbrooks](https://twitter.com/arthurbrooks)). Thank you to [Peter Attia, MD](https://tim.blog/2021/06/08/peter-attia-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@PeterAttiaMD](https://www.instagram.com/peterattiamd/)) for the recommendation. From the description: “Many of us assume that the more successful we are, the less susceptible we become to the sense of professional and social irrelevance that often accompanies aging. But the truth is, the greater our achievements and our attachment to them, the more we notice our decline, and the more painful it is when it occurs. What can we do, starting now, to make our older years a time of happiness, purpose, and yes, success? At the height of his career at the age of 50, Arthur Brooks embarked on a seven-year journey to discover how to transform his future from one of disappointment over waning abilities into an opportunity for progress. _From Strength to Strength_ is the result, a practical roadmap for the rest of your life.” Some chapters resonated more for me than others, but I found the combination of deeply personal stories, profiles of some of history’s greats (e.g., [Bach](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach)), and overall reframing to be very timely. Chances are that you don’t want to be—or can’t physically be—in hyperspeed sixth gear your entire life, so what do you do when you want to change goals and shift gears? This book might help with answers.",
+      "original_url": "https://www.amazon.com/Strength-Finding-Success-Happiness-Purpose/dp/059319148X/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Strength-Finding-Success-Happiness-Purpose/dp/059319148X/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Arthur_C._Brooks"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/arthurbrooks"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/06/08/peter-attia-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/peterattiamd/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Heated insoles I’m wearing for skiing",
+      "category": "other",
+      "title": "Therm-ic C-Pack 1300 Bluetooth with Heat Kit",
+      "creator": null,
+      "note": "This is a heated boot system that has been a lifesaver for my toes on cold days. Note that I would likely buy [the 1700 version](https://www.thewarmingstore.com/therm-ic-c-pack-1700-bluetooth-c-w-heat-kit.html) next time to have a longer battery life, but these less expensive 1300s are great for sessions of six hours or less. This system has three heating intensities, and a roughly six-hour session is using the second, middle intensity.\n\nIf you keep it on the lowest setting, I think it’s fair to assume you could get 10 hours, but I have Raynaud’s disease, and my toes get abnormally cold. Another tip that is counterintuitive: thin socks can often make your feet feel warmer. If your ski boots are tight, and thicker socks make them tighter, you can impede blood flow and make those little piglets even more frigid.",
+      "original_url": "https://www.thewarmingstore.com/therm-ic-c-pack-1300-bluetooth-c-w-heat-kit.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.thewarmingstore.com/therm-ic-c-pack-1300-bluetooth-c-w-heat-kit.html"
+        },
+        {
+          "type": "other",
+          "url": "https://www.thewarmingstore.com/therm-ic-c-pack-1700-bluetooth-c-w-heat-kit.html"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Trampoline",
+      "creator": "SHAED",
+      "note": "([YouTube](https://youtu.be/4h26oYuE2h0), [Spotify](https://open.spotify.com/track/0lsRatBUs9HNIZAmoGABzk?si=Q2OkpwjoQjigZ7wcksyzlQ&nd=1), [Apple Music](https://music.apple.com/us/album/trampoline-single/1480896910)) by [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) ([@shaedband](https://twitter.com/shaedband)).",
+      "original_url": "https://youtu.be/4h26oYuE2h0",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/4h26oYuE2h0"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/4h26oYuE2h0"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/0lsRatBUs9HNIZAmoGABzk?si=Q2OkpwjoQjigZ7wcksyzlQ&nd=1"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/album/trampoline-single/1480896910"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/shaedband"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Treat a work of art like a prince: let it speak to you first.” — Arthur Schopenhauer (Click here to share on Twitter) * * * You can complement this edition of 5-Bullet Friday with my first and second conversations—recorded just prior to his 90th birthday—with master investor Edward O. Thorp, who shares wisdom for the second half of life, how to think for oneself, and more. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Arthur Schopenhauer",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Arthur_Schopenhauer",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Arthur_Schopenhauer"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/s7WvP"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/05/24/ed-thorp/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/06/28/edward-o-thorp-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/06/28/edward-o-thorp-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

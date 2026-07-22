@@ -6,7 +6,119 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Zitarrosa",
+      "creator": "Bajofondo",
+      "note": "([YouTube](https://youtu.be/goQGBkkuVpE?si=hKmPBNWHF_erd9_m), [Spotify](https://open.spotify.com/track/3LsIKnWBQhqjQ5TWNxJenK), [Amazon Music](https://www.amazon.com/Zitarrosa-Album-Version/dp/B001C3G8OQ)) by [Bajofondo](https://linktr.ee/Bajofondo). Ideal for a summer weekend, this track is great for cooking, writing, dancing, or simply calming yourself. It does it all. I first found Bajofondo when I [lived in Buenos Aires and traveled through Uruguay many lifetimes ago](https://www.youtube.com/watch?v=5pWmhBm-CiI). From Wikipedia: “Bajofondo is a Río de la Plata-based music band consisting of eight musicians from Argentina and Uruguay, which aims to create a more contemporary version of tango and other musical styles of the Río de la Plata region.”",
+      "original_url": "https://youtu.be/goQGBkkuVpE?si=hKmPBNWHF_erd9_m",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/goQGBkkuVpE?si=hKmPBNWHF_erd9_m"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/goQGBkkuVpE?si=hKmPBNWHF_erd9_m"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/3LsIKnWBQhqjQ5TWNxJenK"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Zitarrosa-Album-Version/dp/B001C3G8OQ"
+        },
+        {
+          "type": "other",
+          "url": "https://linktr.ee/Bajofondo"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=5pWmhBm-CiI"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Book I devoured in one sitting",
+      "category": "book",
+      "title": "Tomorrow, and Tomorrow, and Tomorrow",
+      "creator": "Gabrielle Zevin",
+      "note": ". I could not stop reading this book. It’s a page-turner in the most addictive sense and was not only a _New York Times_ bestseller, but it also placed #76 on the NYT’s list of The 100 Best Books of the 21st Century.  \n​  \nThe less you know about this book before you read it, the better, in my opinion, but if you must get a tease, here’s a snippet of the description: “Sam and Sadie—two college friends, often in love, but never lovers—become creative partners in a dazzling and intricately imagined world of video game design, where success brings them fame, joy, tragedy, duplicity, and, ultimately, a kind of immortality. It is a love story, but not one you have read before.”",
+      "original_url": "https://www.amazon.com/Tomorrow-novel-Gabrielle-Zevin/dp/0593466497/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Tomorrow-novel-Gabrielle-Zevin/dp/0593466497/"
+        },
+        {
+          "type": "other",
+          "url": "https://gabriellezevin.com/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Newest workout staple that I’m loving",
+      "category": "other",
+      "title": "TANK M3 Push Sled",
+      "creator": null,
+      "note": "This is, bar none, the best sled I have ever used for pushing or pulling. 10–15-minute workouts in the morning sun have become my favorite way to set the stage for a great, mood-elevated day. The ease of rotation and traction makes it perfect for even a gravel driveway like mine. From the description: “Designed with patented Mag-Force™ Resistance Technology, the TANK M3 delivers scalable intensity, accommodating many fitness levels while minimizing the need for weight plates and clunky user swaps. The TANK M3’s three-wheeled design glides effortlessly across turf, rubber, or concrete, ensuring smooth operation on any surface. Ergonomic multi-position handles allow users to switch grips seamlessly, enhancing comfort and workout variety. Real-time performance monitoring helps users track progress and training metrics with an oversized digital screen to empower better workouts.”",
+      "original_url": "https://www.torquefitness.com/products/tank-m3",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.torquefitness.com/products/tank-m3"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Short article I’m reading",
+      "category": "article",
+      "title": "Are you stuck in movie logic? Consider just saying what the problem is",
+      "creator": "Cate Hall",
+      "note": ". LOVED this article. Incredibly tactical and useful. There’s a good chance you’ll be able to use something from it within the next week.",
+      "original_url": "https://usefulfictions.substack.com/p/are-you-stuck-in-movie-logic",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://usefulfictions.substack.com/p/are-you-stuck-in-movie-logic"
+        },
+        {
+          "type": "other",
+          "url": "https://substack.com/@usefulfictions"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Many clients of mine come to me with a genuine and deep desire to let go but often have no idea how to go about it, as their ‘letting go muscle’ is completely atrophied. Often all that is needed is simply for the person to give himself or herself permission to let go.” — Javier Regueiro * * * You can complement this edition of 5-Bullet Friday with my brand-new podcast interview with movement coach Nsima Inyang. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Javier Regueiro * * * You can complement this edition of 5-Bullet Friday with my brand-new podcast interview with movement coach Nsima Inyang. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://www.instagram.com/javier.regueiro/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/javier.regueiro/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=mLGqrlxofXA"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,131 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Supreme Illusion",
+      "creator": "Thievery Corporation",
+      "note": "([YouTube](https://www.youtube.com/watch?v=9CReoWKYPQ0), [Apple Music](https://music.apple.com/in/song/supreme-illusion-nickodemus-remix/190034899), [Spotify](https://open.spotify.com/track/2GQOmGGgXpPpTkSbtgUgVn)) by [Thievery Corporation](https://thieverycorporation.com/) ([Nickodemus](https://www.instagram.com/nickodemusnyc/?hl=en) Remix).",
+      "original_url": "https://www.youtube.com/watch?v=9CReoWKYPQ0",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=9CReoWKYPQ0"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=9CReoWKYPQ0"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/in/song/supreme-illusion-nickodemus-remix/190034899"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/2GQOmGGgXpPpTkSbtgUgVn"
+        },
+        {
+          "type": "other",
+          "url": "https://thieverycorporation.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/nickodemusnyc/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "The Eagle Huntress",
+      "creator": null,
+      "note": "This documentary follows Aisholpan, a 13-year-old Kazakh girl, as she trains to become the first female in twelve generations of her family to become an eagle hunter, a tradition that has been handed down from father to son for centuries. You can [watch the trailer here](https://www.youtube.com/watch?v=Vfi5JS6HTH0).",
+      "original_url": "https://www.amazon.com/Eagle-Huntress-Aisholpan-Nurgaiv/dp/B01N9LUOYB/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Eagle-Huntress-Aisholpan-Nurgaiv/dp/B01N9LUOYB/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=Vfi5JS6HTH0"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Profile I’m reading",
+      "category": "article",
+      "title": "Graham Duncan: Talent Whisperer",
+      "creator": null,
+      "note": null,
+      "original_url": "https://joincolossus.com/article/graham-duncan-talent-whisperer/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://joincolossus.com/article/graham-duncan-talent-whisperer/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "App I’ll be testing",
+      "category": "other",
+      "title": "Auren",
+      "creator": null,
+      "note": "“Auren and Seren are a new type of entity with superhuman emotional intelligence, memory, and therapeutic capability.” My team has been testing this app, and they find it helpful with a warning that the Seren personality can be challenging and confrontational. Hat tip to Ben Thompson from Stratechery who [found the app impressive](https://x.com/nearcyan/status/1911813024840908859) and its use as a life coach helpful. Pro tip: To preserve your privacy, after downloading the app on iOS, sign up with Apple and hide your name and email address.",
+      "original_url": "https://auren.app/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://auren.app/"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/nearcyan/status/1911813024840908859"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Putting these conclusions together, this controlling insight can serve as the One Thing you need to know about happy marriage: Find the most generous explanation for each other’s behavior and believe it.” ― Marcus Buckingham, The One Thing You Need to Know: ...About Great Managing, Great Leading, and Sustained Individual Success _(Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my brand-new interview with Rich Barton, co-founder of Expedia, Zillow, and Glassdoor. You can also find my interview with Graham Duncan here. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": null,
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Marcus_Buckingham",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Marcus_Buckingham"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/One-Thing-You-Need-Know/dp/0743261658/"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/ddWa0"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/04/17/rich-barton/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/02/28/graham-duncan/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

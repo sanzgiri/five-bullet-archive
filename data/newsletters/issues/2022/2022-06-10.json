@@ -6,7 +6,167 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Writing advice I’m enjoying",
+      "category": "other",
+      "title": "Don’t just write words. Write music.",
+      "creator": null,
+      "note": "I think about this type of cadence, musicality, and readability a lot when writing.",
+      "original_url": "https://www.instagram.com/p/CePFADGPJ5r/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/p/CePFADGPJ5r/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Artist whose work I’m loving",
+      "category": "other",
+      "title": "Rafael Grassetti",
+      "creator": null,
+      "note": "([@rafagrassetti](https://twitter.com/rafagrassetti?lang=en)). Rafael, better known as Raf, [has been described](https://www.cryptotimes.io/raf-grassettis-complete-nft-journey-in-a-box/) as “one of the best-known digital sculptors in the world” and is Art Director at Sony for the [God of War](https://en.wikipedia.org/wiki/God_of_War_(franchise)) franchise. You can get a taste of his incredible work on [Twitter](https://twitter.com/rafagrassetti/), [Instagram](https://www.instagram.com/rafagrassetti/?hl=en), and [his website](https://www.rgrassetti.com/). Thanks to everyone who recommended Raf’s work in response to [my tweet](https://twitter.com/tferriss/status/1521985648663666690) about favorite 3D artists.\n\n_**Preface to the next two bullets:**_ _I watched and read all of these prior to the related NASA news from yesterday, Thursday, June 9th (NYT: “_[_NASA Plans to Join U.F.O. Research Efforts_](https://www.nytimes.com/2022/06/09/science/nasa-ufo-uap.html)_”). I’m fascinated by several aspects of the below, including verified government disinformation campaigns related to new warfare technologies, rampant forgeries and magical thinking, the susceptibility of Americans to conspiracy theories, and… just how hard it is to explain certain cases (e.g., the USS_ Nimitz_, which is covered at length by the docuseries in the next bullet)._",
+      "original_url": "https://www.rgrassetti.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.rgrassetti.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/rafagrassetti?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.cryptotimes.io/raf-grassettis-complete-nft-journey-in-a-box/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/God_of_War_(franchise"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/rafagrassetti/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/rafagrassetti/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rgrassetti.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss/status/1521985648663666690"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nytimes.com/2022/06/09/science/nasa-ufo-uap.html"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Series I’m watching",
+      "category": "video",
+      "title": "UFO",
+      "creator": null,
+      "note": "I initially dismissed this. I then revisited the series when I noticed that [J.J. Abrams](https://en.wikipedia.org/wiki/J._J._Abrams) was involved. Before you decide to skip it, consider watching [the short trailer](https://www.youtube.com/watch?v=tU9NhwYKCLM) for pure fun. Here’s the official description: “A four-part docu-series from [J.J. Abrams](https://en.wikipedia.org/wiki/J._J._Abrams)’ [Bad Robot](https://en.wikipedia.org/wiki/Bad_Robot_Productions) and [Glen Zipper](https://en.wikipedia.org/wiki/Glen_Zipper) exploring our fascination with unidentified flying objects, and what clandestine influence the American government, lucrative private companies, and the military may have in shielding the truth behind \\[UFOs\\] to further their own agendas.” This series includes interviews with former senators, former military intelligence officers, _New York Times_ reporters, Navy pilots, and many more. From [coverage in _Decider_](https://decider.com/2021/08/16/ufo-showtime-sen-harry-reid-skinwalker-ranch/): “A big chunk of Episode 2 is dedicated to the former Nevada senator and former Senate Majority Leader’s interest in studying paranormal phenomena. I reiterate: this is wild. Usually these specials are populated with ufologists, small press authors, small town abductees, and people who become memes because how could they _not_ become a meme?” I’ll warn you in advance that Episode 2 also features a detour into the bizarre history of [Skinwalker Ranch](https://en.wikipedia.org/wiki/Skinwalker_Ranch). Lots of headscratchers in this docuseries, which is part of the appeal.",
+      "original_url": "https://www.sho.com/ufo",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.sho.com/ufo"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/J._J._Abrams"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=tU9NhwYKCLM"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/J._J._Abrams"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Bad_Robot_Productions"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Glen_Zipper"
+        },
+        {
+          "type": "other",
+          "url": "https://decider.com/2021/08/16/ufo-showtime-sen-harry-reid-skinwalker-ranch/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Skinwalker_Ranch"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Articles I’m reading",
+      "category": "article",
+      "title": "How the Pentagon Started Taking U.F.O.s Seriously",
+      "creator": null,
+      "note": "and **“**[**The Unexplained Phenomena of the U.F.O. Report**](https://www.newyorker.com/news/daily-comment/the-unexplained-phenomena-of-the-ufo-report)**,”** both for _The New Yorker_ by [Gideon Lewis-Kraus](http://www.gideonlk.com/)_._ Related to the above, **“**[**Don’t Dismiss the Alien Hypothesis**](https://www.christophermellon.net/post/don-t-dismiss-the-alien-hypothesis)**”** by [Christopher Mellon](https://www.christophermellon.net/) ([@ChrisKMellon](https://twitter.com/ChrisKMellon)). Christopher Mellon spent nearly 20 years in the U.S. Intelligence Community, including serving as the Deputy Assistant Secretary of Defense for Intelligence and the Minority Staff Director of the Senate Intelligence Committee.",
+      "original_url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+        },
+        {
+          "type": "other",
+          "url": "https://www.newyorker.com/news/daily-comment/the-unexplained-phenomena-of-the-ufo-report"
+        },
+        {
+          "type": "other",
+          "url": "http://www.gideonlk.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.christophermellon.net/post/don-t-dismiss-the-alien-hypothesis"
+        },
+        {
+          "type": "other",
+          "url": "https://www.christophermellon.net/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/ChrisKMellon"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“I would rather have questions that can’t be answered than answers that can’t be questioned.” — Richard Feynman, theoretical physicist and recipient of the Nobel Prize in Physics in 1965 And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Richard Feynman, theoretical physicist and recipient of the Nobel Prize in Physics in 1965 And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Richard_Feynman",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Richard_Feynman"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

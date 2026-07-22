@@ -6,7 +6,123 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "Masters of Love",
+      "creator": null,
+      "note": "(_The Atlantic_)_._ [Alternate link](https://archive.is/2024.03.12-072741/https://www.theatlantic.com/health/archive/2014/06/happily-ever-after/372573/). This is the best article on courtship, love, and dating that I’ve read in years. It’s not only well-researched and full of memorable insights, it’s very actionable and gives labels to concepts you can use.",
+      "original_url": "https://www.theatlantic.com/health/archive/2014/06/happily-ever-after/372573/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.theatlantic.com/health/archive/2014/06/happily-ever-after/372573/"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.is/2024.03.12-072741/https://www.theatlantic.com/health/archive/2014/06/happily-ever-after/372573/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Book I’m reading",
+      "category": "book",
+      "title": "The Unbearable Lightness of Being",
+      "creator": "Milan Kundera",
+      "note": "**.** This is a masterpiece. It explores the subtleties, beauty, and insanity of the human condition through the lens of sex and all that entails. After all, as attributed to Oscar Wilde, “Everything in human life is really about sex, except sex. Sex is about power.”  \n​**​  \n​**I’d certainly heard of this book 100 times, but I’d never read it. Hearing this, one of my closest friends mailed me a copy as a gift. His accompanying words were “I’m so envious that you get to read this book for the first time. I wish I could do it again.”  \n​  \nThe original manuscript was written in Czech, Kundera’s native language, but published in French in 1984, as Kundera was living in exile in France at the time. The renowned translator Michael Henry Heim translated it into English that same year, when it was named one of the best books of the year by the _New York Times Book Review_ and winner of the Los Angeles Times Book Prize for Fiction. Legendary literary critic Elizabeth Hardwick called it “a work of the boldest mastery, originality, and richness.”  \n​  \nIt tells the story of two couples—a young woman in love with a man torn between his love for her and his womanizing, and one of the man’s mistresses and her faithful lover—as it explores both the burden and lightness of [eternal recurrence](https://en.wikipedia.org/wiki/Eternal_return).  \n​  \n​_The Unbearable Lightness of Being_ is actually an easy and fast read, but be forewarned that the beginning is bizarre. That’s part of the charm.  \n​  \nAnd if you enjoy this book, you may also enjoy Kundera’s [_The Book of Laughter and Forgetting_](https://www.amazon.com/Book-Laughter-Forgetting-Milan-Kundera/dp/0060932147/), which was his first book to blow my mind.",
+      "original_url": "https://www.amazon.com/Unbearable-Lightness-Being-Perennial-Classics/dp/0061148520/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Unbearable-Lightness-Being-Perennial-Classics/dp/0061148520/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Milan_Kundera"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Eternal_return"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Book-Laughter-Forgetting-Milan-Kundera/dp/0060932147/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Documentary I’m watching again",
+      "category": "video",
+      "title": "An Honest Liar",
+      "creator": null,
+      "note": "_An Honest Lia_r is a documentary about James ‘The Amazing’ Randi, the world-famous magician, escape artist, and enemy of deception. Randi publicly exposed psychics, faith healers, and con artists with quasi-religious fervor. But when there is a shocking revelation in Randi’s personal life, it isn’t clear whether Randi is still the deceiver… or the deceived. Entertaining and informative, this is a real joy to watch. Special thanks to filmmaker [Jon Favreau](https://tim.blog/2015/04/14/jon-favreau/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit) for first mentioning ‘The Amazing’ Randi to me.",
+      "original_url": "https://www.amazon.com/Honest-Liar-James-Randi/dp/B07MFFGXWG/ref=sr_1_1?dib=eyJ2IjoiMSJ9.Tcu6Ia5v9_cNLvbcgew56xuLFXr6qCnWb-yK6Z0a39PgqZ6oTZsLy0lFVDtr-STKppcFDBBLiEexY9ikTUysZw.T1bRJ8NOiWW4z7iN7xOJ0pUE1aS4ouzXuXSe1_MgJmc&dib_tag=se&keywords=honest%20liar%20randi&qid=1724882618&sr=8-1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Honest-Liar-James-Randi/dp/B07MFFGXWG/ref=sr_1_1?dib=eyJ2IjoiMSJ9.Tcu6Ia5v9_cNLvbcgew56xuLFXr6qCnWb-yK6Z0a39PgqZ6oTZsLy0lFVDtr-STKppcFDBBLiEexY9ikTUysZw.T1bRJ8NOiWW4z7iN7xOJ0pUE1aS4ouzXuXSe1_MgJmc&dib_tag=se&keywords=honest%20liar%20randi&qid=1724882618&sr=8-1"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/04/14/jon-favreau/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Podcast episode I’m listening to",
+      "category": "podcast",
+      "title": "The vital question TaskRabbit founder Leah Solivan wished she asked investors",
+      "creator": null,
+      "note": "What a great trip down memory lane! This is a short and tactical podcast episode. [Leah Solivan](https://x.com/labunleashed?lang=en) explains how she founded [TaskRabbit](https://www.taskrabbit.com/), launched it in Boston, and expanded it from an experiment in one neighborhood to a global business that was ultimately acquired by IKEA. If you want to skip around, the genesis story and early prototyping starts around 08:05 with “I’m going to take you back.”",
+      "original_url": "https://podcasts.apple.com/us/podcast/masters-of-scale/id1227971746?i=1000665432356",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://podcasts.apple.com/us/podcast/masters-of-scale/id1227971746?i=1000665432356"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/labunleashed?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.taskrabbit.com/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Passages I’m pondering",
+      "category": "other",
+      "title": "my interview",
+      "creator": null,
+      "note": "with pioneering couples therapist Dr. Sue Johnson, [my conversation](https://tim.blog/2020/01/09/penn-jillette/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) with legendary magician Penn Jillette, and [an all-new episode of _The Tim Ferriss Show_](https://tim.blog/2024/09/04/the-random-show-post-sabbatical/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content), featuring my good friend, serial entrepreneur Kevin Rose, who joins me for our latest edition of The Random Show!  \n​  \nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
+      "original_url": "https://tim.blog/2021/08/25/dr-sue-johnson/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2021/08/25/dr-sue-johnson/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/01/09/penn-jillette/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/09/04/the-random-show-post-sabbatical/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

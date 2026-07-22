@@ -7,7 +7,175 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Undone",
+      "creator": null,
+      "note": "This amazing series bends time and reality enough to simulate a psychedelic experience. [Check out this short trailer](https://www.youtube.com/watch?v=f8kW2LI19K4), and the preceding sentence will make more sense. Here’s a short description: “[_Undone_](https://www.amazon.com/gp/product/B0875MWHHN) is a half-hour, genre-bending, animated series that explores the elastic nature of reality through its central character Alma, a twenty-eight-year-old living in San Antonio, Texas. After getting into a car accident and nearly dying, Alma finds she has a new relationship to time. She develops this new ability in order to find out the truth about her father’s death.” _Undone_ was created by [Raphael Bob-Waksberg](https://en.wikipedia.org/wiki/Raphael_Bob-Waksberg) ([@RaphaelBW](https://twitter.com/RaphaelBW)) and [Kate Purdy](https://en.wikipedia.org/wiki/Kate_Purdy) ([@katypurdy](https://twitter.com/katypurdy?lang=en)) and stars [Rosa Salazar](https://en.wikipedia.org/wiki/Rosa_Salazar) ([@rosasalazar](https://www.instagram.com/rosasalazar/)), among others. I’ve been recommending it to nearly all of my closest friends.",
+      "original_url": "https://www.amazon.com/gp/product/B0875MWHHN",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/gp/product/B0875MWHHN"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=f8kW2LI19K4"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/gp/product/B0875MWHHN"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Raphael_Bob-Waksberg"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/RaphaelBW"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Kate_Purdy"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/katypurdy?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Rosa_Salazar"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/rosasalazar/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "How to Think for Yourself",
+      "creator": "Paul Graham",
+      "note": "([@paulg](https://twitter.com/paulg)). I have recommended many of Paul’s essays over the years, including [The Risk of Discovery](http://www.paulgraham.com/disc.html), [Having Kids](http://www.paulgraham.com/kids.html), [Keep Your Identity Small](http://www.paulgraham.com/identity.html), and, perhaps more than any other, [Maker’s Schedule, Manager’s Schedule](http://www.paulgraham.com/makersschedule.html). [How to Think for Yourself](http://paulgraham.com/think.html) is a fabulous new addition to the list. Here’s one of my favorite excerpts from it: “Treat it as a puzzle. You know that some accepted ideas will later turn out to be wrong. See if you can guess which. The end goal is not to find flaws in the things you’re told, but to find the new ideas that had been concealed by the broken ones.”",
+      "original_url": "http://paulgraham.com/think.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://paulgraham.com/think.html"
+        },
+        {
+          "type": "other",
+          "url": "http://paulgraham.com/index.html"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/paulg"
+        },
+        {
+          "type": "other",
+          "url": "http://www.paulgraham.com/disc.html"
+        },
+        {
+          "type": "other",
+          "url": "http://www.paulgraham.com/kids.html"
+        },
+        {
+          "type": "other",
+          "url": "http://www.paulgraham.com/identity.html"
+        },
+        {
+          "type": "other",
+          "url": "http://www.paulgraham.com/makersschedule.html"
+        },
+        {
+          "type": "other",
+          "url": "http://paulgraham.com/think.html"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Simple recipes I’ve been using this week for delicious pork ribs —",
+      "category": "other",
+      "title": "Easy, Fall-Off-the-Bone, Oven Baked Ribs Recipe",
+      "creator": null,
+      "note": "ON A GRILL/TRAEGER:  \n**[Competition-Style Pork Ribs Recipe  \n](https://www.traegergrills.com/recipes/competition-style-pork-ribs)For those who want to emulate the famous Franklin BBQ here in Austin, here are a few twists: [Traeger Baby Back Ribs Inspired by Franklin BBQ  \n  \n](https://www.justonecookbook.com/traeger-baby-back-ribs/)",
+      "original_url": "https://www.inspiredtaste.net/7179/sweet-and-spicy-oven-baked-ribs/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.inspiredtaste.net/7179/sweet-and-spicy-oven-baked-ribs/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.traegergrills.com/recipes/competition-style-pork-ribs"
+        },
+        {
+          "type": "other",
+          "url": "https://www.justonecookbook.com/traeger-baby-back-ribs/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Puente",
+      "creator": "Chancha Vía Circuito",
+      "note": "([YouTube](https://www.youtube.com/watch?v=RuA4vuBp344), [Spotify](https://open.spotify.com/track/1AolHkT2QxjfORIgO74vmi)) by [Chancha Vía Circuito](https://en.wikipedia.org/wiki/Chancha_V%C3%ADa_Circuito) ([@chancha\\_via\\_circuito](https://www.instagram.com/chancha_via_circuito/?hl=en)) [From Wikipedia](https://en.wikipedia.org/wiki/Chancha_V%C3%ADa_Circuito): “Pedro Canale, better known as his stage name Chancha Vía Circuito, is a producer, DJ/remixer, and composer from Greater Buenos Aires, Argentina. Fusion of electronic music and cumbia is a key factor of Chancha Vía Circuito’s music. He explores the minimal side of digital cumbia with inspiration from Afro-dance, murgas, minimal dub, IDM, and downtempo.”",
+      "original_url": "https://www.youtube.com/watch?v=RuA4vuBp344",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=RuA4vuBp344"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=RuA4vuBp344"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/1AolHkT2QxjfORIgO74vmi"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Chancha_V%C3%ADa_Circuito"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/chancha_via_circuito/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Chancha_V%C3%ADa_Circuito"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Poem I’m enjoying —",
+      "category": "other",
+      "title": "Mary Oliver",
+      "creator": null,
+      "note": "And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5bulletfriday at the end so I can find it.Have a wonderful weekend, all.  \n  \nMuch love to you and yours,  \n  \nTim",
+      "original_url": "https://en.wikipedia.org/wiki/Mary_Oliver",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Mary_Oliver"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

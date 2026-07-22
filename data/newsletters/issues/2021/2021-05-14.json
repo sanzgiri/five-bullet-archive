@@ -7,7 +7,99 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to while writing —",
+      "category": "podcast",
+      "title": "Relaxing Bird Songs and Nature",
+      "creator": null,
+      "note": "The location is Ōtaki Village, Kiso District, Nagano Prefecture, Japan. I can’t wait to get back to good ol’ Nihon. [_Natsukashii_](http://www.bbc.com/travel/story/20200119-a-uniquely-japanese-take-on-nostalgia#:~:text=Natsukashii%20is%20a%20Japanese%20word,fond%20memory%20from%20your%20past.&text=But%20natsukashii%20%E2%80%93%20which%20derives%20from,desire%20to%20return%20to%20it.)!",
+      "original_url": "https://www.youtube.com/watch?v=UGidiD7p03c",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=UGidiD7p03c"
+        },
+        {
+          "type": "other",
+          "url": "http://www.bbc.com/travel/story/20200119-a-uniquely-japanese-take-on-nostalgia#:~:text=Natsukashii%20is%20a%20Japanese%20word,fond%20memory%20from%20your%20past.&text=But%20natsukashii%20%E2%80%93%20which%20derives%20from,desire%20to%20return%20to%20it."
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "iOS trick I find helpful if any apps require location services but you don’t want them to know your exact location —",
+      "category": "other",
+      "title": "Control the location granularity that you share with apps",
+      "creator": null,
+      "note": "“To allow an app to use your specific location, leave Precise Location turned on. To share only your approximate location—which may be sufficient for an app that doesn’t need your exact location—turn Precise Location off.” [Here are the instructions](https://support.apple.com/guide/iphone/control-the-location-information-you-share-iph3dd5f9be/ios). On my iPhone in the US, here’s what it looks like: Go to Settings > Privacy > Location Services > \\[Select App\\] > While Using App > Turn Off “Precise Location.”",
+      "original_url": "https://support.apple.com/guide/iphone/control-the-location-information-you-share-iph3dd5f9be/ios",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://support.apple.com/guide/iphone/control-the-location-information-you-share-iph3dd5f9be/ios"
+        },
+        {
+          "type": "other",
+          "url": "https://support.apple.com/guide/iphone/control-the-location-information-you-share-iph3dd5f9be/ios"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I can’t get out of my head —",
+      "category": "other",
+      "title": "Remy: Dogecoin Rap",
+      "creator": null,
+      "note": "I don’t own any doge, except for [Molly pup](https://www.youtube.com/watch?v=I7fflsbVEFg), but I do love this video. Be sure to watch at least 60 seconds.",
+      "original_url": "https://www.youtube.com/watch?v=cbI31x3FpS0",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=cbI31x3FpS0"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=I7fflsbVEFg"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m exploring —",
+      "category": "other",
+      "title": "Porta Sophia",
+      "creator": null,
+      "note": "“Porta Sophia, meaning _doorway to wisdom_, is a prior art library for patent reviewers around the world to find relevant prior art in the field of psychedelics. The library provides convenient access, via a simple search tool, to scientific literature, previous patents, historical archives, online forums and more. Key content from the public domain focuses on medical applications, means of production, drug combinations and various drug formulations of multiple psychedelic compounds. Due to historical and cultural aspects of psychedelics, prior art can be difficult or inconvenient to find. Porta Sophia identifies prior art most pertinent to patent reviewers wherever it may exist in common and uncommon spaces. This includes traditional sources (scientific literature, published patents) and domestic and foreign archives highlighting foundational work done decades ago. Porta Sophia is generating new tools to identify prior art from millions of blog posts contained in various online forums. A team of scientific and legal experts curate references most relevant to patent reviewers and are working to continually expand Portal content. Through community engagement, support, and collaboration, we anticipate frequent content updates and the roll-out of additional searching features. Together, we hope to grow Porta Sophia into an important public-facing structure that helps protect the public domain, stimulate new innovation around psychedelic applications, and enable the timely approval of psychedelic-based treatment options.”",
+      "original_url": "https://www.portasophia.org/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.portasophia.org/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Poem I’m pondering —",
+      "category": "other",
+      "title": "Hafiz",
+      "creator": null,
+      "note": "And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all.  \n  \nMuch love to you and yours,  \n  \nTim",
+      "original_url": "https://en.wikipedia.org/wiki/Hafez",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Hafez"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

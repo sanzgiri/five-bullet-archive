@@ -6,7 +6,135 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short video I’m revisiting",
+      "category": "video",
+      "title": "My philosophy for a happy life | Sam Berns | TEDxMidAtlantic",
+      "creator": null,
+      "note": "This video hit me really hard. Despite some tears, it was exactly the reset I needed. This kid is a total stud. Just watch it, and do _not_ rush. Also, do \\*not\\* read the description beforehand, only afterward.",
+      "original_url": "https://www.youtube.com/watch?v=36m1o-tM05g",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=36m1o-tM05g"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "Panpsychism is crazy, but it’s also most probably true",
+      "creator": "Philip Goff",
+      "note": "([@Philip\\_Goff](https://twitter.com/philip_goff)).",
+      "original_url": "https://aeon.co/ideas/panpsychism-is-crazy-but-its-also-most-probably-true",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://aeon.co/ideas/panpsychism-is-crazy-but-its-also-most-probably-true"
+        },
+        {
+          "type": "other",
+          "url": "https://www.philipgoffphilosophy.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/philip_goff"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Compound I’m studying",
+      "category": "other",
+      "title": "Spermidine",
+      "creator": null,
+      "note": "Long-ass story, but this pops up on a podcast soon. The conversation provoked a fascination and a lot of worthwhile questions.",
+      "original_url": "https://en.wikipedia.org/wiki/Spermidine",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Spermidine"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Wind River",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/Wind-River-Jeremy-Renner/dp/B0747CZ514), [YouTube](https://www.youtube.com/watch?v=1MXHP4UaYHY)), written and directed by the incredible [Taylor Sheridan](https://en.wikipedia.org/wiki/Taylor_Sheridan), co-creator of _Yellowstone_. This is an excellent but very dark movie. It received a lengthy eight-minute standing ovation at the end of its premiere in the Un Certain Regard competition of the Cannes film festival. Description: “A chilling murder mystery set in the icy backwoods of a Native American Reservation, starring [Elizabeth Olsen](https://en.wikipedia.org/wiki/Elizabeth_Olsen) and [Jeremy Renner](https://en.wikipedia.org/wiki/Jeremy_Renner) ([@JeremyRenner](https://twitter.com/JeremyRenner)).” You can [find the trailer here](https://www.youtube.com/watch?v=s7WuKdVhrmA). Not suitable for family viewing.",
+      "original_url": "https://www.amazon.com/Wind-River-Jeremy-Renner/dp/B0747CZ514",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Wind-River-Jeremy-Renner/dp/B0747CZ514"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Wind-River-Jeremy-Renner/dp/B0747CZ514"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=1MXHP4UaYHY"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Taylor_Sheridan"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Elizabeth_Olsen"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Jeremy_Renner"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/JeremyRenner"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=s7WuKdVhrmA"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“And now that you don’t have to be perfect, you can be good.” — John Steinbeck, East of Eden And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. You can complement this edition of 5-Bullet Friday with my mind-bending interview with Donald Hoffman, professor emeritus of cognitive sciences at the University of California, Irvine; this video of Dr. Peter Attia discussing rapamycin, a most curious drug; and this clip with iconic fiction author (e.g., The Handmaid’s Tale_) Margaret Atwood. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "John Steinbeck, East of Eden And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. You can complement this edition of 5-Bullet Friday with my mind-bending interview with Donald Hoffman, professor emeritus of cognitive sciences at the University of California, Irvine; this video of Dr. Peter Attia discussing rapamycin, a most curious drug; and this clip with iconic fiction author",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/John_Steinbeck",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/John_Steinbeck"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/04/13/donald-hoffman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=FhDoBUAPyCc"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=uKJOCI7MWa8"
+        }
+      ]
+    }
+  ]
 }

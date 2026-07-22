@@ -6,7 +6,127 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Documentary I’m watching —",
+      "category": "video",
+      "title": "The Price of Everything",
+      "creator": null,
+      "note": ",** directed by [Nathaniel Kahn](https://el2.fourhourmail.com/c/8kue0m6zzuohx8x4n/gwfnh5h8l35g0/aHR0cHM6Ly93d3cuaW1kYi5jb20vbmFtZS9ubTA0MzQ4OTYv). I watched this film after both my brother and a close friend raved about it. It is often hilarious, sometimes nauseating, and always entertaining. Here’s the description: “With unprecedented access to pivotal artists and the white-hot market surrounding them, _The Price of Everything_ dives deep into the contemporary art world, holding a mirror up to our values and our times — where everything can be bought and sold.” You can [stream it on HBO](https://el2.fourhourmail.com/c/8kue0m6zzuohx8x4n/33tphkh527lx8/aHR0cHM6Ly93d3cuaGJvLmNvbS9kb2N1bWVudGFyaWVzL3RoZS1wcmljZS1vZi1ldmVyeXRoaW5n), and there are a few [screenings coming up](https://el2.fourhourmail.com/c/8kue0m6zzuohx8x4n/4mcvhehdprewo/aHR0cDovL3d3dy50aGVwcmljZW9mZXZlcnl0aGluZy5jb20vc2NyZWVuaW5ncw==) in early 2019 around the U.S. **Personally, I hope to learn much, much more about art and the art world in 2019.** If you might have lessons to share or a lot of experience, please let me know! Just direct a tweet at me ([@tferriss](https://el2.fourhourmail.com/c/8kue0m6zzuohx8x4n/r4s8hohl30r49/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==)) and include #timart so I can find you. Thanks!",
+      "original_url": "https://el2.fourhourmail.com/c/8kue0m6zzuohx8x4n/2zi2hohp82zlm/aHR0cDovL3d3dy50aGVwcmljZW9mZXZlcnl0aGluZy5jb20v",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohx8x4n/2zi2hohp82zlm/aHR0cDovL3d3dy50aGVwcmljZW9mZXZlcnl0aGluZy5jb20v"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohx8x4n/gwfnh5h8l35g0/aHR0cHM6Ly93d3cuaW1kYi5jb20vbmFtZS9ubTA0MzQ4OTYv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohx8x4n/33tphkh527lx8/aHR0cHM6Ly93d3cuaGJvLmNvbS9kb2N1bWVudGFyaWVzL3RoZS1wcmljZS1vZi1ldmVyeXRoaW5n"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohx8x4n/4mcvhehdprewo/aHR0cDovL3d3dy50aGVwcmljZW9mZXZlcnl0aGluZy5jb20vc2NyZWVuaW5ncw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohx8x4n/r4s8hohl30r49/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Les Doigts de l'Homme - Festival Jazz de Coti Chiavari",
+      "creator": null,
+      "note": "I can’t get enough of these guys. I play this particular video in the background as I write. The beginning is a remarkable demonstration of skill, but the “real” music starts around 2:00. If you want a fantastic mood elevator, this might do the trick.",
+      "original_url": "https://el2.fourhourmail.com/c/8kue0m6zzuohx8x4n/82aqhoh62lvz0/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj11MUYtY3N0ODJkcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohx8x4n/82aqhoh62lvz0/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj11MUYtY3N0ODJkcw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Book I’m rereading —",
+      "category": "book",
+      "title": "Wabi-Sabi for Artists, Designers, Poets & Philosophers",
+      "creator": "Leonard Koren",
+      "note": "**.** I revisit this short read a few times a year, especially during holidays, New Year’s, etc., when I can pause, reflect, and reassess projects, priorities, and general orientation towards the world. It bends the normal lens a bit.",
+      "original_url": "https://el2.fourhourmail.com/c/8kue0m6zzuohx8x4n/lqbehmhmn39en/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9XYWJpLVNhYmktQXJ0aXN0cy1EZXNpZ25lcnMtUG9ldHMtUGhpbG9zb3BoZXJzL2RwLzA5ODE0ODQ2MDMv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohx8x4n/lqbehmhmn39en/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9XYWJpLVNhYmktQXJ0aXN0cy1EZXNpZ25lcnMtUG9ldHMtUGhpbG9zb3BoZXJzL2RwLzA5ODE0ODQ2MDMv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohx8x4n/dkheh0h9o0gvk/aHR0cDovL2xlb25hcmRrb3Jlbi5jb20v"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Lazy breakfast I’m revisiting —",
+      "category": "other",
+      "title": "Amy’s Black Bean Chili",
+      "creator": null,
+      "note": "I’m juggling a lot around the holidays, and this chili (plus 1-2 soft-boiled eggs) has returned as my default low-labor breakfast. I eat it straight out of the can because I’m still feral.",
+      "original_url": "https://el2.fourhourmail.com/c/8kue0m6zzuohx8x4n/ozukhqhm6rvp7/aHR0cHM6Ly93d3cuYW15cy5jb20vb3VyLWZvb2RzL29yZ2FuaWMtYmxhY2stYmVhbi1jaGlsaQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohx8x4n/ozukhqhm6rvp7/aHR0cHM6Ly93d3cuYW15cy5jb20vb3VyLWZvb2RzL29yZ2FuaWMtYmxhY2stYmVhbi1jaGlsaQ=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Of all sexual aberrations, chastity is the strangest.” — Anatole France [](https://el2.fourhourmail.com/c/8kue0m6zzuohx8x4n/65feh8h857gzp/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUmFpbmVyX01hcmlhX1JpbGtl) And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. P.S. — You guys are awesome. Thank you for keeping me company on this amazing, winding journey called life. Sending you and yours much love for a joyous holiday season and happy new year! Timbo [](https://el2.fourhourmail.com/c/8kue0m6zzuohx8x4n/qrc8h7hm4r5zd/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Anatole France",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/8kue0m6zzuohx8x4n/p3ieh9hw2z0m7/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQW5hdG9sZV9GcmFuY2U=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohx8x4n/p3ieh9hw2z0m7/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQW5hdG9sZV9GcmFuY2U="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohx8x4n/e8tph7h3l0g69/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohx8x4n/9kszhnhv6pm0z/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/8kue0m6zzuohx8x4n"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/8kue0m6zzuohx8x4n/mxb7h5h6q8p26/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,159 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m using for recovery —",
+      "category": "other",
+      "title": "Marc Pro | Recovery Tool for Sore Muscles & Pain Relief",
+      "creator": null,
+      "note": "I recently injured my shoulder snowboarding, and nothing seemed to stem the pain and inflammation, even after a week of recovery. [Kelly Starrett](https://en.wikipedia.org/wiki/Kelly_Starrett) ([@thereadystate](https://twitter.com/thereadystate)) of [The Ready State](https://thereadystate.com/) recommended the Marc Pro, and it reduced the swelling more than 50% after two two-hour sessions. The transformation was incredible. Of course, your mileage _will_ vary, but I plan on traveling with one such device from now on. Since I can’t help but constantly break myself, I am also watching [How to Fix a Pelvic Fault or Tweak](https://www.youtube.com/watch?v=Js5xg9o78Jw) for skiing-induced lower-back and SI pain. Maybe I should just grow up, but that sounds incredibly boring. My most recent interview with Kelly can be found [here](https://tim.blog/2015/03/04/the-good-the-bad-and-the-ugly-of-crossfit/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf).",
+      "original_url": "https://marcpro.com/product-category/devices/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://marcpro.com/product-category/devices/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Kelly_Starrett"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/thereadystate"
+        },
+        {
+          "type": "other",
+          "url": "https://thereadystate.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=Js5xg9o78Jw"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/03/04/the-good-the-bad-and-the-ugly-of-crossfit/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Una Rosa Blanca",
+      "creator": "Ibrahim Maalouf",
+      "note": "([YouTube](https://www.youtube.com/watch?v=EY2CGLWpkuI), [Spotify](https://open.spotify.com/track/4MOCTiC5mMrJuhLFSNjiIM?si=v6kWbcS5SzmdoIKb2geF1w&nd=1)) by [Ibrahim Maalouf](https://www.ibrahimmaalouf.com/en/) ([@ibrahimmaaloufofficial](https://www.instagram.com/ibrahimmaaloufofficial/)). Ibrahim is widely regarded as one of the most gifted trumpeters of his generation. He is also a pioneer in fusing pop, soul, electro, hip-hop, and French chansons with the music of his Lebanese roots.",
+      "original_url": "https://www.youtube.com/watch?v=EY2CGLWpkuI",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=EY2CGLWpkuI"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=EY2CGLWpkuI"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/4MOCTiC5mMrJuhLFSNjiIM?si=v6kWbcS5SzmdoIKb2geF1w&nd=1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.ibrahimmaalouf.com/en/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/ibrahimmaaloufofficial/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Lewis Carroll",
+      "creator": null,
+      "note": ", illustrated by [Gwynedd M. Hudson](https://www.cafepress.com/ourkrazykulture/1365709). First Hodder and Stoughton limited edition 1982 reissue of 1922 first edition. Leather lettered and pictorially stamped in gilt. Marbled endpapers and twelve tipped-in plates. [Here are some pics, which also feature Molly Puppins](https://www.instagram.com/p/CaFV1lkrHRQ/).  \n  \nGwynedd Hudson was a British artist and designer who created exceptional illustrations for _[Alice’s Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)_ and _[Peter Pan](https://en.wikipedia.org/wiki/Peter_Pan)_.  \n  \nInspired by [Michael Schur](https://tim.blog/2022/01/19/michael-schur/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), I decided to buy a beautiful, old book with illustrations, just for the joy of traipsing through a tactile and visual feast. I decided on this 1982 reissue of the 1922 first Hudson-illustrated edition of _Alice in Wonderland_. It cost me $175 ([here it is for $290](https://www.ebay.com/itm/201671708704)), but there are many vintage editions available for far less. There are also some beasts for $52,000+! [Browse here using different filters](https://www.abebooks.com/servlet/SearchResults?an=lewis%20carroll&cm_sp=sort-_-SRP-_-Results&ds=30&fe=on&pics=on&sortby=1&tn=alice%20in%20wonderland) to see the range.",
+      "original_url": "https://en.wikipedia.org/wiki/Lewis_Carroll",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Lewis_Carroll"
+        },
+        {
+          "type": "other",
+          "url": "https://www.cafepress.com/ourkrazykulture/1365709"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/CaFV1lkrHRQ/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Peter_Pan"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/01/19/michael-schur/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.ebay.com/itm/201671708704"
+        },
+        {
+          "type": "other",
+          "url": "https://www.abebooks.com/servlet/SearchResults?an=lewis%20carroll&cm_sp=sort-_-SRP-_-Results&ds=30&fe=on&pics=on&sortby=1&tn=alice%20in%20wonderland"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Fractals: Hunting the Hidden Dimension",
+      "creator": null,
+      "note": "and **“**[**Einstein’s Quantum Riddle**](https://tv.apple.com/us/episode/einsteins-quantum-riddle/umc.cmc.2ne49jfmsg4huf7nrjzu6s16h?action=play)**.”** I watch and read a lot more than I include in _5-Bullet Friday_. These two PBS docs make the cut. They also pair together well. I suggest watching them in this order. **For any fractal experts out there, what might you update as any corrections or breakthroughs since the first doc was released in 2008?** [Thanks for letting me know on Twitter @tferriss](http://twitter.com/tferriss)!",
+      "original_url": "https://tv.apple.com/us/episode/fractals-hunting-the-hidden-dimension/umc.cmc.3ehzpw1pj66kswhfpxy03wad9?showId=umc.cmc.3csi7ebnowwlq291svp11o8fd",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tv.apple.com/us/episode/fractals-hunting-the-hidden-dimension/umc.cmc.3ehzpw1pj66kswhfpxy03wad9?showId=umc.cmc.3csi7ebnowwlq291svp11o8fd"
+        },
+        {
+          "type": "other",
+          "url": "https://tv.apple.com/us/episode/einsteins-quantum-riddle/umc.cmc.2ne49jfmsg4huf7nrjzu6s16h?action=play"
+        },
+        {
+          "type": "other",
+          "url": "http://twitter.com/tferriss"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Poem I’m pondering —",
+      "category": "other",
+      "title": "Rebecca Elson",
+      "creator": null,
+      "note": "(Many thanks to Sr. Pollo y Piña for the amazing recommendation.)  \n  \nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n  \nHave a wonderful weekend, everyone. My heart goes out to all in pain, all at risk, and all who are experiencing fear. We’re all in this together. It’s easy but fatal to forget that for too long.  \n  \nMuch love to you and yours,  \n  \nTim",
+      "original_url": "https://en.wikipedia.org/wiki/Rebecca_Elson",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Rebecca_Elson"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

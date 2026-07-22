@@ -6,7 +6,183 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Heart Valley: Life Lessons from a Shepherd",
+      "creator": null,
+      "note": "([NewYorker.com](https://www.newyorker.com/video/watch/the-new-yorker-documentary-heart-valley-life-lessons-from-a-shepherd), [YouTube](https://www.youtube.com/watch?v=qNl7qmKIEAs)), a short film by [Christian Cargill](https://www.christiancargill.com/home/heartvalley/) ([@christiancarg](https://twitter.com/christiancarg)), which won Best Documentary Short at the Tribeca Film Festival. One of my takeaways: **the more anxiety you have, the more real-world tasks you need**. Watch the trailer [here](https://www.youtube.com/watch?v=x0Ek9lOTGJE). The documentary runs just under 20 minutes. FYI that the Welsh shepherd Wilf has had at least one major stroke. I mention this because it’s context I wish I’d had up front. Special thanks to [@lebowski\\_eth](https://twitter.com/lebowski_eth/status/1599841626566053888?s=20&t=Hcv-o7WVXRpvDbt_a2TfPg) for the recommendation!",
+      "original_url": "https://www.newyorker.com/video/watch/the-new-yorker-documentary-heart-valley-life-lessons-from-a-shepherd",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.newyorker.com/video/watch/the-new-yorker-documentary-heart-valley-life-lessons-from-a-shepherd"
+        },
+        {
+          "type": "other",
+          "url": "https://www.newyorker.com/video/watch/the-new-yorker-documentary-heart-valley-life-lessons-from-a-shepherd"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=qNl7qmKIEAs"
+        },
+        {
+          "type": "other",
+          "url": "https://www.christiancargill.com/home/heartvalley/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/christiancarg"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=x0Ek9lOTGJE"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/lebowski_eth/status/1599841626566053888?s=20&t=Hcv-o7WVXRpvDbt_a2TfPg"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Musician I’m enjoying",
+      "category": "music",
+      "title": "Bedia",
+      "creator": "Rajery",
+      "note": "([YouTube](https://www.youtube.com/watch?v=i9DRet4ND8k), [Spotify](https://open.spotify.com/track/03CmE9ciOBL27OQ5aPEu6k)) by [Rajery](https://en.wikipedia.org/wiki/Rajery). [Watch the YouTube video](https://www.youtube.com/watch?v=i9DRet4ND8k). Rajery is missing the fingers on his right hand, which I didn’t realize until watching the music video. It makes the virtuoustic playing all the more impressive. The backstory: “Fighting against the odds has been part of my life ever since an old lady in a marketplace gave me poisoned meat at 11 months old. It cost me the fingers of my right hand….” ([Source](https://www.songlines.co.uk/features/a-beginner-s-guide/rajery-a-beginner-s-guide)).",
+      "original_url": "https://open.spotify.com/track/03CmE9ciOBL27OQ5aPEu6k",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://open.spotify.com/track/03CmE9ciOBL27OQ5aPEu6k"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=i9DRet4ND8k"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/03CmE9ciOBL27OQ5aPEu6k"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Rajery"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=i9DRet4ND8k"
+        },
+        {
+          "type": "other",
+          "url": "https://www.songlines.co.uk/features/a-beginner-s-guide/rajery-a-beginner-s-guide"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "The art and science of picking winning teams",
+      "creator": "Ed Smith",
+      "note": "([@edsmithwriter](https://twitter.com/edsmithwriter)), author of [_Making Decisions_](https://www.amazon.com/Making-Decisions/dp/0008530149/). For the [cricket-naive folks, like me](https://www.youtube.com/watch?v=FKGVaAfJM0I), think of “selector” as a scout or recruiter. From Wikipedia: “A selector in cricket is a person given the administrative duty to choose the players that will represent a particular team in a match. There is typically heavy scrutiny on national team selectors, including those of the major Test cricketing nations like Australia, England, and India.\"  \n​  \nMy favorite part of this article is related to the importance of accepting negative metrics if you want to outperform any consensus. Here are a few excerpts:\n\n_“Whenever someone innovates in business or in life,” argues the former poker player Caspar Berry, “they almost inevitably do so by accepting a negative metric that other people are unwilling to accept.”_\n\n_When the NBA’s Houston Rockets began taking a higher proportion of (long-range) three-point shots, they were accepting the negative metric that they would miss more often. The pay-off was that shots they did convert came with a built-in premium. The trend was initially ridiculed—before being folded into orthodoxy. In 2015–16, only six out of 30 NBA teams took three-pointers in at least a third of their attempts. By 2020–21, 28 teams were doing it._\n\n_Spain’s triumphant football team of 2008–12 sometimes lined up without a striker. Neglecting to select a specialist goalscorer brings risks—as pundits regularly reminded us by imploring Spain to pick a big strong lad up front to bang in the goals. In 2012, Spain preferred the extra midfielder—expanding creative opportunities, while tolerating the negative metric of not selecting a player focused exclusively on scoring. Spain won the final of the 2012 Euros 4–0, their third major title inside four years—revealing a shrewd trade-off._",
+      "original_url": "https://www.ft.com/content/3a95c49d-5fc9-4d63-b16b-c8cf0d30b7b8",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.ft.com/content/3a95c49d-5fc9-4d63-b16b-c8cf0d30b7b8"
+        },
+        {
+          "type": "other",
+          "url": "http://www.edsmithwriter.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/edsmithwriter"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Making-Decisions/dp/0008530149/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=FKGVaAfJM0I"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Podcast episode I’m listening to",
+      "category": "podcast",
+      "title": "You 2.0: Decide Already!",
+      "creator": "Hidden Brain with Shankar Vedantam",
+      "note": "([Apple Podcasts](https://podcasts.apple.com/us/podcast/you-2-0-decide-already/id1028908750?i=1000448394544), [Spotify](https://open.spotify.com/episode/5llcIzW5kCqivY3UcNxg16), [Overcast](https://overcast.fm/+1WhNrPOW8)) by [_Hidden Brain_](https://hiddenbrain.org/) with [Shankar Vedantam](https://www.npr.org/people/137765146/shankar-vedantam).",
+      "original_url": "https://hiddenbrain.org/podcast/you-2-0-decide-already/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://hiddenbrain.org/podcast/you-2-0-decide-already/"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/you-2-0-decide-already/id1028908750?i=1000448394544"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/5llcIzW5kCqivY3UcNxg16"
+        },
+        {
+          "type": "other",
+          "url": "https://overcast.fm/+1WhNrPOW8"
+        },
+        {
+          "type": "other",
+          "url": "https://hiddenbrain.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.npr.org/people/137765146/shankar-vedantam"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering once again",
+      "category": "quote",
+      "title": "“If your compassion does not include yourself, it is incomplete.” — Jack Kornfield (Click here to share on Twitter) You can complement this edition of 5-Bullet Friday with my interview with hospice physician Dr. BJ Miller, who has helped thousands of people to navigate the transition to death. It remains one of my all-time favorite conversations, and I’ve often applied his philosophies and lessons-learned to my life. If you only have 15 minutes, listen to BJ Miller’s profile from Tools of Titans_. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Jack Kornfield",
+      "note": null,
+      "original_url": "https://tim.blog/2022/06/22/jack-kornfield-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2022/06/22/jack-kornfield-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/intent/tweet?text=%E2%80%9CIf%20your%20compassion%20does%20not%20include%20yourself%2C%20it%20is%20incomplete.%E2%80%9D%0A%E2%80%94%20Jack%20Kornfield%20%0A%0Avia%20the%205-Bullet%20Friday%20newsletter%20%28tim.blog%2Ffriday%29%20from%20%40tferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2016/04/14/bj-miller/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/bj-miller/id1515607844?i=1000483889756"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/B082VKY29Q/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

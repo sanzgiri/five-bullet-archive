@@ -6,7 +6,135 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m hoping is a blockbuster",
+      "category": "other",
+      "title": "Hearing is be-leafing: Students invent quieter leaf blower",
+      "creator": null,
+      "note": "These brilliant undergrad engineers at Johns Hopkins might just save my sanity. Their invention could be on the market within two years, and in Austin, where nearly every citizen has OLD (obsessive leaf-blowing disorder), I’ll consider it a godsend. Fingers crossed.",
+      "original_url": "https://hub.jhu.edu/2024/05/14/quieter-leaf-blower/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://hub.jhu.edu/2024/05/14/quieter-leaf-blower/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Jerry Seinfeld’s Recent Duke Commencement Speech",
+      "creator": null,
+      "note": "There is some _really_ powerful stuff hidden between the jokes. There are 3–4 concepts (e.g., fascination over passion) that made me pause and rewind, which I suspect will be very helpful as I navigate my next chapters. If you want to skip some of the local references in the beginning, I suggest starting [here](https://youtu.be/76QV2SrSqgo?t=170), which will take you to 2:50. Also… how good does Jerry look at 70?!? I want whatever he’s taking.",
+      "original_url": "https://www.youtube.com/watch?v=76QV2SrSqgo",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=76QV2SrSqgo"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/76QV2SrSqgo?t=170"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m excited about",
+      "category": "other",
+      "title": "Wounded orangutan seen using plant as medicine",
+      "creator": null,
+      "note": "(BBC) This isn’t a trivial observation. For more, see “[Active self-treatment of a facial wound with a biologically active plant by a male Sumatran orangutan](https://www.nature.com/articles/s41598-024-58988-7).” Hat tip to [Dr. Mark Plotkin](https://tim.blog/2020/09/30/mark-plotkin/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) of [Amazon Conservation Team (ACT).](https://www.amazonteam.org/)​",
+      "original_url": "https://www.bbc.com/news/science-environment-68942123",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.bbc.com/news/science-environment-68942123"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nature.com/articles/s41598-024-58988-7"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/09/30/mark-plotkin/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazonteam.org/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "Can psychedelics treat people with a severe brain injury?",
+      "creator": "Jonathan Moens for National Geographic_",
+      "note": "for _National Geographic_. ([Alternate link](https://archive.is/L3Y4f).) This is a deeply researched and deeply moving piece. It underscores some of the hopes and gaps related to treating “disorders of consciousness.” Coverage of psychedelics tends to overstate how much we understand, and this is a good counterbalance with open questions. Here is an excerpt:  \n​  \n​_At the heart of this scientific initiative is the notion of brain “complexity.” In neuroscience, complexity is a measure of how diverse and unpredictable brain activity is. Brain activity that is uniform and fixed is described as having low complexity. Activity that is scattered, unpredictable, and rapidly changing from one state to the next is considered to be highly complex.  \n​  \nOver the past two decades, a series of experiments have shown that brains of people who are awake and healthy tend to be higher in this complexity measure than those of people who are in dreamless sleep, sedated, or have a disorder of consciousness.  \n​  \nThe findings have led scientists to hypothesize that complexity acts as a reliable indicator for how conscious someone is, making it a particularly powerful tool for assessing the conscious level of individuals who can’t communicate but who might still be aware, as with patients with disorders of consciousness.  \n​_​  \nFor a deep dive on the potential application of psychedelic compounds to traumatic brain injury (TBI), I suggest [my conversation with Stanford’s Dr. Nolan Williams](https://tim.blog/2024/01/05/nolan-williams/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) that covers new science related to ibogaine and GDNF as well as applications of direct brain stimulation.",
+      "original_url": "https://www.nationalgeographic.com/premium/article/severe-brain-injury-unprecedented-therapy-psychedelic",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nationalgeographic.com/premium/article/severe-brain-injury-unprecedented-therapy-psychedelic"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/jonathan_moens?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.is/L3Y4f"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/01/05/nolan-williams/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“After you have exhausted what there is in business, politics, conviviality, love, and so on—have found that none of these finally satisfy, or permanently wear—what remains? Nature remains; to bring out from their torpid recesses, the affinities of a man or woman with the open air, the trees, fields, the changes of seasons—the sun by day and the stars of heaven by night.” — Walt Whitman (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with this week’s super-combo episodes (Naval Ravikant and Nick Kokonas; Dr. Gabor Maté and Dr. BJ Miller); my interview with Jerry Seinfeld, and this clip from the most recent Random Show episode on my experience with two sessions of transcranial magnetic stimulation (TMS). And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "have found that none of these finally satisfy, or permanently wear—what remains? Nature remains; to bring out from their torpid recesses, the affinities of a man or woman with the open air, the trees, fields, the changes of seasons—the sun by day and the stars of heaven by night.” — Walt Whitman",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Walt_Whitman",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Walt_Whitman"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/YScIU"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/05/16/naval-ravikant-and-nick-kokonas/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/05/17/dr-gabor-mate-and-bj-miller-md-738/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/12/08/jerry-seinfeld/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=iSZnzNLhxCc"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

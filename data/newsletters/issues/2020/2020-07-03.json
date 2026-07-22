@@ -1,13 +1,161 @@
 {
   "schema_version": 1,
   "issue_date": "2020-07-03",
-  "subject": "5-Bullet Friday — July 3, 2020 ",
+  "subject": "5-Bullet Friday — July 3, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "The Man Bigger Than The Meme",
+      "creator": null,
+      "note": "Most of you have seen dozens of pictures of Wardy Joubert III… but you never knew his name. This VICE video provides a heartwarming send-off to a meme that provided millions with a few smiles amidst the fear and uncertainty of COVID-19.",
+      "original_url": "https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/n2hohvhozrwq7p/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3dhdGNoLz92PTcxMTI3Nzc0Mjk3MDUyNQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/n2hohvhozrwq7p/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3dhdGNoLz92PTcxMTI3Nzc0Mjk3MDUyNQ=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m using daily —",
+      "category": "other",
+      "title": "DASH Express Electric Egg Cooker",
+      "creator": null,
+      "note": "I hate few things, but I HATE cleaning pots and pans with eggs stuck to them. I also dislike wasting tons of water when boiling eggs. This device makes perfect eggs (I prefer soft- or medium-boiled) in a handful of minutes with just a few tablespoons of water.",
+      "original_url": "https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/48hvheh24gzlxd/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9EQVNILURFQzIwN0dCQVEwNC1FeHByZXNzLUVsZWN0cmljLVNjcmFtYmxlZC9kcC9CMDg0SDFSUlBGL3JlZj1zcl8xXzQ_ZGNoaWxkPTEma2V5d29yZHM9RGFzaCUyQlJhcGlkJTJCRWdnJTJCQ29va2VyJnFpZD0xNTkzNzkyMzAxJnNyPTgtNCZ0aD0x",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/48hvheh24gzlxd/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9EQVNILURFQzIwN0dCQVEwNC1FeHByZXNzLUVsZWN0cmljLVNjcmFtYmxlZC9kcC9CMDg0SDFSUlBGL3JlZj1zcl8xXzQ_ZGNoaWxkPTEma2V5d29yZHM9RGFzaCUyQlJhcGlkJTJCRWdnJTJCQ29va2VyJnFpZD0xNTkzNzkyMzAxJnNyPTgtNCZ0aD0x"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I couldn’t be more excited about —",
+      "category": "other",
+      "title": "Hugh Jackman on the podcast",
+      "creator": null,
+      "note": "!** I’ve wanted to get Hugh on the show for nearly a decade, and—even with my sky-high hopes—he absolutely over-delivered. In our conversation, we dig into lessons learned, routines, favorite books, exercises, intuition, meditation, and much, much more. This is one of the longest interviews he has ever done, and it contains quite a few surprises. Trust me—Hugh delivers the goods. You can hear it on [Apple Podcasts](https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/reh8hoh5gx9d66/aHR0cHM6Ly9wb2RjYXN0cy5hcHBsZS5jb20vdXMvcG9kY2FzdC80NDQtaHVnaC1qYWNrbWFuLW9uLWJlc3QtZGVjaXNpb25zLWRhaWx5LXJvdXRpbmVzLTg1L2lkODYzODk3Nzk1P2k9MTAwMDQ4MDM2NzIzOQ==), [Spotify](https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/08hwh9h73z0elp/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL2VwaXNvZGUvM1dYYWZ4dUpTMTFJdm92TVFqNm1TSw==), [Overcast](https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/8ghqhoh5m9edr8/aHR0cHM6Ly9vdmVyY2FzdC5mbS8rS2VidFcyRm5n), or wherever you get your podcasts.",
+      "original_url": "https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/wnh2hghoeg970e/aHR0cHM6Ly90aW0uYmxvZy8yMDIwLzA2LzI2L2h1Z2gtamFja21hbi8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/wnh2hghoeg970e/aHR0cHM6Ly90aW0uYmxvZy8yMDIwLzA2LzI2L2h1Z2gtamFja21hbi8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/reh8hoh5gx9d66/aHR0cHM6Ly9wb2RjYXN0cy5hcHBsZS5jb20vdXMvcG9kY2FzdC80NDQtaHVnaC1qYWNrbWFuLW9uLWJlc3QtZGVjaXNpb25zLWRhaWx5LXJvdXRpbmVzLTg1L2lkODYzODk3Nzk1P2k9MTAwMDQ4MDM2NzIzOQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/08hwh9h73z0elp/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL2VwaXNvZGUvM1dYYWZ4dUpTMTFJdm92TVFqNm1TSw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/8ghqhoh5m9edr8/aHR0cHM6Ly9vdmVyY2FzdC5mbS8rS2VidFcyRm5n"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m exploring —",
+      "category": "other",
+      "title": "People and Predators Series",
+      "creator": null,
+      "note": ", published by The Center for Human-Carnivore Coexistence at Colorado State University.** As a preface, I’ll provide a quote that largely explains why wolves in Colorado have caught my attention:  \n  \n“Re-establishing wolves in western Colorado could connect the entire North American wolf population from Minnesota, Wisconsin and Michigan through Canada and Alaska, down the Rocky Mountains into Mexico. It would be difficult to overestimate the biological and conservation value of this achievement.”  \n— Dr. L. D. Mech, iconic biologist  \n  \nBased on what other ecologists have told me, re-establishing wolves in western Colorado is the only clear opportunity in the world to reestablish a major carnivore _at a continental scale_. This is also a carnivore that we decimated and that can also have a huge positive impact on entire ecosystems.  \n  \n**Here are two important segments from the announcement (**[**Colorado State University unveils educational resources on potential restoration of wolves in Colorado**](https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/l2hehmhk8r52d5/aHR0cHM6Ly9zb3VyY2UuY29sb3N0YXRlLmVkdS9jb2xvcmFkby1zdGF0ZS11bml2ZXJzaXR5LXVudmVpbHMtZWR1Y2F0aW9uYWwtcmVzb3VyY2VzLW9uLXBvdGVudGlhbC1yZXN0b3JhdGlvbi1vZi13b2x2ZXMtaW4tY29sb3JhZG8v)**):****\\*\\*\\*****_Colorado residents will vote in November on a ballot initiative that calls for the proposed reintroduction of gray wolves to the state. Proposition 107, a citizen-initiated measure, would direct the Colorado Parks and Wildlife Commission to develop and oversee a science-based plan to restore wolves to the western part of the state.\\*\\*\\*_****_..._****_“As Colorado’s only land-grant institution, CSU is uniquely positioned to provide science-based information on the subject,” said Kevin Crooks, professor in the Department of Fish, Wildlife and Conservation Biology and director of the new Center for Human-Carnivore Coexistence. “The educational materials have undergone extensive review by scientists within and outside CSU, including world experts on wolves.”  \n  \n_**Here are a few additional factoids from Kevin:\n\n-   Although primarily carnivorous, wolves occasionally eat fruits. For example, [a recent study (and associated video) in Minnesota documented wolves foraging on blueberries and feeding them to their young](https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/m2h7h5hndek5lg/aHR0cHM6Ly93d3cubXBybmV3cy5vcmcvc3RvcnkvMjAyMC8wMi8xMi9uZXctcmVzZWFyY2gtZnJvbS1ub3J0aGVybi1taW5uLXNob3dzLXdvbHZlcy1mZWVkLWJlcnJpZXMtdG8tdGhlaXIteW91bmc=).  \n      \n    \n-   Wolves tend to be neophobic, meaning they are afraid of new things. We can take advantage of this when developing tools to prevent conflict with wolves. For example, flagging on fences (called “fladry”) can scare wolves away from livestock. [See this video of a wolf avoiding fladry around a cow carcass in Washington State](https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/dpheh0h7l5z62o/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1rRjAxU0ZGdWZ2MA==).  \n      \n    \n-   Wolves tend to avoid humans, and therefore the risk of them attacking people is low. For example, in North America, there are no documented accounts of humans killed by wild wolves between 1900-2000. As another example, no wolves have attacked humans in Yellowstone National Park since wolves returned in 1995. Yellowstone receives 4 million visitors per year, including tent campers, and about 100 wolves live in the Park.  \n      \n    \n-   Before humans, wolves were once the most widely distributed land mammal on the planet, occurring throughout all of North America and much of Europe and Asia.  \n      \n    \n-   Between 1978 and 2014, the proportion of Americans with positive attitudes towards wolves increased 42%. Now, the majority of Americans support wolf conservation and wolf reintroduction. [See scientific paper here](https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/e0hph7hn849vde/aHR0cHM6Ly9kb2kub3JnLzEwLjEwMTYvai5iaW9jb24uMjAxNi4wNy4wMTM=).",
+      "original_url": "https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/vqh3hrhkzg20w5/aHR0cHM6Ly9zaXRlcy53YXJuZXJjbnIuY29sb3N0YXRlLmVkdS9jZW50ZXJmb3JodW1hbmNhcm5pdm9yZWNvZXhpc3RlbmNlL3Blb3BsZS1wcmVkYXRvcnMv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/vqh3hrhkzg20w5/aHR0cHM6Ly9zaXRlcy53YXJuZXJjbnIuY29sb3N0YXRlLmVkdS9jZW50ZXJmb3JodW1hbmNhcm5pdm9yZWNvZXhpc3RlbmNlL3Blb3BsZS1wcmVkYXRvcnMv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/l2hehmhk8r52d5/aHR0cHM6Ly9zb3VyY2UuY29sb3N0YXRlLmVkdS9jb2xvcmFkby1zdGF0ZS11bml2ZXJzaXR5LXVudmVpbHMtZWR1Y2F0aW9uYWwtcmVzb3VyY2VzLW9uLXBvdGVudGlhbC1yZXN0b3JhdGlvbi1vZi13b2x2ZXMtaW4tY29sb3JhZG8v"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/m2h7h5hndek5lg/aHR0cHM6Ly93d3cubXBybmV3cy5vcmcvc3RvcnkvMjAyMC8wMi8xMi9uZXctcmVzZWFyY2gtZnJvbS1ub3J0aGVybi1taW5uLXNob3dzLXdvbHZlcy1mZWVkLWJlcnJpZXMtdG8tdGhlaXIteW91bmc="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/dpheh0h7l5z62o/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1rRjAxU0ZGdWZ2MA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/e0hph7hn849vde/aHR0cHM6Ly9kb2kub3JnLzEwLjEwMTYvai5iaW9jb24uMjAxNi4wNy4wMTM="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Give more. Give what you didn’t get. Love more. Drop the old story.” — Garry Shandling (Bonus: The Zen Diaries of Garry Shandling documentary)And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all! Tim P.S. Looking for an easy way to do something good on July 4th, Independence Day? Here’s one organization that I support: The C4 Foundation. My good friend and past podcast guest Nick Norris is leading the charge at the C4 Foundation, which gives active-duty SEAL families various opportunities to strengthen and preserve family bonds before, during, and after deployments. The C4 Foundation is named after Nick’s friend and teammate, Charles Humphrey Keating IV, who gave his life for his SEAL brothers during combat operations in Mosul, Iraq. The Keating family and C4 team are celebrating Chuck’s deep love of family and the outdoors by building a sanctuary where these brave warriors can prepare, rest, and heal. For just $4/month, you can join their CHUCK HEAVY movement. In exchange for your support, you will receive a free CHUCK HEAVY shirt and be eligible to win giveaways from their partners, such as Pepsi, Traeger Grills, Yeti, and more. [](https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/wnh2hghoeg970e/aHR0cHM6Ly90aW0uYmxvZy8yMDIwLzA2LzI2L2h1Z2gtamFja21hbi8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Garry Shandling",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/owhkhqh82o3907/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvR2FycnlfU2hhbmRsaW5n",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/owhkhqh82o3907/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvR2FycnlfU2hhbmRsaW5n"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/z2hghnhdqw96md/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9aZW4tRGlhcmllcy1HYXJyeS1TaGFuZGxpbmctUGFydC9kcC9CMDg3WjVZTUxGLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/p8heh9h7nxk6p9/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/x0hph6h753824w/aHR0cHM6Ly9jNGZvdW5kYXRpb24ub3JnLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/dpheh0h7l5z62e/aHR0cHM6Ly90aW0uYmxvZy8yMDE5LzA3LzE4L25pY2stbm9ycmlzLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/e0hph7hn849vdq/aHR0cDovL3d3dy5jNGZvdW5kYXRpb24ub3JnLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/7qh7h8h4rzvlxz/aHR0cDovL3d3dy5jaHVja2hlYXZ5Lm9yZy8="
+        },
+        {
+          "type": "other",
+          "url": "https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/3aNDGWvmZoNbuCFBTzEeac?w=800&fit=max"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/z2hghnhdqw96m5/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/n4u05gdnnavhen0w9ug"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/n4u05gdnnavhen0w9ug/9qhzhnh2o9kw5w/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,166 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Documentary I’m watching",
+      "category": "video",
+      "title": "American Symphony",
+      "creator": null,
+      "note": "This is the most beautiful documentary I’ve seen in a long time. If you listen carefully, there are a lot of philosophical gems worth chewing on. Here’s the official description: “In this deeply intimate documentary, musician [Jon Batiste](https://www.instagram.com/jonbatiste/?hl=en) attempts to compose a symphony as his wife, writer [Suleika Jaouad](https://tim.blog/2021/06/01/suleika-jaouad/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content), undergoes cancer treatment.” At the least, I suggest you [watch the short trailer here](https://youtu.be/wKSMsdq8ONs?si=8L7ozHUDn9hnx2CO).",
+      "original_url": "https://www.netflix.com/title/81728930",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.netflix.com/title/81728930"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/jonbatiste/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/06/01/suleika-jaouad/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/wKSMsdq8ONs?si=8L7ozHUDn9hnx2CO"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Song I’m listening to",
+      "category": "music",
+      "title": "El Estuche",
+      "creator": "Aterciopelados",
+      "note": "([YouTube](https://www.youtube.com/watch?v=Qnu0Mww49us), [Spotify](https://open.spotify.com/track/59dUayoETyz1k7thZYmYkT), [Apple Music](https://music.apple.com/us/song/el-estuche/306657889)) by [Aterciopelados](https://en.wikipedia.org/wiki/Aterciopelados). Perfect for Texas spring and calling in some Latin vibes.",
+      "original_url": "https://www.youtube.com/watch?v=Qnu0Mww49us",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=Qnu0Mww49us"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=Qnu0Mww49us"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/59dUayoETyz1k7thZYmYkT"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/song/el-estuche/306657889"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Aterciopelados"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Short video I’m watching",
+      "category": "video",
+      "title": "Kobe Bryant - ‘Failure Doesn’t Exist’",
+      "creator": null,
+      "note": "It’s easy to get caught up in labels and false constructs. Don’t let “failure” be one of them.",
+      "original_url": "https://www.youtube.com/watch?v=js8OfeEL4jI",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=js8OfeEL4jI"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Ketamine is being sold as a depression wonder drug. For some, it’s making everything worse.",
+      "creator": null,
+      "note": "Please try [this alternate link](https://archive.is/5BVLl) if you have any trouble accessing the article. This is a timely and important piece by [Anna Silman](https://www.annasilman.com/) ([@annaesilman](https://twitter.com/annaesilman)). In the last three years, I’ve seen more high-functioning people derailed by ketamine than any other substance.",
+      "original_url": "https://www.businessinsider.com/ketamine-therapy-depression-treatment-addictive-drug-clinics-2023-1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.businessinsider.com/ketamine-therapy-depression-treatment-addictive-drug-clinics-2023-1"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.is/5BVLl"
+        },
+        {
+          "type": "other",
+          "url": "https://www.annasilman.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/annaesilman"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "What I'm reading (and involved with)",
+      "category": "article",
+      "title": "Book Startup Pitches Authors a Novel Deal: $0 Up Front, Bigger Profits",
+      "creator": null,
+      "note": "(_Wall Street Journal_) and **“**[**A New Publisher Promises Authors ‘the Lion’s Share of the Profit’**](https://www.nytimes.com/2024/03/05/books/publisher-authors-equity.html?unlocked_article_code=1.aU0._odM.L_GTaC8maku4&smid=url-share)**”** (_New York Times_). I’m thrilled to be involved with this new venture in publishing. I hope it sets new precedents in an age-old industry that’s ripe for innovation. You can find the Authors Equity website [here](http://authorsequity.com/).  \n​  \nFor more on unorthodox approaches to publishing and book deals (e.g., how can you hit the NYT list with self-published books?), check out next week’s podcast with one of the most successful present-day authors.",
+      "original_url": "https://www.wsj.com/business/media/book-startup-pitches-authors-a-novel-deal-0-up-front-bigger-profits-37ccadf0?st=w7gaorjfa3kl7ki&reflink=desktopwebshare_permalink",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.wsj.com/business/media/book-startup-pitches-authors-a-novel-deal-0-up-front-bigger-profits-37ccadf0?st=w7gaorjfa3kl7ki&reflink=desktopwebshare_permalink"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nytimes.com/2024/03/05/books/publisher-authors-equity.html?unlocked_article_code=1.aU0._odM.L_GTaC8maku4&smid=url-share"
+        },
+        {
+          "type": "other",
+          "url": "http://authorsequity.com/"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Intelligence is the capacity to perceive the essential, the what is; and to awaken this capacity, in oneself and in others, is education.” — Jiddu Krishnamurti (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my interview with LeBron James, the latest episode (“How to Swim”) from The Tim Ferriss Experiment_, and my conversation with renowned real-estate and Shark Tank investor Barbara Corcoran. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Jiddu Krishnamurti",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Jiddu_Krishnamurti",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Jiddu_Krishnamurti"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/fpIvP"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/11/27/lebron-james-mike-mancias/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/05rAfBBiL1w?si=UGgBzGTu-BXU1gv6"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/03/06/barbara-corcoran/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

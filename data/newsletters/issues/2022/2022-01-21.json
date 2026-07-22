@@ -6,7 +6,163 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Articles I’m reading —",
+      "category": "article",
+      "title": "Sort By Controversial",
+      "creator": "Scott Alexander",
+      "note": "([@slatestarcodex](https://twitter.com/slatestarcodex?lang=en)) of [Slate Star Codex](https://slatestarcodex.com/) fame, now writing at [Astral Codex Ten](https://astralcodexten.substack.com/). Note that this is fiction. Or is it? Hilarious and terrifying.**“**[**The Control Group Is Out Of Control**](https://slatestarcodex.com/2014/04/28/the-control-group-is-out-of-control/)**,****”** also by Scott Alexander. This is a fun read as well as an outstanding article on the basics of statistics for a lay audience. I believe there is a place for frequentist statistics, but I’m relying on people far smarter than myself, and that doesn’t detract from the main points. For those interested in a technical exploration far beyond my abilities, here you go: “[Why Isn’t Everyone a Bayesian?](https://www2.stat.duke.edu/courses/Spring10/sta122/Handouts/EfronWhyEveryone.pdf)” by [Bradley Efron](https://en.wikipedia.org/wiki/Bradley_Efron). Thanks to my brother for the recommendation.",
+      "original_url": "https://slatestarcodex.com/2018/10/30/sort-by-controversial/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://slatestarcodex.com/2018/10/30/sort-by-controversial/"
+        },
+        {
+          "type": "other",
+          "url": "https://astralcodexten.substack.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/slatestarcodex?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://slatestarcodex.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://astralcodexten.substack.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://slatestarcodex.com/2014/04/28/the-control-group-is-out-of-control/"
+        },
+        {
+          "type": "other",
+          "url": "https://www2.stat.duke.edu/courses/Spring10/sta122/Handouts/EfronWhyEveryone.pdf"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Bradley_Efron"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Track I’m listening to —",
+      "category": "music",
+      "title": "Zitarrosa",
+      "creator": "Bajofondo",
+      "note": "([YouTube](https://www.youtube.com/watch?v=goQGBkkuVpE), [Spotify](https://open.spotify.com/track/3LsIKnWBQhqjQ5TWNxJenK), [Amazon Music](https://www.amazon.com/Zitarrosa-Album-Version/dp/B001C3G8OQ)) by [Bajofondo](http://www.bajofondomusic.com/) ([@Bajofondo](https://twitter.com/Bajofondo)). This track is great for cooking, writing, dancing, or simply calming yourself. It does it all. I first found Bajofondo when I [lived in Buenos Aires and traveled through Uruguay many lifetimes ago](https://www.youtube.com/watch?v=5pWmhBm-CiI). From Wikipedia: “Bajofondo is a Río de la Plata-based music band consisting of eight musicians from Argentina and Uruguay, which aims to create a more contemporary version of tango and other musical styles of the Río de la Plata region.”",
+      "original_url": "https://www.youtube.com/watch?v=goQGBkkuVpE",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=goQGBkkuVpE"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=goQGBkkuVpE"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/3LsIKnWBQhqjQ5TWNxJenK"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Zitarrosa-Album-Version/dp/B001C3G8OQ"
+        },
+        {
+          "type": "other",
+          "url": "http://www.bajofondomusic.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/Bajofondo"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=5pWmhBm-CiI"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Book I’m reading —",
+      "category": "book",
+      "title": "Arctic Dreams",
+      "creator": "Barry Lopez",
+      "note": ". I first fell in love with Barry’s writing with his iconic masterpiece, [_Of Wolves and Men_](https://www.amazon.com/Wolves-Men-Barry-Holstun-Lopez/dp/0684163225/). [_Arctic Dreams_](https://www.amazon.com/Arctic-Dreams-Barry-Lopez/dp/0375727485/) is perhaps his most famous book and the winner of the National Book Award. The official description: “The Arctic is a perilous place. Only a few species of wild animals can survive its harsh climate. In this modern classic, Barry Lopez explores the many-faceted wonders of the Far North: its strangely stunted forest, its mesmerizing aurora borealis, its frozen seas. Musk oxen, polar bears, narwhal, and other exotic beasts of the region come alive through Lopez’s passionate and nuanced observations. And, as he examines the history and culture of the indigenous people, along with parallel narratives of intrepid, often underprepared and subsequently doomed polar explorers, Lopez drives to the heart of why the austere and formidable Arctic is also a constant source of breathtaking beauty, beguilement, and wonder.”",
+      "original_url": "https://www.amazon.com/Arctic-Dreams-Barry-Lopez/dp/0375727485/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Arctic-Dreams-Barry-Lopez/dp/0375727485/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.barrylopez.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Wolves-Men-Barry-Holstun-Lopez/dp/0684163225/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Arctic-Dreams-Barry-Lopez/dp/0375727485/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m rewatching and enjoying even more the second time —",
+      "category": "video",
+      "title": "Derek DelGaudio’s In & Of Itself",
+      "creator": null,
+      "note": "(Hulu). Derek’s feats of magic are rivaled by his feats of social engineering, memory, and more. I found the entire show incredibly inventive. Even if you don’t have Hulu or won’t subscribe, [the trailer here](https://www.youtube.com/watch?v=_62BeXxd_jo) is worth watching. Description: “Storyteller and conceptual magician [Derek DelGaudio](https://en.wikipedia.org/wiki/Derek_DelGaudio) ([@derekdel](https://www.instagram.com/derekdel/)) attempts to understand the illusory nature of identity and answer the deceptively simple question ‘Who am I?’”",
+      "original_url": "https://www.hulu.com/movie/derek-delgaudios-in-of-itself-19b9d405-40b2-483e-8e1f-e25fe10c7299",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.hulu.com/movie/derek-delgaudios-in-of-itself-19b9d405-40b2-483e-8e1f-e25fe10c7299"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=_62BeXxd_jo"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Derek_DelGaudio"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/derekdel/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering, and the underlining for emphasis is mine —",
+      "category": "quote",
+      "title": "“One of the big traps we have in the West is our intelligence, because we want to know that we know. Freedom allows you to be wise, but you cannot know wisdom, you must be wisdom. When my guru wanted to put me down, he called me ‘clever.’ When he wanted to reward me, he would call me ‘simple.’ The intellect is a beautiful servant, but a terrible master. Intellect is the power tool of our separateness. The intuitive, compassionate heart is the doorway to our unity.” — Ram Dass (via JZ) And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Ram Dass",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Ram_Dass",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Ram_Dass"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

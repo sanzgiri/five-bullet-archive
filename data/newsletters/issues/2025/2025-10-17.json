@@ -7,7 +7,143 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Training and rehab gadget I’m testing",
+      "category": "other",
+      "title": "KAATSU",
+      "creator": null,
+      "note": "I’ve long been interested in blood-flow restriction (BFR) training, mostly for more gains with fewer injuries. This is particularly true after something like surgery. Since my Humpty Dumpty elbow was surgically repaired six weeks ago, BFR is once again top of mind, and I decided to test [the C4 unit from Kaatsu](https://kaatsu.com/products/kaatsu-c4), based on a few docs and coaches recommendations. There are also newer, cordless/tube-free versions. The jury is still out, but the results are promising. [Here’s a decent overview of the science behind BFR](https://pmc.ncbi.nlm.nih.gov/articles/PMC8811521/) and its many applications.",
+      "original_url": "https://kaatsu.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://kaatsu.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://kaatsu.com/products/kaatsu-c4"
+        },
+        {
+          "type": "other",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8811521/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "AI is killing the web. Can anything save it?",
+      "creator": null,
+      "note": "(_The Economist_). [Alternate link](https://archive.is/H2G0Q) if blocked. This is an important facet of the AI conversation that should get more airtime. What happens when the commercial lifeblood of much of the web—advertising and subscriptions—gets replaced by LLMs? What happens if Google, Wikipedia, and many more get wholly or partially displaced? For a quick teaser with some eye-popping numbers, [watch this short clip from Matthew Prince, CEO of Cloudflare](https://www.instagram.com/reel/DPw8r_rDGUc/). As always, I think there are opportunities hiding in the disruption.",
+      "original_url": "https://www.economist.com/business/2025/07/14/ai-is-killing-the-web-can-anything-save-it",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.economist.com/business/2025/07/14/ai-is-killing-the-web-can-anything-save-it"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.is/H2G0Q"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/reel/DPw8r_rDGUc/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Tu Rumba",
+      "creator": "iLe",
+      "note": "([YouTube](https://www.youtube.com/watch?v=RTzL-G2kIA8), [Spotify](https://open.spotify.com/track/4iY6Xv5g3SbauDZmCf2kr4)) by [iLe](https://ilevitable.com/) ([@cabralu](https://www.instagram.com/cabralu/)). Give this a chance. The vocals are pure caramel, and it takes 30–60 seconds to warm up. I highly suggest YouTube for both the video and the lyrics in the description. This is an excellent slow-mo song for studying Spanish, even if iLe/Ileana loves to eat her _s_’s. It’s part of her charm.",
+      "original_url": "https://www.youtube.com/watch?v=RTzL-G2kIA8",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=RTzL-G2kIA8"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=RTzL-G2kIA8"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/4iY6Xv5g3SbauDZmCf2kr4"
+        },
+        {
+          "type": "other",
+          "url": "https://ilevitable.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/cabralu/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "All Kings, a Retreat for Men, Tackles Masculine Rage, Sadness and Trauma",
+      "creator": "Joseph Bernstein",
+      "note": "(_The New York Times_; [alternate link](https://archive.ph/fWfXb)). This is a great complement to [_The Work_](https://www.amazon.com/Work-James-McLeary/dp/B077GGWH8P/) documentary I featured in this newsletter long ago, which will tear your heart apart and put it back together. I am going to donate $10,000 to [All Kings](https://www.allkings.org/), a nonprofit organization, as I believe in the mission. Every $1,000 sponsors a new member.",
+      "original_url": "https://www.nytimes.com/2024/07/01/style/all-kings-mens-work-retreat-masculinity.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/2024/07/01/style/all-kings-mens-work-retreat-masculinity.html"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nytimes.com/by/joseph-bernstein"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.ph/fWfXb"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Work-James-McLeary/dp/B077GGWH8P/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.allkings.org/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Both tears and sweat are salty, but they render a different result. Tears will get you sympathy; sweat will get you change.” — Rev. Jesse Jackson (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my conversation with Nobel laureate Richard H. Thaler, which I co-hosted with my friend and listener-favorite Nick Kokonas. We cover a wide range of topics, including behavioral economics, status-quo bias, the sunk-cost fallacy, the winner’s curse, temptation bundling, lessons from Danny Kahneman, and much, much more. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Rev. Jesse Jackson",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Jesse_Jackson",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Jesse_Jackson"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/nfi0G"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/10/10/richard-thaler/%20?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

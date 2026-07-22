@@ -1,13 +1,117 @@
 {
   "schema_version": 1,
   "issue_date": "2020-04-03",
-  "subject": "5-Bullet Friday — April 3, 2020 ",
+  "subject": "5-Bullet Friday — April 3, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Sam Harris’s Mushroom Trip",
+      "creator": null,
+      "note": "This is quite possibly the best description I’ve ever heard of a psychedelic experience involving high-dose psilocybin. It was previously behind a paywall, and now it’s on YouTube for everyone. Once you get past the caveats, Sam’s wordsmithing—and the imagery it conjures—is beautiful. And if that whets your appetite, I suggest pairing it with [“Psychedelic Science: A Conversation with Roland Griffiths” on the _Making Sense_ podcast](https://el2.fourhourmail.com/c/92unw45ooanhz7rp4bn/97fzhnhln37rg5/aHR0cHM6Ly9zYW1oYXJyaXMub3JnL3BvZGNhc3RzLzE3Ny1wc3ljaGVkZWxpYy1zY2llbmNlLw==). More resources: [Michael Pollan — Exploring The New Science of Psychedelics](https://el2.fourhourmail.com/c/92unw45ooanhz7rp4bn/nmtohvhke5d0nl/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzA1LzA2L21pY2hhZWwtcG9sbGFuLWhvdy10by1jaGFuZ2UteW91ci1taW5kLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=).",
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanhz7rp4bn/qgi8h7h0q2xp89/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj15S0dkZHZtVTBmQSZ0PQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhz7rp4bn/qgi8h7h0q2xp89/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj15S0dkZHZtVTBmQSZ0PQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhz7rp4bn/97fzhnhln37rg5/aHR0cHM6Ly9zYW1oYXJyaXMub3JnL3BvZGNhc3RzLzE3Ny1wc3ljaGVkZWxpYy1zY2llbmNlLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhz7rp4bn/nmtohvhke5d0nl/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzA1LzA2L21pY2hhZWwtcG9sbGFuLWhvdy10by1jaGFuZ2UteW91ci1taW5kLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m rereading —",
+      "category": "article",
+      "title": "Solve for Happy: Engineer Your Path to Joy",
+      "creator": "Mo Gawdat",
+      "note": "fourhourmail.com/c/92unw45ooanhz7rp4bn/0kswh9hkqw8rm8/aHR0cHM6Ly90d2l0dGVyLmNvbS9NR2F3ZGF0)). This was recommended to me by a type-A MD who runs his life at 200 mph. He is also an engineer and strongly dislikes most woo-woo thinking. He gave this book his highest recommendation. To my relief, it doesn’t require any technical background. Here is part of the description, slightly edited for space: “Mo Gawdat, Chief Business Officer at Google’s \\[X\\], applies his superior logic and problem solving skills to understand how the brain processes joy and sadness—and then he solves for happy. In 2001, Mo Gawdat realized that despite his incredible success, he was desperately unhappy. A lifelong learner, he attacked the problem as an engineer would: examining all the provable facts and scrupulously applying logic. Eventually, his countless hours of research and science proved successful, and he discovered the equation for happiness.” I’ve found it very impactful, especially his portion on “I am, therefore I think” as a more useful version of “I think, therefore I am.”",
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanhz7rp4bn/w6c2hgh38vz6rd/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Tb2x2ZS1IYXBweS1FbmdpbmVlci1Zb3VyLVBhdGgvZHAvMTUwMTE1NzU4Mi8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhz7rp4bn/w6c2hgh38vz6rd/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Tb2x2ZS1IYXBweS1FbmdpbmVlci1Zb3VyLVBhdGgvZHAvMTUwMTE1NzU4Mi8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhz7rp4bn/0kswh9hkqw8rm8/aHR0cHM6Ly90d2l0dGVyLmNvbS9NR2F3ZGF0"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m drinking —",
+      "category": "other",
+      "title": "Duck Shit Fragrance Oolong Tea",
+      "creator": null,
+      "note": "This excellent tea was recommended to me by Jason Nemer ([@jasonnemer](https://el2.fourhourmail.com/c/92unw45ooanhz7rp4bn/mmb7h5h7w0rz8g/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9qYXNvbm5lbWVyLw==)), the co-creator of AcroYoga ([interview here](https://el2.fourhourmail.com/c/92unw45ooanhz7rp4bn/edhph7h25wxo0l/aHR0cHM6Ly90aW0uYmxvZy8yMDE2LzA4LzI0L2phc29uLW5lbWVyLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=)). Here’s the description from the [now-closed QuantiTea website](https://el2.fourhourmail.com/c/92unw45ooanhz7rp4bn/ozukhqh75lzdrn/aHR0cHM6Ly9xdWFudGl0ZWEuY29tL3Bhc3N3b3Jk), where I originally procured the tea: “Duck Shit Fragrance (_Ya Shi Xiang_) tea received its distinctive name from the original farmer whose intention was to hide the success of the tea from fellow farmers. Tea plants can be cloned by taking clippings and nurtured to mature tea trees. Duck Shit Fragrance is a style of wulong (also written ‘oolong’) from the yashixiang cultivar (_dancong_ 单枞) tea trees that grow in the Phoenix Mountains. Dancong is the general style of tea from the area and also means it’s from the same cultivar and garden.” Nom nom duck shit...",
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanhz7rp4bn/vma3hrhd835rp2/aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9zZWFyY2g_c3hzcmY9QUxlS2swMHZRTG9BTXRZMm5HSEloSTNVYllFM1NWSDRyQSUzQTE1ODU4NzAwMjc3NTMmc291cmNlPWhwJmVpPXkzU0dYdEtCSzVLcXNnV1B3b21ZRHcmcT1kdWNrc2hpdCtmcmFncmFuY2UrdGVhJm9xPWR1Y2tzaGl0K2ZyYWdyYW4mZ3NfbGNwPUNnWndjM2t0WVdJUUF4Z0FNZ0lJQURvRkNBQVFnd0U2QndnakVPb0NFQ2M2QkFnakVDYzZCUWdBRUpFQ09nZ0lBQkNEQVJDUkFqb0VDQUFRQ2pvRUNBQVFIam9HQ0FBUUJSQWVVSllEV09BZ1lNMG5hQU53QUhnQWdBR0VBWWdCZ0F1U0FRUXhOaTR5bUFFQW9BRUJxZ0VIWjNkekxYZHBlckFCQ2cmc2NsaWVudD1wc3ktYWI=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhz7rp4bn/vma3hrhd835rp2/aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9zZWFyY2g_c3hzcmY9QUxlS2swMHZRTG9BTXRZMm5HSEloSTNVYllFM1NWSDRyQSUzQTE1ODU4NzAwMjc3NTMmc291cmNlPWhwJmVpPXkzU0dYdEtCSzVLcXNnV1B3b21ZRHcmcT1kdWNrc2hpdCtmcmFncmFuY2UrdGVhJm9xPWR1Y2tzaGl0K2ZyYWdyYW4mZ3NfbGNwPUNnWndjM2t0WVdJUUF4Z0FNZ0lJQURvRkNBQVFnd0U2QndnakVPb0NFQ2M2QkFnakVDYzZCUWdBRUpFQ09nZ0lBQkNEQVJDUkFqb0VDQUFRQ2pvRUNBQVFIam9HQ0FBUUJSQWVVSllEV09BZ1lNMG5hQU53QUhnQWdBR0VBWWdCZ0F1U0FRUXhOaTR5bUFFQW9BRUJxZ0VIWjNkekxYZHBlckFCQ2cmc2NsaWVudD1wc3ktYWI="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhz7rp4bn/mmb7h5h7w0rz8g/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9qYXNvbm5lbWVyLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhz7rp4bn/edhph7h25wxo0l/aHR0cHM6Ly90aW0uYmxvZy8yMDE2LzA4LzI0L2phc29uLW5lbWVyLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhz7rp4bn/ozukhqh75lzdrn/aHR0cHM6Ly9xdWFudGl0ZWEuY29tL3Bhc3N3b3Jk"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m super happy about —",
+      "category": "other",
+      "title": "10 Million Free Rides and Deliveries to Move What Matters",
+      "creator": null,
+      "note": "Uber is pledging 10 million free rides and food deliveries for frontline healthcare workers, seniors, and people in need around the world. What have they done so far? From one of my sources at Uber: “As of today, we have funded and distributed over 250,000 meals to medical personnel and first responders in the US and Canada, with many more to come given the updated commitment of 10m meals and rides globally.”",
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanhz7rp4bn/p3ieh9hl85voz5/aHR0cHM6Ly93d3cudWJlci5jb20vdXMvZW4vY29yb25hdmlydXMv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhz7rp4bn/p3ieh9hl85voz5/aHR0cHM6Ly93d3cudWJlci5jb20vdXMvZW4vY29yb25hdmlydXMv"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Beware the stories you read or tell; subtly, at night, beneath the waters of consciousness, they are altering your world.” — Ben Okri And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim",
+      "creator": "Ben Okri And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanhz7rp4bn/65feh8hd06qe7d/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQmVuX09rcmk=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhz7rp4bn/65feh8hd06qe7d/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQmVuX09rcmk="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhz7rp4bn/50tvh7hzloe2m9/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    }
+  ]
 }

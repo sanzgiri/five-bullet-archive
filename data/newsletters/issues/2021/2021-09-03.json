@@ -6,7 +6,167 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Venue and experiment that I’ve enjoyed —",
+      "category": "other",
+      "title": "MoFE",
+      "creator": null,
+      "note": "This was described to me as “a guided lucid dream,” but here’s the official description: “MoFE is a venue in Brooklyn, NY, for immersive storytelling that combines Virtual Reality and Ambisonic sound design. MoFE productions are seated, ticketed shows that run 70 minutes and are limited to 16 guests.” I was quite surprised how much I enjoyed not only several of the VR segments but also the audio-only sections. Be sure to check out the feathers and library in the front waiting room.",
+      "original_url": "https://mofe.co/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://mofe.co/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading —",
+      "category": "book",
+      "title": "The Artists’ Prison",
+      "creator": "Alexandra Grant",
+      "note": "([@alexandragrantstudio](https://www.instagram.com/alexandragrantstudio/)) and [Eve Wood](http://www.evewood.net/) ([@evewoodstudio](https://www.instagram.com/evewoodstudio/?hl=en)). This book was given to me by fiction author [Soman Chainani](https://tim.blog/2017/02/08/soman-chainani-the-school-for-good-and-evil/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@SomanChainani](https://twitter.com/SomanChainani)), and it was recommended to him by [Laurence Fishburne](https://en.wikipedia.org/wiki/Laurence_Fishburne). Here’s the description, edited for length: “Imagined through the heavily redacted testimony of the prison’s warden, written by [Alexandra Grant](https://en.wikipedia.org/wiki/Alexandra_Grant), and powerfully allusive images by [Eve Wood](http://www.evewood.net/), the prison is a brutal, Kafkaesque landscape where creativity can be a criminal offence and sentences range from the allegorical to the downright absurd. In _The Artists’ Prison_, the act of creating becomes a strangely erotic condemnation, as well as a means of punishment and transformation. It is in these very transformations—sometimes dubious, sometimes oddly sentimental—that the book’s critical edge is sharpest.”",
+      "original_url": "https://www.amazon.com/Artists-Prison-Eve-Wood/dp/0998861618/ref=sr_1_1?dchild=1&keywords=The+Artists%E2%80%99+Prison.&qid=1630269987&sr=8-1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Artists-Prison-Eve-Wood/dp/0998861618/ref=sr_1_1?dchild=1&keywords=The+Artists%E2%80%99+Prison.&qid=1630269987&sr=8-1"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Alexandra_Grant"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/alexandragrantstudio/"
+        },
+        {
+          "type": "other",
+          "url": "http://www.evewood.net/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/evewoodstudio/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/02/08/soman-chainani-the-school-for-good-and-evil/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/SomanChainani"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Laurence_Fishburne"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Alexandra_Grant"
+        },
+        {
+          "type": "other",
+          "url": "http://www.evewood.net/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "TED Talk I’m watching —",
+      "category": "video",
+      "title": "Do we see reality as it is?",
+      "creator": "Donald Hoffman",
+      "note": "([@donalddhoffman](https://twitter.com/donalddhoffman/)), a professor in the Department of Cognitive Sciences at the University of California, Irvine. Description: “Cognitive scientist Donald Hoffman is trying to answer a big question: Do we experience the world as it really is... or as we need it to be? In this ever so slightly mind-blowing talk, he ponders how our minds construct reality for us.” For those who are in a rush, I suggest starting around [10:21 at “In my lab.…”](https://youtu.be/oYp5XuGYqqY?t=621) Also pay close attention to what he’s researching, which is [mentioned around 18:21](https://youtu.be/oYp5XuGYqqY?t=1101).",
+      "original_url": "https://www.youtube.com/watch?v=oYp5XuGYqqY",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=oYp5XuGYqqY"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Donald_D._Hoffman"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/donalddhoffman/"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/oYp5XuGYqqY?t=621"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/oYp5XuGYqqY?t=1101"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Track and album that I’m listening to over and over again —",
+      "category": "music",
+      "title": "Wakobi",
+      "creator": "Kalaban Coura",
+      "note": "([YouTube](https://www.youtube.com/watch?v=U4rcBIKDC_I), [Spotify](https://open.spotify.com/track/5uAQb21DyVhjbKnXVv1fCu)) by Kalaban Coura (feat. [Quentin Dujardin](https://www.quentindujardin.be/pages/english/bio_english.htm)). This is really just an arbitrary sample, and some of you will prefer tracks like [Kalaban Coura](https://www.youtube.com/watch?v=dWlejM532NI&list=OLAK5uy_laKKS6dOGq0OQEUVbRVyuvXLvM6EKaU_s) or [Layla](https://www.youtube.com/watch?v=Pyy4pVuhY34). The truth is that the entire album, [_Aigabani_](https://open.spotify.com/album/375ny9lus0XSsM5C4wDV4z), is outstanding.",
+      "original_url": "https://open.spotify.com/track/5uAQb21DyVhjbKnXVv1fCu",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://open.spotify.com/track/5uAQb21DyVhjbKnXVv1fCu"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=U4rcBIKDC_I"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/5uAQb21DyVhjbKnXVv1fCu"
+        },
+        {
+          "type": "other",
+          "url": "https://www.quentindujardin.be/pages/english/bio_english.htm"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=dWlejM532NI&list=OLAK5uy_laKKS6dOGq0OQEUVbRVyuvXLvM6EKaU_s"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=Pyy4pVuhY34"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/album/375ny9lus0XSsM5C4wDV4z"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Most geniuses—especially those who lead others—prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities.” ― Andy Benoit Source: “THE CASE FOR THE... BRONCOS” And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "especially those who lead others—prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities.” ― Andy Benoit Source: “THE CASE FOR THE... BRONCOS” And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Andy_Benoit",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Andy_Benoit"
+        },
+        {
+          "type": "other",
+          "url": "https://vault.si.com/vault/2014/01/13/the-case-for-the-broncos"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,167 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Worlds of Ursula K. Le Guin",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/Worlds-Ursula-Guin-Arwen-Curry/dp/B08DYCQTPG/), [Apple TV](https://itunes.apple.com/us/movie/worlds-of-ursula-k-le-guin/id1462840703)). Ursula was one of a kind. It’s almost impossible to overstate how far outside of the box she was for her generation. Much of what we take for granted now was simply unheard of when she was crafting worlds. Here is a brief snippet [from Ursula’s Wikipedia page](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin) (bolding and link are mine):  \n​**​  \n​**_Le Guin’s writing was enormously influential in the field of speculative fiction and has been the subject of intense critical attention. She received numerous accolades, including_ _**eight**_ _Hugos,_ _**six**_ _Nebulas, and_ _**twenty-two**_ _Locus Awards. … Le Guin influenced many other authors, including Booker Prize winner Salman Rushdie, David Mitchell,_ [_Neil Gaiman_](https://tim.blog/2019/03/28/neil-gaiman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)_, and Iain Banks. After her death in 2018, critic John Clute wrote that Le Guin had “presided over American science fiction for nearly half a century,” while author Michael Chabon referred to her as the “greatest American writer of her generation.”_",
+      "original_url": "https://www.amazon.com/Worlds-Ursula-Guin-Arwen-Curry/dp/B08DYCQTPG/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Worlds-Ursula-Guin-Arwen-Curry/dp/B08DYCQTPG/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Worlds-Ursula-Guin-Arwen-Curry/dp/B08DYCQTPG/"
+        },
+        {
+          "type": "other",
+          "url": "https://itunes.apple.com/us/movie/worlds-of-ursula-k-le-guin/id1462840703"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Ursula_K._Le_Guin"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/03/28/neil-gaiman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading (five-minute post)",
+      "category": "article",
+      "title": "Lifestyles",
+      "creator": "Morgan Housel",
+      "note": "([@morganhousel](https://twitter.com/morganhousel?lang=en)). Sometimes I just want to burn it all down and disappear. This helped me scratch that itch without any collateral damage.",
+      "original_url": "https://www.collaborativefund.com/blog/lifestyles/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.collaborativefund.com/blog/lifestyles/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/03/01/morgan-housel-the-psychology-of-money/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/morganhousel?lang=en"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Surfing with the Alien",
+      "creator": "Joe Satriani",
+      "note": "([YouTube](https://www.youtube.com/watch?v=d_0khAAItqg), [Spotify](https://open.spotify.com/track/2ekfM9Dcslm7l9Lh7HGT0i?si=1d29c5ccf04d477f)) by [Joe Satriani](http://www.satriani.com/) ([@chickenfootjoe](https://twitter.com/chickenfootjoe)). I’m having so much fun revisiting the greats from Joe Satriani. Perfect Friday writing music. Some song trivia from Wikipedia: “The song refers to the comic book character, [Silver Surfer](https://en.wikipedia.org/wiki/Silver_Surfer). The song was considered the 30th greatest guitar solo ever by readers of [_Guitar World_](https://en.wikipedia.org/wiki/Guitar_World) magazine, and is one of Satriani’s most prominent [shred](https://en.wikipedia.org/wiki/Shred_guitar)\\-style tracks.”",
+      "original_url": "https://www.youtube.com/watch?v=d_0khAAItqg",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=d_0khAAItqg"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=d_0khAAItqg"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/2ekfM9Dcslm7l9Lh7HGT0i?si=1d29c5ccf04d477f"
+        },
+        {
+          "type": "other",
+          "url": "http://www.satriani.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/chickenfootjoe"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Silver_Surfer"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Guitar_World"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Shred_guitar"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m rereading for a trip down memory lane",
+      "category": "article",
+      "title": "The First-Ever Quantified Self Notes (Plus: LSD as Cognitive Enhancer?)",
+      "creator": null,
+      "note": "](https://tim.blog/2013/04/03/the-first-ever-quantified-self-notes-plus-lsd-as-cognitive-enhancer/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)**”** This is a fun slice of history. It combines my notes from the first-ever “[quantified self](https://en.wikipedia.org/wiki/Quantified_self)” meetup at [Kevin Kelly](https://tim.blog/2014/08/29/kevin-kelly/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)’s home in 2008 with a term paper I wrote in 1996… when I was ~19 years old! Despite the hilarious typo in the title (it wasn’t the final draft) and some overreach and correlation/causation mixing, I still maintain there are profound similarities between REM sleep and some psychedelic experiences, and I further believe that the implications for learning have yet to be properly explored.",
+      "original_url": "https://tim.blog/2013/04/03/the-first-ever-quantified-self-notes-plus-lsd-as-cognitive-enhancer/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2013/04/03/the-first-ever-quantified-self-notes-plus-lsd-as-cognitive-enhancer/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Quantified_self"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/08/29/kevin-kelly/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Poem I’m pondering",
+      "category": "other",
+      "title": "Mary Oliver",
+      "creator": null,
+      "note": "(“Messenger,” found in Mary Oliver’s collection [_Thirst_](https://www.amazon.com/Thirst-Poems-Mary-Oliver/dp/0807068977/).)  \n​\n\n​  \nYou can complement this edition of _5-Bullet Friday_ with my longform interviews on [_The Tim Ferriss Show_](http://tim.blog/podcast?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) podcast with authors [Neil Gaiman](https://tim.blog/2019/03/28/neil-gaiman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), [Margaret Atwood](https://tim.blog/2022/02/22/margaret-atwood/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), and [Joyce Carol Oates](https://tim.blog/2021/02/10/joyce-carol-oates/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). I consider all three to be among the world’s greatest fiction writers.  \n​  \nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
+      "original_url": "https://en.wikipedia.org/wiki/Mary_Oliver",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Mary_Oliver"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Thirst-Poems-Mary-Oliver/dp/0807068977/"
+        },
+        {
+          "type": "other",
+          "url": "http://tim.blog/podcast?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/03/28/neil-gaiman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/02/22/margaret-atwood/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/02/10/joyce-carol-oates/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

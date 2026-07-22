@@ -6,7 +6,175 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "The Biggest Little Farm",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/gp/video/detail/The-Biggest-Little-Farm/B07R4CFF3M), [YouTube](https://www.youtube.com/watch?v=fHYWEttABVU)). This film first caught my eye with its [beautiful trailer](https://www.youtube.com/watch?v=UfDTM4JxHl8). It has a 95% audience score [on Rotten Tomatoes](https://www.rottentomatoes.com/m/the_biggest_little_farm), and here’s the shortened description: “_The Biggest Little Farm_ chronicles the eight-year quest of John and Molly Chester as they trade city living for 200 acres of barren farmland and a dream to harvest in harmony with nature. Through dogged perseverance and embracing the opportunity provided by nature’s conflicts, the Chesters unlock and uncover a biodiverse design for living that exists far beyond their farm.” Their story made me reflect on life and “problems” differently.",
+      "original_url": "https://www.amazon.com/gp/video/detail/The-Biggest-Little-Farm/B07R4CFF3M",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/gp/video/detail/The-Biggest-Little-Farm/B07R4CFF3M"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/gp/video/detail/The-Biggest-Little-Farm/B07R4CFF3M"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=fHYWEttABVU"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=UfDTM4JxHl8"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rottentomatoes.com/m/the_biggest_little_farm"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Songs I’m listening to",
+      "category": "music",
+      "title": "Last Chance",
+      "creator": "Thornato",
+      "note": "([YouTube](https://www.youtube.com/watch?v=mM3aRDAe8OQ), [Spotify](https://open.spotify.com/track/57F72SNODqvkm6PAVvoL3B?autoplay=true)) by [Thornato](https://wonderwheelrecordings.com/artist/thornato/) ([@thornatomusic](https://www.facebook.com/thornatomusic/)), featuring [The Spy from Cairo](https://wonderwheelrecordings.com/artist/the-spy-from-cairo/). But lest you think I’m all Burner tunes, new-agey flutes, and dolphin soundscapes, I’m also listening to **“**[**Before I Forget**](https://www.youtube.com/watch?v=mexXOdAF50g)**”** ([YouTube](https://www.youtube.com/watch?v=mexXOdAF50g), [Spotify](https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB?autoplay=true)) by [Slipknot](https://slipknot1.com/) ([@slipknot](https://twitter.com/slipknot)) during workouts.",
+      "original_url": "https://www.youtube.com/watch?v=mM3aRDAe8OQ",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=mM3aRDAe8OQ"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=mM3aRDAe8OQ"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/57F72SNODqvkm6PAVvoL3B?autoplay=true"
+        },
+        {
+          "type": "other",
+          "url": "https://wonderwheelrecordings.com/artist/thornato/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.facebook.com/thornatomusic/"
+        },
+        {
+          "type": "other",
+          "url": "https://wonderwheelrecordings.com/artist/the-spy-from-cairo/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=mexXOdAF50g"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=mexXOdAF50g"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB?autoplay=true"
+        },
+        {
+          "type": "other",
+          "url": "https://slipknot1.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/slipknot"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Audiobook I’m listening to",
+      "category": "audiobook",
+      "title": "Coyote America: A Natural and Supernatural History",
+      "creator": "Dan Flores",
+      "note": ". So far, this is a great, blended story of cross-cultural myth, field biology, and American history. I’ve taken notes on everything from Teddy Roosevelt to incredible animal adaptations. Humans and coyotes bear some striking similarities as species. Here’s part of the official description: “Despite campaigns of annihilation employing poisons, gases, helicopters, and engineered epidemics, coyotes didn’t just survive, they thrived, expanding across the continent from Anchorage, Alaska, to New York’s Central Park. … An illuminating biography of this extraordinary animal, _Coyote America_ isn’t just the story of an animal’s survival; it is one of the great epics of our time.”",
+      "original_url": "https://www.audible.com/pd/Coyote-America-Audiobook/B01M06978P",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.audible.com/pd/Coyote-America-Audiobook/B01M06978P"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Dan_Flores"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "In case you missed it",
+      "category": "other",
+      "title": "COCKPUNCH 3D Character Files",
+      "creator": null,
+      "note": "!** I am excited to make [the 3D files](https://tim.blog/cockpunch-pfp/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) from the project available to you all in Blender format. These are rotatable and 3D printable (with some tweaking), and there is a lot you can do with them. Feel free to create photo shoots, rig them, and otherwise go nuts. I can’t wait to see what you come up with! Tag me at [@tferriss](https://twitter.com/tferriss) or [@cockpunch](http://twitter.com/cockpunch) on Twitter and share your creations and comments. My team will be retweeting some of our favorites.",
+      "original_url": "https://tim.blog/cockpunch-pfp/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/cockpunch-pfp/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/cockpunch-pfp/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "http://twitter.com/cockpunch"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Among those whom I like or admire, I can find no common denominator. But among those whom I love, I can: all of them make me laugh.” — W. H. Auden (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with this blooper reel, my interview with wildlife ecologist Mike Phillips, and this clip of writer Seth Godin sharing his favorite audiobooks. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "W. H. Auden",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/W._H._Auden",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/W._H._Auden"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/s4e72"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=TyLr43rd4Tk"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/08/21/mike-phillips/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/IE04M424WbA?t=4538"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

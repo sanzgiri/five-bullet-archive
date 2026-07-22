@@ -1,13 +1,212 @@
 {
   "schema_version": 1,
   "issue_date": "2020-07-10",
-  "subject": "5-Bullet Friday — July 10, 2020 ",
+  "subject": "5-Bullet Friday — July 10, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to (three minutes) —",
+      "category": "podcast",
+      "title": "The Fragile, Invisible Connections of the Natural World",
+      "creator": null,
+      "note": "Thanks to [Rob Pickering](https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/l2hehmhkxn7lwr/aHR0cHM6Ly90d2l0dGVyLmNvbS9yb2JwaWNrZXJpbmcvc3RhdHVzLzEyNzkxMjU2MzI2NzczMzkxMzY=) for recommending this short clip. It’s a great description of an amazing phenomenon known as “[trophic cascade](https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/m2h7h5hn4qz3ww/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvVHJvcGhpY19jYXNjYWRl).” If you’d like to support wolf reintroduction/conservation—and the only imminent, global option to help restore a major predator on a continental scale—[here is one interesting avenue](https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/dpheh0h7ponerd/aHR0cHM6Ly93d3cud29sZmFjdGlvbmZ1bmQuY29tL2RvbmF0ZQ==).",
+      "original_url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/vqh3hrhkwvro8e/aHR0cHM6Ly93d3cubnByLm9yZy8yMDEzLzA5LzI4LzIyNzExODAwMy90aGUtZnJhZ2lsZS1pbnZpc2libGUtY29ubmVjdGlvbnMtb2YtdGhlLW5hdHVyYWwtd29ybGQ=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/vqh3hrhkwvro8e/aHR0cHM6Ly93d3cubnByLm9yZy8yMDEzLzA5LzI4LzIyNzExODAwMy90aGUtZnJhZ2lsZS1pbnZpc2libGUtY29ubmVjdGlvbnMtb2YtdGhlLW5hdHVyYWwtd29ybGQ="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/l2hehmhkxn7lwr/aHR0cHM6Ly90d2l0dGVyLmNvbS9yb2JwaWNrZXJpbmcvc3RhdHVzLzEyNzkxMjU2MzI2NzczMzkxMzY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/m2h7h5hn4qz3ww/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvVHJvcGhpY19jYXNjYWRl"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/dpheh0h7ponerd/aHR0cHM6Ly93d3cud29sZmFjdGlvbmZ1bmQuY29tL2RvbmF0ZQ=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "The Fountain",
+      "creator": null,
+      "note": "([YouTube](https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/e0hph7hnrlo756/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1TRzVkcEJXWC1nVSZoYXNfdmVyaWZpZWQ9MQ==), [Amazon](https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/owhkhqh8q6dw5d/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Gb3VudGFpbi1IdWdoLUphY2ttYW4vZHAvQjAwMFFUQkRMQQ==), [Google Play](https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/z2hghnhdlkxe0v/aHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb20vc3RvcmUvbW92aWVzL2RldGFpbHM_aWQ9U0c1ZHBCV1gtZ1U=)). Thanks to [Dr. Amitha Kalaichandran](https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/p8heh9h7q2o48w/aHR0cHM6Ly90d2l0dGVyLmNvbS9EckFtaXRoYU1EL3N0YXR1cy8xMjc5MDQ0MDc5MTEyOTA0NzA0) for reminding me to revisit this gem. Here is the description: “Through time and space, one man embarks on a bold 1,000-year odyssey to defeat humankind’s most indomitable foe: Death. [Hugh Jackman](https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/x0hph6h7qp0ex5/aHR0cHM6Ly90aW0uYmxvZy8yMDIwLzA2LzI2L2h1Z2gtamFja21hbi8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm) plays that man, devoted to one woman ([Rachel Weisz](https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/6qheh8h295el09/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUmFjaGVsX1dlaXN6)) and determined to protect her from forces that threaten her existence. His quest leads him to a Tree of Life… and to an adventure into eternity. [Darren Aronofsky](https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/kkhmh6h9x5vn4o/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzA5LzA5L2RhcnJlbi1hcm9ub2Zza3kvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg==) (_Pi_, _Requiem for a Dream_) directs, continuing his string of imaginative, involving filmmaking with a tale alive with ideas and filled with astonishing vistas.” If that scratches an itch, [my interview with Hugh Jackman can be found here](https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/x0hph6h7qp0ex5/aHR0cHM6Ly90aW0uYmxvZy8yMDIwLzA2LzI2L2h1Z2gtamFja21hbi8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm), and [my interview with Darren Aronofsky can be found here](https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/kkhmh6h9x5vn4o/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzA5LzA5L2RhcnJlbi1hcm9ub2Zza3kvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg==).",
+      "original_url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/e0hph7hnrlo756/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1TRzVkcEJXWC1nVSZoYXNfdmVyaWZpZWQ9MQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/e0hph7hnrlo756/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1TRzVkcEJXWC1nVSZoYXNfdmVyaWZpZWQ9MQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/e0hph7hnrlo756/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1TRzVkcEJXWC1nVSZoYXNfdmVyaWZpZWQ9MQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/owhkhqh8q6dw5d/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Gb3VudGFpbi1IdWdoLUphY2ttYW4vZHAvQjAwMFFUQkRMQQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/z2hghnhdlkxe0v/aHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb20vc3RvcmUvbW92aWVzL2RldGFpbHM_aWQ9U0c1ZHBCV1gtZ1U="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/p8heh9h7q2o48w/aHR0cHM6Ly90d2l0dGVyLmNvbS9EckFtaXRoYU1EL3N0YXR1cy8xMjc5MDQ0MDc5MTEyOTA0NzA0"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/x0hph6h7qp0ex5/aHR0cHM6Ly90aW0uYmxvZy8yMDIwLzA2LzI2L2h1Z2gtamFja21hbi8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/6qheh8h295el09/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUmFjaGVsX1dlaXN6"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/kkhmh6h9x5vn4o/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzA5LzA5L2RhcnJlbi1hcm9ub2Zza3kvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/x0hph6h7qp0ex5/aHR0cHM6Ly90aW0uYmxvZy8yMDIwLzA2LzI2L2h1Z2gtamFja21hbi8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/kkhmh6h9x5vn4o/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzA5LzA5L2RhcnJlbi1hcm9ub2Zza3kvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Podcast I’m listening to —",
+      "category": "podcast",
+      "title": "Duolingo’s Luis von Ahn on Masters of Scale with Reid Hoffman",
+      "creator": null,
+      "note": "Every time I hear [Luis](https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/g3hnh5hzqlwmgd/aHR0cHM6Ly90aW0uYmxvZy8yMDE2LzAxLzI2L2x1aXMtdm9uLWFobi1kdW9saW5nby8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm) ([@luisvonahn](https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/9qhzhnh256rd46/aHR0cHM6Ly90d2l0dGVyLmNvbS9sdWlzdm9uYWhu)), I learn something new, and this podcast is no exception. How did the founder of reCAPTCHA go on to co-create the world’s most popular language-learning platform, [Duolingo](https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/3ohphkhdp2g3xr/aHR0cDovL3d3dy5kdW9saW5nby5jb20v)? And how on earth can Duolingo [make more revenue than all other language-learning apps COMBINED](https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/n2hohvho7x0v25/aHR0cHM6Ly90d2l0dGVyLmNvbS9sdWlzdm9uYWhuL3N0YXR1cy8xMTg5MTc2Nzc3OTAzNjExOTA1)… when nearly everyone uses it for free? It’s an amazing story.",
+      "original_url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/qvh8h7h6k4pdeg/aHR0cHM6Ly9tYXN0ZXJzb2ZzY2FsZS5jb20vbHVpcy12b24tYWhuLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/qvh8h7h6k4pdeg/aHR0cHM6Ly9tYXN0ZXJzb2ZzY2FsZS5jb20vbHVpcy12b24tYWhuLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/g3hnh5hzqlwmgd/aHR0cHM6Ly90aW0uYmxvZy8yMDE2LzAxLzI2L2x1aXMtdm9uLWFobi1kdW9saW5nby8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249NWJm"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/9qhzhnh256rd46/aHR0cHM6Ly90d2l0dGVyLmNvbS9sdWlzdm9uYWhu"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/3ohphkhdp2g3xr/aHR0cDovL3d3dy5kdW9saW5nby5jb20v"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/n2hohvho7x0v25/aHR0cHM6Ly90d2l0dGVyLmNvbS9sdWlzdm9uYWhuL3N0YXR1cy8xMTg5MTc2Nzc3OTAzNjExOTA1"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading and paying a lot of attention to —",
+      "category": "article",
+      "title": "A statement signed by 150 people, incl. Bill T. Jones, Wynton Marsalis, Jennifer Finney Boylan, Noam Chomsky, J.K. Rowling, Margaret Atwood, and Salman Rushdie",
+      "creator": null,
+      "note": "….”** I link above to the tweet instead of [the _Harper’s_ letter itself](https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/wnh2hgho0k6qmo/aHR0cHM6Ly9oYXJwZXJzLm9yZy9hLWxldHRlci1vbi1qdXN0aWNlLWFuZC1vcGVuLWRlYmF0ZS8=), as many of the comments should terrify anyone living in the United States. If you think [McCarthyism](https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/reh8hoh563zmkq/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWNDYXJ0aHlpc20=) was bad, just wait until we have dozens of labels that can get someone fired, blacklisted, or worse for attempting to have open discussion. I’ve watched this 5x, 10x, and 20x in volume and intensity since the beginning of COVID. If things don’t course correct, I worry we are headed for something far more dangerous than [_Fahrenheit 451_](https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/08hwh9h7l9r2nd/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRmFocmVuaGVpdF80NTE=). For a cinematic exploration of what this can look like (and has looked like), watch [_The Lives of Others_](https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/8ghqhoh5r2nowo/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1uM19pTE9wNkloTQ==), one of my favorite films.",
+      "original_url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/48hvheh2xp8mwn/aHR0cHM6Ly90d2l0dGVyLmNvbS9IYXJwZXJzL3N0YXR1cy8xMjgwNDk1ODc1MTY1NDI1Njcw",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/48hvheh2xp8mwn/aHR0cHM6Ly90d2l0dGVyLmNvbS9IYXJwZXJzL3N0YXR1cy8xMjgwNDk1ODc1MTY1NDI1Njcw"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/wnh2hgho0k6qmo/aHR0cHM6Ly9oYXJwZXJzLm9yZy9hLWxldHRlci1vbi1qdXN0aWNlLWFuZC1vcGVuLWRlYmF0ZS8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/reh8hoh563zmkq/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWNDYXJ0aHlpc20="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/08hwh9h7l9r2nd/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRmFocmVuaGVpdF80NTE="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/8ghqhoh5r2nowo/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1uM19pTE9wNkloTQ=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Song I’m listening to —",
+      "category": "music",
+      "title": "Sabelo",
+      "creator": "Bajofondo",
+      "note": "([Spotify](https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/l2hehmhkxn7lqr/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3RyYWNrLzFGUHgwelFNbEdSOENiRFpXZkRmQ1E_YXV0b3BsYXk9dHJ1ZQ==), [YouTube](https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/vqh3hrhkwvrome/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1ZQU5IWmZ4RUMtSQ==)) by [Bajofondo](https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/dpheh0h7ponedd/aHR0cHM6Ly90d2l0dGVyLmNvbS9iYWpvZm9uZG8=). This is one of the tracks I’ve listened to on repeat this summer. Another gem from Bajofondo—truly one of the widest-ranging bands on the planet—is [Zitarrosa](https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/e0hph7hnrlo7m6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1zTVlmNlRjdkZ2NA==) ([Spotify](https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/7qh7h8h4n659dl/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3RyYWNrLzFVOE5lMHdzUGlvNVNNRFp2NWJ3Snc=), [YouTube](https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/e0hph7hnrlo7m6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1zTVlmNlRjdkZ2NA==)). Be sure to listen until the guitar sets in (~1:23), and use it to offset the preceding bullet. I went back and forth with which track to feature first.",
+      "original_url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/vqh3hrhkwvrome/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1ZQU5IWmZ4RUMtSQ==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/vqh3hrhkwvrome/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1ZQU5IWmZ4RUMtSQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/l2hehmhkxn7lqr/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3RyYWNrLzFGUHgwelFNbEdSOENiRFpXZkRmQ1E_YXV0b3BsYXk9dHJ1ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/vqh3hrhkwvrome/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1ZQU5IWmZ4RUMtSQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/dpheh0h7ponedd/aHR0cHM6Ly90d2l0dGVyLmNvbS9iYWpvZm9uZG8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/e0hph7hnrlo7m6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1zTVlmNlRjdkZ2NA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/7qh7h8h4n659dl/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3RyYWNrLzFVOE5lMHdzUGlvNVNNRFp2NWJ3Snc="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/e0hph7hnrlo7m6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1zTVlmNlRjdkZ2NA=="
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Above all, do not lose your desire to walk: Every day I walk myself into a state of well-being and walk away from every illness; I have walked myself into my best thoughts, and I know of no thought so burdensome that one cannot walk away from it.” — Søren Kierkegaard And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Want to throw me under the bus? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Søren Kierkegaard And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Want to throw me under the bus? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/z2hghnhdlkxe5v/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUyVDMyVCOHJlbl9LaWVya2VnYWFyZA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/z2hghnhdlkxe5v/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUyVDMyVCOHJlbl9LaWVya2VnYWFyZA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/zlue04m77unh0p9wxuq/p8heh9h7q2o4rw/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    }
+  ]
 }

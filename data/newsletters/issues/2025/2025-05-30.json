@@ -6,7 +6,123 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Annie Dillard on Unselfconsciousness",
+      "creator": "Maria Popova",
+      "note": "([_The Marginalian_](https://www.themarginalian.org/)). This is a beautiful reflection on excerpts from Pulitzer Prize-winning author Annie Dillard’s [_Pilgrim at Tinker Creek_](https://www.amazon.com/Pilgrim-Tinker-Harper-Perennial-Classics/dp/0061233323/), which was recommended to me by Craig Mod. Here’s a taste:  \n​  \n“I have often noticed that even a few minutes of this self-forgetfulness is tremendously invigorating. I wonder if we do not waste most of our energy just by spending every waking minute saying hello to ourselves.”",
+      "original_url": "https://www.themarginalian.org/2025/05/15/annie-dillard-muskrat/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.themarginalian.org/2025/05/15/annie-dillard-muskrat/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/10/21/brain-pickings/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.themarginalian.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Pilgrim-Tinker-Harper-Perennial-Classics/dp/0061233323/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Music track that I’m writing to",
+      "category": "music",
+      "title": "Getula",
+      "creator": "Be Svendsen",
+      "note": "([YouTube](https://www.youtube.com/watch?v=F39XU3WhmE8), [Spotify](https://open.spotify.com/album/5XttR9hovHAbIPg5Su5Nh8?si=TgapOFERQXSQmQ4DnE2u9w)) by [Be Svendsen](https://linktr.ee/besvendsen). This is an unrushed ten minutes of caramel-smooth flow, and you can loop for extended work sessions or reading at a coffee shop. The track takes a good two minutes to get warmed up, so relaaaaax.",
+      "original_url": "https://www.youtube.com/watch?v=F39XU3WhmE8",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=F39XU3WhmE8"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=F39XU3WhmE8"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/album/5XttR9hovHAbIPg5Su5Nh8?si=TgapOFERQXSQmQ4DnE2u9w"
+        },
+        {
+          "type": "other",
+          "url": "https://linktr.ee/besvendsen"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Conan O’Brien Must Go_, S1E4 (Ireland)",
+      "creator": null,
+      "note": "](https://www.amazon.com/gp/video/detail/B0CXRY1G7G/ref=atv_sr_fle_c_sr6eee57_1_1_1?pageTypeId=B0CXS43HWK&pageTypeIdSource=ASIN&qid=1748403215738&sr=1-1)**.** This series was recommended to me by one of my employees, and it’s been a godsend during an unexpectedly stressful week. No matter how preoccupied I’ve been, Conan’s insanity and antics right before bed have been the perfect send-off to sleep. This episode made me laugh so hard that my dog was concerned.",
+      "original_url": "https://www.amazon.com/gp/video/detail/B0CXRY1G7G/ref=atv_sr_fle_c_sr6eee57_1_1_1?pageTypeId=B0CXS43HWK&pageTypeIdSource=ASIN&qid=1748403215738&sr=1-1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/gp/video/detail/B0CXRY1G7G/ref=atv_sr_fle_c_sr6eee57_1_1_1?pageTypeId=B0CXS43HWK&pageTypeIdSource=ASIN&qid=1748403215738&sr=1-1"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "Dick Garwin Fought Nuclear Armageddon. He Hid a 50-Year Secret.",
+      "creator": "William J",
+      "note": "(_The New York Times_). I deeply enjoyed this riveting profile of an incredible man, arguably the most influential scientist you’ve never heard of. From the piece: “Richard Garwin’s role in designing the hydrogen bomb was obscured from the public, even his family, as he advised presidents and devoted his life to undoing the danger he created.” [Click here](https://archive.is/16i0Y) if you have any issues reading through the above link.  \n​  \nHere’s one excerpt that pulled me in: “Dr. Garwin never officially joined any president’s cabinet, as \\[Henry\\] Kissinger had. But in our last interview, the physicist looked over a list of presidents and one by one identified the commanders-in-chief he had counseled. There were 13.”",
+      "original_url": "https://www.nytimes.com/2025/05/19/science/richard-garwin-hydrogen-bomb.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/2025/05/19/science/richard-garwin-hydrogen-bomb.html"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/William_Broad"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.is/16i0Y"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“You’re never so centered on yourself as when you’re depressed. You’re never so ready to forget yourself as when you are happy. Happiness releases you from self. It is suffering and pain and misery and depression that tie you to the self. Look how conscious you are of your tooth when you have a toothache. When you don’t have a toothache, you’re not even aware you have a tooth, or that you have a head, for that matter, when you don’t have a headache.” — Awareness by Anthony De Mello * * * You can complement this edition of 5-Bullet Friday with my most recent podcast episode, a Q&A with yours truly on the 4-Hour Workweek tools I am still using, AI, Stoicism, and much, much more. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Awareness by Anthony De Mello * * * You can complement this edition of 5-Bullet Friday with my most recent podcast episode, a Q&A with yours truly on the 4-Hour Workweek tools I am still using, AI, Stoicism, and much, much more. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://www.amazon.com/Awareness-Opportunities-Reality-Anthony-Mello/dp/0385249373/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Awareness-Opportunities-Reality-Anthony-Mello/dp/0385249373/"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/np1sdEr-Alg?si=R60ZpxxBh-C1tr8R"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

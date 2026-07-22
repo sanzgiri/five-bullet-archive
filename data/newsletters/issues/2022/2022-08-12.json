@@ -6,7 +6,155 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Project I’m admiring",
+      "category": "other",
+      "title": "Vanishing Asia",
+      "creator": "Kevin Kelly",
+      "note": "([@kevin2kelly](https://twitter.com/kevin2kelly/)), arguably [the real-life most interesting man in the world](https://tim.blog/2014/08/29/kevin-kelly/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). Here’s a short summary from Kevin: “I relied on my [1,000 true fans](https://kk.org/thetechnium/1000-true-fans/) to fund a huge, oversized, 1,000-page celebration of old Asia. This 3-volume book set is titled [_Vanishing Asia_](https://kk.org/books/vanishing-asia), and it records 9,000 photographs of the festivals, costumes, architecture, and rituals that are disappearing in Asia.” This has been his passion project for _40 years_. Kevin did _all_ of the following: (a) took all the photos, (b) designed every page, (c) wrote a caption for each of the 9,000 photos, and (d) designed the covers and packaging. Watch [this visual feast of a video](https://www.youtube.com/watch?v=WeeCTjka_BE) to learn more about the project.",
+      "original_url": "https://www.amazon.com/Vanishing-Asia-Three-West-Central/dp/1940689066",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Vanishing-Asia-Three-West-Central/dp/1940689066"
+        },
+        {
+          "type": "other",
+          "url": "https://kk.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/kevin2kelly/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/08/29/kevin-kelly/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://kk.org/thetechnium/1000-true-fans/"
+        },
+        {
+          "type": "other",
+          "url": "https://kk.org/books/vanishing-asia"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=WeeCTjka_BE"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Arcane: Bridging the Rift",
+      "creator": null,
+      "note": "This is the behind-the-scenes story of the making of [_Arcane_](https://www.netflix.com/title/81435684), my favorite animated (does that term even do it justice?) series in many years. It includes the mania, mess, and marvel of trying to do something nearly impossible. Here are Parts 1 (“[Only Dream in Risky](https://www.youtube.com/watch?v=Mz4-38d3-AE)”) and 2 (“[Persistence (Or When Your Best Still Sucks)](https://www.youtube.com/watch?v=xpPyPguzafU)”), with more to come.",
+      "original_url": "https://www.youtube.com/watch?v=Mz4-38d3-AE",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=Mz4-38d3-AE"
+        },
+        {
+          "type": "other",
+          "url": "https://www.netflix.com/title/81435684"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=Mz4-38d3-AE"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=xpPyPguzafU"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I just published and am excited to share with the world",
+      "category": "other",
+      "title": "Why I’m Open-Sourcing an NFT Insider Trading Policy for the Web3 Community",
+      "creator": null,
+      "note": null,
+      "original_url": "https://tim.blog/2022/08/09/nft-insider-trading-policy/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2022/08/09/nft-insider-trading-policy/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to while working out",
+      "category": "podcast",
+      "title": "Zero",
+      "creator": "The Smashing Pumpkins",
+      "note": "([YouTube](https://www.youtube.com/watch?v=3wk7C64kaP4), [Spotify](https://open.spotify.com/track/4YFcGTdgmEuw8xTO4XrxbB?si=6a_VrcrTRkO6Z6B2W-IGrA&context=spotify%3Aplaylist%3A37i9dQZF1E3ajGK3MlUFzY)) by [The Smashing Pumpkins](https://smashingpumpkins.com/) ([@smashingpumpkins](https://www.instagram.com/smashingpumpkins/)). Pair it with “[Bullet with Butterfly Wings](https://www.youtube.com/watch?v=8-r-V0uK4u0).”",
+      "original_url": "https://www.youtube.com/watch?v=3wk7C64kaP4",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=3wk7C64kaP4"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=3wk7C64kaP4"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/4YFcGTdgmEuw8xTO4XrxbB?si=6a_VrcrTRkO6Z6B2W-IGrA&context=spotify%3Aplaylist%3A37i9dQZF1E3ajGK3MlUFzY"
+        },
+        {
+          "type": "other",
+          "url": "https://smashingpumpkins.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/smashingpumpkins/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=8-r-V0uK4u0"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, ‘I have lived through this horror. I can take the next thing that comes along.’ … You must do the thing you think you cannot do.” — Eleanor Roosevelt You can complement this edition of 5-Bullet Friday with “Interview of Kevin Kelly, Co-Founder of WIRED_, Polymath, Most Interesting Man In The World?,” my interview with the incredible Katie Haun on the magic of “nifties” (NFTs), and my recent podcast episode with Balaji S. Srinivasan on the network state and how to start a new country. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Eleanor Roosevelt You can complement this edition of 5-Bullet Friday with “Interview of Kevin Kelly, Co-Founder of WIRED_, Polymath, Most Interesting Man In The World?,” my interview with the incredible Katie Haun on the magic of “nifties”",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Eleanor_Roosevelt",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Eleanor_Roosevelt"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/08/29/kevin-kelly/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/02/18/katie-haun/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/07/04/balaji-srinivasan-network-state/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

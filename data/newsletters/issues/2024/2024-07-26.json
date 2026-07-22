@@ -6,7 +6,122 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Music I’m listening to",
+      "category": "music",
+      "title": "Tres Deseos - Sesiones de Estudio (En Vivo)",
+      "creator": null,
+      "note": "](https://www.youtube.com/watch?v=Atylb_YcJ0g)**”** by [Churupaca](https://www.instagram.com/churupacaoficial/?hl=en). If you listen to this a few times, it will get stuck in your head, and that’s a good thing. Find the lyrics in the video description.",
+      "original_url": "https://www.youtube.com/watch?v=Atylb_YcJ0g",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=Atylb_YcJ0g"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/churupacaoficial/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Podcast episode I’m studying related to cognitive enhancement and Alzheimer’s disease",
+      "category": "podcast",
+      "title": "A breakthrough in Alzheimer’s disease: the promising potential of klotho for brain health, cognitive decline, and as a therapeutic tool for Alzheimer’s disease",
+      "creator": null,
+      "note": "From the description: “Dena Dubal is a physician-scientist and professor of neurology at UCSF whose work focuses on mechanisms of longevity and brain resilience. In this episode, Dena delves into the intricacies of the longevity factor klotho: its formation and distribution in the body, the factors such as stress and exercise that impact its levels, and its profound impact on cognitive function and overall brain health.”",
+      "original_url": "https://peterattiamd.com/denadubal/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://peterattiamd.com/denadubal/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Short clip I’m watching as a reminder that creation > criticism",
+      "category": "video",
+      "title": "Anton Ego finale from Ratatouille",
+      "creator": null,
+      "note": null,
+      "original_url": "https://youtu.be/-JPOoFkrh94?si=hdmuUpMBiZ1aQU8D",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/-JPOoFkrh94?si=hdmuUpMBiZ1aQU8D"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "New research reveals that apes have surprisingly long memories",
+      "creator": "Adam Hadhazy for Johns Hopkins Magazine",
+      "note": "_",
+      "original_url": "https://hub.jhu.edu/magazine/2024/spring/apes-bonobos-long-memory/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://hub.jhu.edu/magazine/2024/spring/apes-bonobos-long-memory/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Anniversary that’s making me smile",
+      "category": "other",
+      "title": "my first ride with my best friend, Molly",
+      "creator": null,
+      "note": null,
+      "original_url": "https://www.instagram.com/p/5xM_51n8UD/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/p/5xM_51n8UD/"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Heresies are experiments in man’s unsatisfied search for truth.” — H.G. Wells (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my interview with longevity expert Dr. Peter Attia, my conversation with renowned primatologist Dr. Jane Goodall, and the latest supercombo podcast episode, featuring Academy Award-winning actor Jamie Foxx and social entrepreneur Jacqueline Novogratz. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "H.G. Wells",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/H._G._Wells",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/H._G._Wells"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/bFI9K"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/03/14/peter-attia-outlive/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/04/16/jane-goodall/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/07/26/jamie-foxx-and-jacqueline-novogratz/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

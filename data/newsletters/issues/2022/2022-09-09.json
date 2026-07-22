@@ -6,7 +6,191 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "Is the Psychedelic Therapy Bubble About to Burst?",
+      "creator": "Grace Browne for WIRED_",
+      "note": "for _WIRED_. This coverage expands upon a recent paper that’s received some attention: “[Preparing for the Bursting of the Psychedelic Hype Bubble](https://www.researchgate.net/publication/363164546_Preparing_for_the_Bursting_of_the_Psychedelic_Hype_Bubble)” by [David Yaden, PhD](https://hopkinspsychedelic.org/yaden), [James B. Potash, MD](https://www.hopkinsmedicine.org/profiles/details/james-potash), and [Roland R. Griffiths, PhD](https://hopkinspsychedelic.org/griffiths), in [_JAMA Psychiatry_](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2795948).",
+      "original_url": "https://www.wired.com/story/psychedelic-hype-bubble/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.wired.com/story/psychedelic-hype-bubble/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/gracefbrowne"
+        },
+        {
+          "type": "other",
+          "url": "https://www.researchgate.net/publication/363164546_Preparing_for_the_Bursting_of_the_Psychedelic_Hype_Bubble"
+        },
+        {
+          "type": "other",
+          "url": "https://hopkinspsychedelic.org/yaden"
+        },
+        {
+          "type": "other",
+          "url": "https://www.hopkinsmedicine.org/profiles/details/james-potash"
+        },
+        {
+          "type": "other",
+          "url": "https://hopkinspsychedelic.org/griffiths"
+        },
+        {
+          "type": "other",
+          "url": "https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2795948"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m using for sleep",
+      "category": "other",
+      "title": "Protekt REST",
+      "creator": null,
+      "note": "([Protekt](https://protekt.com/products/rest-grape-natural-liquid-supplement-beverage-enhancer?variant=40970641965206), [Amazon](https://www.amazon.com/Rest-Liquid-Pack-Grape-10/dp/B08YNM17FV?ref_=ast_sto_dp&th=1)). This was given to me by a friend after I mentioned I was avoiding melatonin due to [its effects on gonadal function](https://pubmed.ncbi.nlm.nih.gov/18044344/#:~:text=Melatonin%20can%2C%20therefore%2C%20influence%20the,can%20be%20synthesized%20in%20gonads.) and next-day sluggishness. From the description: “While other sleep aids leave you groggy in the morning, we’ve chosen valerian root, theanine, and gamma-aminobutyric acid, or GABA.” Pro tip #1: If you have trouble opening the packets, just use scissors. Pro tip #2: Mix the packets with water. Do \\*not\\* skip that step and chug it alone. This REST cocktail has worked well for me over the last few weeks, so I plan to continue using it as part of my sleep toolkit. As with any supplement, I tend to cycle off at least 1–2 days a week.",
+      "original_url": "https://protekt.com/products/rest-grape-natural-liquid-supplement-beverage-enhancer?variant=40970641965206",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://protekt.com/products/rest-grape-natural-liquid-supplement-beverage-enhancer?variant=40970641965206"
+        },
+        {
+          "type": "other",
+          "url": "https://protekt.com/products/rest-grape-natural-liquid-supplement-beverage-enhancer?variant=40970641965206"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Rest-Liquid-Pack-Grape-10/dp/B08YNM17FV?ref_=ast_sto_dp&th=1"
+        },
+        {
+          "type": "other",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/18044344/#:~:text=Melatonin%20can%2C%20therefore%2C%20influence%20the,can%20be%20synthesized%20in%20gonads."
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Audiobook I’m recommending",
+      "category": "audiobook",
+      "title": "A Wizard of Earthsea",
+      "creator": "Ursula K",
+      "note": ". First and foremost, huge thanks to everyone who [recommended their favorite novels from Ursula](https://twitter.com/tferriss/status/1558164883274960907) on Twitter. I’m now three deep, but this was my first, and it is still absolutely my favorite. This is also a favorite of [Neil Gaiman](https://tim.blog/2019/03/28/neil-gaiman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) and countless other writers who were deeply influenced by Ursula. One could argue that without _A Wizard of Earthsea_, there is no Harry Potter or Hogwarts. Last but not least, [Rob Inglis](https://en.wikipedia.org/wiki/Rob_Inglis) is the perfect narrator for this book. To listen at faster than 1x speed would be sacrilege! Savor instead of optimizing. He also narrated the unabridged [_The_ _Lord of the Rings_](https://www.amazon.com/The-Fellowship-of-Ring-audiobook/dp/B0099SNQYG/) trilogy by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien).",
+      "original_url": "https://www.amazon.com/A-Wizard-of-Earthsea-audiobook/dp/B002H05F9C/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/A-Wizard-of-Earthsea-audiobook/dp/B002H05F9C/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Ursula_K._Le_Guin"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss/status/1558164883274960907"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/03/28/neil-gaiman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Rob_Inglis"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/The-Fellowship-of-Ring-audiobook/dp/B0099SNQYG/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/J._R._R._Tolkien"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Bad Horsie",
+      "creator": "Steve Vai",
+      "note": "([YouTube](https://www.youtube.com/watch?v=jHubmkOe-MQ), [Spotify](https://open.spotify.com/track/2W5EvgsEBmBWqZz4GumrXA?si=2304d125703a4883)) by [Steve Vai](https://www.vai.com/) ([@stevevai](https://twitter.com/stevevai)). Pair it with “[Steve Vai - Vinnie Colaiuta’s Sight Reading](https://www.youtube.com/watch?v=u-3vfVmy6FI),” which is hilarious. Before you watch the sight-reading video, read the following sight-reading definition [from Wikipedia](https://en.wikipedia.org/wiki/Sight-reading): “In music, sight-reading, also called _a prima vista_ (Italian meaning ‘at first sight’), is the practice of reading and performing a piece in a music notation that the performer has not seen or learned before. Sight-singing is used to describe a singer who is sight-reading. Both activities require the musician to play or sing the notated rhythms and pitches.” Thanks to [Dave Elitch](https://tim.blog/2018/11/26/dave-elitch/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@daveelitch](https://www.instagram.com/daveelitch/?hl=en)) for the video recommendation.",
+      "original_url": "https://www.youtube.com/watch?v=jHubmkOe-MQ",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=jHubmkOe-MQ"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=jHubmkOe-MQ"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/2W5EvgsEBmBWqZz4GumrXA?si=2304d125703a4883"
+        },
+        {
+          "type": "other",
+          "url": "https://www.vai.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/stevevai"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=u-3vfVmy6FI"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Sight-reading"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/11/26/dave-elitch/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/daveelitch/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“There will come a time when you believe everything is finished. That will be the beginning.” — Louis L'Amour You can complement this edition of 5-Bullet Friday with this video on my evening routine, my interview with neurobiologist Dr. Andrew Huberman on improving sleep (among other things), and my conversation with physicist Safi Bahcall, which touched on Safi’s self-hypnosis techniques for relaxing and falling asleep. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Louis L'Amour You can complement this edition of 5-Bullet Friday with this video on my evening routine, my interview with neurobiologist Dr. Andrew Huberman on improving sleep",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Louis_L'Amour",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Louis_L'Amour"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=eLYqhezACpc"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/07/06/andrew-huberman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/08/16/safi-bahcall/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

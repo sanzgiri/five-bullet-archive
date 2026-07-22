@@ -6,7 +6,364 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Headlamp that won’t quit",
+      "category": "other",
+      "title": "PEAX Backcountry Duo",
+      "creator": null,
+      "note": "My weaker headlamp wasn’t doing the job on tricky terrain or during cooking prep, so Mark was kind enough to loan me his backup PEAX. I’ve since ordered my own, and this will be essential packing in the future.  \n​  \nWeighing in at just 4.8 ounces with battery and described by one customer as “hands down the best on the market,” PEAX touts this as “the brightest, most durable … headlamp ever designed.” Breakthrough lumen output armored in a machined aluminum housing; 3600 mAh rechargeable battery with run times up to 69 hrs; and 180-degree adjustability so you never have to worry about putting your headlamp on upside down. It also comes with a red-light mode.",
+      "original_url": "https://shop.gohunt.com/products/peax-equipment-backcountry-duo-headlamp",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://shop.gohunt.com/products/peax-equipment-backcountry-duo-headlamp"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Sticks for saving your knees",
+      "category": "other",
+      "title": "Leki Khumbu Lite telescoping trekking poles",
+      "creator": null,
+      "note": "daily. Nearly everyone in our six-person group, including the pros, used trekking poles, which help you climb and also save your knees on the descent.  \n​  \nYou might also consider the ultra-light [**Cross Trail 3 Carbon trekking poles**](https://www.rei.com/product/244532/leki-cross-trail-3-carbon-trekking-poles-pair) for improved stability and endurance. They’ve been discontinued, but there might be a few left in stock.",
+      "original_url": "https://www.stoneglacier.com/products/leki-khumbu-lite?_pos=1&_sid=1a8c50920&_ss=r",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.stoneglacier.com/products/leki-khumbu-lite?_pos=1&_sid=1a8c50920&_ss=r"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rei.com/product/244532/leki-cross-trail-3-carbon-trekking-poles-pair"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Tent to keep you warm and dry",
+      "category": "other",
+      "title": "The Allak from Hilleberg",
+      "creator": null,
+      "note": "This one is from Mark. I slept under multiple tarps held up by trekking poles on my last trip, which was a fun creative exercise but a little breezy for 12,000 feet. From the description of the Allak: “Remarkably light yet impressively strong, Allak models are well-suited for anything from summer paddling to winter ski mountaineering and from year-round backpacking to all-season peak bagging. They are easily light enough for mobile journeys, when you move your camp every day, and their two-entrance construction allows for superb ventilation options in warm weather.”",
+      "original_url": "https://hilleberg.com/eng/products/tent/Allak",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://hilleberg.com/eng/products/tent/Allak"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Footwear that saved my ass",
+      "category": "other",
+      "title": "Crispi Briksdal MTN",
+      "creator": null,
+      "note": "has been helping me weather long days of carrying heavy loads on questionable footing. Below are other strong recommendations from Mark, all from La Sportiva:  \n​  \nThe [**Boulder X**](https://www.lasportivausa.com/boulder-x.html) is an approach shoe (a hybrid between a hiking boot and a climbing shoe) combining excellent protection and solid performance for the early season (i.e., no snow). For tackling snow but not staying overnight, check out [**Trango Tech GTX**](https://www.lasportivausa.com/trango-tech-gtx.html). If you are encountering snow and staying overnight, consider the [Spantik](https://www.outdoorgearlab.com/reviews/climbing/mountaineering-boot-womens/la-sportiva-spantik), which might be available but has been discontinued. The [**G-Summit**](https://www.lasportivausa.com/g-summit.html) is a great alternative, designed to be both lightweight and extremely warm at high altitudes.",
+      "original_url": "https://www.crispius.com/briksdal-mtn",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.crispius.com/briksdal-mtn"
+        },
+        {
+          "type": "other",
+          "url": "https://www.lasportivausa.com/boulder-x.html"
+        },
+        {
+          "type": "other",
+          "url": "https://www.lasportivausa.com/trango-tech-gtx.html"
+        },
+        {
+          "type": "other",
+          "url": "https://www.outdoorgearlab.com/reviews/climbing/mountaineering-boot-womens/la-sportiva-spantik"
+        },
+        {
+          "type": "other",
+          "url": "https://www.lasportivausa.com/g-summit.html"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Socks that keep your feet intact",
+      "category": "other",
+      "title": "Range Light Cushion Crew Hike Sock",
+      "creator": null,
+      "note": ", and you’re ready for any duration, conditions, or terrain. They dry quickly if wet, and I didn’t experience any chafing whatsoever on my trip",
+      "original_url": "https://lebent.com/products/the-range-light-cushion-crew-hike-sock?variant=43650876539051",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://lebent.com/products/the-range-light-cushion-crew-hike-sock?variant=43650876539051"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Gloves for early and late season",
+      "category": "other",
+      "title": "Sitka’s Ascent Glove",
+      "creator": null,
+      "note": "on warmer days. From the description: “Lightweight and breathable, this glove delivers. … It features conductive technology in the index finger and thumb for one-handed operation of your GPS or phone and a Cordura and nylon back for durability.” For extra warmth on colder days, I used the [**Merino 330 Glove**](https://www.sitkagear.com/products/merino-330-glove/optifade-elevated-ii?q=merino%20330), also from Sitka. From the description: “Merino wool offers a high warmth-to-weight ratio to reduce bulk without sacrificing warmth, and the recycled synthetic lining wicks sweat fast to prevent your hands from getting cold and clammy.”",
+      "original_url": "https://www.sitkagear.com/products/ascent-glove/optifade-open-country?q=ascent%20glove",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.sitkagear.com/products/ascent-glove/optifade-open-country?q=ascent%20glove"
+        },
+        {
+          "type": "other",
+          "url": "https://www.sitkagear.com/products/merino-330-glove/optifade-elevated-ii?q=merino%20330"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "section": "Compact, powerful air pump for fast inflating",
+      "category": "other",
+      "title": "Flextail’s Max Pump High Speed 2-in-1 Rechargeable Air Pump",
+      "creator": null,
+      "note": "Mark yawned and used this while I strained my lungs and cheeks to inflate my sleeping pad. From the description: “Max Pump 3 combines powerful performance with lightweight portability, weighing just 122 g (4.3 oz., or roughly the weight of a bar of soap). With an integrated, powerful LED light, Max Pump 3 serves as both a pump and a light source, perfect for easy carrying during outdoor activities and travel, ideal for camping, hiking, fishing, and more. It delivers a powerful 5 kPa pressure (.725 psi) and a high airflow rate of 500 L/min (132 gpm).”",
+      "original_url": "https://www.flextail.com/products/max-pump-3",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.flextail.com/products/max-pump-3"
+        }
+      ]
+    },
+    {
+      "position": 8,
+      "section": "What I’m cooking with in the wild",
+      "category": "other",
+      "title": "MSR’s Reactor 2.5 L Stove System",
+      "creator": null,
+      "note": "We used this for the majority of our meals, aside from the fish we caught, for which we used good old-fashioned fire. From the description: “Not only is the Reactor Stove System the fastest and most fuel-efficient stove ever made, it’s the only one that delivers that level of performance in the cold and wind of the real world.” It’s similar to the [JetBoil](https://jetboil.johnsonoutdoors.com/us/shop/stoves-systems) cooking system, which I’ve used on previous trips. If the Reactor is out of stock, you can be notified of future availability [here](https://www.msrgear.com/stoves/stove-systems/reactor-stove-systems/reactor-stove-systems.html) or try [other locations](https://www.dickssportinggoods.com/p/msr-reactor-2-5l-stove-system-23msrurctrstvsystcaca/23msrurctrstvsystcaca).",
+      "original_url": "https://www.msrgear.com/stoves/stove-systems/reactor-stove-systems/reactor-stove-systems.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.msrgear.com/stoves/stove-systems/reactor-stove-systems/reactor-stove-systems.html"
+        },
+        {
+          "type": "other",
+          "url": "https://jetboil.johnsonoutdoors.com/us/shop/stoves-systems"
+        },
+        {
+          "type": "other",
+          "url": "https://www.msrgear.com/stoves/stove-systems/reactor-stove-systems/reactor-stove-systems.html"
+        },
+        {
+          "type": "other",
+          "url": "https://www.dickssportinggoods.com/p/msr-reactor-2-5l-stove-system-23msrurctrstvsystcaca/23msrurctrstvsystcaca"
+        }
+      ]
+    },
+    {
+      "position": 9,
+      "section": "New favorite backpack",
+      "category": "other",
+      "title": "Stone Glacier’s Sky 5900",
+      "creator": null,
+      "note": "This pack was recommended to me by Maui Nui Venison founder [Jake Muise](https://tim.blog/2023/06/21/jake-muise/%20?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content). Able to go from a bivy mode of 4,300 cubic inches to a max volume of 8,000 cubic inches, it’s the most versatile pack I own. Add the 2-oz. [**Hydro Holster**](https://www.stoneglacier.com/collections/accessories/products/2022-hydro-holster) for convenient hydration at the hip. I personally used a Camelbak 3L bladder inside the pack for plain water (don’t forget the [Hydro Sleeve](https://www.stoneglacier.com/products/hydro-sleeve) accessory to secure it), and I then used the Nalgene held in the Hydro Holster for water mixed with electrolytes or [**Recovery**](https://www.livemomentous.com/discount/tim?redirect=%2Fproducts%2Frecovery-grass-fed-whey-isolate&utm_campaign=Tim%20Ferriss&utm_medium=partnerships&utm_source=sponcon) from Momentous, which I consumed at least once daily for… well, better recovery. The [Recovery](https://www.livemomentous.com/discount/tim?redirect=%2Fproducts%2Frecovery-grass-fed-whey-isolate&utm_campaign=Tim%20Ferriss&utm_medium=partnerships&utm_source=sponcon) formula is built on a 2:1 protein-to-carb ratio and includes essential amino acids, magnesium, and an enzyme blend to aid protein absorption. (Disclosure: Momentous is a podcast sponsor, but this is not paid placement.)",
+      "original_url": "https://www.stoneglacier.com/products/sky-5900-xcurve-krux?_pos=1&_sid=03467d4c4&_ss=r",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.stoneglacier.com/products/sky-5900-xcurve-krux?_pos=1&_sid=03467d4c4&_ss=r"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/06/21/jake-muise/%20?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.stoneglacier.com/collections/accessories/products/2022-hydro-holster"
+        },
+        {
+          "type": "other",
+          "url": "https://www.stoneglacier.com/products/hydro-sleeve"
+        },
+        {
+          "type": "other",
+          "url": "https://www.livemomentous.com/discount/tim?redirect=%2Fproducts%2Frecovery-grass-fed-whey-isolate&utm_campaign=Tim%20Ferriss&utm_medium=partnerships&utm_source=sponcon"
+        },
+        {
+          "type": "other",
+          "url": "https://www.livemomentous.com/discount/tim?redirect=%2Fproducts%2Frecovery-grass-fed-whey-isolate&utm_campaign=Tim%20Ferriss&utm_medium=partnerships&utm_source=sponcon"
+        }
+      ]
+    },
+    {
+      "position": 10,
+      "section": "Seriously upgraded binoculars",
+      "category": "other",
+      "title": "Swarovski SLC 15x56",
+      "creator": null,
+      "note": ", paired with [this tripod adapter](https://www.swarovskioptik.com/us/en/hunting/products/accessories/binocular-accessories-all/binocular-accessories/tripod-adapter-slc), and then mounted on top of this [tripod](https://reallyrightstuff.com/tfc/)/[head](https://reallyrightstuff.com/bh-25-ball-head/) setup. These are simply incredible. Sure, I’ve owned binoculars, but the clarity from these puppies takes it to a whole different level. Mark, our resident optics nerd, was the envy of the gang with the Swarovski glass. As he put it to me: “Tripod mounted 15’s are an absolute essential piece of glassing kit for me. If I don’t have them, I feel completely naked and unprepared on the mountain.” And if you want to go full Seacat, you might consider a spotting scope like the [Swarovski ATX](https://www.swarovskioptik.com/us/en/hunting/products/spotting-scopes/atx-stx-btx/atx-stx-btx-set/atx-spotting-scope-system/5006351-B2), also mounted on the tripod/head setup discussed above. His reasoning: “Spotting scopes save a ton of miles! It’s critical to know what you’re looking at before cutting the distance for a closer look.”",
+      "original_url": "https://www.swarovskioptik.com/us/en/hunting/products/binoculars/slc/slc-56/slc-15x56?gad_source=1&gclid=Cj0KCQjw3vO3BhCqARIsAEWblcDgW7NJYd8wPP_HKAnUYU7g8YusVfFxr9hWQ6PfO64S_W8COC_nMnoaAmVSEALw_wcB",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.swarovskioptik.com/us/en/hunting/products/binoculars/slc/slc-56/slc-15x56?gad_source=1&gclid=Cj0KCQjw3vO3BhCqARIsAEWblcDgW7NJYd8wPP_HKAnUYU7g8YusVfFxr9hWQ6PfO64S_W8COC_nMnoaAmVSEALw_wcB"
+        },
+        {
+          "type": "other",
+          "url": "https://www.swarovskioptik.com/us/en/hunting/products/accessories/binocular-accessories-all/binocular-accessories/tripod-adapter-slc"
+        },
+        {
+          "type": "other",
+          "url": "https://reallyrightstuff.com/tfc/"
+        },
+        {
+          "type": "other",
+          "url": "https://reallyrightstuff.com/bh-25-ball-head/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.swarovskioptik.com/us/en/hunting/products/spotting-scopes/atx-stx-btx/atx-stx-btx-set/atx-spotting-scope-system/5006351-B2"
+        }
+      ]
+    },
+    {
+      "position": 11,
+      "section": "Sleeping bag keeping me snug all night long",
+      "category": "other",
+      "title": "Sitka’s Kelvin Aerolite 30",
+      "creator": null,
+      "note": "From the description: “Named on _Outside Magazine_’s list of the Best Hunting Gear of 2022, the Kelvin Aerolite 30 Sleeping Bag is a multifunctional layer for active time in camp, cold glassing sessions, or dreaded midnight nature calls.” Mark Seacat’s recommendation: the [**Valandré Mirage**](https://www.valandre.com/sleeping-bags/8-10-mirage-3-4.html#/1-size-s/5-zip-left) sleeping bag at a similar price point.",
+      "original_url": "https://www.sitkagear.com/products/kelvin-aerolite-30-sleeping-bag/optifade-subalpine",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.sitkagear.com/products/kelvin-aerolite-30-sleeping-bag/optifade-subalpine"
+        },
+        {
+          "type": "other",
+          "url": "https://www.valandre.com/sleeping-bags/8-10-mirage-3-4.html#/1-size-s/5-zip-left"
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "section": "Sleeping pads for added comfort on cold, hard ground",
+      "category": "other",
+      "title": "Big Agnes’s Rapide SL Insulated",
+      "creator": null,
+      "note": "I absolutely love Big Agnes’s Q-Core SLX model, which was discontinued and replaced by the above linked Rapide SL. I’ve owned my Big Agnes for years. From the description: “Built with offset I-Beam construction, this proprietary design reduces weight while providing multi-directional support for consistent stability and comfort. This superlight air chamber pad sleeps warmer using two layers of heat reflective film, and is third-party rated with an R-Value of 4.8 for use through three seasons. The Rapide SL Insulated is lighter, tougher, more packable, easy to inflate/deflate, and provides superior performance and packability for any adventure.” Mark recommends the [**Exped Ultra 5R**](https://www.exped.com/en/products/sleeping-mats/ultra-5r?sku=7640445454551) for super-compact, ultralight packing at a slightly higher R-Value.\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with my [first](https://tim.blog/2020/10/06/steven-rinella-meateater/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) and [second](https://tim.blog/2020/11/24/steven-rinella-wilderness-skills-and-survival/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) conversations with expert hunter and host of Netflix’s _MeatEater_ series Steven Rinella, as well as [my brand-new short episode on productivity strategies](https://tim.blog/2024/10/04/productivity-tactics/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content).\n\nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​\n\n### Forwarded this message? [Sign up here](https://go.tim.blog/5-bullet-friday-1/).\n\nJoin millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff.\n\n[Sign Up](https://go.tim.blog/5-bullet-friday-1/)\n\n![Tim Ferriss](https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png) \n\n### Listen to _The Tim Ferriss Show_ Podcast\n\n_The Tim Ferriss Show_ is one of the most popular podcasts in the world with more than one billion downloads. It has been selected for \"Best of Apple Podcasts\" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts   \non many occasions.\n\n  [![Apple Podcast](https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png)  Podcasts](https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2) \n\n  [![Apple Podcast](https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png)  Apple Podcasts](https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2) \n\n  [![Overcast](https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png)  Overcast](https://overcast.fm/itunes863897795/the-tim-ferriss-show)    [![Spotify](https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png)  Spotify](https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM)    [![Tim's Blog](https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png)  Tim's Blog](https://tim.blog/podcast?utm_campaign=design-test&utm_medium=convertit&utm_source=convertkit)\n\n### Read Tim's Books\n\n[![Read Tim's Books](https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png)](https://tim.blog/tim-ferriss-books/?utm_campaign=design-test&utm_medium=convertit&utm_source=convertkit)\n\n  [![Amazon](https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png)  Amazon](https://www.amazon.com/Timothy-Ferriss/e/B001ILKBW2%3Fref=dbs_a_mng_rwt_scns_share)    [![Audible](https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png)  Audible](https://www.audible.com/ep/TimsBooks)   [![B & N](https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png) B & N](https://www.barnesandnoble.com/s/%22Timothy%20Ferriss%22?Ntk=P_key_Contributor_List)    [![Tim's Blog](https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png)  Tim's Blog](https://tim.blog/tim-ferriss-books/?utm_campaign=design-test&utm_medium=convertit&utm_source=convertkit)\n\nFollow Tim:\n\n[![TW](https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png)](https://twitter.com/tferriss)\n\n[![IG](https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png)](https://www.instagram.com/timferriss/)\n\n[![YT](https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png)](https://www.youtube.com/channel/UCznv7Vf9nBdJYvBagFdAHWw)\n\n[![FB](https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png)](https://www.facebook.com/TimFerriss)\n\n[![IN](https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png)](https://www.linkedin.com/in/timferriss/)\n\n**DO NOT REPLY HERE**: Due to volume, please do not reply to this email. Sadly we are unable to read 1000+ email replies daily. To reply to Tim, please do so in the blog comments [here](https://tim.blog/?utm_campaign=design-test&utm_medium=convertit&utm_source=convertkit).\n\nNo longer want these emails?  [Unsubscribe](https://unsubscribe.fourhourmail.com/38uml98xxakhokk2rvfos4n98pnns7)\n\n3​11​2 Win​dso​r R​d., Box #UNS, Austin TX 78703, United States\n\n![](https://open.fourhourmail.com/38uml98xxakhokk2rvfos4n98pnns7)",
+      "original_url": "https://www.bigagnes.com/collections/sleeping-pads/products/rapide-sl-insulated?variant=44119833542905",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.bigagnes.com/collections/sleeping-pads/products/rapide-sl-insulated?variant=44119833542905"
+        },
+        {
+          "type": "other",
+          "url": "https://www.exped.com/en/products/sleeping-mats/ultra-5r?sku=7640445454551"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/10/06/steven-rinella-meateater/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/11/24/steven-rinella-wilderness-skills-and-survival/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/10/04/productivity-tactics/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_campaign=design-test&utm_medium=convertit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/38uml98xxakhokk2rvfos4n98pnns7"
+        }
+      ]
+    }
+  ]
 }

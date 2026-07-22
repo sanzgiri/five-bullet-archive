@@ -6,7 +6,143 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Science fiction short story I’m reading",
+      "category": "article",
+      "title": "The Last Question",
+      "creator": "Isaac Asimov",
+      "note": ". This 10–15-minute read is really spectacular. DO NOT read anything about this story before digging in, as even a small spoiler can ruin it. Special thanks to [Adam Robinson](https://tim.blog/2018/06/21/adam-robinson/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@IAmAdamRobinson](https://twitter.com/iamadamrobinson?lang=en)) for sending it to me.",
+      "original_url": "https://users.ece.cmu.edu/~gamvrosi/thelastq.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://users.ece.cmu.edu/~gamvrosi/thelastq.html"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Isaac_Asimov"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/06/21/adam-robinson/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/iamadamrobinson?lang=en"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Song I’m listening to",
+      "category": "music",
+      "title": "Canopée",
+      "creator": "Polo & Pan",
+      "note": "([YouTube](https://www.youtube.com/watch?v=f5IruTV-LGQ), [Spotify](https://open.spotify.com/track/7EYENG2nOnb0DqXPHq4NF0?si=e5664ad5a3154507)) by [Polo & Pan](http://www.poloandpanmusic.com/#/) ([@poloandpan](https://www.instagram.com/poloandpan/?hl=en)).",
+      "original_url": "https://www.youtube.com/watch?v=f5IruTV-LGQ",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=f5IruTV-LGQ"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=f5IruTV-LGQ"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/7EYENG2nOnb0DqXPHq4NF0?si=e5664ad5a3154507"
+        },
+        {
+          "type": "other",
+          "url": "http://www.poloandpanmusic.com/#/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/poloandpan/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Calendar trick I’m using",
+      "category": "other",
+      "title": "How to display multiple time zones in Google Calendar",
+      "creator": null,
+      "note": "Thanks to [Kevin Gibbon](https://twitter.com/kevingibbon/status/1648099302403887104) for [sharing this idea](https://twitter.com/kevingibbon/status/1648099302403887104) on Twitter.",
+      "original_url": "https://www.youtube.com/watch?v=-KiEua38A_M",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=-KiEua38A_M"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/kevingibbon/status/1648099302403887104"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/kevingibbon/status/1648099302403887104"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Why AI Won’t Cause Unemployment",
+      "creator": "Marc Andreessen",
+      "note": "([@pmarca](https://twitter.com/pmarca)). Even if you don’t read this, take a second to look at the primary graph.",
+      "original_url": "https://pmarca.substack.com/p/why-ai-wont-cause-unemployment",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://pmarca.substack.com/p/why-ai-wont-cause-unemployment"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2016/05/29/marc-andreessen/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/pmarca"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Pessimism is an indulgence, orthodoxy is the enemy of invention, despair an insult to the imagination.” — Wade Davis (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with this week’s interviews on the podcast. First, one of your favorite guests, Derek Sivers, returns with a wise and hilarious episode recorded in New Zealand. Second, my interview with cutting-edge scientist Dr. Gül Dölen explores psychedelics, their novel applications (autism, stroke, allergies, etc.), why she gave MDMA to octopuses, the master key for metaplasticity, and much more. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Wade Davis",
+      "note": null,
+      "original_url": "https://tim.blog/2023/01/27/wade-davis/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2023/01/27/wade-davis/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/3lRh0"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/04/21/derek-sivers/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/04/19/gul-dolen/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

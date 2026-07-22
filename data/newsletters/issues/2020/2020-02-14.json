@@ -1,13 +1,125 @@
 {
   "schema_version": 1,
   "issue_date": "2020-02-14",
-  "subject": "5-Bullet Friday — February 14, 2020 ",
+  "subject": "5-Bullet Friday — February 14, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Article I’m reading and rereading —",
+      "category": "article",
+      "title": "“Body Count” by Epsilon Theory/Ben Hunt",
+      "creator": null,
+      "note": "(**[**@epsilontheory**](https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/l8fehmhv8g9npg/aHR0cHM6Ly90d2l0dGVyLmNvbS9FcHNpbG9uVGhlb3J5)**).** This was sent to me by one of my smartest and most connected friends. It paints a spooky picture of the Chinese reports of what has informally been referred to as “Wuhan coronavirus.” Per the WHO at the time of this writing, the official virus name is SARS-CoV-2, and the disease it causes is COVID-19, much like HIV causes AIDS. Here is one portion from this essay (edited for length), and I suggest reading the entire piece:\n\nFrom a narrative perspective, China is fighting this war against nCov2019 exactly like the US fought its war against North Vietnam. ... They convince themselves that the people can’t handle the truth, particularly if the truth ain’t such good news. They convince themselves that they can buy enough time to win the real-world war by designing and employing a carefully constructed “communication strategy” to win the narrative-world war. That strategy proved to be a social and political disaster for the United States, as the cartoon tail (gotta get more NV casualties for Cronkite to report) ended up wagging the policy dog (send out more counterproductive search-and-destroy missions). I think exactly the same thing is happening in China. And I think the social and political repercussions will be exactly as disastrous.  \n\nPersonally, I am not panicking, but I’m curtailing unnecessary travel and group interactions for the next 2–3 weeks to see how things shake out, particularly given the asymptomatic “incubation period” of up to 14 days. Might that be an overreaction? Might I be misinformed? Totally. But then again, how many head-on car accidents have I had? Zero. I nonetheless put on my seatbelt every time that I drive, and we have great data on traffic fatalities. Do you have a fire extinguisher in your kitchen? Would you accept $100 to get rid of it? $1,000? I wouldn’t. As unlikely as a kitchen fire might be, the extreme _known_ consequences of an out-of-control fire easily justify a fire extinguisher, even if it gathers dust forever.  \n  \nEven though some folks think of me as a “risk-taker,” I self-identify much more as a “risk-mitigator.”  \n  \nI dislike the unknowns on SARS-CoV-2/COVID-19, and—like putting on a seatbelt—it’s easy for me to mitigate a lot of downside risk until the data paint a clearer picture. [Videos like this](https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/dmteh0hwl3go3z/aHR0cHM6Ly90d2l0dGVyLmNvbS9NUkNfT3V0YnJlYWsvc3RhdHVzLzEyMjUxNDYyNTY1NTg4NzA1MzE=) (hat tip to [Naval Ravikant](https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/70c7h8hprg76gk/aHR0cHM6Ly90d2l0dGVyLmNvbS9uYXZhbA==)) lead me to think that wearing an eight-point harness for a few weeks isn’t the worst idea.  \n  \nI am constantly looking for such “seatbelts” in many areas of my life...\n\n\\[The above bullet ended up going long. I just put the full version on my blog [here](https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/zrsghnhrqgvkgk/aHR0cHM6Ly90aW0uYmxvZy8yMDIwLzAyLzE0L3NvbWUtdGhvdWdodHMtb24tY29yb25hdmlydXNlcy1hbmQtc2VhdGJlbHRzLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=).\\]",
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/8xiqhohpm4v288/aHR0cHM6Ly93d3cuZXBzaWxvbnRoZW9yeS5jb20vYm9keS1jb3VudC8=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/8xiqhohpm4v288/aHR0cHM6Ly93d3cuZXBzaWxvbnRoZW9yeS5jb20vYm9keS1jb3VudC8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/l8fehmhv8g9npg/aHR0cHM6Ly90d2l0dGVyLmNvbS9FcHNpbG9uVGhlb3J5"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/dmteh0hwl3go3z/aHR0cHM6Ly90d2l0dGVyLmNvbS9NUkNfT3V0YnJlYWsvc3RhdHVzLzEyMjUxNDYyNTY1NTg4NzA1MzE="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/70c7h8hprg76gk/aHR0cHM6Ly90d2l0dGVyLmNvbS9uYXZhbA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/zrsghnhrqgvkgk/aHR0cHM6Ly90aW0uYmxvZy8yMDIwLzAyLzE0L3NvbWUtdGhvdWdodHMtb24tY29yb25hdmlydXNlcy1hbmQtc2VhdGJlbHRzLz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "In lighter news, here’s what I’m watching —",
+      "category": "video",
+      "title": "The Marvelous Mrs. Maisel",
+      "creator": null,
+      "note": "I’m late to the party on this one, but… this series is [sweet as](https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/kmbmh6h2k7q572/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1aZFZIWndJOHBjQQ==). My girlfriend and I have been watching _Mrs. Maisel_ before bed, and it’s the perfect nightcap for a challenging day. Or for an afternoon of reading too much about coronaviruses. The writing is hilarious, and the cinematography is simply luscious. I’ve never used “luscious” to describe a TV series before, but the colors are so gorgeous and saturated that it’s hard to pull your eyes away. The visual feel is reminiscent of the beauty in Guillermo del Toro’s [_The Shape of Water_](https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/22h2hoh0k5z85e/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9ncC9wcm9kdWN0L0IwNzhIVlBKV1Mv).",
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/x8aph6hd5g6pgz/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9ncC92aWRlby9kZXRhaWwvQjA2VllIMUdGNy9yZWY9YXR2X2RwX3NlYXNvbl9zZWxlY3RfczE=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/x8aph6hd5g6pgz/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9ncC92aWRlby9kZXRhaWwvQjA2VllIMUdGNy9yZWY9YXR2X2RwX3NlYXNvbl9zZWxlY3RfczE="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/kmbmh6h2k7q572/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1aZFZIWndJOHBjQQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/22h2hoh0k5z85e/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9ncC9wcm9kdWN0L0IwNzhIVlBKV1Mv"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Book that I’m revisiting —",
+      "category": "book",
+      "title": "The Lessons of History",
+      "creator": "Will and Ariel Durant",
+      "note": "This short and powerful book was first recommended to me by [famed investor Ray Dalio](https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/35iphkh9ewl2wq/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzA5LzEzL3JheS1kYWxpby8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWR1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=). At fewer than 150 pages, it can be digested in a few sittings and offers an impressive overview of human nature, as well as the rise and fall of civilizations. Here’s the official book description: “A concise survey of the culture and civilization of mankind, _The Lessons of History_ is the result of a lifetime of research from Pulitzer Prize-winning historians Will and Ariel Durant. With their accessible compendium of philosophy and social progress, the Durants take us on a journey through history, exploring the possibilities and limitations of humanity over time.” **I’m considering recording a podcast episode based on my Kindle highlights of this book and a few others. Please let me know (**[**@tferriss**](https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/46fvhehq4oepor/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==)**) if this type of “my personal highlights from one book” episode would be of interest.**",
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/gqunh5ho4v5lvz/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9MZXNzb25zLUhpc3RvcnktV2lsbC1EdXJhbnQvZHAvMTQzOTE0OTk1WA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/gqunh5ho4v5lvz/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9MZXNzb25zLUhpc3RvcnktV2lsbC1EdXJhbnQvZHAvMTQzOTE0OTk1WA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/35iphkh9ewl2wq/aHR0cHM6Ly90aW0uYmxvZy8yMDE3LzA5LzEzL3JheS1kYWxpby8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWR1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/46fvhehq4oepor/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Person I’m learning more about —",
+      "category": "other",
+      "title": "Catherine the Great",
+      "creator": null,
+      "note": ", born Princess Sophie of Anhalt-Zerbst, was Empress of Russia from 1762 until 1796, making her the country’s longest-ruling female leader. She came to power following a _coup d’état_ in which her husband, Peter III, was overthrown. Under her reign, Russia was revitalized—it grew larger and stronger and was recognized as one of the great powers of Europe.",
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/r2t8hohvg8r38m/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQ2F0aGVyaW5lX3RoZV9HcmVhdA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/r2t8hohvg8r38m/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQ2F0aGVyaW5lX3RoZV9HcmVhdA=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering once again —",
+      "category": "quote",
+      "title": "“Every day of our lives, we are on the verge of making those slight changes that would make all the difference.” — Mignon McLaughlin And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim",
+      "creator": "Mignon McLaughlin And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/80cqhohpm4v24q/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWlnbm9uX01jTGF1Z2hsaW4=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/80cqhohpm4v24q/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWlnbm9uX01jTGF1Z2hsaW4="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhzpx9zcn/03swh9hw38598d/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        }
+      ]
+    }
+  ]
 }

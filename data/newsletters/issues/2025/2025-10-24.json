@@ -7,7 +7,155 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Echos",
+      "creator": "Metsa",
+      "note": ". From the description: “Metsa’s new album ‘Echos’ is a ceremonial album weaving traditional ikaros with cross-cultural sound. It blends Quechua-Lamista and Shipibo tonalities with Native American and West African influences.”  \n​  \nI absolutely love Metsa’s music, and it’s a family affair. [Start with Track 1 “Mariri” here](https://metsamusic.bandcamp.com/album/echos). I could listen to it on repeat for hours. For those of you who occasionally sip South American tea, you might appreciate [Track 3 “Muraray”](https://metsamusic.bandcamp.com/album/echos). How many plants do you recognize? If you love it, buy an album and support the artist. I did.  \n​  \nLast but not least, you can also see a live performance on Zoom and get free singing instruction on November 9th [here](https://www.metsamusic.com/launchparty). ¡Ándale!",
+      "original_url": "https://metsamusic.bandcamp.com/album/echos",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://metsamusic.bandcamp.com/album/echos"
+        },
+        {
+          "type": "other",
+          "url": "http://www.metsamusic.com"
+        },
+        {
+          "type": "other",
+          "url": "https://metsamusic.bandcamp.com/album/echos"
+        },
+        {
+          "type": "other",
+          "url": "https://metsamusic.bandcamp.com/album/echos"
+        },
+        {
+          "type": "other",
+          "url": "https://www.metsamusic.com/launchparty"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What is on my mind",
+      "category": "other",
+      "title": "Advice for Young Men Who Are Feeling Lost",
+      "creator": null,
+      "note": "This is a blog post with writing from Scott Galloway’s upcoming book, [_Notes on Being a Man_](https://www.amazon.com/Notes-Being-Man-Scott-Galloway/dp/166808435X/)_._ I heard Scott present a few weeks ago, and it hit very close to home. We are sitting on a tinderbox and need to address the elephant in the room: young men need help.  \n​  \nIn high school, I won the lottery by chancing upon one coach whose influence saved me from the fates of many of my male friends: jail, overdoses, DUI deaths, and more. Ever since, I’ve searched for ways that we might nudge young men (including 20s, 30s) towards optimism and better lives. Left unaddressed, the potential for violence and societal disaster is also high. Testosterone and aggression will go somewhere, so best to channel it.  \n​  \nI’m hoping Scott’s book will act as a virtual mentor for young men who are feeling lost, stuck, angry, or despondent about the future. [Here is the sample chapter](https://tim.blog/2025/10/24/advice-for-young-men/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit).",
+      "original_url": "https://tim.blog/2025/10/24/advice-for-young-men/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2025/10/24/advice-for-young-men/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Notes-Being-Man-Scott-Galloway/dp/166808435X/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/10/24/advice-for-young-men/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading and experimenting with",
+      "category": "article",
+      "title": "The history of Neurospora crassa in fermented foods",
+      "creator": null,
+      "note": "Yes, this is a weird one, and it’s actually a fascinating read. Too busy to read? Take a peek at the below macros from the linked article, which are hard to believe:\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/iP5bSF7QeRhMtv31uA63Tk/email)\n\n​\n\nThe above is on a dryweight basis, but even per 100 hydrated grams, _Neurospora crassa_ contains:  \n​  \nMore fiber than oats (fungal polysaccharides, including substantial β-glucans).  \nMore protein than eggs.  \nMore iron and zinc than beef.  \nMore potassium than bananas.  \nNot to mention [spermidine and other goodies with longevity implications](https://www.bettermeat.co/longevity).  \n​  \nBut let me back up.**​  \n​  \n​**Humans need protein. And while I am an investor in companies like [Maui Nui Venison](https://mauinuivenison.com/lp/tim), which sells the most nutritionally dense meat you can buy in the US, it’s ultra-premium. I eat it every week, but it doesn’t scale to billions of people. And our current solution—factory farming—is an ethical and ecological disaster. So what to do? I’ve been tracking [The Better Meat Co](https://www.bettermeat.co/) (BMC) for perhaps two years, and I recently invested. Their “protein brewery” mycoprotein, Rhiza, was recently selected as [one of _TIME_’s Best Inventions of 2025](https://time.com/collections/best-inventions-2025/7318331/better-meat-co-rhiza/) and is FDA GRAS (“Generally Recognized As Safe”). The production is innovative, and their approach is super novel: the production of _N. Crassa_ biomass for itself, not as a fermenting agent. But what first caught my attention was that _N. Crassa_ has been used by humans for centuries.  \n​  \n​_Sidebar—Better Meat Co. is actually B2B and doesn’t sell to individual consumers, so I’m not selling you anything. I’m just excited and consuming it myself. I’ll tell you later how I wrangled a few bags for subscribers, but this isn’t a sales page. Now back to this long-ass bullet…  \n​  \n​_I’ve tried most plant-based proteins and “alt meats,” and they tend to be incomplete, highly processed and full of crap, hard to digest, or cost-prohibitive. Rhiza’s PDCAAS (Protein Digestibility-Corrected Amino Acid Score) is 0.92 on a scale of 0–1, or roughly on par with chicken/fish/beef. Rhiza ferments in hours—less than 2.5% of the time it takes to produce chicken—and is incredibly cost-effective. For my first-ever chowdown, I cooked a heaping pan-full and ate it in 10 minutes to push the GI envelope. No issues whatsoever, and it actually sauteed up and tasted something like taco meat.  \n​  \nSo what’s the B2B business model? Meat companies use Rhiza granules to enhance their meats (better nutrition, better texture), and baked goods companies use the Rhiza flour to add protein and fiber to their products (nutrition bars, tortillas, crusts, etc.). If you’re a food company, you can contact them [here](https://www.bettermeat.co/contact).  \n​  \n​**But how can you personally try some?** It will come as a dry powder in a vacuum-sealed bag and look shady as f\\*ck. I’m currently mixing it into my shakes. If I can hit my fiber numbers without spiking glucose, and if the spermidine gives me a little extra autophagy, I’m double thrilled. I asked the CEO, Paul Shapiro, if he could mail out 20 of these one-pound bags to 5BF subscribers, and he agreed. **For Better Meat Co. to find you, you just need to put up a post tagging them on** [**LinkedIn (here’s their profile)**](https://www.linkedin.com/company/bettermeatco/) **by 5 p.m. PT this Sunday, Oct 26.  \n​  \nThere is no other way to get this stuff as an individual consumer. BMC will randomly pick 20 folks by EOD Tuesday and direct-message the winners to get you your bags o’ mycelial delight.**",
+      "original_url": "https://link.springer.com/article/10.1007/s44187-025-00547-8",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://link.springer.com/article/10.1007/s44187-025-00547-8"
+        },
+        {
+          "type": "other",
+          "url": "https://www.bettermeat.co/longevity"
+        },
+        {
+          "type": "other",
+          "url": "https://mauinuivenison.com/lp/tim"
+        },
+        {
+          "type": "other",
+          "url": "https://www.bettermeat.co/"
+        },
+        {
+          "type": "other",
+          "url": "https://time.com/collections/best-inventions-2025/7318331/better-meat-co-rhiza/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.bettermeat.co/contact"
+        },
+        {
+          "type": "other",
+          "url": "https://www.linkedin.com/company/bettermeatco/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering because of bullet #2",
+      "category": "quote",
+      "title": "“It is the nature of man to rise to greatness if greatness is expected of him.” — John Steinbeck (Click here to share on X.)",
+      "creator": "John Steinbeck",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/John_Steinbeck",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/John_Steinbeck"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/IgTck"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Another quote I’m pondering for the same reason",
+      "category": "quote",
+      "title": "“There are times when the world is rearranging itself, and at times like that, the right words can change the world.” ― Orson Scott Card, Ender’s Game_ (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my brand-new interview with comic book legend Frank Miller, plus the return of the lion tracker and ace storyteller, Boyd Varty. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": null,
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Orson_Scott_Card",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Orson_Scott_Card"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Ender%27s_Game"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/fSQ47"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/10/20/frank-miller/%20?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/10/22/the-return-of-the-lion-tracker/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

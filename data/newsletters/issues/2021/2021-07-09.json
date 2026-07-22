@@ -7,7 +7,196 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Twitter thread I’m reading —",
+      "category": "article",
+      "title": "Huy Fong’s Sriracha hit revenue of $150m+ a year...with no sales team, no trademark and $0 in ad spend. Its creator is Vietnamese-American David Tran, making the sauce’s success a tale of immigrant hustle and a product that literally sells itself. Here’s the story🧵…",
+      "creator": null,
+      "note": "(hat tip to Mike N.).** Tired of all the smoke and mirrors of overhyped entrepreneurship? All the hand-wavy buzz words of the startup _du jour_? This is a wonderful story of product, product, product meets focus, focus, focus.",
+      "original_url": "https://twitter.com/TrungTPhan/status/1409185044501987340",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://twitter.com/TrungTPhan/status/1409185044501987340"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Roman Gonzalez vs Brian Viloria - Highlights (Explosive FIGHT & KNOCKOUT)",
+      "creator": null,
+      "note": "](https://youtu.be/pJyb5ya5MOI)**” (via Ralphbert).** This highlight video is absurd. Be sure to watch at least three minutes. It boggles my mind that anyone can throw nonstop power punches for so long with such precision. But who are we dealing with here? This machine in the blue shorts: “Román Alberto González Luna \\[[@chocolatitobox](https://twitter.com/chocolatitobox)\\] (born 16 June 1987), best known by his nickname ‘Chocolatito,’ is a Nicaraguan professional boxer. He is the first boxer from Nicaragua to win world titles in four weight classes, having surpassed his mentor, idol, and former three-weight world champion, the late Alexis Argüello. González is also the first boxer in history to win world titles in all four of the lowest weight classes: minimumweight, light flyweight, flyweight, and super flyweight. … From September 2015 to March 2017, he was also ranked by _The Ring_ as the world’s best active boxer, pound for pound.” ([Wikipedia](https://en.wikipedia.org/wiki/Rom%C3%A1n_Gonz%C3%A1lez_(boxer)))",
+      "original_url": "https://youtu.be/pJyb5ya5MOI",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/pJyb5ya5MOI"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/chocolatitobox"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Rom%C3%A1n_Gonz%C3%A1lez_(boxer"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Music I’m listening to —",
+      "category": "music",
+      "title": "Deeper Underground",
+      "creator": "Jamiroquai",
+      "note": "([Spotify](https://open.spotify.com/track/19x5x7F8SYMfWNiJOmqMUu?si=2772c60ea2d94a6a), [YouTube](https://www.youtube.com/watch?v=WIUAC03YMlA)) by [Jamiroquai](http://www.jamiroquai.com/) ([@JamiroquaiHQ](https://twitter.com/jamiroquaihq?lang=en)).",
+      "original_url": "https://youtu.be/WIUAC03YMlA",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/WIUAC03YMlA"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/19x5x7F8SYMfWNiJOmqMUu?si=2772c60ea2d94a6a"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=WIUAC03YMlA"
+        },
+        {
+          "type": "other",
+          "url": "http://www.jamiroquai.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/jamiroquaihq?lang=en"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m digging into —",
+      "category": "other",
+      "title": "Screenplayed: Comparing Movies to Screenplays",
+      "creator": null,
+      "note": "([@screenplayed](https://twitter.com/screenplayed)). This is the art of explaining art. Screenplayed uses a split screen to help you watch scenes of movies while simultaneously reading along in the final script. To get a quick taste, [check out this example from _Uncut Gems_](https://www.youtube.com/watch?v=uzZnBXHHTro). Many thanks to Jordan B. for introducing me to this.",
+      "original_url": "https://screenplayed.com",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://screenplayed.com"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/screenplayed"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=uzZnBXHHTro"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Blooper reel that I’m quite enjoying —",
+      "category": "other",
+      "title": "Tim Ferriss video f\\*ck ups and outtakes",
+      "creator": null,
+      "note": "**",
+      "original_url": "https://www.youtube.com/watch?v=TyLr43rd4Tk",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=TyLr43rd4Tk"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Absolutely excellent article that I’m reading —",
+      "category": "article",
+      "title": "How Should We Do Drugs Now?",
+      "creator": "Michael Pollan",
+      "note": "(****_NYT_** **Opinion)** by [Michael Pollan](https://tim.blog/2021/06/28/michael-pollan-this-is-your-mind-on-plants/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=weekly-roundup-michael-pollan?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@michaelpollan](https://twitter.com/michaelpollan)).",
+      "original_url": "https://www.nytimes.com/2021/07/09/opinion/sunday/drug-legalization-mdma-psilocybin.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/2021/07/09/opinion/sunday/drug-legalization-mdma-psilocybin.html"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/06/28/michael-pollan-this-is-your-mind-on-plants/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=weekly-roundup-michael-pollan?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/michaelpollan"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "section": "Quote I’m repeating to myself —",
+      "category": "quote",
+      "title": "“When the facts change, I change my mind. What do you do, sir?”— John Maynard Keynes And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "John Maynard Keynes And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/John_Maynard_Keynes",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/John_Maynard_Keynes"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    },
+    {
+      "position": 8,
+      "section": "P.P.S. Something I’m celebrating —",
+      "category": "other",
+      "title": "Center for Human-Carnivore Coexistence",
+      "creator": null,
+      "note": "(_Denver Post_). The [Center for Human-Carnivore Coexistence](https://sites.warnercnr.colostate.edu/centerforhumancarnivorecoexistence/) at CSU recently received a $1M donation from an anonymous rancher to support their research, education, and outreach efforts. This is a big deal. Since the above _Denver Post_ coverage may be behind a paywall, here is [the official press release](https://source.colostate.edu/donor-commits-1-million-to-support-csu-center-for-human-carnivore-coexistence/).  \n\n[![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/hAHoQ5faPwYaTb1HKvQEBZ?w=800&fit=max)](https://tim.blog/2020/12/08/jerry-seinfeld/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf-footer-jerry)\n\nFORWARDED THIS MESSAGE? [SIGN UP](https://go.tim.blog/10x-output/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=template).\n\n![Tim Ferriss Photo](http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg)\n\nJoin millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff.\n\nDUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just [click here](https://unsubscribe.fourhourmail.com/wvunxemrragh26w3mi0). To reply to Tim, please do so in the blog comments [here](https://tim.blog/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=template).\n\n3112 Windsor Rd., Box #UNS, Austin TX 78703, United States\n\n \n\n![](https://open.fourhourmail.com/wvunxemrragh26w3mi0)",
+      "original_url": "https://sites.warnercnr.colostate.edu/centerforhumancarnivorecoexistence/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://sites.warnercnr.colostate.edu/centerforhumancarnivorecoexistence/"
+        },
+        {
+          "type": "other",
+          "url": "https://source.colostate.edu/donor-commits-1-million-to-support-csu-center-for-human-carnivore-coexistence/"
+        },
+        {
+          "type": "other",
+          "url": "https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/hAHoQ5faPwYaTb1HKvQEBZ?w=800&fit=max"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/10x-output/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=template"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/wvunxemrragh26w3mi0"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=template"
+        }
+      ]
+    }
+  ]
 }

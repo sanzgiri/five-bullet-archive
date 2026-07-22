@@ -6,7 +6,103 @@
     "gmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": false,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short story that I’m reading —",
+      "category": "article",
+      "title": "it’s available here",
+      "creator": null,
+      "note": "online but requires a subscription. Nabokov became a U.S. citizen in 1945, and I found the essay in [The Best American Essays of the Century](https://el2.convertkit-mail.com/c/d0u20lglw5a0h0mm0qtp/opfkhqh6v03kdp/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9CZXN0LUFtZXJpY2FuLUVzc2F5cy1DZW50dXJ5L2RwLzA2MTgxNTU4NzI=). I chose to read “Perfect Past” for the first few pages, which brilliantly describe the birth of young Nabokov’s perception of time. Nabokov is a dazzling wordsmith and aesthetic savant, but caveat lector: it can get rather flowery at times. This essay is no exception. It’s beautiful and ornate in a style that only Nabokov could pull off. If you’d like to read it on Kindle, “Perfect Past” was also expanded to be the first chapter in Nabokov’s memoir, [Speak, Memory](https://el2.convertkit-mail.com/c/d0u20lglw5a0h0mm0qtp/x4tph6hp648r00/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TcGVhay1NZW1vcnktQXV0b2Jpb2dyYXBoeS1SZXZpc2l0ZWQtSW50ZXJuYXRpb25hbC1lYm9vay9kcC9CMDA0S0FCRFdBL3JlZj1zcl8xXzE_Y3JpZD0xTTkyOFBCUUxJMzhWJmtleXdvcmRzPW5hYm9rb3Yrc3BlYWsrbWVtb3J5JnFpZD0xNTY1MzIxNTU5JnM9Ym9va3Mmc3ByZWZpeD1uYWJva292K3NwZWFrJTJDc3RyaXBib29rcyUyQzEzMCZzcj0xLTE=).",
+      "original_url": "https://el2.convertkit-mail.com/c/d0u20lglw5a0h0mm0qtp/k8imh6h5qogdvz/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9tYWdhemluZS8xOTUwLzA0LzE1L3RoZS1wZXJmZWN0LXBhc3Q=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail.com/c/d0u20lglw5a0h0mm0qtp/k8imh6h5qogdvz/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9tYWdhemluZS8xOTUwLzA0LzE1L3RoZS1wZXJmZWN0LXBhc3Q="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/d0u20lglw5a0h0mm0qtp/opfkhqh6v03kdp/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9CZXN0LUFtZXJpY2FuLUVzc2F5cy1DZW50dXJ5L2RwLzA2MTgxNTU4NzI="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/d0u20lglw5a0h0mm0qtp/x4tph6hp648r00/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TcGVhay1NZW1vcnktQXV0b2Jpb2dyYXBoeS1SZXZpc2l0ZWQtSW50ZXJuYXRpb25hbC1lYm9vay9kcC9CMDA0S0FCRFdBL3JlZj1zcl8xXzE_Y3JpZD0xTTkyOFBCUUxJMzhWJmtleXdvcmRzPW5hYm9rb3Yrc3BlYWsrbWVtb3J5JnFpZD0xNTY1MzIxNTU5JnM9Ym9va3Mmc3ByZWZpeD1uYWJva292K3NwZWFrJTJDc3RyaXBib29rcyUyQzEzMCZzcj0xLTE="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to while writing —",
+      "category": "podcast",
+      "title": "Putumayo Presents African Cafe",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.convertkit-mail.com/c/d0u20lglw5a0h0mm0qtp/56cvh7hn84pv2d/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL2FsYnVtLzdlY3RkNWpEYWJsdDBWYml3ZGVxSVI=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail.com/c/d0u20lglw5a0h0mm0qtp/56cvh7hn84pv2d/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL2FsYnVtLzdlY3RkNWpEYWJsdDBWYml3ZGVxSVI="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Dream Sequence | DREAM CORP LLC | adult swim",
+      "creator": null,
+      "note": "For long-term readers or listeners, it should be clear within seconds why I like this video. Here’s the series description: “DREAM CORP LLC is an absurd comedy set in a neglected dream therapy facility. Each week desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor, Dr Roberts (Jon Gries), and his team of unremarkable scientists.” ([Rotten Tomatoes](https://el2.convertkit-mail.com/c/d0u20lglw5a0h0mm0qtp/4navhehpe7z58o/aHR0cHM6Ly93d3cucm90dGVudG9tYXRvZXMuY29tL3R2L2RyZWFtX2NvcnBfbGxjXw==))",
+      "original_url": "https://el2.convertkit-mail.com/c/d0u20lglw5a0h0mm0qtp/96szhnh6mekqre/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj03Ykp3SFlabmFpUSZmZWF0dXJlPXlvdXR1LmJl",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail.com/c/d0u20lglw5a0h0mm0qtp/96szhnh6mekqre/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj03Ykp3SFlabmFpUSZmZWF0dXJlPXlvdXR1LmJl"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/d0u20lglw5a0h0mm0qtp/4navhehpe7z58o/aHR0cHM6Ly93d3cucm90dGVudG9tYXRvZXMuY29tL3R2L2RyZWFtX2NvcnBfbGxjXw=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Person I’m researching once again —",
+      "category": "research",
+      "title": "Alexander \"Sasha\" Shulgin",
+      "creator": null,
+      "note": "was an American medicinal chemist, biochemist, organic chemist, pharmacologist, psychopharmacologist, and author. He is credited with introducing MDMA (\"ecstasy\" or \"molly\") to psychologists in the late 1970s for psychopharmaceutical use and for the discovery, synthesis, and personal bioassay of over 230 psychoactive compounds for their psychedelic and entactogenic potential. In 1991 and 1997, he and his wife Ann Shulgin authored the books [PIHKAL](https://el2.convertkit-mail.com/c/d0u20lglw5a0h0mm0qtp/l6hehmhn9d5094/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9QaWhrYWwtQ2hlbWljYWwtU3RvcnktQWxleGFuZGVyLVNodWxnaW4vZHAvMDk2MzAwOTYwNS8=) and [TIHKAL](https://el2.convertkit-mail.com/c/d0u20lglw5a0h0mm0qtp/eluph7hlgd9pg2/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UaWhrYWwtQ29udGludWF0aW9uLUFsZXhhbmRlci1TaHVsZ2luL2RwLzA5NjMwMDk2OTkv) (standing for Phenethylamines I Have Known And Loved and Tryptamines I Have Known And Loved), which extensively described their work and personal experiences with these two classes of psychoactive drugs.",
+      "original_url": "https://el2.convertkit-mail.com/c/d0u20lglw5a0h0mm0qtp/0mbwh9h95p0o5o/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQWxleGFuZGVyX1NodWxnaW4=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail.com/c/d0u20lglw5a0h0mm0qtp/0mbwh9h95p0o5o/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQWxleGFuZGVyX1NodWxnaW4="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/d0u20lglw5a0h0mm0qtp/l6hehmhn9d5094/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9QaWhrYWwtQ2hlbWljYWwtU3RvcnktQWxleGFuZGVyLVNodWxnaW4vZHAvMDk2MzAwOTYwNS8="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail.com/c/d0u20lglw5a0h0mm0qtp/eluph7hlgd9pg2/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UaWhrYWwtQ29udGludWF0aW9uLUFsZXhhbmRlci1TaHVsZ2luL2RwLzA5NjMwMDk2OTkv"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“If you wish to improve, be content to appear clueless or stupid in extraneous matters.\" — Epictetus",
+      "creator": "Epictetus",
+      "note": null,
+      "original_url": "https://el2.convertkit-mail.com/c/d0u20lglw5a0h0mm0qtp/o3ikhqh6v03kv8/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRXBpY3RldHVz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail.com/c/d0u20lglw5a0h0mm0qtp/o3ikhqh6v03kv8/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRXBpY3RldHVz"
+        }
+      ]
+    }
+  ]
 }

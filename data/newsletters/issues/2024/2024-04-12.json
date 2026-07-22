@@ -6,7 +6,159 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "iPhone and Mac trick I’m using and sharing",
+      "category": "other",
+      "title": "Track a flight in real time on iMessage, on iPhone or Mac",
+      "creator": null,
+      "note": "If you are looking to quickly get info on your flight or that of a loved one, all it takes is a text. No Googling required. Just text yourself (or someone else) the flight number with no spaces (e.g., UA8181), and you can easily track it inside iMessage. Tap on the auto-generated link (right-click on laptop), and time, gate, and more will automagically appear in a preview pop-up. See [this screenshot](https://media.ipadpilotnews.com/wp-content/uploads/2023/02/24114002/iPhone-flight-tracking-messages.jpg) for the exact steps. Hat tip to Loni!",
+      "original_url": "https://www.macrumors.com/how-to/track-flight-on-iphone/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.macrumors.com/how-to/track-flight-on-iphone/"
+        },
+        {
+          "type": "other",
+          "url": "https://media.ipadpilotnews.com/wp-content/uploads/2023/02/24114002/iPhone-flight-tracking-messages.jpg"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Profile I’m reading",
+      "category": "article",
+      "title": "The New Yorker Who Cracked the U.K.’s Premier Quiz Show",
+      "creator": "David Segal for The New York Times_",
+      "note": "for _The New York Times_.",
+      "original_url": "https://www.nytimes.com/2024/04/07/business/uk-university-challenge-brandon-blackwell.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/2024/04/07/business/uk-university-challenge-brandon-blackwell.html"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nytimes.com/by/david-segal"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "New AI tools I’ve been playing with nonstop",
+      "category": "other",
+      "title": "Suno",
+      "creator": null,
+      "note": "and** [**Udio**](https://www.udio.com/)**.** Here’s one of many prompts from Suno: “Heavy metal song about panicked polar bears that eat too much edible cannabis on New Year’s Eve.” It produced two song variations about 90 seconds later, and the quality was unbelievable. This AI-music arms race [is heating up fast](https://www.rollingstone.com/music/music-features/udio-ai-music-chatgpt-suno-1235001675/)**,** and it’s also straining under the explosive demand. When I tried to use Suno for this bullet, it was freezing and producing errors, so I tried a competitor named [Udio](https://www.udio.com/) for the first time. I was up and running in seconds.  \n​  \nFrom [coverage in Tom’s Guide](https://www.tomsguide.com/ai/meet-udio-the-most-realistic-ai-music-creation-tool-ive-ever-tried): “The brainchild of former Google DeepMind engineers, the \\[Udio\\] platform has already drawn both investment and attention from parts of the music community, including will.i.am and Common.”**​  \n​  \n​**I used this prompt:  \n​  \n​_“an upbeat reggaeton song about a newsletter named 5-Bullet Friday that brings joy like a bathtub full of puppies”  \n​  \n​_[**Click here for the song it created in about 90 seconds**](https://www.udio.com/songs/bhmhExfKbjrhnBZYW1gSLi)**, which I then extended. It’s unreal.** I suspect some of you will also get a laugh out of the cover art, which I generated on the platform with “Tim Ferriss in a bathtub full of puppies.” Click the heart, and perhaps it’ll trend. :)  \n​**​  \n​**You could throw a lot of these AI songs on a sound system at a party tonight, and no one would raise an eyebrow.  \n​  \nMy song is in Spanish, but the English lyrics via Google Translate are below. It sounds a lot better in Spanish! The “extend” function could use some work blending the segments, but it is already a mind-blowing experience:  \n​  \n​_The newsletter that lights up the week, joy  \nFive bullets that wake me up every day, every day  \nLike puppies playing, they make me smile, smile  \nBathtub full of joy, there is no better breeze, that breeze  \nTheir stories carry us, every Friday is a party  \n5-Bullet Friday, the joy it injects you  \n​_​  \n​_Fresh news arrives, Friday is ready, oh yes  \nWith each bullet, my heart bursts, bursts  \nRhythm in words, like a complete, complete party  \n5-Bullet Friday, is the spark that resonates and connects  \nUnder the Friday sun, the vibration does not stop  \nFive pure moments, drive away sadness_​  \n​  \nOnce again, [here’s the link to listen](https://www.udio.com/songs/bhmhExfKbjrhnBZYW1gSLi). And if the links are down for some reason, I downloaded my creation, so [here’s a backup version](https://tim.blog/wp-content/uploads/2024/04/Viernes-de-Vibra.mp3).  \n​  \nMere moments after making the above, I got the warning “Due to heavy load, generations are much slower than usual. We’re working hard to improve performance.” The race goes to the swift!",
+      "original_url": "https://suno.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://suno.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.udio.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rollingstone.com/music/music-features/udio-ai-music-chatgpt-suno-1235001675/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.udio.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.tomsguide.com/ai/meet-udio-the-most-realistic-ai-music-creation-tool-ive-ever-tried"
+        },
+        {
+          "type": "other",
+          "url": "https://www.udio.com/songs/bhmhExfKbjrhnBZYW1gSLi"
+        },
+        {
+          "type": "other",
+          "url": "https://www.udio.com/songs/bhmhExfKbjrhnBZYW1gSLi"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/wp-content/uploads/2024/04/Viernes-de-Vibra.mp3"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Tech tricks I’m using",
+      "category": "other",
+      "title": "Momentum Dash",
+      "creator": null,
+      "note": "You can see [my screen at this link](https://www.instagram.com/p/BIyk0TKg2nn/?igsh=cnlyem1uZXR0Mm5m) and the message I had for myself when I was working on _Tools of Titans_ back in 2016. Momentum Dash is outstanding, but you’ll likely end up paying for it. My close friend found a free alternative with basic functionality, and it gets the bare-bones job done: [**New Tab Random Quote**](https://chromewebstore.google.com/detail/new-tab-random-quote/ajdmjnkmegnofepbbkaaklfopjgdocfl).",
+      "original_url": "https://momentumdash.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://momentumdash.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/BIyk0TKg2nn/?igsh=cnlyem1uZXR0Mm5m"
+        },
+        {
+          "type": "other",
+          "url": "https://chromewebstore.google.com/detail/new-tab-random-quote/ajdmjnkmegnofepbbkaaklfopjgdocfl"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Poem I’m pondering",
+      "category": "other",
+      "title": "Walt Whitman",
+      "creator": null,
+      "note": ", as recommended to me by [Maria Popova](https://www.themarginalian.org/about/), who invited me to [read this poem aloud at her event](https://youtu.be/9aj33Ya36X8?t=5776) in Austin this past Sunday.  \n​  \nIf you’d like to see me as nervous as a whippet at an air-horn festival, watch 1:36:13 [in this video](https://youtu.be/9aj33Ya36X8?t=5776) onward. It was my first time ever reading poetry publicly, as I was a last-minute replacement for a cancellation. There were thousands of people in the audience, and my palms were sweating buckets. Relax, Ferriss! The annual event is called [The Universe in Verse](https://www.themarginalian.org/the-universe-in-verse/), and I highly recommend attending. I had a blast.\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [Arnold Schwarzenegger’s foreword](https://tim.blog/2016/11/07/tools-of-titans-foreword-arnold-schwarzenegger-i-am-not-a-self-made-man/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content) to _Tools of Titans_, [my interview with Margaret Atwood](https://tim.blog/2022/02/22/margaret-atwood/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content), and [my conversation with Eric Schmidt](https://tim.blog/2021/10/25/eric-schmidt-ai/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content) on the promises and perils of AI.  \n​  \nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
+      "original_url": "https://en.wikipedia.org/wiki/Walt_Whitman",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Walt_Whitman"
+        },
+        {
+          "type": "other",
+          "url": "https://www.themarginalian.org/about/"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/9aj33Ya36X8?t=5776"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/9aj33Ya36X8?t=5776"
+        },
+        {
+          "type": "other",
+          "url": "https://www.themarginalian.org/the-universe-in-verse/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2016/11/07/tools-of-titans-foreword-arnold-schwarzenegger-i-am-not-a-self-made-man/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/02/22/margaret-atwood/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/10/25/eric-schmidt-ai/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

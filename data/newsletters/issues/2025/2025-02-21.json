@@ -6,7 +6,119 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m sharing exclusively with you",
+      "category": "other",
+      "title": "The third chapter of my upcoming book",
+      "creator": null,
+      "note": "!** Here is the first “real” chapter of THE NO BOOK, which I am writing with Neil Strauss. It’s still a work in progress, but it’s getting there. Please leave your thoughts, suggestions, results, etc. in the blog comments!  \n​  \nIf you missed the first two chapters, introductions from both me and Neil, [you can find them here](https://tim.blog/2025/01/13/the-no-book/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content).",
+      "original_url": "https://tim.blog/2025/02/21/step-1-the-wilson-letter-and-beyond/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2025/02/21/step-1-the-wilson-letter-and-beyond/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/01/13/the-no-book/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "50 Years of Travel Tips",
+      "creator": "Kevin Kelly",
+      "note": ". Regular readers know that I consider Kevin one candidate for [the real-world most interesting man in the world](https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content). He’s also always a font of good advice. He has traveled to more far-flung places than anyone I know, and he did a lot of it before the Internet, smartphones, or Google Maps. This list of tips is gold. Here’s a teaser intro for you:  \n​  \n​_I’ve been seriously traveling for more than 50 years, and I’ve learned a lot.  \n​  \nI’ve traveled solo, and I’ve led a tour group of 40 friends. I’ve slept in dormitories and I’ve stayed in presidential suites with a butler. I’ve hitchhiked penniless for months, and I’ve flown by private jet. I’ve traveled months with siblings, and with total strangers. I’ve gone by slow boat and I’ve ridden my bicycle across America, twice. I’ve been to the largest gathering of humans on the planet, and trekked into remotest areas on the planet on my own…_",
+      "original_url": "https://kk.org/thetechnium/50-years-of-travel-tips/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://kk.org/thetechnium/50-years-of-travel-tips/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Nobody Can Match His Level, Finally a Heavyweight with Elite Submissions - Kaynan Duarte",
+      "creator": null,
+      "note": "Kaynan Duarte, 27, is a four-time champion at the ADCC Submission Fighting World Championship (considered the “Olympics of submission grappling”) and two-time champion at the World IBJJF Jiu-Jitsu Championship in the Heavyweight division. Much is expected of him: “Legendary grappler and coach André Galvão believes his star pupil Kaynan Duarte has the potential to become the greatest jiu-jitsu athlete of all time.” ([Source](https://bjjdoc.com/2024/09/20/andre-galvao-kaynan-duarte-can-be-the-greatest-of-all-time/))",
+      "original_url": "https://www.youtube.com/watch?v=fqf7zPOGH5Y",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=fqf7zPOGH5Y"
+        },
+        {
+          "type": "other",
+          "url": "https://bjjdoc.com/2024/09/20/andre-galvao-kaynan-duarte-can-be-the-greatest-of-all-time/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Coffee table book I’m loving",
+      "category": "book",
+      "title": "Legendary Ski Artist James Niehues: The Man Behind the Maps",
+      "creator": null,
+      "note": "If you’ve ever skied or snowboarded in the US, you’ve probably seen Niehues’ art but never realized it. Here’s the description: “Featuring over 200 ski resort trail maps hand-painted by one legendary artist, this beautiful 292-page hardcover coffee table book is the first and definitive compilation of the art created by James Niehues during his 30-year career.” [Order a signed copy here](https://jamesniehues.com/pages/the-man-behind-the-map?).",
+      "original_url": "https://jamesniehues.com/pages/the-man-behind-the-map",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://jamesniehues.com/pages/the-man-behind-the-map"
+        },
+        {
+          "type": "other",
+          "url": "https://jamesniehues.com/pages/the-man-behind-the-map?"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The New Age author Julia Rogers Hamrick once wrote a book, Choosing Easy World_, in which she argues it’s as simple as repeating a mantra: ‘I choose to live in Easy World, where everything is easy.’ When some daunting challenge barrels into view, just decide that you’re going to experience it as easy instead.” — Oliver Burkeman, Meditations for Mortals (Hat tip to Ali Abdaal.) * * * You can complement this edition of 5-Bullet Friday with my brand-new interview on the podcast: “L.A. Paul — On Becoming a Vampire, Whether or Not to Have Kids, Getting Incredible Mentorship for $250, Transformative Experiences, and More.” And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Oliver Burkeman, Meditations for Mortals",
+      "note": null,
+      "original_url": "https://tim.blog/2025/02/20/for-less-anxiety-and-more-life-treat-your-to-do-list-like-a-diner-menu/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2025/02/20/for-less-anxiety-and-more-life-treat-your-to-do-list-like-a-diner-menu/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Meditations-Mortals-Embrace-Limitations-Counts/dp/0374611998/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/@aliabdaal"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/02/21/l-a-paul-transformative-experiences/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,151 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Just Jammin’",
+      "creator": "Gramatik",
+      "note": "([YouTube](https://www.youtube.com/watch?v=xTA_FexW3qU), [Spotify](https://open.spotify.com/track/53qU2K55RJgfs9F50irpB3)) by [Gramatik](https://www.gramatik.net/) ([@Gramatik](https://twitter.com/Gramatik)).",
+      "original_url": "https://www.youtube.com/watch?v=xTA_FexW3qU",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=xTA_FexW3qU"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=xTA_FexW3qU"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/53qU2K55RJgfs9F50irpB3"
+        },
+        {
+          "type": "other",
+          "url": "https://www.gramatik.net/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/Gramatik"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Documentary I’m watching —",
+      "category": "video",
+      "title": "Struggle: The Life and Lost Art of Szukalski",
+      "creator": null,
+      "note": "This doc is amazing and bizarre on multiple levels. Here’s the description: “Artists in LA discover the work of forgotten Polish sculptor [Stanisław Szukalski](https://en.wikipedia.org/wiki/Stanis%C5%82aw_Szukalski), a mad genius whose true story unfolds chapter by astounding chapter.” The documentary was produced by [Leonardo DiCaprio](https://en.wikipedia.org/wiki/Leonardo_DiCaprio) ([@LeoDiCaprio](https://twitter.com/LeoDiCaprio)) and his father [George DiCaprio](https://en.wikipedia.org/wiki/George_DiCaprio). You can [find the trailer here](https://www.youtube.com/watch?v=sPkoW4cmqT8). Thanks to Snapping Turtle for the recommendation.",
+      "original_url": "https://www.netflix.com/us/title/80109551?s=i&trkid=13747225&vlang=en&clip=81003177",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.netflix.com/us/title/80109551?s=i&trkid=13747225&vlang=en&clip=81003177"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_Szukalski"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Leonardo_DiCaprio"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/LeoDiCaprio"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/George_DiCaprio"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=sPkoW4cmqT8"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Completely ridiculous page I’ve kept in an open tab all week —",
+      "category": "other",
+      "title": "30 Animals That Look Like They’re About to Drop the Hottest Albums of the Year",
+      "creator": null,
+      "note": "For when you simply need a two-minute break from the online doom and gloom…",
+      "original_url": "https://www.boredpanda.com/animals-about-to-drop-album-photos/?utm_source=google&utm_medium=organic&utm_campaign=organic",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.boredpanda.com/animals-about-to-drop-album-photos/?utm_source=google&utm_medium=organic&utm_campaign=organic"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Information for People Seeking Training in Psychedelic-Assisted Therapy",
+      "creator": null,
+      "note": "from the [Multidisciplinary Association for Psychedelic Studies](https://maps.org/) ([@MAPS](https://twitter.com/maps)). If you’ve wondered how you might become a therapist or facilitator who works with patients using psychedelic compounds, this is a good overview of current training options.",
+      "original_url": "https://maps.org/news/posts/9583-information-for-people-seeking-training-in-psychedelic-assisted-therapy",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://maps.org/news/posts/9583-information-for-people-seeking-training-in-psychedelic-assisted-therapy"
+        },
+        {
+          "type": "other",
+          "url": "https://maps.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/maps"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Reading after a certain age diverts the mind too much from its creative pursuits. Any man who reads too much and uses his own brain too little falls into lazy habits of thinking, just as the man who spends too much time in the theater is tempted to be content with living vicariously instead of living his own life.” — Albert Einstein And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim [](https://tim.blog/2020/12/08/jerry-seinfeld/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf-footer-jerry) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Albert Einstein And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Albert_Einstein",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Albert_Einstein"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/hAHoQ5faPwYaTb1HKvQEBZ?w=800&fit=max"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/10x-output/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=template"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/n4u05gdnnavh7lr7kfv"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=template"
+        }
+      ]
+    }
+  ]
 }

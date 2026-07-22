@@ -6,7 +6,167 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Tu Rumba",
+      "creator": "iLe",
+      "note": "([YouTube](https://youtu.be/RTzL-G2kIA8?si=hDhUhq0Xs3ZE-h2G), [Apple Music](https://music.apple.com/us/song/tu-rumba/1462375560), [Spotify](https://open.spotify.com/track/4iY6Xv5g3SbauDZmCf2kr4)) by [iLe](https://www.instagram.com/cabralu/). The [music video](https://youtu.be/RTzL-G2kIA8?si=hDhUhq0Xs3ZE-h2G) is also hypnotic.",
+      "original_url": "https://music.youtube.com/watch?si=8NcNwCpX9tIXLY3o&v=aVNNRZegodM",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://music.youtube.com/watch?si=8NcNwCpX9tIXLY3o&v=aVNNRZegodM"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/RTzL-G2kIA8?si=hDhUhq0Xs3ZE-h2G"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/us/song/tu-rumba/1462375560"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/4iY6Xv5g3SbauDZmCf2kr4"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/cabralu/"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/RTzL-G2kIA8?si=hDhUhq0Xs3ZE-h2G"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Turn Every Page: The Adventures of Robert Caro and Robert Gottlieb",
+      "creator": null,
+      "note": "This is the amazing story of an iconic writer and his equally iconic (but more hilarious) editor. How do two stubborn geniuses collaborate—and productively fight—over decades? This is how. Description: “_Turn Every Page_ explores the remarkable fifty-year relationship between two literary legends, writer Robert Caro and his longtime editor Robert Gottlieb. Now 86, Caro is working to complete the final volume of his masterwork, [_The Years of Lyndon Johnson_](https://en.wikipedia.org/wiki/The_Years_of_Lyndon_Johnson); Gottlieb, 91, waits to edit it. The task of finishing their life’s work looms before them.” Watch the trailer [here](https://youtu.be/gv3CRojrbeE?si=Xorq7VVRMw_mET9j). Huge thanks to [Brandon Stanton](https://tim.blog/2018/06/18/brandon-stanton-humans-of-new-york/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) of [Humans of New York](https://www.humansofnewyork.com/) for the great recommendation! This doc also covers the genesis and process story of _The Power Broker_, the masterpiece that put Caro on the literary map.",
+      "original_url": "https://www.amazon.com/Turn-Every-Page-Adventures-Gottlieb/dp/B0B751615P",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Turn-Every-Page-Adventures-Gottlieb/dp/B0B751615P"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/The_Years_of_Lyndon_Johnson"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/gv3CRojrbeE?si=Xorq7VVRMw_mET9j"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/06/18/brandon-stanton-humans-of-new-york/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.humansofnewyork.com/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Artist I’m studying",
+      "category": "other",
+      "title": "Tamara de Lempicka",
+      "creator": null,
+      "note": "I randomly found this artist’s work on the streets of NYC, and it propelled me down a rabbit hole. Her life story and art work are one-of-a-kind. Here’s a gem from [Britannica](https://www.britannica.com/biography/Tamara-de-Lempicka): “By her own account, de Lempicka sought to make a living from her art as a result of her husband’s reluctance to work.” I suppose necessity is the mother of invention! If you only have 30 seconds, [watch this video](https://youtu.be/ewFzrfamPGs). See more of her works [here](https://www.famsf.org/stories/5-things-to-know-art-deco-tamara-de-lempicka), [here](https://polandsite.proboards.com/thread/6116/tamara-empicka-art-deco), and [here](https://www.sothebys.com/en/digital-catalogues/the-world-of-tamara-a-celebration-of-lempicka-art-deco).",
+      "original_url": "https://en.m.wikipedia.org/wiki/Tamara_de_Lempicka",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.m.wikipedia.org/wiki/Tamara_de_Lempicka"
+        },
+        {
+          "type": "other",
+          "url": "https://www.britannica.com/biography/Tamara-de-Lempicka"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/ewFzrfamPGs"
+        },
+        {
+          "type": "other",
+          "url": "https://www.famsf.org/stories/5-things-to-know-art-deco-tamara-de-lempicka"
+        },
+        {
+          "type": "other",
+          "url": "https://polandsite.proboards.com/thread/6116/tamara-empicka-art-deco"
+        },
+        {
+          "type": "other",
+          "url": "https://www.sothebys.com/en/digital-catalogues/the-world-of-tamara-a-celebration-of-lempicka-art-deco"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Phrase I’m enjoying",
+      "category": "other",
+      "title": "Solvitur ambulando",
+      "creator": null,
+      "note": "From Wikipedia: “Solvitur ambulando is a Latin phrase which means ‘it is solved by walking,’ referring to an anecdotal, practical solution to a seemingly complex philosophical problem. It is often attributed to Saint Augustine in a refutation of Zeno’s paradoxes of motion.”",
+      "original_url": "https://en.wikipedia.org/wiki/Solvitur_ambulando",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Solvitur_ambulando"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Being powerful is like being a lady. If you have to tell people you are, you aren’t.” ― Jesse Carr, often attributed to Margaret Thatcher (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my interview with bestselling author and historian Doris Kearns Goodwin, my walk-and-talk episode with author of Essentialism Greg McKeown, and my latest podcast episode with master mentalist and magician Derren Brown. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": null,
+      "note": null,
+      "original_url": "https://www.latimes.com/archives/la-xpm-1985-01-05-mn-11493-story.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.latimes.com/archives/la-xpm-1985-01-05-mn-11493-story.html"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Margaret_Thatcher"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Frida_Kahlo"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/94GoZ"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/09/07/doris-kearns-goodwin-leadership/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/01/31/greg-mckeown-purpose-essentialism/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/11/07/derren-brown/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

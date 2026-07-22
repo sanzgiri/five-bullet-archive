@@ -6,7 +6,112 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Documentary I’m revisiting —",
+      "category": "video",
+      "title": "Project Nim",
+      "creator": null,
+      "note": "From the official description: “From the Oscar-winning team behind [Man on Wire](https://el2.fourhourmail.com/c/92unw45ooanh39ore/opfkhq/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9kcC9CMDAxTkVJOTZP) comes the story of Nim, the chimpanzee who became the focus of a landmark 1970s experiment to show that an ape could learn to communicate with language if raised and nurtured like a human child. But as Nim's natural instincts take over and the humans trusted with his well-being fail to protect him, Project Nim uncovers the unflinching and extraordinary journey of one animal thrust into human society.”",
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanh39ore/78i7h8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Qcm9qZWN0LU5pbS9kcC9CMDA2V1dHMEFPLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanh39ore/78i7h8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Qcm9qZWN0LU5pbS9kcC9CMDA2V1dHMEFPLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanh39ore/opfkhq/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9kcC9CMDAxTkVJOTZP"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Simple tech gadget I’m using —",
+      "category": "other",
+      "title": "The STEAGLE webcam cover",
+      "creator": null,
+      "note": ", found via [Kevin Rose](https://el2.fourhourmail.com/c/92unw45ooanh39ore/pnceh9/aHR0cHM6Ly90d2l0dGVyLmNvbS9rZXZpbnJvc2U=) and [Richard Reis](https://el2.fourhourmail.com/c/92unw45ooanh39ore/xksph6/aHR0cHM6Ly9tZWRpdW0uZnJlZWNvZGVjYW1wLm9yZy9ob3ctdG8tdGhpbmstbGlrZS1hLXByb2dyYW1tZXItbGVzc29ucy1pbi1wcm9ibGVtLXNvbHZpbmctZDFkOGJmMWRlN2Qy). Long ago, my friend and expert hacker [Samy Kamkar](https://el2.fourhourmail.com/c/92unw45ooanh39ore/60aeh8/aHR0cHM6Ly93d3cueW91dHViZS5jb20vdXNlci9zNG15aw==) explained how easy it was for him to hijack and “own” a laptop camera for remote recording. I immediately started using Sticky notes, tape, and other makeshift means for covering my camera when not in use. This STEAGLE cover offers a much sturdier and more elegant solution. If you do anything in front of your laptop that you might not want recorded (likely), I suggest practicing safe Internet and wrapping it up. This is one option.",
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanh39ore/zvtghn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TVEVBR0xFLU9SSUdJTkFMLUxhcHRvcC1XZWJjYW0tcHJpdmFjeS9kcC9CMDE4VEdCMUZZLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanh39ore/zvtghn/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TVEVBR0xFLU9SSUdJTkFMLUxhcHRvcC1XZWJjYW0tcHJpdmFjeS9kcC9CMDE4VEdCMUZZLw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanh39ore/pnceh9/aHR0cHM6Ly90d2l0dGVyLmNvbS9rZXZpbnJvc2U="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanh39ore/xksph6/aHR0cHM6Ly9tZWRpdW0uZnJlZWNvZGVjYW1wLm9yZy9ob3ctdG8tdGhpbmstbGlrZS1hLXByb2dyYW1tZXItbGVzc29ucy1pbi1wcm9ibGVtLXNvbHZpbmctZDFkOGJmMWRlN2Qy"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanh39ore/60aeh8/aHR0cHM6Ly93d3cueW91dHViZS5jb20vdXNlci9zNG15aw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Location I’m considering traveling to —",
+      "category": "other",
+      "title": "Outside magazine nominated",
+      "creator": null,
+      "note": "Bozeman as one of the best towns for skiing, and I couldn’t resist plucking this part from their description of the city: “Cradled by 10,000-foot peaks, hyaline streams, and ragged wilderness, the fastest-growing town in the state has a bustling college campus and brains to match: Residents may wear cowboy hats, but the Ph.D. rate is twice the national average. Free live music in city parks during summer and community sporting events like the spectacular 20-mile Bridger Ridge Run keep the blood flowing.” I’m considering doing a live podcast there just as an excuse to explore.",
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanh39ore/kmbmh6/aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTEwMTE0MDAxNDQ1L2h0dHA6Ly9vdXRzaWRlb25saW5lLmNvbS90cmF2ZWwvdHJhdmVsLXRhLWJvemVtYW4tY3Jvc3MtY291bnRyeS1za2lpbmctYmFja2NvdW50cnktc2tpaW5nLWFuZC1yaWRpbmctc2tpaW5nLXNpZHdjbWRldl8xNTA3MzYuaHRtbA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanh39ore/kmbmh6/aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTEwMTE0MDAxNDQ1L2h0dHA6Ly9vdXRzaWRlb25saW5lLmNvbS90cmF2ZWwvdHJhdmVsLXRhLWJvemVtYW4tY3Jvc3MtY291bnRyeS1za2lpbmctYmFja2NvdW50cnktc2tpaW5nLWFuZC1yaWRpbmctc2tpaW5nLXNpZHdjbWRldl8xNTA3MzYuaHRtbA=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "A Long Walk (A Touch Of Jazz Mix) by Jazzanova",
+      "creator": "Jazzanova]",
+      "note": "fourhourmail.com/c/92unw45ooanh39ore/52hvh7/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1QRkQ2Z1FfUXd2dw==).** This remains one of my go-to tracks for relaxing.\n\n**Quote I’m pondering —  \n“When we try to pick out anything by itself, we find it hitched to everything else in the universe.”  \n**— [John Muir](https://el2.fourhourmail.com/c/92unw45ooanh39ore/2ou2ho/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSm9obl9NdWly)\n\n[](https://el2.fourhourmail.com/c/92unw45ooanh39ore/q3i8h7/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSm9obl9NdWly)And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just [send a tweet to @tferriss](https://el2.fourhourmail.com/c/92unw45ooanh39ore/gvfnh5/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw==) and put #5BulletFriday at the end so I can find it.  \n\nHave a wonderful weekend, all!\n\nTim\n\n[![](https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg)](https://el2.fourhourmail.com/c/92unw45ooanh39ore/93tzhn/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=)  \n\nFORWARDED THIS MESSAGE? [SIGN UP](https://el2.fourhourmail.com/c/92unw45ooanh39ore/3wcphk/aHR0cDovL2dvLmZvdXJob3Vyd29ya3dlZWsuY29tLzEweC1vdXRwdXQv).\n\n![Tim Ferriss Photo](http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg)\n\nJoin millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff.\n\nDUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just [click here](https://el2.fourhourmail.com/u/92unw45ooanh39ore). To reply to Tim, please do so in the blog comments [here](https://el2.fourhourmail.com/c/92unw45ooanh39ore/43avhe/aHR0cDovL2ZvdXJob3Vyd29ya3dlZWsuY29tL2Jsb2c=).\n\n3112 Windsor Rd., Box #508, Austin TX 78703, United States\n\n \n\n![](https://el2.fourhourmail.com/o/92unw45ooanh39ore)",
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanh39ore/52hvh7/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1QRkQ2Z1FfUXd2dw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanh39ore/52hvh7/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1QRkQ2Z1FfUXd2dw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanh39ore/2ou2ho/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSm9obl9NdWly"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanh39ore/gvfnh5/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanh39ore/3wcphk/aHR0cDovL2dvLmZvdXJob3Vyd29ya3dlZWsuY29tLzEweC1vdXRwdXQv"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/92unw45ooanh39ore"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanh39ore/43avhe/aHR0cDovL2ZvdXJob3Vyd29ya3dlZWsuY29tL2Jsb2c="
+        }
+      ]
+    }
+  ]
 }

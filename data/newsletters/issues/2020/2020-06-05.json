@@ -1,13 +1,102 @@
 {
   "schema_version": 1,
   "issue_date": "2020-06-05",
-  "subject": "5-Bullet Friday — June 5, 2020 ",
+  "subject": "5-Bullet Friday — June 5, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching (shorter) —",
+      "category": "video",
+      "title": "Hakuho Shō “The Best Sumo of All Time” HD Yokozuna Highlights",
+      "creator": null,
+      "note": "and [**Chiyonofuji Mitsugu (千代の富士 貢) 53-match win streak**](https://el2.fourhourmail.com/c/qdurox544u7hn32vgc6/ogakhqh85me40o/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj15T2ZNdHlHU2hQQQ==)**.** I lived in Japan as an exchange student between 1992 and 1993. It was in Tokyo that I became obsessed with the ancient art and sport of sumo wrestling. [Can you spot Waldo here?](https://el2.fourhourmail.com/c/qdurox544u7hn32vgc6/pqbeh9h78we9p8/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0J0T2NsR3JBZ2xxLw==) These two highlight videos show very different styles at the highest levels. Chiyonofuji, nicknamed “The Wolf,” was light for a competitor and suffered dual shoulder dislocations early in his career. He rebuilt himself with astonishing muscularity and changed his strategies and techniques to become the “eternal Fuji” incarnate. Hakuho comes from a Mongolian wrestling tradition and does things I’ve never seen in 20+ years of watching sumo.",
+      "original_url": "https://el2.fourhourmail.com/c/qdurox544u7hn32vgc6/e3sph7hn53zkdq/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1yY1Q1QXRGYTY3aw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7hn32vgc6/e3sph7hn53zkdq/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1yY1Q1QXRGYTY3aw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7hn32vgc6/ogakhqh85me40o/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj15T2ZNdHlHU2hQQQ=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7hn32vgc6/pqbeh9h78we9p8/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0J0T2NsR3JBZ2xxLw=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching (longer) —",
+      "category": "video",
+      "title": "Joseph Campbell and the Power of Myth with Bill Moyers",
+      "creator": null,
+      "note": "This six-part series of one-hour episodes is simply incredible, and I found it oddly and profoundly calming. Description: “Forty years ago, renowned scholar Joseph Campbell sat down with veteran journalist Bill Moyers for a series of interviews that became one of the most enduringly popular programs ever on PBS. In dialogues that adroitly span millennia of history and far-flung geography, the two men discuss myths as metaphors for human experience and the path to transcendence.” Highly recommended.",
+      "original_url": "https://el2.fourhourmail.com/c/qdurox544u7hn32vgc6/62heh8h2084p3x/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UaGUtSGVyb3MtQWR2ZW50dXJlL2RwL0IwN0JDMlZISEov",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7hn32vgc6/62heh8h2084p3x/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UaGUtSGVyb3MtQWR2ZW50dXJlL2RwL0IwN0JDMlZISEov"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "YouTube",
+      "creator": null,
+      "note": ", [Spotify](https://el2.fourhourmail.com/c/qdurox544u7hn32vgc6/q3i8h7h6qm38lw/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3RyYWNrLzJFbmUyS3Ryb0hNd3lJNG94d0VibDk_YXV0b3BsYXk9dHJ1ZSZ2PVQ=)) by Axel Thesleff ([@axelthesleff](https://el2.fourhourmail.com/c/qdurox544u7hn32vgc6/9dfzhnh2nv8ger/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9heGVsdGhlc2xlZmYv)). For those who like instrumentals and behind-the-scenes video, [here’s a cool clip](https://el2.fourhourmail.com/c/qdurox544u7hn32vgc6/nxtohvhoe94nlp/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1lbFc3bnAtTU1qNA==) of the beginning of this track.",
+      "original_url": "https://el2.fourhourmail.com/c/qdurox544u7hn32vgc6/5xuvh7h9ldw54q/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1KT29Lb1kwdEl3MA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7hn32vgc6/5xuvh7h9ldw54q/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1KT29Lb1kwdEl3MA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7hn32vgc6/q3i8h7h6qm38lw/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3RyYWNrLzJFbmUyS3Ryb0hNd3lJNG94d0VibDk_YXV0b3BsYXk9dHJ1ZSZ2PVQ="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7hn32vgc6/9dfzhnh2nv8ger/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9heGVsdGhlc2xlZmYv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7hn32vgc6/nxtohvhoe94nlp/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1lbFc3bnAtTU1qNA=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“You think your pain and your heartbreak are unprecedented in the history of the world, but then you read. It was books that taught me that the things that tormented me most were the very things that connected me with all the people who were alive, or who had ever been alive.” ― James Baldwin (For many more quotes from James, click here.) Much love to you and yours, and please be safe out there. Each of us is our brothers’ and sisters’ keeper. Have a wonderful weekend, everyone. We are in this together. Tim",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/qdurox544u7hn32vgc6/6wceh8h2084p37/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSmFtZXNfQmFsZHdpbg==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7hn32vgc6/6wceh8h2084p37/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSmFtZXNfQmFsZHdpbg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7hn32vgc6/03swh9h7q64mp3/aHR0cHM6Ly9lbi53aWtpcXVvdGUub3JnL3dpa2kvSmFtZXNfQmFsZHdpbg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/qdurox544u7hn32vgc6/vda3hrhk896nqw/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0NBX1RpbTZueXUwLw=="
+        }
+      ]
+    }
+  ]
 }

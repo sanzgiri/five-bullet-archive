@@ -6,7 +6,155 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short movie I’m watching",
+      "category": "video",
+      "title": "An Irish Goodbye",
+      "creator": null,
+      "note": "([Vimeo](https://vimeo.com/ondemand/anirishgoodbye), [YouTube](https://www.youtube.com/watch?v=dlXZHB-FrEk), [HBO Max](https://www.hbomax.com/sk/en/feature/urn:hbo:feature:GZJF5jwTZSad9XQEAAA3K)). This is one of the funniest and most poignant short films I’ve ever seen. I found this BAFTA and Academy Award winner via ChatGPT. Here is the official description: “On a farm in rural Northern Ireland, estranged brothers Turlough ([Seamus O’Hara](https://www.imdb.com/name/nm5339108/)) and Lorcan ([James Martin](https://www.imdb.com/name/nm10203835/)) are forced to reunite following the untimely death of their mother ([Michelle Fairley](https://en.wikipedia.org/wiki/Michelle_Fairley)). But when the pair discover an unfulfilled bucket list belonging to their late mum, their pained reunion takes an altogether different course.” At the very least, watch the [trailer](https://www.youtube.com/watch?v=T0YVueR5ho0). It’s not as heavy as it sounds, but it does pack a lot of greatness into roughly 20 minutes.",
+      "original_url": "https://vimeo.com/ondemand/anirishgoodbye",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://vimeo.com/ondemand/anirishgoodbye"
+        },
+        {
+          "type": "other",
+          "url": "https://vimeo.com/ondemand/anirishgoodbye"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=dlXZHB-FrEk"
+        },
+        {
+          "type": "other",
+          "url": "https://www.hbomax.com/sk/en/feature/urn:hbo:feature:GZJF5jwTZSad9XQEAAA3K"
+        },
+        {
+          "type": "other",
+          "url": "https://www.imdb.com/name/nm5339108/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.imdb.com/name/nm10203835/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Michelle_Fairley"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=T0YVueR5ho0"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Questions I’m exploring",
+      "category": "other",
+      "title": "Extreme brainstorming questions to trigger new, better ideas",
+      "creator": "Jason Cohen",
+      "note": ". “The following prompts jostle you out of tiny thinking. Each stretches some dimension of reality to an extreme. So extreme that it is nearly nonsense.”",
+      "original_url": "https://longform.asmartbear.com/extreme-questions/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://longform.asmartbear.com/extreme-questions/"
+        },
+        {
+          "type": "other",
+          "url": "https://longform.asmartbear.com/jason-cohen/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Kettle I’m using",
+      "category": "other",
+      "title": "Corvo EKG Electric Kettle from Fellow",
+      "creator": null,
+      "note": "I’ve tried a lot of electric kettles for tea and coffee over the decades, and this is my favorite. From the description: “The electric kettle that does it all, precision engineered to meet all your hot water needs. Exact temperature control, 1200 watts for a quick heat time, and a world of features for ultimate control.” Big thanks to Blake from [LMNT](http://drinklmnt.com/tim) for the gift!  \n​  \nFrom NYT’s _Wirecutter_: “If you like a modern aesthetic, and you don’t mind paying more for smaller capacity: The Fellow Corvo EKG Electric Kettle is attractive, and it performed very well, but it’s incredibly small. Due to its 0.9-liter capacity, you’re hardly getting two full cups of tea. The variable-temperature control was very accurate, the settings were intuitive, and the base was nice. … If you’re regularly making single servings, and you’re drawn to the Corvo’s good looks, you likely won’t be disappointed in its performance.”",
+      "original_url": "https://fellowproducts.com/products/corvo-ekg",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://fellowproducts.com/products/corvo-ekg"
+        },
+        {
+          "type": "other",
+          "url": "http://drinklmnt.com/tim"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Book I’m reading",
+      "category": "book",
+      "title": "Wine & Prayer: Eighty Ghazals from the Divan of Hafiz",
+      "creator": null,
+      "note": "Hat tip to [Professor Omid Safi](https://scholars.duke.edu/person/omid.safi) ([@ostadjaan](https://twitter.com/ostadjaan)) for the recommendation. From the description: “_Wine & Prayer_ is a new edition of Elizabeth Gray’s 1995 work _The Green Sea of Heaven_. In this new volume, Gray has joined with Iraj Anvar, a scholar of Sufism and Persian poetry, expanding the book from fifty to eighty translations of Hafiz’s brilliant ghazals. This work brings to each reader Hafiz’s poetic genius, expressing his passion for the Divine Beloved and his scandalous (to the Muslim clergy of his day) exaltation of music and wine as vehicles of transcendence and ecstasy. _Wine & Prayer_ presents the ghazals of Hafiz in English translations that capture the subtleties, paradoxes, and spiritual depths of the poet hailed by Persians as ‘the Tongue of the Invisible’ and the ‘Interpreter of Mysteries.’”",
+      "original_url": "https://www.amazon.com/gp/product/1940468779/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/gp/product/1940468779/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1"
+        },
+        {
+          "type": "other",
+          "url": "https://scholars.duke.edu/person/omid.safi"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/ostadjaan"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Who can say if the thoughts you have in your mind as you read these words are the same thoughts I had in my mind as I typed them? We are different, you and I, and the qualia of our consciousnesses are as divergent as two stars at the ends of the universe. And yet, whatever has been lost in translation in the long journey of my thoughts through the maze of civilization to your mind, I think you do understand me, and you think you do understand me. Our minds managed to touch, if but briefly and imperfectly. Does the thought not make the universe seem just a bit kinder, a bit brighter, a bit warmer and more human? We live for such miracles.” — Ken Liu, “The Paper Menagerie,” the first work of fiction to sweep the Nebula, Hugo, and World Fantasy Awards. Deep bow to repeat podcast guest Matt Mullenweg for gifting me Ken’s book years ago. * * * You can complement this edition of 5-Bullet Friday with episodes #2 and #3 (Rally Racing and Language Learning) from my TV series The Tim Ferriss Experiment (think MythBusters meets Jason Bourne and get ready for a wild ride) and “17 Questions That Changed My Life.” And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Don’t miss the P.S. below… Much love to you and yours, Tim",
+      "creator": "Ken Liu, “The Paper Menagerie,” the first work of fiction to sweep the Nebula, Hugo, and World Fantasy Awards. Deep bow to repeat podcast guest Matt Mullenweg for gifting me Ken’s book years ago. * * * You can complement this edition of 5-Bullet Friday with episodes #2 and #3",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Ken_Liu",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Ken_Liu"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Paper-Menagerie-Other-Stories/dp/148142436X/"
+        },
+        {
+          "type": "other",
+          "url": "https://ma.tt/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Paper-Menagerie-Other-Stories/dp/148142436X/"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/XFmrUQsnv78?si=N0f7IMArxyXZZ5L7"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/QkTmAyO_qfE?si=Hcwxu2Bi2MTUGixF"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2016/12/07/testing-the-impossible-17-questions-that-changed-my-life/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

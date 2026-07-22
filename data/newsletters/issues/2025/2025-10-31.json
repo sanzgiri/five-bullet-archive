@@ -7,7 +7,170 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Everything Is Television",
+      "creator": "Derek Thompson",
+      "note": ". This is a superb piece. If you are online, you should read it. If you create online, you should read it twice. If you’re in a rush, just read the Meta anti-monopoly comments and look at the graphs. Derek’s observations and citations largely explain my deliberate down-scaling of video over the last few years, in addition to concerns around [audience capture](https://www.gurwinder.blog/p/the-perils-of-audience-capture) and privacy. Last, it’s always bothered me when techno-optimists insist AI will make the masses all a leisure class with more time than ever before for learning, knitting, or whatever. Putting aside the fact that most of them are big investors in AI, nothing has ever delivered on that promise and prediction (cue: Industrial Revolution). This piece makes a compelling case that AI will make time feel scarcer, not more abundant. In a future 5BF or blog post, I might describe how I’m setting up personal safeguards against this.",
+      "original_url": "https://www.derekthompson.org/p/why-everything-became-television",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.derekthompson.org/p/why-everything-became-television"
+        },
+        {
+          "type": "other",
+          "url": "https://www.derekthompson.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.gurwinder.blog/p/the-perils-of-audience-capture"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Gadget I’m using",
+      "category": "other",
+      "title": "Glass and Metal AeroPress",
+      "creator": null,
+      "note": "I [wrote a lot](https://x.com/tferriss/status/1592547686049251328) about the amazing AeroPress in [_The 4-Hour Chef_](https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/), but I always had reservations about putting hot water into a plastic container. I’ve increasingly tried to avoid plastics, especially in combination with heat (see this [Dr. Rhonda Patrick](https://tim.blog/2025/07/24/dr-rhonda-patrick/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit) podcast for more). This new and premium version of the AeroPress avoids the plastic problem altogether. If you want to go the extra mile, pair it with their [reusable titanium-coated stainless steel filter](https://aeropress.com/products/aeropress-gold-tone-filter-standard). It ain’t cheap, but if you’re a coffee snob, it might be worth the ride.",
+      "original_url": "https://aeropress.com/products/aeropress-coffee-maker-premium?srsltid=AfmBOor5JU0SV8Edsr2iUpdhv4fGt0sM3wJuuSuwNupLHauJA-jq3w6z&variant=47776291684595",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://aeropress.com/products/aeropress-coffee-maker-premium?srsltid=AfmBOor5JU0SV8Edsr2iUpdhv4fGt0sM3wJuuSuwNupLHauJA-jq3w6z&variant=47776291684595"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/tferriss/status/1592547686049251328"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/07/24/dr-rhonda-patrick/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://aeropress.com/products/aeropress-gold-tone-filter-standard"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Documentary I’m watching",
+      "category": "video",
+      "title": "John Candy: I Like Me",
+      "creator": null,
+      "note": "As someone whose childhood was saturated with love for John Candy, this doc hit the mark. The first ~15 minutes start slow, and then it quickly ramps up. From the description: “From director Colin Hanks and producer Ryan Reynolds comes _John Candy: I Like Me_. Those who knew John best \\[e.g., Bill Murray, Dan Aykroyd, Catherine O’Hara\\] share his story, in their own words, through never-before-seen archival footage, imagery, and interviews. It’s a documentary of the life, career, and loss of one of the most beloved actors of all time.” You can watch the trailer [here](https://www.youtube.com/watch?v=PrcQRsrBcCk).",
+      "original_url": "https://www.amazon.com/John-Candy-I-Like-Me/dp/B0FMCSQMPV/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/John-Candy-I-Like-Me/dp/B0FMCSQMPV/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=PrcQRsrBcCk"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Halloween giveaway I’m excited about",
+      "category": "other",
+      "title": "Coyote",
+      "creator": null,
+      "note": "! This giveaway is limited to parents. Just bring your kid or kids—at least one age 9 and older—to Dragon’s Lair today or over the weekend and ask for Coyote. Costumes are not required but encouraged :) Limited to one game per family while supplies last, and please tag me on Instagram ([@timferriss](https://www.instagram.com/timferriss/?hl=en)) with a fun photo if you end up getting one. First come, first served. Enjoy!**​  \n​  \nLocation:** [**Dragon’s Lair**](https://www.dlair.net/austin/) is an institution in Austin (35+ years in the business) and offers the best in tabletop gaming, comics, board games, RPGs, CCGs, miniatures, and more. The address is 2438 W. Anderson Ln., Ste. B1, Austin, TX 78757.",
+      "original_url": "https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Exploding-Kittens-Ferriss-Present-Minutes/dp/B0FBT88VRJ/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/timferriss/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.dlair.net/austin/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Book highlight I’m pondering",
+      "category": "book",
+      "title": "What Got You Here Won't Get You There",
+      "creator": "Marshall Goldsmith",
+      "note": "​  \n(Also see: [360-degree feedback](https://en.wikipedia.org/wiki/360-degree_feedback))",
+      "original_url": "https://www.amazon.com/What-Got-Here-Wont-There/dp/1401301304/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/What-Got-Here-Wont-There/dp/1401301304/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.marshallgoldsmith.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/360-degree_feedback"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Propaganda seeks to destroy art in order to sanitize culture.” — Mary Karr in The Art of Memoir _(Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my “4-Minute Cup of Coffee” clip from The Tonight Show Starring Jimmy Fallon_, the top coffee gear from The 4-Hour Chef_, and this morning tea video, for those of you who might prefer a coffee alternative. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Mary Karr in The Art of Memoir _",
+      "note": null,
+      "original_url": "https://tim.blog/2020/11/11/mary-karr/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2020/11/11/mary-karr/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Art-Memoir-Mary-Karr/dp/0062223070/"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/0e34e"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/hnavN3yfLoE?si=vFJhZL5MS7r-kJNb"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/the-4-hour-chef-coffee-top-gear/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/1328519163/"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/wIVD3-SRdvQ?si=x-lq798Q7CkYbAb5"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

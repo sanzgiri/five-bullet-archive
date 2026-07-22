@@ -6,7 +6,163 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "New blog post I’m excited to share",
+      "category": "article",
+      "title": "Revisiting Warren Buffett’s Advice to Me in 2008 (Plus: 7 Lessons for Young Investors)",
+      "creator": null,
+      "note": "](http://tim.blog/2023/03/03/revisiting-warren-buffett-lessons-for-investors/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)**”** An old video recently [resurfaced on social media](https://twitter.com/compound248/status/1626937279502594048). It’s yours truly asking Warren Buffett and Charlie Munger a question at the 2008 Berkshire Hathaway Shareholders Meeting. I was intensely nervous, and the audio makes that clear. This clip went viral, and a number of media outlets ([_Wall Street Journal_](https://www.wsj.com/articles/warren-buffett-will-get-the-last-laugh-on-upstart-wannabes-6d613309), [_Business Insider_](https://markets.businessinsider.com/news/stocks/tim-ferriss-show-podcast-buffett-munger-investing-stocks-index-fund-2023-2)_,_ etc.) reached out to me for comment, asking me questions like “What advice would you give a 30-year-old now who’d just amassed their first million?” I decided to take a few of my longer answers that didn’t make it into the pieces and write [a blog post](http://tim.blog/2023/03/03/revisiting-warren-buffett-lessons-for-investors/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) with more context.",
+      "original_url": "http://tim.blog/2023/03/03/revisiting-warren-buffett-lessons-for-investors/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://tim.blog/2023/03/03/revisiting-warren-buffett-lessons-for-investors/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/compound248/status/1626937279502594048"
+        },
+        {
+          "type": "other",
+          "url": "https://www.wsj.com/articles/warren-buffett-will-get-the-last-laugh-on-upstart-wannabes-6d613309"
+        },
+        {
+          "type": "other",
+          "url": "https://markets.businessinsider.com/news/stocks/tim-ferriss-show-podcast-buffett-munger-investing-stocks-index-fund-2023-2"
+        },
+        {
+          "type": "other",
+          "url": "http://tim.blog/2023/03/03/revisiting-warren-buffett-lessons-for-investors/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "What Happens When the Army Needs 36,000 Kettlebells, Fast: This is the remarkable true story of the largest order of fitness equipment ever placed.",
+      "creator": null,
+      "note": "Via [Alisa Cohn](https://tim.blog/2021/10/19/alisa-cohn/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@AlisaCohn](https://twitter.com/AlisaCohn)), and kudos to Sorinex ([@Sorinex](https://mobile.twitter.com/Sorinex)) for threading many needles.",
+      "original_url": "https://www.menshealth.com/fitness/a38461772/army-36000-kettlebells-combat-fitness-test/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.menshealth.com/fitness/a38461772/army-36000-kettlebells-combat-fitness-test/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/10/19/alisa-cohn/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/AlisaCohn"
+        },
+        {
+          "type": "other",
+          "url": "https://mobile.twitter.com/Sorinex"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m revisiting on YouTube (free)",
+      "category": "other",
+      "title": "HUMAN Extended Version, Volume 1",
+      "creator": null,
+      "note": "Sincere thanks to subscriber [Dave Thackeray](https://twitter.com/DaveThackeray) for originally [recommending this film on Twitter](https://twitter.com/DaveThackeray/status/1185284571820113920). It is beautiful, jolting, heart-melting, and brutal... all at once. The footage and stories blend into a powerful visual journey that evoked nearly every imaginable emotion in me. Here’s part of the description: “What is it that makes us human? Is it that we love, that we fight? That we laugh? Cry? Our curiosity? The quest for discovery? Driven by these questions, filmmaker and artist [Yann Arthus-Bertrand](https://en.wikipedia.org/wiki/Yann_Arthus-Bertrand) ([@yannarthusbertrand](https://www.instagram.com/yannarthusbertrand/)) spent three years collecting real-life stories from 2,000 women and men in 60 countries. Working with a dedicated team of translators, journalists, and cameramen, Yann captures deeply personal and emotional accounts of topics that unite us all.” For more from project HUMAN, [check out their YouTube channel](https://www.youtube.com/user/HUMANthemovie2015/videos).",
+      "original_url": "https://www.youtube.com/watch?v=vdb4XGVTHkE",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=vdb4XGVTHkE"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/DaveThackeray"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/DaveThackeray/status/1185284571820113920"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Yann_Arthus-Bertrand"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/yannarthusbertrand/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/user/HUMANthemovie2015/videos"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Album that I’m listening to",
+      "category": "music",
+      "title": "Alan Watts and Superposition — Listen, Dream",
+      "creator": null,
+      "note": "For me, Alan Watts can be hit or miss, but this is definitely a hit. Coupled with the ambient music, I find this meditation perfect for grounding myself when I’m making coffee in the morning. Here’s a shortened description of the project: “Superposition is an immersion into the inner universe, a meditative antidote to a world of digital overwhelm. Created by [Justin Boreta](https://tim.blog/2015/02/23/glitch-mob/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@boreta](https://twitter.com/boreta)) and [Matthew Davis](http://namethemachine.com/about/) ([@davisville](https://www.instagram.com/davisville/)), this ambient project and record label emerged from the shared search for serenity by two curious artists.”",
+      "original_url": "https://superposition.lnk.to/Listen-Dream",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://superposition.lnk.to/Listen-Dream"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/02/23/glitch-mob/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/boreta"
+        },
+        {
+          "type": "other",
+          "url": "http://namethemachine.com/about/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/davisville/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Fanaticism consists in redoubling your efforts when you have forgotten your aim.” — George Santayana (Click here to share on Twitter) * * * You can complement this edition of 5-Bullet Friday with this YouTube clip on kettlebell swings and my short letter to a friend who wants to get in shape, which emphasizes kettlebells as one of the main tools. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "George Santayana",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/George_Santayana",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/George_Santayana"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/05VrH"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=pbNCC-BMNKg"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/01/19/2021-reboot-letter-to-a-friend-who-wants-to-get-in-shape/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

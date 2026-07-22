@@ -6,7 +6,151 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Olympic Basketball & The Grateful Dead",
+      "creator": null,
+      "note": "The opener: “In 1992, the iconic Grateful Dead music band helped sponsor Lithuania’s national basketball team, a talented but financially-strapped squad that went on to win bronze at the Barcelona Olympics. Their story was a magical tale of tie-dyes, basketball glory, and the birth of a new nation.”",
+      "original_url": "https://www.sportshistoryweekly.com/stories/lithuania-basketball-olympics-nba-grateful-dead,1100",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.sportshistoryweekly.com/stories/lithuania-basketball-olympics-nba-grateful-dead,1100"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Poem I’m studying",
+      "category": "other",
+      "title": "If",
+      "creator": "Rudyard Kipling",
+      "note": ". From [Wikipedia](https://en.wikipedia.org/wiki/If%E2%80%94): “Boxing great Muhammad Ali was known to carry the poem in his wallet throughout life as a guiding principle.” The legendary financier Carl Icahn, featured in last week’s 5BF, is also intimately familiar with this poem.",
+      "original_url": "https://en.wikipedia.org/wiki/If%E2%80%94#Text",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/If%E2%80%94#Text"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Rudyard_Kipling"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/If%E2%80%94"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Film I’m enjoying",
+      "category": "video",
+      "title": "Past Lives",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/Past-Lives-Greta-Lee/dp/B0CBHDBRF2/), [Apple TV](https://tv.apple.com/us/movie/past-lives/umc.cmc.tzz5x8oih45dccm7djuquugl?action=play), [YouTube](https://www.youtube.com/watch?v=lCKqoIQhHig)). _Past Lives_ currently has **97%** on [Rotten Tomatoes](https://www.rottentomatoes.com/m/past_lives). Description: “Two childhood sweethearts, after decades apart, are reunited for one fateful week in New York as they confront notions of destiny, love, and the choices that make a life in this heartrending modern romance.” You can watch the trailer [here](https://youtu.be/kA244xewjcI?si=VrGroU8_OMS0JGPO). The movie is directed by [Celine Song](https://en.wikipedia.org/wiki/Celine_Song) and stars [Greta Lee](https://en.wikipedia.org/wiki/Greta_Lee), [Teo Yoo](https://en.wikipedia.org/wiki/Teo_Yoo), [John Magaro](https://www.instagram.com/J_Magaro/?hl=en), among others.",
+      "original_url": "https://www.amazon.com/Past-Lives-Greta-Lee/dp/B0CBHDBRF2/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Past-Lives-Greta-Lee/dp/B0CBHDBRF2/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Past-Lives-Greta-Lee/dp/B0CBHDBRF2/"
+        },
+        {
+          "type": "other",
+          "url": "https://tv.apple.com/us/movie/past-lives/umc.cmc.tzz5x8oih45dccm7djuquugl?action=play"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=lCKqoIQhHig"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rottentomatoes.com/m/past_lives"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/kA244xewjcI?si=VrGroU8_OMS0JGPO"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Celine_Song"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Greta_Lee"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Teo_Yoo"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/J_Magaro/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m cooking",
+      "category": "other",
+      "title": "Organ Blend 95/5 from Maui Nui Venison",
+      "creator": null,
+      "note": "From the description: “The best-tasting grind always comes from a mix of muscles from the entire animal. Our ground venison includes trim from neck to leg, loin to belly, and everything in between, ensuring a richness and depth of flavor like no other. With knowledge gained from our recent nutrient analysis, we have made a more balanced 5% organ blend, containing 3.5% liver and 1.5% heart. Since the liver and heart of our venison contain superior nutrient density, this blend offers the benefits of organ meat with an improved flavor profile.” I also suggest using this tool from Maui Nui: [Venison Nutrition Comparison Tool](https://mauinuivenison.com/pages/venison-nutrition-comparison-tool).",
+      "original_url": "https://mauinuivenison.com/products/organ-blend-95-5",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://mauinuivenison.com/products/organ-blend-95-5"
+        },
+        {
+          "type": "other",
+          "url": "https://mauinuivenison.com/pages/venison-nutrition-comparison-tool"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Education is the ability to listen to almost anything without losing your temper or your self-confidence.” ― Robert Frost (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my interview with the founder of Maui Nui Venison Jake Muise, my conversation with legendary author Margaret Atwood, and my recent interview with superstar sports agent Rich Paul. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": null,
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Robert_Frost",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Robert_Frost"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/bPBtw"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/06/21/jake-muise/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/02/22/margaret-atwood/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/10/09/rich-paul/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

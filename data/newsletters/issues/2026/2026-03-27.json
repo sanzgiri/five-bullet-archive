@@ -6,7 +6,130 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Tres Deseos - Sesiones de Estudio (En Vivo)",
+      "creator": null,
+      "note": "](https://www.youtube.com/watch?v=Atylb_YcJ0g)**”** by [Churupaca](https://www.instagram.com/churupacaoficial/). If you listen to this a few times, it will get stuck in your head… and that’s a good thing. Find the lyrics in the video description.",
+      "original_url": "https://www.youtube.com/watch?v=Atylb_YcJ0g",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=Atylb_YcJ0g"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/churupacaoficial/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching again",
+      "category": "video",
+      "title": "Kurt Vonnegut on how to write a short story",
+      "creator": null,
+      "note": "There are some exceptional gems in this 2-minute video. Most of the rules apply to good nonfiction writing, too, IMHO.",
+      "original_url": "https://www.youtube.com/watch?v=nmVcIhnvSx8",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=nmVcIhnvSx8"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Person I’m studying",
+      "category": "other",
+      "title": "Albert Ellis",
+      "creator": null,
+      "note": "“Albert Ellis was an American psychologist and psychotherapist who founded [rational emotive behavior therapy](https://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy) (REBT). … He is generally considered to be one of the originators of the cognitive revolutionary paradigm shift in psychotherapy and an early proponent and developer of cognitive-behavioral therapies.”",
+      "original_url": "https://en.wikipedia.org/wiki/Albert_Ellis",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Albert_Ellis"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Film I’m watching",
+      "category": "video",
+      "title": "Wolfwalkers",
+      "creator": null,
+      "note": "I watched this with a friend’s family, several young kids included, and we all loved it. Short description: “A young apprentice hunter and her father journey to Ireland to help wipe out the last wolf pack. But everything changes when she befriends a free-spirited girl from a mysterious tribe rumored to transform into wolves by night.” It has a [98% audience score](https://www.rottentomatoes.com/m/wolfwalkers) on Rotten Tomatoes, and you can [find the trailer here](https://www.youtube.com/watch?v=d_Z_tybgPgg).",
+      "original_url": "https://tv.apple.com/us/movie/wolfwalkers/umc.cmc.amuoq00hqelfi98j0gvg641x",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tv.apple.com/us/movie/wolfwalkers/umc.cmc.amuoq00hqelfi98j0gvg641x"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rottentomatoes.com/m/wolfwalkers"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=d_Z_tybgPgg"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The largest part of what we call ‘personality’ is determined by how we’ve opted to defend ourselves against anxiety and sadness.” — Alain de Botton (Click here to share on X.)",
+      "creator": "Alain de Botton",
+      "note": null,
+      "original_url": "https://tim.blog/2015/11/10/alain-de-botton/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2015/11/10/alain-de-botton/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/7rthF"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Language can become a screen which stands between the thinker and reality. This is the reason why true creativity often starts where language ends.” — Arthur Koestler (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with the latest podcast episode, which is one of my favorite formats: the good old-fashioned Q&A. It covers AI, the offline advantage, book recommendations, courage as a learnable skill, and much, much more. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Arthur Koestler",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Arthur_Koestler",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Arthur_Koestler"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/kzJW6"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/03/26/qa-with-tim-ai-tsunami/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

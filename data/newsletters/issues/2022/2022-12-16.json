@@ -6,7 +6,135 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading and listening to",
+      "category": "article",
+      "title": "[RIFFUSION",
+      "creator": null,
+      "note": "\\].** AI-enhanced art and music is blowing my mind, and this is one of the latest tech mashups to give a real glimpse of the future. If you want to skip around, I suggest jumping to the 20-step interpolations from “typing to jazz” or “church bells to electronic beats.” Things are going to get very, very interesting very, very quickly. This is a preview. [Click here to try your own prompt](https://www.riffusion.com/). Hat tip to Chicken + Pineapples for the recommendation.\n\n**Related:** I am now sponsoring an AI art competition with $2,000 USD going to each of three winners. It starts today, and [here are the details](https://tim.blog/2022/12/16/ai-art-competition/).",
+      "original_url": "https://www.riffusion.com/about",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.riffusion.com/about"
+        },
+        {
+          "type": "other",
+          "url": "https://www.riffusion.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/12/16/ai-art-competition/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Documentary I’m watching",
+      "category": "video",
+      "title": "Facing Nolan",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/Facing-Nolan-Ryan/dp/B0B5YKSXP3/), [Apple TV](https://tv.apple.com/us/movie/facing-nolan/umc.cmc.6uw0ea9tm40oobjmcxfpysxe2)). I don’t follow baseball, but I love studying anyone who defies the odds and rides the lightning for decades. [Nolan Ryan](https://en.wikipedia.org/wiki/Nolan_Ryan) is legendary, even among legends. From the description: “In the world of Major League Baseball, no one has created a mythology like Nolan Ryan. Told from the point of view of the hitters who faced him and the teammates who revered him, _Facing Nolan_ is the definitive documentary of a Texas legend.” [Here is the trailer](https://www.youtube.com/watch?v=Sy--P-wkYQg).",
+      "original_url": "https://www.amazon.com/Facing-Nolan-Ryan/dp/B0B5YKSXP3/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Facing-Nolan-Ryan/dp/B0B5YKSXP3/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Facing-Nolan-Ryan/dp/B0B5YKSXP3/"
+        },
+        {
+          "type": "other",
+          "url": "https://tv.apple.com/us/movie/facing-nolan/umc.cmc.6uw0ea9tm40oobjmcxfpysxe2"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Nolan_Ryan"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=Sy--P-wkYQg"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Tech shortcuts I’m using daily",
+      "category": "other",
+      "title": "create a brand-new Google Doc",
+      "creator": null,
+      "note": "Next headache: when I copy and paste text from “Notes,” it often comes with formatting/HTML that is invisible to my eye but that screws up tweets, etc. The fix: copy and paste your text into the new Google doc, select/highlight the entire text, right-click and select “Clear formatting.” You can also “clear formatting” inside Gmail when composing an email, although Gmail doesn’t preserve links once formatting is removed, whereas Google Docs does. Thank you to HV for the pro tips!",
+      "original_url": "https://www.wired.com/story/google-docs-doc-dot-new/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.wired.com/story/google-docs-doc-dot-new/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m celebrating",
+      "category": "other",
+      "title": "The Legend of CØCKPUNCH_™",
+      "creator": null,
+      "note": "This is my first scripted podcast, narrated by brilliant voice actors. It launched and landed at #1 in “Fiction” on Apple Podcasts, as well as in the Top 100 overall. I’m having a blast, and the first few episodes are very short—roughly five minutes each. I hope you give it a shot. It’s unusual, to be sure, but that’s the point. The goal is to add some mystery, laughter, and levity to a world dominated by doomscrolling and pessimism. You can find it on [Apple Podcasts](https://podcasts.apple.com/us/podcast/c%C3%B8ckpunch/id1657210471), [Spotify](https://open.spotify.com/show/0O9MhcUVpWSjPpMFwia1WH), or [wherever you listen to podcasts](https://cockpunch.com/podcast).",
+      "original_url": "http://cockpunch.com/#podcast",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://cockpunch.com/#podcast"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/c%C3%B8ckpunch/id1657210471"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/show/0O9MhcUVpWSjPpMFwia1WH"
+        },
+        {
+          "type": "other",
+          "url": "https://cockpunch.com/podcast"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m enjoying",
+      "category": "quote",
+      "title": "“What I feel fortunate about is that I’m still astonished, that things still amaze me. And I think that that’s the great benefit of being in the arts, where the possibility for learning never disappears, where you basically have to admit you never learn it.” — Milton Glaser You can complement this edition of 5-Bullet Friday with this week’s fantastic podcast guests: First, Steven Pressfield explores going from truck driver to bestselling novelist, overcoming self-sabotage, building momentum, and more. For extra credit, enjoy it in 4K on YouTube. Second, and as promised, comic book legend Todd McFarlane returns for nearly 3 hours to tell wild stories of entrepreneurship, negotiation battles, perseverance, and making art that outlives you. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Milton Glaser You can complement this edition of 5-Bullet Friday with this week’s fantastic podcast guests: First, Steven Pressfield explores going from truck driver to bestselling novelist, overcoming self-sabotage, building momentum, and more. For extra credit, enjoy it in 4K on YouTube. Second, and as promised, comic book legend Todd McFarlane returns for nearly 3 hours to tell wild stories of entrepreneurship, negotiation battles, perseverance, and making art that outlives you. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Milton_Glaser",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Milton_Glaser"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/12/13/steven-pressfield-3/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=2RhIp9C5OO8"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/12/16/todd-mcfarlane-2/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

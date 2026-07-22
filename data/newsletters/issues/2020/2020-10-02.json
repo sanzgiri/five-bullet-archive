@@ -1,13 +1,129 @@
 {
   "schema_version": 1,
   "issue_date": "2020-10-02",
-  "subject": "5-Bullet Friday — October 2, 2020 ",
+  "subject": "5-Bullet Friday — October 2, 2020",
   "sources": [
     "gmail",
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Audiobook that I’m listening to —",
+      "category": "audiobook",
+      "title": "The Hitchhiker’s Guide to the Galaxy",
+      "creator": "Douglas Adams, narrated by the one and only Stephen Fry",
+      "note": ", narrated by the one and only [Stephen Fry](https://stephenfry.com/) ([@stephenfry](https://twitter.com/stephenfry)). Stephen Fry makes this audiobook incredible; it’s one of the best voice performances I’ve ever heard. Like many people, I’d come across this book now and again for decades, but I was turned off by the goofy cover. Shame on me, but… perhaps it was perfect that I landed on the audiobook, which has been an uplifting mood shifter as the days get colder and darker.",
+      "original_url": "https://www.audible.com/pd/The-Hitchhikers-Guide-to-the-Galaxy-Audiobook/B002VA9SWS",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.audible.com/pd/The-Hitchhikers-Guide-to-the-Galaxy-Audiobook/B002VA9SWS"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Douglas_Adams"
+        },
+        {
+          "type": "other",
+          "url": "https://stephenfry.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/stephenfry"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Clever tech tip I’ve been using —",
+      "category": "other",
+      "title": "@roryparle",
+      "creator": null,
+      "note": "Rory Parle ([@roryparle](https://twitter.com/roryparle/status/1308469204992094208)) offers this tip: “Turn on airplane mode and vote. It won’t register the vote but will flash up the results briefly.” The current workaround for poll creators is to add a “Show results” voting option, but this is clunky and crowds out other voting options. Perhaps Twitter team members who get this newsletter can see about offering this option natively? Could be important for election season...",
+      "original_url": "https://twitter.com/roryparle/status/1308469204992094208",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://twitter.com/roryparle/status/1308469204992094208"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Short video I’m watching repeatedly —",
+      "category": "video",
+      "title": "Speed bag magic",
+      "creator": null,
+      "note": "This was sent to me by a former world-championship-level kickboxer.",
+      "original_url": "https://www.instagram.com/p/CFSLrHpgmAl/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/p/CFSLrHpgmAl/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "New research study I’m excited about —",
+      "category": "research",
+      "title": "Johns Hopkins survey about belief changes following psychedelic use",
+      "creator": null,
+      "note": "The Johns Hopkins Center for Psychedelic and Consciousness Research needs your help. They are conducting [an anonymous online survey](https://jhmi.co1.qualtrics.com/jfe/form/SV_3E3rAQwGVQ5wgDP) of changes in beliefs that can occur after taking a classic psychedelic (psilocybin-containing mushrooms, LSD, ayahuasca, mescaline, DMT, etc.). Psychedelic-occasioned changes in belief may represent a vital, under-studied mechanism that could account for persisting therapeutic and nontherapeutic effects.Examples of some of the persisting effects that have been observed in patient groups include large reductions in [depressive symptoms](https://www.clinicalkey.com/#!/content/playContent/1-s2.0-S2215036616300657?returnurl=https:%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2215036616300657%3Fshowall%3Dtrue&referrer=https:%2F%2Fpubmed.ncbi.nlm.nih.gov%2F27210031%2F), [tobacco smoking](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5641975/), [alcohol use](https://pubmed.ncbi.nlm.nih.gov/25586396/), and [distress associated with life-threatening illnesses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5367557/). Even though psilocybin, as one example, typically wears off after 4–8 hours, some of the aforementioned persisting effects can be observed in some participants months, or even years, later.  \n  \nExamples of persisting effects that have been shown in healthy participants include marked increases in well-being and life satisfaction, improved social relationships, increased self-confidence and self-efficacy, and increases in various healthy behaviors, such as improved diet, exercise, and creative activities.Many of these remarkable persisting changes may be due to changes in fundamental beliefs about the very nature of self and the world.  \n  \nThe survey is an opportunity to revisit and contemplate a significant and possibly transformative experience of yours, you may find it meaningful to further explore some of the philosophical implications of your experience, and you will be making a unique and important contribution to science. [**Please click here to learn more and consider participating**](https://jhmi.co1.qualtrics.com/jfe/form/SV_3E3rAQwGVQ5wgDP)**.  \n  \n**",
+      "original_url": "https://jhmi.co1.qualtrics.com/jfe/form/SV_3E3rAQwGVQ5wgDP",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://jhmi.co1.qualtrics.com/jfe/form/SV_3E3rAQwGVQ5wgDP"
+        },
+        {
+          "type": "other",
+          "url": "https://jhmi.co1.qualtrics.com/jfe/form/SV_3E3rAQwGVQ5wgDP"
+        },
+        {
+          "type": "other",
+          "url": "https://www.clinicalkey.com/#!/content/playContent/1-s2.0-S2215036616300657?returnurl=https:%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2215036616300657%3Fshowall%3Dtrue&referrer=https:%2F%2Fpubmed.ncbi.nlm.nih.gov%2F27210031%2F"
+        },
+        {
+          "type": "other",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5641975/"
+        },
+        {
+          "type": "other",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/25586396/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5367557/"
+        },
+        {
+          "type": "other",
+          "url": "https://jhmi.co1.qualtrics.com/jfe/form/SV_3E3rAQwGVQ5wgDP"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Maxim I’m pondering —",
+      "category": "other",
+      "title": "Publilius Syrus",
+      "creator": null,
+      "note": "And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all.  \n  \nMuch love to you and yours,  \n  \nTim",
+      "original_url": "https://en.wikipedia.org/wiki/Publilius_Syrus",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Publilius_Syrus"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

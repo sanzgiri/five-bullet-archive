@@ -6,7 +6,111 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m “reading” (as an audiobook) —",
+      "category": "audiobook",
+      "title": "Stealing Fire: How Silicon Valley, the Navy SEALs, and Maverick Scientists Are Revolutionizing the Way We Live and Work",
+      "creator": null,
+      "note": ", authored by Steven Kotler ([@steven\\_kotler](https://el2.fourhourmail.com/c/92unw45ooanhx2d06/opfkhq/aHR0cHM6Ly90d2l0dGVyLmNvbS9zdGV2ZW5fa290bGVy)) and Jamie Wheal. Steven and Jamie have done a wonderful job of balancing the promises, perils, and how-to prescriptions of engineering peak states such as “flow.” Steven is a friend and interviewed me for this book perhaps 2-3 years ago, but I sadly wasn’t ready to open up about the details of my own experiences (apologies again, Steven!). Coming full circle, I’m happy to cheer from the sidelines, as the book is impressively well researched and well written. Full disclosure: I have only listened to Chapters 9 and forward, as Chapter 10 was specifically recommended to me as a tool I might refer to friends considering deep journeys of their own. I’ll leave “journey” deliberately vague until you listen to (or read) the chapter. It’s a good reminder for even experienced psychonauts.",
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanhx2d06/78i7h8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TdGVhbGluZy1GaXJlLU1hdmVyaWNrLVNjaWVudGlzdHMtUmV2b2x1dGlvbml6aW5nL2RwLzAwNjI0Mjk2NTU=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhx2d06/78i7h8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TdGVhbGluZy1GaXJlLU1hdmVyaWNrLVNjaWVudGlzdHMtUmV2b2x1dGlvbml6aW5nL2RwLzAwNjI0Mjk2NTU="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhx2d06/opfkhq/aHR0cHM6Ly90d2l0dGVyLmNvbS9zdGV2ZW5fa290bGVy"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "The Shape of Water.",
+      "creator": null,
+      "note": "This movie exceeded all expectations. Brought to life by filmmaker Guillermo del Toro ([@RealGDT](https://el2.fourhourmail.com/c/92unw45ooanhx2d06/pnceh9/aHR0cHM6Ly90d2l0dGVyLmNvbS9SZWFsR0RU)), who previously made one of my all-time favorite fantasy movies ([Pan’s Labyrinth](https://el2.fourhourmail.com/c/92unw45ooanhx2d06/xksph6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9kcC9CMDAzWEMxT1Ay)), is a love story and a war between good and evil, including the FBI, Russians, a mute, and a god. I took my parents to see this, and we were all blown away. See it on the big screen if you can, and pay attention to the sheer beauty and richness of the colors and reflections. It’s a true piece of art. Warning if you decide to bring your parents or kids: there is a fair amount of sex and masturbation along with the art (or are they the same?).",
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanhx2d06/zvtghn/aHR0cDovL3d3dy5pbWRiLmNvbS90aXRsZS90dDU1ODAzOTAv",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhx2d06/zvtghn/aHR0cDovL3d3dy5pbWRiLmNvbS90aXRsZS90dDU1ODAzOTAv"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhx2d06/pnceh9/aHR0cHM6Ly90d2l0dGVyLmNvbS9SZWFsR0RU"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhx2d06/xksph6/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9kcC9CMDAzWEMxT1Ay"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Louis Armstrong & Duke Ellington: The Complete Louis Armstrong and Duke Ellington Sessions.",
+      "creator": null,
+      "note": "I found this as a discarded CD in an old house, where everything -- otherwise to be thrown out -- was up for grabs. It’s incredible. Normally, I can’t listen to music with lyrics and work on a laptop; the words interfere with my typing and thinking. For whatever reason, that isn’t so with this album. It’s soothing tracks allow my body to relax and mind to wander into corners I didn’t even know were productive. Your mileage may vary, but it’s been a wonderful new audio sanctuary for both calming down and writing.",
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanhx2d06/60aeh8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Db21wbGV0ZS1Mb3Vpcy1Bcm1zdHJvbmctRWxsaW5ndG9uLVNlc3Npb25zL2RwL0IwMDAwMDVIRlY=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhx2d06/60aeh8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Db21wbGV0ZS1Mb3Vpcy1Bcm1zdHJvbmctRWxsaW5ndG9uLVNlc3Npb25zL2RwL0IwMDAwMDVIRlY="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Most popular post on Instagram —",
+      "category": "other",
+      "title": "40x30 print of this...",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/92unw45ooanhx2d06/kmbmh6/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JlUmZhbUhGa1BhLz90YWtlbi1ieT10aW1mZXJyaXNz",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhx2d06/kmbmh6/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JlUmZhbUhGa1BhLz90YWtlbi1ieT10aW1mZXJyaXNz"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Everything we see hides another thing, we always want to see what is hidden by what we see.” -René Magritte Have a wonderful weekend, all! Tim [](https://el2.fourhourmail.com/c/92unw45ooanhx2d06/52hvh7/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join 2M+ monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. Seneca and Marcus, 60 29th Street, San Francisco, California 94110, United States",
+      "creator": null,
+      "note": null,
+      "original_url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhx2d06/2ou2ho/aHR0cDovL2dvLmZvdXJob3Vyd29ya3dlZWsuY29tLzEweC1vdXRwdXQv"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "http://el2.fourhourmail.com/u/92unw45ooanhx2d06"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/92unw45ooanhx2d06/gvfnh5/aHR0cDovL2ZvdXJob3Vyd29ya3dlZWsuY29tL2Jsb2c="
+        }
+      ]
+    }
+  ]
 }

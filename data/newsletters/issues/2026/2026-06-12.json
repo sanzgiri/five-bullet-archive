@@ -7,7 +7,7 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "partial",
+  "extraction_status": "extracted",
   "special_edition": true,
   "bullets": [
     {
@@ -31,7 +31,7 @@
       "category": "music",
       "title": "Mama Clo",
       "creator": "Thornato and Benjamín Vanegas",
-      "note": "(YouTube, Spotify, Apple Music) by Thornato and Benjamín Vanegas.",
+      "note": "([YouTube](https://www.youtube.com/watch?v=tW2cTkdhm_I), [Spotify](https://open.spotify.com/track/6Keph1R8W5UIsjTWxUAZEG?si=cd22cf68368a44cd), [Apple Music](https://music.apple.com/gb/song/mama-clo/1645644313)) by [Thornato](https://www.instagram.com/thornato/) and [Benjamín Vanegas](https://benjaminvanegas.bandcamp.com/).",
       "original_url": "https://www.youtube.com/watch?v=tW2cTkdhm_I",
       "links": [
         {
@@ -66,7 +66,7 @@
       "category": "podcast",
       "title": "A rational conversation on where AI is actually going",
       "creator": null,
-      "note": "on Lenny Rachitsky’s podcast. This is the best AI-related podcast episode I’ve heard in months. This middle-ground discussion, based on a lot of real data, stands out, as I’m tired of armies of techno-optimists selling near- instant superabundance and techno-doomers forecasting Mad Max without any citations. Benedict is sharp, and many of his comparisons and lenses were new to me.\n\nThe official description from Lenny’s site:\n\nBenedict Evans is an independent analyst and former partner at Andreessen Horowitz, where he spent years as their in-house “thinker” tracking the most important technology trends. For the past six years, he’s been publishing deeply researched presentations on where tech is heading, most recently focused on AI’s transformation of the economy. His work is read by founders, investors, and operators trying to make sense of a noisy field. His most controversial opinion: AI is as big a deal as the internet or mobile—and only as big.",
+      "note": "on Lenny Rachitsky’s podcast.** This is the best AI-related podcast episode I’ve heard in months. This middle-ground discussion, based on a lot of real data, stands out, as I’m tired of armies of techno-optimists selling near-instant superabundance and techno-doomers forecasting _Mad Max_ without any citations. Benedict is sharp, and many of his comparisons and lenses were new to me.  \n​  \nThe official description from Lenny’s site:_​  \n​  \n​_[_Benedict Evans_](https://www.ben-evans.com/) _is an independent analyst and former partner at Andreessen Horowitz, where he spent years as their in-house “thinker” tracking the most important technology trends. For the past six years, he’s been publishing deeply researched presentations on where tech is heading, most recently focused on AI’s transformation of the economy. His work is read by founders, investors, and operators trying to make sense of a noisy field. His most controversial opinion: AI is as big a deal as the internet or mobile—and only as big._",
       "original_url": "https://www.lennysnewsletter.com/p/a-rational-conversation-on-where",
       "links": [
         {
@@ -84,8 +84,8 @@
       "section": "Documentary I’m watching",
       "category": "video",
       "title": "Waste Land",
-      "creator": "Lucy Walker, follows famous Brazilian-born artist Vik Muniz as he journeys from h",
-      "note": "(Amazon, Apple). This Oscar-nominated 2010 documentary, directed by Lucy Walker, follows famous Brazilian-born artist Vik Muniz as he journeys from his home base in Brooklyn back to his native Brazil and Jardim Gramacho, then the world’s largest garbage dump. Can a great artist help turn despair into something else through his craft? It’s a riveting watch.\n\nAt the least, take a minute and watch the short trailer here.",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/Waste-Land-Lucy-Walker/dp/B0B6FF6KCF/?tag=offsitoftimfe-20), [Apple](https://tv.apple.com/us/movie/waste-land/umc.cmc.2gt7h0wm6h6hkem3d05yddog8)). This Oscar-nominated 2010 documentary, directed by [Lucy Walker](https://en.wikipedia.org/wiki/Lucy_Walker_(director)), follows famous Brazilian-born artist [Vik Muniz](https://en.wikipedia.org/wiki/Vik_Muniz) as he journeys from his home base in Brooklyn back to his native Brazil and Jardim Gramacho, then the world’s largest garbage dump. Can a great artist help turn despair into something else through his craft? It’s a riveting watch.  \n​  \nAt the least, take a minute and watch the [short trailer here](https://www.youtube.com/watch?v=Ic1lwE0Zwyw).",
       "original_url": "https://www.amazon.com/Waste-Land-Lucy-Walker/dp/B0B6FF6KCF/?tag=offsitoftimfe-20",
       "links": [
         {
@@ -102,7 +102,7 @@
         },
         {
           "type": "other",
-          "url": "https://en.wikipedia.org/wiki/Lucy_Walker_(director)"
+          "url": "https://en.wikipedia.org/wiki/Lucy_Walker_(director"
         },
         {
           "type": "other",
@@ -120,7 +120,7 @@
       "category": "book",
       "title": "Sebastian Mallaby",
       "creator": null,
-      "note": "’s The Infinity Machine: Demis Hassabis, DeepMind, and the Quest for Superintelligence:\n\nI recalled a line from theLife Story movie, which had inspired Hassabis [co-founder of DeepMind] to apply to Cambridge. “I’m one of the believers,” says Watson, the codiscoverer of DNA. “Blessed are they who believed before there was any evidence.”\n\nTF: This one alludes to believing a problem is soluble without much evidence to support the conviction. How does that square—or not—with science itself? Can you artfully combine limited faith with science to drive breakthroughs, or is it a slippery slope to intellectual perdition? If possibly both, how do you bias towards the former?",
+      "note": "’s [_The Infinity Machine: Demis Hassabis, DeepMind, and the Quest for Superintelligence_](https://www.amazon.com/Infinity-Machine-Hassabis-DeepMind-Superintelligence/dp/B0FSST2RLN?tag=offsitoftimfe-20):  \n​  \n​**_I recalled a line from the_** [**Life Story**](https://en.wikipedia.org/wiki/Life_Story_(film)) **_movie, which had inspired_** [**_Hassabis_**](https://en.wikipedia.org/wiki/Demis_Hassabis) **_\\[co-founder of DeepMind\\] to apply to Cambridge. “I’m one of the believers,” says Watson, the codiscoverer of DNA. “Blessed are they who believed before there was any evidence.”_****​  \n​  \nTF**: This one alludes to believing a problem is soluble without much evidence to support the conviction. How does that square—or not—with science itself? Can you artfully combine limited faith with science to drive breakthroughs, or is it a slippery slope to intellectual perdition? If possibly both, how do you bias towards the former?\n\n* * *\n\nYou can complement this edition of _5-Bullet Friday_ with [my brand-new interview](https://tim.blog/2026/06/10/max-levchin-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) with Max Levchin, a serial entrepreneur, computer scientist, philanthropist, and active investor in more than 100 startups. Max is the founder and CEO of [Affirm](https://www.affirm.com/) and was one of the original co-founders of [PayPal](paypal.com).  \n​  \nAnd, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​",
       "original_url": "https://en.wikipedia.org/wiki/Sebastian_Mallaby",
       "links": [
         {
@@ -133,11 +133,23 @@
         },
         {
           "type": "other",
-          "url": "https://en.wikipedia.org/wiki/Life_Story_(film)"
+          "url": "https://en.wikipedia.org/wiki/Life_Story_(film"
         },
         {
           "type": "other",
           "url": "https://en.wikipedia.org/wiki/Demis_Hassabis"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/06/10/max-levchin-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.affirm.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
         }
       ]
     }

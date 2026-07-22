@@ -6,7 +6,139 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "In Search of Greatness",
+      "creator": null,
+      "note": "This brand-new doc thematically fits into a lot of the reading I’m currently doing. The official description: “Through the eyes of the greatest athletes of all time, _In Search of Greatness_ is a cinematic journey into the secrets of genius. From award-winning filmmaker Gabe Polsky ([@gabepolsky](https://el2.fourhourmail.com/c/k0udre388b6h98ndm/97fzhnhq6z277l/aHR0cHM6Ly90d2l0dGVyLmNvbS9nYWJlcG9sc2t5)), this groundbreaking feature documentary includes original interviews with Wayne Gretzky, Pelé, and Jerry Rice. It also features Muhammad Ali, Einstein, David Bowie, Serena Williams, and Michael Jordan, among others.” You can [watch the trailer here](https://el2.fourhourmail.com/c/k0udre388b6h98ndm/nmtohvh8x6oddo/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1KLUI5Q1ZDY0xyTSZmZWF0dXJlPXlvdXR1LmJl). Gabe’s earlier [Red Army](https://el2.fourhourmail.com/c/k0udre388b6h98ndm/w6c2hgh5kxozzr/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9SZWQtQXJteS1TY290dHktQm93bWFuL2RwL0IwMFhXVFhZSks=) doc is also fantastic.",
+      "original_url": "https://el2.fourhourmail.com/c/k0udre388b6h98ndm/qgi8h7h74o6xx2/aHR0cHM6Ly93d3cuaW5zZWFyY2hvZmdyZWF0bmVzcy5jb20v",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h98ndm/qgi8h7h74o6xx2/aHR0cHM6Ly93d3cuaW5zZWFyY2hvZmdyZWF0bmVzcy5jb20v"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h98ndm/97fzhnhq6z277l/aHR0cHM6Ly90d2l0dGVyLmNvbS9nYWJlcG9sc2t5"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h98ndm/nmtohvh8x6oddo/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1KLUI5Q1ZDY0xyTSZmZWF0dXJlPXlvdXR1LmJl"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h98ndm/w6c2hgh5kxozzr/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9SZWQtQXJteS1TY290dHktQm93bWFuL2RwL0IwMFhXVFhZSks="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Article I’m reading once again —",
+      "category": "article",
+      "title": "Man of Extremes: The Return of James Cameron",
+      "creator": null,
+      "note": "(**[**@NewYorker**](https://el2.fourhourmail.com/c/k0udre388b6h98ndm/vma3hrhxvek55o/aHR0cHM6Ly90d2l0dGVyLmNvbS9OZXdZb3JrZXI=)**).** James Cameron is a beast worth studying. His track record is unparalleled, and few humans are as aggressive or as capable. Even if you’re feeling rushed, take 60 seconds to read the first paragraph of this piece, which is hilarious. Kudos to Dana Goodyear ([@danagoodyear](https://el2.fourhourmail.com/c/k0udre388b6h98ndm/mmb7h5hgqmnrrm/aHR0cHM6Ly90d2l0dGVyLmNvbS9kYW5hZ29vZHllYXI=)) on the writing.",
+      "original_url": "https://el2.fourhourmail.com/c/k0udre388b6h98ndm/0kswh9ho9g788d/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9tYWdhemluZS8yMDA5LzEwLzI2L21hbi1vZi1leHRyZW1lcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h98ndm/0kswh9ho9g788d/aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9tYWdhemluZS8yMDA5LzEwLzI2L21hbi1vZi1leHRyZW1lcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h98ndm/vma3hrhxvek55o/aHR0cHM6Ly90d2l0dGVyLmNvbS9OZXdZb3JrZXI="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h98ndm/mmb7h5hgqmnrrm/aHR0cHM6Ly90d2l0dGVyLmNvbS9kYW5hZ29vZHllYXI="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Book I just finished and will reread soon —",
+      "category": "book",
+      "title": "Awareness: The Perils and Opportunities of Reality",
+      "creator": null,
+      "note": "This short book has completely captured me. It was first recommended by [Peter Mallouk](https://el2.fourhourmail.com/c/k0udre388b6h98ndm/ozukhqhk6g8zz5/aHR0cHM6Ly90aW0uYmxvZy8yMDE5LzAxLzE3L3BldGVyLW1hbGxvdWsvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg==), who said it gave him peace for weeks at a time. I grabbed the Kindle version with low expectations, devoured it in three days, and I’ve since bought 20 copies of the paperback to give out to friends. It found me at the right time and won’t resonate with everyone, but it has equally impressed several of my best buddies.",
+      "original_url": "https://el2.fourhourmail.com/c/k0udre388b6h98ndm/edhph7hplqnxx4/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Bd2FyZW5lc3MtT3Bwb3J0dW5pdGllcy1SZWFsaXR5LUFudGhvbnktTWVsbG8vZHAvMDM4NTI0OTM3Mw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h98ndm/edhph7hplqnxx4/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Bd2FyZW5lc3MtT3Bwb3J0dW5pdGllcy1SZWFsaXR5LUFudGhvbnktTWVsbG8vZHAvMDM4NTI0OTM3Mw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h98ndm/ozukhqhk6g8zz5/aHR0cHM6Ly90aW0uYmxvZy8yMDE5LzAxLzE3L3BldGVyLW1hbGxvdWsvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg=="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Still Not Dead",
+      "creator": "Willie Nelson",
+      "note": "** I recently saw Willie Nelson ([@willienelsonofficial](https://el2.fourhourmail.com/c/k0udre388b6h98ndm/65feh8hk5n2qqz/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS93aWxsaWVuZWxzb25vZmZpY2lhbC8_aGw9ZW4=)) play live at [Austin City Limits (ACL)](https://el2.fourhourmail.com/c/k0udre388b6h98ndm/50tvh7hvnk9eex/aHR0cHM6Ly93d3cuYWNsZmVzdGl2YWwuY29tLw==). At 85-years young, he can still bring down the house.",
+      "original_url": "https://el2.fourhourmail.com/c/k0udre388b6h98ndm/p3ieh9h32g7vvr/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1KMzRlc2FfYUp4Yw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h98ndm/p3ieh9h32g7vvr/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1KMzRlc2FfYUp4Yw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h98ndm/65feh8hk5n2qqz/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS93aWxsaWVuZWxzb25vZmZpY2lhbC8_aGw9ZW4="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h98ndm/50tvh7hvnk9eex/aHR0cHM6Ly93d3cuYWNsZmVzdGl2YWwuY29tLw=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“In order to change skins, evolve into new cycles, I feel one has to learn to discard. If one changes internally, one should not continue to live with the same objects. They reflect one’s mind and psyche of yesterday. I throw away what has no dynamic, living use.” — Anaïs Nin [](https://el2.fourhourmail.com/c/k0udre388b6h98ndm/9kszhnhq6z277m/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWF5YV9BbmdlbG91) And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim [](https://el2.fourhourmail.com/c/k0udre388b6h98ndm/w4b2hgh5kxozze/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Anaïs Nin",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/k0udre388b6h98ndm/qrc8h7h74o6xxp/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQW5hJUMzJUFGc19OaW4=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h98ndm/qrc8h7h74o6xxp/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQW5hJUMzJUFGc19OaW4="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h98ndm/nkaohvh8x6odd9/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h98ndm/0ghwh9ho9g788l/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/k0udre388b6h98ndm"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/k0udre388b6h98ndm/odikhqhk6g8zz6/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

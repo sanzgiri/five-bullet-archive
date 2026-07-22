@@ -6,7 +6,235 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Book that I couldn’t put down",
+      "category": "book",
+      "title": "Saga: Compendium One",
+      "creator": null,
+      "note": "This is a raucous masterpiece! After two close friends recommended it within 48 hours, I bit the bullet. I haven’t read graphic novels in ages, but this NSFW gem blew me away. I tore through it in two days. It’s rare that both the writing and artwork grab me, but this did it. Deep bow and “More please!” to [Brian K. Vaughan](https://en.wikipedia.org/wiki/Brian_K._Vaughan) ([@briankvaughan](https://www.instagram.com/briankvaughan/)), [Fiona Staples](https://en.wikipedia.org/wiki/Fiona_Staples) ([@fionastaples](https://www.instagram.com/fionastaples/)), and [FONOGRAFIKS](https://imagecomics.com/creators/fonografiks). Don’t let the page count scare you, as it moves quickly with the artwork. Think of it as a 150–175-page book.",
+      "original_url": "https://www.amazon.com/Saga-Compendium-Brian-K-Vaughan/dp/153431346X/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Saga-Compendium-Brian-K-Vaughan/dp/153431346X/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Brian_K._Vaughan"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/briankvaughan/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Fiona_Staples"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/fionastaples/"
+        },
+        {
+          "type": "other",
+          "url": "https://imagecomics.com/creators/fonografiks"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Clip I’m enjoying",
+      "category": "other",
+      "title": "Elite Powerlifter Pretended to be a FAKE TRAINER | Anatoly Aesthetics in Public",
+      "creator": null,
+      "note": "via Dr. Pollo y Piña.",
+      "original_url": "https://www.youtube.com/watch?v=kEQHu-mCun8",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=kEQHu-mCun8"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Song I’m listening to again and again",
+      "category": "music",
+      "title": "Ya Habibi Ta’ala - يا حبيبي تعالَ",
+      "creator": null,
+      "note": "([YouTube](https://www.youtube.com/watch?v=eqmWkqh1kt8), [SoundCloud](https://soundcloud.com/user-476613258/lynn-adib-zeid-hamdan-ya)) performed by Lynn Adib ([@lynnadib](https://www.instagram.com/lynnadib/?hl=en)) and Zeid Hamdan ([@ZeidHamdan](https://twitter.com/zeidhamdan?lang=en)).",
+      "original_url": "https://www.youtube.com/watch?v=eqmWkqh1kt8",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=eqmWkqh1kt8"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=eqmWkqh1kt8"
+        },
+        {
+          "type": "other",
+          "url": "https://soundcloud.com/user-476613258/lynn-adib-zeid-hamdan-ya"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/lynnadib/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/zeidhamdan?lang=en"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Blog posts I’m reading",
+      "category": "article",
+      "title": "The Big Picture",
+      "creator": null,
+      "note": "and **“**[**The Ladder**](https://waitbutwhy.com/wop-ch-1-excerpt)**”** by [Tim Urban](https://tim.blog/2017/11/30/managing-procrastination-predicting-the-future-and-finding-happiness/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@waitbutwhy](https://twitter.com/waitbutwhy)), one of my favorite writers on the entire web.",
+      "original_url": "https://waitbutwhy.com/wop-excerpt",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://waitbutwhy.com/wop-excerpt"
+        },
+        {
+          "type": "other",
+          "url": "https://waitbutwhy.com/wop-ch-1-excerpt"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/11/30/managing-procrastination-predicting-the-future-and-finding-happiness/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/waitbutwhy"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Poem I’m pondering",
+      "category": "other",
+      "title": "John O’Donohue",
+      "creator": null,
+      "note": "​  \n​\n\n* * *\n\n​  \nYou can complement this edition of _5-Bullet Friday_ with [my interview with Tim Urban](https://tim.blog/2017/11/30/managing-procrastination-predicting-the-future-and-finding-happiness/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), my conversation with [elite powerlifter Dr. Stefi Cohen](https://tim.blog/2021/01/06/stefi-cohen/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), and the two podcast appearances of legendary comic book artist [Todd McFarlane](https://tim.blog/2022/12/16/todd-mcfarlane-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([episode #639](https://tim.blog/2022/11/30/todd-mcfarlane/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) and [episode #643](https://tim.blog/2022/12/16/todd-mcfarlane-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)).  \n​  \nAnd, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just [send a tweet to @tferriss](https://twitter.com/tferriss) and put #5BulletFriday at the end so I can find it.  \n​  \nHave a wonderful weekend, all.  \n​  \nMuch love to you and yours,  \n​  \nTim\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/dMmZeJ3BT5bgn82jBtRyrL)\n\n​\n\n### Forwarded this message? [Sign up here](https://go.tim.blog/5-bullet-friday-1/?utm_source=convertkit&utm_medium=convertit&utm_campaign=footer).\n\nJoin millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff.\n\n[Sign Up](https://go.tim.blog/5-bullet-friday-1/)\n\n![Tim Ferriss](https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png) \n\n### Listen to _The Tim Ferriss Show_ Podcast\n\n_The Tim Ferriss Show_ is one of the most popular podcasts in the world with more than 900 million downloads. It has been selected for \"Best of Apple Podcasts\" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts   \non many occasions.\n\n  [![Apple Podcasts](https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png)  Podcasts](https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2) \n\n  [![Apple Podcast](https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png)  Apple Podcasts](https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2) \n\n  [![Overcast](https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png)  Overcast](https://overcast.fm/itunes863897795/the-tim-ferriss-show)    [![Spotify](https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png)  Spotify](https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM)    [![Tim's Blog](https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png)  Tim's Blog](https://tim.blog/podcast?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test)\n\n### Read Tim's Books\n\n[![Read Tim's Books](https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png)](https://tim.blog/tim-ferriss-books/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test)\n\n  [![Amazon](https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png)  Amazon](https://www.amazon.com/Timothy-Ferriss/e/B001ILKBW2%3Fref=dbs_a_mng_rwt_scns_share)    [![Audible](https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png)  Audible](https://www.audible.com/ep/TimsBooks)   [![B & N](https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png) B & N](https://www.barnesandnoble.com/s/%22Timothy%20Ferriss%22?Ntk=P_key_Contributor_List)    [![Tim's Blog](https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png)  Tim's Blog](https://tim.blog/tim-ferriss-books/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test)\n\nFollow Tim:\n\n[![TW](https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png)](https://twitter.com/tferriss)\n\n[![IG](https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png)](https://www.instagram.com/timferriss/)\n\n[![YT](https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png)](https://www.youtube.com/channel/UCznv7Vf9nBdJYvBagFdAHWw)\n\n[![FB](https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png)](https://www.facebook.com/TimFerriss)\n\n[![IN](https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png)](https://www.linkedin.com/in/timferriss/)\n\n**DO NOT REPLY HERE**: Due to volume, please do not reply to this email. Sadly we are unable to read 1000+ email replies daily. To reply to Tim, please do so in the blog comments [here](https://tim.blog/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test).\n\nNo longer want these emails?  [Unsubscribe](https://unsubscribe.fourhourmail.com/n4u05gdnnavh8n66lnuv)\n\n3​11​2 Win​dso​r R​d., Box #UNS, Austin TX 78703, United States\n\n​\n\n![](https://open.fourhourmail.com/n4u05gdnnavh8n66lnuv)",
+      "original_url": "https://en.wikipedia.org/wiki/John_O%27Donohue",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/John_O%27Donohue"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/11/30/managing-procrastination-predicting-the-future-and-finding-happiness/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/01/06/stefi-cohen/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/12/16/todd-mcfarlane-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/11/30/todd-mcfarlane/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/12/16/todd-mcfarlane-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/?utm_source=convertkit&utm_medium=convertit&utm_campaign=footer"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/n4u05gdnnavh8n66lnuv"
+        }
+      ]
+    }
+  ]
 }

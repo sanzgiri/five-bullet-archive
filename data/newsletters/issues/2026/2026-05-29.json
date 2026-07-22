@@ -7,7 +7,166 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "Curious cases of financial engineering in biotech",
+      "creator": null,
+      "note": "This is an exceptional piece that felt like flipping a switch and suddenly seeing a broader spectrum of light. Hat tip to Phil Strandwitz of [Holobiome](https://holobiome.org/) for the recommendation. And congrats on [the ARPA-H grant](https://www.arpa-h.gov/explore-funding/awards/4321)!",
+      "original_url": "https://www.owlposting.com/p/curious-cases-of-financial-engineering",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.owlposting.com/p/curious-cases-of-financial-engineering"
+        },
+        {
+          "type": "other",
+          "url": "https://holobiome.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.arpa-h.gov/explore-funding/awards/4321"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "La Descarria",
+      "creator": "Corina Lawrence feat",
+      "note": "([YouTube](https://www.youtube.com/watch?v=ATVaPK5bz9A), [Spotify](https://open.spotify.com/track/1iNpP6yYax94B4eADEW3Qx?si=QfLK5KYfSRyhL1IKTu2MSQ&nd=1&dlsi=e1df2ac616154624)) by [Corina Lawrence](https://www.instagram.com/corinalawrence_/) feat. [Miss Bolivia](https://www.instagram.com/missboliviamusica/) ([Uji](https://www.instagram.com/uji_music/) Remix).",
+      "original_url": "https://www.youtube.com/watch?v=ATVaPK5bz9A",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=ATVaPK5bz9A"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=ATVaPK5bz9A"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/1iNpP6yYax94B4eADEW3Qx?si=QfLK5KYfSRyhL1IKTu2MSQ&nd=1&dlsi=e1df2ac616154624"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/corinalawrence_/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/missboliviamusica/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/uji_music/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Gell-Mann amnesia effect",
+      "creator": null,
+      "note": "This was coined by the incredible author, [Michael Crichton](https://en.wikipedia.org/wiki/Michael_Crichton), who created [_Jurassic Park_](https://en.wikipedia.org/wiki/Jurassic_Park), the original [_Westworld_](https://en.wikipedia.org/wiki/Westworld_(TV_series)), the [_ER_](https://en.wikipedia.org/wiki/ER_(TV_series)) TV series, and countless others. From his Wikipedia page:  \n​  \n​_\\[Crichton\\] explained that he had chosen the name ironically, because he had once discussed the effect with physicist Murray Gell-Mann, \"and by dropping a famous name I imply greater importance to myself, and to the effect, than it would otherwise have.\"_​  \n​  \n​_Briefly stated, the Gell-Mann Amnesia effect works as follows. You open the newspaper to an article on some subject you know well. In Murray's case, physics. In mine, show business. You read the article and see the journalist has absolutely no understanding of either the facts or the issues. Often, the article is so wrong it actually presents the story backward-reversing cause and effect. I call these the \"wet streets cause rain\" stories. Paper's full of them. In any case, you read with exasperation or amusement the multiple errors in a story-and then turn the page to national or international affairs, and read with renewed interest as if the rest of the newspaper was somehow more accurate about far-off Palestine than it was about the story you just read. You turn the page, and forget what you know._",
+      "original_url": "https://en.wikipedia.org/wiki/Michael_Crichton#%22Gell-Mann_amnesia_effect%22",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Michael_Crichton#%22Gell-Mann_amnesia_effect%22"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Michael_Crichton"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Jurassic_Park"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Westworld_(TV_series"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/ER_(TV_series"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "New term I’m enjoying",
+      "category": "other",
+      "title": "Hallucinatives (n.) The first generations to take AI/LLM answers as truth without cross-checking.",
+      "creator": null,
+      "note": "The first generations to take AI/LLM answers as truth without cross-checking.**​  \n​  \n​](https://x.com/tferriss/status/2060468204925763782)​[**Hallucinatives (n.)  \nThe first generations with unquestioned faith in the truth of AI/LLM answers.**](https://x.com/tferriss/status/2060469859603907034)​",
+      "original_url": "https://x.com/tferriss/status/2060468204925763782",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://x.com/tferriss/status/2060468204925763782"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/tferriss/status/2060469859603907034"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Your Feed Is Fake",
+      "creator": null,
+      "note": "(_Vulture_). ([Alternate non-paywall link](https://archive.is/3ixJc).) If you’re on social media, even as a casual browser, you should read this entire piece. It’ll give you 100 more reasons to delete your accounts and find better and safer hobbies. A few excerpts from the article:  \n​  \n​_Joe Lim estimates that 90 percent of what you see on the internet is advertising in disguise, and he should know. For three years, Lim ran a company called Floodify, which at its peak operated 65,000 dummy social-media accounts used to drum up attention on behalf of paying clients. On a typical day, he says, Floodify posted 50,000 videos across TikTok, Instagram, YouTube, and X, all of them designed to pass for the unscripted output of ordinary users.  \n​  \n…  \n​  \nWe’ve locked ourselves in the stupidest possible version of Plato’s cave, where what looks like the spontaneous consensus of the hive mind is often just shadows on the wall, put there by marketers, political operatives, foreign-influence campaigns, or anyone else with a few hundred bucks and something to sell. “Everybody is doing this now,” Lim says.  \n​  \n…  \n​  \nWhen we last spoke, he was building a new company and thinking even further ahead. “All of this nonsense is only going to last three to five more years, because in the future, people will stop trusting what they see on social media.” By then, the job will have moved one layer up. “You’ll have to start distributing your content toward AI agents and then they’ll teach humans what they want.”_",
+      "original_url": "https://www.vulture.com/article/social-media-feeds-chaotic-good-projects-clipping.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.vulture.com/article/social-media-feeds-chaotic-good-projects-clipping.html"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.is/3ixJc"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote that makes me feel better about myself",
+      "category": "quote",
+      "title": "“I’ve fallen in love or imagine that I have; went to a party and lost my head. Bought a horse which I don’t need at all.” — Leo Tolstoy, Diary entry, January 25, 1851 (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my conversation with Dr. Becky Kennedy, clinical psychologist, founder of Good Inside, and author of Good Inside: A Guide to Becoming the Parent You Want to Be_. We get into word-for-word scripts for repairing relationships, setting boundaries, and raising resilient kids. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Leo Tolstoy, Diary entry, January 25, 1851",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Leo_Tolstoy",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Leo_Tolstoy"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/vhrUe"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/01wUW6WogsKV1pDwAiXYDX?si=15ggYQgfQheOUqhmQeNgwg"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Good-Inside-Guide-Becoming-Parent/dp/0063159481/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

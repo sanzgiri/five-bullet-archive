@@ -7,7 +7,139 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Treat I’m enjoying —",
+      "category": "other",
+      "title": "Menakao’s Dark Chocolate 63% with Orange & Cranberries",
+      "creator": null,
+      "note": "I found this via [Cocoa Runners](https://cocoarunners.com), a beautiful and delicious service introduced to me by [Reid Hoffman](https://tim.blog/2015/08/31/the-oracle-of-silicon-valley-reid-hoffman-plus-michael-mccullough/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@reidhoffman](https://twitter.com/reidhoffman)). Thank you, Reid!",
+      "original_url": "https://cocoarunners.com/shop/menakao-dark-chocolate-with-orange-cranberries/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://cocoarunners.com/shop/menakao-dark-chocolate-with-orange-cranberries/"
+        },
+        {
+          "type": "other",
+          "url": "https://cocoarunners.com"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/08/31/the-oracle-of-silicon-valley-reid-hoffman-plus-michael-mccullough/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/reidhoffman"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching (short) —",
+      "category": "video",
+      "title": "Penn and Teller: Fool Us | Mahdi Gilbert Performs Sleight of Hand without Hands",
+      "creator": null,
+      "note": "I discovered Mahdi through this video, which he shared in a comment [on the blog](http://tim.blog/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) and wrote that “everyone needs hope during this long and dark winter.” For more magic, check out my interviews with [Penn Jillette](https://tim.blog/2020/01/09/penn-jillette/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) and [Richard Turner](https://www.youtube.com/watch?v=JuDn9QoDjz0).",
+      "original_url": "https://www.youtube.com/watch?v=2S8hB2XoUb4",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=2S8hB2XoUb4"
+        },
+        {
+          "type": "other",
+          "url": "http://tim.blog/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/01/09/penn-jillette/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=JuDn9QoDjz0"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m rereading —",
+      "category": "book",
+      "title": "The Art of Memoir",
+      "creator": "Mary Karr",
+      "note": "** I’ve long been fascinated by Mary Karr ([@marykarrlit](https://twitter.com/marykarrlit)), and I originally picked up her book on the craft of memoir writing after a recommendation by [Michael Pollan](https://tim.blog/2019/03/21/michael-pollan-sxsw/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). It applies to much of life, and I’d consider it a philosophical guide in many respects, replete with the dead serious (e.g., how to communicate past abuse) and spit-up-your-coffee funny (e.g., catshit sandwich metaphors). If you work with the written word in any capacity, I highly recommend. For more Mary, check out [my recent podcast interview](https://tim.blog/2020/11/11/mary-karr/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) with her.",
+      "original_url": "https://www.amazon.com/Art-Memoir-Mary-Karr/dp/0062223070",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Art-Memoir-Mary-Karr/dp/0062223070"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/marykarrlit"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/03/21/michael-pollan-sxsw/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/11/11/mary-karr/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Malemolência",
+      "creator": "Céu",
+      "note": "([YouTube](https://www.youtube.com/watch?v=b8cW-WETNmo), [Spotify](https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB?highlight=spotify:track:1Wit1Nw3sVBbyyX9NjjT7H)) by Céu ([@ceumusic](https://twitter.com/ceumusic?lang=en)). This has been one of my favorite songs for 4–5 years, and the entire album is stellar ([Lenda](https://open.spotify.com/track/7LXDofZT1zLYNcfThUxPpQ?autoplay=true) is another standout for me).",
+      "original_url": "https://www.youtube.com/watch?v=b8cW-WETNmo",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=b8cW-WETNmo"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=b8cW-WETNmo"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB?highlight=spotify:track:1Wit1Nw3sVBbyyX9NjjT7H"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/ceumusic?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/7LXDofZT1zLYNcfThUxPpQ?autoplay=true"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Autobiography is only to be trusted when it reveals something disgraceful. A man who gives a good account of himself is probably lying, since any life when viewed from the inside is simply a series of defeats.”— George Orwell And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "George Orwell And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/George_Orwell",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/George_Orwell"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

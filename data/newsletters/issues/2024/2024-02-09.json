@@ -6,7 +6,147 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Blog post I’m excited to share",
+      "category": "article",
+      "title": "You Don’t Need More How-To Advice — You Need a Beautiful and Painful Reckoning",
+      "creator": null,
+      "note": "If you like it, please leave a comment on the blog post. Here is the opener:  \n​  \n​**_For most of us, the how-to books on our shelves represent a growing to-do list, not advice we’ve followed.  \n​  \nSeveral of the better-known tech CEOs in San Francisco have asked me at different times for an identical favor: an index card with bullet-point instructions for losing abdominal fat. Each of them made it clear: “Just tell me exactly what to do and I’ll do it.”  \n​  \nI gave them all of the necessary tactical advice on one 3×5 card, knowing in advance what the outcome would be. The success rate was impressive… 0%.  \n​_**​  \n​**_People suck at following advice. Even the most effective people in the world are often terrible. There are at least two reasons:  \n​  \n​_**_1\\. Most people have an insufficient reason for action._** _The pain isn’t painful enough. It’s a nice-to-have, not a must-have. There has been no “Harajuku Moment.”  \n​  \n​_**_2\\. There are no reminders._** _No consistent tracking = no awareness = no behavioral change._ _Consistent tracking, even if you have no knowledge of fat-loss or exercise, will often beat advice from world-class trainers.  \n​  \nBut what is this all-important “Harajuku Moment”? And how can you use it?...  \n​_**​  \n​**[**Click here to learn all about the “Harajuku Moment,” and how it can transform lives.**](https://tim.blog/2024/02/09/harajuku-moment/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content)",
+      "original_url": "https://tim.blog/2024/02/09/harajuku-moment/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2024/02/09/harajuku-moment/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/02/09/harajuku-moment/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Short video I’m sharing with friends",
+      "category": "video",
+      "title": "Some wise words from synth pioneer Herbie Hancock.",
+      "creator": null,
+      "note": "This is an amazing story from a very young Herbie Hancock about Miles Davis. Rare video. Special thanks to [Dave Elitch](https://tim.blog/2018/11/26/dave-elitch/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content) for the find.",
+      "original_url": "https://www.instagram.com/p/Cvdy2YotVq6/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/p/Cvdy2YotVq6/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/11/26/dave-elitch/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Movie I’m watching over and over again",
+      "category": "video",
+      "title": "American Fiction",
+      "creator": null,
+      "note": ") ([Amazon](https://www.amazon.com/gp/video/detail/B0CPQ7GRYC/ref=atv_dp_share_cu_r), [Apple TV](https://tv.apple.com/us/movie/american-fiction/umc.cmc.5qme2234943x7zjd9iou9eae3)). _American Fiction_ is probably my favorite movie of the last 1–2 years. I’ve become obsessed with it, and you’ll laugh your ass off. I caught it last week at the theaters on a whim, and I’ve already watched it a second time to try and deconstruct the magic. It’s a comedic Trojan Horse of epic proportions. Don’t trust the streaming descriptions; _American Fiction_ is about much more. Every character is flawed in their own beautiful, human way, and the writing hits a home run. Ambiguities are left in so that the movie becomes your own Rorschach test. Huge kudos to everyone involved, including 2024 Oscar nominees [Cord Jefferson](https://twitter.com/cordjefferson) (Best Adapted Screenplay) and [Jeffrey Wright](https://twitter.com/jfreewright) (Best Actor). Thanks to [Orion Pictures](https://twitter.com/OrionPictures) and [MGM Studios](https://twitter.com/mgmstudios) for having the stones to back this marvel. You can now also [watch it at home](https://www.amazon.com/American-Fiction-Jeffrey-Wright/dp/B0CPQ8CSST/). It currently has a 95% audience score on [Rotten Tomatoes](https://www.rottentomatoes.com/m/american_fiction), and you can find the trailer [here](https://youtu.be/i0MbLCpYJPA?feature=shared).  \n​  \nTrust me and watch the trailer.",
+      "original_url": "https://en.wikipedia.org/wiki/American_Fiction_(film",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/American_Fiction_(film"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/gp/video/detail/B0CPQ7GRYC/ref=atv_dp_share_cu_r"
+        },
+        {
+          "type": "other",
+          "url": "https://tv.apple.com/us/movie/american-fiction/umc.cmc.5qme2234943x7zjd9iou9eae3"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/cordjefferson"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/jfreewright"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/OrionPictures"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/mgmstudios"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/American-Fiction-Jeffrey-Wright/dp/B0CPQ8CSST/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rottentomatoes.com/m/american_fiction"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/i0MbLCpYJPA?feature=shared"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Podcast episode I’m listening to",
+      "category": "podcast",
+      "title": "Ryan Reynolds on the SmartLess podcast",
+      "creator": null,
+      "note": "Special thanks to everyone on Twitter who [shared their favorite episodes](https://twitter.com/tferriss/status/1752777788392931557) of _SmartLess_. This one came up repeatedly and doesn’t disappoint. The official description: “The super-handsome, ultra-talented, and mildly-funny Ryan Reynolds joins us this week on the show. We go deep with the double-R, from stocking shelves label-out, to vulnerability as a performer and business owner… while touching on his ‘humanitarian efforts’ diving for Melo Melo pearls that he bedazzles his new line of toe-loop sandals with. It’s another naughty shipwreck on the S.S. SmartLess. Welcome aboard!”",
+      "original_url": "https://open.spotify.com/episode/2sytUVkvVG3Sp2b2VVquhO",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://open.spotify.com/episode/2sytUVkvVG3Sp2b2VVquhO"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss/status/1752777788392931557"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The hardest thing to teach a student—and the hardest thing to believe consistently—is that there is nothing ‘out there’ to go and get. There is no part, no career, no opportunity for which you should be searching and scrounging and coveting. All of the preparation is within, and you keep yourself mentally and physically fit; you remain generous with yourself and others; you stay deeply in study about your craft. Whatever is yours will then arrive.” — Marian Seldes_ _(Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with “How to Quickly Learn Golf,” which is the latest episode from The Tim Ferriss Experiment_; my interview with Hugh Jackman; and my conversation with Dave Elitch. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "and the hardest thing to believe consistently—is that there is nothing ‘out there’ to go and get. There is no part, no career, no opportunity for which you should be searching and scrounging and coveting. All of the preparation is within, and you keep yourself mentally and physically fit; you remain generous with yourself and others; you stay deeply in study about your craft. Whatever is yours will then arrive.” — Marian Seldes_ _",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Marian_Seldes",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Marian_Seldes"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/48Q7b"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/i_nGfMDTaBU"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/06/26/hugh-jackman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/11/26/dave-elitch/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        }
+      ]
+    }
+  ]
 }

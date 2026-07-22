@@ -6,7 +6,147 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short post I’m rereading",
+      "category": "article",
+      "title": "You Are Not Late",
+      "creator": "Kevin Kelly, written only three months after I first started the podcast way back in April 2014",
+      "note": ", written only three months after I first started the podcast way back in April 2014. At the time, I was told that the podcast ship had sailed and that I was late to the party. You are not late.",
+      "original_url": "https://kk.org/thetechnium/you-are-not-late/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://kk.org/thetechnium/you-are-not-late/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Jazz Kissa Octet, Yamagata",
+      "creator": "Craig Mod",
+      "note": ". Unique to Japan, jazz _kissa_ are cafés that focus on the appreciation of recorded jazz music. Music is played for dedicated listening rather than as background music. The video includes a binaural recording (recorded with two microphones, so headphones are recommended for an immersive experience) of listening to “Sonora” off Ryo Fukui’s _A Letter from Slow Boat_ at Octet jazz _kissa_ in Yamagata, Japan.",
+      "original_url": "https://youtu.be/S-_tsHcqSIs?list=PLgKA2YbcSq1WW-cZNvKUN4yRkDypUCpeq",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/S-_tsHcqSIs?list=PLgKA2YbcSq1WW-cZNvKUN4yRkDypUCpeq"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=B87ATe3Bxh8"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Book I’m reading",
+      "category": "book",
+      "title": "The Universe in Verse",
+      "creator": null,
+      "note": "In 2017, [Maria Popova](https://tim.blog/2014/10/21/brain-pickings/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) of _The Marginalian_ fame, created the first Universe in Verse event, which featured great prose paired with rich poetry, all celebrating and deepening our relationship to science and art. If you’d like to see me read a Walt Whitman poem for the 2024 event in Austin—nervous as a whippet being pelted with plums—watch 1:36:13 [in this video](https://www.youtube.com/watch?t=5776s&v=9aj33Ya36X8) onward. It was my first time ever reading poetry publicly, as I was a last-minute replacement for a cancellation. Great recipe for fear sweats.  \n​  \nMaria recently turned _The Universe in Verse_ into [a gorgeous, thought-provoking book](https://www.amazon.com/Universe-Verse-Portals-through-Science/dp/1635868831/) featuring 15 of her essays plus relevant poetry classics and illustrations by [Ofra Amit](https://www.ofra-amit.com/). Here’s part of the description: “Fifteen portals to wonder, each comprising an essay about some enchanting facet of science (entropy and dark matter, symmetry and the singularity, octopus intelligence and the evolution of flowers), paired with a poem that shines a sidewise gleam on these concepts.”",
+      "original_url": "https://www.themarginalian.org/2024/05/01/the-universe-in-verse-book/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.themarginalian.org/2024/05/01/the-universe-in-verse-book/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/10/21/brain-pickings/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?t=5776s&v=9aj33Ya36X8"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Universe-Verse-Portals-through-Science/dp/1635868831/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.ofra-amit.com/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m celebrating",
+      "category": "other",
+      "title": "My collaboration with LALO Tequila",
+      "creator": null,
+      "note": "This collaboration between yours truly and LALO is not available for purchase, as it was made exclusively for podcast guests on the 10-year anniversary of the podcast, but I wanted to share [this video](https://www.instagram.com/p/DH6idEXvKBY/) and [associated still photos](https://www.instagram.com/p/DICKy78vTfo/?img_index=1). The Wixárika people are one of the oldest known Indigenous groups still using peyote (_hikuri_) in a traditional context. This collaboration has already put more than $100,000 USD into the betterment of Wixárika communities, whose sacred lands are under threat from mining companies and other commercial interests. Visit the [Goodness Sake Foundation](https://www.goodnesssakefoundation.com/) to learn more about [The Wirikuta Preservation Project](https://www.goodnesssakefoundation.com/wirikuta). You can [watch a six-minute, gorgeously shot mini-documentary here](https://www.youtube.com/watch?v=i1gvPrzgQKo), and I also recommend checking out the [Indigenous Peyote Conservation Initiative (IPCI)](https://www.ipci.life/), which is based in the USA.",
+      "original_url": "https://www.instagram.com/p/DH6idEXvKBY/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/p/DH6idEXvKBY/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/DH6idEXvKBY/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/DICKy78vTfo/?img_index=1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.goodnesssakefoundation.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.goodnesssakefoundation.com/wirikuta"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=i1gvPrzgQKo"
+        },
+        {
+          "type": "other",
+          "url": "https://www.ipci.life/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“You come to understand that most people are neither for you nor against you, they are thinking about themselves. You learn that no matter how hard you try to please, some people in this world are not going to love you, a lesson that is at first troubling and then really quite relaxing.” — John W. Gardner (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my brand-new interview with film director, screenwriter, producer, cinematographer, editor, and composer Robert Rodriguez. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "John W. Gardner",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/John_W._Gardner",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/John_W._Gardner"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/dp/0316178314/"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/7mC1Z"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/04/03/robert-rodriguez-returns/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

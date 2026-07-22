@@ -6,7 +6,259 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Is Bach the greatest achiever of all time?",
+      "creator": "Tyler Cowen",
+      "note": "([@tylercowen](https://twitter.com/tylercowen)).",
+      "original_url": "https://marginalrevolution.com/marginalrevolution/2023/09/is-bach-the-greatest-achiever-of-all-time.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://marginalrevolution.com/marginalrevolution/2023/09/is-bach-the-greatest-achiever-of-all-time.html"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/03/05/tyler-cowen/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tylercowen"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "The Birth of Babylon",
+      "creator": null,
+      "note": "([Apple Podcasts](https://podcasts.apple.com/gb/podcast/181-the-birth-of-babylon/id1537788786?i=1000559280205), [Spotify](https://open.spotify.com/episode/6BKEPqU7yguHqJRX5ENSos), [Overcast](https://overcast.fm/+lXhaEYjbA)) on [_The Rest Is History_](https://www.goalhangerpodcasts.com/the-rest-is-history) podcast with [Tom Holland](https://twitter.com/holland_tom) and [Dominic Sandbrook](https://twitter.com/dcsandbrook).  \n​**“**[**The Sumerians - Fall of the First Cities**](https://podcasts.apple.com/us/podcast/8-the-sumerians-fall-of-the-first-cities/id1449884495?i=1000454904678)**”** ([Apple Podcasts](https://podcasts.apple.com/us/podcast/8-the-sumerians-fall-of-the-first-cities/id1449884495?i=1000454904678), [Spotify](https://open.spotify.com/episode/02mi6TfCLV0ynvSlmhqZqj?si=U8Bzay6oQfSkG7drMIhMrg), [Overcast](https://overcast.fm/+Z-mgbj2ho)) on the [_Fall of Civilizations_](https://fallofcivilizationspodcast.com/) podcast with [Paul M.M. Cooper](https://twitter.com/paulmmcooper).  \n​  \nQuick reframe for fun: time-wise, you and I are closer to Cleopatra’s life (70/69 BC–10 August 30 BC) than Cleopatra was to the construction of the pyramids (c. 2570 BC).  \n​  \nHuge thanks to T. Face for the above recommendations!",
+      "original_url": "https://podcasts.apple.com/gb/podcast/181-the-birth-of-babylon/id1537788786?i=1000559280205",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://podcasts.apple.com/gb/podcast/181-the-birth-of-babylon/id1537788786?i=1000559280205"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/gb/podcast/181-the-birth-of-babylon/id1537788786?i=1000559280205"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/6BKEPqU7yguHqJRX5ENSos"
+        },
+        {
+          "type": "other",
+          "url": "https://overcast.fm/+lXhaEYjbA"
+        },
+        {
+          "type": "other",
+          "url": "https://www.goalhangerpodcasts.com/the-rest-is-history"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/holland_tom"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/dcsandbrook"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/8-the-sumerians-fall-of-the-first-cities/id1449884495?i=1000454904678"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/8-the-sumerians-fall-of-the-first-cities/id1449884495?i=1000454904678"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/02mi6TfCLV0ynvSlmhqZqj?si=U8Bzay6oQfSkG7drMIhMrg"
+        },
+        {
+          "type": "other",
+          "url": "https://overcast.fm/+Z-mgbj2ho"
+        },
+        {
+          "type": "other",
+          "url": "https://fallofcivilizationspodcast.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/paulmmcooper"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Arnold",
+      "creator": null,
+      "note": "This was recommended to me by at least a dozen friends, and it doesn’t disappoint. This three-part miniseries is from the same producers who gave us [_The Defiant Ones_](https://www.imdb.com/title/tt6958022/). The official description: “This intimate docuseries follows [Arnold Schwarzenegger](https://tim.blog/2015/02/02/arnold-schwarzenegger/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)’s multifaceted life and career, from bodybuilding champ to Hollywood icon to politician.”",
+      "original_url": "https://www.netflix.com/title/81317673",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.netflix.com/title/81317673"
+        },
+        {
+          "type": "other",
+          "url": "https://www.imdb.com/title/tt6958022/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/02/02/arnold-schwarzenegger/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m excited to dig into this weekend and next week",
+      "category": "other",
+      "title": "Your responses here",
+      "creator": null,
+      "note": "My podcast, [_The Tim Ferriss Show_](https://tim.blog/podcast/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)_,_ is turning 10 years old next year, and I couldn’t be more excited. After almost 700 episodes and nearly 1B downloads, it’s arguably the biggest thing I’ve ever done, and without you all—my dear listeners—this show wouldn’t exist. Thank you so much for allowing me to do this work. As the big birthday approaches, I’d love to get to know you all better. By filling out [this survey](https://forms.gle/WyuSa953dGojFSg87), you can help me choose the best guests, formats, topics/questions, sponsors, and much more. And as a thank-you, I’ll be giving away 20 signed copies of _The 4-Hour Workweek_ to 20 people who fill out the survey. [**Could you please take a moment today and fill it out**](https://forms.gle/WyuSa953dGojFSg87)**?** It doesn’t take long, and it would mean a lot.",
+      "original_url": "https://forms.gle/WyuSa953dGojFSg87",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://forms.gle/WyuSa953dGojFSg87"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/podcast/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://forms.gle/WyuSa953dGojFSg87"
+        },
+        {
+          "type": "other",
+          "url": "https://forms.gle/WyuSa953dGojFSg87"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“To learn to be always in a state of meditation means never to let your vital energy wane. You would never allow it to do so if it were certain that you were to die tomorrow. It wanes because you forget about death. Grit your teeth, fix your gaze, and observe death at this moment. You have to feel it so strongly that it seems as if it’s attacking you. Fearless energy comes from this. At this moment, death is right before your eyes. It’s not something you can afford to neglect.” — Suzuki Shōsan (1579–1655) (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my brand-new interview with Nassim Nicholas Taleb and Scott Patterson, my conversation with Arnold Schwarzenegger, and my interview with Tyler Cowen. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim ### Forwarded this message? Sign up here. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. Sign Up ### Listen to The Tim Ferriss Show Podcast The Tim Ferriss Show is one of the most popular podcasts in the world with more than 900 million downloads. It has been selected for \"Best of Apple Podcasts\" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts on many occasions. Podcasts Apple Podcasts Overcast Spotify Tim's Blog ### Read Tim's Books [](https://tim.blog/tim-ferriss-books/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test) Amazon Audible B & N Tim's Blog Follow Tim: [](https://twitter.com/tferriss) [](https://www.instagram.com/timferriss/) [](https://www.youtube.com/channel/UCznv7Vf9nBdJYvBagFdAHWw) [](https://www.facebook.com/TimFerriss) [](https://www.linkedin.com/in/timferriss/) DO NOT REPLY HERE: Due to volume, please do not reply to this email. Sadly we are unable to read 1000+ email replies daily. To reply to Tim, please do so in the blog comments here. No longer want these emails? Unsubscribe 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Suzuki Shōsan",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Suzuki_Sh%C5%8Dsan",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Suzuki_Sh%C5%8Dsan"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/3c8e7"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/09/07/nassim-nicholas-taleb-scott-patterson/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/02/02/arnold-schwarzenegger/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/03/05/tyler-cowen/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/?utm_source=convertkit&utm_medium=convertit&utm_campaign=footer"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/5-bullet-friday-1/"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c3abd97c-bb64-45cd-9b5e-a256fadc9403/TimFerriss.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0fcbb9a8-efe8-4f01-8a9b-66d0e227302b/podcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/21247b1d-95f4-43f0-825a-de8df37dc502/overcast.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/34cf3f70-d29e-4e21-8535-2b57896d7b92/spotify.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/a50cc683-eabc-4db0-8c2b-12a7f70567a4/tims_books.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0608daae-6171-4090-9106-da0f78825ced/amazon.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/ce0cc7e1-3a63-41b2-ae1d-fb6eb23061d0/audible.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/0c8e43e9-3e14-4622-88c5-a1a03920fe2c/barnes_noble.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/419231c8-91dc-44ea-9a2f-b9362efffc37/timssite.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/c624fb25-eb38-4957-a828-26108cbe0a03/tw.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/454ea0a7-040d-4472-b8c1-e275a065f5e1/ig.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/02224cdb-e0e6-48c4-beb8-312ff2de1933/yt.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/3c46cda5-6136-4152-9fb9-ca4a372f9479/fb.png"
+        },
+        {
+          "type": "other",
+          "url": "https://d2axdqolvqmdvx.cloudfront.net/494c23bd-d678-4059-b61b-e932ff45aa55/linkedin.png"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_source=convertkit&utm_medium=convertit&utm_campaign=design-test"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/38uml98xxakhoznn5zcos56e0pnn"
+        }
+      ]
+    }
+  ]
 }

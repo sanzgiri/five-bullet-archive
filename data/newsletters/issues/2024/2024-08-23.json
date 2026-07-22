@@ -6,7 +6,194 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short post I’m reading",
+      "category": "article",
+      "title": "The Most Important Question of Your Life",
+      "creator": "Mark Manson",
+      "note": ". I could see reading this once a week. Excellent reminders all around.",
+      "original_url": "https://markmanson.net/question",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://markmanson.net/question"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/12/30/mark-manson/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Jordan Jonas: Survival, Hunting, Siberia, God, and Winning Alone Season 6",
+      "creator": null,
+      "note": "on the [_Lex Fridman Podcast_](https://lexfridman.com/podcast/) ([YouTube](https://youtu.be/WA9gVKKPsBo?si=-dJHjiRZgOyZxQLd), [Spotify](https://open.spotify.com/episode/4vDoTt5PGlSaVavqoBHHQT?si=m96h41gIQrq_rO2ha2ImFA), [Apple Podcasts](https://podcasts.apple.com/us/podcast/437-jordan-jonas-survival-hunting-siberia-god-and/id1434243584?i=1000662920415)). I loved this episode, particularly the second half, which includes Jordan’s incredible family history, Siberian adventures, and thoughts on faith. The entire episode made perfect listening for a long hike. It didn’t hurt that _Alone_ is perhaps the only reality TV series I’ve watched at length. Here’s the episode description: “Jordan Jonas is a wilderness survival expert, explorer, hunter, guide, and winner of Alone Season 6, a show in which the task is to survive alone in the arctic wilderness longer than anyone else. He is widely considered to be one of the greatest competitors in the history of that show.”",
+      "original_url": "https://youtu.be/WA9gVKKPsBo?si=-dJHjiRZgOyZxQLd",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/WA9gVKKPsBo?si=-dJHjiRZgOyZxQLd"
+        },
+        {
+          "type": "other",
+          "url": "https://lexfridman.com/podcast/"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/WA9gVKKPsBo?si=-dJHjiRZgOyZxQLd"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/4vDoTt5PGlSaVavqoBHHQT?si=m96h41gIQrq_rO2ha2ImFA"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/437-jordan-jonas-survival-hunting-siberia-god-and/id1434243584?i=1000662920415"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Short film I’m watching",
+      "category": "video",
+      "title": "“BALANCE” | A Maui Nui Venison Story",
+      "creator": null,
+      "note": "This beautifully shot ~10-minute short film pairs well with the above bullet.  \n​  \nFull disclosure: I’m a long-time investor in Maui Nui because I deeply believed in their ethos and purpose. It’s also the most nutrient-dense red meat you can buy in North America. [This option](https://mauinuivenison.com/collections/butcher-shop/products/sugar-free-pepper-stick-24-pack) and [this option](https://mauinuivenison.com/collections/butcher-shop/products/ground) are good starting points, if you’ve never tried it. Last, if you don’t think “clean meat” is possible, I challenge you to read their [mission page](https://mauinuivenison.com/pages/mission).",
+      "original_url": "https://www.youtube.com/watch?v=QLx6RDIFcW4",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=QLx6RDIFcW4"
+        },
+        {
+          "type": "other",
+          "url": "https://mauinuivenison.com/collections/butcher-shop/products/sugar-free-pepper-stick-24-pack"
+        },
+        {
+          "type": "other",
+          "url": "https://mauinuivenison.com/collections/butcher-shop/products/ground"
+        },
+        {
+          "type": "other",
+          "url": "https://mauinuivenison.com/pages/mission"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Series I’m watching",
+      "category": "video",
+      "title": "3 Body Problem",
+      "creator": null,
+      "note": "I ended up binge watching this season over a few nights.  \n​  \nIt’s based on _The Three-Body Problem_ (Chinese: 三体; lit. ‘three body’), a 2008 novel by the Chinese science-fiction author Liu Cixin. Following publication, it quickly became one of the most successful novels of the prior two decades in China. _The Three-Body Problem_ was later translated into English by Joel Martinsen and Ken Liu. Ken has written amazing works, including [_The Paper Menagerie and Other Stories_](https://www.amazon.com/Paper-Menagerie-Other-Stories/dp/148142436X/), which was gifted to me by [Matt Mullenweg](https://tim.blog/2023/12/29/matt-mullenweg-2/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) (thanks, Matt!). The English translation of _The Three-Body Problem_ won a Hugo Award and was nominated for a Nebula Award.  \n​  \nNow, it’s a TV series on Netflix. You may recognize two of the show’s creators, [David Benioff](https://en.wikipedia.org/wiki/David_Benioff) and [D. B. Weiss](https://en.wikipedia.org/wiki/D._B._Weiss), as the co-creators of the _Game of Thrones_ television series. [Alexander Woo](https://en.wikipedia.org/wiki/Alexander_Woo), the series’ third creator, was an executive producer on _True Blood_.  \n​  \nAt the very least, [watch the trailer](https://youtu.be/mogSbMD6EcY?si=7fQbX447vyPsaox7), which is underscored with an epic rendition of Radiohead’s “Everything in Its Right Place.”  \n​  \nSome of you have asked how I retain languages I’ve studied. The short answer: I don’t. I use a lot of passive reactivation. For instance, if I’m watching a Netflix show in English, I turn on subtitles for a language I’ve studied before. In this case, it was Latin American Spanish, and I actually got a two-for-one, as I was able to review a bit of Mandarin while tying it to the Spanish subtitles. For more tips, check out [How to Resurrect Your High School Spanish… or Any Language](https://tim.blog/2007/09/20/how-to-resurrect-your-high-school-spanish-or-any-language-plus-be-on-the-cbs-early-show/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content). If you want to go really deep on accelerated learning, check out the “Meta-Learning” section of [_The 4-Hour Chef: The Simple Path to Cooking Like a Pro, Learning Anything, and Living the Good Life_](https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/0547884591/).",
+      "original_url": "https://www.netflix.com/title/81024821",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.netflix.com/title/81024821"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Paper-Menagerie-Other-Stories/dp/148142436X/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/12/29/matt-mullenweg-2/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/David_Benioff"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/D._B._Weiss"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Alexander_Woo"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/mogSbMD6EcY?si=7fQbX447vyPsaox7"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2007/09/20/how-to-resurrect-your-high-school-spanish-or-any-language-plus-be-on-the-cbs-early-show/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/0547884591/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "What I’m excited to share",
+      "category": "other",
+      "title": "Here is a post-game pic of us.",
+      "creator": null,
+      "note": ", and it starts with a barn burner of an in-person Random Show with Kevin Rose. I think it’s one of our best. Tons of actionable takeaways and laughing fits. [Here is a post-game pic of us.](https://www.instagram.com/p/C_BauzQv51Z/?igsh=MTN6czNuajF1bXh6Zg%3D%3D)​  \n​  \nWe cover dozens of topics: new projects, what I’ve done on my recent sabbatical after the podcast’s 10th anniversary, Kevin’s latest findings and shenanigans, and much, much more. It even includes some bizarre video of Kevin having his face assaulted by experimental technology.  \n​  \nLots of fun stuff coming on the pod.  \n​  \nIf you haven’t subscribed yet, you can find [_The Tim Ferriss Show_](tim.blog/podcast) podcast on [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-tim-ferriss-show/id863897795), [Spotify](https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM), or wherever you get your podcasts: [tim.blog/podcast](tim.blog/podcast).",
+      "original_url": "https://www.instagram.com/p/C_BauzQv51Z/?igsh=MTN6czNuajF1bXh6Zg%3D%3D",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/p/C_BauzQv51Z/?igsh=MTN6czNuajF1bXh6Zg%3D%3D"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/the-tim-ferriss-show/id863897795"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“You are right to be worried about your growing feelings of cynicism and you need to take action to protect yourself and those around you. … Cynicism is not a neutral position—and although it asks almost nothing of us, it is highly infectious and unbelievably destructive. In my view, it is the most common and easy of evils. I know this because much of my early life was spent holding the world and the people in it in contempt. It was a position both seductive and indulgent. The truth is, I was young and had no idea what was coming down the line. I lacked the knowledge, the foresight, the self-awareness. I just didn’t know. It took a devastation to teach me the preciousness of life and the essential goodness of people. It took a devastation to reveal the precariousness of the world, of its very soul, to understand that it was crying out for help. It took a devastation to understand the idea of mortal value, and it took a devastation to find hope. Unlike cynicism, hopefulness is hard-earned, makes demands upon us, and can often feel like the most indefensible and lonely place on Earth. Hopefulness is not a neutral position either. It is adversarial. It is the warrior emotion that can lay waste to cynicism. Each redemptive or loving act, as small as you like … keeps the devil down in the hole. It says the world and its inhabitants have value and are worth defending. It says the world is worth believing in. In time, we come to find that it is so.” — Nick Cave, legendary songwriter and frontman of Nick Cave and the Bad Seeds. Hat tip to @\\_\\_nitch on Instagram. (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my interview with renowned astrophysicist and cosmologist Janna Levin; my conversation with the founder of Maui Nui Venison, Jake Muise; and the latest supercombo podcast episode, featuring Golden Globe- and Emmy Award-winning actor Edward Norton and #1 New York Times bestselling author Dr. Martha Beck. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "and although it asks almost nothing of us, it is highly infectious and unbelievably destructive. In my view, it is the most common and easy of evils. I know this because much of my early life was spent holding the world and the people in it in contempt. It was a position both seductive and indulgent. The truth is, I was young and had no idea what was coming down the line. I lacked the knowledge, the foresight, the self-awareness. I just didn’t know. It took a devastation to teach me the preciousness of life and the essential goodness of people. It took a devastation to reveal the precariousness of the world, of its very soul, to understand that it was crying out for help. It took a devastation to understand the idea of mortal value, and it took a devastation to find hope. Unlike cynicism, hopefulness is hard-earned, makes demands upon us, and can often feel like the most indefensible and lonely place on Earth. Hopefulness is not a neutral position either. It is adversarial. It is the warrior emotion that can lay waste to cynicism. Each redemptive or loving act, as small as you like … keeps the devil down in the hole. It says the world and its inhabitants have value and are worth defending. It says the world is worth believing in. In time, we come to find that it is so.” — Nick Cave, legendary songwriter and frontman of Nick Cave and the Bad Seeds. Hat tip to @\\_\\_nitch on Instagram.",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Nick_Cave",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Nick_Cave"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/C-3NePzJ03R/?igsh=YmI3Ym1xNDhxeXJ4"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/Lr5MC"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/07/08/janna-levin/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/06/21/jake-muise/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/08/23/edward-norton-and-martha-beck/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,147 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "What if the Placebo Effect Isn’t a Trick?",
+      "creator": null,
+      "note": "(New York Times Magazine). This was recommended to me by [Dr. Peter Attia](https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/opfkhqhpxe6zm/aHR0cHM6Ly9wZXRlcmF0dGlhbWQuY29tL3RpbWZlcnJpc3MvP3V0bV9zb3VyY2U9dGltZmVycmlzcyZ1dG1fbWVkaXVtPXRpbWZlcnJpc3MmdXRtX2NhbXBhaWduPTViZg==). Here’s a good teaser from the piece: “New research is zeroing in on a biochemical basis for the placebo effect — possibly opening a Pandora’s box for Western medicine.”",
+      "original_url": "https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/v0i3hrhlm6v5m/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAxOC8xMS8wNy9tYWdhemluZS9wbGFjZWJvLWVmZmVjdC1tZWRpY2luZS5odG1s",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/v0i3hrhlm6v5m/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAxOC8xMS8wNy9tYWdhemluZS9wbGFjZWJvLWVmZmVjdC1tZWRpY2luZS5odG1s"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/opfkhqhpxe6zm/aHR0cHM6Ly9wZXRlcmF0dGlhbWQuY29tL3RpbWZlcnJpc3MvP3V0bV9zb3VyY2U9dGltZmVycmlzcyZ1dG1fbWVkaXVtPXRpbWZlcnJpc3MmdXRtX2NhbXBhaWduPTViZg=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Technology I’m playing with —",
+      "category": "other",
+      "title": "Coda",
+      "creator": null,
+      "note": "Specifically, I’m playing with new versions of the [Dreamlining](https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/6mceh8hzx45q9/aHR0cHM6Ly9jb2RhLmxpbmsvdGltZmVycmlzcy1kcmVhbWxpbmluZw==) and [Fear-setting](https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/2ds2hoh6lx85x/aHR0cHM6Ly9jb2RhLmxpbmsvdGltZmVycmlzcy1mZWFyc2V0dGluZw==) exercises using their platform. I have no stake in the company but find it interesting. Perhaps, like [Stripe](https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/95azhnh048xkk/aHR0cHM6Ly9zdHJpcGUuY29tLw==), it will reinvigorate a space full of incumbents?",
+      "original_url": "https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/pxteh9hmre2vn/aHR0cHM6Ly9jb2RhLmlvL3dlbGNvbWU=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/pxteh9hmre2vn/aHR0cHM6Ly9jb2RhLmlvL3dlbGNvbWU="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/6mceh8hzx45q9/aHR0cHM6Ly9jb2RhLmxpbmsvdGltZmVycmlzcy1kcmVhbWxpbmluZw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/2ds2hoh6lx85x/aHR0cHM6Ly9jb2RhLmxpbmsvdGltZmVycmlzcy1mZWFyc2V0dGluZw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/95azhnh048xkk/aHR0cHM6Ly9zdHJpcGUuY29tLw=="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "In case you missed it —",
+      "category": "other",
+      "title": "My interview with the one and only, LeBron James",
+      "creator": null,
+      "note": "This episode of The Tim Ferriss Show was the first time that LeBron ([@KingJames](https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/0nhwh9hvn4x0w/aHR0cHM6Ly90d2l0dGVyLmNvbS9LaW5nSmFtZXM=)) has been interviewed alongside his very below-the-radar, some might say top-secret, athletic trainer about details of training, recovery, diet, and even how much longer he hopes to play in the NBA. Enjoy!",
+      "original_url": "https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/40bvhehvw39zp/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzExLzI3L2xlYnJvbi1qYW1lcy1taWtlLW1hbmNpYXMvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/40bvhehvw39zp/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzExLzI3L2xlYnJvbi1qYW1lcy1taWtlLW1hbmNpYXMvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/0nhwh9hvn4x0w/aHR0cHM6Ly90d2l0dGVyLmNvbS9LaW5nSmFtZXM="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Most popular on Instagram —",
+      "category": "other",
+      "title": "“Fantastic street performer on South Congress Ave. in Austin, TX. Tunes so nice he had to choreograph it thrice.”",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/dqueh0hvdxkz0/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JxcWFjLW9BYUNYLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/dqueh0hvdxkz0/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JxcWFjLW9BYUNYLw=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“It is easier to act yourself into a new way of thinking, than it is to think yourself into a new way of acting.” — Millard Fuller And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim P.S. ‘Tis the season! This my first subscriber-only giveaway, all for fun. If you’d like to win these fancy binoculars, which I will happily mail as a gift to one of you, simply share your favorite quote from a past 5-Bullet Friday (from the “Quote I’m pondering” section) on Twitter and use hashtag #5BFQuote. If you gravitate towards Instagram, you are welcome to take a photo of your favorite quote from Tools of Titans_, Tribe of Mentors_, The 4-Hour Workweek_, or any of my other books and use the same hashtag. No purchase necessary, US-only for now, void where prohibited, must be older than 18, no minotaurs, etc. We’ll choose someone at random, and if you win, someone from my team will reach out for your mailing address next week. Happy holidays! (And if you do end up winning, here are some important instructions…) [](https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/0ghwh9hvn4x03/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Millard Fuller And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim P.S. ‘Tis the season! This my first subscriber-only giveaway, all for fun. If you’d like to win these fancy binoculars, which I will happily mail as a gift to one of you, simply share your favorite quote from a past 5-Bullet Friday",
+      "note": null,
+      "original_url": "https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/77i7h8hqde8v9/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWlsbGFyZF9GdWxsZXI=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/77i7h8hqde8v9/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWlsbGFyZF9GdWxsZXI="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/znfghnhn5z79p/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/xotph6hokmz83/aHR0cDovL3d3dy52b3J0ZXhvcHRpY3MuY29tL3Byb2R1Y3Qvdm9ydGV4LXZpcGVyLWhkLTEweDQyLWJpbm9jdWxhcg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/5rcvh7hq3w0p3/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Ub29scy1UaXRhbnMtQmlsbGlvbmFpcmVzLVdvcmxkLUNsYXNzLVBlcmZvcm1lcnMvZHAvMTMyODY4Mzc4OA=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/g5snh5hrg2n79/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9UcmliZS1NZW50b3JzLVNob3J0LUFkdmljZS1Xb3JsZC9kcC8xMzI4OTk0OTYx"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/nkaohvhm24gwp/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS80LUhvdXItV29ya3dlZWstRXNjYXBlLUxpdmUtQW55d2hlcmUvZHAvMDMwNzQ2NTM1Nw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/w4b2hghnmd492/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcy9zdGF0dXMvMTAwNjUzMzA0ODM0NTc3NjEyOD9sYW5nPWVu"
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/vou3hrhlm642w/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/u/27uk8e5mmuohezldk"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.fourhourmail.com/c/27uk8e5mmuohezldk/9xfzhnh04867z/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

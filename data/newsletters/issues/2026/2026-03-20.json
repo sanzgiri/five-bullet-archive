@@ -7,7 +7,143 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Music that’s helping me slide into the weekend",
+      "category": "music",
+      "title": "Mantis",
+      "creator": "Janapriyan Levine and Brooklyn Raga Massive, from the album Diamonds on the Deep Pink Ocean_",
+      "note": "([Spotify](https://open.spotify.com/track/20aX921hTggMXRS3TX3VIA?dlsi=7d52bcb7297f4347&nd=1&si=mXYQoQdaRnK461C8ErISBA), [YouTube](https://www.youtube.com/watch?v=w3pstuFXZ90)) by [Janapriyan Levine](https://www.instagram.com/janapriyanlevine/?hl=en) and [Brooklyn Raga Massive](https://www.instagram.com/brooklynragamassive/), from the album [_Diamonds on the Deep Pink Ocean_](https://open.spotify.com/album/1XAk4OvWfQdPuwyMhF5r0B).",
+      "original_url": "https://open.spotify.com/track/20aX921hTggMXRS3TX3VIA?dlsi=7d52bcb7297f4347&nd=1&si=mXYQoQdaRnK461C8ErISBA",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://open.spotify.com/track/20aX921hTggMXRS3TX3VIA?dlsi=7d52bcb7297f4347&nd=1&si=mXYQoQdaRnK461C8ErISBA"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/20aX921hTggMXRS3TX3VIA?dlsi=7d52bcb7297f4347&nd=1&si=mXYQoQdaRnK461C8ErISBA"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=w3pstuFXZ90"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/janapriyanlevine/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/brooklynragamassive/"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/album/1XAk4OvWfQdPuwyMhF5r0B"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Documentary I’m watching",
+      "category": "video",
+      "title": "Queen of Chess",
+      "creator": null,
+      "note": "From the description: “Hungarian chess prodigy Judit Polgár challenges champion Garry Kasparov \\[Tim note: Garry had an unmatched 20-year dominance as world #1\\] and her controlling father over 15 years … to become the greatest female player ever.” [Watch the trailer here](https://www.youtube.com/watch?v=8pmJgtLKBXg).  \n​  \nFor a deep dive into the educational philosophy and methods of Judit’s father, László Polgár, who trained all three of his daughters to be chess grandmasters, check out Scott Alexander’s [Slate Star Codex review](https://slatestarcodex.com/2017/07/31/book-review-raise-a-genius/) of László’s book [_Raise A Genius!_](https://slatestarcodex.com/Stuff/genius.pdf), which Scott had translated into English. Thanks to Ricardo for the recommendations!",
+      "original_url": "https://www.netflix.com/title/81749912",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.netflix.com/title/81749912"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=8pmJgtLKBXg"
+        },
+        {
+          "type": "other",
+          "url": "https://slatestarcodex.com/2017/07/31/book-review-raise-a-genius/"
+        },
+        {
+          "type": "other",
+          "url": "https://slatestarcodex.com/Stuff/genius.pdf"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Short clip I’m watching",
+      "category": "video",
+      "title": "Khabib vs Lex: Training with Khabib",
+      "creator": null,
+      "note": "Lex is a serious Brazilian jiu-jitsu (BJJ) practitioner and black belt [under Rick Migliarese and Phil Migliarese](https://www.instagram.com/p/CrEqiVarQIr/). So what happens when he rolls with one of the greatest of all time? I really appreciate that Lex taped and shared this, and there are a lot of comments that will make you happy you’re not underneath Khabib:  \n​  \n​_I felt like I was drowning watching this  \n​  \nThe fact that he doesn’t go for the sub, so you don’t tap, so you don’t reset position, so he can keep mauling you is diabolical lol  \n​  \n​_If you like the above video, you may also like “[Eddie Bravo speaks on Marcelo Garcia](https://www.youtube.com/watch?v=lY0PL5RYU8M).” To put this in perspective, Eddie Bravo is a savant of BJJ mastery and innovation. He famously tapped out Royler Gracie in competition. The above video was recorded after he trained with Marcelo Garcia, 9x world champion in BJJ and submission grappling.",
+      "original_url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/CrEqiVarQIr/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=lY0PL5RYU8M"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "Why Do Mind-Altering Drugs Make People Feel Better?",
+      "creator": null,
+      "note": "How do you break psychedelic molecules into parts, like cars in a chop shop, and build new ones? This is a thought-provoking _New Yorker_ piece by [Clayton Dalton](https://www.claytondalton.com/), an ER doc and [Ferriss-UC Berkeley Psychedelic Journalism Fellow](https://fellowships.journalism.berkeley.edu/bcsp/).  \n​  \nI like that this is a controversial piece. I hope it helps drive the science and conversation forward.  \n​  \nOn one hand, the “neuroplastogen” approach is often driven by business and financial incentives. If you can remove the hallucinations from psychedelics, your ability to fit within current medical structures (take-home meds, easier insurance reimbursement, etc.) helps you to scale, scale, scale. And if someone can make millions or billions of dollars by sticking to their hypothesis, expect conflicts of interest and a biased path, even with the best of intentions. To quote Charlie Munger: “Show me the incentive, and I will show you the outcome.”  \n​  \nOn the other hand, I completely agree with David Olson when he says “If you absolutely need the hallucinogenic effects, then these new compounds are not going to be the revolution in psychiatry that people are hoping they will be.” At least, not likely at the scale of millions of patients per year.  \n​  \nIf I were a betting man, I’d say that the set and setting—and, indeed, the trip content itself—seems to matter for applying psychedelics to certain conditions like PTSD and alcohol-use disorder. Otherwise, we’d all have friends with spontaneous remission of these conditions when using drugs recreationally. Personally, I have never witnessed this being the case, but I’d be happy to be proven wrong.  \n​  \nAt the same time, I’m funding research into the anti-inflammatory effects of certain psychedelics, which are profound, even at miniscule doses. I do think the “content matters” folks too easily dismiss the incredible physiological changes attributable to these compounds. So to take the opposite stance, I believe that conditions like treatment-resistant depression and chronic anxiety disorder may _not_ always need the trip. It could be that most such cases never need a trip. The jury is out.  \n​  \nWe can all get attached to the binary extremes. As usual, the truth is more likely somewhere in the middle.",
+      "original_url": "https://www.newyorker.com/culture/annals-of-inquiry/why-do-mind-altering-drugs-make-people-feel-better",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.newyorker.com/culture/annals-of-inquiry/why-do-mind-altering-drugs-make-people-feel-better"
+        },
+        {
+          "type": "other",
+          "url": "https://www.claytondalton.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://fellowships.journalism.berkeley.edu/bcsp/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Hope is definitely not the same thing as optimism. It is not the conviction that something will turn out well, but the certainty that something makes sense, regardless of how it turns out.” — Václav Havel (1936–2011), Czech writer and statesman, president of the Czech Republic from 1993 to 2003, from Disturbing the Peace: A Conversation with Karel Hvížďala_. (Click to share on X.) * * * You can complement this edition of 5-Bullet Friday with a brand-new Random Show conversation with my close friend Kevin Rose. We cover supplements, optimizing mitochondria, breathing and balance training, cool grip-strength tools, and much, much more. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Václav Havel",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/V%C3%A1clav_Havel",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/V%C3%A1clav_Havel"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/UDhbV"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=1dsTfXILUsM"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

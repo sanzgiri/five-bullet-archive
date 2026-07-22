@@ -6,7 +6,95 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short article I’m reading —",
+      "category": "article",
+      "title": "We See As We Be",
+      "creator": "Jamie Wheal",
+      "note": ". This is a hilarious, smart, and on-point read. If you’re dismayed by the hyper-polarity and “truthiness” of today’s discourse, or if you sense something isn’t quite right but can’t put a finger on it, this article might strike a chord.",
+      "original_url": "https://www.flowgenomeproject.com/post/we-see-as-we-be",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.flowgenomeproject.com/post/we-see-as-we-be"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/jamiewheal/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "New topic I’m exploring —",
+      "category": "other",
+      "title": "I’m considering getting solar panels for my home. Plenty of year-round sun. What are common rookie mistakes, important questions to ask, and any other tips? Thanks!",
+      "creator": null,
+      "note": "The comment thread here quickly turned into an incredible discussion, and it’s chock-full of resources.",
+      "original_url": "https://twitter.com/tferriss/status/1439943741628952581",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://twitter.com/tferriss/status/1439943741628952581"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Audiobook I’m listening to —",
+      "category": "audiobook",
+      "title": "One Up On Wall Street",
+      "creator": "Peter Lynch",
+      "note": ". This is an oldie but goodie. It was recommended to me by a stellar investor with an excellent multi-decade track record. I had asked him which 2–3 books he’d most recommend for a novice investor (as a friend had asked me), and this was at the top of his list. I gave it a listen and loved it. Some of the references are dated, and stock picking can be a high-risk business, but it’s still an excellent reminder of some powerful fundamentals. On top of that, Peter’s thick Boston accent and disdain for “smart money” combine to make for very enjoyable listening. Here’s the description: “America’s most successful money manager tells how average investors can beat the pros by using what they know. According to Lynch, investment opportunities are everywhere. From the supermarket to the workplace, we encounter products and services all day long. By paying attention to the best ones, we can find companies in which to invest before the professional analysts discover them. When investors get in early, they can find the ‘tenbaggers,’ the stocks that appreciate tenfold from the initial investment. A few tenbaggers will turn an average stock portfolio into a star performer…. Lynch is the former manager of the $9 billion Fidelity Magellan Fund, where he earned investors a $190,000 return on a $10,000 investment.”",
+      "original_url": "https://www.amazon.com/One-Up-On-Wall-Street-audiobook/dp/B0000547CO/ref=sr_1_3?dchild=1&keywords=one+up+on+wall+street+peter+lynch&qid=1631311226&sr=8-3",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/One-Up-On-Wall-Street-audiobook/dp/B0000547CO/ref=sr_1_3?dchild=1&keywords=one+up+on+wall+street+peter+lynch&qid=1631311226&sr=8-3"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Peter_Lynch"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Meme that captures my week well —",
+      "category": "other",
+      "title": "I think my cat is having a life crisis.",
+      "creator": null,
+      "note": "Thank you to my amazing, cat-loving girlfriend for sending this to me. What a week.",
+      "original_url": "https://www.instagram.com/reel/CT9txXEKZWg/?utm_medium=copy_link",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/reel/CT9txXEKZWg/?utm_medium=copy_link"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“What is success? It is an inner and indescribable force, resourcefulness, power of vision; a consciousness that I am, by my mere existence, exerting pressure on the movement of life about me. It is my belief in the adaptability of life to my own ends. Fortune and success lie within ourselves. We must hold them firmly—deep within us.”— Thomas Mann And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "deep within us.”— Thomas Mann And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Thomas_Mann",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Thomas_Mann"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

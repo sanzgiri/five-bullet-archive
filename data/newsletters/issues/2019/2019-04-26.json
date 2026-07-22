@@ -6,7 +6,111 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m rereading —",
+      "category": "article",
+      "title": "Keep Your Identity Small",
+      "creator": "Paul Graham",
+      "note": "convertkit-mail2.com/c/8kue0m6zzuohgp32w/w0f2hgh5054xpl/aHR0cHM6Ly90d2l0dGVyLmNvbS9wYXVsZw==)). This piece just becomes more and more important. One of the key lines: “The more labels you have for yourself, the dumber they make you.”",
+      "original_url": "https://el2.convertkit-mail2.com/c/8kue0m6zzuohgp32w/nziohvh878g6p7/aHR0cDovL3d3dy5wYXVsZ3JhaGFtLmNvbS9pZGVudGl0eS5odG1s",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail2.com/c/8kue0m6zzuohgp32w/nziohvh878g6p7/aHR0cDovL3d3dy5wYXVsZ3JhaGFtLmNvbS9pZGVudGl0eS5odG1s"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/8kue0m6zzuohgp32w/w0f2hgh5054xpl/aHR0cHM6Ly90d2l0dGVyLmNvbS9wYXVsZw=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Experiment I’ve suspended —",
+      "category": "other",
+      "title": "like this",
+      "creator": null,
+      "note": ", I wondered if ALC might play a role. I only experienced this when taking ALC in the later afternoon or evening, and daily total consumption never exceeded 1,500mg. After finding a few reports [like this](https://el2.convertkit-mail2.com/c/8kue0m6zzuohgp32w/07twh9holoxg54/aHR0cHM6Ly9wZGZzLnNlbWFudGljc2Nob2xhci5vcmcvZGE1MS9kYWQ2NDE1YWJjODU2YjA2NDcyYjhhNmJiNjcxZjU3N2EzNDAucGRm), I decided to call it quits with my protocol. Thus far, I have found ALC to produce unpleasantly vivid dreams to a much greater extent than, say, galantamine or huperzine-A, which enhance vividness but don’t seem to create the same degree of negative tone. Of course, this is an N of 1 (single subject) amateur hour, but the contrast has been both remarkable and remarkably consistent. I’d be curious to hear if anyone else has experienced something similar. And be careful with those cholinergic neurons...",
+      "original_url": "https://el2.convertkit-mail2.com/c/8kue0m6zzuohgp32w/07twh9holoxg54/aHR0cHM6Ly9wZGZzLnNlbWFudGljc2Nob2xhci5vcmcvZGE1MS9kYWQ2NDE1YWJjODU2YjA2NDcyYjhhNmJiNjcxZjU3N2EzNDAucGRm",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail2.com/c/8kue0m6zzuohgp32w/07twh9holoxg54/aHR0cHM6Ly9wZGZzLnNlbWFudGljc2Nob2xhci5vcmcvZGE1MS9kYWQ2NDE1YWJjODU2YjA2NDcyYjhhNmJiNjcxZjU3N2EzNDAucGRm"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "RBG",
+      "creator": null,
+      "note": "Here is the doc description: “At the age of 85, U.S. Supreme Court Justice Ruth Bader Ginsburg has developed a lengthy legal legacy while becoming an unexpected pop culture icon. Explore her unique and unknown personal journey of her rise to the nation's highest court.”",
+      "original_url": "https://el2.convertkit-mail2.com/c/8kue0m6zzuohgp32w/vvc3hrhxwx4e75/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9SQkctUnV0aC1CYWRlci1HaW5zYnVyZy9kcC9CMDdDVDhLS1Ja",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail2.com/c/8kue0m6zzuohgp32w/vvc3hrhxwx4e75/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9SQkctUnV0aC1CYWRlci1HaW5zYnVyZy9kcC9CMDdDVDhLS1Ja"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Popular on Instagram —",
+      "category": "other",
+      "title": "My first real go with conte crayons. The proportions are off, but it’s a fun start.",
+      "creator": null,
+      "note": null,
+      "original_url": "https://el2.convertkit-mail2.com/c/8kue0m6zzuohgp32w/m0s7h5hg4g9m6k/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0J2dklBdzBnX2tNLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail2.com/c/8kue0m6zzuohgp32w/m0s7h5hg4g9m6k/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0J2dklBdzBnX2tNLw=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“If you absolutely can't tolerate critics, then don't do anything new or interesting.” — Jeff Bezos And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim [](https://el2.convertkit-mail2.com/c/8kue0m6zzuohgp32w/p7heh9h3q3dgwd/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Vc2UtUG9ldHJ5LUNyaXRpY2lzbS1SZWxhdGlvbi1MZWN0dXJlcy9kcC8wNjc0OTMxNTA1) [](https://el2.convertkit-mail2.com/c/8kue0m6zzuohgp32w/66ueh8hk9kwn86/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Jeff Bezos And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim",
+      "note": null,
+      "original_url": "https://el2.convertkit-mail2.com/c/8kue0m6zzuohgp32w/eoaph7hprpeq3p/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSmVmZl9CZXpvcw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail2.com/c/8kue0m6zzuohgp32w/eoaph7hprpeq3p/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSmVmZl9CZXpvcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/8kue0m6zzuohgp32w/oqbkhqhkqkngm6/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/8kue0m6zzuohgp32w/5divh7hv6v0kdz/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/u/8kue0m6zzuohgp32w"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/8kue0m6zzuohgp32w/d8teh0h4p4k8g9/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

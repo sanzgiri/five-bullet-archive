@@ -6,7 +6,131 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "Could The Last of Us Happen?",
+      "creator": "Emily Gaines Buchler",
+      "note": ". This article discusses the work and book ([_What If Fungi Win?_](https://www.amazon.com/What-Fungi-Johns-Hopkins-Wavelengths/dp/1421449005/)) of [Arturo Casadevall](https://publichealth.jhu.edu/faculty/3126/arturo-casadevall), a world-renowned infectious disease doctor, regarding the threats and potential of fungi, including dangerous pathogens. If _The Last of Us_ does not ring a bell, see the trailer [here](https://www.youtube.com/watch?v=uLtkt8BonwM).",
+      "original_url": "https://hub.jhu.edu/magazine/2024/fall/outsmarting-fungi/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://hub.jhu.edu/magazine/2024/fall/outsmarting-fungi/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.emilygainesbuchler.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/What-Fungi-Johns-Hopkins-Wavelengths/dp/1421449005/"
+        },
+        {
+          "type": "other",
+          "url": "https://publichealth.jhu.edu/faculty/3126/arturo-casadevall"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=uLtkt8BonwM"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Device I’m using for less plastic in the home",
+      "category": "other",
+      "title": "Aqua Fizz Sparkling Water Maker",
+      "creator": null,
+      "note": "After more than a decade of using the standard plastic SodaStream for carbonated water at home, I’ve shifted to the Aqua Fizz, also made by SodaStream. To reduce my exposure to microplastics and possible endocrine disruptors, I’ve been replacing whatever plastic I can with glass or metal. This is an easy step in that direction, and while a tad more complicated in operation, it’s still dead simple to use.",
+      "original_url": "https://www.amazon.com/SodaStream-Sparkling-Water-Machine-Carafes/dp/B07Y45ZXYT/ref=sr_1_1?crid=3CUT16A270K59&dib=eyJ2IjoiMSJ9.S3mK3UO9Y2ZIAgXWXC7uZz3qRjXU9b2JrFCwMP4rkQhubjQmJqYoq11UB5yV_a2eJLMJOyFa0XEE22Aj1wvlt8rEAegNkeVWQe-TRnKcW8HR4ybfWlzSZPcuEdPVvisI3sjpTlwl37sgJUm6d0i_haFc1YF4u4FOhSAX7gM0azXgFjYWc5iUABrYp7HyYfm40le1Tv2URIBxHr_s1WHA9RHLbHLUj2AH7k2gUzW6xjMinHcjBfn3JmcxLBZ3FJDspYMjahDTipd3_IdRj-6vxEAv9KXm0wBCMi9hesV3BP-ldqIaS1-TJgpl-p7AJUoX-X75tJLpepkMka-zO8Q2Jucly31CthNaC46fOcQpyfgpoxmjuy-QwaHeoBBHTsHEdczmPc-NxWQJWDueXygSFTUxohXzWj252_wb6C5Ima7DBaFiYIFXP1xeBH6sG6Mx.bBRiOefDply3cN-xe6m4TSbh8bi4VfLC9LD5KXPhhbE&dib_tag=se&keywords=aquafizz%2Bsodastream&qid=1743099165&sprefix=aquafizz%2Caps%2C173&sr=8-1&th=1&ufe=app_do%3Aamzn1.fos.9fe8cbfa-bf43-43d1-a707-3f4e65a4b666",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/SodaStream-Sparkling-Water-Machine-Carafes/dp/B07Y45ZXYT/ref=sr_1_1?crid=3CUT16A270K59&dib=eyJ2IjoiMSJ9.S3mK3UO9Y2ZIAgXWXC7uZz3qRjXU9b2JrFCwMP4rkQhubjQmJqYoq11UB5yV_a2eJLMJOyFa0XEE22Aj1wvlt8rEAegNkeVWQe-TRnKcW8HR4ybfWlzSZPcuEdPVvisI3sjpTlwl37sgJUm6d0i_haFc1YF4u4FOhSAX7gM0azXgFjYWc5iUABrYp7HyYfm40le1Tv2URIBxHr_s1WHA9RHLbHLUj2AH7k2gUzW6xjMinHcjBfn3JmcxLBZ3FJDspYMjahDTipd3_IdRj-6vxEAv9KXm0wBCMi9hesV3BP-ldqIaS1-TJgpl-p7AJUoX-X75tJLpepkMka-zO8Q2Jucly31CthNaC46fOcQpyfgpoxmjuy-QwaHeoBBHTsHEdczmPc-NxWQJWDueXygSFTUxohXzWj252_wb6C5Ima7DBaFiYIFXP1xeBH6sG6Mx.bBRiOefDply3cN-xe6m4TSbh8bi4VfLC9LD5KXPhhbE&dib_tag=se&keywords=aquafizz%2Bsodastream&qid=1743099165&sprefix=aquafizz%2Caps%2C173&sr=8-1&th=1&ufe=app_do%3Aamzn1.fos.9fe8cbfa-bf43-43d1-a707-3f4e65a4b666"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Book I’m revisiting",
+      "category": "book",
+      "title": "Trickster Makes This World: Mischief, Myth, and Art",
+      "creator": "Lewis Hyde",
+      "note": ". This is a really fun book for anyone wanting to get into trickster mythology. Hyde offers a description of tricksters I hadn’t fully considered before my first reading: “In short, trickster is a boundary-crosser. Every group has its edge, its sense of in and out, and trickster is always there, at the gates of the city and the gates of life, making sure there is commerce. He also attends the internal boundaries by which groups articulate their social life. We constantly distinguish—right and wrong, sacred and profane, clean and dirty, male and female, young and old, living and dead—and in every case trickster will cross the line and confuse the distinction. Trickster is the creative idiot, therefore, the wise fool, the gray-haired baby, the crossdresser, the speaker of sacred profanities. … Trickster is the mythic embodiment of ambiguity and ambivalence, doubleness and duplicity, contradiction and paradox.” The Hermes portions can get a bit long, but the introductions to lesser-known tricksters around the world makes for an entertaining and educational romp through mythology and human nature.",
+      "original_url": "https://www.amazon.com/Trickster-Makes-This-World-Mischief/dp/0374532559/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Trickster-Makes-This-World-Mischief/dp/0374532559/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Lewis_Hyde"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Diet I’m once again using for results",
+      "category": "other",
+      "title": "How to Lose 100 Pounds on The Slow-Carb Diet – Real Pics and Stories",
+      "creator": null,
+      "note": "This how-to blog post was sparked by an email I received:\n\n“I just wanted to sincerely thank Tim for taking the time to research and write _The 4-Hour Body_. My mom, in her late 60s, lost 45 lbs and got off her high blood pressure meds that she had been on for 20+ years. She did all this in about 3 months. This means that I get to have her around for a long time.”\n\nAnyone can lose hope, and many people do when trying to lose weight. The Slow-Carb Diet (SCD) works almost beyond belief, and it affects much more than appearance. The basic rules are simple and explained [in this post](https://tim.blog/2012/07/12/how-to-lose-100-pounds/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content).",
+      "original_url": "https://tim.blog/2012/07/12/how-to-lose-100-pounds/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2012/07/12/how-to-lose-100-pounds/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2012/07/12/how-to-lose-100-pounds/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“If you never change your mind, why have one?” ― Edward de Bono, author of Lateral Thinking and Six Thinking Hats_ (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my recent interview with writer, photographer, and walker Craig Mod. We had so much fun. As promised, following that interview, Craig came back for round two, and we covered epic walks, the art of slowness, his unexpected celebrity in Japan, reconnecting with his biological family, and much, much more. You do not need the first interview to enjoy this one. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": null,
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Edward_de_Bono",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Edward_de_Bono"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Lateral-Thinking-Creativity-Step/dp/0060903252/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/dp/0316178314/"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/U124D"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/03/27/craig-mod/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=d3dPRkyNbj8"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

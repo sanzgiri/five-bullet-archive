@@ -7,7 +7,163 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "book",
+      "title": "Quotes from the writings of John Steinbeck",
+      "creator": null,
+      "note": "John is a master, and his hilarious [_Travels with Charley: In Search of America_](https://www.amazon.com/Travels-Charley-Search-America-Steinbeck-ebook/dp/B001BC6GN6/ref=sr_1_1?crid=TP61DIA9MIOE&dchild=1&keywords=travels+with+charlie+by+john+steinbeck&qid=1624044735&sprefix=travels+with+%2Caps%2C183&sr=8-1) is one of my favorite reads of the last several years.",
+      "original_url": "https://www.goodreads.com/author/quotes/585.John_Steinbeck",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.goodreads.com/author/quotes/585.John_Steinbeck"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Travels-Charley-Search-America-Steinbeck-ebook/dp/B001BC6GN6/ref=sr_1_1?crid=TP61DIA9MIOE&dchild=1&keywords=travels+with+charlie+by+john+steinbeck&qid=1624044735&sprefix=travels+with+%2Caps%2C183&sr=8-1"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "TED Talk I’m watching —",
+      "category": "video",
+      "title": "Ben Goldacre: Battling Bad Science",
+      "creator": null,
+      "note": "Description: “Every day there are news reports of new health advice, but how can you know if they’re right? Doctor and epidemiologist Ben Goldacre \\[[@bengoldacre](https://twitter.com/bengoldacre)\\] shows us, at high speed, the ways evidence can be distorted, from the blindingly obvious nutrition claims to the very subtle tricks of the pharmaceutical industry.” I loved Ben’s book [_Bad Science_](https://www.amazon.com/Bad-Science-Quacks-Pharma-Flacks-ebook/dp/B003VTZTU8/) so much that I put excerpts in the appendix of [_The 4-Hour Body_](https://www.amazon.com/Hour-Body-Uncommon-Incredible-Superhuman/dp/030746363X/ref=sr_1_1?dchild=1&keywords=the+4-hour+body&qid=1623855368&sr=8-1) with permission. If you’d like to further develop your critical thinking, see [Dr. Peter Attia](https://tim.blog/2021/06/08/peter-attia-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)’s “[Studying Studies](https://peterattiamd.com/ns001/)” series.",
+      "original_url": "https://www.ted.com/talks/ben_goldacre_battling_bad_science",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.ted.com/talks/ben_goldacre_battling_bad_science"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/bengoldacre"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Bad-Science-Quacks-Pharma-Flacks-ebook/dp/B003VTZTU8/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Hour-Body-Uncommon-Incredible-Superhuman/dp/030746363X/ref=sr_1_1?dchild=1&keywords=the+4-hour+body&qid=1623855368&sr=8-1"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/06/08/peter-attia-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://peterattiamd.com/ns001/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Person I’ve started following —",
+      "category": "other",
+      "title": "Jacob Collier",
+      "creator": null,
+      "note": "(TW: [@jacobcollier](https://twitter.com/jacobcollier), IG: [@jacobcollier](https://www.instagram.com/jacobcollier/)). Jacob was introduced to me by a musician friend, and his musical ear—and talent—is nearly unbelievable. [Here’s one example](https://www.instagram.com/p/CMXsflTAIlV/), and if you want to go deep down the nerd hole, [here is another example](https://www.youtube.com/watch?v=Q3ZcLnAVDoQ).",
+      "original_url": "https://www.jacobcollier.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.jacobcollier.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/jacobcollier"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/jacobcollier/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/CMXsflTAIlV/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=Q3ZcLnAVDoQ"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m researching and buying for the summer —",
+      "category": "research",
+      "title": "The Best Bug Repellents | Reviews by Wirecutter",
+      "creator": null,
+      "note": "For extra protection, I use [ElimiTick tick-repellent pants](https://gamehide.com/product/elimitick-insect-repellent-ultra-lite-pant-tlp/).",
+      "original_url": "https://www.nytimes.com/wirecutter/reviews/best-bug-repellent/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/wirecutter/reviews/best-bug-repellent/"
+        },
+        {
+          "type": "other",
+          "url": "https://gamehide.com/product/elimitick-insect-repellent-ultra-lite-pant-tlp/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“‘I shall take the heart,’ returned the Tin Woodsman; ‘for brains do not make one happy, and happiness is the best thing in the world.’” — L. Frank Baum And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim P.S. Deal of the Week: LinkedIn Jobs. Hiring can be hard, but it doesn’t need to be. LinkedIn Jobs makes finding the right hire as seamless as possible. Post your job in minutes using your own job description or one of their easy-to-use templates, and LinkedIn will target your job post to qualified candidates to ensure every applicant is the best fit possible. Review, contact, and keep track of every candidate on one simple screen. Visit LinkedIn.com/Tim to post your job for free. Get started today at LinkedIn.com/Tim. Terms and conditions apply. [](https://tim.blog/2020/12/08/jerry-seinfeld/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf-footer-jerry) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "L. Frank Baum And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim P.S. Deal of the Week: LinkedIn Jobs. Hiring can be hard, but it doesn’t need to be. LinkedIn Jobs makes finding the right hire as seamless as possible. Post your job in minutes using your own job description or one of their easy-to-use templates, and LinkedIn will target your job post to qualified candidates to ensure every applicant is the best fit possible. Review, contact, and keep track of every candidate on one simple screen. Visit LinkedIn.com/Tim to post your job for free. Get started today at LinkedIn.com/Tim. Terms and conditions apply.",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/L._Frank_Baum",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/L._Frank_Baum"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        },
+        {
+          "type": "other",
+          "url": "https://business.linkedin.com/talent-solutions/cx/20/12/jobs-single-cta-11-podcast?src=pub-newsletter&trk=tim&veh=tim"
+        },
+        {
+          "type": "other",
+          "url": "https://business.linkedin.com/talent-solutions/cx/20/12/jobs-single-cta-11-podcast?src=pub-newsletter&trk=tim&veh=tim"
+        },
+        {
+          "type": "other",
+          "url": "https://business.linkedin.com/talent-solutions/cx/20/12/jobs-single-cta-11-podcast?src=pub-newsletter&trk=tim&veh=tim"
+        },
+        {
+          "type": "other",
+          "url": "https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/hAHoQ5faPwYaTb1HKvQEBZ?w=800&fit=max"
+        },
+        {
+          "type": "other",
+          "url": "https://go.tim.blog/10x-output/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=template"
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://unsubscribe.fourhourmail.com/n4u05gdnnavh9nn5mi0"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=template"
+        }
+      ]
+    }
+  ]
 }

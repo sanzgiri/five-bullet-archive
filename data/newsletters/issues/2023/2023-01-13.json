@@ -6,7 +6,123 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Twitter thread I’m reading",
+      "category": "article",
+      "title": "Chemical composition analysis of 102 ayahuasca brews",
+      "creator": null,
+      "note": "This is a great thread on (1) the difficulty of treating ayahuasca as a singular, standardized medicine and (2) the importance of collaborating with indigenous healers whose botanical knowledge far exceeds our limited grasp of these species. Brew method is another huge variable.",
+      "original_url": "https://twitter.com/bekplants/status/1607600554246811648",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://twitter.com/bekplants/status/1607600554246811648"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Documentary I’m watching",
+      "category": "video",
+      "title": "Stutz",
+      "creator": null,
+      "note": "This doc was recommended to me by multiple friends, and it does a beautiful job of sharing both a loving relationship and effective therapeutic tools for changing your life. I was hesitant to watch this at first. I worried that it might dredge up old, painful personal issues that I feel I’ve spent enough time on, but it didn’t open Pandora’s box at all. As my friends correctly reassured me, it’s nothing but upside. Here’s the official description: “In candid conversations with actor [Jonah Hill](https://en.wikipedia.org/wiki/Jonah_Hill), leading psychiatrist [Phil Stutz](https://www.thetoolsbook.com/about-phil-and-barry) explores his early life experiences and unique, visual model of therapy.” Watch the trailer [here](https://www.youtube.com/watch?v=UKCmefQdplI).",
+      "original_url": "https://www.netflix.com/title/81387962",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.netflix.com/title/81387962"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Jonah_Hill"
+        },
+        {
+          "type": "other",
+          "url": "https://www.thetoolsbook.com/about-phil-and-barry"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=UKCmefQdplI"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m celebrating",
+      "category": "other",
+      "title": "Second MAPS-Sponsored Phase 3 Trial of MDMA-Assisted Therapy for PTSD Completed",
+      "creator": null,
+      "note": "This is the first time a pivotal and confirmatory Phase 3 trial has been completed for a psychedelic therapy. Moreover, more than 12 million people in the U.S. alone suffer from the debilitating effects of PTSD, and it’s now estimated that before the end of 2024, these people will likely have access to MDMA-assisted psychotherapy as a novel treatment option. For those wondering why I’ve been personally involved with this for years and why this treatment fundamentally differs from conventional approaches, please [read this](https://tim.blog/2020/06/16/maps-capstone-challenge-mdma-ptsd/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), or watch [this documentary](https://tim.blog/2019/03/09/trip-of-compassion/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf).",
+      "original_url": "https://maps.org/2022/11/17/mapp2-second-maps-sponsored-phase-3-trial-of-mdma-assisted-therapy-for-ptsd-completed/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://maps.org/2022/11/17/mapp2-second-maps-sponsored-phase-3-trial-of-mdma-assisted-therapy-for-ptsd-completed/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/06/16/maps-capstone-challenge-mdma-ptsd/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/03/09/trip-of-compassion/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m excited to share with you",
+      "category": "other",
+      "title": "A 5-Bullet Friday exclusive! A short motivational video from Arnold Schwarzenegger, just for you",
+      "creator": null,
+      "note": "For more motivation and tactical advice from Arnold, [click here](https://schwarzenegger.ck.page/ff5747509b) to sign up for his daily newsletter called _The Pump Daily._ On [the linked-to page](https://schwarzenegger.ck.page/ff5747509b), you’ll also get a free ebook describing how Arnold sets and achieves goals, a simple home-based workout, and his hardcore 1970s chest and back workout for anyone who wants to risk a trip to the hospital.\n\nAnd by the way… Arnold handwrites his emails. Check out this gem from earlier this week, shared with permission:\n\n![](https://embed.filekitcdn.com/e/wsQTBv1amYt7ofPBSpzzvc/vt8XhJZ4NHUqFxCPAVvMU7)\n\n​",
+      "original_url": "https://youtu.be/pnBRxnK31og",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/pnBRxnK31og"
+        },
+        {
+          "type": "other",
+          "url": "https://schwarzenegger.ck.page/ff5747509b"
+        },
+        {
+          "type": "other",
+          "url": "https://schwarzenegger.ck.page/ff5747509b"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I'm pondering",
+      "category": "quote",
+      "title": "“Instruction does much, but encouragement, everything.” — Johann Wolfgang von Goethe (Click here to share on Twitter) * * * You can complement this edition of 5-Bullet Friday with my interview with Arnold Schwarzenegger on psychological warfare, meditation, and much, much more. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Johann Wolfgang von Goethe",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/WoQP4"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/02/02/arnold-schwarzenegger/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

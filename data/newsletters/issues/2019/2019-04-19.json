@@ -6,7 +6,95 @@
     "gmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": false,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Article I’m reading —",
+      "category": "article",
+      "title": "“The Bell Curve: What happens when patients find out how good their doctors really are?”",
+      "creator": "Atul Gawande",
+      "note": "com/atul_gawande)) (New Yorker). This oldie but goodie was recommended to me by the incomparable [Adam Robinson](https://tim.blog/2017/02/02/lessons-from-warren-buffett-bobby-fischer-and-other-outliers/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). It will give you a new perspective on the medical world. Furthermore, it provides a lot of food for thought that applies outside of medicine. Example: “We are used to thinking that a doctor’s ability depends mainly on science and skill. The lesson from Minneapolis is that these may be the easiest parts of care. Even doctors with great knowledge and technical skill can have mediocre results; more nebulous factors like aggressiveness and consistency and ingenuity can matter enormously.”",
+      "original_url": "https://www.newyorker.com/magazine/2004/12/06/the-bell-curve",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.newyorker.com/magazine/2004/12/06/the-bell-curve"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/atul_gawande"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/02/02/lessons-from-warren-buffett-bobby-fischer-and-other-outliers/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Everything you think you know about addiction is wrong",
+      "creator": null,
+      "note": ", a TED talk by Johann Hari ([@johannhari101](https://twitter.com/johannhari101)). If you know anyone who has struggled with depression, addiction, or feeling isolated, this video offers some surprising and actionable insights. Here’s the official description: ”What really causes addiction -- to everything from cocaine to smart-phones? And how can we overcome it? Johann Hari has seen our current methods fail firsthand, as he has watched loved ones struggle to manage their addictions. He started to wonder why we treat addicts the way we do -- and if there might be a better way. As he shares in this deeply personal talk, his questions took him around the world, and unearthed some surprising and hopeful ways of thinking about an age-old problem.”",
+      "original_url": "https://www.ted.com/talks/johann_hari_everything_you_think_you_know_about_addiction_is_wrong?language=en",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.ted.com/talks/johann_hari_everything_you_think_you_know_about_addiction_is_wrong?language=en"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/johannhari101"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m using a lot these days —",
+      "category": "other",
+      "title": "Quickposes",
+      "creator": null,
+      "note": "This is an online tool for practicing gesture drawing, among other things. I’ve been using the “Timed practice” function, nude/semi-nude, at 60 seconds per image. The goal is to quickly sketch the gist of an image with proportion and placement. Be forewarned: some options on the website are definitely NSFW.",
+      "original_url": "https://www.quickposes.com/en",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.quickposes.com/en"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Most popular on social —",
+      "category": "other",
+      "title": "“50% of the Internet = people doing nothing saying...”",
+      "creator": null,
+      "note": null,
+      "original_url": "https://twitter.com/tferriss/status/1109240582986256384",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://twitter.com/tferriss/status/1109240582986256384"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past, I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.” — Bene Gesserit, Litany Against Fear (from the novel Dune))",
+      "creator": "Bene Gesserit, Litany Against Fear",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Dune_(novel",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Dune_(novel"
+        }
+      ]
+    }
+  ]
 }

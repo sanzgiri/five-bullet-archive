@@ -6,7 +6,147 @@
     "gmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": false,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Book I’m reading —",
+      "category": "book",
+      "title": "Art Is the Highest Form of Hope",
+      "creator": null,
+      "note": "Special thanks to the amazing [Susan Cain](https://tim.blog/2019/01/24/susan-cain/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@susancain](https://twitter.com/susancain)) for sending this beautiful book to me, which is full of bite-size philosophy and much-needed imagination. These days, a little light goes a long way. From the description: “Advice, strong opinions, and personal revelations by the world’s greatest artists—exclusively researched for this new book.”",
+      "original_url": "https://www.amazon.com/Highest-Form-Other-Quotes-Artists/dp/0714872431/ref=sr_1_1?dchild=1&keywords=Art+is+the+Highest+Form+of+Hope&qid=1610561962&sr=8-1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Highest-Form-Other-Quotes-Artists/dp/0714872431/ref=sr_1_1?dchild=1&keywords=Art+is+the+Highest+Form+of+Hope&qid=1610561962&sr=8-1"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/01/24/susan-cain/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/susancain"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Short video (~8 minutes) I’m watching again —",
+      "category": "video",
+      "title": "The art of misdirection | Apollo Robbins",
+      "creator": null,
+      "note": "Apollo ([@ApolloRobbins](https://twitter.com/ApolloRobbins), [website](http://www.apollorobbins.com/)) was first recommended to me by Tristan Harris ([@tristanharris](https://twitter.com/tristanharris)), with whom I [recorded a podcast in 2019](https://tim.blog/2019/09/19/tristan-harris-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf). The subject of that portion of the conversation was attention. This part of the video description explains how it relates: “Hailed as the greatest pickpocket in the world, Apollo Robbins studies the quirks of human behavior as he steals your watch.” It’s a fantastic demonstration of what also happens to you when you’re outmatched on social media by companies whose scientists, engineers, and business models focus on hijacking your attention.",
+      "original_url": "https://www.youtube.com/watch?v=GZGY0wPAnus",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=GZGY0wPAnus"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/ApolloRobbins"
+        },
+        {
+          "type": "other",
+          "url": "http://www.apollorobbins.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tristanharris"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2019/09/19/tristan-harris-2/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Essay I’m reading —",
+      "category": "article",
+      "title": "Still Alive",
+      "creator": "Scott Siskind, better known as “Scott Alexander”",
+      "note": "com/slatestarcodex?lang=en)). This really struck a chord, and if you are considering growing your audience or “platform,” make this essay part of your required reading. This bullet will be a bit longer and more heated than usual, as it reopened old wounds.\n\nSome of my dear friends are journalists, and they’re wonderful people. They measure twice and cut once. They are thoughtful, unrushed, and considerate, despite organizational pressure and incentives to be the opposite. That takes extraordinary discipline, and it’s fucking hard. It isn’t the path of least resistance, and I admire the hell out of them for doing what is right, despite the uphill path. This includes some amazing humans at the NYT. This praise doesn’t mean that they write fluff pieces; it means they aim to be fair and humane and take the time necessary to think about ethics and the [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule).\n\nThat said, there is a great-to-terrible spectrum for any professional group, including surgeons, elementary school teachers, politicians, hot dog vendors, and, yes, even journalists. There are people in all walks of life who are spiteful, narcissistic, harried, or simply uncaring. They do what is easiest and best for them personally, and what is expedient, without thought to those vulnerable to their mistreatment. Perhaps it’s from fatigue, perhaps it’s from outside pressure, perhaps it’s from ill will, but the outcomes are often the same. Sadly, there are journalists who earn a living by repeatedly earning trust and betraying it; they are a minority, but they clearly exist. I don’t say this about anyone referred to in Scott’s essay, as I’m not in the know, but based on my personal experience with hundreds of interviews over 10+ years, plus other authors’ similar experiences. There are great people in the unlikeliest of places, and there are bad apples at even the best publications. Don’t assume a good masthead means you are in safe hands.\n\nThis [entire essay by Scott](https://astralcodexten.substack.com/p/still-alive) can serve as a cautionary tale about public exposure, fame, privacy, and living life. The “don’t kick me in the balls” section speaks to deeper truths and risks of the spotlight. Personally, I’ve been misquoted by tier-one newspapers and even threatened by one writer at a newspaper of record. Why was I threatened? Because I asked that he only include my answers if he quoted them in full, instead of pulling single sound bites out of context, which he’d done before. This was for an online piece, so there were no space constraints. He got very upset and wrote directly, “You are not in control,” and proceeded to explain the power dynamic. Endearing, eh? I immediately saved and drafted that exchange as a just-in-case blog post, which I still have. Thankfully, I didn’t need it then, and I can only guess that he realized the liability of explicitly typing what he did. That’s an edge case. There are tougher cases that don’t leave as obvious a paper trail. For example, I’ve had fact-checkers at a magazine famous for fact-checking *not* make the corrections I provided via phone, which resulted in a grossly inaccurate profile that will sit in Google results for years and probably decades. Lesson learned: only do fact-checking via email. For these reasons and more, I rarely do print interviews any longer, and if I do, I use email or insist on also having recordings of the conversations. Pro tip: ensure you ask to record on your side and have your own audio (via Skype, QuickTime, Zoom, or other), as I’ve also had several writers promise to send their audio and then never do so, despite multiple follow-ups. As [Mike Shinoda](https://tim.blog/2014/08/04/mike-shinoda/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@mikeshinoda](https://twitter.com/mikeshinoda)) says in Fort Minor’s “[Get Me Gone](https://www.youtube.com/watch?v=m-bbSmDq9aw)”:\n\n“After that I made it a rule:\nI only do E-mail responses to print interviews\nBecause these people love to put a twist to your words\nTo infer that you said something fucking absurd\n...\nNow I’ve got the interviews on file\nWhich people said what, which number to dial”\n\nAgain, in the world of media, as in any group of humans, there are the good, the bad, and the ugly. There are some beautiful humans and some deplorable humans, and a vast majority fall somewhere in between, depending on which side of the bed they wake up on. Plan accordingly. And if you want more scary bedtime stories, alongside some tactical points, consider reading [11 Reasons Not to Become Famous](https://tim.blog/2020/02/02/reasons-to-not-become-famous/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf).\n\nFame, even micro-celebrity, is like a razor-sharp scalpel with no handle; it easily cuts both ways.\n\n[Just for the hell of it, I turned the above bullet into [a short blog post here](https://tim.blog/2021/01/22/still-alive-scott-alexander/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf).]\n\nBut you know what I’m hoping doesn’t cut both ways? This...",
+      "original_url": "https://astralcodexten.substack.com/p/still-alive",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://astralcodexten.substack.com/p/still-alive"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/slatestarcodex?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Golden_Rule"
+        },
+        {
+          "type": "other",
+          "url": "https://astralcodexten.substack.com/p/still-alive"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/08/04/mike-shinoda/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/mikeshinoda"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=m-bbSmDq9aw"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2020/02/02/reasons-to-not-become-famous/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/01/22/still-alive-scott-alexander/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "New training toy I’m playing with —",
+      "category": "other",
+      "title": "Metolius Simulator 3D board",
+      "creator": null,
+      "note": "I’m finally getting back into rock climbing after a hiatus of roughly a decade. I loved climbing but stopped due to elbow surgery on my right arm and [medial epicondylitis](https://www.hopkinsmedicine.org/health/conditions-and-diseases/medial-epicondylitis-golfers-and-baseball-elbow) in both elbows. Several people suggested this board as a means of improving finger strength, which ostensibly helps prevent over-pulling with the arms to compensate. Question for any experienced rock climbers who’ve dealt with elbow issues — What would you suggest as a minimalist training program for progressive strength gains, which should not pose any risk of flaring up the elbows? Please [let me know on Twitter by tagging me @tferriss with #climbing](https://twitter.com/tferriss?lang=en)!",
+      "original_url": "https://www.amazon.com/gp/product/B002N53RAA/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/gp/product/B002N53RAA/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/medial-epicondylitis-golfers-and-baseball-elbow"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss?lang=en"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Passage I’m once again pondering —",
+      "category": "other",
+      "title": "Rumi",
+      "creator": null,
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Rumi",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Rumi"
+        }
+      ]
+    }
+  ]
 }

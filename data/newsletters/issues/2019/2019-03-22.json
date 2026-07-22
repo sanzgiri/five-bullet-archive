@@ -6,7 +6,115 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Kurt Vonnegut on how to write a short story",
+      "creator": null,
+      "note": "There are some exceptional gems in this two-minute video. Most of the rules apply to good non-fiction writing, too, IMHO.",
+      "original_url": "https://el2.convertkit-mail2.com/c/lmun74z88amhk8d82/45ivheh5kqrxn6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1ubVZjSWhudlN4OA==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail2.com/c/lmun74z88amhk8d82/45ivheh5kqrxn6/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1ubVZjSWhudlN4OA=="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "New gadget I’m enjoying —",
+      "category": "other",
+      "title": "Nebula Mars II",
+      "creator": null,
+      "note": "For the last two years, I’ve gotten rid of all TVs at home and experimented with various projectors. The Nebula Mars II was recommended to me by rockstar hotelier and entrepreneur [Liz Lambert](https://el2.convertkit-mail2.com/c/lmun74z88amhk8d82/8mtqhoh0kplrxk/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzA2LzE0L2xpei1sYW1iZXJ0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY=). The design is beautiful, and some of the features are fantastic: 1) You can point it at a wall from nearly any angle or distance, and it will autocorrect the aspect ratio and focus; 2) It holds its charge for four hours, so you can use it without an outlet, even outside (or, as I do, on a coffee table); 3) It has excellent built-in speakers; and 4) No cabled laptop required, as it has direct access to most major streaming services. My two main criticisms are 1) I found their online/chat customer service to be very subpar, and 2) the picture can seem quite dim compared to other brighter—but less convenient—projectors I’ve tested and enjoyed. Other specs: 720p, 150” HD picture, dual 10W speakers.",
+      "original_url": "https://el2.convertkit-mail2.com/c/lmun74z88amhk8d82/r9f8hoh2nv06ex/aHR0cHM6Ly93d3cuc2VlbmVidWxhLmNvbS9wcm9kdWN0cy92YXJpYW50L21hcnMtaWkvRDIzMjIxMTE=",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail2.com/c/lmun74z88amhk8d82/r9f8hoh2nv06ex/aHR0cHM6Ly93d3cuc2VlbmVidWxhLmNvbS9wcm9kdWN0cy92YXJpYW50L21hcnMtaWkvRDIzMjIxMTE="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/lmun74z88amhk8d82/8mtqhoh0kplrxk/aHR0cHM6Ly90aW0uYmxvZy8yMDE4LzA2LzE0L2xpei1sYW1iZXJ0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj01YmY="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Ten Lessons I Learned While Teaching Myself to Code",
+      "creator": "Clive Thompson, an outstanding author and long-form journalist",
+      "note": ", an outstanding author and long-form journalist. I particularly enjoyed his section on automation. Here’s a teaser: “‘Don’t learn to code, learn to automate,’ writes the coder Erik Dietrich. This is bang on. Nearly every white-collar job on the planet involves tons of work that can be done more efficiently if you know a _bit_ of coding.”",
+      "original_url": "https://el2.convertkit-mail2.com/c/lmun74z88amhk8d82/l4cehmh0wv3xzq/aHR0cHM6Ly90aW0uYmxvZy8yMDE5LzAzLzIxL2xlYXJuLXRvLWNvZGUvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail2.com/c/lmun74z88amhk8d82/l4cehmh0wv3xzq/aHR0cHM6Ly90aW0uYmxvZy8yMDE5LzAzLzIxL2xlYXJuLXRvLWNvZGUvP3V0bV9zb3VyY2U9Y29udmVydGtpdCZ1dG1fbWVkaXVtPWNvbnZlcnRraXQmdXRtX2NhbXBhaWduPTViZg=="
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/lmun74z88amhk8d82/dgseh0h4rw0pmv/aHR0cHM6Ly90d2l0dGVyLmNvbS9wb21lcmFuaWFuOTk="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Popular on Instagram —",
+      "category": "other",
+      "title": "The chances that you will wake up are in direct proportion to",
+      "creator": null,
+      "note": "…”**",
+      "original_url": "https://el2.convertkit-mail2.com/c/lmun74z88amhk8d82/7na7h8hk3ponml/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0J2RnprREFBZlprLw==",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail2.com/c/lmun74z88amhk8d82/7na7h8hk3ponml/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0J2RnprREFBZlprLw=="
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“The secret to doing good research is always to be a little underemployed. You waste years by not being able to waste hours.” — Amos Tversky And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim [](https://el2.convertkit-mail2.com/c/lmun74z88amhk8d82/kdumh6hd42lx30/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRnJpZWRyaWNoX05pZXR6c2NoZQ==) [](https://el2.convertkit-mail2.com/c/lmun74z88amhk8d82/2mi2hohvn02mek/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUmljaGFyZF9GZXlubWFu) [](https://el2.convertkit-mail2.com/c/lmun74z88amhk8d82/gvfnh5hdxo3qkq/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=) FORWARDED THIS MESSAGE? SIGN UP. Join millions of monthly readers. Get exclusive content, private Q&As, giveaways, and more. No spam, ever. Just great stuff. DUE TO VOLUME, PLEASE DO NOT REPLY TO THIS EMAIL. SADLY, WE ARE UNABLE TO READ 1,000+ MESSAGES PER DAY. To unsubscribe, just click here. To reply to Tim, please do so in the blog comments here. 3112 Windsor Rd., Box #UNS, Austin TX 78703, United States",
+      "creator": "Amos Tversky And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Let me know! Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all! Tim",
+      "note": null,
+      "original_url": "https://el2.convertkit-mail2.com/c/lmun74z88amhk8d82/zxbghnh40r3l8x/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQW1vc19UdmVyc2t5",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://el2.convertkit-mail2.com/c/lmun74z88amhk8d82/zxbghnh40r3l8x/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQW1vc19UdmVyc2t5"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/lmun74z88amhk8d82/xlhph6hrxdwql6/aHR0cHM6Ly90d2l0dGVyLmNvbS90ZmVycmlzcw=="
+        },
+        {
+          "type": "other",
+          "url": "https://convertkit.s3.amazonaws.com/assets/pictures/11125/1035367/content_tom-email-footer-03.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/lmun74z88amhk8d82/30tphkhov97pnk/aHR0cHM6Ly9nby50aW0uYmxvZy8xMHgtb3V0cHV0Lz91dG1fc291cmNlPWNvbnZlcnRraXQmdXRtX21lZGl1bT1jb252ZXJ0a2l0JnV0bV9jYW1wYWlnbj10ZW1wbGF0ZQ=="
+        },
+        {
+          "type": "other",
+          "url": "http://convertkit.com/wp-content/uploads/2017/08/ferriss-headshot.jpg"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/u/lmun74z88amhk8d82"
+        },
+        {
+          "type": "other",
+          "url": "https://el2.convertkit-mail2.com/c/lmun74z88amhk8d82/o7skhqhk5lrq7r/aHR0cHM6Ly90aW0uYmxvZy8_dXRtX3NvdXJjZT1jb252ZXJ0a2l0JnV0bV9tZWRpdW09Y29udmVydGtpdCZ1dG1fY2FtcGFpZ249dGVtcGxhdGU="
+        }
+      ]
+    }
+  ]
 }

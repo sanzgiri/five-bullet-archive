@@ -6,7 +6,151 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "I finally got a facelift!",
+      "category": "other",
+      "title": "COYOTE",
+      "creator": null,
+      "note": ", I did a [complete redesign](http://tim.blog/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit) of my oldest and [still most important website](https://tim.blog/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit). No more GeoCities retro! If you squint, I bet some of you will spot the new optimizations. This was quite the task, given 1,000+ blog posts, the podcast, and more. Please take it for a test drive! If you spot any bugs or issues, please let me know on X by tagging [@tferriss](https://x.com/tferriss?lang=en). I’ll send something fun to the best bug hunter.",
+      "original_url": "http://coyotegame.com",
+      "links": [
+        {
+          "type": "original",
+          "url": "http://coyotegame.com"
+        },
+        {
+          "type": "other",
+          "url": "http://tim.blog/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/tferriss?lang=en"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Device I’m absolutely loving",
+      "category": "other",
+      "title": "Maestri House Rechargeable Milk Frother",
+      "creator": null,
+      "note": "OK, I never expected to have a frother in this newsletter, but this is a great example of “there is always a market for the best.”  \n​  \nIt also reminds me of sage wisdom from Kevin Kelly, found in his tiny, practical book titled [_Excellent Advice for Living_](https://www.amazon.com/Excellent-Advice-Living-Wisdom-Earlier/dp/0593654528/ref=sr_1_1?crid=1823KQX8QV8LV&dib=eyJ2IjoiMSJ9.e4F6Q5lQZce-Xf3jkspkCWFmRsF-lAQ-wDHu0dc7tgqRyN_7hen4YkWz4VMCyHA7bPMZeE3FlAgvcNga7nMQIeCr1kVhQvs6LBy9voS1ZcYrS1Xi7bUohDFEpLN9Umq9YXK3s41Ay-rgdqvQRVgabSRWtn8MINa3DdnebrsRm_-7Q5kk6pYYkIs5sH5MpfAGOh1yRNmaYx5sW0dhj4s82N9Zz0LkONRMaKY3UoNct8A.aCRbaraHCtI7EO9pzbQDvFXc3AoqVVdNCTilH8k64PE&dib_tag=se&keywords=kevin%20kelly&qid=1754086414&sprefix=kevin%20kelly%2Caps%2C116&sr=8-1):  \n​  \n​_Take note if you find yourself wondering “Where is my good knife?” or “Where is my good pen?” That means you have bad ones. Get rid of those._​  \n​  \nI’ve owned a lot of frothers for coffee and tea. Most of them are cheap, or I got them for free. They break, batteries stop charging, or they simply have two modes: completely off and outboard motor. Even the “tap here for three different speeds” types will backfire and spray coffee all over the place a third of the time. This Maestri House device fixes all of these problems. It just _feels_ great to use. Plus, anything with “LunaFro” in the name…  \n​  \n“This LunaFro Max electric milk frother allows you to seamlessly adjust the frothing speed with unparalleled precision, ranging from 4,500 RPM to 10,000 RPM, simply by toggling the rotary switch. … Beyond coffee, our LunaFro Max milk frother excels at blending powdered supplements like protein into beverages and preparing mixed drinks.”",
+      "original_url": "https://www.amazon.com/dp/B0D49M4ZJJ?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/dp/B0D49M4ZJJ?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Excellent-Advice-Living-Wisdom-Earlier/dp/0593654528/ref=sr_1_1?crid=1823KQX8QV8LV&dib=eyJ2IjoiMSJ9.e4F6Q5lQZce-Xf3jkspkCWFmRsF-lAQ-wDHu0dc7tgqRyN_7hen4YkWz4VMCyHA7bPMZeE3FlAgvcNga7nMQIeCr1kVhQvs6LBy9voS1ZcYrS1Xi7bUohDFEpLN9Umq9YXK3s41Ay-rgdqvQRVgabSRWtn8MINa3DdnebrsRm_-7Q5kk6pYYkIs5sH5MpfAGOh1yRNmaYx5sW0dhj4s82N9Zz0LkONRMaKY3UoNct8A.aCRbaraHCtI7EO9pzbQDvFXc3AoqVVdNCTilH8k64PE&dib_tag=se&keywords=kevin%20kelly&qid=1754086414&sprefix=kevin%20kelly%2Caps%2C116&sr=8-1"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Paper I’m studying",
+      "category": "other",
+      "title": "The Gut Microbiota Mediates the Anti-Seizure Effects of the Ketogenic Diet",
+      "creator": null,
+      "note": "30520-8#)**”** by [Christine A. Olson](https://www.linkedin.com/in/christine-olson-68729770/), [Elaine Y. Hsiao](https://hsiao.science/), et al. in [_Cell_](https://www.cell.com/cell/home). If you only have 60 seconds, [see the press release here](https://www.uclahealth.org/news/release/gut-bacteria-play-critical-role-in-antiseizure-effects-of-ketogenic-diet-ucla-scientists-report).  \n​  \nThis could be a glimpse of something really, really important, even if you don’t care about epilepsy. It’s not a brand-new publication, but it was new to me, and it ties into a few experiments I’m currently running on myself.**​  \n​  \n​**Here is an excerpt:  \n​**​  \n​**“Mice treated with antibiotics or reared germ-free are resistant to KetoDiet-mediated seizure protection. Enrichment of, and gnotobiotic co-colonization with, KetoDiet-associated Akkermansia and Parabacteroides restores seizure protection.”  \n​  \nI think it’s possible that the ketogenic diet’s sometimes incredible effects on many psychiatric disorders (depression, schizophrenia, etc.) could be at least partially dependent on your microbiome. So don’t skip your prebiotic fiber (just use Google or ChatGPT for a list), kimchi, and encapsulated probiotics (e.g., [Seed’s DS-01](https://seed.com/tim)). Akkermansia specifically can be purchased from [Pendulum](https://pendulumlife.com/products/pendulum-akkermansia-probiotic-gut-health).",
+      "original_url": "https://www.cell.com/cell/fulltext/S0092-8674(18",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.cell.com/cell/fulltext/S0092-8674(18"
+        },
+        {
+          "type": "other",
+          "url": "https://www.linkedin.com/in/christine-olson-68729770/"
+        },
+        {
+          "type": "other",
+          "url": "https://hsiao.science/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.cell.com/cell/home"
+        },
+        {
+          "type": "other",
+          "url": "https://www.uclahealth.org/news/release/gut-bacteria-play-critical-role-in-antiseizure-effects-of-ketogenic-diet-ucla-scientists-report"
+        },
+        {
+          "type": "other",
+          "url": "https://seed.com/tim"
+        },
+        {
+          "type": "other",
+          "url": "https://pendulumlife.com/products/pendulum-akkermansia-probiotic-gut-health"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "David Foster Wallace wisdom that I’m reading",
+      "category": "article",
+      "title": "Means and Meaning",
+      "creator": "Packy McCormick",
+      "note": ". The conversation below between David Foster Wallace and David Lipsky happened in 1996, decades before virtual meetings, algorithmic feeds, and AI. Here is the excerpt:  \n​  \n​[Infinite Jest](https://www.amazon.com/Audible-Infinite-Jest/dp/B0CZ4N145R/) _featured_ The Entertainment_, a videotape so compelling people just watched it until they died. … And in a conversation with_ Rolling Stone_’s David Lipsky, during a five-day road trip at the end of his_ Infinite Jest _book tour that would become a_ [_book_](https://www.amazon.com/Although-Course-You-Becoming-Yourself/dp/030759243X)_, which became a_ [_movie_](https://www.imdb.com/title/tt3416744/)_, David Foster Wallace addressed the challenge head-on:  \n​_​  \n​**David Foster Wallace:** _As the Internet grows, and as our ability to be linked up, like— I mean, you and I coulda done this through e-mail, and I never woulda had to meet you, and that woulda been easier for me. Right?_\n\n_Like, at a certain point we’re gonna have to build up some machinery, inside our guts, to help us deal with this. Because the technology is just gonna get better and better and better and better. And it’s gonna get easier and easier, and more and more convenient, and more and more pleasurable, to be alone with images on a screen, given to us by people who do not love us but want our money. Which is all right. In low doses, right? but if that’s the basic main staple of your diet, you’re gonna die. In a meaningful way, you’re going to die._\n\n**David Lipsky:** _But you developed some defenses?_\n\n**David Foster Wallace:** _No. This is the great thing about it is that probably each generation has different things that force the generation to grow up._\n\n_Maybe for our grandparents it was World War II. You know? For us, it’s gonna be that, at a certain point, that we’re either gonna have to put away childish things and discipline ourselves about how much time do I spend being passively entertained? And how much time do I spend doing stuff that actually isn’t all that much fun minute by minute but that builds certain muscles in me as a grown-up and a human being?_\n\n_And if we don’t do that, then (a) as individuals, we’re gonna die, and (b) the culture’s gonna grind to a halt.  \n​  \n###_\n\nBack to Tim: To a great extent, I think **analog is the antidote**. Be sure to get your offline time in the calendar and protect it like you would the most important business meeting or family event of the year. Offline social time is non-negotiable for mental health in most people. We are not evolved to be screen creatures.",
+      "original_url": "https://www.notboring.co/p/means-and-meaning",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.notboring.co/p/means-and-meaning"
+        },
+        {
+          "type": "other",
+          "url": "https://www.notboring.co/p/means-and-meaning"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Audible-Infinite-Jest/dp/B0CZ4N145R/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Although-Course-You-Becoming-Yourself/dp/030759243X"
+        },
+        {
+          "type": "other",
+          "url": "https://www.imdb.com/title/tt3416744/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“If a large diamond is cut up into pieces, it immediately loses its value as a whole; or if an army is scattered or divided into small bodies, it loses all its power; and in the same way a great intellect has no more power than an ordinary one as soon as it is interrupted, disturbed, distracted, or diverted.” — Arthur Schopenhauer (Click here to share on X.) * * * You can complement this edition of 5-Bullet Friday with my conversation with author and futurist Kevin Kelly. And, as always, please give me feedback on X. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Arthur Schopenhauer",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Arthur_Schopenhauer",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Arthur_Schopenhauer"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/3m554"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

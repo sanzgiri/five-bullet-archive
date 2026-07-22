@@ -6,7 +6,139 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading",
+      "category": "book",
+      "title": "The DC Comics Guide to Writing Comics",
+      "creator": "Dennis O’Neil",
+      "note": ". Special thanks to [Daniel Henriques](https://www.instagram.com/danielhenriques/?hl=en) for this recommendation. The advice is great, the sample scripts are a boon, and Dennis’ delivery is both deep and hilarious. Kudos to the author for a job spectacularly well done. It far exceeded my expectations.  \n​  \nAnd…  \n​  \n​**“**[**Ten Burning Questions for John Wooden**](http://www.espn.com/page2/s/questions/wooden.html)**,”** plus **“**[**Wooden as a Teacher: The First Lesson Was Shoelaces**](https://www.nytimes.com/2010/06/05/sports/ncaabasketball/05wizard.html)**”** [Click here](https://web.archive.org/web/20220717135411/https://www.nytimes.com/2010/06/05/sports/ncaabasketball/05wizard.html) in case of any issues with accessing the latter link. This is a great case of optimizing the macro by refining the micro. For those who don’t recognize the name, John Wooden was nicknamed the “Wizard of Westwood,” and he won ten National Collegiate Athletic Association (NCAA) championships in a 12-year period as head coach for the UCLA Bruins, including a record seven in a row. He was enshrined in the Basketball Hall of Fame both as a player and as a coach, the first person ever in both categories.",
+      "original_url": "https://www.amazon.com/DC-Comics-Guide-Writing/dp/0823010279/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/DC-Comics-Guide-Writing/dp/0823010279/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Dennis_O%27Neil"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/danielhenriques/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "http://www.espn.com/page2/s/questions/wooden.html"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nytimes.com/2010/06/05/sports/ncaabasketball/05wizard.html"
+        },
+        {
+          "type": "other",
+          "url": "https://web.archive.org/web/20220717135411/https://www.nytimes.com/2010/06/05/sports/ncaabasketball/05wizard.html"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Album I’m enjoying",
+      "category": "music",
+      "title": "Panamericana",
+      "creator": "Federico Aubele",
+      "note": ". I wrote much of [_The 4-Hour Body_](https://www.amazon.com/Hour-Body-Uncommon-Incredible-Superhuman/dp/030746363X/) to this album, and I still listen to it often, especially when winding down after a long day or full week.",
+      "original_url": "https://open.spotify.com/album/4CIaS88EQ6j26qOigblqSH",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://open.spotify.com/album/4CIaS88EQ6j26qOigblqSH"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Federico_Aubele"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Hour-Body-Uncommon-Incredible-Superhuman/dp/030746363X/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m using for better sleep",
+      "category": "other",
+      "title": "Nayoya Acupressure Mat",
+      "creator": null,
+      "note": "This was originally introduced to me by acrobat phenom [Andrii Bondarenko](https://www.instagram.com/andrii_bondarenko/?hl=en), but I’ve realized that the smaller portion intended for the neck is perfect for helping calm low-back stiffness and muscle spasms. I’ll lie on this for 5–10 minutes as I read before bed then ditch and go to sleep. It seems to substantially reduce tightness and discomfort throughout the night, and the neck-roll portion is much easier to pack for travel.",
+      "original_url": "https://www.amazon.com/Nayoya-Back-Neck-Pain-Relief/dp/B0049Q0P9M/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Nayoya-Back-Neck-Pain-Relief/dp/B0049Q0P9M/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/andrii_bondarenko/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Wikipedia page I’m studying",
+      "category": "other",
+      "title": "12 leverage points to intervene in a system",
+      "creator": null,
+      "note": "From the page: “Meadows started with the observation that there are levers, or places within a complex system (such as a firm, a city, an economy, a living being, an ecosystem, an ecoregion) where a ‘small shift in one thing can produce big changes in everything.’” Pair it with “[Theory of constraints](https://en.wikipedia.org/wiki/Theory_of_constraints).”",
+      "original_url": "https://en.wikipedia.org/wiki/Twelve_leverage_points",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Twelve_leverage_points"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Theory_of_constraints"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“A writer—and, I believe, generally all persons—must think that whatever happens to him or her is a resource. All things have been given to us for a purpose, and an artist must feel this more intensely. All that happens to us, including our humiliations, our misfortunes, our embarrassments, all is given to us as raw material, as clay, so that we may shape our art.” — Jorge Luis Borges (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my interview with David and Daniil Liberman, the two brothers who live one life; my conversation with 11-time NBA All-Star Chris Bosh; and this video clip of me and Jimmy Fallon doing AcroYoga on The Tonight Show_. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "and, I believe, generally all persons—must think that whatever happens to him or her is a resource. All things have been given to us for a purpose, and an artist must feel this more intensely. All that happens to us, including our humiliations, our misfortunes, our embarrassments, all is given to us as raw material, as clay, so that we may shape our art.” — Jorge Luis Borges",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Jorge_Luis_Borges",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Jorge_Luis_Borges"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/1fq6Q"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/08/24/david-and-daniil-liberman/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/05/25/chris-bosh/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/tfHl1f0Kzf8?si=AUlSK0Ohw2ygZ1Pe"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

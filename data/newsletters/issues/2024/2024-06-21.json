@@ -6,7 +6,163 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Clean My Wounds",
+      "creator": "Corrosion Of Conformity",
+      "note": "([YouTube](https://www.youtube.com/watch?v=yvsQsao1F88), [Spotify](https://open.spotify.com/track/2FRXB4vhQLOSiWrGyJ3qDU?autoplay=true), [Apple Music](https://music.apple.com/au/song/clean-my-wounds/190255338)) by [Corrosion Of Conformity](https://en.wikipedia.org/wiki/Corrosion_of_Conformity).",
+      "original_url": "https://www.youtube.com/watch?v=yvsQsao1F88",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=yvsQsao1F88"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=yvsQsao1F88"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/2FRXB4vhQLOSiWrGyJ3qDU?autoplay=true"
+        },
+        {
+          "type": "other",
+          "url": "https://music.apple.com/au/song/clean-my-wounds/190255338"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Corrosion_of_Conformity"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Short article I’m sharing as widely as possible - time to rally",
+      "category": "article",
+      "title": "FDA advisors voted against MDMA therapy – researchers are still fighting for it",
+      "creator": "Rachel Nuwer",
+      "note": "(BBC)** by [Rachel Nuwer](https://twitter.com/RachelNuwer). There is a make-it-or-break-it moment unfolding right now for psychedelic medicines. By August 11, the FDA will decide whether or not to approve MDMA therapy as a treatment for PTSD. This is decades in the making and will have ripple effects for the broader future of psychedelics in the US. The data clearly show that the FDA should approve, but it’s been thrown into confusion by an advisory committee almost entirely without knowledge of these compounds.  \n​  \nLongtime readers know I’ve spent 10+ years supporting science related to mental-health therapeutics, since some of these treatments literally saved my life.  \n​  \n​**My ask: Please share the above BBC article with anyone you know in veterans groups, the current administration, Congress, or the public-health community. Otherwise, please simply share as widely as you can.** If you’d like something in video format to share, I strongly recommend the [“Chapter 3: MDMA” episode of _How to Change Your Mind_ on Netflix](https://www.netflix.com/title/80229847). Though that’s the strongest video option, if ~50 minutes is too long and you need to quickly get someone’s attention, [here is a very short clip from _The Economist_](https://www.youtube.com/watch?v=8K5sJuTbQvY).  \n​  \nUltimately, the BBC article is the most important to share, as the FDA decision will be announced by August 11. It’s time-sensitive.  \n​  \nBelow is a sample of the article:  \n​  \n​_A \\[recent\\] vote against using MDMA as part of therapy for PTSD has provoked a powerful backlash among researchers who study psychedelic drugs.  \n​  \nSome 13 million Americans struggle with post-traumatic stress disorder (PTSD). Existing therapies only bring relief for a fraction of patients, and new treatments are sorely needed, according to psychiatrists wrestling with the scale of the problem. So, there was distinct disappointment when an advisory committee at the US Food and Drug Administration (FDA) voted earlier this month against a therapy that many had hoped could offer the first new treatment for PTSD in 25 years.  \n…  \n​  \n\\[The Phase 3 clinical trial outcomes for MDMA-assisted psychotherapy for PTSD are\\] \"almost double that of existing medications\", says Gül Dölen, a neuroscientist at the University of California, Berkeley, who researches the mechanisms of how psychedelics achieve therapeutic effects. \"What's more, \\[the treatment\\] led to durable improvements in these patients lasting at least six months.\"  \n​  \nAbout half of people who enroll in current gold standard PTSD treatments drop out, which is \"absurd\", says Loree Sutton, a psychiatrist and retired Brigadier General in the US Army. She says new treatments are essential. \"We have to do better.\"  \n​  \n\"Even if there are risks, we've got to figure this out, because we cannot not let this treatment be available,\" adds Rachel Yehuda, a professor of psychiatry and neuroscience at the Icahn School of Medicine at Mount Sinai who has conducted studies on the effects of MDMA-assisted therapy for PTSD. \"Without it, we're just leaving too many people in suffering that they don't need to be in, and that is not right.\"_ ​  \n​  \n​[Read more and share the article here](https://www.bbc.com/future/article/20240620-fda-advisors-voted-against-mdma-therapy-researchers-are-still-fighting-for-it). It takes less than five minutes to read.",
+      "original_url": "https://www.bbc.com/future/article/20240620-fda-advisors-voted-against-mdma-therapy-researchers-are-still-fighting-for-it",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.bbc.com/future/article/20240620-fda-advisors-voted-against-mdma-therapy-researchers-are-still-fighting-for-it"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/RachelNuwer"
+        },
+        {
+          "type": "other",
+          "url": "https://www.netflix.com/title/80229847"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=8K5sJuTbQvY"
+        },
+        {
+          "type": "other",
+          "url": "https://www.bbc.com/future/article/20240620-fda-advisors-voted-against-mdma-therapy-researchers-are-still-fighting-for-it"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Documentary I’m watching",
+      "category": "video",
+      "title": "Generation K-Pop",
+      "creator": null,
+      "note": "([YouTube](https://youtu.be/XQOpo2jjNt8?si=uxdKcaCTKa2k7aa8)), directed by [Mahyar Goudarzi](https://www.imdb.com/name/nm8383190/) ([@good.artsy](https://www.instagram.com/good.artsy/?hl=en)). I first watched this documentary on a plane, and I’ve since only found a YouTube version in German. Fear not, my non-German-speaking friends: to watch with English subtitles, first turn on the German subtitles, and then change them to English (or another language of your choice). Here is [a step-by-step video](https://youtu.be/ABxm-u4fc-M) on how to turn on English subtitles.  \n​  \nFrom the description \\[Google-translated from German\\]: “Korean pop music, or K-Pop for short, captivates an entire generation worldwide. … The hub is the South Korean capital Seoul, the Mecca of K-Pop. Mahyar Goudarzi’s documentary accompanies young talents on their way through the talent pools, the K-pop academies. Newly founded bands celebrating their first successes have their say. The bands let the audience share their dreams and fears.” Watch the trailer [here](https://www.instagram.com/p/CsTM2uvupLo/?hl=en).",
+      "original_url": "https://youtu.be/XQOpo2jjNt8?si=uxdKcaCTKa2k7aa8",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/XQOpo2jjNt8?si=uxdKcaCTKa2k7aa8"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/XQOpo2jjNt8?si=uxdKcaCTKa2k7aa8"
+        },
+        {
+          "type": "other",
+          "url": "https://www.imdb.com/name/nm8383190/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/good.artsy/?hl=en"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/ABxm-u4fc-M"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/CsTM2uvupLo/?hl=en"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Fiction book I’m finishing",
+      "category": "book",
+      "title": "The Bear",
+      "creator": "Andrew Krivak",
+      "note": ". Thank you to CK and TS for recommending this parable. I ended up devouring it over 3–4 evenings. The prose is gorgeous—the author has been a National Book Award in Fiction finalist—and it’ll take around 20 pages for your brain to get accustomed to its unusual weaving. I’ve pared down the description on purpose, but here’s a taste: “In an Edenic future, a girl and her father live close to the land in the shadow of a lone mountain. … The father teaches the girl how to fish and hunt, the secrets of the seasons and the stars. He is preparing her for an adulthood in harmony with nature, for they are the last of humankind. But when the girl finds herself alone in an unknown landscape...” The less you know about the book in advance, the better the reading experience. Go in as blind as possible, and you’ll likely finish this book in less than a week.",
+      "original_url": "https://www.amazon.com/Bear-Andrew-Krivak/dp/1942658702",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Bear-Andrew-Krivak/dp/1942658702"
+        },
+        {
+          "type": "other",
+          "url": "https://www.andrewkrivak.com/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“What should young people do with their lives today? Many things, obviously. But the most daring thing is to create stable communities in which the terrible disease of loneliness can be cured.” ― Kurt Vonnegut, Palm Sunday: An Autobiographical Collage_ (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my interview with New York Times bestselling author Michael Pollan, these resources to learn more about psychedelic-assisted therapies, and the latest supercombo podcast episode, featuring strength trainers Pavel Tsatsouline and Christopher Sommer. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": null,
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Kurt_Vonnegut",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Kurt_Vonnegut"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/James_Baldwin"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/74a1c"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/06/28/michael-pollan-this-is-your-mind-on-plants/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/03/31/psychedelics-101/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/06/20/pavel-tsatsouline-and-christopher-sommer/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

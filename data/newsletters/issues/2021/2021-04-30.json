@@ -7,7 +7,143 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "99 Additional Bits of Unsolicited Advice",
+      "creator": "Kevin Kelly",
+      "note": "([@kevin2kelly](https://twitter.com/kevin2kelly)). It’s Kevin Kelly’s birthday this week, and he is arguably [the real-life most interesting man in the world](https://tim.blog/2014/08/29/kevin-kelly/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf), so I jumped on this piece as soon as it was published. For more KK life tips, see his “[68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)” from 2020.",
+      "original_url": "https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/08/29/kevin-kelly/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/kevin2kelly"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/08/29/kevin-kelly/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://kk.org/thetechnium/68-bits-of-unsolicited-advice/"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m using —",
+      "category": "other",
+      "title": "YETI Hopper M30 Soft Cooler",
+      "creator": null,
+      "note": ", charcoal color.** This was _the_ key bag for successfully bringing frozen food and other goodies on my first trip to [Big Bend National Park](https://www.nps.gov/bibe/learn/photosmultimedia/bigbendscenery.htm). Easily packed, easily transported, it allowed me and my girlfriend to also stop over in an Airbnb in [Fredericksburg](https://en.wikipedia.org/wiki/Fredericksburg,_Texas)—fully stocked with our own food—en route back to Austin, TX, home of YETI.",
+      "original_url": "https://www.yeti.com/en_US/product-variation?pid=YHOPM30&dwvar_YHOPM30_color=charcoal",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.yeti.com/en_US/product-variation?pid=YHOPM30&dwvar_YHOPM30_color=charcoal"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nps.gov/bibe/learn/photosmultimedia/bigbendscenery.htm"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Fredericksburg,_Texas"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "TED conversation that I’m watching —",
+      "category": "video",
+      "title": "Michael Levin: The electrical blueprints that orchestrate life",
+      "creator": null,
+      "note": "Think DNA is the code of life? It seems that DNA might just be the starting point… Give this video 5–10 minutes to warm up.",
+      "original_url": "https://www.ted.com/talks/michael_levin_the_electrical_blueprints_that_orchestrate_life",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.ted.com/talks/michael_levin_the_electrical_blueprints_that_orchestrate_life"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "The articles most sent to me by biologists —",
+      "category": "article",
+      "title": "Bill to kill up to 90% of Idaho wolves heads to governor",
+      "creator": null,
+      "note": "(AP). Thanks for reading this one, as it’s very time sensitive for today (Friday), ideally—this weekend, or Monday, May 3rd, at the latest. The governor is expected to decide in the next several days.****OVERVIEW:**[**Idaho News 6**](https://www.kivitv.com/news/political/inside-the-statehouse/ex-wildlife-managers-want-veto-of-idaho-wolf-killing-bill)**: “BOISE, Idaho — Nearly 30 retired state, federal and tribal wildlife managers want Idaho Republican Gov. Brad Little to veto a bill backed by agricultural interests that could cut the state’s wolf population by 90%. The former workers at the Idaho Department of Fish and Game, U.S. Fish and Wildlife Service, U.S. Forest Service and others in a letter to Little on Wednesday say the methods for killing wolves allowed in the measure \\[e.g., traps, snares, aerial shooting, snowmobiles, night-vision optics\\] violate long standing wildlife management practices and sportsmen ethics.”**  \n  \nThe Idaho Fish and Game Commission itself, which manages the state’s wildlife, has also voted to oppose the 90% kill measure. Multiple Idaho groups and wildlife experts are concerned that this bill “could set a dangerous precedent letting legislators, not Idaho’s Fish and Game Commission, set hunting and trapping seasons and rules.” ([_Idaho Statesman_](https://www.idahostatesman.com/outdoors/hunting/article251012894.html))  \n  \n**THE DATA:**  \n  \nAlthough Idaho State Senator Mark Harris states that wolves are “destroying ranchers” and wildlife, and no doubt some individual ranchers are deeply affected, even the bill’s sponsor, Van Burtenshaw, R-Terreton, “said the purpose is to stop wolf depredations on livestock. He said that between 2015 and 2020, wolves have killed 753 cattle, 952 sheep and 54 other animals. That represents a loss of **less than 1%** of Idaho’s estimated 2.5 million cows and calves.” ([_Idaho Statesman_](https://www.idahostatesman.com/outdoors/hunting/article251012894.html)) Furthermore, the overall population size of elk, and the number of elk harvested by hunters, has not declined over the past 20 years in Idaho, Montana, and Wyoming, despite increases of wolves in these states (see data sheets from Colorado State University here: [web](https://extension.colostate.edu/topic-areas/people-predators/wolves-big-game-and-hunting-8-001/), [PDF](https://extension.colostate.edu/docs/pubs/predator/08001.pdf)).  \n  \nOf course, it’s important not to discount the real economic and emotional stress for individual ranchers when wolves and other predators attack or stress their livestock, resulting in both direct losses (mortality) and indirect losses (reduced weight gain and pregnancy). And wolves \\*can\\* impact some big-game herds locally, particularly when acting in conjunction with other factors that also limit big game, such as severe winters, human hunters, and other predators. **That all said, none of this supports a statewide killing of 90% of the wolf population in Idaho.**I once heard wolves referred to as “the Middle East of conservation,” and for good reason. Mere mention of preservation or killing raises emotions, and logical problem-solving often falls by the wayside. I got death threats the last time I discussed wolves, [trophic cascades](https://en.wikipedia.org/wiki/Trophic_cascade), etc., and I’ll likely get more for this bullet, but nonetheless: **Based on input from the scientists I know, and all of the above, this bill is simply not supported by science, data, or ethics.  \n  \n****SIMPLE THINGS YOU CAN DO:****Call Governor Little at 208-334-2100 now and follow up with an email to governor@gov.idaho.gov urging him to** **veto SB 1211****, using the talking points below. If you use Twitter, you can also share the below bullets with him at** [**@GovernorLittle**](https://twitter.com/governorlittle)**, but phone and email have the biggest impact.** [**Here is my personal tweet thread**](https://twitter.com/tferriss/status/1388176893707493376) **I published today.****Talking points to craft your message are below (****please personalize****). Again, email and phone have the biggest impact:**\n\n-   **If you are from or currently live in Idaho, state your town. If you don’t have connections to Idaho, explain why you will not spend your tourism dollars in a state like Idaho that wantonly slaughters wildlife.**\n-   **Over 76% of Idahoans believe wildlife belongs to all citizens and that management decisions should be made—without political influence—by the Idaho Fish and Game Commission, whose members oppose this bill 5–2.**\n-   **Taking authority away from the Commission and the agency biologists that inform them is not science-based management and sets a dangerous precedent for the management of other wildlife.**\n-   **Wolves cause less than 1% of cattle deaths, and any depredation can be properly managed without this bill.**\n-   **Killing wolves at this rate will only support decisions to relist them with Endangered Species Act protections.**\n-   **Wolves alive and thriving bring value to Idaho in many forms, including ecosystem services and tourism dollars.**\n-   **The majority of Idahoans and Americans support wolf recovery at levels where wolves can fulfill their ecological functions. Almost no one supports wasting tax dollars to recover wolves, just to exterminate them again.**",
+      "original_url": "https://apnews.com/article/bills-idaho-wolves-environment-and-nature-lifestyle-7e18d06ccff0705ca4282e2b097040a9",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://apnews.com/article/bills-idaho-wolves-environment-and-nature-lifestyle-7e18d06ccff0705ca4282e2b097040a9"
+        },
+        {
+          "type": "other",
+          "url": "https://www.kivitv.com/news/political/inside-the-statehouse/ex-wildlife-managers-want-veto-of-idaho-wolf-killing-bill"
+        },
+        {
+          "type": "other",
+          "url": "https://www.idahostatesman.com/outdoors/hunting/article251012894.html"
+        },
+        {
+          "type": "other",
+          "url": "https://www.idahostatesman.com/outdoors/hunting/article251012894.html"
+        },
+        {
+          "type": "other",
+          "url": "https://extension.colostate.edu/topic-areas/people-predators/wolves-big-game-and-hunting-8-001/"
+        },
+        {
+          "type": "other",
+          "url": "https://extension.colostate.edu/docs/pubs/predator/08001.pdf"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Trophic_cascade"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/governorlittle"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss/status/1388176893707493376"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“To fight the good fight is one of the bravest and noblest of life’s experiences. Not the bloodshed and the battle of man with man, but the grappling with mental and spiritual adversaries that determines the inner caliber of the contestant. It is the quality of the struggle put forth by a man that proclaims to the world what manner of man he is far more than may be by the termination of the battle. It matters not nearly so much to a man that he succeeds in winning some long-sought prize as it does that he has worked for it honestly and unfalteringly with all the force and energy there is in him. It is in the effort that the soul grows and asserts itself to the fullest extent of its possibilities, and he that has worked will, persevering in the face of all opposition and apparent failure, fairly and squarely endeavoring to perform his part to the utmost extent of his capabilities, may well look back upon his labor regardless of any seeming defeat in its result and say, ‘I have fought a good fight.’ As you throw the weight of your influence on the side of the good, the true and the beautiful, your life will achieve an endless splendor. It will continue in the lives of others, higher, finer, nobler than you can even contemplate.” — Hugh B. Brown And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Hugh B. Brown And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it.Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Hugh_B._Brown",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Hugh_B._Brown"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

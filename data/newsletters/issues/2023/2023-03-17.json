@@ -6,7 +6,167 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Article I’m reading and sharing with friends",
+      "category": "article",
+      "title": "The psychoactive drug ibogaine could save lives—and everyone wants to cash in",
+      "creator": "Rachel Nuwer",
+      "note": "([@RachelNuwer](https://twitter.com/RachelNuwer)) for _National Geographic_.\n\nI’ve been looking forward to this article for quite some time. It’s a beautiful and important portrait of the world of iboga.\n\nSome scientists consider iboga’s alkaloid ibogaine to be one of the most powerful potential treatments for opioid use disorder, among other conditions. It carries real risks, but demand has nonetheless skyrocketed in recent years. This feature article was deeply reported, and the characters, conflicts, and photos within paint a rich picture.\n\nUltimately, I think fully synthetic production is necessary for scaling ibogaine therapeutics (perhaps with [_Voacanga africana_](https://en.wikipedia.org/wiki/Voacanga_africana) as an intermediate stop-gap measure), but if we are going to use wild or farmed iboga, we owe it to the traditional communities in Gabon to create models that are both fair and sustainable. If we don’t, naturally occurring iboga will disappear, and that would be a tragedy.\n\nTo get you started, here are the first three paragraphs of the piece:\n\n_Aloïse Amougha clearly recalls the night 30 years ago when a spirit visited him and changed his life. “You have to plant iboga,” it instructed. “And with that iboga, you have to heal the world.”_\n\n_This vision came to Amougha while he was gripped in the mystical throes of a Bwiti initiation ceremony, a traditional ritual practiced by many of Gabon’s roughly 50 ethnic communities. Bwiti initiates eat or drink Tabernanthe iboga—a shrub-like tree whose roots contain a powerful psychoactive compound called ibogaine. Named after the Tsogho word “to heal,” iboga grows in several Central African countries. But its strongest cultural ties are in Gabon, where an estimated 5 percent of the country’s 2.3 million citizens practice Bwiti, and more still use iboga in an informal context._\n\n_Iboga creates a waking dream-like state in which people may encounter their ancestors or see themselves in past lives. They may be shown core truths about who they are or, as in Amougha’s case, be visited by spirits. Amougha says his spirit neither specified how many iboga seeds he was to plant nor explained why he was to do this. Amougha trusted that the answer eventually would be revealed. So he and his wife, Jacqueline, started planting iboga—and never stopped. Three decades later, a veritable jungle of more than 4,000 trees surrounds their modest home in northeastern Gabon._\n\n​[Click here](https://www.nationalgeographic.com/animals/article/ibogaine-pschedelic-drug-root-fair-trade-gabon?utm_source=substack&utm_medium=email) to read more.",
+      "original_url": "https://www.nationalgeographic.com/animals/article/ibogaine-pschedelic-drug-root-fair-trade-gabon?utm_source=substack&utm_medium=email",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nationalgeographic.com/animals/article/ibogaine-pschedelic-drug-root-fair-trade-gabon?utm_source=substack&utm_medium=email"
+        },
+        {
+          "type": "other",
+          "url": "http://www.rachelnuwer.com/about"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/RachelNuwer"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Voacanga_africana"
+        },
+        {
+          "type": "other",
+          "url": "https://www.nationalgeographic.com/animals/article/ibogaine-pschedelic-drug-root-fair-trade-gabon?utm_source=substack&utm_medium=email"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Paradox I’m perambulating",
+      "category": "other",
+      "title": "Moravec’s paradox",
+      "creator": null,
+      "note": "Here’s a teaser from Wikipedia: “[Minsky](https://en.wikipedia.org/wiki/Marvin_Minsky) emphasized that the most difficult human skills to reverse engineer are those that are below the level of conscious awareness. ‘In general, we’re least aware of what our minds do best,’ he wrote, and added, ‘we’re more aware of simple processes that don’t work well than of complex ones that work flawlessly.’ [Steven Pinker](https://en.wikipedia.org/wiki/Steven_Pinker) wrote in 1994 that ‘the main lesson of thirty-five years of AI research is that the hard problems are easy and the easy problems are hard.’” Thanks to [Matt Mullenweg](https://tim.blog/2022/03/09/matt-mullenweg-antarctica/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) ([@photomatt](https://twitter.com/photomatt)) for introducing this to me.",
+      "original_url": "https://en.wikipedia.org/wiki/Moravec%27s_paradox",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Moravec%27s_paradox"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Marvin_Minsky"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Steven_Pinker"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/03/09/matt-mullenweg-antarctica/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/photomatt"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Short video that’s making me laugh",
+      "category": "video",
+      "title": "Letterkenny Problems Ep. 1",
+      "creator": null,
+      "note": "If the preceding bullet was too highfalutin, this clip is only 90 seconds long and will offend at least 69% of you. Consider yourselves warned. Description: “Two good old boys from Letterkenny, Ontario, tell you their problems.” Hat tip to Dr. Montucky for this gem, which I needed in the midst of a serious week.",
+      "original_url": "https://youtu.be/_KLSbCtinXs",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://youtu.be/_KLSbCtinXs"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Book I’m loving",
+      "category": "book",
+      "title": "Dungeons & Dragons Art & Arcana: A Visual History",
+      "creator": null,
+      "note": "This is a treasure. Deep bow to [Michael Witwer](https://twitter.com/MikeWitwer), [Kyle Newman](https://www.instagram.com/kyle_newman/), [Jon Peterson](https://twitter.com/docetist), [Sam Witwer](https://twitter.com/SamWitwer), [Dungeons & Dragons](https://www.instagram.com/dndwizards/), and [Ten Speed Press](https://www.instagram.com/tenspeedpress/) for what I can only assume was a Herculean task. Remember Anton Ego, when he took his hyper-speed trip down memory lane in _Ratatouille_? No? Well, [here you go](https://www.youtube.com/watch?v=5m7SGjJo7c4). This tome of visual delights did that for me.",
+      "original_url": "https://www.amazon.com/Dungeons-Dragons-Art-Arcana-History/dp/0399580948/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Dungeons-Dragons-Art-Arcana-History/dp/0399580948/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/MikeWitwer"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/kyle_newman/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/docetist"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/SamWitwer"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/dndwizards/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/tenspeedpress/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=5m7SGjJo7c4"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering once again",
+      "category": "quote",
+      "title": "“To a disciple who was forever complaining about others, the Master said, ‘If it is peace you want, seek to change yourself, not other people. It is easier to protect your feet with slippers than to carpet the whole of the earth.’” — Anthony de Mello (Click here to share on Twitter) * * * You can complement this edition of 5-Bullet Friday with my urgent plea to users of psychedelics to consider a more ethical menu of plants and compounds, my interview with Exploding Kittens co-creator Elan Lee on the joys of games and how to make them (even with your kids), plus this podcast episode with Matt Mullenweg, which was recorded in a tent in Antarctica with a bit of whisky as a helper. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Anthony de Mello",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Anthony_de_Mello",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Anthony_de_Mello"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/rf08a"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/02/21/urgent-plea-users-of-psychedelics-ethical-plants-compounds/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/02/21/urgent-plea-users-of-psychedelics-ethical-plants-compounds/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/02/03/elan-lee/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/03/09/matt-mullenweg-antarctica/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

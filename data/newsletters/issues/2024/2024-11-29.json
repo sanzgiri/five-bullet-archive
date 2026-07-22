@@ -6,7 +6,147 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Roger Federer’s letter to Rafael Nadal",
+      "creator": null,
+      "note": ": “Vamos, @RafaelNadal! As you get ready to graduate from tennis, I’ve got a few things to share before I maybe get emotional…” [Click here to continue reading](https://x.com/rogerfederer/status/1858774201102201276).",
+      "original_url": "https://x.com/rogerfederer/status/1858774201102201276",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://x.com/rogerfederer/status/1858774201102201276"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/rogerfederer/status/1858774201102201276"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "The Wild Robot",
+      "creator": null,
+      "note": "This is a family-friendly, “This is so cheesy! Why am I crying?!” type of feel-good watch. This film was adapted from the #1 _New York Times_ bestselling illustrated middle-grade novel _The Wild Robot_ by Peter Brown. Here’s the official description: “The epic adventure follows the journey of a robot—ROZZUM unit 7134, ‘Roz’ for short—that is shipwrecked on an uninhabited island and must learn to adapt to the harsh surroundings, gradually building relationships with the animals on the island and becoming the adoptive parent of an orphaned gosling.” It was directed by [Chris Sanders](https://en.wikipedia.org/wiki/Chris_Sanders) (_How to Train Your Dragon_) and scores a 98% on Rotten Tomatoes’ Popcornmeter. The all-star cast includes [Lupita Nyong'o](https://en.wikipedia.org/wiki/Lupita_Nyong'o) (as Roz), [Pedro Pascal](https://en.wikipedia.org/wiki/Pedro_Pascal), [Kit Connor](https://en.wikipedia.org/wiki/Kit_Connor), [Mark Hamill](https://en.wikipedia.org/wiki/Mark_Hamill), [Catherine O’Hara](https://en.wikipedia.org/wiki/Catherine_O%27Hara), [Bill Nighy](https://en.wikipedia.org/wiki/Bill_Nighy), and others. You can [watch the trailer here](https://youtu.be/67vbA5ZJdKQ?si=WYzgrtRgnjUI4IJG). Thanks to Loni for the recommendation!",
+      "original_url": "https://www.amazon.com/Wild-Robot-Chris-Sanders/dp/B0DBZJ2LY3/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Wild-Robot-Chris-Sanders/dp/B0DBZJ2LY3/"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Chris_Sanders"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Lupita_Nyong'o"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Pedro_Pascal"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Kit_Connor"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Mark_Hamill"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Catherine_O%27Hara"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Bill_Nighy"
+        },
+        {
+          "type": "other",
+          "url": "https://youtu.be/67vbA5ZJdKQ?si=WYzgrtRgnjUI4IJG"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Philosopher I’m learning more about",
+      "category": "other",
+      "title": "George Gurdjieff",
+      "creator": null,
+      "note": "Hat tip to [Cyan Banister](https://tim.blog/2024/11/28/cyan-banister/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content)! From Wikipedia: “Gurdjieff taught that people are not conscious of themselves and thus live their lives in a state of hypnotic ‘waking sleep,’ but that it is possible to awaken to a higher state of consciousness and serve our purpose as human beings. The practice of his teaching has become known as ‘The Work’ (connoting work on oneself) and is additional to the ways of the Fakirs (Sufis), Monks, and Yogis.”",
+      "original_url": "https://en.wikipedia.org/wiki/George_Gurdjieff",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/George_Gurdjieff"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/11/28/cyan-banister/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Tool I always have in my bag",
+      "category": "other",
+      "title": "ProBody Pilates Ball",
+      "creator": null,
+      "note": "Yep, it’s a Pilates ball, but I don’t use it for Pilates. I keep it deflated in my backpack, and if I need lumbar support or butt padding anywhere on the road (in hotels, restaurants, airplanes, etc.), I give it literally 2–3 seconds of quick, partial inflation and voilà! Deflated, this is small enough to fold up and stick in a jacket or jeans pocket.",
+      "original_url": "https://www.amazon.com/gp/aw/d/B06XQRW121/?_encoding=UTF8&aaxitk=20555e98e4d5538e3c5ed82395d8c51b&content-id=amzn1.sym.8591358d-1345-4efd-9d50-5bd4e69cd942%3Aamzn1.sym.8591358d-1345-4efd-9d50-5bd4e69cd942&hsa_cr_id=0&pd_rd_plhdr=t&pd_rd_r=7c150049-07e1-4e86-87d7-2c7cdda2c78c&pd_rd_w=oYp5g&pd_rd_wg=FDmua&pf_rd_p=8591358d-1345-4efd-9d50-5bd4e69cd942&pf_rd_r=Y5HD10S25CNWZ9FCE8F0&qid=1732916285&ref_=sbx_be_s_sparkle_lsi4d_asin_1_title&sr=1-2-9e67e56a-6f64-441f-a281-df67fc737124&th=1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/gp/aw/d/B06XQRW121/?_encoding=UTF8&aaxitk=20555e98e4d5538e3c5ed82395d8c51b&content-id=amzn1.sym.8591358d-1345-4efd-9d50-5bd4e69cd942%3Aamzn1.sym.8591358d-1345-4efd-9d50-5bd4e69cd942&hsa_cr_id=0&pd_rd_plhdr=t&pd_rd_r=7c150049-07e1-4e86-87d7-2c7cdda2c78c&pd_rd_w=oYp5g&pd_rd_wg=FDmua&pf_rd_p=8591358d-1345-4efd-9d50-5bd4e69cd942&pf_rd_r=Y5HD10S25CNWZ9FCE8F0&qid=1732916285&ref_=sbx_be_s_sparkle_lsi4d_asin_1_title&sr=1-2-9e67e56a-6f64-441f-a281-df67fc737124&th=1"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“But no matter the medicinal virtues of being a true friend or sustaining a long close relationship with another, the ultimate touchstone of friendship is not improvement, neither of the other nor of the self, the ultimate touchstone is witness, the privilege of having been seen by someone and the equal privilege of being granted the sight of the essence of another, to have walked with them and to have believed in them, and sometimes just to have accompanied them for however brief a span, on a journey impossible to accomplish alone.” ― David Whyte), Consolations: The Solace, Nourishment and Underlying Meaning of Everyday Words_ (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my latest podcast episode, featuring top angel investor Cyan Banister; my interview with five-time Grand Slam winner Maria Sharapova; and my conversation with legendary physical therapist Dr. Shirley Sahrmann. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": null,
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/David_Whyte_(poet",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/David_Whyte_(poet"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Consolations-Nourishment-Underlying-Meaning-Everyday/dp/1932887342"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/cL5aw"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/11/28/cyan-banister/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2017/08/26/maria-sharapova/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/08/04/dr-shirley-sahrmann/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,175 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "OpenSea: The Reasonable Revolutionary",
+      "creator": "Mario Gabriele, founder and editor of The Generalist_",
+      "note": ", founder and editor of [_The Generalist_](https://www.readthegeneralist.com/). Pair this reading with **“**[**Punks, Squiggles, and the Future of Generative Media**](https://medium.com/collab-currency/punks-squiggles-and-the-future-of-generative-media-d2d3e9df623b)**”** by [Derek Edws](https://twitter.com/derekedws?lang=en) and [Stephen McKeon](https://twitter.com/sbmckeon). If you think this stuff is crazy now, just wait...",
+      "original_url": "https://www.readthegeneralist.com/briefing/opensea",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.readthegeneralist.com/briefing/opensea"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/mariogabriele?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://www.readthegeneralist.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://medium.com/collab-currency/punks-squiggles-and-the-future-of-generative-media-d2d3e9df623b"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/derekedws?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/sbmckeon"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Rush",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/Rush-Chris-Hemsworth/dp/B00H967074/), [Apple TV](https://itunes.apple.com/us/movie/rush/id700911218?cmp=rt_where_to_watch), [Netflix](https://www.netflix.com/title/70253165)). My girlfriend recommended we watch this movie before F1 lands in Austin later this month. It exceeded all expectations. The characters are complex, the story is nearly unbelievable, and the cinematography is absolutely stunning. Here’s the description: “In the mid-1970s, charismatic English playboy James Hunt ([Chris Hemsworth](https://twitter.com/chrishemsworth)) and Austrian perfectionist Niki Lauda ([Daniel Brühl](https://www.instagram.com/thedanielbruhl/)) share an intense rivalry in Formula 1 racing. Driving vehicles that are little more than gas-filled, rolling bombs, Hunt and Lauda burn up the track, all the while pushing themselves to the breaking point of physical and mental endurance.”",
+      "original_url": "https://www.amazon.com/Rush-Chris-Hemsworth/dp/B00H967074/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Rush-Chris-Hemsworth/dp/B00H967074/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Rush-Chris-Hemsworth/dp/B00H967074/"
+        },
+        {
+          "type": "other",
+          "url": "https://itunes.apple.com/us/movie/rush/id700911218?cmp=rt_where_to_watch"
+        },
+        {
+          "type": "other",
+          "url": "https://www.netflix.com/title/70253165"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/chrishemsworth"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/thedanielbruhl/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Stick With It",
+      "creator": "Ray Bryant",
+      "note": "([YouTube](https://www.youtube.com/watch?v=8Z0sTBQQ1qo), [Spotify](https://open.spotify.com/track/71HTUOeN8WkBQklquqotLn?si=5cafd89afd8f4c5c)) by [Ray Bryant](https://en.wikipedia.org/wiki/Ray_Bryant).",
+      "original_url": "https://www.youtube.com/watch?v=8Z0sTBQQ1qo",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=8Z0sTBQQ1qo"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=8Z0sTBQQ1qo"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/71HTUOeN8WkBQklquqotLn?si=5cafd89afd8f4c5c"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Ray_Bryant"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading and sharing widely (shorter) —",
+      "category": "article",
+      "title": "Psychedelic therapy: a roadmap for wider acceptance and utilization",
+      "creator": "Mason Marks",
+      "note": "(_Nature Medicine_) by [Mason Marks](https://petrieflom.law.harvard.edu/fellows/postdoctoral-fellow/mason-marks) ([@MasonMarksMD](https://twitter.com/MasonMarksMD)) and [I. Glenn Cohen](https://petrieflom.law.harvard.edu/about/bio/i-glenn-cohen) ([@cohenprof](https://twitter.com/cohenprof?lang=en)), both associated with the [Harvard Project on Psychedelics Law and Regulation (POPLAR)](https://petrieflom.law.harvard.edu/research/the-project-on-psychedelics-law-and-regulation-poplar) at the Petrie-Flom Center at Harvard Law School.**“**[**A Strategy for Rescheduling Psilocybin**](https://www.scientificamerican.com/article/a-strategy-for-rescheduling-psilocybin/)**”** (_Scientific American_) by [Mason Marks](https://petrieflom.law.harvard.edu/fellows/postdoctoral-fellow/mason-marks) ([@MasonMarksMD](https://twitter.com/MasonMarksMD)).",
+      "original_url": "https://www.nature.com/articles/s41591-021-01530-3",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nature.com/articles/s41591-021-01530-3"
+        },
+        {
+          "type": "other",
+          "url": "https://petrieflom.law.harvard.edu/fellows/postdoctoral-fellow/mason-marks"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/MasonMarksMD"
+        },
+        {
+          "type": "other",
+          "url": "https://petrieflom.law.harvard.edu/about/bio/i-glenn-cohen"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/cohenprof?lang=en"
+        },
+        {
+          "type": "other",
+          "url": "https://petrieflom.law.harvard.edu/research/the-project-on-psychedelics-law-and-regulation-poplar"
+        },
+        {
+          "type": "other",
+          "url": "https://www.scientificamerican.com/article/a-strategy-for-rescheduling-psilocybin/"
+        },
+        {
+          "type": "other",
+          "url": "https://petrieflom.law.harvard.edu/fellows/postdoctoral-fellow/mason-marks"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/MasonMarksMD"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“‘No one is useless in this world,’ retorted the Secretary, ‘who lightens the burden of it for anyone else.’” — Charles Dickens, Our Mutual Friend And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Charles Dickens, Our Mutual Friend And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Charles_Dickens",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Charles_Dickens"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Our_Mutual_Friend"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

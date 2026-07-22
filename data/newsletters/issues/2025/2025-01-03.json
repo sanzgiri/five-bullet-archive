@@ -6,7 +6,115 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m sharing with friends",
+      "category": "other",
+      "title": "A Simple 2025 Reboot — My Short Letter to a Friend Who Wants to Get In Shape",
+      "creator": null,
+      "note": "I first penned this in 2021, but it still works like a charm today.",
+      "original_url": "https://tim.blog/2021/01/19/2021-reboot-letter-to-a-friend-who-wants-to-get-in-shape/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2021/01/19/2021-reboot-letter-to-a-friend-who-wants-to-get-in-shape/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "The Extremely Offline Joy of the Board Game Club",
+      "creator": null,
+      "note": "(_The New York Times_). [Alternate link](https://archive.is/sfofR). “Hungry for in-person interaction, Gen Z and millennial players are joining old-fashioned chess, mahjong and backgammon groups.” One notable statistic: “The habit appears to have made it out of lockdown: The number of board game events organized using the invitation service Partiful quadrupled in the past year, the company said.”",
+      "original_url": "https://www.nytimes.com/2024/12/17/style/board-games-club.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/2024/12/17/style/board-games-club.html"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.is/sfofR"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "The Rescue",
+      "creator": null,
+      "note": "This is one of the wildest stories you will ever hear, and the people behind _Free Solo_ aced its cinematic telling. Watch the trailer [here](https://www.youtube.com/watch?v=_-Kw5kAPSbk). From the description: “_The Rescue_ chronicles the enthralling, against-all-odds story that transfixed the world in 2018: the daring rescue of twelve boys and their coach from deep inside a flooded cave in Northern Thailand. Academy Award®-winning directors and producers [E. Chai Vasarhelyi](https://en.wikipedia.org/wiki/Elizabeth_Chai_Vasarhelyi) and [Jimmy Chin](https://tim.blog/2015/10/20/the-athlete-and-artist-who-cheats-death-jimmy-chin/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content) keep viewers on the edge of their seats as they use a wealth of never-before-seen material and exclusive interviews to piece together the high stakes mission, highlighting the efforts of the Royal Thai Navy SEALs and U.S. Air Force Special Tactics and details the expert cave divers' audacious venture to dive the boys to safety.”",
+      "original_url": "https://www.disneyplus.com/play/1b136cb2-58f7-4bb1-b15f-e33908201352",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.disneyplus.com/play/1b136cb2-58f7-4bb1-b15f-e33908201352"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=_-Kw5kAPSbk"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Elizabeth_Chai_Vasarhelyi"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2015/10/20/the-athlete-and-artist-who-cheats-death-jimmy-chin/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Project I’m enjoying",
+      "category": "other",
+      "title": "Movie Iris: Visualizing movie frames as art",
+      "creator": null,
+      "note": "From the creator, data scientist [Lotan Weininger](https://www.linkedin.com/in/lotan-weininger/): “\\[This is\\] effectively taking raw movie frames, compressing them to their core colors, and visualizing the color schemes of a movie. I wanted to see how movies evolve, as well as how directors intended for different colors to be prevalent across different scenes.” Examples include _The Matrix_, _Up_, and _Hero_.",
+      "original_url": "https://github.com/LoSinCos/movie-iris",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://github.com/LoSinCos/movie-iris"
+        },
+        {
+          "type": "other",
+          "url": "https://www.linkedin.com/in/lotan-weininger/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“If we really dropped illusions for what they can give us or deprive us of, we would be alert. The consequence of not doing this is terrifying and unescapable. We lose our capacity to love. If you wish to love, you must learn to see again.” — Anthony de Mello) _(Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with the latest edition of The Random Show with Kevin Rose, which covers 2025 predictions, AI, aliens, new apps, fitness goals, and much, much more! And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Anthony de Mello) _",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Anthony_de_Mello_(Jesuit_priest",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Anthony_de_Mello_(Jesuit_priest"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/S9Kd8"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2025/01/03/the-random-show-2025-predictions/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

@@ -6,7 +6,123 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Brain in a Vat — Making Philosophy Manifest",
+      "creator": "Steve Jurvetson",
+      "note": "([@jurvetson](https://www.facebook.com/jurvetson)). If you want a glimpse of the future, take five minutes and peruse this. I also strongly suggest following [Steve on Twitter](https://twitter.com/FutureJurvetson). He has an uncanny ability to see around corners. For more from Steve, listen to [my wide-ranging interview](https://tim.blog/2018/05/31/steve-jurvetson/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) with him on quantum computing, nanotechnology, and much more.",
+      "original_url": "https://www.facebook.com/jurvetson/posts/10165776050560611",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.facebook.com/jurvetson/posts/10165776050560611"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/05/31/steve-jurvetson/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.facebook.com/jurvetson"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/FutureJurvetson"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2018/05/31/steve-jurvetson/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Documentary I’m watching —",
+      "category": "video",
+      "title": "Roadrunner: A Film About Anthony Bourdain",
+      "creator": null,
+      "note": "([Amazon](https://www.amazon.com/Roadrunner-Film-About-Anthony-Bourdain/dp/B09BB55XXX), [YouTube](https://www.youtube.com/watch?v=ihEEjwRlghQ), [Apple TV](https://itunes.apple.com/us/movie/roadrunner-a-film-about-anthony-bourdain/id1578006244?cmp=rt_where_to_watch)) from Academy Award-winning filmmaker [Morgan Neville](https://en.wikipedia.org/wiki/Morgan_Neville). I watched this on a flight and deeply appreciated the nuanced portrayal. The archival and outtake footage alone make it well worth watching. The official description: “_Roadrunner: A Film About Anthony Bourdain_ is an intimate, behind-the-scenes look at how an anonymous chef who lived his life unabashedly became a world-renowned cultural icon.” [Find the trailer here](https://www.youtube.com/watch?v=ihEEjwRlghQ). There are certainly lessons to be learned from the light and the dark, and this film raises important questions for me. For example: How can you _safely_ learn from—or emulate—certain characteristics of tortured outliers _without_ also inadvertently absorbing beliefs and behaviors that contributed to their deep inner pain? Tony’s story is inspiring, incredible, and tragic, and this film does an admirable job of capturing all three.",
+      "original_url": "https://www.amazon.com/Roadrunner-Film-About-Anthony-Bourdain/dp/B09BB55XXX",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Roadrunner-Film-About-Anthony-Bourdain/dp/B09BB55XXX"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Roadrunner-Film-About-Anthony-Bourdain/dp/B09BB55XXX"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=ihEEjwRlghQ"
+        },
+        {
+          "type": "other",
+          "url": "https://itunes.apple.com/us/movie/roadrunner-a-film-about-anthony-bourdain/id1578006244?cmp=rt_where_to_watch"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Morgan_Neville"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=ihEEjwRlghQ"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Principle I’m once again thinking about —",
+      "category": "other",
+      "title": "I learned this from the amazing @kylemaynard years ago, and I’ve probably used it every week since. Removing 7 gives you far better signal on everything. 7 is the most common default and tells you little; conversely, 6 is barely passing and 8 is a strong endorsement.",
+      "creator": null,
+      "note": "(Twitter thread)",
+      "original_url": "https://twitter.com/tferriss/status/1461810153066541058",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://twitter.com/tferriss/status/1461810153066541058"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m snacking on —",
+      "category": "other",
+      "title": "Savory Sage sprouted cashews from Rich Nuts",
+      "creator": null,
+      "note": "Thanks for introducing me to these, Mikey! Description: “Organic rosemary, sage, and sea salt give these cashews a rich, umami flavor. We start with raw cashews from triple-certified organic farms in Vietnam and SMETA Ethical Trade Audit-certified facilities. These world-class cashews are preservative-free, pesticide-free, vegan, gluten-free, and Paleo diet approved. We spark their germination with pure water to unlock nutrients. Then gently dehydrate them to preserve all that vital goodness and give them a superior crunch.”",
+      "original_url": "https://richnuts.com/products/savory-sage-2",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://richnuts.com/products/savory-sage-2"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“A writer is unfair to himself when he is unable to be hard on himself.”— Marianne MooreTim: Question for the writers out there: Do you agree or disagree with this? Why or why not?And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Marianne MooreTim: Question for the writers out there: Do you agree or disagree with this? Why or why not?And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Marianne_Moore",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Marianne_Moore"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

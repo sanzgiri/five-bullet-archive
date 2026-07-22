@@ -6,7 +6,127 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "New tool I’m testing",
+      "category": "other",
+      "title": "Consensus: AI Search Engine for Research",
+      "creator": null,
+      "note": "Thanks to Richard Reis of [Most Recommended Books](https://www.mostrecommendedbooks.com/) for the tip, which was a response to [this post of mine](https://x.com/tferriss/status/1826366945882767397) about science-focused AI tools. Here’s the synopsis, pun intended: “Consensus is an academic search engine, powered by AI, but grounded in scientific research. We use language models (LLMs) and purpose-built search technology (Vector search) to surface the most relevant papers. We synthesize both topic-level and paper-level insights. Everything is connected to real research papers.”",
+      "original_url": "https://consensus.app/?home=true",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://consensus.app/?home=true"
+        },
+        {
+          "type": "other",
+          "url": "https://www.mostrecommendedbooks.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/tferriss/status/1826366945882767397"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Supplement I’m using",
+      "category": "other",
+      "title": "HumanN SuperBeets Beetroot Powder",
+      "creator": null,
+      "note": "I have repeatedly seen endurance benefits from using this at altitude. Now, it could be placebo effect, but guess what? We can investigate using the aforementioned tool. [Here’s what it brings up](https://consensus.app/results/?q=is%20there%20any%20compelling%20evidence%20for%20beet%20root%20for%20endurance%20improvement%3F&synthesize=on).",
+      "original_url": "https://www.amazon.com/dp/B01ENMEXO4?ref=ppx_yo2ov_dt_b_fed_asin_title",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/dp/B01ENMEXO4?ref=ppx_yo2ov_dt_b_fed_asin_title"
+        },
+        {
+          "type": "other",
+          "url": "https://consensus.app/results/?q=is%20there%20any%20compelling%20evidence%20for%20beet%20root%20for%20endurance%20improvement%3F&synthesize=on"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "They’re Ignoring MrBeast’s Rules of YouTube, and Thriving",
+      "creator": null,
+      "note": "(_New York Times)_ Try [this alternate link](https://archive.is/3rCIZ) if you have any issues accessing. Hat tip to [Cyrus Kowsari](https://www.instagram.com/cyruskowsari/), Senior Producer at ONE Championship, which has become my favorite appointment viewing with friends. If you have Amazon Prime in the US or Canada, you can watch it. And if you want a rare chance to see the action in-person in the US, check out [their September 6th event in Denver](https://www.onefc.com/events/one168/). The fight card looks incredible.",
+      "original_url": "https://www.nytimes.com/2024/05/23/style/youtube-optimization.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nytimes.com/2024/05/23/style/youtube-optimization.html"
+        },
+        {
+          "type": "other",
+          "url": "https://archive.is/3rCIZ"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/cyruskowsari/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.onefc.com/events/one168/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "Storytelling advice from the creators of South Park",
+      "creator": null,
+      "note": "This is incredibly short and incredibly brilliant.",
+      "original_url": "https://www.youtube.com/watch?v=vGUNqq3jVLg",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=vGUNqq3jVLg"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“It is impossible to get better and look good at the same time. Give yourself permission to be a beginner.” — Julia Cameron, The Artist’s Way_ (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my interview with former CEO of Google Eric Schmidt, my conversation with bestselling author Steven Pressfield, and my final supercombo episode, featuring mega-investor Chris Sacca and legendary actor Scott Glenn. And one quick request for feedback: What would you like to see in this newsletter that you don’t? Are there any goodies you’d like me to add, or anything you’d like to see more of? Please send a tweet to @tferriss and let me know. Just include #5BF so I can find it! Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Julia Cameron, The Artist’s Way_",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Julia_Cameron",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Julia_Cameron"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/qz5e2"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2021/10/25/eric-schmidt-ai/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2022/12/13/steven-pressfield-3/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/08/29/chris-sacca-scott-glenn/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

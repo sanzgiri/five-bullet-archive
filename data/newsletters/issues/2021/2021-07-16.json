@@ -7,7 +7,123 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "App I’m experimenting with —",
+      "category": "other",
+      "title": "WeCroak",
+      "creator": null,
+      "note": "(**[**iOS**](https://itunes.apple.com/us/app/wecroak/id1248149943?mt=8)**,** [**Android**](https://play.google.com/store/apps/details?id=com.kkitcreations.wecroak)**).** Description: “The WeCroak app is inspired by a Bhutanese folk saying: to be a happy person, one must contemplate death five times daily.” This app sends you five prompts per day to stop and think about death, each complete with a related quote. I love how social sharing is disabled. Thank you to Josh T. and Matt M. for the recommendation.",
+      "original_url": "https://www.wecroak.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.wecroak.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://itunes.apple.com/us/app/wecroak/id1248149943?mt=8"
+        },
+        {
+          "type": "other",
+          "url": "https://play.google.com/store/apps/details?id=com.kkitcreations.wecroak"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m watching —",
+      "category": "video",
+      "title": "Kokoyakyu: High School Baseball",
+      "creator": null,
+      "note": "This documentary really brings back the memories. It tracks high school competitors and coaches in one of Japan’s deepest passions: baseball. The school uniforms, practices, buildings, customs, etc. are all nearly exactly what I experienced as a 15-year-old exchange student in Tokyo. [_Natsukashii naaaa_](https://www.bbc.com/travel/article/20200119-a-uniquely-japanese-take-on-nostalgia#:~:text=Natsukashii%20is%20a%20Japanese%20word,fond%20memory%20from%20your%20past.&text=But%20natsukashii%20%E2%80%93%20which%20derives%20from,desire%20to%20return%20to%20it.)! Deep bow to reader Ethan Jacobs ([@ethanajacobs](https://twitter.com/ethanajacobs/status/1415729968793927683)) for the suggestion.",
+      "original_url": "https://www.youtube.com/watch?v=ojZ6a0mJR9A",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=ojZ6a0mJR9A"
+        },
+        {
+          "type": "other",
+          "url": "https://www.bbc.com/travel/article/20200119-a-uniquely-japanese-take-on-nostalgia#:~:text=Natsukashii%20is%20a%20Japanese%20word,fond%20memory%20from%20your%20past.&text=But%20natsukashii%20%E2%80%93%20which%20derives%20from,desire%20to%20return%20to%20it."
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/ethanajacobs/status/1415729968793927683"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading —",
+      "category": "article",
+      "title": "Terence McKenna’s Memes",
+      "creator": null,
+      "note": "(_VICE_). I first read Terence McKenna when I was 15 and 16 years old, reading [_The Archaic Revival_](https://www.amazon.com/Archaic-Revival-Speculations-Psychedelic-Mushrooms/dp/0062506137/ref=sr_1_1?dchild=1&keywords=the+archaic+revival&qid=1626384158&sr=8-1) and [_Food of the Gods_](https://www.amazon.com/Food-Gods-Original-Knowledge-Evolution/dp/0553371304/ref=pd_vtp_1/147-3319022-5415553?pd_rd_w=XSpGa&pf_rd_p=016e3697-91be-4dc2-9533-ef9350e7e73d&pf_rd_r=JR7WJ73AZ606GHC4RQG8&pd_rd_r=9bc56b9a-19e5-4c3c-be89-9032bc01c940&pd_rd_wg=G2y9x&pd_rd_i=0553371304&psc=1), respectively. Both had an impact on my trajectory. The Irish bard of psychedelics loved wordsmithing and enjoyed controversy. Two of my favorite memes from the above linked article are _Worry is preposterous; we don’t know enough to worry_ and _Nature is not mute; it is man who is deaf_.",
+      "original_url": "https://www.vice.com/en/article/exm5dw/terence-mckennas-memes-234",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.vice.com/en/article/exm5dw/terence-mckennas-memes-234"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Archaic-Revival-Speculations-Psychedelic-Mushrooms/dp/0062506137/ref=sr_1_1?dchild=1&keywords=the+archaic+revival&qid=1626384158&sr=8-1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/Food-Gods-Original-Knowledge-Evolution/dp/0553371304/ref=pd_vtp_1/147-3319022-5415553?pd_rd_w=XSpGa&pf_rd_p=016e3697-91be-4dc2-9533-ef9350e7e73d&pf_rd_r=JR7WJ73AZ606GHC4RQG8&pd_rd_r=9bc56b9a-19e5-4c3c-be89-9032bc01c940&pd_rd_wg=G2y9x&pd_rd_i=0553371304&psc=1"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m listening to —",
+      "category": "podcast",
+      "title": "Heartstrings",
+      "creator": "Russell Malone",
+      "note": "([YouTube](https://www.youtube.com/watch?v=2Enjla7qvtA), [Spotify](https://open.spotify.com/track/103UkTPcm9VkLMQ8YuvKeG?si=bc6d89e2b54d4961)) by [Russell Malone](https://en.wikipedia.org/wiki/Russell_Malone).",
+      "original_url": "https://www.youtube.com/watch?v=2Enjla7qvtA",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=2Enjla7qvtA"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=2Enjla7qvtA"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/track/103UkTPcm9VkLMQ8YuvKeG?si=bc6d89e2b54d4961"
+        },
+        {
+          "type": "other",
+          "url": "https://en.wikipedia.org/wiki/Russell_Malone"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“The art of life is to know how to enjoy a little and to endure much.”— William Hazlitt And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "William Hazlitt And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/William_Hazlitt",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/William_Hazlitt"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }

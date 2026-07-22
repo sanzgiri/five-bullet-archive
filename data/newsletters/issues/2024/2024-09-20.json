@@ -6,7 +6,127 @@
     "hotmail"
   ],
   "status": "email",
-  "extraction_status": "metadata_only",
+  "extraction_status": "extracted",
   "special_edition": true,
-  "bullets": []
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m sharing and adding to",
+      "category": "other",
+      "title": "My New Rules for Podcasting – To Keep Things Interesting",
+      "creator": null,
+      "note": null,
+      "original_url": "https://tim.blog/2024/09/16/my-new-rules-for-podcasting-to-keep-things-interesting/%20?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2024/09/16/my-new-rules-for-podcasting-to-keep-things-interesting/%20?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "13-minute podcast episode that I’m thinking a lot about",
+      "category": "podcast",
+      "title": "Brain’s ‘Background Noise’ May Explain Value of Shock Therapy",
+      "creator": null,
+      "note": "on the _Quanta Science_ podcast ([Apple](https://podcasts.apple.com/us/podcast/brains-background-noise-may-explain-value-of-shock-therapy/id1021340531?i=1000668375169), [Spotify](https://open.spotify.com/episode/0j7rIs7GBVkKcDlRXV7skJ?si=6nl2JgxDT_6_RhLYVbPVrg), [Overcast](https://overcast.fm/+AAJGHdH3IDw)). If you prefer a text version, [here you go](https://www.quantamagazine.org/brains-background-noise-may-explain-value-of-shock-therapy-20240318/). A preview: “Electroconvulsive therapy \\[ECT\\] is highly effective in treating major depressive disorder, but no one knows why it works. New research suggests it may restore balance between excitation and inhibition in the brain.”",
+      "original_url": "https://podcasts.apple.com/us/podcast/brains-background-noise-may-explain-value-of-shock-therapy/id1021340531?i=1000668375169",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://podcasts.apple.com/us/podcast/brains-background-noise-may-explain-value-of-shock-therapy/id1021340531?i=1000668375169"
+        },
+        {
+          "type": "other",
+          "url": "https://podcasts.apple.com/us/podcast/brains-background-noise-may-explain-value-of-shock-therapy/id1021340531?i=1000668375169"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/episode/0j7rIs7GBVkKcDlRXV7skJ?si=6nl2JgxDT_6_RhLYVbPVrg"
+        },
+        {
+          "type": "other",
+          "url": "https://overcast.fm/+AAJGHdH3IDw"
+        },
+        {
+          "type": "other",
+          "url": "https://www.quantamagazine.org/brains-background-noise-may-explain-value-of-shock-therapy-20240318/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "The 22 Pixar rules of storytelling",
+      "creator": null,
+      "note": "Here are some of my personal faves:  \n​**​  \n​**#1: You admire a character for trying more than for their successes.  \n​  \n#4: Once upon a time there was \\_\\_\\_. Every day, \\_\\_\\_. One day \\_\\_\\_. Because of that, \\_\\_\\_. Because of that, \\_\\_\\_. Until finally \\_\\_\\_.  \n​  \n#6: What is your character good at, comfortable with? Throw the polar opposite at them. Challenge them. How do they deal?  \n​  \n#7: Come up with your ending before you figure out your middle. Seriously. Endings are hard, get yours working up front.**​  \n​  \n​**#9: When you’re stuck, make a list of what WOULDN’T happen next. Lots of times the material to get you unstuck will show up.  \n​  \n#11: Putting it on paper lets you start fixing it. If it stays in your head, a perfect idea, you’ll never share it with anyone.  \n​  \n#12: Discount the 1st thing that comes to mind. And the 2nd, 3rd, 4th, 5th – get the obvious out of the way. Surprise yourself.  \n​  \n#19: Coincidences to get characters into trouble are great; coincidences to get them out of it are cheating.",
+      "original_url": "https://web.archive.org/web/20120601043826/http://www.pixartouchbook.com/blog/2011/5/15/pixar-story-rules-one-version.html",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://web.archive.org/web/20120601043826/http://www.pixartouchbook.com/blog/2011/5/15/pixar-story-rules-one-version.html"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Documentary I’m watching",
+      "category": "video",
+      "title": "David Holmes: The Boy Who Lived",
+      "creator": null,
+      "note": "[This doc has 97% on Rotten Tomatoes](https://www.rottentomatoes.com/m/david_holmes_the_boy_who_lived). [Click here for the official trailer](https://www.youtube.com/watch?v=1tWi5BiXqCE). Description: “The film is a coming-of-age story of stuntman David Holmes, a prodigious teenage gymnast from Essex, England, who is selected to play Daniel Radcliffe’s stunt double in the first Harry Potter film, when Daniel is just eleven. Over the next ten years, the two form an inextricable bond, but on the penultimate film, a tragic accident on set leaves David paralyzed with a debilitating spinal injury, turning his world upside down. As Daniel and his closest stunt colleagues rally to support David and his family in their moment of need, it is David’s extraordinary spirit of resilience that becomes their greatest source of strength and inspiration.”",
+      "original_url": "https://www.max.com/movies/david-holmes-the-boy-who-lived/79abc2df-3e0a-49d5-952e-463d4f1bfff7",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.max.com/movies/david-holmes-the-boy-who-lived/79abc2df-3e0a-49d5-952e-463d4f1bfff7"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rottentomatoes.com/m/david_holmes_the_boy_who_lived"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=1tWi5BiXqCE"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The best life is the one in which the creative impulses play the largest part and the possessive impulses the smallest.” — Bertrand Russell (Click here to share on Twitter.) * * * You can complement this edition of 5-Bullet Friday with my interview with Pixar cofounder Ed Catmull; my conversation with the director of the Stanford Brain Stimulation Lab, Dr. Nolan Williams; and What Happens When Israelis and Palestinians Drink Ayahuasca Together?, featuring an episode from the new Altered States podcast—made possible, in part, by the Ferriss – UC Berkeley Psychedelic Journalism Fellowship. And, as always, please give me feedback on Twitter. Which bullet above is your favorite? What do you want more or less of? Other suggestions? Please let me know. Just send a tweet to @tferriss and put #5BulletFriday at the end so I can find it. Have a wonderful weekend, all. Much love to you and yours, Tim",
+      "creator": "Bertrand Russell",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Bertrand_Russell",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Bertrand_Russell"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/S4o74"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/08/12/ed-catmull/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/01/05/nolan-williams/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/09/18/what-happens-when-israelis-and-palestinians-drink-ayahuasca-together/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit#content"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    }
+  ]
 }
