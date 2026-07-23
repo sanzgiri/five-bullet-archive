@@ -1,115 +1,65 @@
-# Five-Bullet Archive
+# Five Bullet Index
 
-A portable, source-traceable archive of recommendations from Tim Ferriss's 5-Bullet Friday newsletter. Newsletter metadata and extracted recommendations live in one JSON file per issue date under `data/newsletters/issues/YYYY/`.
+A searchable, portable archive of recommendations from Tim Ferriss’s 5-Bullet Friday newsletter.
 
-The repository is being built data-first. The web application will be developed after newsletter coverage and extraction quality are stable.
+The published site is [five-bullet-index.sanzgiri.chatgpt.site](https://five-bullet-index.sanzgiri.chatgpt.site). It is currently owner-only. The source repository is [sanzgiri/five-bullet-archive](https://github.com/sanzgiri/five-bullet-archive).
 
-## Archive commands
+## What’s included
 
-```bash
-npm run archive:migrate  # one-time migration of the original mailbox inventory
-npm run archive:build    # validate dated files and regenerate index.jsonl
-npm run archive:extract-hotmail -- --dry-run
-npm run archive:audit
-```
+- 530 dated newsletter issues from 2015–2026
+- 2,709 extracted recommendations, searchable by title, person, category, and year
+- Verbatim associated notes where available
+- Spotify discovery links for music, Amazon links for books, and JustWatch links for films and TV
+- One portable JSON file per issue at `data/newsletters/issues/YYYY/YYYY-MM-DD.json`
 
-See `data/newsletters/README.md` and `data/newsletters/schema.json` for the storage contract.
+`data/newsletters/index.jsonl` and `public/archive-data.json` are generated files. The latter is the compact client-side dataset used by the website.
 
-## Web application (later phase)
+## Data quality and quote handling
 
-A clean full-stack starter running on
-[vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and
-Drizzle support.
+Each source issue keeps its source metadata and structured recommendation bullets. Mailbox message IDs, credentials, and full raw message bodies are excluded from Git.
 
-## Prerequisites
+Quotes receive extra cleanup because they are often the last newsletter section. `scripts/quote-text.mjs` removes newsletter footers, sharing prompts, and follow-on promotional copy before a quote is stored. The same logic is used by Gmail, Hotmail, and EML importers. `npm test` checks every quote record for known footer fragments.
 
-- Node.js `>=22.13.0`
+## Local setup
 
-## Quick Start
+Requires Node.js 22.13 or later.
 
 ```bash
 npm install
 npm run dev
-npm run build
 ```
 
-This starter does not use `wrangler.jsonc`.
+Useful commands:
 
-## Included Shape
-
-- edit site code under `app/`
-- `.openai/hosting.json` declares optional Sites D1 and R2 bindings
-- `vite.config.ts` simulates declared bindings for local development
-- `db/schema.ts` starts intentionally empty
-- `examples/d1/` contains an optional D1 example surface
-- `drizzle.config.ts` supports local migration generation when needed
-
-## Workspace Auth Headers
-
-OpenAI workspace sites can read the current user's email from
-`oai-authenticated-user-email`.
-
-SIWC-authenticated workspace sites may also receive
-`oai-authenticated-user-full-name` when the user's SIWC profile has a non-empty
-`name` claim. The full-name value is percent-encoded UTF-8 and is accompanied by
-`oai-authenticated-user-full-name-encoding: percent-encoded-utf-8`.
-
-Treat the full name as optional and fall back to email when it is absent:
-
-```tsx
-import { headers } from "next/headers";
-
-export default async function Home() {
-  const requestHeaders = await headers();
-  const email = requestHeaders.get("oai-authenticated-user-email");
-  const encodedFullName = requestHeaders.get("oai-authenticated-user-full-name");
-  const fullName =
-    encodedFullName &&
-    requestHeaders.get("oai-authenticated-user-full-name-encoding") ===
-      "percent-encoded-utf-8"
-      ? decodeURIComponent(encodedFullName)
-      : null;
-
-  const displayName = fullName ?? email;
-  // ...
-}
+```bash
+npm run archive:build       # validate issue JSON and rebuild generated datasets
+npm run archive:audit       # audit coverage and extraction quality
+npm run archive:enrich      # add/update service discovery links
+npm run archive:import-eml -- imports/five-bullet-emails --write
+npm test                    # production build plus archive regression tests
 ```
 
-## Optional Dispatch-Owned ChatGPT Sign-In
+The EML importer is the operational update path for Outlook/Hotmail exports. It is safe to rerun: use `--force` only when intentionally replacing an existing dated issue. The Gmail JSON importer and the Microsoft Graph Hotmail extractor use the same structured format; see [data/newsletters/README.md](data/newsletters/README.md) for their details.
 
-Import the ready-to-use helpers from `app/chatgpt-auth.ts` when the site needs
-optional or required ChatGPT sign-in:
+## Weekly update workflow
 
-- Use `getChatGPTUser()` for optional signed-in UI.
-- Use `requireChatGPTUser(returnTo)` for server-rendered pages that should send
-  anonymous visitors through Sign in with ChatGPT.
-- Use `chatGPTSignInPath(returnTo)` and `chatGPTSignOutPath(returnTo)` for
-  browser links or actions.
-- Pass a same-origin relative `returnTo` path for the destination after sign-in
-  or sign-out. The helper validates and safely encodes it.
-- Mark protected pages with `export const dynamic = "force-dynamic"` because
-  they depend on per-request identity headers.
+1. Export or add newly received 5-Bullet Friday messages as `.eml` files under `imports/five-bullet-emails/`.
+2. Run the EML importer with `--write`.
+3. Rebuild, audit, and test the archive.
+4. Review the resulting dated JSON records, then commit and push the changed issue files and generated `public/archive-data.json`.
+5. Publish a new Sites version from the exact pushed commit.
 
-Dispatch owns `/signin-with-chatgpt`, `/signout-with-chatgpt`, `/callback`, the
-OAuth cookies, and identity header injection. Do not implement app routes for
-those reserved paths. Routes that do not import and call the helper remain
-anonymous-compatible.
+The scheduled maintenance task follows this workflow and reports failures instead of silently publishing an unverified issue.
 
-SIWC establishes identity only; it does not prove workspace membership. Use the
-Sites hosting platform's access policy controls for workspace-wide restrictions,
-or enforce explicit server-side membership or allowlist checks.
+## Deployment
 
-Use SIWC for account pages, user-specific dashboards, saved records, and write
-actions tied to the current ChatGPT user. Leave public content anonymous.
+The app is a Next.js/Vinext static archive deployed through OpenAI Sites. The Sites project ID is stored in `.openai/hosting.json`; it is not a Netlify, Render, Vercel, or Fly deployment.
 
-## Useful Commands
+Before publishing a release, run:
 
-- `npm run dev`: start local development
-- `npm run build`: verify the vinext build output
-- `npm test`: build the starter and verify its rendered loading skeleton
-- `npm run db:generate`: generate Drizzle migrations after schema changes
+```bash
+npm test
+git diff --check
+```
 
-## Learn More
-
-- [vinext Documentation](https://github.com/cloudflare/vinext)
-- [Drizzle D1 Guide](https://orm.drizzle.team/docs/get-started/d1-new)
+Then save and deploy a Sites version from the exact commit that was pushed to both GitHub and the Sites source repository.
