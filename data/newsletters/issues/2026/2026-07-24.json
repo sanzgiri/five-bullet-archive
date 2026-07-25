@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "issue_date": "2026-07-24",
+  "subject": "5-Bullet Friday — Earplugs for Better Sleep, Secret Drone Factories, 120+ TV Episodes of Bliss, and The Future of Companies",
+  "sources": ["hotmail"],
+  "status": "email",
+  "extraction_status": "extracted",
+  "special_edition": false,
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Earplugs I’m enjoying",
+      "category": "other",
+      "title": "PQ Silicone Gel Earplugs",
+      "creator": null,
+      "note": ".\nFor sleep, I’ve used [Mack’s silicone earplugs](https://www.amazon.com/Macks-Pillow-Soft-Silicone-Earplugs/dp/B07S1MWHNR/) for more than a decade. But they’re not without issues: the putty is too large for my ears, but a half is too small, and I constantly run out while on the road. The PQ earplugs come in a package of 50, and they’re just the right size. Thus far, these have become my default.",
+      "original_url": "https://www.amazon.com/dp/B0BKH1D62C",
+      "links": [
+        {"type": "original", "url": "https://www.amazon.com/dp/B0BKH1D62C"},
+        {"type": "other", "url": "https://www.amazon.com/Macks-Pillow-Soft-Silicone-Earplugs/dp/B07S1MWHNR/"}
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Article I’m reading",
+      "category": "article",
+      "title": "Inside the Secret Factory That Supplies Ukraine’s War Drones",
+      "creator": null,
+      "note": ".\n(Alternate link.)\nFor a good pairing on the future of war-tech, watch “Palmer Luckey Wants America to Win.”",
+      "original_url": "https://www.nytimes.com/2026/07/11/business/dealbook/drone-factory-helsing.html",
+      "links": [
+        {"type": "original", "url": "https://www.nytimes.com/2026/07/11/business/dealbook/drone-factory-helsing.html"},
+        {"type": "other", "url": "https://archive.is/NL0GT"},
+        {"type": "other", "url": "https://www.youtube.com/watch?v=-Ef5Q-3Iq8&feature=youtu.be"}
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Blog post I’m reading",
+      "category": "article",
+      "title": "From Hierarchy to Intelligence",
+      "creator": "Jack Dorsey and Roelof Botha",
+      "note": "by [Jack Dorsey](https://en.wikipedia.org/wiki/Jack_Dorsey) and [Roelof Botha](https://tim.blog/2022/08/31/roelof-botha/). Here are a few excerpts to give you some idea of the gist:\n\n_Block is remote-first. Everything we do creates artifacts. Decisions, discussions, code, designs, plans, problems, and progress all exist as recorded actions. It’s the raw material for a company world model. In a traditional company, a manager’s job is to know what’s happening across their team and relay that context up and down the chain. In a remote-first company where work is already machine-readable, AI can build and maintain that picture continuously. What’s being built, what’s blocked, where resources are allocated, what’s working and what isn’t. That’s the information the hierarchy used to carry. The company world model carries it instead._\n\n...\n\n_[An intelligence layer] is what composes capabilities into solutions for specific customers at specific moments and delivers them proactively. A restaurant’s cash flow is tightening ahead of a seasonal dip the model has seen before. The intelligence layer composes a short-term loan from the lending capability, adjusts the repayment schedule using the payments capability, and surfaces it to the merchant before they even think to look for financing. A Cash App user’s spending pattern shifts in a way the model associates with a move to a new city. The intelligence layer composes a new direct deposit setup, a Cash App Card with boosted categories for their new neighborhood, and a savings goal calibrated to their updated income. No product manager decided to build either solution. The capabilities existed. The intelligence layer recognized the moment and composed them._\n\n…\n\n_We’re writing about it now because we believe every company will eventually need to confront the same question we did: what does your company understand that is genuinely hard to understand, and is that understanding getting deeper every day?\n\nIf the answer is nothing, AI is just a cost optimization story. You cut headcount, improve margins for a few quarters, and eventually get absorbed by something smarter. If the answer is deep, AI doesn’t augment your company. It reveals what your company actually is._\n\nPairs well with the [real-world examples in this video](https://www.youtube.com/watch?si=_bNMQlUlTBbNBAIx&t=232&v=X_JsIHFUvJc&feature=youtu.be) from Tom Blomfield, and you only need 1–2 minutes to get the gist.\n\nThanks to [Tomas Hoyos](https://tomashoyos.substack.com/) for recommending both of the above. He’s putting it into practice at [Apt](https://www.tryapt.ai/), the world’s first AI-powered career test and career mentor. His super-short [“here’s what happened this week” AI synopsis newsletter](https://tomashoyos.substack.com/) is also worth checking out.",
+      "original_url": "https://block.xyz/inside/from-hierarchy-to-intelligence",
+      "links": [
+        {"type": "original", "url": "https://block.xyz/inside/from-hierarchy-to-intelligence"},
+        {"type": "other", "url": "https://en.wikipedia.org/wiki/Jack_Dorsey"},
+        {"type": "other", "url": "https://tim.blog/2022/08/31/roelof-botha/"},
+        {"type": "other", "url": "https://www.youtube.com/watch?si=_bNMQlUlTBbNBAIx&t=232&v=X_JsIHFUvJc&feature=youtu.be"},
+        {"type": "other", "url": "https://tomashoyos.substack.com/"},
+        {"type": "other", "url": "https://www.tryapt.ai/"}
+      ]
+    },
+    {
+      "position": 4,
+      "section": "What I’m watching from start to finish",
+      "category": "video",
+      "title": "Parks and Recreation",
+      "creator": "Michael Schur",
+      "note": "(Peacock, Apple TV, Amazon Prime). OK, I realize I’m late to the party here, but, MY GOD, what a wonderful nightly palate cleanser!\n\nLike millions of people, I’d seen tons of social clips of _Parks and Rec_ and even 1–2 scattered episodes. But I’d never watched it as one should: starting at the beginning. The character development over time is incredible, and having a reliable “Oh, I feel so much better!” at the end of every day has become one of my favorite rituals.\n\nIf you want to sample just one episode, try “Sister City” (Season 2, Episode 5) or one of their other top-rated eps. But I’d suggest starting at S1E1 and just watching them all. As someone who grew up on Richard Pryor, I never thought I’d be so grateful for (mostly) wholesome laughs. And if you like it, you’ll have 120+ eps over 7 seasons to keep you laughing, which should be enough to fuel at least a few months of exhaling before bed.\n\nTo really go down the rabbit hole, pair this with my conversation with Michael Schur. Michael created the critically acclaimed NBC comedy _The Good Place_ and co-created _Parks and Recreation_, _Brooklyn Nine-Nine_, and _Rutherford Falls_. Prior to “Parks,” Michael spent four years as a writer-producer on the Emmy Award-winning NBC hit _The Office_.",
+      "original_url": "https://www.amazon.com/gp/video/detail/B00C0Y58NI/",
+      "links": [
+        {"type": "original", "url": "https://www.amazon.com/gp/video/detail/B00C0Y58NI/"},
+        {"type": "other", "url": "https://www.peacocktv.com/stream-tv/parks-and-recreation"},
+        {"type": "other", "url": "https://tv.apple.com/us/show/parks-and-recreation/umc.cmc.4rhzbt3nmsycvgt4ni1hlbuyae"},
+        {"type": "other", "url": "https://www.amazon.com/gp/video/detail/B00C0Y58NI/"},
+        {"type": "other", "url": "https://www.amazon.com/gp/video/detail/B0FGF6572C/"},
+        {"type": "other", "url": "https://variety.com/lists/parks-and-recreation-best-episodes/soulmates-2/"},
+        {"type": "other", "url": "https://www.amazon.com/gp/video/detail/B0F9FBWMGQ/"},
+        {"type": "other", "url": "https://tim.blog/2022/01/19/michael-schur/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"},
+        {"type": "justwatch", "url": "https://www.justwatch.com/us/tv-show/parks-and-recreation", "region": "US"},
+        {"type": "streaming", "url": "https://www.peacocktv.com/stream-tv/parks-and-recreation", "region": "US", "availability_checked_at": "2026-07-25T00:00:00-07:00"},
+        {"type": "streaming", "url": "https://tv.apple.com/us/show/parks-and-recreation/umc.cmc.4rhzbt3nmsycvgt4ni1hlbuyae", "region": "US", "availability_checked_at": "2026-07-25T00:00:00-07:00"},
+        {"type": "streaming", "url": "https://www.amazon.com/gp/video/detail/B00C0Y58NI/", "region": "US", "availability_checked_at": "2026-07-25T00:00:00-07:00"}
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quotes I’m pondering",
+      "category": "quote",
+      "title": "“You must stay drunk on writing so reality cannot destroy you.” — Ray Bradbury\n\n“In descriptions of Nature one must seize on small details, grouping them so that when the reader closes his eyes he gets a picture. For instance, you’ll have a moonlit night if you write that on the mill dam a piece of glass from a broken bottle glittered like a bright little star, and that the black shadow of a dog or a wolf rolled past like a ball.” — Anton Chekhov",
+      "creator": "Ray Bradbury; Anton Chekhov",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Ray_Bradbury",
+      "links": [
+        {"type": "original", "url": "https://en.wikipedia.org/wiki/Ray_Bradbury"},
+        {"type": "other", "url": "https://en.wikipedia.org/wiki/Anton_Chekhov"},
+        {"type": "other", "url": "https://quoteinvestigator.com/2013/07/30/moon-glint/"}
+      ]
+    }
+  ]
+}
