@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "issue_date": "2026-07-31",
+  "subject": "5-Bullet Friday — Ian Fleming’s Daily Routine, Wild Science, and Reasons to Remain Human",
+  "sources": ["hotmail"],
+  "status": "email",
+  "extraction_status": "extracted",
+  "special_edition": false,
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to while writing",
+      "category": "music",
+      "title": "2001 (Instrumentals)",
+      "creator": "Dr. Dre",
+      "note": "by [Dr. Dre](https://www.instagram.com/drdre/). From _The Ringer_ :  \n\n_The first sound you hear on 2001 is the_ [THX Deep Note](https://www.youtube.com/watch?v=uYMpMcmfFkI) _crescendoing and rumbling like an earthquake. It’s a fitting, on-the-nose introduction to one of the most cinematic rap albums of all time: Throughout 2001, Dre creates a highly curated noir L.A. soundscape, complete with skits, whirring helicopters, bar chatter, and whizzing bullets._",
+      "original_url": "https://www.youtube.com/watch?v=WveaDWy2WpQ&list=PLATQ8iWXs4GxyekHEYTwlsKwKH5fcr2Jm",
+      "links": [
+        {"type": "original", "url": "https://www.youtube.com/watch?v=WveaDWy2WpQ&list=PLATQ8iWXs4GxyekHEYTwlsKwKH5fcr2Jm"},
+        {"type": "spotify_album", "url": "https://open.spotify.com/album/3t3Ar2cJUVLY6yTRmrezI8"},
+        {"type": "other", "url": "https://www.youtube.com/watch?v=uYMpMcmfFkI"},
+        {"type": "other", "url": "https://www.instagram.com/drdre/"}
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Incredible science that I’m following",
+      "category": "research",
+      "title": "All living things emit a faint glow. Could this light be useful?",
+      "creator": "Jo Marchant",
+      "note": "by [Jo Marchant](https://www.nature.com/search?q=Jo%20Marchant) (_Nature_). Here is one of the many wild paragraphs in this piece:  \n\n_Some experiments are harder to dismiss, says Cifra. A team led by biologist Rhys Mould at the University of Westminster, London, for example, studied isolated mitochondria in sealed quartz containers. Adding a toxin to one container decreased the respiration rate of mitochondria in adjacent ones, and mitochondria from cancer cells showed a stronger response than those from healthy cell lines did. The effect was blocked by an opaque barrier of aluminium foil. Even so, Cifra argues that it’s difficult to see how biophoton signalling could work without background light swamping the weak emissions. “I’m not discarding the possibility for this phenomenon to be real,” he says. But if it is, “we are probably missing something important in the underlying physics.”_  \n\nThanks to AH for texting this to me.",
+      "original_url": "https://www.nature.com/articles/d41586-026-02311-x",
+      "links": [
+        {"type": "original", "url": "https://www.nature.com/articles/d41586-026-02311-x"},
+        {"type": "other", "url": "https://www.nature.com/search?q=Jo%20Marchant"}
+      ]
+    },
+    {
+      "position": 3,
+      "section": "A creative routine I’m going to mimic",
+      "category": "article",
+      "title": "Ian Fleming’s typical day at his estate in Jamaica",
+      "creator": "Ian Fleming",
+      "note": "I reposted with “[Please tell me this is real](https://x.com/martl/status/2082137810438680991).” Thanks to Michael for sleuthing out [the answer](https://x.com/martl/status/2082137810438680991). Pair it with “[How To Write A Book By Ian Fleming](https://ianfleming.com/ian-flemings-guide-to-how-to-write-a-book/).” Ian Fleming is best known for creating James Bond in a series of spy novels beginning with _Casino Royale_ (1953), which also happens to be [one of my favorite Bond movies](https://www.amazon.com/dp/B09TX3R5VJ).",
+      "original_url": "https://x.com/oldstocky/status/2081440328863592571",
+      "links": [
+        {"type": "original", "url": "https://x.com/oldstocky/status/2081440328863592571"},
+        {"type": "other", "url": "https://x.com/martl/status/2082137810438680991"},
+        {"type": "other", "url": "https://ianfleming.com/ian-flemings-guide-to-how-to-write-a-book/"},
+        {"type": "other", "url": "https://www.amazon.com/dp/B09TX3R5VJ"}
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Very short post I’m sharing with friends",
+      "category": "article",
+      "title": "Please Use AI",
+      "creator": "Shawn Smucker",
+      "note": "by [Shawn Smucker](http://shawnsmucker.com/). Don’t let the title fool you. It’s a beautiful reminder to remain human, despite pressures to mimic the machines we use. Hat tip to CS for the recommendation.  \n\nThis piece brings to mind a Kurt Vonnegut passage that is about telling his wife he’s going out to buy an envelope:  \n\n“She says, ‘Well, you’re not a poor man. You know, why don’t you go online and buy a hundred envelopes and put them in the closet?’ And so I pretend not to hear her and go out to get an envelope, because I’m going to have a hell of a good time in the process of buying one envelope. I meet a lot of people and see some great-looking babes. And a fire engine goes by, and I give them the thumbs up and ask a woman what kind of dog that is. And… and I don’t know. The moral of the story is, we’re here on Earth to fart around. And don’t let anybody tell you any different. And, of course, the computers will do us out of that. What the computer people don’t realize, or they don’t care, is we’re dancing animals.”",
+      "original_url": "https://shawnsmucker.substack.com/p/please-use-ai",
+      "links": [
+        {"type": "original", "url": "https://shawnsmucker.substack.com/p/please-use-ai"},
+        {"type": "other", "url": "http://shawnsmucker.com/"}
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The writer must believe that what he is doing is the most important thing in the world. And he must hold to this illusion even when he knows it is not true.” — John Steinbeck",
+      "creator": "John Steinbeck",
+      "note": "Could apply to a lot of vocations and missions, not just writing:",
+      "original_url": "https://en.wikipedia.org/wiki/John_Steinbeck",
+      "links": [
+        {"type": "original", "url": "https://en.wikipedia.org/wiki/John_Steinbeck"}
+      ]
+    }
+  ]
+}
