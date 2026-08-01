@@ -2,12 +2,12 @@
 
 A searchable, portable archive of recommendations from Tim Ferriss’s 5-Bullet Friday newsletter.
 
-The published site is [five-bullet-index.sanzgiri.chatgpt.site](https://five-bullet-index.sanzgiri.chatgpt.site). It is currently owner-only. The source repository is [sanzgiri/five-bullet-archive](https://github.com/sanzgiri/five-bullet-archive).
+The published site is [five-bullet-index.sanzgiri.chatgpt.site](https://five-bullet-index.sanzgiri.chatgpt.site). It is a public, independent index of newsletter emails and is not affiliated with Tim Ferriss. The source repository is [sanzgiri/five-bullet-archive](https://github.com/sanzgiri/five-bullet-archive).
 
 ## What’s included
 
-- 530 dated newsletter issues from 2015–2026
-- 2,709 extracted recommendations, searchable by title, person, category, and year
+- 532 dated newsletter issues from 2015–2026
+- 2,719 extracted recommendations, searchable by title, person, category, and year
 - Verbatim associated notes where available
 - Spotify discovery links for music, Amazon links for books, and JustWatch links for films and TV
 - One portable JSON file per issue at `data/newsletters/issues/YYYY/YYYY-MM-DD.json`
@@ -49,6 +49,8 @@ The EML importer is the operational update path for Outlook/Hotmail exports. It 
 4. Review the resulting dated JSON records, then commit and push the changed issue files and generated `public/archive-data.json`.
 5. Publish a new Sites version from the exact pushed commit.
 
+The weekly Codex maintenance automation runs on Saturday mornings, imports qualifying Outlook issues, validates the archive, and publishes the current pushed commit to the public Sites deployment after a successful test/build.
+
 The scheduled maintenance task follows this workflow and reports failures instead of silently publishing an unverified issue.
 
 ## Deployment
@@ -63,3 +65,7 @@ git diff --check
 ```
 
 Then save and deploy a Sites version from the exact commit that was pushed to both GitHub and the Sites source repository.
+
+## Known coverage gaps
+
+The archive is an indexed reconstruction from received newsletter emails and public-source backfills; it is not a claim of complete publication history. The current audit marks these six dates as unresolved candidate Fridays with no confirmed full issue: 2018-01-19, 2018-09-21, 2019-03-29, 2021-10-01, 2021-12-31, and 2022-03-25. Seven older records remain flagged for review because they are metadata-only or partial: 2015-07-03, 2017-03-03, 2017-05-19, 2017-06-02, 2017-07-21, 2018-01-12, and 2019-03-15. See [data/newsletters/gap-audit.json](data/newsletters/gap-audit.json) for evidence and status.
