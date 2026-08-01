@@ -7,7 +7,7 @@ const geist = Geist({ variable: "--font-geist", subsets: ["latin"] });
 
 const title = "Five Bullet Index — Tim Ferriss Recommendations";
 const description =
-  "Search a decade of books, music, films, podcasts, quotes, and ideas recommended in Tim Ferriss’s 5-Bullet Friday newsletter.";
+  "Search books, music, films, podcasts, quotes, and ideas recommended in Tim Ferriss’s 5-Bullet Friday newsletter.";
 
 export async function generateMetadata(): Promise<Metadata> {
   const requestHeaders = await headers();

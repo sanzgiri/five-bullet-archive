@@ -17,7 +17,7 @@ test("renders the finished archive shell", async () => {
   assert.equal(response.status, 200);
   const html = await response.text();
   assert.match(html, /<title>Five Bullet Index/);
-  assert.match(html, /A decade of good ideas/);
+  assert.match(html, /A library of good ideas/);
   assert.match(html, /Search a title, person, idea/);
   assert.doesNotMatch(html, /codex-preview|react-loading-skeleton|Your site is taking shape/);
 });

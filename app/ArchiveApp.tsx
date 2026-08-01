@@ -171,12 +171,12 @@ export function ArchiveApp() {
       <section className="hero" id="top">
         <div className="hero-copy">
           <p className="eyebrow">Tim Ferriss’s 5-Bullet Friday, organized</p>
-          <h1>A decade of good ideas, <em>ready to rediscover.</em></h1>
+          <h1>A library of good ideas, <em>ready to rediscover.</em></h1>
           <p className="intro">Books worth underlining. Music worth replaying. Films worth watching. Thousands of recommendations, searchable in one quiet place.</p>
         </div>
         <div className="archive-stats" aria-label="Archive statistics">
-          <div><strong>2,709</strong><span>recommendations</span></div>
-          <div><strong>530</strong><span>Friday editions</span></div>
+          <div><strong>2,714</strong><span>recommendations</span></div>
+          <div><strong>531</strong><span>Friday editions</span></div>
           <div><strong>2015—26</strong><span>years covered</span></div>
         </div>
       </section>
