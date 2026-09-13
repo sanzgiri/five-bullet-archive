@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "issue_date": "2026-08-28",
+  "subject": "5-Bullet Friday — My Fave Headphones, Creativity Boosters, Cannibalism, Seeing Silence, and More",
+  "sources": ["hotmail"],
+  "status": "email",
+  "extraction_status": "extracted",
+  "special_edition": false,
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Book I’m enjoying",
+      "category": "book",
+      "title": "Seeing Silence: The Beauty of the World’s Most Quiet Places",
+      "creator": "Pete McBride",
+      "note": "The sublime is easy to find in this book, whether you simply flip through the gorgeous photos or do a deep dive into the prose. Pete McBride, a National Geographic photographer and filmmaker, shot the images across all seven continents, from Everest to Antarctica. The foreword is by Bill McKibben, a renowned environmentalist and journalist. The prologue is by Erik Weihenmayer, the first blind person to summit Everest.",
+      "original_url": "https://www.amazon.com/dp/0847870863?tag=offsitoftimfe-20",
+      "links": [
+        {"type": "original", "url": "https://www.amazon.com/dp/0847870863?tag=offsitoftimfe-20"},
+        {"type": "amazon", "url": "https://www.amazon.com/dp/0847870863"},
+        {"type": "libby", "url": "https://share.libbyapp.com/search?query=Seeing%20Silence%20Pete%20McBride", "search_fallback": true, "search_label": "Libby exact-title-and-author search", "requires_participating_library": true},
+        {"type": "worldcat", "url": "https://search.worldcat.org/isbn/9780847870865"}
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Movie I’m surviving",
+      "category": "movie",
+      "title": "Society of the Snow",
+      "creator": "Juan Antonio Bayona",
+      "note": "Society of the Snow was selected to represent Spain at the 2024 Oscars, where it was nominated for two Academy Awards. It won 12 Goya Awards (including Best Film and Best Director), was nominated for a BAFTA and a Golden Globe, and premiered as the closing film at the Venice Film Festival.\n\nSometimes, I like to visit the brutal, so that I can better appreciate the everyday beauty I—and we—take for granted.\n\nThis film, spectacularly cast and executed, fits that bill. Not for the squeamish. If this movie doesn’t make your hands sweat, you should go climbing with Alex Honnold.\n\nThe official description: “Following a plane crash in the remote heart of the Andes, survivors join forces and become each other’s best hope as they navigate their way back home.” See the trailer here.",
+      "original_url": "https://www.netflix.com/title/81268316",
+      "links": [
+        {"type": "original", "url": "https://www.netflix.com/title/81268316"},
+        {"type": "justwatch", "url": "https://www.justwatch.com/us/movie/society-of-the-snow", "region": "US", "availability_checked_at": "2026-09-07T00:00:00Z"},
+        {"type": "streaming", "url": "https://www.netflix.com/title/81268316", "region": "US", "availability_checked_at": "2026-09-07T00:00:00Z", "provider": "Netflix"}
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Headphones I’m loving for music while working and writing",
+      "category": "product",
+      "title": "Focal Bathys wireless, noise-cancelling headphones",
+      "creator": "Focal",
+      "note": "I originally got mine from Headphones.com, where they are currently on back order, but these are my current default headphones if working at a coffee shop or busy co-working spot.\n\nFrom the description:\n\nWith its wireless and active noise cancelling (ANC) technologies, Bathys is the perfect travel companion. In addition to isolating ambient noise, it delivers pure high-fidelity sound, thanks to its exclusive speaker drivers and integrated USB-DAC mode. Comfortable and refined, these wireless headphones boast a battery life of more than 30 hours, fast charging (5 hours of additional listening in just 15 minutes of charging) and a host of features for a total musical escape.",
+      "original_url": "https://www.amazon.com/Focal-Over-Ear-Bluetooth-Headphones-Cancellation/dp/B0D7N2332Y?tag=offsitoftimfe-20",
+      "links": [{"type": "original", "url": "https://www.amazon.com/Focal-Over-Ear-Bluetooth-Headphones-Cancellation/dp/B0D7N2332Y?tag=offsitoftimfe-20"}]
+    },
+    {
+      "position": 4,
+      "section": "Advice I’m revisiting",
+      "category": "video",
+      "title": "The drawing advice that changed my life",
+      "creator": null,
+      "note": "I still believe this is one of the best short videos on creativity on YouTube. It can be applied to just about anything, not just drawing. If you’d like less distraction and more momentum in life, this is full of good reminders.",
+      "original_url": "https://www.youtube.com/watch?v=M6NsEDwHHiE&list=LL&index=5",
+      "links": [{"type": "original", "url": "https://www.youtube.com/watch?v=M6NsEDwHHiE&list=LL&index=5"}]
+    },
+    {
+      "position": 5,
+      "section": "Passage I’m revisiting",
+      "category": "quote",
+      "title": "“‘It’s dark because you’re trying too hard,’ said Susila. ‘Dark because you want it to be light. Remember what you used to tell me when I was a little girl. “Lightly, child, lightly. You’ve got to learn to do everything lightly. Think lightly, act lightly, feel lightly. Yes, feel lightly, even though you’re feeling deeply. Just lightly let things happen and lightly cope with them.” I was so preposterously serious in those days. … Lightly, lightly—it was the best advice ever given me. … So throw away all your baggage and go forward. There are quicksands all about you, sucking at your feet, trying to suck you down into fear and self-pity and despair. That’s why you must walk so lightly. Lightly, my darling.’”",
+      "creator": "Aldous Huxley",
+      "note": null,
+      "original_url": "https://www.amazon.com/dp/0061561797?tag=offsitoftimfe-20",
+      "links": [
+        {"type": "original", "url": "https://www.amazon.com/dp/0061561797?tag=offsitoftimfe-20"},
+        {"type": "amazon", "url": "https://www.amazon.com/dp/0061561797"},
+        {"type": "libby", "url": "https://share.libbyapp.com/search?query=Island%20Aldous%20Huxley", "search_fallback": true, "search_label": "Libby exact-title-and-author search", "requires_participating_library": true},
+        {"type": "worldcat", "url": "https://search.worldcat.org/isbn/9780061561792"}
+      ]
+    }
+  ]
+}

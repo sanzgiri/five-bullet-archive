@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "issue_date": "2026-08-21",
+  "subject": "5-Bullet Friday — Building a House from Scratch, The Dark Wizard, Phishing Quiz, and More",
+  "sources": [
+    "hotmail"
+  ],
+  "status": "email",
+  "extraction_status": "extracted",
+  "special_edition": false,
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short blog post I’m reading",
+      "category": "article",
+      "title": "Building without predicting",
+      "creator": "Derek Sivers",
+      "note": "Derek first mentioned this wild experiment in [our podcast together](https://tim.blog/2024/11/14/derek-sivers-2/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit). Here’s the beginning of his blog post update:\n\n_On a podcast, I briefly mentioned that I’m building my dream house without predicting - by living in a bare cabin in the woods, then adding only what I find I actually need.\n\nApparently it was intriguing, because since then, it’s been my most frequently asked question: “How’s your house going?” I didn’t think this would interest total strangers, but enough people have asked, so here’s the story…_",
+      "original_url": "https://sive.rs/fit",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://sive.rs/fit"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2024/11/14/derek-sivers-2/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Quiz I’m sharing with friends and family",
+      "category": "other",
+      "title": "Google’s Phishing Quiz",
+      "creator": "Google Jigsaw",
+      "note": "This is a free quiz from Google’s Jigsaw division, which tests you on your ability to spot hackers and spammers attempting to steal your personal information. I suggest you try it, as even people with a good understanding of scams can slip up. From [one piece by a VICE reporter](https://www.vice.com/en/article/google-jigsaw-phishing-quiz/):\n\n_Recognizing sketchy emails designed to steal your password or trick you into installing malware may be the most important cybersecurity skill one can learn. …\n\nAs a seasoned cybersecurity reporter, I like to believe my paranoia levels are pretty high, and thus I should be pretty good at spotting phishing emails. But I wasn’t perfect: I correctly identified seven of the eight emails._",
+      "original_url": "https://phishingquiz.withgoogle.com/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://phishingquiz.withgoogle.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.vice.com/en/article/google-jigsaw-phishing-quiz/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "What I’m watching",
+      "category": "video",
+      "title": "The Dark Wizard",
+      "creator": null,
+      "note": "I grew up fascinated with Dean Potter as a wild and near-mythical character. I kept a copy of _Outside_ magazine with him on the cover. This four-part series will show you why. From the description:\n\n_“The Dark Wizard chronicles the triumphs, tragedies, rivalries, romances, and near-death moments that shaped a brilliant yet tormented artist and athlete whose imagination and audacity redefined what the body and mind could do.”_\n\nAt the very least, watch the trailer [here](https://www.youtube.com/watch?v=h7gTJnio7oQ). Better than a cup of coffee for adrenaline. This series is a showcase of the razor’s edge between genius and madness.\n\nThe doc features segments and interviews with [Alex Honnold](https://tim.blog/2016/05/17/alex-honnold/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit)—who became Dean’s chief rival—and many more. Hat tip to [Andrew Huberman](https://tim.blog/2026/07/22/dr-andrew-huberman-protocols/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit) for the recommendation.",
+      "original_url": "https://www.amazon.com/dp/B0GX7BQLN5?%2F%3Ftag=offsitoftimfe-20",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/dp/B0GX7BQLN5?%2F%3Ftag=offsitoftimfe-20"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/tv-show/the-dark-wizard",
+          "region": "US",
+          "availability_checked_at": "2026-08-22T00:00:00Z"
+        },
+        {
+          "type": "streaming",
+          "url": "https://www.max.com/shows/dark-wizard/76e78c21-21c9-45b4-b84b-4c3e1f8ff7f3",
+          "region": "US",
+          "availability_checked_at": "2026-08-22T00:00:00Z"
+        },
+        {
+          "type": "streaming",
+          "url": "https://www.hulu.com/series/the-dark-wizard-cf30c949-b6c9-45c1-af9b-07896c091ae9",
+          "region": "US",
+          "availability_checked_at": "2026-08-22T00:00:00Z"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=h7gTJnio7oQ"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2016/05/17/alex-honnold/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/07/22/dr-andrew-huberman-protocols/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Book I’m reading",
+      "category": "book",
+      "title": "Hard Times: An Illustrated Oral History of the Great Depression",
+      "creator": "Studs Terkel",
+      "note": "I quite unexpectedly came across this book, and it totally captivated me. I couldn’t put it down, even though I had no initial interest in a book on the Great Depression. The stories are incredible.\n\nStuds Terkel interviewed hundreds of people who lived through the Great Depression and let them tell the story in their own words. The result is a collection of firsthand accounts—some devastating, some surprisingly funny—of how ordinary people got through it. This edition includes period photographs alongside the interviews.\n\nSpecial thanks to [Ed Cooke](https://tim.blog/2014/12/30/ed-cooke/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit), Grand Master of Memory and cofounder of the learning app [MindMax](https://mindmax.it/). Check it out.",
+      "original_url": "https://www.amazon.com/dp/B00918JQ0C/?tag=offsitoftimfe-20",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/dp/B00918JQ0C/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/B00918JQ0C"
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/search?query=Hard%20Times%20An%20Illustrated%20Oral%20History%20of%20the%20Great%20Depression%20Studs%20Terkel",
+          "requires_participating_library": true
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/title/Hard-times-an-illustrated-oral-history-of-the-great-depression/oclc/811501666"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2014/12/30/ed-cooke/?utm_campaign=5bf&utm_medium=convertkit&utm_source=convertkit"
+        },
+        {
+          "type": "other",
+          "url": "https://mindmax.it/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“The question what to believe is perhaps the most momentous that anyone can put to himself. Our beliefs are not to be classed among the luxuries, but among the necessaries of existence. They become particularly important in times of trouble. They are like the life-boats carried by ocean ships.” — Felix Adler",
+      "creator": "Felix Adler",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Felix_Adler_(professor)",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Felix_Adler_(professor)"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/78otu6"
+        }
+      ]
+    }
+  ]
+}

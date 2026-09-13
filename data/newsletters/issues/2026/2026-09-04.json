@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "issue_date": "2026-09-04",
+  "subject": "5-Bullet Friday — Creeping Cats, Superhuman Nepalis, Using Mice to Beat Ticks, AI Design, and More",
+  "sources": ["hotmail"],
+  "status": "email",
+  "extraction_status": "extracted",
+  "special_edition": false,
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Short animation I’m enjoying",
+      "category": "video",
+      "title": "For He Can Creep (Love, Death + Robots, S4E8)",
+      "creator": "Love, Death + Robots",
+      "note": "I’ve watched many episodes of LD&R, but I somehow missed season 4, so I’m making up for lost time. The official description of Love, Death + Robots: “Terrifying creatures, wicked surprises and dark comedy converge in this NSFW anthology of animated stories presented by Tim Miller and David Fincher.”\n\nIf you don’t have Netflix, check out the breakthrough animated film Paprika, whose mind-bending plot and visuals pushed a generation of animators to think bigger and go stranger.",
+      "original_url": "https://www.netflix.com/watch/81713946?trackId=14277283",
+      "links": [{"type": "original", "url": "https://www.netflix.com/watch/81713946?trackId=14277283"}]
+    },
+    {
+      "position": 2,
+      "section": "Documentary I’m watching",
+      "category": "documentary",
+      "title": "14 Peaks: Nothing Is Impossible",
+      "creator": "Torquil Jones",
+      "note": "From the description: “Fearless Nepali mountaineer Nimsdai Purja embarks on a seemingly impossible quest to summit all 14 of the world’s 8,000-meter peaks in seven months.” The film was directed by Torquil Jones and executive produced by Nimsdai Purja, Jimmy Chin, and Elizabeth Chai Vasarhelyi. You can watch the trailer here.\n\nNimsdai and nine other climbers sadly perished in an avalanche a month ago in an attempt to summit the 12th highest mountain in the world. Climb on, Nimsdai.",
+      "original_url": "https://www.netflix.com/title/81464776",
+      "links": [
+        {"type": "original", "url": "https://www.netflix.com/title/81464776"},
+        {"type": "justwatch", "url": "https://www.justwatch.com/us/movie/14-peaks-nothing-is-impossible", "region": "US", "availability_checked_at": "2026-09-07T00:00:00Z"},
+        {"type": "streaming", "url": "https://www.netflix.com/title/81464776", "region": "US", "availability_checked_at": "2026-09-07T00:00:00Z", "provider": "Netflix"}
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Science I’m tracking",
+      "category": "video",
+      "title": "Scientists have a bold idea to fight Lyme disease: Change the mice",
+      "creator": "60 Minutes",
+      "note": "In a recent edition of 5BF, I asked you all about scalable technologies for eradicating Lyme-carrying ticks. Subscriber Tyler pointed me toward a recent 60 Minutes segment about a research project on Nantucket and Martha’s Vineyard. To catch up on the team’s progress since the segment aired in 2025, check out the Mice Against Ticks website and this paper in Nature Communications.",
+      "original_url": "https://www.youtube.com/watch?v=6AfjLafBKde",
+      "links": [{"type": "original", "url": "https://www.youtube.com/watch?v=6AfjLafBKde"}]
+    },
+    {
+      "position": 4,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "How to turn your AI into a world-class designer",
+      "creator": "Anshu Chimala",
+      "note": "Anshu led software engineering and design teams at Apple for 12 years.\n\nFrom the article:\n\nTechnique 1: Use seed strings to inject variety\n\nThe idea here is to get the model to find a new source of inspiration for designs, rather than relying on the defaults it learned from training. If you’ve tried to prompt a model to design a website or app, you’ve probably already seen what that default looks like.\n\n…\n\nOne technique for this is String Seed of Thought, published by Sakana AI. We make the AI generate a random string and use it as design inspiration. That way, the model is truly making different decisions each time.\n\nPrompt:\n\nI want you to build me a landing page for my productivity app.\n\nFollow this procedure:\n1. Generate a long, random alphanumeric string using a shell script.\n2. Define the creative direction (color scheme, layout, typography, etc.) based on the string. Look beyond the surface for subpatterns, special numbers, anything that inspires you.\n3. Use your judgment to bring this direction to life and make it look great.\n\nDon’t reveal the string in the design. It’s only for your inspiration.",
+      "original_url": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
+      "links": [{"type": "original", "url": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world"}]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Most of us tend to take our thoughts and ideas as actual descriptions of reality.”",
+      "creator": "Bruce Tift",
+      "note": null,
+      "original_url": "https://www.amazon.com/dp/1622034112?tag=offsitoftimfe-20",
+      "links": [
+        {"type": "original", "url": "https://www.amazon.com/dp/1622034112?tag=offsitoftimfe-20"},
+        {"type": "amazon", "url": "https://www.amazon.com/dp/1622034112"},
+        {"type": "libby", "url": "https://share.libbyapp.com/search?query=Already%20Free%20Bruce%20Tift", "search_fallback": true, "search_label": "Libby exact-title-and-author search", "requires_participating_library": true},
+        {"type": "worldcat", "url": "https://search.worldcat.org/isbn/9781622034113"}
+      ]
+    }
+  ]
+}
