@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "issue_date": "2026-09-18",
+  "subject": "5-Bullet Friday — Dream Engineering, Seaweed Soup, Personal Renewal, Mary Oliver, and More",
+  "sources": ["hotmail"],
+  "status": "email",
+  "extraction_status": "extracted",
+  "special_edition": false,
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Delicious soup I’m enjoying this fall",
+      "category": "other",
+      "title": "OMA Nourishing Seaweed Soup (Beef Bone Broth)",
+      "creator": "OMA Natural Foods",
+      "note": "This is an instant version of _miyeok-guk_, the Korean seaweed soup traditionally served on birthdays (in honor of one’s mother) and to new mothers. Drop one cube in a bowl, add a cup of boiling water, wait two minutes, and you have a savory, deeply comforting bowl of bone broth and seaweed. Fun fact: the name comes from _eomma_ (엄마), Korean for “mom.”",
+      "original_url": "https://omanaturalfood.com/products/natural-seaweed-soup-ready-to-eat",
+      "links": [{"type": "original", "url": "https://omanaturalfood.com/products/natural-seaweed-soup-ready-to-eat"}]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "Could anesthesia-induced dreams wipe away trauma?",
+      "creator": "Stanford Medicine",
+      "note": "(_Stanford Medicine_). Pair it with “[Could anesthesia dreams be a more palatable psychedelic therapy?](https://med.stanford.edu/news/insights/2026/09/anesthesia-dreams-potential-psychedelic-therapy-option.html)” Thank you to researcher [Dr. Adam Haar Horowitz](https://www.dust.systems/#network), who first tipped me off to these wild and promising techniques. His new startup, [DUST](https://www.dust.systems/), harnesses science from MIT and Harvard to make dream engineering a reality (e.g., targeted dream incubation for modifying dream content, two-way communication with dreamers). This new field has already demonstrated that influencing the sleeping brain can deepen sleep, boost overnight learning, and improve waking creative performance. I have a feeling it’s just the tip of the iceberg.",
+      "original_url": "https://med.stanford.edu/news/insights/2024/04/anesthesia-induced-dreams-trauma-recovery.html",
+      "links": [
+        {"type": "original", "url": "https://med.stanford.edu/news/insights/2024/04/anesthesia-induced-dreams-trauma-recovery.html"},
+        {"type": "other", "url": "https://med.stanford.edu/news/insights/2026/09/anesthesia-dreams-potential-psychedelic-therapy-option.html"},
+        {"type": "other", "url": "https://www.dust.systems/#network"},
+        {"type": "other", "url": "https://www.dust.systems/"}
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Documentary I’m watching",
+      "category": "video",
+      "title": "Mary Oliver: Saved by the Beauty of the World",
+      "creator": "Sasha Waters",
+      "note": "I’ve quoted poet Mary Oliver in these emails more times than I can count, so I was thrilled to learn that _American Masters_ has given her the full-length treatment. It’s directed by [Sasha Waters](https://en.wikipedia.org/wiki/Sasha_Waters), and it covers Mary’s childhood, her love of Emerson and Whitman, her communing with nature, and much more. Hat tip to reader Steven Pollman, who wrote in to recommend it. Be forewarned that the vibe is very much on the artsy side. My favorite B-roll clip is of a hilarious dog in a pool. You’ll see.",
+      "original_url": "https://www.youtube.com/watch?v=hCyw9F4t7QQ",
+      "links": [
+        {"type": "original", "url": "https://www.youtube.com/watch?v=hCyw9F4t7QQ"},
+        {"type": "other", "url": "https://www.pbs.org/wnet/americanmasters/mary-oliver-documentary/37967/"},
+        {"type": "justwatch", "url": "https://www.justwatch.com/us/movie/mary-oliver-saved-by-the-beauty-of-the-world", "region": "US", "availability_checked_at": "2026-09-19T00:00:00Z"},
+        {"type": "streaming", "url": "https://www.pbs.org/video/mary-oliver-saved-by-the-beauty-of-the-world-ljjirm/", "region": "US", "availability_checked_at": "2026-09-19T00:00:00Z"},
+        {"type": "other", "url": "https://en.wikipedia.org/wiki/Sasha_Waters"}
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Speech I’m revisiting",
+      "category": "other",
+      "title": "Personal Renewal",
+      "creator": "John Gardner",
+      "note": "by [John Gardner](https://www.pbs.org/johngardner/sections/writings.html), delivered to McKinsey & Company on November 10, 1990. [Click here](https://open.spotify.com/episode/3uByV3bylGxAOypXhPrg65) for an audio version read by Jackson Dahl of _Dialectic_. This is worth the time. It requires a little foreplay, but it’s full of gems like this: _Remember I mentioned earlier the myth that learning is for young people. I want to give you some examples. In a piece I wrote for_ Reader’s Digest _not long ago, I gave what seemed to me a particularly interesting true example of renewal. The man in question was 53 years old. Most of his adult life had been a losing struggle against debt and misfortune. In military service he received a battlefield injury that denied him the use of his left arm. And he was seized and held in captivity for five years. Later he held two government jobs, succeeding at neither. At 53 he was in prison—and not for the first time. There in prison, he decided to write a book, driven by Heaven knows what motive—boredom, the hope of gain, emotional release, creative impulse, who can say? And the book turned out to be one of the greatest ever written, a book that has enthralled the world for over 350 years. The prisoner was Cervantes; the book: _Don Quixote_. _",
+      "original_url": "https://www.pbs.org/johngardner/sections/writings_speech_1.html",
+      "links": [
+        {"type": "original", "url": "https://www.pbs.org/johngardner/sections/writings_speech_1.html"},
+        {"type": "other", "url": "https://www.pbs.org/johngardner/sections/writings.html"},
+        {"type": "other", "url": "https://open.spotify.com/episode/3uByV3bylGxAOypXhPrg65"}
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "Instructions for living a life: Pay attention. Be astonished. Tell about it.",
+      "creator": "Mary Oliver",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Mary_Oliver",
+      "links": [
+        {"type": "original", "url": "https://en.wikipedia.org/wiki/Mary_Oliver"},
+        {"type": "other", "url": "https://readalittlepoetry.com/2014/09/10/sometimes-by-mary-oliver/"}
+      ]
+    }
+  ]
+}
