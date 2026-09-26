@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-19",
+  "generated_at": "2026-09-26",
   "timezone": "America/Los_Angeles",
   "earliest": "2015-07-03",
   "mailbox_inventory_start": "2016-04-01",
-  "latest": "2026-09-18",
-  "distinct_issues": 534,
+  "latest": "2026-09-25",
+  "distinct_issues": 540,
   "candidate_missing_fridays": 15,
   "candidate_missing_dates": [
     "2016-07-15",

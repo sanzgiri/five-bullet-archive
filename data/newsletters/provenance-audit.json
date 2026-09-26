@@ -1,28 +1,29 @@
 {
-  "generated_at": "2026-07-22T19:39:00.880Z",
-  "total_issues": 530,
-  "total_bullets": 2709,
+  "generated_at": "2026-09-26T13:03:49.422Z",
+  "total_issues": 540,
+  "total_bullets": 2763,
   "provenance_tiers": {
     "secondary_public": 3,
-    "email_primary": 526,
+    "email_primary": 536,
     "official_public": 1
   },
   "verbatim_confidence": {
     "low": 3,
-    "high": 526,
+    "high": 536,
     "medium": 1
   },
-  "issue_count_with_findings": 508,
+  "issue_count_with_findings": 214,
   "finding_counts": {
     "expected_5_found_0": 1,
     "expected_5_found_2": 1,
-    "expected_5_found_6": 1,
-    "footer_contamination": 489,
+    "expected_5_found_6": 2,
+    "expected_5_found_7": 1,
+    "footer_contamination": 110,
     "metadata_only": 1,
-    "missing_note": 85,
+    "missing_note": 86,
     "missing_title": 2,
     "partial": 6,
-    "tracking_url": 26
+    "tracking_url": 28
   },
   "findings": [
     {
@@ -51,30 +52,6 @@
       ]
     },
     {
-      "issue_date": "2016-04-01",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2016-04-08",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 4,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2016-04-15",
       "sources": [
         "hotmail"
@@ -83,8 +60,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -96,8 +72,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 4,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -109,8 +84,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -122,20 +96,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2016-05-13",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -147,8 +108,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -160,20 +120,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2016-06-03",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -185,20 +132,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2016-06-17",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -210,8 +144,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -223,8 +156,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -236,20 +168,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2016-07-29",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -316,18 +235,6 @@
       ]
     },
     {
-      "issue_date": "2016-09-09",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2016-09-16",
       "sources": [
         "hotmail"
@@ -336,8 +243,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -349,20 +255,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2016-09-30",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -386,8 +279,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -399,20 +291,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2016-10-28",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 4,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -424,20 +303,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 4,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2016-11-11",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 4,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -449,8 +315,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 4,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -462,8 +327,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -475,8 +339,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 4,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -500,8 +363,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -525,32 +387,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2017-01-06",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2017-01-13",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -562,8 +399,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -575,44 +411,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2017-02-03",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2017-02-10",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2017-02-17",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -624,8 +423,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -638,20 +436,7 @@
       "bullet_count": 5,
       "findings": [
         "missing_title",
-        "footer_contamination",
         "partial"
-      ]
-    },
-    {
-      "issue_date": "2017-03-10",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 4,
-      "findings": [
-        "footer_contamination"
       ]
     },
     {
@@ -667,30 +452,6 @@
       ]
     },
     {
-      "issue_date": "2017-03-31",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 4,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2017-04-07",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 4,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2017-04-14",
       "sources": [
         "hotmail"
@@ -698,54 +459,6 @@
       "provenance_tier": "email_primary",
       "verbatim_confidence": "high",
       "bullet_count": 4,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2017-04-21",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2017-04-28",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2017-05-05",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2017-05-12",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
       "findings": [
         "footer_contamination"
       ]
@@ -812,31 +525,7 @@
       ]
     },
     {
-      "issue_date": "2017-06-23",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2017-06-30",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2017-07-07",
       "sources": [
         "hotmail"
       ],
@@ -873,30 +562,6 @@
       ]
     },
     {
-      "issue_date": "2017-07-28",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2017-08-04",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 4,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2017-08-11",
       "sources": [
         "hotmail"
@@ -916,18 +581,6 @@
       "provenance_tier": "email_primary",
       "verbatim_confidence": "high",
       "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2017-08-25",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 4,
       "findings": [
         "footer_contamination"
       ]
@@ -953,20 +606,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2017-09-15",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 4,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -994,18 +634,6 @@
       ]
     },
     {
-      "issue_date": "2017-10-06",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2017-10-13",
       "sources": [
         "hotmail"
@@ -1018,67 +646,7 @@
       ]
     },
     {
-      "issue_date": "2017-10-20",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2017-10-27",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 4,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2017-11-03",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2017-11-10",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2017-11-17",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2017-11-24",
       "sources": [
         "hotmail"
       ],
@@ -1148,32 +716,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2018-02-02",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 4,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2018-02-09",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -1185,20 +728,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2018-02-23",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -1234,8 +764,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -1247,20 +776,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2018-03-30",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -1272,8 +788,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -1285,8 +800,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -1298,56 +812,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2018-04-27",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2018-05-04",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 4,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2018-05-11",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 4,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2018-05-18",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 4,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -1359,84 +824,11 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2018-06-01",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2018-06-08",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 4,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2018-06-15",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2018-06-22",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
       "issue_date": "2018-07-06",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 4,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2018-07-13",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 4,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2018-07-20",
       "sources": [
         "hotmail"
       ],
@@ -1456,8 +848,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -1469,20 +860,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2018-08-24",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 4,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -1494,8 +872,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 4,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -1511,30 +888,6 @@
       ]
     },
     {
-      "issue_date": "2018-09-14",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2018-10-05",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2018-10-12",
       "sources": [
         "hotmail"
@@ -1543,20 +896,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 4,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2018-10-19",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -1568,20 +908,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2018-11-02",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -1597,18 +924,6 @@
       ]
     },
     {
-      "issue_date": "2018-11-16",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2018-11-23",
       "sources": [
         "hotmail"
@@ -1617,8 +932,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -1630,92 +944,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2018-12-07",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2018-12-14",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2018-12-21",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2018-12-28",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2019-01-04",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2019-01-11",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2019-01-18",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -1727,20 +956,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2019-02-01",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -1752,32 +968,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2019-02-15",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2019-02-22",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -1789,8 +980,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "tracking_url",
-        "footer_contamination"
+        "tracking_url"
       ]
     },
     {
@@ -1802,8 +992,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "tracking_url",
-        "footer_contamination"
+        "tracking_url"
       ]
     },
     {
@@ -1828,8 +1017,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "tracking_url",
-        "footer_contamination"
+        "tracking_url"
       ]
     },
     {
@@ -1843,8 +1031,7 @@
       "bullet_count": 5,
       "findings": [
         "missing_note",
-        "tracking_url",
-        "footer_contamination"
+        "tracking_url"
       ]
     },
     {
@@ -1869,8 +1056,7 @@
       "bullet_count": 5,
       "findings": [
         "missing_note",
-        "tracking_url",
-        "footer_contamination"
+        "tracking_url"
       ]
     },
     {
@@ -1897,8 +1083,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "tracking_url",
-        "footer_contamination"
+        "tracking_url"
       ]
     },
     {
@@ -1911,21 +1096,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "tracking_url",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2019-05-24",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
+        "tracking_url"
       ]
     },
     {
@@ -1941,32 +1112,6 @@
       ]
     },
     {
-      "issue_date": "2019-06-07",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2019-06-14",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2019-06-21",
       "sources": [
         "gmail",
@@ -1976,34 +1121,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2019-06-28",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2019-07-05",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -2016,8 +1134,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -2030,8 +1147,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -2081,8 +1197,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "tracking_url",
-        "footer_contamination"
+        "tracking_url"
       ]
     },
     {
@@ -2095,8 +1210,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "tracking_url",
-        "footer_contamination"
+        "tracking_url"
       ]
     },
     {
@@ -2110,8 +1224,7 @@
       "bullet_count": 5,
       "findings": [
         "missing_note",
-        "tracking_url",
-        "footer_contamination"
+        "tracking_url"
       ]
     },
     {
@@ -2124,8 +1237,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 4,
       "findings": [
-        "tracking_url",
-        "footer_contamination"
+        "tracking_url"
       ]
     },
     {
@@ -2138,8 +1250,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "tracking_url",
-        "footer_contamination"
+        "tracking_url"
       ]
     },
     {
@@ -2152,8 +1263,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "tracking_url",
-        "footer_contamination"
+        "tracking_url"
       ]
     },
     {
@@ -2167,8 +1277,7 @@
       "bullet_count": 5,
       "findings": [
         "missing_note",
-        "tracking_url",
-        "footer_contamination"
+        "tracking_url"
       ]
     },
     {
@@ -2193,8 +1302,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 4,
       "findings": [
-        "tracking_url",
-        "footer_contamination"
+        "tracking_url"
       ]
     },
     {
@@ -2207,8 +1315,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "tracking_url",
-        "footer_contamination"
+        "tracking_url"
       ]
     },
     {
@@ -2220,8 +1327,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "tracking_url",
-        "footer_contamination"
+        "tracking_url"
       ]
     },
     {
@@ -2234,8 +1340,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "tracking_url",
-        "footer_contamination"
+        "tracking_url"
       ]
     },
     {
@@ -2248,8 +1353,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "tracking_url",
-        "footer_contamination"
+        "tracking_url"
       ]
     },
     {
@@ -2303,45 +1407,6 @@
       ]
     },
     {
-      "issue_date": "2020-01-10",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-01-17",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-01-24",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2020-01-31",
       "sources": [
         "gmail",
@@ -2356,83 +1421,6 @@
       ]
     },
     {
-      "issue_date": "2020-02-07",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-02-14",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-02-21",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-02-28",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-03-06",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 7,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-03-13",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2020-03-20",
       "sources": [
         "hotmail"
@@ -2440,57 +1428,6 @@
       "provenance_tier": "email_primary",
       "verbatim_confidence": "high",
       "bullet_count": 7,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-03-27",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-04-03",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-04-10",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-04-17",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
       "findings": [
         "footer_contamination"
       ]
@@ -2509,135 +1446,7 @@
       ]
     },
     {
-      "issue_date": "2020-05-01",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-05-08",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-05-15",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-05-22",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 4,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-05-29",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-06-05",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 4,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-06-12",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2020-06-19",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-07-03",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-07-10",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-07-17",
       "sources": [
         "gmail",
         "hotmail"
@@ -2663,19 +1472,6 @@
       ]
     },
     {
-      "issue_date": "2020-07-31",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2020-08-07",
       "sources": [
         "gmail",
@@ -2689,85 +1485,7 @@
       ]
     },
     {
-      "issue_date": "2020-08-14",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-08-21",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 4,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-08-28",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-09-04",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-09-11",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2020-09-18",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-09-25",
       "sources": [
         "gmail",
         "hotmail"
@@ -2793,57 +1511,6 @@
       ]
     },
     {
-      "issue_date": "2020-10-09",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-10-16",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 4,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-10-23",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-10-30",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 4,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2020-11-06",
       "sources": [
         "gmail",
@@ -2857,59 +1524,7 @@
       ]
     },
     {
-      "issue_date": "2020-11-13",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-11-20",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2020-11-27",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-12-04",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2020-12-11",
       "sources": [
         "gmail",
         "hotmail"
@@ -2947,31 +1562,6 @@
       ]
     },
     {
-      "issue_date": "2021-01-01",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-01-08",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2021-01-15",
       "sources": [
         "hotmail"
@@ -2996,108 +1586,7 @@
       ]
     },
     {
-      "issue_date": "2021-01-29",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-02-05",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2021-02-12",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-02-19",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 7,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-02-26",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-03-05",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-03-12",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-03-26",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-04-02",
       "sources": [
         "gmail",
         "hotmail"
@@ -3122,136 +1611,7 @@
       ]
     },
     {
-      "issue_date": "2021-04-23",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-04-30",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-05-07",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2021-05-14",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-05-21",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-05-28",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-06-04",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-06-11",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-06-18",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-06-25",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-07-02",
       "sources": [
         "gmail",
         "hotmail"
@@ -3277,167 +1637,9 @@
       ]
     },
     {
-      "issue_date": "2021-07-16",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2021-07-23",
       "sources": [
         "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-07-30",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 4,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-08-06",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-08-13",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-08-20",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-08-27",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-09-03",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-09-10",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-09-17",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-09-24",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-10-08",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-10-15",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-10-22",
-      "sources": [
         "hotmail"
       ],
       "provenance_tier": "email_primary",
@@ -3460,18 +1662,6 @@
       ]
     },
     {
-      "issue_date": "2021-11-05",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2021-11-12",
       "sources": [
         "hotmail"
@@ -3479,114 +1669,6 @@
       "provenance_tier": "email_primary",
       "verbatim_confidence": "high",
       "bullet_count": 10,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-11-19",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-11-26",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-12-03",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-12-10",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-12-17",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2021-12-24",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-01-07",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-01-14",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-01-21",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
       "findings": [
         "footer_contamination"
       ]
@@ -3616,31 +1698,7 @@
       ]
     },
     {
-      "issue_date": "2022-02-18",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2022-02-25",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-03-04",
       "sources": [
         "hotmail"
       ],
@@ -3664,42 +1722,6 @@
       ]
     },
     {
-      "issue_date": "2022-03-18",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-04-01",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-04-08",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2022-04-15",
       "sources": [
         "hotmail"
@@ -3708,108 +1730,11 @@
       "verbatim_confidence": "high",
       "bullet_count": 6,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
       "issue_date": "2022-04-22",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-04-29",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-05-06",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-05-13",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-05-20",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-05-27",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-06-03",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-06-10",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-06-17",
       "sources": [
         "hotmail"
       ],
@@ -3828,54 +1753,6 @@
       "provenance_tier": "email_primary",
       "verbatim_confidence": "high",
       "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-07-01",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-07-08",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-07-15",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-07-29",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
       "findings": [
         "footer_contamination"
       ]
@@ -3901,84 +1778,11 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
       "issue_date": "2022-08-19",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-08-26",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-09-02",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-09-09",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-09-16",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-09-23",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-09-30",
       "sources": [
         "hotmail"
       ],
@@ -3998,20 +1802,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-10-14",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -4022,42 +1813,6 @@
       "provenance_tier": "email_primary",
       "verbatim_confidence": "high",
       "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-10-28",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-11-04",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-11-11",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
       "findings": [
         "footer_contamination"
       ]
@@ -4088,18 +1843,6 @@
       ]
     },
     {
-      "issue_date": "2022-12-02",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2022-12-09",
       "sources": [
         "hotmail"
@@ -4107,30 +1850,6 @@
       "provenance_tier": "email_primary",
       "verbatim_confidence": "high",
       "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-12-16",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2022-12-23",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
       "findings": [
         "footer_contamination"
       ]
@@ -4149,30 +1868,6 @@
       ]
     },
     {
-      "issue_date": "2023-01-06",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-01-13",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2023-01-20",
       "sources": [
         "hotmail"
@@ -4180,54 +1875,6 @@
       "provenance_tier": "email_primary",
       "verbatim_confidence": "high",
       "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-01-27",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-02-03",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-02-10",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-02-17",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
       "findings": [
         "footer_contamination"
       ]
@@ -4245,103 +1892,7 @@
       ]
     },
     {
-      "issue_date": "2023-03-03",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-03-10",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-03-17",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-03-24",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2023-03-31",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-04-07",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-04-14",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-04-21",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-04-28",
       "sources": [
         "hotmail"
       ],
@@ -4377,30 +1928,6 @@
       ]
     },
     {
-      "issue_date": "2023-05-19",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-05-26",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2023-06-02",
       "sources": [
         "hotmail"
@@ -4408,18 +1935,6 @@
       "provenance_tier": "email_primary",
       "verbatim_confidence": "high",
       "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-06-09",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
       "findings": [
         "footer_contamination"
       ]
@@ -4437,55 +1952,7 @@
       ]
     },
     {
-      "issue_date": "2023-06-23",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-06-30",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-07-07",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2023-07-14",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-07-21",
       "sources": [
         "hotmail"
       ],
@@ -4521,18 +1988,6 @@
       ]
     },
     {
-      "issue_date": "2023-08-11",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2023-08-18",
       "sources": [
         "hotmail"
@@ -4546,42 +2001,6 @@
       ]
     },
     {
-      "issue_date": "2023-08-25",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-09-01",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-09-08",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2023-09-15",
       "sources": [
         "hotmail"
@@ -4590,56 +2009,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-09-22",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-09-29",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-10-06",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-10-13",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -4651,44 +2021,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-10-27",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-11-03",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-11-10",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -4728,54 +2061,6 @@
       ]
     },
     {
-      "issue_date": "2023-12-08",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-12-15",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-12-22",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2023-12-29",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2024-01-05",
       "sources": [
         "hotmail"
@@ -4783,78 +2068,6 @@
       "provenance_tier": "email_primary",
       "verbatim_confidence": "high",
       "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-01-12",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-01-19",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-01-26",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-02-02",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-02-09",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-02-16",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
       "findings": [
         "footer_contamination"
       ]
@@ -4880,60 +2093,11 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-03-08",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-03-15",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
       "issue_date": "2024-03-22",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-03-29",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-04-05",
       "sources": [
         "hotmail"
       ],
@@ -4965,80 +2129,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 6,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-04-26",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-05-03",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-05-10",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-05-17",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-05-24",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-05-31",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -5050,68 +2141,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 6,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-06-21",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-06-28",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-07-05",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-07-12",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-07-19",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -5123,60 +2153,11 @@
       "verbatim_confidence": "high",
       "bullet_count": 6,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
       "issue_date": "2024-08-02",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-08-09",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-08-16",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-08-23",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-08-30",
       "sources": [
         "hotmail"
       ],
@@ -5208,8 +2189,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -5221,8 +2201,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 6,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -5259,44 +2238,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-10-25",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-11-01",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-11-08",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -5308,20 +2250,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-11-29",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -5338,42 +2267,6 @@
       ]
     },
     {
-      "issue_date": "2024-12-13",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2024-12-20",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-01-03",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2025-01-10",
       "sources": [
         "hotmail"
@@ -5382,60 +2275,11 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-01-17",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-01-24",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
       "issue_date": "2025-01-31",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-02-07",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-02-21",
       "sources": [
         "hotmail"
       ],
@@ -5484,54 +2328,6 @@
       ]
     },
     {
-      "issue_date": "2025-03-21",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-03-28",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-04-04",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-04-11",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2025-04-18",
       "sources": [
         "hotmail"
@@ -5540,32 +2336,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-04-25",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-05-02",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -5593,30 +2364,6 @@
       ]
     },
     {
-      "issue_date": "2025-05-23",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-05-30",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2025-06-06",
       "sources": [
         "hotmail"
@@ -5624,30 +2371,6 @@
       "provenance_tier": "email_primary",
       "verbatim_confidence": "high",
       "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-06-13",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-06-20",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
       "findings": [
         "footer_contamination"
       ]
@@ -5678,42 +2401,6 @@
     },
     {
       "issue_date": "2025-07-11",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-07-18",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-07-25",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-08-01",
       "sources": [
         "hotmail"
       ],
@@ -5798,45 +2485,6 @@
       ]
     },
     {
-      "issue_date": "2025-09-19",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-09-26",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-10-03",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 7,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2025-10-10",
       "sources": [
         "hotmail"
@@ -5844,70 +2492,6 @@
       "provenance_tier": "email_primary",
       "verbatim_confidence": "high",
       "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-10-17",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-10-24",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-10-31",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-11-07",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-11-14",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
       "findings": [
         "footer_contamination"
       ]
@@ -5925,135 +2509,7 @@
       ]
     },
     {
-      "issue_date": "2025-11-28",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-12-05",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-12-12",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-12-19",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2025-12-26",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
       "issue_date": "2026-01-09",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2026-01-16",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2026-01-23",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2026-01-30",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2026-02-06",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2026-02-13",
       "sources": [
         "gmail",
         "hotmail"
@@ -6100,161 +2556,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 6,
       "findings": [
-        "missing_note",
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2026-03-13",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2026-03-20",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2026-03-27",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2026-04-03",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2026-04-10",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2026-04-17",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2026-04-24",
-      "sources": [
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2026-05-01",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2026-05-08",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2026-05-15",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2026-05-22",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 5,
-      "findings": [
-        "footer_contamination"
-      ]
-    },
-    {
-      "issue_date": "2026-05-29",
-      "sources": [
-        "gmail",
-        "hotmail"
-      ],
-      "provenance_tier": "email_primary",
-      "verbatim_confidence": "high",
-      "bullet_count": 6,
-      "findings": [
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -6294,8 +2596,7 @@
       "verbatim_confidence": "high",
       "bullet_count": 6,
       "findings": [
-        "missing_note",
-        "footer_contamination"
+        "missing_note"
       ]
     },
     {
@@ -6312,42 +2613,52 @@
       ]
     },
     {
-      "issue_date": "2026-07-03",
+      "issue_date": "2026-08-07",
       "sources": [
-        "gmail",
         "hotmail"
       ],
       "provenance_tier": "email_primary",
       "verbatim_confidence": "high",
       "bullet_count": 6,
       "findings": [
-        "footer_contamination"
+        "tracking_url"
       ]
     },
     {
-      "issue_date": "2026-07-10",
+      "issue_date": "2026-08-14",
       "sources": [
-        "gmail",
         "hotmail"
       ],
       "provenance_tier": "email_primary",
       "verbatim_confidence": "high",
       "bullet_count": 5,
       "findings": [
-        "footer_contamination"
+        "tracking_url"
       ]
     },
     {
-      "issue_date": "2026-07-17",
+      "issue_date": "2026-09-11",
       "sources": [
-        "gmail",
         "hotmail"
       ],
       "provenance_tier": "email_primary",
       "verbatim_confidence": "high",
-      "bullet_count": 5,
+      "bullet_count": 6,
       "findings": [
-        "footer_contamination"
+        "expected_5_found_6"
+      ]
+    },
+    {
+      "issue_date": "2026-09-25",
+      "sources": [
+        "hotmail"
+      ],
+      "provenance_tier": "email_primary",
+      "verbatim_confidence": "high",
+      "bullet_count": 7,
+      "findings": [
+        "missing_note",
+        "expected_5_found_7"
       ]
     }
   ]

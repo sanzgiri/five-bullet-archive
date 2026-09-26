@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "issue_date": "2026-09-25",
+  "subject": "5-Bullet Friday — Speaking with the Mind, The Critical Top Idea, Aerolamps, and More",
+  "sources": ["hotmail"],
+  "status": "email",
+  "extraction_status": "extracted",
+  "special_edition": false,
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Two songs I’m enjoying",
+      "category": "music",
+      "title": "Meu Pedaço de Pecado",
+      "creator": "Mãeana",
+      "note": null,
+      "original_url": "https://open.spotify.com/track/0ioDPiytuIov5YwJwAAXk1",
+      "links": [
+        {"type": "original", "url": "https://open.spotify.com/track/0ioDPiytuIov5YwJwAAXk1"},
+        {"type": "spotify_track", "url": "https://open.spotify.com/track/0ioDPiytuIov5YwJwAAXk1"},
+        {"type": "spotify_album", "url": "https://open.spotify.com/album/69gwUwHwo5doAwhWXd80uS"}
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Two songs I’m enjoying",
+      "category": "music",
+      "title": "Rich Woman",
+      "creator": "Robert Plant and Alison Krauss",
+      "note": null,
+      "original_url": "https://open.spotify.com/track/4pD6dZayOsvT7B08esFWJs",
+      "links": [
+        {"type": "original", "url": "https://open.spotify.com/track/4pD6dZayOsvT7B08esFWJs"},
+        {"type": "spotify_track", "url": "https://open.spotify.com/track/4pD6dZayOsvT7B08esFWJs"},
+        {"type": "spotify_album", "url": "https://open.spotify.com/album/3Z5nkL4z2Tsa3b79vv6LXb"}
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Essay I’m revisiting",
+      "category": "article",
+      "title": "The Top Idea in Your Mind",
+      "creator": "Paul Graham",
+      "note": null,
+      "original_url": "https://paulgraham.com/top.html",
+      "links": [{"type": "original", "url": "https://paulgraham.com/top.html"}]
+    },
+    {
+      "position": 4,
+      "section": "Short video I’m watching",
+      "category": "video",
+      "title": "Speaking With The Mind | Neuralink",
+      "creator": "Neuralink",
+      "note": "Prepare to tear up in the best way possible. This video really got me. The description: “Terry was diagnosed with bulbar-onset amyotrophic lateral sclerosis (ALS) in 2024. While he is still able to move his mouth and body, his speech has become impaired to the point where his loved ones have difficulty understanding him. Through the VOICE trial, Terry is using his Neuralink implant to help fine-tune a brain-to-voice interface for himself and others who can’t speak.”",
+      "original_url": "https://www.youtube.com/watch?v=_j806JHhCRo",
+      "links": [{"type": "original", "url": "https://www.youtube.com/watch?v=_j806JHhCRo"}]
+    },
+    {
+      "position": 5,
+      "section": "Small fitness tool I still use and love",
+      "category": "other",
+      "title": "Tune Up Fitness – Alpha Ball",
+      "creator": "Tune Up Fitness",
+      "note": "This was recommended to me by [Nsima Inyang](https://www.youtube.com/watch?v=mLGqrlxofXQ), a mutant among mutants. The Alpha Ball solves a few different problems at the same time: (1) It’s precise. Foam rollers are big, amorphous objects. It can be hard to get them to certain spots (e.g., hips—TFL, glute medius, piriformis), which the Alpha Ball can easily access. (2) It’s compact enough for luggage and travel. This also means I can use it against a wall for spinal erectors, rear of the shoulders, etc. (3) It has a Goldilocks density: not too hard and not too soft. The firmness hits the sweet spot—hard enough to work out deep knots but not so aggressive that it causes excessive pain or bracing.",
+      "original_url": "https://www.amazon.com/Tune-Up-Fitness-Self-Massage-Performance/dp/B00NP280FY/?tag=offsitoftimfe-20",
+      "links": [
+        {"type": "original", "url": "https://www.amazon.com/Tune-Up-Fitness-Self-Massage-Performance/dp/B00NP280FY/?tag=offsitoftimfe-20"},
+        {"type": "amazon", "url": "https://www.amazon.com/dp/B00NP280FY"},
+        {"type": "other", "url": "https://www.youtube.com/watch?v=mLGqrlxofXQ"}
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Product I’m learning more about",
+      "category": "other",
+      "title": "Aerolamp",
+      "creator": "Aerolamp",
+      "note": "I recently purchased multiple [Jaspr](https://jaspr.co/products/airscrubber) air purifiers, so I’m not rushing to buy any other air-filtration tools, but far-UVC is fascinating, and I’m learning more. This lamp uses light to inactivate airborne viruses and bacteria and is designed for use while people are in the room. In a [published study](https://www.nature.com/articles/s41598-024-57441-z), four ceiling-mounted far-UVC fixtures reduced infectious airborne mouse norovirus by 99.8%. Adam Strandberg, a researcher at Harvard’s [Needleman Lab](https://needleman.seas.harvard.edu/) who works on bacterial respiratory control, added one in his living room and [hosted his kid’s birthday party with no disease transmission](https://x.com/strandbergbio/status/2101839595004469395).",
+      "original_url": "https://aerolamp.net/products/devkit",
+      "links": [
+        {"type": "original", "url": "https://aerolamp.net/products/devkit"},
+        {"type": "other", "url": "https://jaspr.co/products/airscrubber"},
+        {"type": "other", "url": "https://www.nature.com/articles/s41598-024-57441-z"},
+        {"type": "other", "url": "https://needleman.seas.harvard.edu/"},
+        {"type": "other", "url": "https://x.com/strandbergbio/status/2101839595004469395"}
+      ]
+    },
+    {
+      "position": 7,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "Do we not know the feeling that overtakes us when we are in the presence of a particular person and, roughly translates as, The fact that this person exists in the world at all, this alone makes this world, and a life in it, meaningful.",
+      "creator": "Viktor Frankl",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Viktor_Frankl",
+      "links": [{"type": "original", "url": "https://en.wikipedia.org/wiki/Viktor_Frankl"}]
+    }
+  ]
+}
