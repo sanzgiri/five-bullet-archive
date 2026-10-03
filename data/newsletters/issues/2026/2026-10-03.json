@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "issue_date": "2026-10-03",
+  "subject": "5-Bullet Friday — Gadgets In My Bag, Brilliant Response to Media Attacks, and Quotes on Genius",
+  "sources": ["hotmail"],
+  "status": "email",
+  "extraction_status": "extracted",
+  "special_edition": false,
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "music",
+      "title": "Inevitable Ending",
+      "creator": "Armen Miran and Hraach (Viken Arman and Goldcap remix)",
+      "note": "Great music for a million things. I’m currently using it for writing sessions, but it’s versatile.",
+      "original_url": "https://open.spotify.com/track/3RTDqBKNPNwCwbxXiTldtJ?si=176a35dab2e940b5&nd=1&dlsi=b101afa5e99e4a6b&autoplay_ok=1",
+      "links": [
+        {"type": "original", "url": "https://open.spotify.com/track/3RTDqBKNPNwCwbxXiTldtJ?si=176a35dab2e940b5&nd=1&dlsi=b101afa5e99e4a6b&autoplay_ok=1"},
+        {"type": "spotify_track", "url": "https://open.spotify.com/track/3RTDqBKNPNwCwbxXiTldtJ"},
+        {"type": "spotify_album", "url": "https://open.spotify.com/album/6s6K1UwwPh6lgmhLCQxv5s"},
+        {"type": "other", "url": "https://www.youtube.com/watch?v=j4hzKLvHk5s"},
+        {"type": "other", "url": "https://music.apple.com/us/song/inevitable-ending-viken-arman-goldcap-remix/1148960784"}
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading",
+      "category": "article",
+      "title": "An open letter from the French businessman who runs LVMH Moët Hennessy Louis Vuitton, the world’s largest luxury goods company",
+      "creator": "Bernard Arnault",
+      "note": "“Bernard Arnault rarely responds to criticism in public, but this time he published a detailed open letter after Le Monde spent 6 months investigating him and LVMH.”\n\nThe above is a case study in clever media-crisis management.",
+      "original_url": "https://www.instagram.com/p/DbV3VoZFCW-/?img_index=1",
+      "links": [{"type": "original", "url": "https://www.instagram.com/p/DbV3VoZFCW-/?img_index=1"}]
+    },
+    {
+      "position": 3,
+      "section": "Tool that’s always on me",
+      "category": "other",
+      "title": "ProBody Pilates Ball",
+      "creator": "ProBody Pilates",
+      "note": "Yep, it’s a Pilates ball, but I don’t use it for Pilates. I keep it deflated in my backpack, and if I need lumbar support or butt padding anywhere on the road (in hotels, restaurants, airplanes, etc.), I give it literally 2–3 puffs of partial inflation and voilà! Deflated, this is small enough to fold up and stick in a jacket or jeans pocket.",
+      "original_url": "https://www.amazon.com/gp/aw/d/B06XQRW121/",
+      "links": [
+        {"type": "original", "url": "https://www.amazon.com/gp/aw/d/B06XQRW121/"},
+        {"type": "amazon", "url": "https://www.amazon.com/dp/B06XQRW121"}
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Another tiny gadget in my backpack",
+      "category": "other",
+      "title": "Sennheiser Pro Audio Condenser Microphone",
+      "creator": "Sennheiser",
+      "note": "This lav mic plugs straight into an iPhone and makes on-the-go recordings sound much better than any built-in laptop or phone mic. It’s remarkable what quality you can get, especially if paired with [the Ferrite app](https://apps.apple.com/us/app/ferrite-recording-studio/id1018780185) that allows you to record high-fidelity audio straight on your iPhone.",
+      "original_url": "https://www.amazon.com/Sennheiser-Pro-Audio-Microphone-509261/dp/B08YS2H4FB/",
+      "links": [
+        {"type": "original", "url": "https://www.amazon.com/Sennheiser-Pro-Audio-Microphone-509261/dp/B08YS2H4FB/"},
+        {"type": "amazon", "url": "https://www.amazon.com/dp/B08YS2H4FB"},
+        {"type": "other", "url": "https://apps.apple.com/us/app/ferrite-recording-studio/id1018780185"}
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "Most geniuses—especially those who lead others—prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities.",
+      "creator": "Andy Benoit",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Andy_Benoit",
+      "links": [
+        {"type": "original", "url": "https://en.wikipedia.org/wiki/Andy_Benoit"},
+        {"type": "other", "url": "https://web.archive.org/web/20201203222743/https://vault.si.com/vault/2014/01/13/the-case-for-the-broncos"}
+      ]
+    }
+  ]
+}

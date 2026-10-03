@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-26",
+  "checked_at": "2026-10-03",
   "timezone": "America/Los_Angeles",
   "methods": [
     "Hotmail sender-filtered searches covering each candidate Friday through the following Monday",
@@ -10,7 +10,8 @@
     "Hotmail sender-filtered sync through 2026-09-07; qualifying issues added for 2026-08-28 and 2026-09-04",
     "Hotmail sender-filtered sync through 2026-09-12; qualifying issue added for 2026-09-11",
     "Hotmail sender-filtered sync through 2026-09-19; qualifying issue added for 2026-09-18",
-    "Hotmail sender-filtered sync through 2026-09-26; qualifying issue added for 2026-09-25"
+    "Hotmail sender-filtered sync through 2026-09-26; qualifying issue added for 2026-09-25",
+    "Hotmail sender-filtered sync through 2026-10-03; qualifying issue added for 2026-10-03"
   ],
   "confirmed_published_without_full_issue": [
     {
