@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "issue_date": "2026-10-16",
+  "subject": "5-Bullet Friday — Journaling Prompts, The Art of Possibility, Alligator Philosophy, Timbale Therapy, and More",
+  "sources": [
+    "hotmail"
+  ],
+  "status": "email",
+  "extraction_status": "extracted",
+  "special_edition": false,
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Song I’m listening to",
+      "category": "music",
+      "title": "Tito on Timbales",
+      "creator": "Tito Puente",
+      "note": "Tito is a legend. I like to imagine that he freestyled for an hour and selected his favorite six minutes for this track. The man knows how to jam. Let it cleanse your mind of this week’s BS and set the stage for a homebase slide into the weekend.",
+      "original_url": "https://www.youtube.com/watch?v=dIxO88gh31w",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=dIxO88gh31w"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/track/75wYMQCuwgiCRt6SBzcVzu"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Book highlights I’m revisiting",
+      "category": "book",
+      "title": "The Art of Possibility: Transforming Professional and Personal Life",
+      "creator": "Rosamund Stone Zander and Benjamin Zander",
+      "note": "I love this book and have read it three times. It was first recommended to me by [Seth Godin](https://www.youtube.com/watch?v=yhc1sM2NnQ), and I have more than 100 highlights in my Kindle version. It is a beautiful, short, and intensely practical book, coauthored by Rosamund Stone Zander and Benjamin Zander.",
+      "original_url": "https://www.goodreads.com/work/quotes/82694-the-art-of-possibility-transforming-professional-and-personal-life",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.goodreads.com/work/quotes/82694-the-art-of-possibility-transforming-professional-and-personal-life"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/0142001104"
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/search?query=The%20Art%20of%20Possibility%20Rosamund%20Stone%20Zander%20Benjamin%20Zander",
+          "label": "Libby exact-title-and-author search"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/isbn/9780142001103"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=yhc1sM2NnQ"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Question I’m asking myself frequently",
+      "category": "other",
+      "title": "How do you feel when you wake up and when you get into bed at night, and how easily do you fall asleep?",
+      "creator": null,
+      "note": "“How do you feel when you wake up and when you get into bed at night, and how easily do you fall asleep?” The time in bed in the morning and at night tells you all you need to know. It’s not purely intellectual reasoning. It’s not a pro-and-con list. It’s not a spreadsheet. It’s not a Venn diagram. How do you feel? Are you even aware of how you’re feeling? How much energy have you spent blocking out certain feelings because you don’t want to feel certain things?  \n​  \nTo borrow from [Tara Brach](https://tim.blog/2015/07/31/tara-brach/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content): “There was a wise old sage who said, ‘There’s really only one question worth considering, and that is: What are you unwilling to feel?’”  \n​  \nDo you wake up with a sense of foreboding and anxiety and a desire to stay in bed? When you go to bed, are you full of anxiety and worries and preoccupation about what happened or what could happen the next day? I use this question as a systems check-in for identifying things I should stop, lessen, or double down on.",
+      "original_url": "https://tim.blog/2015/07/31/tara-brach/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2015/07/31/tara-brach/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf#content"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "Being inoffensive, and being offended, are now the twin addictions of the culture.",
+      "creator": "Martin Amis",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Martin_Amis",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Martin_Amis"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m embracing",
+      "category": "quote",
+      "title": "I am here today to cross the swamp, not to fight all the alligators.",
+      "creator": "Rosamund and Benjamin Zander",
+      "note": null,
+      "original_url": "https://www.amazon.com/Art-Possibility-Transforming-Professional-Personal/dp/0142001104/ref=as_li_ss_tl?keywords=The%20Art%20of%20Possibility%20by%20Benjamin%20and%20Rosamund%20Zander&qid=1570715033&sr=8-1&linkCode=ll1&tag=offsitoftimfe-20&linkId=fa07a22afe01a94d311d41e4cc2731f5&language=en_US",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/Art-Possibility-Transforming-Professional-Personal/dp/0142001104/ref=as_li_ss_tl?keywords=The%20Art%20of%20Possibility%20by%20Benjamin%20and%20Rosamund%20Zander&qid=1570715033&sr=8-1&linkCode=ll1&tag=offsitoftimfe-20&linkId=fa07a22afe01a94d311d41e4cc2731f5&language=en_US"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/0142001104"
+        },
+        {
+          "type": "libby",
+          "url": "https://share.libbyapp.com/search?query=The%20Art%20of%20Possibility%20Rosamund%20Stone%20Zander%20Benjamin%20Zander",
+          "label": "Libby exact-title-and-author search"
+        },
+        {
+          "type": "worldcat",
+          "url": "https://search.worldcat.org/isbn/9780142001103"
+        }
+      ]
+    }
+  ]
+}
