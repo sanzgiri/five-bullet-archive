@@ -23,7 +23,7 @@
           "url": "https://www.amazon.com/dp/B08RMV61NF?tag=offsitoftimfe-20"
         },
         {
-          "type": "other",
+          "type": "amazon",
           "url": "https://www.amazon.com/dp/B08RMV61NF?tag=offsitoftimfe-20"
         },
         {
@@ -102,6 +102,11 @@
         {
           "type": "original",
           "url": "https://www.goodreads.com/work/quotes/85465206-four-thousand-weeks-time-management-for-mortals"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/s?k=Four%20Thousand%20Weeks%3A%20Time%20Management%20for%20Mortals%20Oliver%20Burkeman",
+          "search_fallback": true
         }
       ]
     },
@@ -129,6 +134,12 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/@cnliziqi"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Snacks%20for%20Spring%20Festival",
+          "region": "US",
+          "search_fallback": true
         }
       ]
     },

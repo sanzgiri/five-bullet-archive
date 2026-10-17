@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "issue_date": "2026-10-09",
+  "subject": "5-Bullet Friday — Frank Miller Unleashed, Elegant Gadgets, Scando Slippers, and More",
+  "sources": [
+    "hotmail"
+  ],
+  "status": "email",
+  "extraction_status": "extracted",
+  "special_edition": false,
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Free documentary I’m watching",
+      "category": "video",
+      "title": "Frank Miller: American Genius",
+      "creator": "Silenn Thomas",
+      "note": "directed by [Silenn Thomas](https://frankmillerpresents.com/creators/profile/silenn-thomas). Frank Miller is a comic book visionary best known for his work on _Daredevil_, _The Dark Knight Returns_, _Sin City,_ and _300_. This free documentary covers ~50 years of Frank’s career. It charts his path from Vermont to New York, from the world of comics to the craziness of Hollywood, and from meteoric rise to near self-destruction. It also includes cameos from Robert Rodriguez, Zack Snyder, Jim Lee, Neal Adams, and Stan Lee.  \n​  \nFor more Frank, watch the two of us [do a deep dive on his creative process here](https://www.youtube.com/watch?v=6vW4K3ht-0w).",
+      "original_url": "https://www.youtube.com/watch?si=RUy_KClM8ZHzGLQQ&v=qisItqFmEqI&feature=youtu.be",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?si=RUy_KClM8ZHzGLQQ&v=qisItqFmEqI&feature=youtu.be"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/movie/frank-miller-american-genius",
+          "region": "US",
+          "availability_checked_at": "2026-10-10T00:00:00Z"
+        },
+        {
+          "type": "streaming",
+          "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.cb276cd8-772f-43eb-8488-f29826698996",
+          "region": "US",
+          "availability_checked_at": "2026-10-10T00:00:00Z",
+          "provider": "Amazon Prime Video",
+          "availability": "subscription"
+        },
+        {
+          "type": "streaming",
+          "url": "https://athome.fandango.com/content/browse/details/Frank-Miller-American-Genius/5048427",
+          "region": "US",
+          "availability_checked_at": "2026-10-10T00:00:00Z",
+          "provider": "Fandango at Home Free",
+          "availability": "free_with_ads"
+        },
+        {
+          "type": "other",
+          "url": "https://frankmillerpresents.com/creators/profile/silenn-thomas"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=6vW4K3ht-0w"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Podcast I’m enjoying",
+      "category": "podcast",
+      "title": "Stephen Fry on Rosebud with Gyles Brandreth",
+      "creator": "Stephen Fry",
+      "note": "I love Stephen Fry, the actor, writer, and comedian. He’s too complex to categorize. He performed the audiobook of [_The Hitchhiker’s Guide to the Galaxy_](https://www.amazon.com/dp/B0009JKV9W?tag=offsitoftimfe-20), which quickly became one of my all-time favorites. Last week, I was hunting for a new book featuring his mellifluous voice, but then a thought occurred: why not get to know Stephen in his own words? As I’ll often do, I cross-referenced a few LLMs and then chose a few interviews. I chose the above for its biographical and comedic strength, and it delivered.",
+      "original_url": "https://open.spotify.com/episode/6oiujVfsZVeSpf9ZEw91LW",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://open.spotify.com/episode/6oiujVfsZVeSpf9ZEw91LW"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/B0009JKV9W?tag=offsitoftimfe-20"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Comfy slip-ons I’m using",
+      "category": "other",
+      "title": "Glerups",
+      "creator": null,
+      "note": "As things cool off, I wear Glerups indoors practically 100% of the time. I love them. You can see me sporting them [in this photo](https://www.instagram.com/p/C3lDKlNP_Pt/).",
+      "original_url": "https://www.glerups.com/collections/all",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.glerups.com/collections/all"
+        },
+        {
+          "type": "other",
+          "url": "https://www.instagram.com/p/C3lDKlNP_Pt/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Gadget that pleases my OCD",
+      "category": "other",
+      "title": "Wall Mount Charger for Philips Sonicare",
+      "creator": null,
+      "note": "Like many of you, I cannot stand a tangle of cables on a surface I use a lot. I own a Sonicare toothbrush for many reasons, but the charging station has always bothered me. This little swap has made the sink area beautifully usable again.  \n​  \nSometimes it’s the little things!  \n​  \nTo explore oral care for cognitive health, I suggest checking out [Dr. Tommy Wood](https://tim.blog/2026/04/24/how-to-keep-your-brain-sharp/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf).",
+      "original_url": "https://www.amazon.com/dp/B0H4ZRKRBY?tag=offsitoftimfe-20",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/dp/B0H4ZRKRBY?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/B0H4ZRKRBY"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/04/24/how-to-keep-your-brain-sharp/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "Great artists make the roads; good teachers and good companions can point them out. But there ain’t no free rides, baby. No hitchhiking. And if you want to strike out in any new direction—you go alone. With a machete in your hand and the fear of God in your heart.",
+      "creator": "Ursula K. Le Guin",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Ursula_K._Le_Guin",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Ursula_K._Le_Guin"
+        }
+      ]
+    }
+  ]
+}

@@ -16,63 +16,74 @@
       "category": "other",
       "title": null,
       "creator": null,
-      "note": "I just learned about the following YouTube keyboard shortcuts: press J to\nrewind 10 seconds, press K to pause, press L to fast forward 10 seconds. All\nthree keys are alongside one another, so it’s easy to do without looking. This\nmight not seem like much, but it’s incredibly helpful when moving around in\nlonger videos (or audio on YT) or trying to repeat what you just saw/heard, as\nclicking on the progress bar itself can lead to jumping around in 4-5-minute\nincrements.**",
+      "note": "I just learned about the following YouTube keyboard shortcuts: press J to rewind 10 seconds, press K to pause, press L to fast forward 10 seconds. All three keys are alongside one another, so it’s easy to do without looking. This might not seem like much, but it’s incredibly helpful when moving around in longer videos (or audio on YT) or trying to repeat what you just saw/heard, as clicking on the progress bar itself can lead to jumping around in 4-5-minute increments.",
       "original_url": null,
       "links": []
     },
     {
       "position": 2,
       "section": "What I’m reading (again) —",
-      "category": "article",
+      "category": "book",
       "title": "Siddhartha",
       "creator": "Herman Hesse",
-      "note": "If you’ve read [Tools of\nTitans](https://el2.fourhourmail.com/c/qdurox544u7hv2gke/opfkhq/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Ub29scy1UaXRhbnMtQmlsbGlvbmFpcmVzLVdvcmxkLUNsYXNzLVBlcmZvcm1lcnMvZHAvMTMyODY4Mzc4OA==),\nyou might recall this was one of the most recommended books by podcast guests.\nNaval Ravikant has reinforced for me the importance of the main protagonist\nSiddhartha’s response to “What can you give?” Siddhartha’s answer is: “I can\nthink, I can wait, I can fast.” Skip the Amazon description, as it gives away\ntoo much plot, but consider reading (or rereading) this short gem.**In case\nyou missed it —  \n** I recently made the entire season of [The Tim Ferriss\nExperiment](https://el2.fourhourmail.com/c/qdurox544u7hv2gke/zvtghn/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3RoZXRpbWZlcnJpc3NleHBlcmltZW50Lz9yZWY9YnJfdGY=)\navailable on Facebook Shows. I’ve been releasing one episode per week,\n[including some\nbonuses](https://el2.fourhourmail.com/c/qdurox544u7hv2gke/pnceh9/aHR0cHM6Ly90aW0uYmxvZy90aGUtdGltLWZlcnJpc3MtZXhwZXJpbWVudC1leHRyYXMv).\nYou can [find all of the episodes\nhere](https://el2.fourhourmail.com/c/qdurox544u7hv2gke/xksph6/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3RoZXRpbWZlcnJpc3NleHBlcmltZW50Lz9yZWY9YnJfdGY=).**Who",
-      "original_url": "https://el2.fourhourmail.com/c/qdurox544u7hv2gke/78i7h8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TaWRkaGFydGhhLUhlcm1hbm4tSGVzc2UvZHAvMDU1MzIwODg0NQ==",
+      "note": "If you’ve read [Tools of Titans](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788), you might recall this was one of the most recommended books by podcast guests. Naval Ravikant has reinforced for me the importance of the main protagonist Siddhartha’s response to “What can you give?” Siddhartha’s answer is: “I can think, I can wait, I can fast.” Skip the Amazon description, as it gives away too much plot, but consider reading (or rereading) this short gem.",
+      "original_url": "https://www.amazon.com/Siddhartha-Hermann-Hesse/dp/0553208845",
       "links": [
         {
           "type": "original",
-          "url": "https://el2.fourhourmail.com/c/qdurox544u7hv2gke/78i7h8/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TaWRkaGFydGhhLUhlcm1hbm4tSGVzc2UvZHAvMDU1MzIwODg0NQ=="
+          "url": "https://www.amazon.com/Siddhartha-Hermann-Hesse/dp/0553208845"
         },
         {
-          "type": "other",
-          "url": "https://el2.fourhourmail.com/c/qdurox544u7hv2gke/opfkhq/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Ub29scy1UaXRhbnMtQmlsbGlvbmFpcmVzLVdvcmxkLUNsYXNzLVBlcmZvcm1lcnMvZHAvMTMyODY4Mzc4OA=="
-        },
-        {
-          "type": "other",
-          "url": "https://el2.fourhourmail.com/c/qdurox544u7hv2gke/zvtghn/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3RoZXRpbWZlcnJpc3NleHBlcmltZW50Lz9yZWY9YnJfdGY="
-        },
-        {
-          "type": "other",
-          "url": "https://el2.fourhourmail.com/c/qdurox544u7hv2gke/pnceh9/aHR0cHM6Ly90aW0uYmxvZy90aGUtdGltLWZlcnJpc3MtZXhwZXJpbWVudC1leHRyYXMv"
-        },
-        {
-          "type": "other",
-          "url": "https://el2.fourhourmail.com/c/qdurox544u7hv2gke/xksph6/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3RoZXRpbWZlcnJpc3NleHBlcmltZW50Lz9yZWY9YnJfdGY="
+          "type": "amazon",
+          "url": "https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788"
         }
       ]
     },
     {
       "position": 3,
-      "section": "I’m following on Instagram —",
+      "section": "In case you missed it —",
       "category": "other",
-      "title": "Dancer Dassy",
+      "title": "The Tim Ferriss Experiment",
       "creator": null,
-      "note": "If you thought Korean dancing phenoms were limited to breakdancing (e.g., Bboy\nPocket), you’d be wrong. Dancer Dassy is one of my newest favorites.**Quote",
-      "original_url": "https://el2.fourhourmail.com/c/qdurox544u7hv2gke/60aeh8/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JjYzhiTVFGOW05Lz90YWtlbi1ieT1kYW5jZXJkYXNzeQ==",
+      "note": "available on Facebook Shows. I’ve been releasing one episode per week, [including some bonuses](https://tim.blog/the-tim-ferriss-experiment-extras/). You can [find all of the episodes here](https://www.facebook.com/thetimferrissexperiment/?ref=br_tf).",
+      "original_url": "https://www.facebook.com/thetimferrissexperiment/?ref=br_tf",
       "links": [
         {
           "type": "original",
-          "url": "https://el2.fourhourmail.com/c/qdurox544u7hv2gke/60aeh8/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0JjYzhiTVFGOW05Lz90YWtlbi1ieT1kYW5jZXJkYXNzeQ=="
+          "url": "https://www.facebook.com/thetimferrissexperiment/?ref=br_tf"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/the-tim-ferriss-experiment-extras/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.facebook.com/thetimferrissexperiment/?ref=br_tf"
         }
       ]
     },
     {
       "position": 4,
-      "section": "I’m pondering —",
+      "section": "Who I’m following on Instagram —",
       "category": "other",
-      "title": null,
+      "title": "Dancer Dassy",
       "creator": null,
-      "note": "“Delusion is a divine curse  \nthat makes someone envious, conceited, malicious,  \nso that he doesn't know the evil he does  \nwill strike him back.If he could see his nothingness  \nand his deadly, festering wound,  \npain would arise from looking within,  \nand that pain would save him.”  \n-RumiTim  \nP.S. -- **Here’s a bonus question I’ve been asking myself as a practice:  \n** “How can I even more enjoy and appreciate this as a gift right now?”\n[Explanation: “This” could be any problem, hardship, person, or otherwise that\nwould historically cause me\nstress.][![](https://convertkit.s3.amazonaws.com/assets/pictures/11125/837045/content_tom-\nemail-\nfooter-03.jpg)](https://el2.fourhourmail.com/c/qdurox544u7hv2gke/kmbmh6/aHR0cHM6Ly90cmliZW9mbWVudG9ycy5jb20vaW50cm8vI21haW4=)",
+      "note": "If you thought Korean dancing phenoms were limited to breakdancing (e.g., Bboy Pocket), you’d be wrong. Dancer Dassy is one of my newest favorites.",
+      "original_url": "https://www.instagram.com/p/Bcc8bMQF9m9/?taken-by=dancerdassy",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.instagram.com/p/Bcc8bMQF9m9/?taken-by=dancerdassy"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Quote I’m pondering —",
+      "category": "quote",
+      "title": "“Delusion is a divine curse that makes someone envious, conceited, malicious, so that he doesn't know the evil he does will strike him back. If he could see his nothingness and his deadly, festering wound, pain would arise from looking within, and that pain would save him.” \\-Rumi Tim",
+      "creator": "Rumi Tim",
+      "note": null,
       "original_url": null,
       "links": []
     }

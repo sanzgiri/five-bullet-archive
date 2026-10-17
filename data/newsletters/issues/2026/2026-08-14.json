@@ -65,6 +65,12 @@
         {
           "type": "other",
           "url": "https://www.catalystclimbing.com/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=World%E2%80%99s%20Hardest%20Flash%20-%20Adam%20Ondra%20Climbs%205.15%20(9a%2B)%20First%20Try",
+          "region": "US",
+          "search_fallback": true
         }
       ]
     },
@@ -88,6 +94,12 @@
         {
           "type": "other",
           "url": "https://www.youtube.com/watch?v=yU_wLC0NlgU"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Fck%20That%3A%20An%20Honest%20Meditation%20Jason%20Headley",
+          "region": "US",
+          "search_fallback": true
         }
       ]
     },

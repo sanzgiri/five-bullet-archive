@@ -2,7 +2,9 @@
   "schema_version": 1,
   "issue_date": "2026-09-11",
   "subject": "5-Bullet Friday — Contact Lenses for Depression, Productivity Mixes, Improving Sperm Quality with Walnuts, and More",
-  "sources": ["hotmail"],
+  "sources": [
+    "hotmail"
+  ],
   "status": "email",
   "extraction_status": "extracted",
   "special_edition": false,
@@ -15,7 +17,17 @@
       "creator": "Haldor Asheim",
       "note": "I listened to a deadmau5 continuous mix when I wrote The 4-Hour Body back in 2009, and not all mixes are created equal. This option from Haldor Asheim has been perfect for immersing myself in writing without distracting vocals.",
       "original_url": "https://www.youtube.com/watch?v=FIFN1zRTebs",
-      "links": [{"type": "original", "url": "https://www.youtube.com/watch?v=FIFN1zRTebs"}]
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=FIFN1zRTebs"
+        },
+        {
+          "type": "spotify_track",
+          "url": "https://open.spotify.com/search/Productivity%20Mix%2C%20a%20deadmau5%20compilation%20Haldor%20Asheim",
+          "search_fallback": true
+        }
+      ]
     },
     {
       "position": 2,
@@ -26,8 +38,14 @@
       "note": "This contains just two ingredients: organic raw walnuts and organic raw cashews. Artisana also makes my favorite almond butter, and both are delicious. Gents, walnuts are good for your swimmers. The strongest walnut-specific study was a 2012 randomized controlled trial in 117 healthy men ages 21–35 eating a Western-style diet. They were randomized to either continue their diet or add 75 g/day of walnuts (~2.6 oz) for 12 weeks. This amount isn’t trivial, but it isn’t impossible, either. 75 grams is roughly 0.63 cups of chopped walnuts, which amounts to roughly 2.5 handfuls per day.\n\nCompared with controls, the walnut group improved:\nSperm vitality: significant, P = 0.003\nSperm motility: significant, P = 0.009\nNormal morphology: significant, P ≈ 0.03–0.04\nSperm concentration: no significant improvement\n\nNuts seem to be generally supportive of fertility. A 2024 systematic review/meta-analysis also showed that consuming at least 60 g/day of nuts improved sperm motility, vitality, and morphology, although it did not significantly improve sperm concentration.",
       "original_url": "https://www.amazon.com/dp/B004JNXDNK/?tag=offsitoftimfe-20",
       "links": [
-        {"type": "original", "url": "https://www.amazon.com/dp/B004JNXDNK/?tag=offsitoftimfe-20"},
-        {"type": "amazon", "url": "https://www.amazon.com/dp/B004JNXDNK"}
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/dp/B004JNXDNK/?tag=offsitoftimfe-20"
+        },
+        {
+          "type": "amazon",
+          "url": "https://www.amazon.com/dp/B004JNXDNK"
+        }
       ]
     },
     {
@@ -38,7 +56,12 @@
       "creator": "Neuroscience News",
       "note": "*Materials scientists have developed a ‘wearable, drug-free’ contact lens capable of treating depression by delivering mild electrical signals through the retina. The study demonstrates that these specialized lenses are as effective as fluoxetine (the active ingredient in Prozac) at reducing behavioral, neural, and physiological signs of depression in mice. This technology leverages the eye’s anatomical connection to the brain to stimulate mood-regulating circuits non-invasively.*\n\nTreating the brain through the eye opens a fascinating new frontier, and it is one I am excited to follow. Here’s the original paper in Cell Reports Physical Science if you want to go deeper. Sincere thanks to Dr. JF for putting this on my radar.",
       "original_url": "https://neurosciencenews.com/brain-stimulating-contact-lenses-depression-30690/",
-      "links": [{"type": "original", "url": "https://neurosciencenews.com/brain-stimulating-contact-lenses-depression-30690/"}]
+      "links": [
+        {
+          "type": "original",
+          "url": "https://neurosciencenews.com/brain-stimulating-contact-lenses-depression-30690/"
+        }
+      ]
     },
     {
       "position": 4,
@@ -48,7 +71,12 @@
       "creator": null,
       "note": "Set a timer for 25 minutes, work on one thing and one thing only until it rings. Then, take a five-minute break and repeat, if needed. A couple of timer options: E.ggTimer, a dead-simple countdown site, and Google Timer (you can also just type “25 minutes timer” into Google search, and it starts immediately.)",
       "original_url": "https://en.wikipedia.org/wiki/Pomodoro_Technique",
-      "links": [{"type": "original", "url": "https://en.wikipedia.org/wiki/Pomodoro_Technique"}]
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Pomodoro_Technique"
+        }
+      ]
     },
     {
       "position": 5,
@@ -58,9 +86,20 @@
       "creator": "Niels Hoven",
       "note": "The most fascinating conversations I have are often behind closed doors. I’ve long assumed them too confidential to share, but this episode is my second exception. Niels and I discuss all things related to Mentava, whose software can teach some toddlers to read before they turn three. If you want to rethink education, I think this conversation has some rich terrain.",
       "original_url": "https://tim.blog/2026/09/10/niels-hoven-mentava/",
-      "links": [{"type": "original", "url": "https://tim.blog/2026/09/10/niels-hoven-mentava/"}]
-    }
-  ,    {
+      "links": [
+        {
+          "type": "original",
+          "url": "https://tim.blog/2026/09/10/niels-hoven-mentava/"
+        },
+        {
+          "type": "justwatch",
+          "url": "https://www.justwatch.com/us/search?q=Behind-The-Scenes%20Session%20with%20Niels%20Hoven%20Niels%20Hoven",
+          "region": "US",
+          "search_fallback": true
+        }
+      ]
+    },
+    {
       "position": 6,
       "section": "Quote I’m pondering",
       "category": "quote",

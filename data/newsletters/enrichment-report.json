@@ -1,32 +1,41 @@
 {
-  "issues": 530,
-  "bullets": 2709,
-  "links_added": {},
-  "links_reclassified": {},
+  "issues": 542,
+  "bullets": 2774,
+  "links_added": {
+    "amazon": 1,
+    "justwatch": 8,
+    "spotify_track": 1
+  },
+  "links_reclassified": {
+    "amazon": 8,
+    "streaming": 1,
+    "spotify_track": 1
+  },
   "libby_resolved": 0,
   "libby_unresolved": 0,
   "link_totals": {
-    "original": 2690,
-    "other": 7669,
-    "justwatch": 509,
-    "kanopy": 368,
-    "amazon": 392,
-    "worldcat": 155,
-    "spotify_track": 233,
+    "original": 2755,
+    "other": 7771,
+    "justwatch": 381,
+    "kanopy": 225,
+    "amazon": 393,
+    "worldcat": 134,
+    "spotify_track": 246,
     "audible": 18,
-    "libby": 76,
+    "libby": 72,
     "musicbrainz": 7,
-    "spotify_album": 16,
-    "streaming": 31
+    "spotify_album": 25,
+    "streaming": 42
   },
   "search_fallback_totals": {
-    "justwatch": 368,
-    "kanopy": 368,
-    "amazon": 52,
-    "worldcat": 155,
-    "spotify_track": 39,
-    "audible": 7
+    "justwatch": 233,
+    "kanopy": 225,
+    "amazon": 47,
+    "worldcat": 130,
+    "spotify_track": 40,
+    "audible": 7,
+    "libby": 3
   },
-  "generated_at": "2026-07-22T20:20:43.168Z",
+  "generated_at": "2026-10-17T00:02:09.950Z",
   "libby_library_key_used_for_catalog_resolution": null
 }

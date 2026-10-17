@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T13:03:49.548Z",
+  "generated_at": "2026-10-17T00:02:10.074Z",
   "methodology": {
     "recommendation_coverage": "Eligible recommendations with at least one enrichment destination.",
     "service_slot_coverage": "Covered destination slots divided by all expected category/service combinations.",
@@ -9,143 +9,62 @@
   "exact_item_mapping_coverage": {
     "note": "Search fallbacks are excluded from every metric in this section.",
     "music_to_spotify": {
-      "covered": 62,
-      "eligible": 73,
-      "percent": 84.9
+      "covered": 63,
+      "eligible": 74,
+      "percent": 85.1
     },
     "books_to_amazon": {
-      "covered": 93,
-      "eligible": 112,
-      "percent": 83
+      "covered": 94,
+      "eligible": 113,
+      "percent": 83.2
     },
     "films_to_justwatch": {
-      "covered": 145,
-      "eligible": 236,
-      "percent": 61.4
+      "covered": 146,
+      "eligible": 237,
+      "percent": 61.6
     }
   },
   "recommendation_coverage": {
-    "eligible": 421,
-    "covered": 411,
-    "percent": 97.6
+    "eligible": 424,
+    "covered": 424,
+    "percent": 100
   },
   "service_slot_coverage": {
-    "eligible": 421,
-    "covered": 411,
-    "missing": 10,
-    "percent": 97.6,
-    "exact_or_resolved": 300,
-    "exact_or_resolved_percent": 71.3,
-    "search_fallback": 111,
-    "search_fallback_percent": 26.4
+    "eligible": 424,
+    "covered": 424,
+    "missing": 0,
+    "percent": 100,
+    "exact_or_resolved": 303,
+    "exact_or_resolved_percent": 71.5,
+    "search_fallback": 121,
+    "search_fallback_percent": 28.5
   },
   "by_service": {
     "spotify": {
-      "eligible": 73,
-      "covered": 72,
-      "exact_or_resolved": 62,
-      "search_fallback": 10,
-      "missing": 1,
-      "coverage_percent": 98.6
+      "eligible": 74,
+      "covered": 74,
+      "exact_or_resolved": 63,
+      "search_fallback": 11,
+      "missing": 0,
+      "coverage_percent": 100
     },
     "amazon": {
-      "eligible": 112,
-      "covered": 111,
-      "exact_or_resolved": 93,
-      "search_fallback": 18,
-      "missing": 1,
-      "coverage_percent": 99.1
+      "eligible": 113,
+      "covered": 113,
+      "exact_or_resolved": 94,
+      "search_fallback": 19,
+      "missing": 0,
+      "coverage_percent": 100
     },
     "justwatch": {
-      "eligible": 236,
-      "covered": 228,
-      "exact_or_resolved": 145,
-      "search_fallback": 83,
-      "missing": 8,
-      "coverage_percent": 96.6
+      "eligible": 237,
+      "covered": 237,
+      "exact_or_resolved": 146,
+      "search_fallback": 91,
+      "missing": 0,
+      "coverage_percent": 100
     }
   },
-  "unresolved": [
-    {
-      "issue_date": "2026-09-11",
-      "position": 1,
-      "category": "music",
-      "title": "Productivity Mix, a deadmau5 compilation",
-      "creator": "Haldor Asheim",
-      "missing_service": "spotify"
-    },
-    {
-      "issue_date": "2026-08-07",
-      "position": 4,
-      "category": "book",
-      "title": "Four Thousand Weeks: Time Management for Mortals",
-      "creator": "Oliver Burkeman",
-      "missing_service": "amazon"
-    },
-    {
-      "issue_date": "2026-08-07",
-      "position": 5,
-      "category": "video",
-      "title": "Snacks for Spring Festival",
-      "creator": null,
-      "missing_service": "justwatch"
-    },
-    {
-      "issue_date": "2026-08-14",
-      "position": 1,
-      "category": "video",
-      "title": "World’s Hardest Flash - Adam Ondra Climbs 5.15 (9a+) First Try",
-      "creator": null,
-      "missing_service": "justwatch"
-    },
-    {
-      "issue_date": "2026-08-14",
-      "position": 2,
-      "category": "video",
-      "title": "Fck That: An Honest Meditation",
-      "creator": "Jason Headley",
-      "missing_service": "justwatch"
-    },
-    {
-      "issue_date": "2026-08-28",
-      "position": 4,
-      "category": "video",
-      "title": "The drawing advice that changed my life",
-      "creator": null,
-      "missing_service": "justwatch"
-    },
-    {
-      "issue_date": "2026-09-04",
-      "position": 1,
-      "category": "video",
-      "title": "For He Can Creep (Love, Death + Robots, S4E8)",
-      "creator": "Love, Death + Robots",
-      "missing_service": "justwatch"
-    },
-    {
-      "issue_date": "2026-09-04",
-      "position": 3,
-      "category": "video",
-      "title": "Scientists have a bold idea to fight Lyme disease: Change the mice",
-      "creator": "60 Minutes",
-      "missing_service": "justwatch"
-    },
-    {
-      "issue_date": "2026-09-11",
-      "position": 5,
-      "category": "video",
-      "title": "Behind-The-Scenes Session with Niels Hoven",
-      "creator": "Niels Hoven",
-      "missing_service": "justwatch"
-    },
-    {
-      "issue_date": "2026-09-25",
-      "position": 4,
-      "category": "video",
-      "title": "Speaking With The Mind | Neuralink",
-      "creator": "Neuralink",
-      "missing_service": "justwatch"
-    }
-  ],
+  "unresolved": [],
   "excluded_missing_title": []
 }
