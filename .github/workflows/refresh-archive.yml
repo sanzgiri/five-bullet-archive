@@ -2,7 +2,7 @@ name: Refresh newsletter archive
 
 on:
   schedule:
-    - cron: "17 16 * * 6" # Saturday 08:17 Pacific (UTC varies with daylight saving)
+    - cron: "17 16 * * 6" # Saturday morning Pacific; 08:17 PST / 09:17 PDT
   workflow_dispatch:
 
 permissions:
