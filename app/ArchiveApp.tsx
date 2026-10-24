@@ -138,7 +138,7 @@ export function ArchiveApp() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch("/archive-data.json")
+    fetch(`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/archive-data.json`)
       .then((response) => response.json())
       .then((data: Recommendation[]) => setItems(data.reverse()))
       .finally(() => setLoading(false));

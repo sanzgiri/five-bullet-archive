@@ -47,15 +47,17 @@ The EML importer is the operational update path for Outlook/Hotmail exports. It 
 2. Run the EML importer with `--write`.
 3. Rebuild, audit, and test the archive.
 4. Review the resulting dated JSON records, then commit and push the changed issue files and generated `public/archive-data.json`.
-5. Publish a new Sites version from the exact pushed commit.
+5. GitHub Pages deploys automatically from the exact pushed commit after Pages is enabled.
 
-The weekly Codex maintenance automation runs on Saturday mornings, imports qualifying Outlook issues, validates the archive, and publishes the current pushed commit to the public Sites deployment after a successful test/build.
-
-The scheduled maintenance task follows this workflow and reports failures instead of silently publishing an unverified issue.
+A GitHub Actions workflow (`.github/workflows/refresh-archive.yml`) runs every Saturday, fetches recent qualifying Hotmail issues through Microsoft Graph, rebuilds and audits the archive, and commits verified changes to the repository. It requires the one-time Microsoft/GitHub setup described in [data/newsletters/README.md](data/newsletters/README.md). Pushes update this repository; OpenAI Sites publishing must be separately configured if the Sites project does not automatically follow these commits.
 
 ## Deployment
 
-The app is a Next.js/Vinext static archive deployed through OpenAI Sites. The Sites project ID is stored in `.openai/hosting.json`; it is not a Netlify, Render, Vercel, or Fly deployment.
+The app can be built as a static site for GitHub Pages. The workflow in `.github/workflows/pages.yml` builds with Next.js static export and deploys on pushes to `main`. It uses `/five-bullet-archive` as the project-site base path. Enable **Settings → Pages → Build and deployment → GitHub Actions** after the repository is eligible for Pages.
+
+The repository is currently private, and GitHub rejected Pages setup because the current plan does not support Pages for this private repository. To publish on the free plan, make the repository public (which also publishes its source and committed archive data) or upgrade to a plan that supports Pages for private repositories. No visibility change has been made.
+
+The prior OpenAI Sites project ID remains in `.openai/hosting.json`; the Pages workflow does not use it.
 
 Before publishing a release, run:
 
@@ -64,7 +66,7 @@ npm test
 git diff --check
 ```
 
-Then save and deploy a Sites version from the exact commit that was pushed to both GitHub and the Sites source repository.
+The Pages workflow runs `npx next build` with static export and deploys the generated `out/` directory. Verify the resulting GitHub Pages URL in the Actions deployment summary after the repository is eligible and Pages is enabled.
 
 ## Known coverage gaps
 

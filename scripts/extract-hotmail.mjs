@@ -21,6 +21,7 @@ const start = valueAfter("--start", "2015-01-01");
 const end = valueAfter("--end", new Date().toISOString().slice(0, 10));
 const dryRun = args.has("--dry-run");
 const force = args.has("--force");
+const nonInteractive = args.has("--non-interactive");
 
 if (!clientId) {
   console.error(`
@@ -41,6 +42,9 @@ Do not create or paste a client secret. This command uses device-code login.
 }
 
 await mkdir(path.dirname(cachePath), { recursive: true });
+if (process.env.MICROSOFT_TOKEN_CACHE && !await readFile(cachePath).catch(() => null)) {
+  await writeFile(cachePath, Buffer.from(process.env.MICROSOFT_TOKEN_CACHE, "base64"), { mode: 0o600 });
+}
 const cachePlugin = {
   beforeCacheAccess: async (context) => {
     try {
@@ -72,6 +76,9 @@ if (accounts.length) {
   } catch {
     token = null;
   }
+}
+if (!token && nonInteractive) {
+  throw new Error("No usable cached Microsoft Graph token. Refresh the token cache locally and update the MICROSOFT_TOKEN_CACHE GitHub secret.");
 }
 token ??= await auth.acquireTokenByDeviceCode({
   scopes,

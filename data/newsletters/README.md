@@ -22,6 +22,19 @@ Catalog eligibility is intentionally strict. Talks, clips, interviews, and other
 
 Run `npm run archive:audit-enrichment` to regenerate `enrichment-audit.json`. The audit treats exact-item mapping coverage as the primary quality metric and excludes generated search fallbacks from it. It also records convenience-link coverage, unresolved destinations, and titleless recommendations excluded from enrichment.
 
+## Scheduled Hotmail refresh
+
+`.github/workflows/refresh-archive.yml` runs weekly in GitHub Actions. It queries Microsoft Graph for the configured sender (default `tim@fourhourbody.com`), updates new issue records, rebuilds the generated datasets, audits the archive, and pushes changes to the repository. It scans the preceding 14 days to catch delayed runs. Existing extracted issues are preserved. Parsed issues remain marked `partial` for review; the job does not silently promote them to fully reviewed records.
+
+One-time setup in the GitHub repository:
+
+1. Create/configure a Microsoft Entra app with delegated Graph `Mail.Read`, public client flows enabled, and personal Microsoft account support. The app must allow refresh-token use for delegated access.
+2. Locally authenticate using the device-code steps below. Once the token cache exists at `.cache/microsoft-msal-cache.json`, encode it with `base64 < .cache/microsoft-msal-cache.json | tr -d '\n'`.
+3. Add repository Actions secrets `MICROSOFT_CLIENT_ID` and `MICROSOFT_TOKEN_CACHE` (the base64 output). Also ensure Actions are enabled and permitted to write repository contents (Settings → Actions → General → Workflow permissions).
+4. Run **Refresh newsletter archive** manually from the Actions tab. Inspect the job and resulting commit. Microsoft may eventually revoke the delegated refresh token; if that happens, refresh the local cache and replace the secret as in step 2.
+
+The workflow only pushes Git commits. Confirm separately whether the OpenAI Sites project automatically deploys from this GitHub repository; if not, site publishing still needs a supported deployment integration. Do not assume a successful archive refresh means the public site has deployed.
+
 ## Bulk Hotmail extraction
 
 The local extractor uses Microsoft Graph's read-only delegated `Mail.Read` permission and device-code login. It never needs a password or client secret, does not commit its token cache, and does not save full message bodies or mailbox message IDs.
