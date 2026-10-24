@@ -1,4 +1,4 @@
-name: Refresh newsletter archive
+name: Refresh newsletter archive from Gmail
 
 on:
   schedule:
@@ -23,19 +23,17 @@ jobs:
         with:
           node-version: "22"
           cache: npm
-      - name: Restore Microsoft Graph token cache
-        uses: actions/cache@v4
-        with:
-          path: .cache/microsoft-msal-cache.json
-          key: microsoft-graph-token-cache-${{ runner.os }}-${{ github.run_id }}
-          restore-keys: |
-            microsoft-graph-token-cache-${{ runner.os }}-
       - run: npm ci
-      - name: Fetch recent Hotmail issues
+      - name: Fetch recent newsletter emails from Gmail
         env:
-          MICROSOFT_CLIENT_ID: ${{ secrets.MICROSOFT_CLIENT_ID }}
-          MICROSOFT_TOKEN_CACHE: ${{ secrets.MICROSOFT_TOKEN_CACHE }}
-        run: npm run archive:extract-hotmail -- --start "$(date -u -d '14 days ago' +%F)" --non-interactive
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          NEWSLETTER_SENDER: tim@fourhourbody.com
+          GMAIL_IMPORT_DIR: /tmp/five-bullet-gmail
+          GMAIL_LOOKBACK_DAYS: "14"
+        run: npm run archive:fetch-gmail
+      - name: Import newsletter issues
+        run: npm run archive:import-eml -- /tmp/five-bullet-gmail --write --source=gmail
       - run: npm run archive:build
       - run: npm run archive:audit
       - name: Commit refreshed archive
@@ -46,6 +44,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No archive changes to publish."
           else
-            git commit -m "Refresh newsletter archive"
+            git commit -m "Refresh newsletter archive from Gmail"
             git push
           fi

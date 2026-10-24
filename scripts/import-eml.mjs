@@ -8,7 +8,8 @@ const projectRoot = process.cwd();
 const inputRoot = path.resolve(process.argv[2] ?? "imports/five-bullet-emails");
 const archiveRoot = path.join(projectRoot, "data/newsletters");
 const issuesRoot = path.join(archiveRoot, "issues");
-const reportPath = path.join(archiveRoot, "eml-import-report.json");
+const sourceName = process.argv.find((argument) => argument.startsWith("--source="))?.slice(9) ?? "hotmail";
+const reportPath = path.join(archiveRoot, sourceName === "hotmail" ? "eml-import-report.json" : `${sourceName}-eml-import-report.json`);
 const write = process.argv.includes("--write");
 const force = process.argv.includes("--force");
 const onlyPartial = process.argv.includes("--only-partial");
@@ -288,7 +289,7 @@ for (const candidate of [...byDate.values()].sort((a, b) => a.issueDate.localeCo
     schema_version: 1,
     issue_date: candidate.issueDate,
     subject: candidate.subject,
-    sources: [...new Set([...(existing?.sources ?? []), "hotmail"])],
+    sources: [...new Set([...(existing?.sources ?? []), sourceName])],
     status: "email",
     extraction_status: candidate.reasons.length ? "partial" : "extracted",
     special_edition: existing?.special_edition ?? !/^5-Bullet Friday\b/i.test(candidate.subject),

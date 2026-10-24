@@ -12,6 +12,7 @@
     "archive:audit-enrichment": "node scripts/audit-enrichment.mjs",
     "archive:import-eml": "node scripts/import-eml.mjs",
     "archive:import-gmail": "node scripts/import-gmail-json.mjs",
+    "archive:fetch-gmail": "node scripts/fetch-gmail-imap.mjs",
     "archive:extract-hotmail": "node scripts/extract-hotmail.mjs",
     "archive:enrich": "node scripts/enrich-links.mjs",
     "archive:resolve-catalogs": "node scripts/resolve-catalog-links.mjs",
@@ -27,6 +28,7 @@
   "dependencies": {
     "@azure/msal-node": "^3.8.0",
     "drizzle-orm": "0.45.2",
+    "imapflow": "^2.9.1",
     "next": "16.2.6",
     "react": "19.2.6",
     "react-dom": "19.2.6",

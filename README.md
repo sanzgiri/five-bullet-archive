@@ -39,23 +39,15 @@ npm run archive:import-eml -- imports/five-bullet-emails --write
 npm test                    # production build plus archive regression tests
 ```
 
-The EML importer is the operational update path for Outlook/Hotmail exports. It is safe to rerun: use `--force` only when intentionally replacing an existing dated issue. The Gmail JSON importer and the Microsoft Graph Hotmail extractor use the same structured format; see [data/newsletters/README.md](data/newsletters/README.md) for their details.
+The EML importer is used by the scheduled Gmail refresh and can also process Outlook/Hotmail exports. It is safe to rerun: use `--force` only when intentionally replacing an existing dated issue. See [data/newsletters/README.md](data/newsletters/README.md) for Gmail setup details.
 
 ## Weekly update workflow
 
-1. Export or add newly received 5-Bullet Friday messages as `.eml` files under `imports/five-bullet-emails/`.
-2. Run the EML importer with `--write`.
-3. Rebuild, audit, and test the archive.
-4. Review the resulting dated JSON records, then commit and push the changed issue files and generated `public/archive-data.json`.
-5. GitHub Pages deploys automatically from the exact pushed commit after Pages is enabled.
-
-A GitHub Actions workflow (`.github/workflows/refresh-archive.yml`) runs every Saturday, fetches recent qualifying Hotmail issues through Microsoft Graph, rebuilds and audits the archive, and commits verified changes to the repository. It requires the one-time Microsoft/GitHub setup described in [data/newsletters/README.md](data/newsletters/README.md). Pushes update this repository; OpenAI Sites publishing must be separately configured if the Sites project does not automatically follow these commits.
+The GitHub Actions workflow (`.github/workflows/refresh-archive.yml`) is configured to check Gmail every Saturday for recent 5-Bullet Friday messages, import new issues, rebuild and audit the archive, and commit verified changes. Each commit triggers the GitHub Pages deployment workflow. Add the required Gmail Actions secrets as described in [data/newsletters/README.md](data/newsletters/README.md) to activate mailbox access.
 
 ## Deployment
 
 The app can be built as a static site for GitHub Pages. The workflow in `.github/workflows/pages.yml` builds with Next.js static export and deploys on pushes to `main`. It uses `/five-bullet-archive` as the project-site base path. Enable **Settings → Pages → Build and deployment → GitHub Actions** after the repository is eligible for Pages.
-
-The repository is currently private, and GitHub rejected Pages setup because the current plan does not support Pages for this private repository. To publish on the free plan, make the repository public (which also publishes its source and committed archive data) or upgrade to a plan that supports Pages for private repositories. No visibility change has been made.
 
 The prior OpenAI Sites project ID remains in `.openai/hosting.json`; the Pages workflow does not use it.
 

@@ -22,18 +22,20 @@ Catalog eligibility is intentionally strict. Talks, clips, interviews, and other
 
 Run `npm run archive:audit-enrichment` to regenerate `enrichment-audit.json`. The audit treats exact-item mapping coverage as the primary quality metric and excludes generated search fallbacks from it. It also records convenience-link coverage, unresolved destinations, and titleless recommendations excluded from enrichment.
 
-## Scheduled Hotmail refresh
+## Scheduled Gmail refresh
 
-`.github/workflows/refresh-archive.yml` runs weekly in GitHub Actions. It queries Microsoft Graph for the configured sender (default `tim@fourhourbody.com`), updates new issue records, rebuilds the generated datasets, audits the archive, and pushes changes to the repository. It scans the preceding 14 days to catch delayed runs. Existing extracted issues are preserved. Parsed issues remain marked `partial` for review; the job does not silently promote them to fully reviewed records.
+`.github/workflows/refresh-archive.yml` checks Gmail every Saturday for messages from `tim@fourhourbody.com` received in the previous 14 days. It imports qualifying issues, rebuilds and audits the archive, then commits changes. That commit triggers the GitHub Pages deployment. Raw email files remain in the runner's temporary directory and are not committed. Existing fully extracted issues are preserved; uncertain new parses are marked `partial` for review.
 
-One-time setup in the GitHub repository:
+### Configure Gmail access
 
-1. Create/configure a Microsoft Entra app with delegated Graph `Mail.Read`, public client flows enabled, and personal Microsoft account support. The app must allow refresh-token use for delegated access.
-2. Locally authenticate using the device-code steps below. Once the token cache exists at `.cache/microsoft-msal-cache.json`, encode it with `base64 < .cache/microsoft-msal-cache.json | tr -d '\n'`.
-3. Add repository Actions secrets `MICROSOFT_CLIENT_ID` and `MICROSOFT_TOKEN_CACHE` (the base64 output). Also ensure Actions are enabled and permitted to write repository contents (Settings → Actions → General → Workflow permissions).
-4. Run **Refresh newsletter archive** manually from the Actions tab. Inspect the job and resulting commit. Microsoft may eventually revoke the delegated refresh token; if that happens, refresh the local cache and replace the secret as in step 2.
+The workflow uses Gmail IMAP with an app password, not your normal Google password:
 
-The workflow only pushes Git commits. Confirm separately whether the OpenAI Sites project automatically deploys from this GitHub repository; if not, site publishing still needs a supported deployment integration. Do not assume a successful archive refresh means the public site has deployed.
+1. In the Google account that receives the newsletter, enable **2-Step Verification**. Then open **Google Account → Security → App passwords** and create one for this workflow. If App passwords is unavailable, stop and ask before choosing another authentication method.
+2. Confirm IMAP is enabled in Gmail settings (Settings → See all settings → Forwarding and POP/IMAP, if that setting is shown).
+3. In the GitHub repository, add Actions secrets `GMAIL_ADDRESS` (the full Gmail address) and `GMAIL_APP_PASSWORD` (the generated app password) under Settings → Secrets and variables → Actions.
+4. Run **Refresh newsletter archive from Gmail** manually from the Actions tab and confirm it completes. Scheduled runs are Saturday morning Pacific time.
+
+An app password grants mailbox access, so keep it only in GitHub Secrets. The importer searches only the configured newsletter sender; for least exposure, use a dedicated Gmail inbox that receives only these newsletters.
 
 ## Bulk Hotmail extraction
 
