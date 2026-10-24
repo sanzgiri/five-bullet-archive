@@ -24,7 +24,7 @@ Run `npm run archive:audit-enrichment` to regenerate `enrichment-audit.json`. Th
 
 ## Scheduled Gmail refresh
 
-`.github/workflows/refresh-archive.yml` checks Gmail every Saturday for messages from `tim@fourhourbody.com` received in the previous 14 days. It imports qualifying issues, rebuilds and audits the archive, then commits changes. That commit triggers the GitHub Pages deployment. Raw email files remain in the runner's temporary directory and are not committed. Existing fully extracted issues are preserved; uncertain new parses are marked `partial` for review.
+`.github/workflows/refresh-archive.yml` checks Gmail every Saturday for messages from `tim@fourhourbody.com` received in the previous 14 days. It imports qualifying issues, rebuilds and audits the archive, commits changes, and deploys the rebuilt static site to GitHub Pages. Raw email files remain in the runner's temporary directory and are not committed. Existing fully extracted issues are preserved; uncertain new parses are marked `partial` for review.
 
 ### Configure Gmail access
 

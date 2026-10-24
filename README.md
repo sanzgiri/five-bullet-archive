@@ -43,7 +43,7 @@ The EML importer is used by the scheduled Gmail refresh and can also process Out
 
 ## Weekly update workflow
 
-The GitHub Actions workflow (`.github/workflows/refresh-archive.yml`) is configured to check Gmail every Saturday for recent 5-Bullet Friday messages, import new issues, rebuild and audit the archive, and commit verified changes. Each commit triggers the GitHub Pages deployment workflow. Add the required Gmail Actions secrets as described in [data/newsletters/README.md](data/newsletters/README.md) to activate mailbox access.
+The GitHub Actions workflow (`.github/workflows/refresh-archive.yml`) checks Gmail every Saturday for recent 5-Bullet Friday messages, imports new issues, rebuilds and audits the archive, commits verified changes, and deploys the updated static site to GitHub Pages. Add the required Gmail Actions secrets as described in [data/newsletters/README.md](data/newsletters/README.md) to activate mailbox access.
 
 ## Deployment
 
