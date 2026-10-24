@@ -145,6 +145,8 @@ export function ArchiveApp() {
   }, []);
 
   const years = useMemo(() => [...new Set(items.map((item) => item.date.slice(0, 4)))].sort().reverse(), [items]);
+  const editionCount = useMemo(() => new Set(items.map((item) => item.date)).size, [items]);
+  const yearRange = years.length ? `${years.at(-1)}—${years[0]?.slice(-2)}` : "—";
   const filtered = useMemo(() => {
     const needle = query.trim().toLowerCase();
     const categories = categoryGroups[activeFilter] ?? [activeFilter];
@@ -175,9 +177,9 @@ export function ArchiveApp() {
           <p className="intro">Books worth underlining. Music worth replaying. Films worth watching. Thousands of recommendations, searchable in one quiet place.</p>
         </div>
         <div className="archive-stats" aria-label="Archive statistics">
-          <div><strong>2,714</strong><span>recommendations</span></div>
-          <div><strong>531</strong><span>Friday editions</span></div>
-          <div><strong>2015—26</strong><span>years covered</span></div>
+          <div><strong>{loading ? "…" : items.length.toLocaleString()}</strong><span>recommendations</span></div>
+          <div><strong>{loading ? "…" : editionCount.toLocaleString()}</strong><span>editions indexed</span></div>
+          <div><strong>{loading ? "…" : yearRange}</strong><span>years covered</span></div>
         </div>
       </section>
 
