@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "issue_date": "2026-10-23",
+  "subject": "5-Bullet Friday — 100 Hours in a Darkness Retreat,  A Musical Triad, The Post-Software World, Mentats of Du ne, and More",
+  "sources": [
+    "gmail"
+  ],
+  "status": "email",
+  "extraction_status": "extracted",
+  "special_edition": false,
+  "bullets": [
+    {
+      "position": 1,
+      "section": "What I’m listening to",
+      "category": "podcast",
+      "title": "Ya Habibi Ta’ala - يا حبيبي تعالَ - Lynn Adib & Zeid Hamdan",
+      "creator": null,
+      "note": "Lynn’s vocals are otherworldly. One of the top comments says it all: “liquid gold.” This is a short clip, and you will play it more than once.\n\n**Harder —** [**Ice Nine Kills - Hip To Be Scared ft. Jacoby Shaddix**](https://www.youtube.com/watch?v=ozOb5FcnDf4)**.** Ice Nine Kills is also the creative force behind the Silver Scream convention in Worcester, Massachusetts. If you missed it this year, you can [learn more about future conventions here](https://www.silverscreamcon.com/). It’s no accident that Worcester is close to Salem, where many attendees go first to get into the proper mood.\n\n**Fungal —** [**Mushroom in the Wild Playing Synth**](https://www.youtube.com/watch?v=LEkvjz50uws)**.** This is wild in every sense of the word. Bioelectrical fluctuations in the mushroom control robotic arms that create music on drum pads. The experiment was funded by the National Lottery through [Arts Council England](https://www.artscouncil.org.uk/ProjectGrants).",
+      "original_url": "https://www.youtube.com/watch?v=eqmWkqh1kt8&list=RDeqmWkqh1kt8&start_radio=1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.youtube.com/watch?v=eqmWkqh1kt8&list=RDeqmWkqh1kt8&start_radio=1"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=ozOb5FcnDf4"
+        },
+        {
+          "type": "other",
+          "url": "https://www.silverscreamcon.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=LEkvjz50uws"
+        },
+        {
+          "type": "other",
+          "url": "https://www.artscouncil.org.uk/ProjectGrants"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "What I’m reading and watching",
+      "category": "article",
+      "title": "What 100 Hours of Dark Retreat Did to My Mind",
+      "creator": null,
+      "note": "Nate is Head of Content for Sam Harris’s Waking Up meditation app and a longtime meditator himself. OGs will remember Nate from his über-popular guest post “[How To Lose 20–30 Pounds In 5 Days: The Extreme Weight Cutting and Rehydration Secrets of UFC Fighters](https://tim.blog/2013/05/06/how-to-cut-weight-ufc/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)” and his contribution to [_The 4-Hour Body_](https://www.amazon.com/dp/030746363X?lv=shuf&tag=offsitoftimfe-20&channelId=1&plpRedirect=mhFallback) chapter “The Meatless Machine II: A 28-Day Experiment.” Hat tip to [Jake Orthwein](https://x.com/JakeOrthwein/status/2112701822263865677), who flagged Nate’s video for me. Pair his piece with [my interview with Dr. Willoughby Britton](https://tim.blog/2023/11/22/dr-willoughby-britton/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf) on the hidden risks of meditation.",
+      "original_url": "https://www.nategreen.org/p/what-100-hours-of-dark-retreat-did",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.nategreen.org/p/what-100-hours-of-dark-retreat-did"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2013/05/06/how-to-cut-weight-ufc/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://www.amazon.com/dp/030746363X?lv=shuf&tag=offsitoftimfe-20&channelId=1&plpRedirect=mhFallback"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/JakeOrthwein/status/2112701822263865677"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2023/11/22/dr-willoughby-britton/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Documentary I’m watching",
+      "category": "video",
+      "title": "Norm: The Tale of Norm Macdonald",
+      "creator": null,
+      "note": "For people who don’t have Netflix, at least check out [this compilation](https://www.youtube.com/watch?v=fD2ZhjQaNmU) of some of Norm’s appearances on late-night shows. To state the obvious, Norm is NSFW.",
+      "original_url": "https://www.netflix.com/title/81611105",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.netflix.com/title/81611105"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=fD2ZhjQaNmU"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "AI buffet I’m exploring",
+      "category": "other",
+      "title": "Adobe, Office, Outlook, ElevenLabs: AI is cloning all of it in Rust",
+      "creator": null,
+      "note": "Check this link. The speed is staggering, and it will all accelerate. AI will make nearly all software free. What is the moat that then remains? Reputation and service-level agreements? Support and services à la Red Hat? The knowledge base of someone like an SAP, with 400,000 companies and 50+ years of data? Something else?  \n​  \n​[**Idealab**](https://idealab.ai/)**.** Bill Gross has started 175+ companies through Idealab. He wrote down 31 of the methods he uses to turn real-world problems into businesses, refined them with AI, and found the output beat his own brainstorming. He can’t build them all, so he’s giving them away: [1.2 million+ business ideas, free](https://idealab.ai/).",
+      "original_url": "https://www.reddit.com/r/ClaudeAI/comments/1x9dl1f/adobe_office_outlook_elevenlabs_ai_is_cloning_all/?solution=5256a22424fd16ec5256a22424fd16ec&js_challenge=1&jsc_token=2824be10929bdc604753c70a67a1c331126c716f3018d2f46475e8683d1f47ab&jsc_orig_r=&share_id=kH69TJRg2pk3EdbMhF4Yq&utm_content=1&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9dl1f/adobe_office_outlook_elevenlabs_ai_is_cloning_all/?solution=5256a22424fd16ec5256a22424fd16ec&js_challenge=1&jsc_token=2824be10929bdc604753c70a67a1c331126c716f3018d2f46475e8683d1f47ab&jsc_orig_r=&share_id=kH69TJRg2pk3EdbMhF4Yq&utm_content=1&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1"
+        },
+        {
+          "type": "other",
+          "url": "https://idealab.ai/"
+        },
+        {
+          "type": "other",
+          "url": "https://idealab.ai/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Podcast changes I’m exploring",
+      "category": "podcast",
+      "title": "Just reply to this tweet, and I’ll read them all",
+      "creator": null,
+      "note": "Thanks! 🙏",
+      "original_url": "https://x.com/tferriss/status/2113733396019232904?s=20",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://x.com/tferriss/status/2113733396019232904?s=20"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Successful people sort through priorities and act upon them, while the unsuccessful see only a fog of chaos.” — Josef Venport, instruction to business trainees, in Mentats of Dune by Brian Herbert & Kevin J. Anderson (2014)",
+      "creator": "Josef Venport, instruction to business trainees, in Mentats of Dune by Brian Herbert & Kevin J. Anderson",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Mentats_of_Dune",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Mentats_of_Dune"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/o4XZ3"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/10/21/qa-with-tim-ai-4-hour-workweek/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    }
+  ]
+}
