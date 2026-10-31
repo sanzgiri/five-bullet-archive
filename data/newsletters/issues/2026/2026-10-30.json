@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "issue_date": "2026-10-30",
+  "subject": "5-Bullet Friday — The Poison Squad, How I Chose a  Surgeon, Air Fryers, and More",
+  "sources": [
+    "gmail"
+  ],
+  "status": "email",
+  "extraction_status": "extracted",
+  "special_edition": false,
+  "bullets": [
+    {
+      "position": 1,
+      "section": "Podcast episode I’m listening to",
+      "category": "podcast",
+      "title": "The Poison Squad",
+      "creator": null,
+      "note": "on the [_Criminal_](https://open.spotify.com/show/3ictIqfumbmEuWdt9xWQp5) podcast. This is a wild listen. Think we could do without the FDA? Think “[all natural](https://tim.blog/2009/02/17/ethical-meat-vs-meat-hype-a-look-at-all-natural-grass-fed-and-other-half-truths/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf)” supplements are automatically better or safer than prescription drugs? Listen to the stories in this episode, and you’ll reconsider.  \n​  \nFrom the description: “In 1902, twelve young men volunteered for a government experiment. They agreed to eat food laced with chemicals like formaldehyde, borax, and salicylic acid every day for breakfast, lunch, and dinner. They were called The Poison Squad.” The reasons behind this experiment are the craziest part of all. Hat tip to [Brendan Gahan](https://x.com/brendangahan) for the recommendation.",
+      "original_url": "https://open.spotify.com/episode/6d9xZl5tFoJP021DJQUJMu",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://open.spotify.com/episode/6d9xZl5tFoJP021DJQUJMu"
+        },
+        {
+          "type": "other",
+          "url": "https://open.spotify.com/show/3ictIqfumbmEuWdt9xWQp5"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2009/02/17/ethical-meat-vs-meat-hype-a-look-at-all-natural-grass-fed-and-other-half-truths/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/brendangahan"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Kitchen gear that I’m loving and using",
+      "category": "other",
+      "title": "Ninja Air Fryer Pro",
+      "creator": null,
+      "note": "This thing is amazing. I was skeptical (“Does ‘air frying’ even make sense?”), but now I’m a true believer. For fast cooking and even faster cleanup, it’s become a go-to in the kitchen. My favorite thing I’ve cooked so far is [Maui Nui Reserve aged rib chops](https://mauinuivenison.com/products/reserve-aged-rib-chop). It’s literally what’s for dinner tonight. Here’s the recipe, if you can call it that: Get the chops to room temp, pat dry, rub on a little olive oil, add Montreal steak rub, then cook for 9 minutes at max temp (400°F). F’ing DELICIOUS, and cleaning is a breeze.",
+      "original_url": "https://www.amazon.com/dp/B0DW4KG8VM?lv=shuf&tag=offsitoftimfe-20&channelId=1&plpRedirect=mhFallback",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://www.amazon.com/dp/B0DW4KG8VM?lv=shuf&tag=offsitoftimfe-20&channelId=1&plpRedirect=mhFallback"
+        },
+        {
+          "type": "other",
+          "url": "https://mauinuivenison.com/products/reserve-aged-rib-chop"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Tools I’m using to vet doctors",
+      "category": "other",
+      "title": "Open Payments",
+      "creator": null,
+      "note": "(official US gov website) shows reported payments from drug and device companies to U.S. doctors. [Doctor Payments Data](https://www.doctorpaymentsdata.org/) makes those records easier to explore, so you might want to start there. Financial ties don’t automatically mean wrongdoing, but they’re worth understanding. Incentives affect all of us, and that includes medical professionals. As Charlie Munger famously said, “Show me the incentive, and I’ll show you the outcome.” I recently used these tools to choose between two surgeons. The doc who wanted to do the minimum effective dose of surgery had $0 in payments, and the doc who wanted to do more extensive procedures and implants had ~$1M in payments, including from the manufacturer of the implants. Again, this doesn’t mean bad behavior, but I was more comfortable with the completely free agent.  \n​  \nIf a great medical professional—one who is known as a thought leader—has few or no conflicts, it’s probably not accidental. Turning down cushy consulting gigs, paid speaking, and related perks to preserve your objectivity isn’t easy. I’ve thought about possibly creating something like a [MacArthur Grant](https://www.macfound.org/about/) to reward those people. What do you think? Let me know [@tferriss](https://twitter.com/tferriss) on X, and add #grant at the end so I can find it.",
+      "original_url": "https://openpaymentsdata.cms.gov/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://openpaymentsdata.cms.gov/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.doctorpaymentsdata.org/"
+        },
+        {
+          "type": "other",
+          "url": "https://www.macfound.org/about/"
+        },
+        {
+          "type": "other",
+          "url": "https://twitter.com/tferriss"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Rare “Hall of Shame” nomination",
+      "category": "other",
+      "title": "I have taken to publicly calling out DNAComplete",
+      "creator": null,
+      "note": "to see if anyone has had a similar experience. Sadly, [I am not alone](https://x.com/tferriss/status/2113359233303666924)!",
+      "original_url": "https://x.com/tferriss/status/2113357184943980810",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://x.com/tferriss/status/2113357184943980810"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/tferriss/status/2113359233303666924"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Game that made me laugh",
+      "category": "other",
+      "title": "Cubicle Escape Artist",
+      "creator": null,
+      "note": "A casual video game based on _The 4-Hour Workweek_? Named after [my first blog](https://x.com/tferriss/status/2100310083456618529/photo/1)? Never thought I’d see such a thing. “Decline meetings, tango past interruptions, automate a shortcut, reclaim your Friday.” You can play it in 60 seconds. You can also deploy and publish your own games on [Spacefast](https://spacefast.com/), an agent-native hosting and publishing platform. Thanks to [@dlprager](https://x.com/dlprager) for the find.",
+      "original_url": "https://cubicle-escape-artist.space.fast/",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://cubicle-escape-artist.space.fast/"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/tferriss/status/2100310083456618529/photo/1"
+        },
+        {
+          "type": "other",
+          "url": "https://spacefast.com/"
+        },
+        {
+          "type": "other",
+          "url": "https://x.com/dlprager"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Quote I’m pondering",
+      "category": "quote",
+      "title": "“Believe those who are seeking the truth, doubt those who find it.” — André Gide (Click to share on X.)",
+      "creator": "André Gide",
+      "note": null,
+      "original_url": "https://en.wikipedia.org/wiki/Andr%C3%A9_Gide",
+      "links": [
+        {
+          "type": "original",
+          "url": "https://en.wikipedia.org/wiki/Andr%C3%A9_Gide"
+        },
+        {
+          "type": "other",
+          "url": "https://ctt.ec/k4Vx0"
+        },
+        {
+          "type": "other",
+          "url": "https://tim.blog/2026/10/27/jacques-pepin/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        }
+      ]
+    }
+  ]
+}
